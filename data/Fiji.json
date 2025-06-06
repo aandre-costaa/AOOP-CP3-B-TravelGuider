@@ -1,0 +1,2572 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suva Adventures- Jet Ski Suva",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Rewa",
+        "city": "Suva",
+        "suburb": "Raiwai",
+        "street": "Beach Road",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-12",
+        "lon": 178.4548621,
+        "lat": -18.1497305,
+        "formatted": "Suva Adventures- Jet Ski Suva, Beach Road, Suva, Fiji",
+        "address_line1": "Suva Adventures- Jet Ski Suva",
+        "address_line2": "Beach Road, Suva, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Suva Adventures- Jet Ski Suva",
+            "phone": 7770063,
+            "osm_id": 6751278087,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Beach Road",
+            "opening_hours": "Mo-Su 07:00-17:00"
+          }
+        },
+        "opening_hours": "Mo-Su 07:00-17:00",
+        "contact": {
+          "phone": 7770063
+        },
+        "place_id": "511476f63a8e4e66405915bdf2bc542632c0f00103f901075468920100000092031d5375766120416476656e74757265732d204a657420536b692053757661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.4548621,
+          -18.149730500471453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kula Eco Park",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "city": "Sigatoka",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.4117875,
+        "lat": -18.1197583,
+        "formatted": "Kula Eco Park, Queens Road, Sigatoka, Fiji",
+        "address_line1": "Kula Eco Park",
+        "address_line2": "Queens Road, Sigatoka, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kula Eco Park",
+            "osm_id": 2312784537,
+            "tourism": "attraction",
+            "website": "https://www.fijiwild.com/",
+            "osm_type": "n",
+            "addr:city": "Sigatoka",
+            "wheelchair": "limited",
+            "addr:street": "Queens Road",
+            "wheelchair:description": "größtenteils barrierefrei, rollstuhlgerechtes WC ?"
+          }
+        },
+        "website": "https://www.fijiwild.com/",
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited",
+            "description": "größtenteils barrierefrei, rollstuhlgerechtes WC ?"
+          }
+        },
+        "place_id": "51daacfa5c2d2d6640598cf3df7aa81e32c0f00103f901994ada890000000092030d4b756c612045636f205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4117875,
+          -18.1197583004719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tavuni Hill Fort",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "city": "Toga",
+        "street": "Kavanagasau Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.5410655,
+        "lat": -18.1302182,
+        "formatted": "Tavuni Hill Fort, Kavanagasau Road, Toga, Fiji",
+        "address_line1": "Tavuni Hill Fort",
+        "address_line2": "Kavanagasau Road, Toga, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tavuni Hill Fort",
+            "osm_id": 7305052286,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Fr 09:00-16:30; Sa 09:00-01:00"
+          }
+        },
+        "opening_hours": "Mo-Fr 09:00-16:30; Sa 09:00-01:00",
+        "place_id": "51cd6f98685031664059be5ee0fa552132c0f00103f9017e406ab301000000920310546176756e692048696c6c20466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.54106549999997,
+          -18.130218200471738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Harbour Arts Village",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Serua",
+        "city": "Pacific Harbour",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-13",
+        "lon": 178.0760164195944,
+        "lat": -18.2495915,
+        "formatted": "Pacific Harbour Arts Village, Queens Road, Pacific Harbour, Fiji",
+        "address_line1": "Pacific Harbour Arts Village",
+        "address_line2": "Queens Road, Pacific Harbour, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pacific Harbour Arts Village",
+            "osm_id": 196467421,
+            "landuse": "retail",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51be83fcb96e4266405996e0833ae53f32c0f00102f901dddab50b0000000092031c5061636966696320486172626f757220417274732056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.0760164195944,
+          -18.249591500469784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "catholic mission",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ra",
+        "city": "Naiserelagi",
+        "street": "King's Highway",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-11",
+        "lon": 178.2278834477136,
+        "lat": -17.46965045,
+        "formatted": "catholic mission, King's Highway, Naiserelagi, Fiji",
+        "address_line1": "catholic mission",
+        "address_line2": "King's Highway, Naiserelagi, Fiji",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "catholic mission",
+            "osm_id": 400658203,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5158673ad24a4766405952570d033b7831c0f00102f9011b8fe11700000000920310636174686f6c6963206d697373696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.22788344771357,
+          -17.469650450474838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garden of the Sleeping Giant",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.46921517861853,
+        "lat": -17.711618950000002,
+        "formatted": "Garden of the Sleeping Giant, Nadi, Ba, Fiji",
+        "address_line1": "Garden of the Sleeping Giant",
+        "address_line2": "Nadi, Ba, Fiji",
+        "categories": [
+          "access_limited",
+          "access_limited.customers",
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Garden of the Sleeping Giant",
+            "access": "customers",
+            "osm_id": 672809823,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "restrictions": {
+          "access": "customers"
+        },
+        "place_id": "5182de8ccf032f6640594281d7a82cb631c0f00102f9015f431a280000000092031c47617264656e206f662074686520536c656570696e67204769616e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.46921517861853,
+          -17.71161895047522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Parliament House",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Rewa",
+        "city": "Suva",
+        "suburb": "The Domain",
+        "street": "Constitution Avenue",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-12",
+        "lon": 178.424111,
+        "lat": -18.1456042,
+        "formatted": "Old Parliament House, Constitution Avenue, Suva, Fiji",
+        "address_line1": "Old Parliament House",
+        "address_line2": "Constitution Avenue, Suva, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Old Parliament House",
+            "osm_id": 895443883,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Government Buildings"
+          }
+        },
+        "description": "Government Buildings",
+        "place_id": "51f75b3b51924d664059772f1f51462532c0f00103f901ab635f35000000009203144f6c64205061726c69616d656e7420486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.424111,
+          -18.14560420047152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Bula Waterpark",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "street": "Denarau Island Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.37215303657644,
+        "lat": -17.7716903,
+        "formatted": "Big Bula Waterpark, Denarau Island Road, Nadi, Fiji",
+        "address_line1": "Big Bula Waterpark",
+        "address_line2": "Denarau Island Road, Nadi, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Big Bula Waterpark",
+            "osm_id": 1001691549,
+            "tourism": "attraction",
+            "alt_name": "Adventure Waterpark",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Adventure Waterpark"
+        },
+        "place_id": "517f267cade82b664059442edb7e8dc531c0f00102f9019d99b43b000000009203124269672042756c612057617465727061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.37215303657646,
+          -17.771690300475044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natural Pools and Waterfalls",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Naitasiri",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-09",
+        "lon": 178.4730415,
+        "lat": -18.0578329,
+        "formatted": "Natural Pools and Waterfalls, Naitasiri, Fiji",
+        "address_line1": "Natural Pools and Waterfalls",
+        "address_line2": "Naitasiri, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Natural Pools and Waterfalls",
+            "osm_id": 4551574653,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "place_id": "51d284ed27234f664059c6291023ce0e32c0f00103f9017d844b0f0100000092031c4e61747572616c20506f6f6c7320616e6420576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.47304149999997,
+          -18.057832900472725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zip Fiji",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "city": "Bavu",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.2888302,
+        "lat": -17.9718523,
+        "formatted": "Zip Fiji, Queens Road, Bavu, Fiji",
+        "address_line1": "Zip Fiji",
+        "address_line2": "Queens Road, Bavu, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zip Fiji",
+            "osm_id": 4567972806,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511be3d4183e29664059aa13f74fcbf831c0f00103f901c6bb4510010000009203085a69702046696a69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.28883019999998,
+          -17.971852300473678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigatoka Sand Dunes",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "city": "Volivoli Village",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.4903054,
+        "lat": -18.1657709,
+        "formatted": "Sigatoka Sand Dunes, Queens Road, Volivoli Village, Fiji",
+        "address_line1": "Sigatoka Sand Dunes",
+        "address_line2": "Queens Road, Volivoli Village, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sigatoka Sand Dunes",
+            "osm_id": 4723408191,
+            "name:en": "Sigatoka Sand Dunes",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Sigatoka Sand Dunes"
+        },
+        "place_id": "51ac41f394b02f664059fd2634f66f2a32c0f00103f9013f7d89190100000092031353696761746f6b612053616e642044756e6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4903054,
+          -18.165770900471205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golf",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Serua",
+        "city": "Pacific Harbour",
+        "street": "Fairway Place",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-13",
+        "lon": 178.0728477,
+        "lat": -18.2417164,
+        "formatted": "Golf, Fairway Place, Pacific Harbour, Fiji",
+        "address_line1": "Golf",
+        "address_line2": "Fairway Place, Pacific Harbour, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Golf",
+            "osm_id": 4780830124,
+            "name:en": "Golf",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Golf"
+        },
+        "place_id": "51d822b3c45442664059d5ec4220e13d32c0f00103f901acadf51c01000000920304476f6c66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.0728477,
+          -18.241716400469915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigatoka Sand Dunes Entrance and Visitors Centre",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "city": "Mataqe",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.4803349,
+        "lat": -18.1640619,
+        "formatted": "Sigatoka Sand Dunes Entrance and Visitors Centre, Queens Road, Mataqe, Fiji",
+        "address_line1": "Sigatoka Sand Dunes Entrance and Visitors Centre",
+        "address_line2": "Queens Road, Mataqe, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sigatoka Sand Dunes Entrance and Visitors Centre",
+            "osm_id": 4881278823,
+            "name:en": "Sigatoka Sand Dunes Entrance and Visitors Centre",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Sigatoka Sand Dunes Entrance and Visitors Centre"
+        },
+        "place_id": "5113d44be75e2f664059250bf1f5ff2932c0f00103f9016767f2220100000092033053696761746f6b612053616e642044756e657320456e7472616e636520616e642056697369746f72732043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.48033489999997,
+          -18.16406190047123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KULA Wild Advenure Park",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "city": "Korotogo",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.5555403,
+        "lat": -18.1754674,
+        "formatted": "KULA Wild Advenure Park, Queens Road, Korotogo, Fiji",
+        "address_line1": "KULA Wild Advenure Park",
+        "address_line2": "Queens Road, Korotogo, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "KULA Wild Advenure Park",
+            "osm_id": 4881280921,
+            "name:en": "KULA Wild Advenure Park",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "KULA Wild Advenure Park"
+        },
+        "place_id": "51858373fcc6316640598c897a6eeb2c32c0f00103f901996ff222010000009203174b554c412057696c6420416476656e757265205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.5555403,
+          -18.17546740047105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savala Island",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Lautoka",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.3821292,
+        "lat": -17.5812695,
+        "formatted": "Savala Island, Lautoka, Ba, Fiji",
+        "address_line1": "Savala Island",
+        "address_line2": "Lautoka, Ba, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Savala Island",
+            "osm_id": 4950191122,
+            "name:en": "Savala Island",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Savala Island"
+        },
+        "place_id": "51181b04673a2c66405911b4f613ce9431c0f00103f90112ec0d270100000092030d536176616c612049736c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3821292,
+          -17.581269500475234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zipline and Orchid Waterfalls",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "street": "Sabeto Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.5258139,
+        "lat": -17.7146878,
+        "formatted": "Zipline and Orchid Waterfalls, Sabeto Road, Nadi, Fiji",
+        "address_line1": "Zipline and Orchid Waterfalls",
+        "address_line2": "Sabeto Road, Nadi, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zipline and Orchid Waterfalls",
+            "osm_id": 4952478655,
+            "name:en": "Zipline and Orchid Waterfalls",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Zipline and Orchid Waterfalls"
+        },
+        "place_id": "510809ac77d33066405926e499c7f5b631c0f00103f901bfd330270100000092031d5a69706c696e6520616e64204f726368696420576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.5258139,
+          -17.71468780047521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golf Course",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "street": "Denarau Island Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.3684546,
+        "lat": -17.7755478,
+        "formatted": "Golf Course, Denarau Island Road, Nadi, Fiji",
+        "address_line1": "Golf Course",
+        "address_line2": "Denarau Island Road, Nadi, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Golf Course",
+            "osm_id": 4957866521,
+            "name:en": "Golf Course",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Golf Course"
+        },
+        "place_id": "51f1214d61ca2b6640596286f74c8ac631c0f00103f901190a83270100000092030b476f6c6620436f75727365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.36845459999998,
+          -17.775547800475017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limestone Caves",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Tailevu",
+        "street": "King's Highway",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-14",
+        "lon": 178.4061134,
+        "lat": -17.7627609,
+        "formatted": "Limestone Caves, King's Highway, Tailevu, Fiji",
+        "address_line1": "Limestone Caves",
+        "address_line2": "King's Highway, Tailevu, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Limestone Caves",
+            "osm_id": 5129446621,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f46e87e1fe4c6640593e35624c44c331c0f00103f901dd24bd310100000092030f4c696d6573746f6e65204361766573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.40611339999998,
+          -17.76276090047508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nausatoka Village",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Tailevu",
+        "city": "Nasautoka Village",
+        "street": "King's Highway",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-14",
+        "lon": 178.3807061,
+        "lat": -17.7270806,
+        "formatted": "Nausatoka Village, King's Highway, Nasautoka Village, Fiji",
+        "address_line1": "Nausatoka Village",
+        "address_line2": "King's Highway, Nasautoka Village, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nausatoka Village",
+            "osm_id": 5129446722,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51681c8fbe2e4c664059d29848f421ba31c0f00103f9014225bd31010000009203114e61757361746f6b612056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.3807061,
+          -17.727080600475183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Animal Sanctuary",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Natawarau Village",
+        "street": "King's Highway",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.5607176,
+        "lat": -17.5133059,
+        "formatted": "Animal Sanctuary, King's Highway, Natawarau Village, Fiji",
+        "address_line1": "Animal Sanctuary",
+        "address_line2": "King's Highway, Natawarau Village, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Animal Sanctuary",
+            "osm_id": 5129627021,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5154490966f1316640595562f703688331c0f00103f9018de5bf3101000000920310416e696d616c2053616e637475617279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.56071759999998,
+          -17.513305900475036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natural Pools and Waterfalls",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Naitasiri",
+        "street": "Colo-I-Suva Park Road",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-09",
+        "lon": 178.471841,
+        "lat": -18.0591211,
+        "formatted": "Natural Pools and Waterfalls, Colo-I-Suva Park Road, Naitasiri, Fiji",
+        "address_line1": "Natural Pools and Waterfalls",
+        "address_line2": "Colo-I-Suva Park Road, Naitasiri, Fiji",
+        "categories": [
+          "amenity",
+          "amenity.drinking_water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Natural Pools and Waterfalls",
+            "osm_id": 5131762930,
+            "amenity": "water_point",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512ffd4b52194f664059a508798f220f32c0f00103f901f27ce0310100000092031c4e61747572616c20506f6f6c7320616e6420576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.471841,
+          -18.059121100472698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uru’s Waterfall",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Tailevu",
+        "street": "King's Highway",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-14",
+        "lon": 178.4360601,
+        "lat": -17.7820283,
+        "formatted": "Uru’s Waterfall, King's Highway, Tailevu, Fiji",
+        "address_line1": "Uru’s Waterfall",
+        "address_line2": "King's Highway, Tailevu, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Uru’s Waterfall",
+            "osm_id": 6397067585,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e4924f34f44d6640592d16b70133c831c0f00103f90141814b7d01000000920311557275e280997320576174657266616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.43606009999996,
+          -17.78202830047501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakalavo",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "street": "Cagasi Trek",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.5359911,
+        "lat": -18.0808667,
+        "formatted": "Nakalavo, Cagasi Trek, Nadroga-Navosa, Fiji",
+        "address_line1": "Nakalavo",
+        "address_line2": "Cagasi Trek, Nadroga-Navosa, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nakalavo",
+            "osm_id": 6482166786,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514eaeced6263166405952dd19aeb31432c0f00103f90102045e82010000009203084e616b616c61766f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.5359911,
+          -18.080866700472434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namotu Island",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.1833865,
+        "lat": -17.84417,
+        "formatted": "Namotu Island, Nadroga-Navosa, Fiji",
+        "address_line1": "Namotu Island",
+        "address_line2": "Nadroga-Navosa, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Namotu Island",
+            "osm_id": 6483000286,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e5805d4dde25664059974d70861bd831c0f00103f901debb6a820100000092030d4e616d6f74752049736c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.1833865,
+          -17.844170000474687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rise beyond the Reef",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "street": "Sabeto Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.4755327,
+        "lat": -17.7172391,
+        "formatted": "Rise beyond the Reef, Sabeto Road, Nadi, Fiji",
+        "address_line1": "Rise beyond the Reef",
+        "address_line2": "Sabeto Road, Nadi, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rise beyond the Reef",
+            "osm_id": 6685751787,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b7555a90372f66405919f44ffb9cb731c0f00103f901eb79808e0100000092031452697365206265796f6e64207468652052656566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4755327,
+          -17.717239100475215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Total Petrol Tanks",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Lautoka",
+        "street": "Vuda Point Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.3923608,
+        "lat": -17.6814464,
+        "formatted": "Total Petrol Tanks, Vuda Point Road, Lautoka, Fiji",
+        "address_line1": "Total Petrol Tanks",
+        "address_line2": "Vuda Point Road, Lautoka, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Total Petrol Tanks",
+            "osm_id": 6685964385,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5170873c388e2c664059a804744573ae31c0f00103f90161b8838e01000000920312546f74616c20506574726f6c2054616e6b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3923608,
+          -17.681446400475267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mobil Petrol Tanks",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Lautoka",
+        "street": "Vuda Point Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.3896527,
+        "lat": -17.68203,
+        "formatted": "Mobil Petrol Tanks, Vuda Point Road, Lautoka, Fiji",
+        "address_line1": "Mobil Petrol Tanks",
+        "address_line2": "Vuda Point Road, Lautoka, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mobil Petrol Tanks",
+            "osm_id": 6685964386,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518a69f008782c664059a1eea28499ae31c0f00103f90162b8838e010000009203124d6f62696c20506574726f6c2054616e6b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.3896527,
+          -17.68203000047527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vuda village",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Lautoka",
+        "street": "Viseisei Village Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.4099063,
+        "lat": -17.6878857,
+        "formatted": "Vuda village, Viseisei Village Road, Lautoka, Fiji",
+        "address_line1": "Vuda village",
+        "address_line2": "Viseisei Village Road, Lautoka, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vuda village",
+            "osm_id": 6687457288,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51931dd1f31d2d66405964edfa4619b031c0f00103f90108809a8e0100000092030c567564612076696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.40990629999996,
+          -17.687885700475263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natovi landing",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Tailevu",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-14",
+        "lon": 178.5863576,
+        "lat": -17.6741736,
+        "formatted": "Natovi landing, Tailevu, Fiji",
+        "address_line1": "Natovi landing",
+        "address_line2": "Tailevu, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Natovi landing",
+            "osm_id": 6694682687,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515a780371c3526640592cde1da496ac31c0f00103f9013fc0088f0100000092030e4e61746f7669206c616e64696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.58635759999999,
+          -17.67417360047527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boat to Levuka (O",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Tailevu",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-14",
+        "lon": 178.5866435,
+        "lat": -17.6746195,
+        "formatted": "Boat to Levuka (Ovalau island), Tailevu, Fiji",
+        "address_line1": "Boat to Levuka (Ovalau island)",
+        "address_line2": "Tailevu, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boat to Levuka (O",
+            "osm_id": 6694702485,
+            "name:en": "Boat to Levuka (Ovalau island)",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Boat to Levuka (Ovalau island)"
+        },
+        "place_id": "5126dd96c8c55266405902c913ddb3ac31c0f00103f901950d098f01000000920311426f617420746f204c6576756b6120284f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.58664349999998,
+          -17.67461950047528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cawaci",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.8132939,
+        "lat": -17.633057,
+        "formatted": "Cawaci, Lomaiviti, Fiji",
+        "address_line1": "Cawaci",
+        "address_line2": "Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cawaci",
+            "osm_id": 6768447185,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5129d1ed80065a664059938b090610a231c0f00103f901d14e6e9301000000920306436177616369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.8132939,
+          -17.633057000475286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jet Ski Suva",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Rewa",
+        "city": "Suva",
+        "suburb": "Laucala Bay",
+        "street": "Laucala Bay Road",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-12",
+        "lon": 178.454797,
+        "lat": -18.1497655,
+        "formatted": "Jet Ski Suva, Laucala Bay Road, Suva, Fiji",
+        "address_line1": "Jet Ski Suva",
+        "address_line2": "Laucala Bay Road, Suva, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jet Ski Suva",
+            "osm_id": 6768994685,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51352a70b28d4e6640590e982608572632c0f00103f9017da976930100000092030c4a657420536b692053757661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.454797,
+          -18.149765500471453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wailailai Village",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "city": "Levuka",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.830675,
+        "lat": -17.671748,
+        "formatted": "Wailailai Village, Levuka, Lomaiviti, Fiji",
+        "address_line1": "Wailailai Village",
+        "address_line2": "Levuka, Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wailailai Village",
+            "osm_id": 6770859285,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515ad3bce3945a664059d8314dadf7ab31c0f00103f901151d9393010000009203115761696c61696c61692056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.83067499999999,
+          -17.671748000475276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gun Rock",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "city": "Levuka",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.8312728,
+        "lat": -17.6683973,
+        "formatted": "Gun Rock, Levuka, Lomaiviti, Fiji",
+        "address_line1": "Gun Rock",
+        "address_line2": "Levuka, Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gun Rock",
+            "osm_id": 6772863391,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bc416ac9995a664059a746e2151cab31c0f00103f9019fb1b1930100000092030847756e20526f636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.83127279999997,
+          -17.668397300475274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Draiba Village",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "city": "Levuka",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.8357962,
+        "lat": -17.6954016,
+        "formatted": "Draiba Village, Levuka, Lomaiviti, Fiji",
+        "address_line1": "Draiba Village",
+        "address_line2": "Levuka, Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Draiba Village",
+            "osm_id": 6775808387,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e023acd7be5a66405995a0dbd605b231c0f00103f90183a1de930100000092030e4472616962612056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.8357962,
+          -17.695401600475254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stranded Sinu-i-wasa-tolu Ferry",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.8271238,
+        "lat": -17.6506824,
+        "formatted": "Stranded Sinu-i-wasa-tolu Ferry, Lomaiviti, Fiji",
+        "address_line1": "Stranded Sinu-i-wasa-tolu Ferry",
+        "address_line2": "Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stranded Sinu-i-wasa-tolu Ferry",
+            "osm_id": 6775810786,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c9d754cc775a664059c81f2e1f93a631c0f00103f901e2aade930100000092031f537472616e6465642053696e752d692d776173612d746f6c75204665727279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.8271238,
+          -17.65068240047529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "View towards Suva",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Rewa",
+        "city": "Lami",
+        "street": "Mt. Karoromba Trail",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-12",
+        "lon": 178.3821913,
+        "lat": -18.0858686,
+        "formatted": "View towards Suva, Mt. Karoromba Trail, Lami, Fiji",
+        "address_line1": "View towards Suva",
+        "address_line2": "Mt. Karoromba Trail, Lami, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "View towards Suva",
+            "osm_id": 6824289385,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511bca3fe93a4c66405935c80e7cfb1532c0f00103f9016964c296010000009203115669657720746f77617264732053757661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.38219130000002,
+          -18.085868600472356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ovalau Club",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "city": "Levuka",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.8332869,
+        "lat": -17.6816098,
+        "formatted": "Ovalau Club, Levuka, Lomaiviti, Fiji",
+        "address_line1": "Ovalau Club",
+        "address_line2": "Levuka, Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ovalau Club",
+            "osm_id": 6883877339,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ecf54949aa5a664059a3acd9fa7dae31c0f00103f901dba14f9a0100000092030b4f76616c617520436c7562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.83328689999996,
+          -17.681609800475268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cession Monument",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "city": "Levuka",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.8364711,
+        "lat": -17.6901728,
+        "formatted": "Cession Monument, Levuka, Lomaiviti, Fiji",
+        "address_line1": "Cession Monument",
+        "address_line2": "Levuka, Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cession Monument",
+            "osm_id": 7314113085,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5193510a5fc45a66405946a1262aafb031c0f00103f9013d82f4b30100000092031043657373696f6e204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.8364711,
+          -17.69017280047526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levuka Town Council",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "city": "Levuka",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.8333234,
+        "lat": -17.6815776,
+        "formatted": "Levuka Town Council, Levuka, Lomaiviti, Fiji",
+        "address_line1": "Levuka Town Council",
+        "address_line2": "Levuka, Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Levuka Town Council",
+            "osm_id": 7314295885,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51babfd595aa5a6640593aba9fde7bae31c0f00103f9014d4cf7b3010000009203134c6576756b6120546f776e20436f756e63696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.83332339999998,
+          -17.681577600475272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vatia wharf",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Natunuku",
+        "street": "King's Highway",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.7618102,
+        "lat": -17.3979525,
+        "formatted": "Vatia wharf, King's Highway, Natunuku, Fiji",
+        "address_line1": "Vatia wharf",
+        "address_line2": "King's Highway, Natunuku, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vatia wharf",
+            "osm_id": 9044593717,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514cd8c8bf603866405921e60e37e06531c0f00103f901358c191b0200000092030b5661746961207768617266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.7618102,
+          -17.397952500474393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaabi's point",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.721406,
+        "lat": -17.8062634,
+        "formatted": "Jaabi's point, Lomaiviti, Fiji",
+        "address_line1": "Jaabi's point",
+        "address_line2": "Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jaabi's point",
+            "osm_id": 10233864968,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516c2409c215576640595d00394767ce31c0f00103f9010863fc610200000092030d4a61616269277320706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.721406,
+          -17.806263400474894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sleeping Giant Zipline",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "street": "Holika Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.5035262,
+        "lat": -17.7559169,
+        "formatted": "Sleeping Giant Zipline, Holika Road, Nadi, Fiji",
+        "address_line1": "Sleeping Giant Zipline",
+        "address_line2": "Holika Road, Nadi, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sleeping Giant Zipline",
+            "osm_id": 10996626911,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bb35fae21c30664059c1081ec583c131c0f00103f901df35738f02000000920316536c656570696e67204769616e74205a69706c696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.50352619999998,
+          -17.75591690047509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natural Pools and Waterfalls",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Naitasiri",
+        "street": "Waterfall Track",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-09",
+        "lon": 178.4700251,
+        "lat": -18.060438,
+        "formatted": "Natural Pools and Waterfalls, Waterfall Track, Naitasiri, Fiji",
+        "address_line1": "Natural Pools and Waterfalls",
+        "address_line2": "Waterfall Track, Naitasiri, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Natural Pools and Waterfalls",
+            "osm_id": 12069142805,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51911914720a4f664059427763dd780f32c0f00103f901158160cf0200000092031c4e61747572616c20506f6f6c7320616e6420576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.47002509999996,
+          -18.060438000472693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natural Pools and Waterfalls",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Naitasiri",
+        "street": "Colo-I-Suva Park Road",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-09",
+        "lon": 178.4698762,
+        "lat": -18.0614478,
+        "formatted": "Natural Pools and Waterfalls, Colo-I-Suva Park Road, Naitasiri, Fiji",
+        "address_line1": "Natural Pools and Waterfalls",
+        "address_line2": "Colo-I-Suva Park Road, Naitasiri, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Natural Pools and Waterfalls",
+            "osm_id": 12069142806,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516505d039094f664059f970050bbb0f32c0f00103f901168160cf0200000092031c4e61747572616c20506f6f6c7320616e6420576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.46987619999996,
+          -18.06144780047268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Togoru Beach",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Namosi",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-10",
+        "lon": 178.1968716,
+        "lat": -18.2174817,
+        "formatted": "Togoru Beach, Queens Road, Namosi, Fiji",
+        "address_line1": "Togoru Beach",
+        "address_line2": "Queens Road, Namosi, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Togoru Beach",
+            "osm_id": 12097792730,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 200
+          }
+        },
+        "place_id": "515b70abc54c46664059a2ff76e1ac3732c0f00103f901daaa15d10200000092030c546f676f7275204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.19687159999998,
+          -18.217481700470337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakabuta - Lapita Pottery Village",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "city": "Sigatoka",
+        "street": "Sigatoka Valley Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.5222812,
+        "lat": -18.1107032,
+        "formatted": "Nakabuta - Lapita Pottery Village, Sigatoka Valley Road, Sigatoka, Fiji",
+        "address_line1": "Nakabuta - Lapita Pottery Village",
+        "address_line2": "Sigatoka Valley Road, Sigatoka, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nakabuta - Lapita Pottery Village",
+            "osm_id": 12404340901,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511a2a1087b630664059ff96810b571c32c0f00103f901a5385be3020000009203214e616b6162757461202d204c617069746120506f74746572792056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.5222812,
+          -18.110703200472013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "street": "Sabeto Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.46909105,
+        "lat": -17.713161550000002,
+        "formatted": "Sabeto Road, Nadi, Fiji",
+        "address_line1": "Sabeto Road",
+        "address_line2": "Nadi, Fiji",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 672809837,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5114d33bcb022f664059440e60c191b631c0f00102f9016d431a2800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.46909104999997,
+          -17.71316155047522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Lautoka",
+        "street": "Field 40 Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.4359579,
+        "lat": -17.6313981,
+        "formatted": "Field 40 Road, Lautoka, Fiji",
+        "address_line1": "Field 40 Road",
+        "address_line2": "Lautoka, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4024047067,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51d95dfb5df32d664059434c504ea3a131c0f00103f901db15daef00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.43595789999998,
+          -17.63139810047529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "street": "Sabeto Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.4679464,
+        "lat": -17.7103197,
+        "formatted": "Sabeto Road, Nadi, Fiji",
+        "address_line1": "Sabeto Road",
+        "address_line2": "Nadi, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6300579862,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 180
+          }
+        },
+        "place_id": "51fc88ba6af92e664059de3e0b83d7b531c0f00103f90116388b7701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.46794639999996,
+          -17.710319700475218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Ba",
+        "city": "Nadi",
+        "street": "Sabeto Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-01",
+        "lon": 177.4672048,
+        "lat": -17.7121542,
+        "formatted": "Sabeto Road, Nadi, Fiji",
+        "address_line1": "Sabeto Road",
+        "address_line2": "Nadi, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6300580033,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "0-360"
+          }
+        },
+        "place_id": "5118117b57f32e66405906c0d8bc4fb631c0f00103f901c1388b7701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.4672048,
+          -17.71215420047522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "墓地",
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Eastern",
+        "county": "Lomaiviti",
+        "iso3166_2": "FJ-E",
+        "iso3166_2_sublevel": "FJ-06",
+        "lon": 178.8165375,
+        "lat": -17.6351784,
+        "formatted": "墓地, Lomaiviti, Fiji",
+        "address_line1": "墓地",
+        "address_line2": "Lomaiviti, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6479108385,
+            "name:zh": "墓地",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "zh": "墓地"
+        },
+        "place_id": "51a54e4013215a664059bf2a390d9ba231c0f00103f90121592f8201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.8165375,
+          -17.635178400475294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.649245,
+        "lat": -18.1945261,
+        "formatted": "Queens Road, Nadroga-Navosa, Fiji",
+        "address_line1": "Queens Road",
+        "address_line2": "Nadroga-Navosa, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6608825041,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "S"
+          }
+        },
+        "place_id": "51ed42739dc63466405981bd6776cc3132c0f00103f901d1aaea8901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.64924499999998,
+          -18.194526100470743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Western",
+        "county": "Nadroga-Navosa",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-W",
+        "iso3166_2_sublevel": "FJ-08",
+        "lon": 177.6489003,
+        "lat": -18.1946522,
+        "formatted": "Queens Road, Nadroga-Navosa, Fiji",
+        "address_line1": "Queens Road",
+        "address_line2": "Nadroga-Navosa, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6608825043,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "S"
+          }
+        },
+        "place_id": "51abdb8fcac334664059c41d03bad43132c0f00103f901d3aaea8901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.6489003,
+          -18.194652200470742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Naitasiri",
+        "street": "Waterfall Track",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-09",
+        "lon": 178.4653388,
+        "lat": -18.058289,
+        "formatted": "Waterfall Track, Naitasiri, Fiji",
+        "address_line1": "Waterfall Track",
+        "address_line2": "Naitasiri, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10235063181,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 100
+          }
+        },
+        "place_id": "51eaf1310ee44e6640592ebf2607ec0e32c0f00103f9018dab0e6202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.46533879999998,
+          -18.058289000472705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Fiji",
+        "country_code": "fj",
+        "state": "Central",
+        "county": "Serua",
+        "city": "Pacific Harbour",
+        "street": "Queens Road",
+        "iso3166_2": "FJ-C",
+        "iso3166_2_sublevel": "FJ-13",
+        "lon": 178.0677869,
+        "lat": -18.2550903,
+        "formatted": "Queens Road, Pacific Harbour, Fiji",
+        "address_line1": "Queens Road",
+        "address_line2": "Pacific Harbour, Fiji",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12076502414,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture",
+            "artwork_subject": "Bird"
+          }
+        },
+        "artwork": {
+          "artwork_subject": "Bird",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "511bd36e4f2b42664059460b12994d4132c0f00103f9018ecdd0cf02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.06778689999996,
+          -18.255090300469668
+        ]
+      }
+    }
+  ]
+}

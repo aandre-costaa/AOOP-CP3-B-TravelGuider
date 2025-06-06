@@ -1,0 +1,5497 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Wētā Cave",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6020",
+        "suburb": "Maupuia",
+        "street": "Weka Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8242512,
+        "lat": -41.3063486,
+        "state_code": "WGN",
+        "formatted": "The Wētā Cave, Weka Street, Maupuia, Wellington 6020, New Zealand",
+        "address_line1": "The Wētā Cave",
+        "address_line2": "Weka Street, Maupuia, Wellington 6020, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Wētā Cave",
+            "phone": "+6449094035",
+            "osm_id": 838495427,
+            "tourism": "attraction",
+            "website": "https://tours.wetaworkshop.com/wetacave",
+            "osm_type": "n",
+            "addr:street": "Weka Street",
+            "opening_hours": "Mo-Su 09:00-17:30"
+          }
+        },
+        "website": "https://tours.wetaworkshop.com/wetacave",
+        "opening_hours": "Mo-Su 09:00-17:30",
+        "contact": {
+          "phone": "+6449094035"
+        },
+        "place_id": "5109760d4460da654059bc4a536e36a744c0f00103f901c36cfa310000000092030f5468652057c49374c4812043617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.82425119999996,
+          -41.30634860102643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlucci Land",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6023",
+        "suburb": "Ōwhiro Bay",
+        "street": "Happy Valley Road",
+        "housenumber": "277",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7569724,
+        "lat": -41.3300686,
+        "state_code": "WGN",
+        "formatted": "Carlucci Land, 277 Happy Valley Road, Ōwhiro Bay, Wellington 6023, New Zealand",
+        "address_line1": "Carlucci Land",
+        "address_line2": "277 Happy Valley Road, Ōwhiro Bay, Wellington 6023, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Carlucci Land",
+            "phone": "+64 4 383 7054",
+            "osm_id": 4792002526,
+            "tourism": "attraction",
+            "website": "https://carlucciland.nz/",
+            "osm_type": "n",
+            "addr:street": "Happy Valley Road",
+            "addr:suburb": "Ōwhiro Bay",
+            "addr:postcode": 6023,
+            "opening_hours": "Mo-Su 09:30-21:00",
+            "addr:housenumber": 277,
+            "ref:linz:address_id": 1635989
+          }
+        },
+        "website": "https://carlucciland.nz/",
+        "opening_hours": "Mo-Su 09:30-21:00",
+        "contact": {
+          "phone": "+64 4 383 7054"
+        },
+        "place_id": "5130bf2e1e39d86540597e6c1bb03faa44c0f00103f901de27a01d0100000092030d4361726c75636369204c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7569724,
+          -41.33006860102704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Island Bay Marine Education Centre",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6023",
+        "suburb": "Houghton Bay",
+        "street": "The Esplanade",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7745045,
+        "lat": -41.3444898,
+        "state_code": "WGN",
+        "formatted": "Island Bay Marine Education Centre, The Esplanade, Houghton Bay, Wellington 6023, New Zealand",
+        "address_line1": "Island Bay Marine Education Centre",
+        "address_line2": "The Esplanade, Houghton Bay, Wellington 6023, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Island Bay Marine Education Centre",
+            "email": "info@octopus.org.nz",
+            "phone": "+64 4 383 8285",
+            "osm_id": 4824601221,
+            "tourism": "attraction",
+            "website": "https://www.octopus.org.nz/",
+            "osm_type": "n",
+            "addr:city": "Island Bay, Wellington",
+            "addr:street": "The Esplanade",
+            "opening_hours": "Su 10:00-15:00"
+          }
+        },
+        "website": "https://www.octopus.org.nz/",
+        "opening_hours": "Su 10:00-15:00",
+        "contact": {
+          "phone": "+64 4 383 8285",
+          "email": "info@octopus.org.nz"
+        },
+        "place_id": "515a43a9bdc8d8654059ee9be63d18ac44c0f00103f9018592911f0100000092032249736c616e6420426179204d6172696e6520456475636174696f6e2043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77450449999998,
+          -41.34448980102739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sea Kayak Adventures",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "postcode": "7281",
+        "street": "Anakiwa Road",
+        "housenumber": "8",
+        "iso3166_2": "NZ-MBH",
+        "lon": 173.8954491,
+        "lat": -41.2900499,
+        "state_code": "MBH",
+        "formatted": "Sea Kayak Adventures, 8 Anakiwa Road, 7281, New Zealand",
+        "address_line1": "Sea Kayak Adventures",
+        "address_line2": "8 Anakiwa Road, 7281, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sea Kayak Adventures",
+            "email": "info@nzseakayaking.com",
+            "phone": "+64 3 574 2765",
+            "osm_id": 5040793921,
+            "tourism": "attraction",
+            "website": "https://nzseakayaking.com/",
+            "osm_type": "n",
+            "addr:street": "Anakiwa Road",
+            "addr:postcode": 7281,
+            "opening_hours": "Mo-Su 08:00-18:00",
+            "addr:housenumber": 8
+          }
+        },
+        "website": "https://nzseakayaking.com/",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "contact": {
+          "phone": "+64 3 574 2765",
+          "email": "info@nzseakayaking.com"
+        },
+        "place_id": "5171f7de84a7bc654059ae8eeb5a20a544c0f00103f9014169742c01000000920314536561204b6179616b20416476656e7475726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.89544909999998,
+          -41.290049901025995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington Botanic Garden",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "suburb": "Wellington Central",
+        "quarter": "Paekākā",
+        "street": "Clermont Terrace",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7668639182798,
+        "lat": -41.2825382,
+        "state_code": "WGN",
+        "formatted": "Wellington Botanic Garden, Clermont Terrace, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Wellington Botanic Garden",
+        "address_line2": "Clermont Terrace, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "access",
+          "access.yes",
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "no_fee",
+          "no_fee.no",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "Wellington Botanic Garden",
+            "access": "yes",
+            "osm_id": 20266439,
+            "leisure": "garden",
+            "name:ru": "Веллингтонский ботанический сад",
+            "tourism": "attraction",
+            "website": "https://wellingtongardens.nz/our-gahttps://wellingtongardens.nz/our-gardens/wellington-botanic-garden-ki-paekaka/rdens/wellington-botanic-garden-ki-paekaka/",
+            "osm_type": "w",
+            "wikidata": "Q2447822",
+            "wikipedia": "en:Wellington Botanic Garden",
+            "garden:type": "botanical",
+            "ref:nz:heritage": 7573,
+            "wikimedia_commons": "Category:Wellington_Botanic_Garden"
+          }
+        },
+        "website": "https://wellingtongardens.nz/our-gahttps://wellingtongardens.nz/our-gardens/wellington-botanic-garden-ki-paekaka/rdens/wellington-botanic-garden-ki-paekaka/",
+        "name_international": {
+          "ru": "Веллингтонский ботанический сад"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2447822",
+          "wikipedia": "en:Wellington Botanic Garden",
+          "wikimedia_commons": "Category:Wellington_Botanic_Garden"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "51d02f33268ad86540595ea336362aa444c0f00102f901c73d35010000000092031957656c6c696e67746f6e20426f74616e69632047617264656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7668639182798,
+          -41.28253820102576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Victoria Monument",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Mount Victoria",
+        "street": "Newtown to City Cycleway",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.78319360790928,
+        "lat": -41.29523135,
+        "state_code": "WGN",
+        "formatted": "Queen Victoria Monument, Newtown to City Cycleway, Mount Victoria, Wellington 6011, New Zealand",
+        "address_line1": "Queen Victoria Monument",
+        "address_line2": "Newtown to City Cycleway, Mount Victoria, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Queen Victoria Monument",
+            "osm_id": 515161526,
+            "tourism": "artwork",
+            "website": "http://www.heritage.org.nz/the-list/details/3663",
+            "osm_type": "w",
+            "wikidata": "Q91673512",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "http://www.heritage.org.nz/the-list/details/3663",
+        "wiki_and_media": {
+          "wikidata": "Q91673512"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51028d0aec0fd9654059a0b41224caa544c0f00102f901b6bdb41e00000000920317517565656e20566963746f726961204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.78319360790925,
+          -41.29523135102613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stockcar track",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Upper Hutt City",
+        "city": "Upper Hutt",
+        "postcode": "6007",
+        "suburb": "The Plateau",
+        "street": "State Highway 2",
+        "housenumber": "1039a",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.1367775,
+        "lat": -41.086715,
+        "state_code": "WGN",
+        "formatted": "Wellington Speedway, 1039a State Highway 2, The Plateau, Upper Hutt 6007, New Zealand",
+        "address_line1": "Wellington Speedway",
+        "address_line2": "1039a State Highway 2, The Plateau, Upper Hutt 6007, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stockcar track",
+            "email": "info@wellingtonspeedway.co.nz",
+            "osm_id": 1225295529,
+            "name:en": "Wellington Speedway",
+            "tourism": "attraction",
+            "website": "https://www.wellingtonspeedway.co.nz",
+            "osm_type": "n",
+            "addr:street": "State Highway 2",
+            "addr:housenumber": "1039a",
+            "contact:facebook": "wellingtonspeedway",
+            "contact:instagram": "wellingtonspeedway"
+          }
+        },
+        "website": "https://www.wellingtonspeedway.co.nz",
+        "name_international": {
+          "en": "Wellington Speedway"
+        },
+        "contact": {
+          "email": "info@wellingtonspeedway.co.nz"
+        },
+        "place_id": "51842a357b60e465405938b9267a198b44c0f00103f901a98608490000000092030e53746f636b63617220747261636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.1367775,
+          -41.08671500101849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atatürk Memorial",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6020",
+        "suburb": "Moa Point",
+        "street": "Eastern Walkway",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8214336,
+        "lat": -41.3417343,
+        "state_code": "WGN",
+        "formatted": "Atatürk Memorial, Eastern Walkway, Moa Point, Wellington 6020, New Zealand",
+        "address_line1": "Atatürk Memorial",
+        "address_line2": "Eastern Walkway, Moa Point, Wellington 6020, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Atatürk Memorial",
+            "osm_id": 2135661911,
+            "tourism": "attraction",
+            "website": "http://www.nzhistory.net.nz/media/photo/ataturk-memorial-wellington",
+            "alt_name": "Ataturk Memorial",
+            "historic": "memorial",
+            "material": "stone",
+            "memorial": "memorial",
+            "osm_type": "n",
+            "wikidata": "Q108038038",
+            "ref:linz:place_id": 15809
+          }
+        },
+        "website": "http://www.nzhistory.net.nz/media/photo/ataturk-memorial-wellington",
+        "name_other": {
+          "alt_name": "Ataturk Memorial"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q108038038"
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "memorial"
+        },
+        "place_id": "51befa1d2f49da654059bd6a17f3bdab44c0f00103f901579d4b7f0000000092031141746174c3bc726b204d656d6f7269616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.82143360000003,
+          -41.34173430102735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albatross",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Te Aro",
+        "street": "City to Sea Bridge",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7789394,
+        "lat": -41.2880015,
+        "state_code": "WGN",
+        "formatted": "Albatross, City to Sea Bridge, Te Aro, Wellington 6011, New Zealand",
+        "address_line1": "Albatross",
+        "address_line2": "City to Sea Bridge, Te Aro, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.attraction.fountain",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Albatross",
+            "osm_id": 2623038766,
+            "amenity": "fountain",
+            "tourism": "artwork",
+            "website": "https://www.sculpture.org.nz/the-sculptures/albatross",
+            "osm_type": "n",
+            "wikidata": "Q91676247",
+            "start_date": 1985,
+            "wheelchair": "yes",
+            "artist_name": "Tanya Ashken",
+            "artwork_type": "sculpture"
+          }
+        },
+        "website": "https://www.sculpture.org.nz/the-sculptures/albatross",
+        "facilities": {
+          "wheelchair": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q91676247"
+        },
+        "artwork": {
+          "artist_name": "Tanya Ashken",
+          "artwork_type": "sculpture",
+          "start_date": 1985
+        },
+        "place_id": "511b125212edd8654059780db23bdda444c0f00103f9012e65589c00000000920309416c626174726f7373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77893939999998,
+          -41.28800150102592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kupe",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "district": "Lambton",
+        "suburb": "Te Aro",
+        "street": "Taranaki Street Wharf",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7800654,
+        "lat": -41.2888473,
+        "state_code": "WGN",
+        "formatted": "Kupe, Taranaki Street Wharf, Te Aro, Wellington 6011, New Zealand",
+        "address_line1": "Kupe",
+        "address_line2": "Taranaki Street Wharf, Te Aro, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kupe",
+            "osm_id": 2623038796,
+            "tourism": "artwork",
+            "website": "https://www.sculptures.org.nz/tours/waterfront-tour/kupe-statue",
+            "osm_type": "n",
+            "wheelchair": "yes",
+            "artist_name": "William Trethewey",
+            "artwork_type": "statue",
+            "construction_year": 1999,
+            "wikimedia_commons": "File:Kupe Group Statue.jpg"
+          }
+        },
+        "website": "https://www.sculptures.org.nz/tours/waterfront-tour/kupe-statue",
+        "facilities": {
+          "wheelchair": true
+        },
+        "wiki_and_media": {
+          "wikimedia_commons": "File:Kupe Group Statue.jpg"
+        },
+        "artwork": {
+          "artist_name": "William Trethewey",
+          "artwork_type": "statue"
+        },
+        "place_id": "51b7b7b64bf6d8654059e1b8c7f2f8a444c0f00103f9014c65589c000000009203044b757065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.78006539999998,
+          -41.28884730102596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternity",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Upper Hutt City",
+        "city": "Upper Hutt",
+        "postcode": "5218",
+        "suburb": "Upper Hutt Central",
+        "street": "Station Crescent",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.0703526,
+        "lat": -41.125854,
+        "state_code": "WGN",
+        "formatted": "Maternity, Station Crescent, Upper Hutt Central, Upper Hutt 5218, New Zealand",
+        "address_line1": "Maternity",
+        "address_line2": "Station Crescent, Upper Hutt Central, Upper Hutt 5218, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maternity",
+            "osm_id": 5455812506,
+            "tourism": "artwork",
+            "website": "http://uhcl.recollect.co.nz/nodes/view/1725",
+            "osm_type": "n",
+            "wikidata": "Q124712451",
+            "artist_name": "Llew Summers",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "http://uhcl.recollect.co.nz/nodes/view/1725",
+        "wiki_and_media": {
+          "wikidata": "Q124712451"
+        },
+        "artwork": {
+          "artist_name": "Llew Summers",
+          "artwork_type": "statue"
+        },
+        "place_id": "510886185440e2654059e839e1fb1b9044c0f00103f9019a173145010000009203094d617465726e697479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.07035259999998,
+          -41.12585400102017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katherine Mansfield",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Waring Taylor Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7762642,
+        "lat": -41.282033,
+        "state_code": "WGN",
+        "formatted": "Katherine Mansfield, Waring Taylor Street, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Katherine Mansfield",
+        "address_line2": "Waring Taylor Street, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Katherine Mansfield",
+            "osm_id": 5903627931,
+            "tourism": "artwork",
+            "website": "https://www.sculpture.org.nz/the-sculptures/woman-of-words",
+            "alt_name": "Woman of Words",
+            "osm_type": "n",
+            "wikidata": "Q96281526",
+            "wikipedia": "en:Statue of Katherine Mansfield",
+            "artist_name": "Virginia King",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://www.sculpture.org.nz/the-sculptures/woman-of-words",
+        "name_other": {
+          "alt_name": "Woman of Words"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q96281526",
+          "wikipedia": "en:Statue of Katherine Mansfield"
+        },
+        "artwork": {
+          "artist_name": "Virginia King",
+          "artwork_type": "statue"
+        },
+        "place_id": "51c7010528d7d86540592fe649a819a444c0f00103f9019b36e25f010000009203134b6174686572696e65204d616e736669656c64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77626419999999,
+          -41.282033001025745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gibbes Watson Conservatory",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "city": "Lower Hutt",
+        "postcode": "5045",
+        "suburb": "Lower Hutt Central",
+        "street": "Myrtle Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.9037,
+        "lat": -41.2131094,
+        "state_code": "WGN",
+        "formatted": "Gibbes Watson Conservatory, Myrtle Street, Lower Hutt Central, Lower Hutt 5045, New Zealand",
+        "address_line1": "Gibbes Watson Conservatory",
+        "address_line2": "Myrtle Street, Lower Hutt Central, Lower Hutt 5045, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gibbes Watson Conservatory",
+            "phone": "+64 4 570 6666",
+            "osm_id": 6794191787,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 10:00-15:45"
+          }
+        },
+        "opening_hours": "Mo-Su 10:00-15:45",
+        "contact": {
+          "phone": "+64 4 570 6666"
+        },
+        "place_id": "51a42c431cebdc654059e3ee392b479b44c0f00103f901ab23f7940100000092031a47696262657320576174736f6e20436f6e7365727661746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.90369999999996,
+          -41.21310940102355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zealandia Visitor Centre",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6012",
+        "suburb": "Highbury",
+        "street": "Lake Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7534276282507,
+        "lat": -41.2908089,
+        "state_code": "WGN",
+        "formatted": "Zealandia Visitor Centre, Lake Road, Highbury, Wellington 6012, New Zealand",
+        "address_line1": "Zealandia Visitor Centre",
+        "address_line2": "Lake Road, Highbury, Wellington 6012, New Zealand",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zealandia Visitor Centre",
+            "osm_id": 38095013,
+            "tourism": "attraction",
+            "website": "https://visitzealandia.com",
+            "building": "yes",
+            "osm_type": "w",
+            "wheelchair": "yes"
+          }
+        },
+        "website": "https://visitzealandia.com",
+        "facilities": {
+          "wheelchair": true
+        },
+        "place_id": "51aae741141cd86540596da5df3939a544c0f00102f901a5484502000000009203185a65616c616e6469612056697369746f722043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.75342762825068,
+          -41.290808901026004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Blockhouse",
+        "old_name": "Government Stockade",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Upper Hutt City",
+        "city": "Upper Hutt",
+        "postcode": "5018",
+        "suburb": "Wallaceville",
+        "street": "Blockhouse Lane",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.0517554437194,
+        "lat": -41.1292389,
+        "state_code": "WGN",
+        "formatted": "The Blockhouse, Blockhouse Lane, Wallaceville, Upper Hutt 5018, New Zealand",
+        "address_line1": "The Blockhouse",
+        "address_line2": "Blockhouse Lane, Wallaceville, Upper Hutt 5018, New Zealand",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Blockhouse",
+            "osm_id": 62154591,
+            "tourism": "attraction",
+            "alt_name": "Upper Hutt Blockhouse",
+            "building": "yes",
+            "old_name": "Government Stockade",
+            "osm_type": "w",
+            "wikidata": "Q7898698",
+            "wikipedia": "en:Upper Hutt Blockhouse",
+            "ref:nz:heritage": 207
+          }
+        },
+        "name_other": {
+          "alt_name": "Upper Hutt Blockhouse",
+          "old_name": "Government Stockade"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7898698",
+          "wikipedia": "en:Upper Hutt Blockhouse"
+        },
+        "place_id": "51454508fba7e16540596ca07ae68a9044c0f00102f9015f67b4030000000092030e54686520426c6f636b686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.05175544371937,
+          -41.12923890102033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bucket Fountain",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6040",
+        "suburb": "Te Aro",
+        "street": "Cuba Mall",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7763243,
+        "lat": -41.2922275,
+        "state_code": "WGN",
+        "formatted": "The Bucket Fountain, Cuba Mall, Te Aro, Wellington 6040, New Zealand",
+        "address_line1": "The Bucket Fountain",
+        "address_line2": "Cuba Mall, Te Aro, Wellington 6040, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.fountain"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Bucket Fountain",
+            "osm_id": 175059306,
+            "amenity": "fountain",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q7720471"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7720471"
+        },
+        "place_id": "51e2f20ea6d7d865405907f3f3b567a544c0f00103f9016a316f0a00000000920313546865204275636b657420466f756e7461696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7763243,
+          -41.29222750102604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn War Memorial",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6021",
+        "district": "Fitchettown",
+        "suburb": "Brooklyn",
+        "street": "Sugarloaf Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7608476244012,
+        "lat": -41.305427449999996,
+        "state_code": "WGN",
+        "formatted": "Brooklyn War Memorial, Sugarloaf Road, Brooklyn, Wellington 6021, New Zealand",
+        "address_line1": "Brooklyn War Memorial",
+        "address_line2": "Sugarloaf Road, Brooklyn, Wellington 6021, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Brooklyn War Memorial",
+            "osm_id": 260394754,
+            "tourism": "attraction",
+            "historic": "memorial",
+            "memorial": "statue",
+            "osm_type": "w",
+            "wikipedia": "en:Brooklyn, New Zealand#War memorial"
+          }
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Brooklyn, New Zealand#War memorial"
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue"
+        },
+        "place_id": "515b011edd58d8654059c2ba283f18a744c0f00102f901024f850f0000000092031542726f6f6b6c796e20576172204d656d6f7269616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76084762440118,
+          -41.305427451026404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SS Hikitia",
+        "ref": 5150393,
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Te Aro",
+        "street": "Te Papa Promenade",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.78045980844013,
+        "lat": -41.2893006,
+        "state_code": "WGN",
+        "formatted": "SS Hikitia, Te Papa Promenade, Te Aro, Wellington 6011, New Zealand",
+        "address_line1": "SS Hikitia",
+        "address_line2": "Te Papa Promenade, Te Aro, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.ship"
+        ],
+        "details": [
+          "details",
+          "details.facilities",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": 5150393,
+            "name": "SS Hikitia",
+            "osm_id": 264055222,
+            "tourism": "attraction",
+            "historic": "ship",
+            "operator": "Maritime Heritage Trust of Wellington",
+            "osm_type": "w",
+            "wikidata": "Q5760586",
+            "wikipedia": "en:Hikitia",
+            "start_date": "1926-04-15",
+            "wheelchair": "no",
+            "seamark:name": "SS Hikitia",
+            "seamark:type": "hulk",
+            "seamark:hulk:category": "historic"
+          }
+        },
+        "operator": "Maritime Heritage Trust of Wellington",
+        "facilities": {
+          "wheelchair": false
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5760586",
+          "wikipedia": "en:Hikitia"
+        },
+        "historic": {
+          "type": "ship",
+          "start_date": "1926-04-15"
+        },
+        "place_id": "51f722d986f9d8654059510f56cd07a544c0f00102f901b629bd0f0000000092030a53532048696b69746961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7804598084401,
+          -41.289300601025964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pūtangirua Pinnacles",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "South Wairarapa District",
+        "city": "Martinborough Community",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.24677359661015,
+        "lat": -41.4468023,
+        "state_code": "WGN",
+        "formatted": "Pūtangirua Pinnacles, Martinborough Community, South Wairarapa District, New Zealand",
+        "address_line1": "Pūtangirua Pinnacles",
+        "address_line2": "Martinborough Community, South Wairarapa District, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pūtangirua Pinnacles",
+            "rock": "hoodoo",
+            "osm_id": 331959003,
+            "name:mi": "Pūtangirua",
+            "natural": "bare_rock",
+            "tourism": "attraction",
+            "alt_name": "The Pinnacles",
+            "osm_type": "w",
+            "wikidata": "Q7262177",
+            "wikipedia": "en:Putangirua Pinnacles",
+            "ref:linz:place_id": 37537
+          }
+        },
+        "name_other": {
+          "alt_name": "The Pinnacles"
+        },
+        "name_international": {
+          "mi": "Pūtangirua"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7262177",
+          "wikipedia": "en:Putangirua Pinnacles"
+        },
+        "place_id": "519fdebd91e5e765405977595bd130b944c0f00102f901db4ac9130000000092031550c5ab74616e67697275612050696e6e61636c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.24677359661015,
+          -41.44680230102943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kāpiti Chocolate Factory",
+        "old_name": "Nyco Chocolate Factory",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Kāpiti Coast District",
+        "city": "Paraparaumu",
+        "postcode": "5032",
+        "street": "Raumati Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.99831268556795,
+        "lat": -40.9267974,
+        "state_code": "WGN",
+        "formatted": "Kāpiti Chocolate Factory, Raumati Road, Paraparaumu 5032, New Zealand",
+        "address_line1": "Kāpiti Chocolate Factory",
+        "address_line2": "Raumati Road, Paraparaumu 5032, New Zealand",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kāpiti Chocolate Factory",
+            "osm_id": 392424020,
+            "tourism": "attraction",
+            "website": "https://kapitichocolatefactory.co.nz",
+            "building": "yes",
+            "old_name": "Nyco Chocolate Factory",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://kapitichocolatefactory.co.nz",
+        "name_other": {
+          "old_name": "Nyco Chocolate Factory"
+        },
+        "place_id": "5148f6712df2df654059a8ad174ca17644c0f00102f90154ea6317000000009203194bc481706974692043686f636f6c61746520466163746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.99831268556795,
+          -40.92679740101022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SS Waverley",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "street": "Wairau Lagoons Walkway",
+        "iso3166_2": "NZ-MBH",
+        "lon": 174.06618807517077,
+        "lat": -41.51904795,
+        "state_code": "MBH",
+        "formatted": "SS Waverley, Wairau Lagoons Walkway, New Zealand",
+        "address_line1": "SS Waverley",
+        "address_line2": "Wairau Lagoons Walkway, New Zealand",
+        "categories": [
+          "access",
+          "access.yes",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "url": "http://www.nzmaritime.co.nz/waverly.htm",
+            "name": "SS Waverley",
+            "access": "yes",
+            "osm_id": 712700044,
+            "tourism": "attraction",
+            "alt_name": "SS Waverly",
+            "historic": "wreck",
+            "osm_type": "w",
+            "seamark:type": "wreck",
+            "wreck:date_sunk": 1928,
+            "seamark:wreck:category": "hull_showing",
+            "wreck:visible_at_low_tide": "yes",
+            "wreck:visible_at_high_tide": "yes"
+          }
+        },
+        "website": "http://www.nzmaritime.co.nz/waverly.htm",
+        "name_other": {
+          "alt_name": "SS Waverly"
+        },
+        "historic": {
+          "type": "wreck"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "51cc4774361ec2654059905dcb2970c244c0f00102f9018cf07a2a0000000092030b53532057617665726c6579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.06618807517077,
+          -41.5190479510303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moko",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6012",
+        "suburb": "Chartwell",
+        "street": "Blue Trail (upper route)",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7524798,
+        "lat": -41.2660993,
+        "state_code": "WGN",
+        "formatted": "Moko, Blue Trail (upper route), Chartwell, Wellington 6012, New Zealand",
+        "address_line1": "Moko",
+        "address_line2": "Blue Trail (upper route), Chartwell, Wellington 6012, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Moko",
+            "osm_id": 783462498,
+            "natural": "tree",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q107437042",
+            "leaf_type": "needleleaved",
+            "denotation": "landmark",
+            "leaf_cycle": "evergreen",
+            "start_date": "~1200",
+            "description": "rimu tree - Wellington's oldest and tallest tree - circa 1200 CE - see Wikidata for more",
+            "species:wikidata": "Q382469",
+            "species:wikipedia": "en:Dacrydium cupressinum"
+          }
+        },
+        "description": "rimu tree - Wellington's oldest and tallest tree - circa 1200 CE - see Wikidata for more",
+        "wiki_and_media": {
+          "wikidata": "Q107437042"
+        },
+        "place_id": "51d27c845014d86540592eb2b98a0fa244c0f00103f90162b0b22e000000009203044d6f6b6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7524798,
+          -41.26609930102528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Palliser Lighthouse",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "South Wairarapa District",
+        "city": "Martinborough Community",
+        "street": "Cape Palliser Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.29000081754447,
+        "lat": -41.611982350000005,
+        "state_code": "WGN",
+        "formatted": "Cape Palliser Lighthouse, Cape Palliser Road, Martinborough Community, New Zealand",
+        "address_line1": "Cape Palliser Lighthouse",
+        "address_line2": "Cape Palliser Road, Martinborough Community, New Zealand",
+        "categories": [
+          "building",
+          "building.service",
+          "building.tourism",
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 78,
+            "name": "Cape Palliser Lighthouse",
+            "height": 18,
+            "osm_id": 856645636,
+            "tourism": "attraction",
+            "building": "yes",
+            "man_made": "lighthouse",
+            "operator": "Maritime New Zealan",
+            "osm_type": "w",
+            "wikidata": "Q1034464",
+            "wikipedia": "en:Cape Palliser Lighthouse",
+            "start_date": "1897-10-27",
+            "seamark:name": "Cape Palliser",
+            "seamark:type": "light_major",
+            "seamark:information": "Reserve light range 10M.",
+            "seamark:light:1:group": 2,
+            "seamark:light:1:range": 26,
+            "seamark:light:2:group": 2,
+            "seamark:light:2:range": 10,
+            "seamark:light:1:colour": "white",
+            "seamark:light:1:height": 78,
+            "seamark:light:1:period": 20,
+            "seamark:light:2:colour": "white",
+            "seamark:light:2:height": 78,
+            "seamark:light:2:period": 20,
+            "ref:linz:hydrographic_id": "70365;70399",
+            "seamark:light:2:category": "emergency",
+            "seamark:light:1:character": "Fl",
+            "seamark:light:2:character": "Fl"
+          }
+        },
+        "operator": "Maritime New Zealan",
+        "ele": 78,
+        "wiki_and_media": {
+          "wikidata": "Q1034464",
+          "wikipedia": "en:Cape Palliser Lighthouse"
+        },
+        "building": {
+          "start_date": "1897-10-27",
+          "height": 18
+        },
+        "place_id": "515565cbaf47e965405904b40b7055ce44c0f00102f90104600f3300000000920318436170652050616c6c69736572204c69676874686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.29000081754444,
+          -41.611982351030775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Porirua City",
+        "city": "Porirua",
+        "postcode": "5025",
+        "suburb": "Aotea",
+        "street": "Gear Homestead",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.85220698749885,
+        "lat": -41.12325010000001,
+        "state_code": "WGN",
+        "formatted": "Gear Homestead, Aotea, Porirua 5025, New Zealand",
+        "address_line1": "Gear Homestead",
+        "address_line2": "Aotea, Porirua 5025, New Zealand",
+        "name": "Gear Homestead",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gear Homestead",
+            "osm_id": 886783704,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "wikidata": "Q60674028",
+            "ref:nz:heritage": 1328
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q60674028"
+        },
+        "place_id": "515c97964745db654059148ec8a8c68f44c0f00102f901d83edb340000000092030e4765617220486f6d657374656164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8522069874988,
+          -41.12325010102009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahiaruhe House",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Carterton District",
+        "postcode": "5792",
+        "street": "Ahiaruhe Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.58393005244645,
+        "lat": -41.100654,
+        "state_code": "WGN",
+        "formatted": "Ahiaruhe House, Ahiaruhe Road, 5792, New Zealand",
+        "address_line1": "Ahiaruhe House",
+        "address_line2": "Ahiaruhe Road, 5792, New Zealand",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ahiaruhe House",
+            "osm_id": 1023785901,
+            "tourism": "attraction",
+            "website": "https://library.mstn.govt.nz/wairarapa-stories/buildings/ahiaruhe-abandoned-house",
+            "building": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://library.mstn.govt.nz/wairarapa-stories/buildings/ahiaruhe-abandoned-house",
+        "building": {
+          "type": "ruins"
+        },
+        "place_id": "5116cd138eaff2654059584bf53ae28c44c0f00102f901adbb053d0000000092030e416869617275686520486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.58393005244642,
+          -41.10065400101911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehenge Aotearoa",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Carterton District",
+        "postcode": "5792",
+        "street": "Ahiaruhe Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.57813875536874,
+        "lat": -41.099300299999996,
+        "state_code": "WGN",
+        "formatted": "Stonehenge Aotearoa, Ahiaruhe Road, 5792, New Zealand",
+        "address_line1": "Stonehenge Aotearoa",
+        "address_line2": "Ahiaruhe Road, 5792, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stonehenge Aotearoa",
+            "osm_id": 1236727425,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q2351588"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2351588"
+        },
+        "place_id": "517cdbd81c80f26540590dae4cdfb58c44c0f00102f90181f6b6490000000092031353746f6e6568656e676520416f746561726f61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.57813875536874,
+          -41.09930030101905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zealandia",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6012",
+        "suburb": "Highbury",
+        "street": "Lake Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7521904,
+        "lat": -41.2917079,
+        "state_code": "WGN",
+        "formatted": "Zealandia, Lake Road, Highbury, Wellington 6012, New Zealand",
+        "address_line1": "Zealandia",
+        "address_line2": "Lake Road, Highbury, Wellington 6012, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zealandia",
+            "osm_id": 1690510529,
+            "tourism": "attraction",
+            "alt_name": "Karori Wildlife Sanctuary",
+            "osm_type": "n",
+            "wikidata": "Q913886",
+            "wheelchair": "limited"
+          }
+        },
+        "name_other": {
+          "alt_name": "Karori Wildlife Sanctuary"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q913886"
+        },
+        "place_id": "51ae0b9af111d86540591d723baf56a544c0f00103f901c124c364000000009203095a65616c616e646961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.75219039999996,
+          -41.29170790102601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Byrd memorial",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Oriental Bay",
+        "street": "Lookout Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7936589,
+        "lat": -41.2970156,
+        "state_code": "WGN",
+        "formatted": "Richard Byrd memorial, Lookout Road, Oriental Bay, Wellington 6011, New Zealand",
+        "address_line1": "Richard Byrd memorial",
+        "address_line2": "Lookout Road, Oriental Bay, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Richard Byrd memorial",
+            "osm_id": 2135661982,
+            "tourism": "attraction",
+            "website": "http://www.nzhistory.net.nz/media/photo/byrd-memorial",
+            "historic": "memorial",
+            "memorial": "sculpture",
+            "osm_type": "n"
+          }
+        },
+        "website": "http://www.nzhistory.net.nz/media/photo/byrd-memorial",
+        "historic": {
+          "type": "memorial",
+          "memorial": "sculpture"
+        },
+        "place_id": "51bd7559a765d96540599667729b04a644c0f00103f9019e9d4b7f00000000920315526963686172642042797264206d656d6f7269616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7936589,
+          -41.29701560102619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tripod",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Te Aro",
+        "street": "Courtenay Place",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7834643,
+        "lat": -41.2941396,
+        "state_code": "WGN",
+        "formatted": "Tripod, Courtenay Place, Te Aro, Wellington 6011, New Zealand",
+        "address_line1": "Tripod",
+        "address_line2": "Courtenay Place, Te Aro, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tripod",
+            "osm_id": 2189594691,
+            "name:cs": "Trojnožka",
+            "name:de": "Dreifuß",
+            "tourism": "artwork",
+            "website": "https://www.sculptures.org.nz/tours/courtenay/tripod",
+            "osm_type": "n",
+            "addr:street": "Courtenay Place"
+          }
+        },
+        "website": "https://www.sculptures.org.nz/tours/courtenay/tripod",
+        "name_international": {
+          "cs": "Trojnožka",
+          "de": "Dreifuß"
+        },
+        "place_id": "51ab42b92312d9654059ca6ecf5da6a544c0f00103f9014390828200000000920306547269706f64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.78346429999996,
+          -41.29413960102609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zephyrometer",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6020",
+        "suburb": "Kilbirnie",
+        "street": "Cobham Drive",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7961998,
+        "lat": -41.3121789,
+        "state_code": "WGN",
+        "formatted": "Zephyrometer, Cobham Drive, Kilbirnie, Wellington 6020, New Zealand",
+        "address_line1": "Zephyrometer",
+        "address_line2": "Cobham Drive, Kilbirnie, Wellington 6020, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zephyrometer",
+            "osm_id": 2630651463,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q8069332",
+            "artist_name": "Phil Price",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q8069332"
+        },
+        "artwork": {
+          "artist_name": "Phil Price",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "519ec200787ad96540598a346d7af5a744c0f00103f901478ecc9c0000000092030c5a65706879726f6d65746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7961998,
+          -41.3121789010266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruaumoko",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Stout Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7761657,
+        "lat": -41.2813533,
+        "state_code": "WGN",
+        "formatted": "Ruaumoko, Stout Street, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Ruaumoko",
+        "address_line2": "Stout Street, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ruaumoko",
+            "osm_id": 2738946649,
+            "tourism": "artwork",
+            "website": "https://www.sculptures.org.nz/tours/lambton/ruaumoko",
+            "osm_type": "n",
+            "artist_name": "Ralph Hotere;Mary McFarlane",
+            "artwork_type": "sculpture",
+            "construction_year": 1998
+          }
+        },
+        "website": "https://www.sculptures.org.nz/tours/lambton/ruaumoko",
+        "artwork": {
+          "artist_name": "Ralph Hotere;Mary McFarlane",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51dd387359d6d865405978438d6203a444c0f00103f901590241a300000000920308527561756d6f6b6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7761657,
+          -41.28135330102572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SkyBlues",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6140",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Post Office Square",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7772469,
+        "lat": -41.2849033,
+        "state_code": "WGN",
+        "formatted": "SkyBlues, Post Office Square, Wellington Central, Wellington 6140, New Zealand",
+        "address_line1": "SkyBlues",
+        "address_line2": "Post Office Square, Wellington Central, Wellington 6140, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "SkyBlues",
+            "osm_id": 2738946664,
+            "tourism": "artwork",
+            "website": "https://www.sculpture.org.nz/the-sculptures/skyblues",
+            "osm_type": "n",
+            "artist_name": "Bill Culbert",
+            "artwork_type": "sculpture",
+            "year_of_construction": 2006
+          }
+        },
+        "website": "https://www.sculpture.org.nz/the-sculptures/skyblues",
+        "artwork": {
+          "artist_name": "Bill Culbert",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "515a0de434dfd8654059d6361cb677a444c0f00103f901680241a300000000920308536b79426c756573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77724689999997,
+          -41.284903301025835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solace in the Wind",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Te Aro",
+        "street": "Te Papa Promenade",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7828022,
+        "lat": -41.2893808,
+        "state_code": "WGN",
+        "formatted": "Solace in the Wind, Te Papa Promenade, Te Aro, Wellington 6011, New Zealand",
+        "address_line1": "Solace in the Wind",
+        "address_line2": "Te Papa Promenade, Te Aro, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Solace in the Wind",
+            "osm_id": 2921380711,
+            "tourism": "artwork",
+            "website": "https://www.sculptures.org.nz/tours/waterfront-tour/solace-of-the-wind",
+            "material": "steel",
+            "osm_type": "n",
+            "start_date": 2008,
+            "wheelchair": "yes",
+            "artist_name": "Max Patte",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://www.sculptures.org.nz/tours/waterfront-tour/solace-of-the-wind",
+        "facilities": {
+          "wheelchair": true
+        },
+        "artwork": {
+          "artist_name": "Max Patte",
+          "artwork_type": "statue",
+          "start_date": 2008
+        },
+        "place_id": "51940733b70cd9654059983f1a6e0aa544c0f00103f90167bb20ae00000000920312536f6c61636520696e207468652057696e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7828022,
+          -41.28938080102597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bronze Form",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "suburb": "Wellington Central",
+        "quarter": "Paekākā",
+        "street": "Norwood Path",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7700502,
+        "lat": -41.2816582,
+        "state_code": "WGN",
+        "formatted": "Bronze Form, Norwood Path, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Bronze Form",
+        "address_line2": "Norwood Path, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bronze Form",
+            "osm_id": 3866822439,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q19758861",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q19758861"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51e7285140a4d865405925073d600da444c0f00103f90127077be60000000092030b42726f6e7a6520466f726d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7700502,
+          -41.281658201025756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Philanthropist's Stone",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6040",
+        "suburb": "Te Aro",
+        "street": "Cuba Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7773784,
+        "lat": -41.2901994,
+        "state_code": "WGN",
+        "formatted": "The Philanthropist's Stone, Cuba Street, Te Aro, Wellington 6040, New Zealand",
+        "address_line1": "The Philanthropist's Stone",
+        "address_line2": "Cuba Street, Te Aro, Wellington 6040, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Philanthropist's Stone",
+            "osm_id": 4518250749,
+            "tourism": "artwork",
+            "website": "https://www.sculpture.org.nz/the-sculptures/the-philanthropists-stone",
+            "osm_type": "n",
+            "artist_name": "Scott Eady",
+            "artwork_type": "sculpture",
+            "construction_year": 2015
+          }
+        },
+        "website": "https://www.sculpture.org.nz/the-sculptures/the-philanthropists-stone",
+        "artwork": {
+          "artist_name": "Scott Eady",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51bc93aa48e0d8654059da5c044125a544c0f00103f901fd084f0d0100000092031a546865205068696c616e7468726f7069737427732053746f6e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77737839999998,
+          -41.29019940102599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tawa R.F.C",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "postcode": "5028",
+        "suburb": "Tawa",
+        "quarter": "Westhaven",
+        "street": "Lyndhurst Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8215242,
+        "lat": -41.1716876,
+        "state_code": "WGN",
+        "formatted": "Tawa R.F.C, Lyndhurst Road, Tawa, 5028, New Zealand",
+        "address_line1": "Tawa R.F.C",
+        "address_line2": "Lyndhurst Road, Tawa, 5028, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tawa R.F.C",
+            "osm_id": 5062959621,
+            "name:en": "Tawa R.F.C",
+            "tourism": "attraction",
+            "website": "https://instagram.com/tawarugby1",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://instagram.com/tawarugby1",
+        "name_international": {
+          "en": "Tawa R.F.C"
+        },
+        "place_id": "51ec7b1eed49da65405958c2fbdbf99544c0f00103f90105a2c62d0100000092030a5461776120522e462e43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8215242,
+          -41.17168760102203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Protoplasm",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Barrett's Corner",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7758342,
+        "lat": -41.2854246,
+        "state_code": "WGN",
+        "formatted": "Protoplasm, Barrett's Corner, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Protoplasm",
+        "address_line2": "Barrett's Corner, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Protoplasm",
+            "osm_id": 5213502531,
+            "tourism": "artwork",
+            "website": "https://www.sculpture.org.nz/the-sculptures/protoplasm",
+            "osm_type": "n",
+            "artist_name": "Phil Price",
+            "artwork_type": "sculpture",
+            "year_of_construction": 2002
+          }
+        },
+        "website": "https://www.sculpture.org.nz/the-sculptures/protoplasm",
+        "artwork": {
+          "artist_name": "Phil Price",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51c9833ea2d3d8654059a07017cb88a444c0f00103f90143bcbf360100000092030a50726f746f706c61736d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7758342,
+          -41.28542460102585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Fraser",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Lambton Quay",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7778389,
+        "lat": -41.2793325,
+        "state_code": "WGN",
+        "formatted": "Peter Fraser, Lambton Quay, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Peter Fraser",
+        "address_line2": "Lambton Quay, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Peter Fraser",
+            "osm_id": 5346214828,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "wikidata": "Q98915484",
+            "artwork_type": "statue"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q98915484"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51d0a1670ee4d8654059bf4eda2ac1a344c0f00103f901acc3a83e0100000092030c506574657220467261736572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7778389,
+          -41.279332501025685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Invisible City",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Grey Street Square",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7755415,
+        "lat": -41.2844859,
+        "state_code": "WGN",
+        "formatted": "Invisible City, Grey Street Square, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Invisible City",
+        "address_line2": "Grey Street Square, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Invisible City",
+            "osm_id": 5903627930,
+            "tourism": "artwork",
+            "website": "https://www.sculpture.org.nz/the-sculptures/invisible-city",
+            "osm_type": "n",
+            "artist_name": "Anton Parsons",
+            "description": "giant braille poem",
+            "artwork_type": "sculpture",
+            "construction_date": 2003
+          }
+        },
+        "website": "https://www.sculpture.org.nz/the-sculptures/invisible-city",
+        "description": "giant braille poem",
+        "artwork": {
+          "artist_name": "Anton Parsons",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "511a66683cd1d86540591d8ab4086aa444c0f00103f9019a36e25f0100000092030e496e76697369626c652043697479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77554149999997,
+          -41.284485901025825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruits of the Garden",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "district": "Lambton",
+        "suburb": "Te Aro",
+        "street": "Jervois Quay",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7792733,
+        "lat": -41.2876318,
+        "state_code": "WGN",
+        "formatted": "Fruits of the Garden, Jervois Quay, Te Aro, Wellington 6011, New Zealand",
+        "address_line1": "Fruits of the Garden",
+        "address_line2": "Jervois Quay, Te Aro, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fruits of the Garden",
+            "osm_id": 5907517951,
+            "tourism": "artwork",
+            "website": "https://www.sculptures.org.nz/tours/waterfront-tour/fruits-of-the-garden",
+            "osm_type": "n",
+            "artist_name": "Paul Dibble",
+            "artwork_type": "sculpture",
+            "construction_year": 2002
+          }
+        },
+        "website": "https://www.sculptures.org.nz/tours/waterfront-tour/fruits-of-the-garden",
+        "artwork": {
+          "artist_name": "Paul Dibble",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51ac448fceefd865405914596d1ed1a444c0f00103f901ff911d6001000000920314467275697473206f66207468652047617264656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7792733,
+          -41.287631801025924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Head",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6040",
+        "suburb": "Te Aro",
+        "street": "Victoria Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7759644,
+        "lat": -41.2890998,
+        "state_code": "WGN",
+        "formatted": "Grand Head, Victoria Street, Te Aro, Wellington 6040, New Zealand",
+        "address_line1": "Grand Head",
+        "address_line2": "Victoria Street, Te Aro, Wellington 6040, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Grand Head",
+            "osm_id": 6021413940,
+            "tourism": "artwork",
+            "website": "https://www.sculptures.org.nz/tours/civic-square/grand-head",
+            "osm_type": "n",
+            "start_date": 1986,
+            "artist_name": "Terry Stringer",
+            "artwork_type": "sculpture"
+          }
+        },
+        "website": "https://www.sculptures.org.nz/tours/civic-square/grand-head",
+        "artwork": {
+          "artist_name": "Terry Stringer",
+          "artwork_type": "sculpture",
+          "start_date": 1986
+        },
+        "place_id": "51871b4bb3d4d8654059e257e73801a544c0f00103f901347ce7660100000092030a4772616e642048656164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7759644,
+          -41.289099801025955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spinning Top",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Woodward Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7751363,
+        "lat": -41.2820093,
+        "state_code": "WGN",
+        "formatted": "Spinning Top, Woodward Street, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Spinning Top",
+        "address_line2": "Woodward Street, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Spinning Top",
+            "osm_id": 6087473131,
+            "tourism": "artwork",
+            "website": "https://www.sculpture.org.nz/the-sculptures/spinning-top",
+            "osm_type": "n",
+            "artist_name": "Robert Jahnke",
+            "artwork_type": "sculpture",
+            "construction_year": 2003
+          }
+        },
+        "website": "https://www.sculpture.org.nz/the-sculptures/spinning-top",
+        "artwork": {
+          "artist_name": "Robert Jahnke",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51284ea4eacdd865405968897ae118a444c0f00103f901eb77d76a0100000092030c5370696e6e696e6720546f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77513629999999,
+          -41.28200930102577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Keith Holyoake",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "suburb": "Thorndon",
+        "street": "Pipitea Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7780613,
+        "lat": -41.2756029,
+        "state_code": "WGN",
+        "formatted": "Sir Keith Holyoake, Pipitea Street, Thorndon, Wellington 6145, New Zealand",
+        "address_line1": "Sir Keith Holyoake",
+        "address_line2": "Pipitea Street, Thorndon, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sir Keith Holyoake",
+            "osm_id": 6092075706,
+            "tourism": "artwork",
+            "memorial": "statue",
+            "osm_type": "n",
+            "wikidata": "Q98915251",
+            "artwork_type": "statue"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q98915251"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5110b9cfe0e5d8654059374bb3f446a344c0f00103f901bab21d6b01000000920312536972204b6569746820486f6c796f616b65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7780613,
+          -41.275602901025586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quasi",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Te Aro",
+        "street": "Te Ngākau Civic Square",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7773968,
+        "lat": -41.2885999,
+        "state_code": "WGN",
+        "formatted": "Quasi, Te Ngākau Civic Square, Te Aro, Wellington 6011, New Zealand",
+        "address_line1": "Quasi",
+        "address_line2": "Te Ngākau Civic Square, Te Aro, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Quasi",
+            "osm_id": 8434106468,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q106796545",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q106796545"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "517b00416fe0d8654059864470d7f0a444c0f00103f9016440b6f6010000009203055175617369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7773968,
+          -41.28859990102596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitby Scale Solar System",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Porirua City",
+        "city": "Porirua",
+        "postcode": "5037",
+        "suburb": "Whitby",
+        "street": "Mercury Way",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.885985,
+        "lat": -41.1106828,
+        "state_code": "WGN",
+        "formatted": "Whitby Scale Solar System, Mercury Way, Whitby, Porirua 5037, New Zealand",
+        "address_line1": "Whitby Scale Solar System",
+        "address_line2": "Mercury Way, Whitby, Porirua 5037, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Whitby Scale Solar System",
+            "osm_id": 9979382283,
+            "tourism": "artwork",
+            "website": "https://www.facebook.com/whitbysolarsystem",
+            "osm_type": "n",
+            "artist_name": "Matt Reading",
+            "description": "Scale model of the solar system, with this point marking the Sun.",
+            "artwork_type": "installation"
+          }
+        },
+        "website": "https://www.facebook.com/whitbysolarsystem",
+        "description": "Scale model of the solar system, with this point marking the Sun.",
+        "artwork": {
+          "artist_name": "Matt Reading",
+          "artwork_type": "installation"
+        },
+        "place_id": "51e4f736fd59dc654059e94da1da2a8e44c0f00103f9010b4ad15202000000920319576869746279205363616c6520536f6c61722053797374656d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.885985,
+          -41.11068280101956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Grove",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6140",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Custom House Plaza",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7791606,
+        "lat": -41.2821082,
+        "state_code": "WGN",
+        "formatted": "The Grove, Custom House Plaza, Wellington Central, Wellington 6140, New Zealand",
+        "address_line1": "The Grove",
+        "address_line2": "Custom House Plaza, Wellington Central, Wellington 6140, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Grove",
+            "osm_id": 10213463747,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q116290138",
+            "artist_name": "Glen Hayward",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q116290138"
+        },
+        "artwork": {
+          "artist_name": "Glen Hayward",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "519dea35e2eed865405965ab1c1f1ca444c0f00103f901c316c560020000009203095468652047726f7665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77916059999998,
+          -41.28210820102576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Aho a Māui",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "suburb": "Te Aro",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.77809118670982,
+        "lat": -41.288918100000004,
+        "state_code": "WGN",
+        "formatted": "Te Aho a Māui, Te Aro, Wellington, Wellington City, New Zealand",
+        "address_line1": "Te Aho a Māui",
+        "address_line2": "Te Aro, Wellington, Wellington City, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Te Aho a Māui",
+            "osm_id": -15048438,
+            "name:mi": "Te Aho a Māui",
+            "natural": "bare_rock",
+            "tourism": "artwork",
+            "osm_type": "r"
+          }
+        },
+        "name_international": {
+          "mi": "Te Aho a Māui"
+        },
+        "place_id": "512e077d1fe6d86540598290b144fba444c0f00101f901f69ee5000000000092030e54652041686f2061204dc4817569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7780911867098,
+          -41.28891810102597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lady Norwood Rose Garden",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "suburb": "Wellington Central",
+        "quarter": "Paekākā",
+        "street": "Botanic Gardens Public Access",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7694405938731,
+        "lat": -41.28060535,
+        "state_code": "WGN",
+        "formatted": "Lady Norwood Rose Garden, Botanic Gardens Public Access, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Lady Norwood Rose Garden",
+        "address_line2": "Botanic Gardens Public Access, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "access",
+          "access.yes",
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "no_fee",
+          "no_fee.no",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "Lady Norwood Rose Garden",
+            "access": "yes",
+            "osm_id": 17160579,
+            "leisure": "garden",
+            "tourism": "attraction",
+            "operator": "Wellington City Council",
+            "osm_type": "w",
+            "operator:type": "government"
+          }
+        },
+        "operator": "Wellington City Council",
+        "operator_details": {
+          "type": "government"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "51ca5ce1419fd865405978de4ae0eaa344c0f00102f90183d90501000000009203184c616479204e6f72776f6f6420526f73652047617264656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76944059387307,
+          -41.28060535102571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Porirua City",
+        "city": "Porirua",
+        "postcode": "5037",
+        "suburb": "Whitby",
+        "street": "The Quarterdeck Lookout",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.89199172879427,
+        "lat": -41.10822715,
+        "state_code": "WGN",
+        "formatted": "The Quarterdeck Lookout, Whitby, Porirua 5037, New Zealand",
+        "address_line1": "The Quarterdeck Lookout",
+        "address_line2": "Whitby, Porirua 5037, New Zealand",
+        "name": "The Quarterdeck Lookout",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Quarterdeck Lookout",
+            "osm_id": 32078020,
+            "tourism": "viewpoint",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "512aef3c328bdc65405979152563da8d44c0f00102f901c478e9010000000092031754686520517561727465726465636b204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.89199172879427,
+          -41.10822715101944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6021",
+        "suburb": "Kilbirnie",
+        "street": "Upper Bourke Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7921367,
+        "lat": -41.3182442,
+        "state_code": "WGN",
+        "formatted": "Upper Bourke Street, Kilbirnie, Wellington 6021, New Zealand",
+        "address_line1": "Upper Bourke Street",
+        "address_line2": "Kilbirnie, Wellington 6021, New Zealand",
+        "name": "Upper Bourke Street",
+        "categories": [
+          "highway",
+          "highway.residential",
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details.facilities",
+          "details.restrictions",
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Upper Bourke Street",
+            "osm_id": 49241167,
+            "highway": "residential",
+            "surface": "asphalt",
+            "tourism": "attraction",
+            "z_order": 330,
+            "maxspeed": 50,
+            "osm_type": "w",
+            "wheelchair": "yes",
+            "cycleway:both": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "restrictions": {
+          "max_speed": 50
+        },
+        "way": {
+          "surface": "asphalt"
+        },
+        "place_id": "51c38e102f59d96540599ec6d939bca844c0f00102f9014f5cef0200000000920313557070657220426f75726b6520537472656574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7921367,
+          -41.318244201026786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Victoria Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Oriental Bay",
+        "street": "Lookout Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7943249,
+        "lat": -41.2960371,
+        "state_code": "WGN",
+        "formatted": "Mount Victoria Lookout, Lookout Road, Oriental Bay, Wellington 6011, New Zealand",
+        "address_line1": "Mount Victoria Lookout",
+        "address_line2": "Lookout Road, Oriental Bay, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mount Victoria Lookout",
+            "osm_id": 170485240,
+            "name:zh": "維多利亞山",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "zh": "維多利亞山"
+        },
+        "place_id": "51c07c0d1c6bd9654059ada7318be4a544c0f00103f901f865290a000000009203164d6f756e7420566963746f726961204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7943249,
+          -41.29603710102615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lookout north over Kapiti Island and the Kapiti Coast",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Kāpiti Coast District",
+        "city": "Paekākāriki",
+        "hamlet": "Paekakariki Hill",
+        "postcode": "5034",
+        "street": "Paekakariki Hill Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.9384042,
+        "lat": -41.0040778,
+        "state_code": "WGN",
+        "formatted": "Lookout north over Kapiti Island and the Kapiti Coast, Paekakariki Hill Road, Paekākāriki 5034, New Zealand",
+        "address_line1": "Lookout north over Kapiti Island and the Kapiti Coast",
+        "address_line2": "Paekakariki Hill Road, Paekākāriki 5034, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lookout north over Kapiti Island and the Kapiti Coast",
+            "osm_id": 172188398,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51baad3e6807de65405994ff129f858044c0f00103f901ee62430a000000009203354c6f6f6b6f7574206e6f727468206f766572204b61706974692049736c616e6420616e6420746865204b617069746920436f617374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.93840419999998,
+          -41.00407780101446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn Wind Turbine",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6012",
+        "suburb": "Highbury",
+        "street": "Fence Line Track",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7452583,
+        "lat": -41.3108748,
+        "state_code": "WGN",
+        "formatted": "Brooklyn Wind Turbine, Fence Line Track, Highbury, Wellington 6012, New Zealand",
+        "address_line1": "Brooklyn Wind Turbine",
+        "address_line2": "Fence Line Track, Highbury, Wellington 6012, New Zealand",
+        "categories": [
+          "power",
+          "power.generator",
+          "power.generator.wind",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.power"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Brooklyn Wind Turbine",
+            "model": "E44/900",
+            "power": "generator",
+            "osm_id": 172485632,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "manufacturer": "Enercon",
+            "generator:type": "horizontal_axis",
+            "generator:method": "wind_turbine",
+            "generator:source": "wind",
+            "generator:output:electricity": "900 kW"
+          }
+        },
+        "power": {
+          "method": "wind_turbine",
+          "output": "900 kW"
+        },
+        "place_id": "515132ef27d9d7654059a0c7d7becaa744c0f00103f90100ec470a0000000092031542726f6f6b6c796e2057696e642054757262696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.74525829999996,
+          -41.31087480102656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Memorial Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Kāpiti Coast District",
+        "city": "Paekākāriki",
+        "postcode": "5034",
+        "street": "Wellington Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.9620117,
+        "lat": -40.9721753,
+        "state_code": "WGN",
+        "formatted": "Memorial Lookout, Wellington Road, Paekākāriki 5034, New Zealand",
+        "address_line1": "Memorial Lookout",
+        "address_line2": "Wellington Road, Paekākāriki 5034, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Memorial Lookout",
+            "osm_id": 200611430,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d2bbc2ccc8de65405918ea813d707c44c0f00103f9016616f50b000000009203104d656d6f7269616c204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9620117,
+          -40.97217530101278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historic cable station",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "city": "Rārangi",
+        "street": "Pukatea Bushwalk",
+        "iso3166_2": "NZ-MBH",
+        "lon": 174.05764728822584,
+        "lat": -41.3851873,
+        "state_code": "MBH",
+        "formatted": "Historic cable station, Pukatea Bushwalk, Rārangi, New Zealand",
+        "address_line1": "Historic cable station",
+        "address_line2": "Pukatea Bushwalk, Rārangi, New Zealand",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Historic cable station",
+            "osm_id": 236972797,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "514034203fd8c1654059246046d14db144c0f00102f901fdea1f0e00000000920316486973746f726963206361626c652073746174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.05764728822578,
+          -41.38518730102831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn Bunkers",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6012",
+        "district": "Fitchettown",
+        "suburb": "Brooklyn",
+        "street": "Hawkins Hill Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.75173216535325,
+        "lat": -41.30485305,
+        "state_code": "WGN",
+        "formatted": "Brooklyn Bunkers, Hawkins Hill Road, Brooklyn, Wellington 6012, New Zealand",
+        "address_line1": "Brooklyn Bunkers",
+        "address_line2": "Hawkins Hill Road, Brooklyn, Wellington 6012, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Brooklyn Bunkers",
+            "osm_id": 275619591,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w",
+            "description": "WW2 Anti-aircraft Gun Emplacements"
+          }
+        },
+        "description": "WW2 Anti-aircraft Gun Emplacements",
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5164319d300ed8654059431fbe6c05a744c0f00102f901079f6d100000000092031042726f6f6b6c796e2042756e6b657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.75173216535325,
+          -41.304853051026406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Rauparaha Pouwhenua",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6023",
+        "suburb": "Happy Valley",
+        "street": "Wharangi",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7621833,
+        "lat": -41.3292346,
+        "state_code": "WGN",
+        "formatted": "Te Rauparaha Pouwhenua, Wharangi, Happy Valley, Wellington 6023, New Zealand",
+        "address_line1": "Te Rauparaha Pouwhenua",
+        "address_line2": "Wharangi, Happy Valley, Wellington 6023, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Te Rauparaha Pouwhenua",
+            "osm_id": 293346616,
+            "name:mi": "Te Rauparaha Pouwhenua",
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Bruce Stewart",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "mi": "Te Rauparaha Pouwhenua"
+        },
+        "artwork": {
+          "artist_name": "Bruce Stewart",
+          "artwork_type": "statue"
+        },
+        "place_id": "51d7613bce63d8654059b40f025c24aa44c0f00103f901381d7c110000000092031654652052617570617261686120506f757768656e7561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76218330000003,
+          -41.329234601027025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centennial Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Roseneath",
+        "street": "Lookout Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7981696,
+        "lat": -41.2949722,
+        "state_code": "WGN",
+        "formatted": "Centennial Lookout, Lookout Road, Roseneath, Wellington 6011, New Zealand",
+        "address_line1": "Centennial Lookout",
+        "address_line2": "Lookout Road, Roseneath, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centennial Lookout",
+            "osm_id": 296293162,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512a15f99a8ad965405975512aa6c1a544c0f00103f9012a13a9110000000092031243656e74656e6e69616c204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7981696,
+          -41.294972201026134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "13.5 cm Kanone 09",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "suburb": "Wellington Central",
+        "quarter": "Paekākā",
+        "street": "East Path",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7682834,
+        "lat": -41.2843474,
+        "state_code": "WGN",
+        "formatted": "13.5 cm Kanone 09, East Path, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "13.5 cm Kanone 09",
+        "address_line2": "East Path, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "13.5 cm Kanone 09",
+            "osm_id": 298045461,
+            "tourism": "attraction",
+            "historic": "cannon",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "cannon"
+        },
+        "place_id": "51e9a111c795d8654059e40de27e65a444c0f00103f90115d0c3110000000092031131332e3520636d204b616e6f6e65203039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7682834,
+          -41.284347401025826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Hector Memorial Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "suburb": "Kelburn",
+        "quarter": "Paekākā",
+        "street": "Rangaiora Path",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7632305,
+        "lat": -41.2841697,
+        "state_code": "WGN",
+        "formatted": "James Hector Memorial Lookout, Rangaiora Path, Kelburn, Wellington 6145, New Zealand",
+        "address_line1": "James Hector Memorial Lookout",
+        "address_line2": "Rangaiora Path, Kelburn, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "James Hector Memorial Lookout",
+            "osm_id": 307351536,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ea995e626cd8654059c3353aac5fa444c0f00103f901f0cf51120000000092031d4a616d657320486563746f72204d656d6f7269616c204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.76323050000002,
+          -41.284169701025824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilltop View",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "city": "Picton",
+        "postcode": "7220",
+        "street": "Tirohanga Track",
+        "iso3166_2": "NZ-MBH",
+        "lon": 174.0108827,
+        "lat": -41.2983391,
+        "state_code": "MBH",
+        "formatted": "Hilltop View, Tirohanga Track, Picton 7220, New Zealand",
+        "address_line1": "Hilltop View",
+        "address_line2": "Tirohanga Track, Picton 7220, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hilltop View",
+            "osm_id": 322719250,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f312ad2659c06540594903c5f92fa644c0f00103f901124e3c130000000092030c48696c6c746f702056696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.0108827,
+          -41.29833910102622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WWII observation point",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "street": "Red Rocks Coastal Walk",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7163928988612,
+        "lat": -41.35924505,
+        "state_code": "WGN",
+        "formatted": "WWII observation point, Red Rocks Coastal Walk, Wellington, New Zealand",
+        "address_line1": "WWII observation point",
+        "address_line2": "Red Rocks Coastal Walk, Wellington, New Zealand",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "WWII observation point",
+            "osm_id": 326147965,
+            "tourism": "viewpoint",
+            "building": "yes",
+            "historic": "ruins",
+            "military": "barracks",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5140f6ccb0ecd665405900b5e8bdfbad44c0f00102f9017d9f70130000000092031657574949206f62736572766174696f6e20706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.71639289886116,
+          -41.359245051027756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seal Colony",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "street": "Coast Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.918459,
+        "lat": -41.4377274,
+        "state_code": "WGN",
+        "formatted": "Seal Colony, Coast Road, New Zealand",
+        "address_line1": "Seal Colony",
+        "address_line2": "Coast Road, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Seal Colony",
+            "osm_id": 330651056,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f1f6200464dd654059effd937307b844c0f00103f901b055b5130000000092030b5365616c20436f6c6f6e79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.918459,
+          -41.437727401029285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Rock",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "South Wairarapa District",
+        "city": "Martinborough Community",
+        "street": "Ngapotiki Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.396703,
+        "lat": -41.5685982,
+        "state_code": "WGN",
+        "formatted": "White Rock, Ngapotiki Road, Martinborough Community, New Zealand",
+        "address_line1": "White Rock",
+        "address_line2": "Ngapotiki Road, Martinborough Community, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "White Rock",
+            "osm_id": 332323692,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5133677dcab1ec654059dafe6ad3c7c844c0f00103f9016cdbce130000000092030a576869746520526f636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.39670299999997,
+          -41.56859820103064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Labrynth",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "city": "Lower Hutt",
+        "postcode": "5011",
+        "suburb": "Boulcott",
+        "street": "High Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.9243667610215,
+        "lat": -41.2035737,
+        "state_code": "WGN",
+        "formatted": "Labrynth, High Street, Boulcott, Lower Hutt 5011, New Zealand",
+        "address_line1": "Labrynth",
+        "address_line2": "High Street, Boulcott, Lower Hutt 5011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Labrynth",
+            "osm_id": 356907427,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5118039a6994dd654059351cfab30e9a44c0f00102f901a3f94515000000009203084c616272796e7468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.92436676102147,
+          -41.20357370102321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wind Turbine",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6012",
+        "district": "Fitchettown",
+        "suburb": "Brooklyn",
+        "street": "Hawkins Hill Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7452779,
+        "lat": -41.3108993,
+        "state_code": "WGN",
+        "formatted": "Wind Turbine, Hawkins Hill Road, Brooklyn, Wellington 6012, New Zealand",
+        "address_line1": "Wind Turbine",
+        "address_line2": "Hawkins Hill Road, Brooklyn, Wellington 6012, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 383,
+            "name": "Wind Turbine",
+            "osm_id": 447755989,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 383,
+        "place_id": "51cfdd0951d9d765405912215d8ccba744c0f00103f901d536b01a0000000092030c57696e642054757262696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7452779,
+          -41.310899301026566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christ Church (Taita)",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "city": "Lower Hutt",
+        "postcode": "5011",
+        "suburb": "Pōmare",
+        "street": "Eastern Hutt Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.96018148857905,
+        "lat": -41.182102,
+        "state_code": "WGN",
+        "formatted": "Christ Church (Taita), Eastern Hutt Road, Pōmare, Lower Hutt 5011, New Zealand",
+        "address_line1": "Christ Church (Taita)",
+        "address_line2": "Eastern Hutt Road, Pōmare, Lower Hutt 5011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Christ Church (Taita)",
+            "osm_id": 466054038,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "Lower Hutt",
+            "addr:street": "Eastern Hutt Road"
+          }
+        },
+        "place_id": "517e7587ceb9de654059b7764d1e4f9744c0f00102f901966bc71b00000000920315436872697374204368757263682028546169746129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.96018148857905,
+          -41.18210200102242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cross Creek Miniature Railway",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "South Wairarapa District",
+        "city": "Featherston Community",
+        "town": "Featherston",
+        "postcode": "5710",
+        "street": "Birdwood Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.3279239,
+        "lat": -41.1168671,
+        "state_code": "WGN",
+        "formatted": "Cross Creek Miniature Railway, Birdwood Street, Featherston Community 5710, New Zealand",
+        "address_line1": "Cross Creek Miniature Railway",
+        "address_line2": "Birdwood Street, Featherston Community 5710, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cross Creek Miniature Railway",
+            "osm_id": 510106173,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517542435a7eea654059df6d4c80f58e44c0f00103f9013d9a671e0000000092031d43726f737320437265656b204d696e696174757265205261696c776179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3279239,
+          -41.1168671010198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladstone Vineyard",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Carterton District",
+        "postcode": "5792",
+        "street": "Gladstone Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.6067937,
+        "lat": -41.0619441,
+        "state_code": "WGN",
+        "formatted": "Gladstone Vineyard, Gladstone Road, 5792, New Zealand",
+        "address_line1": "Gladstone Vineyard",
+        "address_line2": "Gladstone Road, 5792, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gladstone Vineyard",
+            "osm_id": 582458233,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51661d9fda6af36540595906c8c8ed8744c0f00103f901799bb72200000000920312476c616473746f6e652056696e6579617264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.60679369999997,
+          -41.06194410101734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seal Colony",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "South Wairarapa District",
+        "city": "Martinborough Community",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.274004,
+        "lat": -41.6103844,
+        "state_code": "WGN",
+        "formatted": "Seal Colony, Martinborough Community, South Wairarapa District, New Zealand",
+        "address_line1": "Seal Colony",
+        "address_line2": "Martinborough Community, South Wairarapa District, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Seal Colony",
+            "osm_id": 602455791,
+            "natural": "reserve",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51235f09a4c4e86540593635781321ce44c0f00103f901efbee8230000000092030b5365616c20436f6c6f6e79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.27400399999996,
+          -41.61038440103077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stuart Macaskill Lakes Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Upper Hutt City",
+        "city": "Upper Hutt",
+        "suburb": "The Plateau",
+        "street": "State Highway 2",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.1497261,
+        "lat": -41.0868343,
+        "state_code": "WGN",
+        "formatted": "Stuart Macaskill Lakes Lookout, State Highway 2, The Plateau, Upper Hutt, New Zealand",
+        "address_line1": "Stuart Macaskill Lakes Lookout",
+        "address_line2": "State Highway 2, The Plateau, Upper Hutt, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stuart Macaskill Lakes Lookout",
+            "osm_id": 622303816,
+            "tourism": "viewpoint",
+            "alt_name": "Te Marua Lakes Lookout",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "Te Marua Lakes Lookout"
+        },
+        "place_id": "5172db638ecae4654059ce85e9621d8b44c0f00103f901489a17250000000092031e537475617274204d616361736b696c6c204c616b6573204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.1497261,
+          -41.08683430101847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wētā Digital",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6020",
+        "suburb": "Maupuia",
+        "street": "Manuka Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8236693,
+        "lat": -41.3054246,
+        "state_code": "WGN",
+        "formatted": "Wētā Digital, Manuka Street, Maupuia, Wellington 6020, New Zealand",
+        "address_line1": "Wētā Digital",
+        "address_line2": "Manuka Street, Maupuia, Wellington 6020, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wētā Digital",
+            "osm_id": 838494068,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510447b87f5bda654059b266402718a744c0f00103f9017467fa310000000092030e57c49374c481204469676974616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8236693,
+          -41.30542460102642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington Flagstaff",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6040",
+        "suburb": "Te Aro",
+        "street": "Terrace Gardens",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.77326622041159,
+        "lat": -41.289511700000006,
+        "state_code": "WGN",
+        "formatted": "Wellington Flagstaff, Terrace Gardens, Te Aro, Wellington 6040, New Zealand",
+        "address_line1": "Wellington Flagstaff",
+        "address_line2": "Terrace Gardens, Te Aro, Wellington 6040, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Wellington Flagstaff",
+            "osm_id": 953677907,
+            "tourism": "attraction",
+            "operator": "Wellington City Council",
+            "osm_type": "w"
+          }
+        },
+        "operator": "Wellington City Council",
+        "place_id": "519ef8cc98bed8654059a2db2bb80ea544c0f00102f90153f8d7380000000092031457656c6c696e67746f6e20466c61677374616666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77326622041159,
+          -41.28951170102597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butterfly Creek",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "postcode": "5013",
+        "suburb": "Muritai",
+        "street": "Gollans Valley Route",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.9005986,
+        "lat": -41.3120125,
+        "state_code": "WGN",
+        "formatted": "Butterfly Creek, Gollans Valley Route, Muritai, 5013, New Zealand",
+        "address_line1": "Butterfly Creek",
+        "address_line2": "Gollans Valley Route, Muritai, 5013, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Butterfly Creek",
+            "osm_id": 987399031,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5159ba27b4d1dc6540591aed8f06f0a744c0f00103f9017783da3a0000000092030f427574746572666c7920437265656b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9005986,
+          -41.31201250102659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapiti Island Ferry Deprature Point",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Kāpiti Coast District",
+        "city": "Paraparaumu",
+        "postcode": "5252",
+        "suburb": "Paraparaumu Beach",
+        "street": "Kapiti Road",
+        "housenumber": "beach front",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.98066923137054,
+        "lat": -40.89113225,
+        "state_code": "WGN",
+        "formatted": "Kapiti Island Ferry Deprature Point, beach front Kapiti Road, Paraparaumu Beach, Paraparaumu 5252, New Zealand",
+        "address_line1": "Kapiti Island Ferry Deprature Point",
+        "address_line2": "beach front Kapiti Road, Paraparaumu Beach, Paraparaumu 5252, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kapiti Island Ferry Deprature Point",
+            "osm_id": 1004741865,
+            "tourism": "attraction",
+            "operator": "Department oif Conservation",
+            "osm_type": "w",
+            "addr:city": "Paraparaumu",
+            "addr:street": "Kapiti Road",
+            "addr:housenumber": "beach front"
+          }
+        },
+        "operator": "Department oif Conservation",
+        "place_id": "51c29d70a461df654059d03e219f107244c0f00102f901e924e33b000000009203234b61706974692049736c616e642046657272792044657072617475726520506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.98066923137054,
+          -40.891132251008116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rex Green Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Porirua City",
+        "city": "Porirua",
+        "postcode": "5037",
+        "suburb": "Whitby",
+        "street": "The Crowsnest",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8957978,
+        "lat": -41.1068464,
+        "state_code": "WGN",
+        "formatted": "Rex Green Lookout, The Crowsnest, Whitby, Porirua 5037, New Zealand",
+        "address_line1": "Rex Green Lookout",
+        "address_line2": "The Crowsnest, Whitby, Porirua 5037, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rex Green Lookout",
+            "osm_id": 1130779738,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5184da2560aadc6540596a099324ad8d44c0f00103f9015a5466430000000092031152657820477265656e204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.89579779999997,
+          -41.10684640101938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Huaki ki te Ao",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6145",
+        "district": "Lambton",
+        "suburb": "Wellington Central",
+        "street": "Brandon's Corner",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7770018,
+        "lat": -41.2781655,
+        "state_code": "WGN",
+        "formatted": "Te Huaki ki te Ao, Brandon's Corner, Wellington Central, Wellington 6145, New Zealand",
+        "address_line1": "Te Huaki ki te Ao",
+        "address_line2": "Brandon's Corner, Wellington Central, Wellington 6145, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Te Huaki ki te Ao",
+            "osm_id": 1193469617,
+            "name:mi": "Te Huaki ki te Ao",
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "installation"
+          }
+        },
+        "name_international": {
+          "mi": "Te Huaki ki te Ao"
+        },
+        "artwork": {
+          "artwork_type": "installation"
+        },
+        "place_id": "51dcfde032ddd8654059e8e358ed9aa344c0f00102f901b1e62247000000009203115465204875616b69206b6920746520416f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7770018,
+          -41.278165501025626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First shore whaling station 1827",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "iso3166_2": "NZ-MBH",
+        "lon": 174.2879394,
+        "lat": -41.2076214,
+        "state_code": "MBH",
+        "formatted": "First shore whaling station 1827, Marlborough District, New Zealand",
+        "address_line1": "First shore whaling station 1827",
+        "address_line2": "Marlborough District, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "First shore whaling station 1827",
+            "osm_id": 1225168214,
+            "tourism": "attraction",
+            "historic": "yes",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515a47b0cc36c965405929ac8b56939a44c0f00103f901569506490000000092032046697273742073686f7265207768616c696e672073746174696f6e2031383237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.28793939999997,
+          -41.20762140102335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treaty of Waitangi signing 1840",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "street": "Port Underwood Road",
+        "iso3166_2": "NZ-MBH",
+        "lon": 174.1318,
+        "lat": -41.3314317,
+        "state_code": "MBH",
+        "formatted": "Treaty of Waitangi signing 1840, Port Underwood Road, New Zealand",
+        "address_line1": "Treaty of Waitangi signing 1840",
+        "address_line2": "Port Underwood Road, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Treaty of Waitangi signing 1840",
+            "osm_id": 1225168321,
+            "tourism": "attraction",
+            "historic": "yes",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519c33a2b437c465405971629e5a6caa44c0f00103f901c19506490000000092031f547265617479206f662057616974616e6769207369676e696e672031383430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.1318,
+          -41.33143170102711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Our Lady of Lourdes",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Kāpiti Coast District",
+        "city": "Paraparaumu",
+        "postcode": "5032",
+        "street": "Ruahine Street",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.0108766,
+        "lat": -40.9172895,
+        "state_code": "WGN",
+        "formatted": "Our Lady of Lourdes, Ruahine Street, Paraparaumu 5032, New Zealand",
+        "address_line1": "Our Lady of Lourdes",
+        "address_line2": "Ruahine Street, Paraparaumu 5032, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Our Lady of Lourdes",
+            "osm_id": 1225171647,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "515429e21959e06540597de60bbe697544c0f00103f901bfa20649000000009203134f7572204c616479206f66204c6f7572646573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.01087659999996,
+          -40.91728950100967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old mill site",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Manawatū-Whanganui",
+        "county": "Horowhenua District",
+        "postcode": "5573",
+        "street": "North Manakau Road",
+        "iso3166_2": "NZ-MWT",
+        "lon": 175.2723194,
+        "lat": -40.7424603,
+        "formatted": "Old mill site, North Manakau Road, 5573, New Zealand",
+        "address_line1": "Old mill site",
+        "address_line2": "North Manakau Road, 5573, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Old mill site",
+            "osm_id": 1225192364,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511fa22cd7b6e8654059cfae6bf0085f44c0f00103f901acf306490000000092030d4f6c64206d696c6c2073697465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2723194,
+          -40.742460300998225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water intake",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Carterton District",
+        "street": "Kaipaitangata Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.4414188,
+        "lat": -40.990403,
+        "state_code": "WGN",
+        "formatted": "Water intake, Kaipaitangata Road, New Zealand",
+        "address_line1": "Water intake",
+        "address_line2": "Kaipaitangata Road, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Water intake",
+            "osm_id": 1225221905,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51deba511a20ee6540596d9b8986c57e44c0f00103f901116707490000000092030c576174657220696e74616b65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.4414188,
+          -40.99040300101374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sewer outlet",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "street": "Kohangapiripiri Track",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.851474,
+        "lat": -41.3650881,
+        "state_code": "WGN",
+        "formatted": "Sewer outlet, Kohangapiripiri Track, New Zealand",
+        "address_line1": "Sewer outlet",
+        "address_line2": "Kohangapiripiri Track, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sewer outlet",
+            "osm_id": 1225226950,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519dec66463fdb6540596a09f734bbae44c0f00103f901c67a07490000000092030c5365776572206f75746c6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.85147399999997,
+          -41.365088101027894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sewer outlet",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "street": "Noel Ashton Way",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.6777048,
+        "lat": -41.3424949,
+        "state_code": "WGN",
+        "formatted": "Sewer outlet, Noel Ashton Way, Wellington, New Zealand",
+        "address_line1": "Sewer outlet",
+        "address_line2": "Noel Ashton Way, Wellington, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sewer outlet",
+            "osm_id": 1225245510,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f30afac1afd5654059ca7a77dfd6ab44c0f00103f90146c307490000000092030c5365776572206f75746c6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.6777048,
+          -41.342494901027365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Radar station",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6023",
+        "street": "Hawkins Hill Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.725444,
+        "lat": -41.3300946,
+        "state_code": "WGN",
+        "formatted": "Radar station, Hawkins Hill Road, Wellington 6023, New Zealand",
+        "address_line1": "Radar station",
+        "address_line2": "Hawkins Hill Road, Wellington 6023, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Radar station",
+            "osm_id": 1225276170,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518be255d636d7654059abff358a40aa44c0f00103f9010a3b08490000000092030d52616461722073746174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.725444,
+          -41.330094601027064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derelict bridge",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "street": "Cable Station Road",
+        "iso3166_2": "NZ-MBH",
+        "lon": 174.1493089,
+        "lat": -41.6677297,
+        "state_code": "MBH",
+        "formatted": "Derelict bridge, Cable Station Road, New Zealand",
+        "address_line1": "Derelict bridge",
+        "address_line2": "Cable Station Road, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Derelict bridge",
+            "osm_id": 1225343755,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510d507523c7c4654059523fb62a78d544c0f00103f9010b4309490000000092030f446572656c69637420627269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.14930889999997,
+          -41.667729701030694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harling Park Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "postcode": "7201",
+        "suburb": "Witherlea",
+        "street": "Lower Harling Track",
+        "iso3166_2": "NZ-MBH",
+        "lon": 173.9496244,
+        "lat": -41.5429191,
+        "state_code": "MBH",
+        "formatted": "Harling Park Lookout, Lower Harling Track, Witherlea, 7201, New Zealand",
+        "address_line1": "Harling Park Lookout",
+        "address_line2": "Lower Harling Track, Witherlea, 7201, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harling Park Lookout",
+            "osm_id": 1638548878,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5179afb55263be6540595da6835f7ec544c0f00103f9018e45aa61000000009203144861726c696e67205061726b204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.94962439999998,
+          -41.5429191010305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Charlotte View",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "city": "Waikawa",
+        "postcode": "7220",
+        "street": "Westside",
+        "iso3166_2": "NZ-MBH",
+        "lon": 174.0352684,
+        "lat": -41.2602251,
+        "state_code": "MBH",
+        "formatted": "Queen Charlotte View, Westside, Waikawa 7220, New Zealand",
+        "address_line1": "Queen Charlotte View",
+        "address_line2": "Westside, Waikawa 7220, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Queen Charlotte View",
+            "osm_id": 1706584178,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a31232eb20c165405921405d0e4fa144c0f00103f9017268b86500000000920314517565656e20436861726c6f7474652056696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.03526840000004,
+          -41.26022510102508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Snout View",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "city": "Waikawa",
+        "postcode": "7220",
+        "street": "Westside",
+        "iso3166_2": "NZ-MBH",
+        "lon": 174.0488135,
+        "lat": -41.2505987,
+        "state_code": "MBH",
+        "formatted": "The Snout View, Westside, Waikawa 7220, New Zealand",
+        "address_line1": "The Snout View",
+        "address_line2": "Westside, Waikawa 7220, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Snout View",
+            "osm_id": 1706584179,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514e4354e18fc165405928a9449e13a044c0f00103f9017368b8650000000092030e54686520536e6f75742056696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.0488135,
+          -41.250598701024785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish Ladder",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6035",
+        "suburb": "Crofton Downs",
+        "street": "Ngaio Gorge Track",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7692888,
+        "lat": -41.2597886,
+        "state_code": "WGN",
+        "formatted": "Fish Ladder, Ngaio Gorge Track, Crofton Downs, Wellington 6035, New Zealand",
+        "address_line1": "Fish Ladder",
+        "address_line2": "Ngaio Gorge Track, Crofton Downs, Wellington 6035, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fish Ladder",
+            "osm_id": 1753424821,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bba58b039ed865405961a3bcc040a144c0f00103f901b52383680000000092030b46697368204c6164646572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7692888,
+          -41.2597886010251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanhope Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "city": "Lower Hutt",
+        "postcode": "5012",
+        "suburb": "Korokoro",
+        "street": "Puriri",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8766968,
+        "lat": -41.2172101,
+        "state_code": "WGN",
+        "formatted": "Stanhope Lookout, Puriri, Korokoro, Lower Hutt 5012, New Zealand",
+        "address_line1": "Stanhope Lookout",
+        "address_line2": "Puriri, Korokoro, Lower Hutt 5012, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stanhope Lookout",
+            "osm_id": 1782479157,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51409072e60ddc654059fa20648acd9b44c0f00103f90135793e6a000000009203105374616e686f7065204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8766968,
+          -41.217210101023696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hau Nui Wind Farm Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "South Wairarapa District",
+        "city": "Martinborough Community",
+        "street": "White Rock Road",
+        "iso3166_2": "NZ-WGN",
+        "lon": 175.4911042,
+        "lat": -41.3576574,
+        "state_code": "WGN",
+        "formatted": "Hau Nui Wind Farm Lookout, White Rock Road, Martinborough Community, New Zealand",
+        "address_line1": "Hau Nui Wind Farm Lookout",
+        "address_line2": "White Rock Road, Martinborough Community, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hau Nui Wind Farm Lookout",
+            "osm_id": 1789294074,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b4bd2720b7ef6540590f4bbcb7c7ad44c0f00103f901fa75a66a00000000920319486175204e75692057696e64204661726d204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.4911042,
+          -41.357657401027716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt Vernon",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "street": "Mt Vernon Track",
+        "iso3166_2": "NZ-MBH",
+        "lon": 173.9806733,
+        "lat": -41.5614728,
+        "state_code": "MBH",
+        "formatted": "Mt Vernon Track, New Zealand",
+        "address_line1": "Mt Vernon Track",
+        "address_line2": "New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mt Vernon",
+            "osm_id": 1812324862,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eff1f8ac61bf6540598f023b57dec744c0f00103f901fee1056c000000009203094d74205665726e6f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.9806733,
+          -41.56147280103061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crown",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Marlborough",
+        "county": "Marlborough District",
+        "postcode": "7301",
+        "street": "Cob Cottage Track",
+        "iso3166_2": "NZ-MBH",
+        "lon": 173.9785826,
+        "lat": -41.5569643,
+        "state_code": "MBH",
+        "formatted": "The Crown, Cob Cottage Track, 7301, New Zealand",
+        "address_line1": "The Crown",
+        "address_line2": "Cob Cottage Track, 7301, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Crown",
+            "osm_id": 1812324874,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e9ed748c50bf654059a1fb309b4ac744c0f00103f9010ae2056c000000009203095468652043726f776e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.9785826,
+          -41.55696430103058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kohangatera Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "street": "Lookout Track",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.872387,
+        "lat": -41.3575385,
+        "state_code": "WGN",
+        "formatted": "Lake Kohangatera Lookout, Lookout Track, New Zealand",
+        "address_line1": "Lake Kohangatera Lookout",
+        "address_line2": "Lookout Track, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lake Kohangatera Lookout",
+            "osm_id": 1907945534,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51944e2498eadb654059cb7c54d2c3ad44c0f00103f9013ef0b871000000009203184c616b65204b6f68616e676174657261204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.872387,
+          -41.357538501027726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valley View Hill Lookout",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "street": "Kohangatera Track",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8750083,
+        "lat": -41.3662119,
+        "state_code": "WGN",
+        "formatted": "Valley View Hill Lookout, Kohangatera Track, New Zealand",
+        "address_line1": "Valley View Hill Lookout",
+        "address_line2": "Kohangatera Track, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Valley View Hill Lookout",
+            "osm_id": 1907945535,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514f07681100dc65405912291508e0ae44c0f00103f9013ff0b8710000000092031856616c6c657920566965772048696c6c204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.87500829999996,
+          -41.36621190102791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Pencarrow Lighthouse",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "street": "Lighthouse Track",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8500184,
+        "lat": -41.358848,
+        "state_code": "WGN",
+        "formatted": "Old Pencarrow Lighthouse, Lighthouse Track, New Zealand",
+        "address_line1": "Old Pencarrow Lighthouse",
+        "address_line2": "Lighthouse Track, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Old Pencarrow Lighthouse",
+            "osm_id": 1907956583,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f39fc95933db654059175336bbeead44c0f00103f901671bb971000000009203184f6c642050656e636172726f77204c69676874686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.85001840000004,
+          -41.358848001027745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Lower Hutt City",
+        "city": "Lower Hutt",
+        "postcode": "5012",
+        "suburb": "Korokoro",
+        "street": "Sugarloaf",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.8710932,
+        "lat": -41.2094944,
+        "state_code": "WGN",
+        "formatted": "Sugarloaf, Korokoro, Lower Hutt 5012, New Zealand",
+        "address_line1": "Sugarloaf",
+        "address_line2": "Korokoro, Lower Hutt 5012, New Zealand",
+        "name": "Sugarloaf",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sugarloaf",
+            "osm_id": 1931274191,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5193b8d8fedfdb6540599a8b68b6d09a44c0f00103f901cfe71c730000000092030953756761726c6f6166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8710932,
+          -41.209494401023406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makara Peak Summit Viewing Deck",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6012",
+        "street": "Snake Charmer",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7073199,
+        "lat": -41.2885637,
+        "state_code": "WGN",
+        "formatted": "Makara Peak Summit Viewing Deck, Snake Charmer, Wellington 6012, New Zealand",
+        "address_line1": "Makara Peak Summit Viewing Deck",
+        "address_line2": "Snake Charmer, Wellington 6012, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Makara Peak Summit Viewing Deck",
+            "osm_id": 2065718761,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eac9575da2d66540590e5cc5a7efa444c0f00103f901e95d207b0000000092031f4d616b617261205065616b2053756d6d69742056696577696e67204465636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.70731989999996,
+          -41.28856370102595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NZX Stock Ticker",
+        "country": "New Zealand",
+        "country_code": "nz",
+        "state": "Wellington",
+        "county": "Wellington City",
+        "city": "Wellington",
+        "postcode": "6011",
+        "suburb": "Te Aro",
+        "street": "Odlins Plaza",
+        "iso3166_2": "NZ-WGN",
+        "lon": 174.7796514,
+        "lat": -41.2897745,
+        "state_code": "WGN",
+        "formatted": "NZX Stock Ticker, Odlins Plaza, Te Aro, Wellington 6011, New Zealand",
+        "address_line1": "NZX Stock Ticker",
+        "address_line2": "Odlins Plaza, Te Aro, Wellington 6011, New Zealand",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "NZX Stock Ticker",
+            "osm_id": 2189599601,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fa287ee7f2d8654059878fb25417a544c0f00103f90171a38282000000009203104e5a582053746f636b205469636b6572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77965139999998,
+          -41.28977450102598
+        ]
+      }
+    }
+  ]
+}

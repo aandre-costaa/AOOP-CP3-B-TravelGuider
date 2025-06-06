@@ -1,0 +1,4803 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Village-Opéra Afrique",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-Plateau",
+        "county": "Oubritenga",
+        "city": "Laongo",
+        "street": "D 40",
+        "iso3166_2": "BF-11",
+        "iso3166_2_sublevel": "BF-OUB",
+        "lon": -1.2803016606428335,
+        "lat": 12.54391785,
+        "formatted": "Opera Village Africa, D 40, Laongo, Oubritenga, Central-Plateau, Burkina Faso",
+        "address_line1": "Opera Village Africa",
+        "address_line2": "D 40, Laongo, Oubritenga, Central-Plateau, Burkina Faso",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.arts_centre",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Village-Opéra Afrique",
+            "osm_id": 316757639,
+            "amenity": "arts_centre",
+            "name:de": "Operndorf Afrika",
+            "name:en": "Opera Village Africa",
+            "tourism": "attraction",
+            "operator": "Festspielhaus Afrika gGmbH",
+            "osm_type": "w",
+            "wikidata": "Q2026650",
+            "contact:website": "http://www.operndorf-afrika.com/"
+          }
+        },
+        "website": "http://www.operndorf-afrika.com/",
+        "operator": "Festspielhaus Afrika gGmbH",
+        "name_international": {
+          "de": "Operndorf Afrika",
+          "en": "Opera Village Africa"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2026650"
+        },
+        "place_id": "517c9b17981d7cf4bf5954c37f667c162940f00102f9018756e1120000000092031656696c6c6167652d4f70c3a972612041667269717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2803016606428335,
+          12.54391784963233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHEZ DEZ",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "Rue 17.423",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5708691,
+        "lat": 12.3396805,
+        "formatted": "DEZ ROOM, Rue 17.423, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "DEZ ROOM",
+        "address_line2": "Rue 17.423, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "CHEZ DEZ",
+            "email": "kabore_s_desire@yahoo.fr",
+            "phone": "+22676687810",
+            "osm_id": 5020629324,
+            "name:en": "DEZ ROOM",
+            "name:fr": "CHEZ DEZ",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Rue 17.423",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "DEZ ROOM",
+          "fr": "CHEZ DEZ"
+        },
+        "contact": {
+          "phone": "+22676687810",
+          "email": "kabore_s_desire@yahoo.fr"
+        },
+        "place_id": "5152c02ca34722f9bf59e7d8399aeaad2840f00103f9014cb9402b010000009203084348455a2044455a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5708691,
+          12.33968049961227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond Point des Nations Unis;centre de Ouagadougou",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5196252000000001,
+        "lat": 12.3714032,
+        "formatted": "Rond Point des Nations Unis;centre de Ouagadougou, Ouagadougou, Kadiogo, Burkina Faso",
+        "address_line1": "Rond Point des Nations Unis;centre de Ouagadougou",
+        "address_line2": "Ouagadougou, Kadiogo, Burkina Faso",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond Point des Nations Unis;centre de Ouagadougou",
+            "osm_id": 479618281,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wheelchair": "no",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "51ded682836250f8bf5996f4678f28be2840f00102f901e964961c00000000920331526f6e6420506f696e7420646573204e6174696f6e7320556e69733b63656e747265206465204f75616761646f75676f75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5196251999999997,
+          12.371403199615354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sculptures sur Granit de Laongo",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-Plateau",
+        "county": "Oubritenga",
+        "city": "Laongo",
+        "street": "D 40",
+        "iso3166_2": "BF-11",
+        "iso3166_2_sublevel": "BF-OUB",
+        "lon": -1.284392056627084,
+        "lat": 12.5367696,
+        "formatted": "Sculptures sur Granit de Laongo, D 40, Laongo, Oubritenga, Central-Plateau, Burkina Faso",
+        "address_line1": "Sculptures sur Granit de Laongo",
+        "address_line2": "D 40, Laongo, Oubritenga, Central-Plateau, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sculptures sur Granit de Laongo",
+            "osm_id": 530334955,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q22082362",
+            "wikipedia": "en:Symposium de sculpture sur granit de Laongo"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q22082362",
+          "wikipedia": "en:Symposium de sculpture sur granit de Laongo"
+        },
+        "place_id": "51c04967afde8cf4bf5942cf0777d3122940f00102f901eb449c1f0000000092031f5363756c70747572657320737572204772616e6974206465204c616f6e676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.284392056627084,
+          12.536769599631615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SIAO",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Silmissin",
+        "street": "Boulevard T. Reongo",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4903281516804394,
+        "lat": 12.35050065,
+        "formatted": "SIAO, Boulevard T. Reongo, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "SIAO",
+        "address_line2": "Boulevard T. Reongo, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.arts_centre",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "SIAO",
+            "osm_id": 27998135,
+            "amenity": "arts_centre",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51fb68fc5462d8f7bf59c6a136d274b32840f00102f901b737ab01000000009203045349414f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.490328151680443,
+          12.35050064961332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FESPACO",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Bilbalogho",
+        "street": "Avenue Kadiogo",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5357804622394369,
+        "lat": 12.3643225,
+        "formatted": "FESPACO, Avenue Kadiogo, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "FESPACO",
+        "address_line2": "Avenue Kadiogo, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "FESPACO",
+            "osm_id": 30818292,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "516077b2888e92f8bf5977158a7a88ba2840f00102f901f43fd601000000009203074645535041434f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5357804622394369,
+          12.364322499614657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palais de Ougodogo Naba",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Gounghin Nord",
+        "street": "Boulevard Tansoba Wam-Godi",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5586702212992938,
+        "lat": 12.37419635,
+        "formatted": "Palais de Ougodogo Naba, Boulevard Tansoba Wam-Godi, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Palais de Ougodogo Naba",
+        "address_line2": "Boulevard Tansoba Wam-Godi, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Palais de Ougodogo Naba",
+            "osm_id": 30941489,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513aac9b2f50f0f8bf5969c3f7a996bf2840f00102f9013121d8010000000092031750616c616973206465204f75676f646f676f204e616261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5586702212992933,
+          12.374196349615618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palais Ouidi Naaba",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Kologh-Naba",
+        "street": "Rue 11.47",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.541386925278764,
+        "lat": 12.3789056,
+        "formatted": "Palais Ouidi Naaba, Rue 11.47, Kologh-Naba, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Palais Ouidi Naaba",
+        "address_line2": "Rue 11.47, Kologh-Naba, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Palais Ouidi Naaba",
+            "osm_id": 30950157,
+            "tourism": "attraction",
+            "historic": "yes",
+            "osm_type": "w",
+            "designation": "Monument Royal"
+          }
+        },
+        "place_id": "515bde285685a9f8bf59a13e2deaffc12840f00102f9010d43d8010000000092031250616c616973204f75696469204e61616261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5413869252787638,
+          12.378905599616077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place des artistes",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Kalgodin",
+        "street": "Rue 29.148",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4946632376709206,
+        "lat": 12.3591527,
+        "formatted": "Place des artistes, Rue 29.148, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Place des artistes",
+        "address_line2": "Rue 29.148, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place des artistes",
+            "osm_id": 151687160,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51fe47c5ff23eaf7bf59d139d6dce2b72840f00102f901f88f0a0900000000920312506c61636520646573206172746973746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.49466323767092,
+          12.359152699614159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palais du Naaba Tigré",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-West",
+        "county": "Boulkiemdé",
+        "city": "Nanoro",
+        "iso3166_2": "BF-06",
+        "iso3166_2_sublevel": "BF-BLK",
+        "lon": -2.1872733382609035,
+        "lat": 12.685659900000001,
+        "formatted": "Palais du Naaba Tigré, Nanoro, Boulkiemdé, Burkina Faso",
+        "address_line1": "Palais du Naaba Tigré",
+        "address_line2": "Nanoro, Boulkiemdé, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Palais du Naaba Tigré",
+            "osm_id": 261842799,
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "castle"
+        },
+        "place_id": "5154f2f929897f01c05956527ad00e5f2940f00102f9016f679b0f0000000092031650616c616973206475204e616162612054696772c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.187273338260903,
+          12.685659899646605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palais Du Baloum Naba",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Bilbalogho",
+        "street": "Rue Pog-Toenga",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5300769191133576,
+        "lat": 12.36575055,
+        "formatted": "Palais Du Baloum Naba, Rue Pog-Toenga, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Palais Du Baloum Naba",
+        "address_line2": "Rue Pog-Toenga, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Palais Du Baloum Naba",
+            "osm_id": 312428521,
+            "barrier": "wall",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51084d7fef317bf8bf59db2df2a743bb2840f00102f901e9479f120000000092031550616c6169732044752042616c6f756d204e616261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5300769191133572,
+          12.365750549614793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La vitrine du Bronze*",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Bilbalogho",
+        "retail": "Zone d'Activités Commerciales et Administratives",
+        "street": "Avenue Nelson Mandela",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5274194948668285,
+        "lat": 12.369424299999999,
+        "formatted": "La vitrine du Bronze*, Avenue Nelson Mandela, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "La vitrine du Bronze*",
+        "address_line2": "Avenue Nelson Mandela, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La vitrine du Bronze*",
+            "osm_id": 318076578,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51229d9b6c4f70f8bf59bb638a2e25bd2840f00102f901a276f512000000009203154c612076697472696e652064752042726f6e7a652a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5274194948668272,
+          12.369424299615153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mare aux caimans sacrés de Sabou",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-West",
+        "county": "Boulkiemdé",
+        "city": "Sabou",
+        "iso3166_2": "BF-06",
+        "iso3166_2_sublevel": "BF-BLK",
+        "lon": -2.2231618247160854,
+        "lat": 12.06684325,
+        "formatted": "Mare aux caimans sacrés de Sabou, Sabou, Boulkiemdé, Burkina Faso",
+        "address_line1": "Mare aux caimans sacrés de Sabou",
+        "address_line2": "Sabou, Boulkiemdé, Burkina Faso",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mare aux caimans sacrés de Sabou",
+            "water": "reservoir",
+            "osm_id": 343723870,
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "seasonal": "yes",
+            "intermittent": "yes"
+          }
+        },
+        "place_id": "515af8161109c901c05966dd454739222840f00102f9015ecf7c14000000009203214d61726520617578206361696d616e732073616372c3a973206465205361626f75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.223161824716084,
+          12.066843249586508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument des Martyrs",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Ouaga 2000",
+        "street": "Rond-Point du Monument des Héros Nationaux",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.502617,
+        "lat": 12.3121867,
+        "formatted": "Monument des Martyrs, Rond-Point du Monument des Héros Nationaux, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Monument des Martyrs",
+        "address_line2": "Rond-Point du Monument des Héros Nationaux, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monument des Martyrs",
+            "osm_id": 1482784214,
+            "tourism": "viewpoint",
+            "historic": "memorial",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "memorial"
+        },
+        "place_id": "513e9e961fb80af8bf59942362efd69f2840f00103f901d67d6158000000009203144d6f6e756d656e7420646573204d617274797273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5026170000000003,
+          12.312186699609619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazoule Sacred Crocodile Pool",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Tanghin-Dassouri",
+        "suburb": "Q-Cissé",
+        "street": "R 34",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.7172355,
+        "lat": 12.3260564,
+        "formatted": "Bazoule Sacred Crocodile Pool, R 34, Tanghin-Dassouri, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Bazoule Sacred Crocodile Pool",
+        "address_line2": "R 34, Tanghin-Dassouri, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bazoule Sacred Crocodile Pool",
+            "osm_id": 1942993928,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bb7b80eecb79fbbf590df649ddf0a62840f00103f90108bccf730000000092031d42617a6f756c65205361637265642043726f636f64696c6520506f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7172355,
+          12.326056399610957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BENEERE ARTISANAT AFRICAIN",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Kalgodin",
+        "retail": "Zone d'Activités Commerciales et Administratives",
+        "street": "Avenue du Président Aboubacar Sangoulé Lamizana",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5160718,
+        "lat": 12.3713282,
+        "formatted": "BENEERE ARTISANAT AFRICAIN, Avenue du Président Aboubacar Sangoulé Lamizana, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "BENEERE ARTISANAT AFRICAIN",
+        "address_line2": "Avenue du Président Aboubacar Sangoulé Lamizana, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "BENEERE ARTISANAT AFRICAIN",
+            "osm_id": 2406030766,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a534f680d441f8bf5965dcd2ba1ebe2840f00103f901ae1d698f0000000092031a42454e45455245204152544953414e415420414652494341494e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5160718,
+          12.371328199615343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place Naaba Koom",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Bilbalogho",
+        "street": "Place Naba Koom",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5262769,
+        "lat": 12.3729747,
+        "formatted": "Place Naaba Koom, Place Naba Koom, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Place Naaba Koom",
+        "address_line2": "Place Naba Koom, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place Naaba Koom",
+            "osm_id": 3430336956,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "51833ea253a16bf8bf59042b328af6be2840f00103f901bcc976cc00000000920310506c616365204e61616261204b6f6f6d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5262768999999998,
+          12.372974699615504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place des Cineastes",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Bilbalogho",
+        "retail": "Zone d'Activités Commerciales et Administratives",
+        "street": "Place des Cinéastes",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.527527,
+        "lat": 12.3685345,
+        "formatted": "Place des Cineastes, Place des Cinéastes, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Place des Cineastes",
+        "address_line2": "Place des Cinéastes, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place des Cineastes",
+            "osm_id": 3430336957,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "51a41ccc26c070f8bf59bf96ce8db0bc2840f00103f901bdc976cc00000000920313506c616365206465732043696e656173746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.527527,
+          12.368534499615064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place du 2 Octobre",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Bilbalogho",
+        "street": "Avenue du Yatenga",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5309699,
+        "lat": 12.3679213,
+        "formatted": "Place du 2 Octobre, Avenue du Yatenga, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Place du 2 Octobre",
+        "address_line2": "Avenue du Yatenga, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place du 2 Octobre",
+            "osm_id": 3430336958,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "51f5903a4bda7ef8bf5953b23a2e60bc2840f00103f901bec976cc00000000920312506c6163652064752032204f63746f627265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5309698999999999,
+          12.367921299615011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrage de Bion",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Bion",
+        "hamlet": "Guiekema",
+        "street": "N 5",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.2194738,
+        "lat": 11.6460377,
+        "formatted": "Barrage de Bion, N 5, Bion, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "Barrage de Bion",
+        "address_line2": "N 5, Bion, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Barrage de Bion",
+            "osm_id": 4127037423,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f24295f5f682f3bf5920180f74c54a2740f00103f901ef97fdf50000000092030f426172726167652064652042696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2194737999999998,
+          11.646037699549254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CREAF/INERA",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Kamboincé",
+        "street": "N 22",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5498221,
+        "lat": 12.4564326,
+        "formatted": "CREAF/INERA, N 22, Kamboincé, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "CREAF/INERA",
+        "address_line2": "N 22, Kamboincé, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "CREAF/INERA",
+            "osm_id": 4127529393,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517fe3214212ccf8bf59786ca088b1e92840f00103f901b11905f60000000092030b43524541462f494e455241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5498220999999999,
+          12.456432599623653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonsrima",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Bazèga",
+        "city": "Koulpelé",
+        "suburb": "Q-Koussala",
+        "street": "N 5",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-BAZ",
+        "lon": -1.2382244,
+        "lat": 11.9384081,
+        "formatted": "Bonsrima, N 5, Koulpelé, Bazèga, Central-South, Burkina Faso",
+        "address_line1": "Bonsrima",
+        "address_line2": "N 5, Koulpelé, Bazèga, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bonsrima",
+            "osm_id": 4128424611,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5160bf7163c4cff3bf595bf3c30677e02740f00103f901a3c212f600000000920308426f6e7372696d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2382244,
+          11.938408099574806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond-point de la Femme",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Kalgodin",
+        "street": "Rue 14.54",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5067547,
+        "lat": 12.3677814,
+        "formatted": "Rond-point de la Femme, Rue 14.54, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Rond-point de la Femme",
+        "address_line2": "Rue 14.54, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond-point de la Femme",
+            "osm_id": 4359711794,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513782f9d0aa1bf8bf59d4d8f6d74dbc2840f00103f90132ecdb0301000000920316526f6e642d706f696e74206465206c612046656d6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5067547,
+          12.36778139961499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond-point du Poulet",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "Boulevard Capitaine Isidore Noël Thomas Sankara",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5079292,
+        "lat": 12.3739378,
+        "formatted": "Rond-point du Poulet, Boulevard Capitaine Isidore Noël Thomas Sankara, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Rond-point du Poulet",
+        "address_line2": "Boulevard Capitaine Isidore Noël Thomas Sankara, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond-point du Poulet",
+            "osm_id": 4359712291,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5161ef6a5e7a20f8bf59a32c78c674bf2840f00103f90123eedb0301000000920314526f6e642d706f696e7420647520506f756c6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5079291999999997,
+          12.373937799615595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chez alain",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Patte d'Oie",
+        "street": "Boulevard T. Reongo",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.513841,
+        "lat": 12.3326043,
+        "formatted": "chez alain, Boulevard T. Reongo, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "chez alain",
+        "address_line2": "Boulevard T. Reongo, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "chez alain",
+            "osm_id": 4369672091,
+            "name:fr": "chez alain",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "chez alain"
+        },
+        "place_id": "51c3802557b138f8bf5976ae5a1c4baa2840f00103f9019be773040100000092030a6368657a20616c61696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.513841,
+          12.332604299611585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forge",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-North",
+        "county": "Sanmatenga",
+        "city": "Kaya",
+        "district": "Kaya-Secteur 1",
+        "street": "N 3",
+        "iso3166_2": "BF-05",
+        "iso3166_2_sublevel": "BF-SMT",
+        "lon": -1.0808719,
+        "lat": 13.0789331,
+        "formatted": "Forge, N 3, Kaya, Sanmatenga, Central-North, Burkina Faso",
+        "address_line1": "Forge",
+        "address_line2": "N 3, Kaya, Sanmatenga, Central-North, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Forge",
+            "osm_id": 4804846523,
+            "name:fr": "Forge",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Forge"
+        },
+        "place_id": "5168a55a55404bf1bf59db7553eb69282a40f00103f901bb23641e01000000920305466f726765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0808719,
+          13.078933099687609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrain à acheter",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "RP",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.51999,
+        "lat": 12.45081,
+        "formatted": "Terrain à acheter, RP, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Terrain à acheter",
+        "address_line2": "RP, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Terrain à acheter",
+            "osm_id": 5046120427,
+            "name:fr": "Terrain à acheter",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Terrain à acheter"
+        },
+        "place_id": "51e0f3c308e151f8bf599e2e7a91d0e62840f00103f901ebafc52c010000009203125465727261696e20c3a02061636865746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51999,
+          12.450809999623115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palais de Sanem Naaba",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Gounghin Nord",
+        "street": "Rue de Grenoble",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.543905,
+        "lat": 12.3605807,
+        "formatted": "Palais de Sanem Naaba, Rue de Grenoble, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Palais de Sanem Naaba",
+        "address_line2": "Rue de Grenoble, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Palais de Sanem Naaba",
+            "osm_id": 5271645823,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Rue de Grenoble"
+          }
+        },
+        "place_id": "511718b2bad5b3f8bf590cd390089eb82840f00103f9017fee363a0100000092031550616c6169732064652053616e656d204e61616261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5439050000000003,
+          12.360580699614296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma maison",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "Avenue Kanzandé Leopold",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4607623,
+        "lat": 12.3610501,
+        "formatted": "Ma maison, Avenue Kanzandé Leopold, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Ma maison",
+        "address_line2": "Avenue Kanzandé Leopold, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ma maison",
+            "osm_id": 5321789525,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5104ad1b4a485ff7bf59511f048fdbb82840f00103f9015510343d010000009203094d61206d6169736f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4607622999999998,
+          12.361050099614348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sougour",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Sougou",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.1194264,
+        "lat": 11.5961335,
+        "formatted": "sougour, Sougou, Zoundwéogo, Burkina Faso",
+        "address_line1": "sougour",
+        "address_line2": "Sougou, Zoundwéogo, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "sougour",
+            "osm_id": 5639831222,
+            "name:fr": "sougour",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "sougour"
+        },
+        "place_id": "51d77624a82be9f1bf592931f96838312740f00103f901b6fe285001000000920307736f75676f7572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1194263999999998,
+          11.596133499545049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "koakin",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Koakin",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.2928062,
+        "lat": 11.6890015,
+        "formatted": "koakin, Koakin, Zoundwéogo, Burkina Faso",
+        "address_line1": "koakin",
+        "address_line2": "Koakin, Zoundwéogo, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "koakin",
+            "osm_id": 5639833125,
+            "name:fr": "koakin",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "koakin"
+        },
+        "place_id": "517b0ed18d55aff4bf5914f3f6cdc4602740f00103f90125062950010000009203066b6f616b696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2928062,
+          11.689001499552923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dissomey",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Larga",
+        "street": "Nicolás",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.1504936,
+        "lat": 11.6131119,
+        "formatted": "dissomey, Nicolás, Larga, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "dissomey",
+        "address_line2": "Nicolás, Larga, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "dissomey",
+            "osm_id": 5639833523,
+            "name:fr": "dissomey",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "dissomey"
+        },
+        "place_id": "51ec1d24fa6b68f2bf595bae8acde9392740f00103f901b307295001000000920308646973736f6d6579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1504936,
+          11.613111899546473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "garancé",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Garancé",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.1352105,
+        "lat": 11.5844513,
+        "formatted": "garancé, Garancé, Zoundwéogo, Burkina Faso",
+        "address_line1": "garancé",
+        "address_line2": "Garancé, Zoundwéogo, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "garancé",
+            "osm_id": 5639833524,
+            "name:fr": "garancé",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "garancé"
+        },
+        "place_id": "518236397cd229f2bf59034b63333d2b2740f00103f901b407295001000000920308676172616e63c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1352105,
+          11.584451299544076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mairie de Noberé",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Nobéré",
+        "street": "N 5",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.2024582,
+        "lat": 11.5536909,
+        "formatted": "mairie de Noberé, N 5, Nobéré, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "mairie de Noberé",
+        "address_line2": "N 5, Nobéré, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "mairie de Noberé",
+            "osm_id": 5639833623,
+            "name:fr": "mairie de Noberé",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "mairie de Noberé"
+        },
+        "place_id": "5194e93ccf443df3bf594c3fa35f7d1b2740f00103f90117082950010000009203116d6169726965206465204e6f626572c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2024581999999997,
+          11.553690899541515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "koakin de guiba",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Siltouko",
+        "street": "N 29",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.1503149,
+        "lat": 11.6783747,
+        "formatted": "koakin de guiba, N 29, Siltouko, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "koakin de guiba",
+        "address_line2": "N 29, Siltouko, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "koakin de guiba",
+            "osm_id": 5639833625,
+            "name:fr": "koakin de guiba",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "koakin de guiba"
+        },
+        "place_id": "51c89fb998b067f2bf59f504baed535b2740f00103f901190829500100000092030f6b6f616b696e206465206775696261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1503148999999997,
+          11.678374699552004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BOURA",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Larga",
+        "street": "Nicolás",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.1413492,
+        "lat": 11.651369,
+        "formatted": "BOURA, Nicolás, Larga, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "BOURA",
+        "address_line2": "Nicolás, Larga, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "BOURA",
+            "osm_id": 5639833626,
+            "name:fr": "BOURA",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "BOURA"
+        },
+        "place_id": "515e0df560f742f2bf597763cd3c804d2740f00103f9011a08295001000000920305424f555241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1413492,
+          11.651368999549716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "linonghin",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Nobili",
+        "hamlet": "Guiekema",
+        "street": "N 5",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.2624936,
+        "lat": 11.6966577,
+        "formatted": "linonghin, N 5, Nobili, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "linonghin",
+        "address_line2": "N 5, Nobili, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "linonghin",
+            "osm_id": 5639834723,
+            "name:fr": "linonghin",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "linonghin"
+        },
+        "place_id": "51848c367d2c33f4bf59aa2d6851b0642740f00103f901630c2950010000009203096c696e6f6e6768696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2624936,
+          11.696657699553572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kaïbo nord v1",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Kaïbo-Centre",
+        "hamlet": "Toi Yako",
+        "street": "N 17",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -0.977725,
+        "lat": 11.79911,
+        "formatted": "kaïbo nord v1, N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "kaïbo nord v1",
+        "address_line2": "N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "kaïbo nord v1",
+            "osm_id": 5639837923,
+            "name:fr": "kaïbo nord v1",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "kaïbo nord v1"
+        },
+        "place_id": "5144696ff08549efbf59f50d24f224992740f00103f901e31829500100000092030e6b61c3af626f206e6f7264207631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.977725,
+          11.799109999562441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kaïbo nord v4",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Kaïbo-Centre",
+        "hamlet": "Toi Yako",
+        "street": "N 17",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -0.9772283,
+        "lat": 11.801545,
+        "formatted": "kaïbo nord v4, N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "kaïbo nord v4",
+        "address_line2": "N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "kaïbo nord v4",
+            "osm_id": 5667600631,
+            "name:fr": "kaïbo nord v4",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "kaïbo nord v4"
+        },
+        "place_id": "51bf38a7487445efbf59abc92e1b649a2740f00103f901f7b8d0510100000092030e6b61c3af626f206e6f7264207634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9772283,
+          11.801544999562642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silkouka",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Bazèga",
+        "street": "Couloir à bétail",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-BAZ",
+        "lon": -1.3964964,
+        "lat": 11.819963,
+        "formatted": "Silkouka, Couloir à bétail, Bazèga, Central-South, Burkina Faso",
+        "address_line1": "Silkouka",
+        "address_line2": "Couloir à bétail, Bazèga, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Silkouka",
+            "osm_id": 5667693122,
+            "name:fr": "Silkouka",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Silkouka"
+        },
+        "place_id": "512fb5ef9b0c58f6bf59fc1db630d2a32740f00103f9014222d2510100000092030853696c6b6f756b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3964964,
+          11.819962999564261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sondré est",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "sondré est",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -0.9335093,
+        "lat": 11.8852471,
+        "formatted": "sondré est, Zoundwéogo, Burkina Faso",
+        "address_line1": "sondré est",
+        "address_line2": "Zoundwéogo, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "sondré est",
+            "osm_id": 5667715751,
+            "name:fr": "sondré est",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "sondré est"
+        },
+        "place_id": "51196140e54edfedbf5976109b1b3fc52740f00103f901a77ad2510100000092030b736f6e6472c3a920657374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9335093,
+          11.885247099570034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kaïbo nord v3",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Kaïbo-Centre",
+        "hamlet": "Toi Yako",
+        "street": "N 17",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -0.9238634,
+        "lat": 11.8201337,
+        "formatted": "kaïbo nord v3, N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "kaïbo nord v3",
+        "address_line2": "N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "kaïbo nord v3",
+            "osm_id": 5667718037,
+            "name:fr": "kaïbo nord v3",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "kaïbo nord v3"
+        },
+        "place_id": "5170151ffa4990edbf59c0f37390e8a32740f00103f9019583d2510100000092030e6b61c3af626f206e6f7264207633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9238634000000001,
+          11.82013369956428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koussala",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Bazèga",
+        "city": "Koulpelé",
+        "suburb": "Q-Koussala",
+        "street": "N 5",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-BAZ",
+        "lon": -1.2624873,
+        "lat": 11.9396163,
+        "formatted": "Koussala, N 5, Koulpelé, Bazèga, Central-South, Burkina Faso",
+        "address_line1": "Koussala",
+        "address_line2": "N 5, Koulpelé, Bazèga, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Koussala",
+            "osm_id": 5667718038,
+            "name:fr": "Koussala",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Koussala"
+        },
+        "place_id": "5170d811e22533f4bf59f8ec3a6315e12740f00103f9019683d251010000009203084b6f757373616c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2624873,
+          11.939616299574922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bonomtoré",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Nini Nobere",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -1.1573167,
+        "lat": 11.8949517,
+        "formatted": "bonomtoré, Nini Nobere, Zoundwéogo, Burkina Faso",
+        "address_line1": "bonomtoré",
+        "address_line2": "Nini Nobere, Zoundwéogo, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "bonomtoré",
+            "osm_id": 5667737922,
+            "name:fr": "bonomtoré",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "bonomtoré"
+        },
+        "place_id": "5193d519845e84f2bf593850f21b37ca2740f00103f90142d1d2510100000092030a626f6e6f6d746f72c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1573166999999998,
+          11.89495169957091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kaïbo nord v2",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Dagamba",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -0.9422283,
+        "lat": 11.8322017,
+        "formatted": "kaïbo nord v2, Dagamba, Zoundwéogo, Burkina Faso",
+        "address_line1": "kaïbo nord v2",
+        "address_line2": "Dagamba, Zoundwéogo, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "kaïbo nord v2",
+            "osm_id": 5667750021,
+            "name:fr": "kaïbo nord v2",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "kaïbo nord v2"
+        },
+        "place_id": "519fb3bbf6bb26eebf59189e565716aa2740f00103f9018500d3510100000092030e6b61c3af626f206e6f7264207632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9422282999999999,
+          11.832201699565346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinikieré",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Zoundwéogo",
+        "city": "Kaïbo-Centre",
+        "hamlet": "Toi Yako",
+        "street": "N 17",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-ZOU",
+        "lon": -0.9534286,
+        "lat": 11.790995,
+        "formatted": "Sinikieré, N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+        "address_line1": "Sinikieré",
+        "address_line2": "N 17, Kaïbo-Centre, Zoundwéogo, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sinikieré",
+            "osm_id": 5667750421,
+            "name:fr": "Sinikieré",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Sinikieré"
+        },
+        "place_id": "51294602b27c82eebf599cd5ec4bfd942740f00103f9011502d3510100000092030a53696e696b696572c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9534285999999997,
+          11.79099499956174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaongo",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Bazèga",
+        "city": "Kaongho",
+        "street": "Couloir à bétail",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-BAZ",
+        "lon": -1.3964747,
+        "lat": 11.7910342,
+        "formatted": "Kaongo, Couloir à bétail, Kaongho, Bazèga, Central-South, Burkina Faso",
+        "address_line1": "Kaongo",
+        "address_line2": "Couloir à bétail, Kaongho, Bazèga, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kaongo",
+            "osm_id": 5667750422,
+            "name:fr": "Kaongo",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Kaongo"
+        },
+        "place_id": "510410e3daf557f6bf593245426f02952740f00103f9011602d351010000009203064b616f6e676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3964746999999997,
+          11.791034199561725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BISSIGA",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Bazèga",
+        "city": "Koakin",
+        "suburb": "Quartier Koukin",
+        "street": "Départementale 39",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-BAZ",
+        "lon": -1.4712691,
+        "lat": 12.0375188,
+        "formatted": "BISSIGA, Départementale 39, Koakin, Bazèga, Central-South, Burkina Faso",
+        "address_line1": "BISSIGA",
+        "address_line2": "Départementale 39, Koakin, Bazèga, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "BISSIGA",
+            "osm_id": 5752924428,
+            "name:fr": "BISSIGA",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "BISSIGA"
+        },
+        "place_id": "517dd8c177518af7bf59326502aa35132840f00103f9010ca9e6560100000092030742495353494741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4712691,
+          12.037518799583811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nabitenga",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.608608,
+        "lat": 12.2457417,
+        "formatted": "Nabitenga, Autoroute de contournement de Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Nabitenga",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nabitenga",
+            "osm_id": 5752924435,
+            "name:fr": "Nabitenga",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Nabitenga"
+        },
+        "place_id": "51ee5701bedbbcf9bf59791e26dbd17d2840f00103f90113a9e656010000009203094e61626974656e6761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6086079999999998,
+          12.245741699603274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dawanegomdé",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Sogué",
+        "street": "R 33",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6196744,
+        "lat": 12.17699,
+        "formatted": "Dawanegomdé, R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Dawanegomdé",
+        "address_line2": "R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dawanegomdé",
+            "osm_id": 5752960531,
+            "name:fr": "Dawanegomdé",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Dawanegomdé"
+        },
+        "place_id": "51dbb122b42feaf9bf5968f9e76e9e5a2840f00103f9011336e7560100000092030c446177616e65676f6d64c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6196743999999998,
+          12.176989999596756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selonghin",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Bazèga",
+        "city": "Toundou",
+        "street": "D47",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-BAZ",
+        "lon": -1.4361241,
+        "lat": 12.021967,
+        "formatted": "Selonghin, D47, Toundou, Bazèga, Central-South, Burkina Faso",
+        "address_line1": "Selonghin",
+        "address_line2": "D47, Toundou, Bazèga, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Selonghin",
+            "osm_id": 5752960624,
+            "name:fr": "Selonghin",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Selonghin"
+        },
+        "place_id": "517df5a7435dfaf6bf595f9831423f0b2840f00103f9017036e7560100000092030953656c6f6e6768696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4361241,
+          12.021966999582387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NINTENGA",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Bazèga",
+        "city": "Kombissiri",
+        "suburb": "Q-Nitenga",
+        "street": "D-39",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-BAZ",
+        "lon": -1.357226,
+        "lat": 12.0590915,
+        "formatted": "NINTENGA, D-39, Kombissiri, Bazèga, Central-South, Burkina Faso",
+        "address_line1": "NINTENGA",
+        "address_line2": "D-39, Kombissiri, Bazèga, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "NINTENGA",
+            "osm_id": 5752960625,
+            "name:fr": "NINTENGA",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "NINTENGA"
+        },
+        "place_id": "518c7e349c32b7f5bf599662b43d411e2840f00103f9017136e756010000009203084e494e54454e4741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3572259999999998,
+          12.059091499585787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sagabtenga-yarsé",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-South",
+        "county": "Bazèga",
+        "street": "Nationale 6",
+        "iso3166_2": "BF-07",
+        "iso3166_2_sublevel": "BF-BAZ",
+        "lon": -1.6086169,
+        "lat": 11.8619487,
+        "formatted": "Sagabtenga-yarsé, Nationale 6, Bazèga, Central-South, Burkina Faso",
+        "address_line1": "Sagabtenga-yarsé",
+        "address_line2": "Nationale 6, Bazèga, Central-South, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sagabtenga-yarsé",
+            "osm_id": 5752961223,
+            "name:fr": "Sagabtenga-yarsé",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Sagabtenga-yarsé"
+        },
+        "place_id": "51b9af1413e5bcf9bf59c5f2065751b92740f00103f901c738e75601000000920311536167616274656e67612d79617273c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6086168999999997,
+          11.86194869956797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kienfangué",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Kienfangué",
+        "street": "R 33",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5580927,
+        "lat": 12.2014059,
+        "formatted": "kienfangué, R 33, Kienfangué, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "kienfangué",
+        "address_line2": "R 33, Kienfangué, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "kienfangué",
+            "osm_id": 5752962023,
+            "name:fr": "kienfangué",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "kienfangué"
+        },
+        "place_id": "51722e6a9cf2edf8bf59b7ff8fac1e672840f00103f901e73be7560100000092030b6b69656e66616e6775c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5580927,
+          12.201405899599065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gueswendé",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Sogué",
+        "street": "R 33",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6486096,
+        "lat": 12.1910648,
+        "formatted": "Gueswendé, R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Gueswendé",
+        "address_line2": "R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gueswendé",
+            "osm_id": 5778989053,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513ef2bd75b460fabf599561d33ed3612840f00103f901fd5f74580100000092030a4775657377656e64c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6486096,
+          12.19106479959809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boula",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Sogué",
+        "street": "R 33",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6334562,
+        "lat": 12.2126017,
+        "formatted": "Boula, R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Boula",
+        "address_line2": "R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boula",
+            "osm_id": 5779017453,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ca2ce7f7a222fabf598cb64521da6c2840f00103f901edce745801000000920305426f756c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6334562,
+          12.212601699600121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre de Formation et d’Alphabétisation Armée Du Salut Poessin",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "street": "Residence Road",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.560933,
+        "lat": 12.2587869,
+        "formatted": "The Salvation Army Training and Literacy Center-Poessin, Residence Road, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "The Salvation Army Training and Literacy Center-Poessin",
+        "address_line2": "Residence Road, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centre de Formation et d’Alphabétisation Armée Du Salut Poessin",
+            "osm_id": 5861849685,
+            "name:en": "The Salvation Army Training and Literacy Center-Poessin",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "The Salvation Army Training and Literacy Center-Poessin"
+        },
+        "place_id": "5166f4a3e194f9f8bf5983de6cb77f842840f00103f90155ba645d0100000092034343656e74726520646520466f726d6174696f6e2065742064e28099416c70686162c3a97469736174696f6e2041726dc3a9652044752053616c757420506f657373696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.560933,
+          12.258786899604507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NIAKADO",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-West",
+        "county": "Boulkiemdé",
+        "city": "Poa",
+        "hamlet": "Yaogen",
+        "suburb": "Q Secteur 3",
+        "street": "D41",
+        "iso3166_2": "BF-06",
+        "iso3166_2_sublevel": "BF-BLK",
+        "lon": -2.0826274,
+        "lat": 12.2621342,
+        "formatted": "NIAKADO, D41, Poa, Boulkiemdé, Central-West, Burkina Faso",
+        "address_line1": "NIAKADO",
+        "address_line2": "D41, Poa, Boulkiemdé, Central-West, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "NIAKADO",
+            "osm_id": 5898139485,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512f07e68d38a900c05983ee2c7436862840f00103f9015d778e5f010000009203074e49414b41444f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0826273999999994,
+          12.262134199604821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domicile Adeline Sedogo",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Kalgodin",
+        "street": "rue 14.51",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5025839,
+        "lat": 12.3592605,
+        "formatted": "Domicile Adeline Sedogo, rue 14.51, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Domicile Adeline Sedogo",
+        "address_line2": "rue 14.51, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Domicile Adeline Sedogo",
+            "osm_id": 5960341785,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512bf05f6a950af8bf59ca2c01fef0b72840f00103f9011999436301000000920317446f6d6963696c65204164656c696e65205365646f676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5025839,
+          12.35926049961417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Association AGFAB",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Larlé",
+        "street": "Rue Pusumpugu",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5359895,
+        "lat": 12.3759039,
+        "formatted": "Agfab, Rue Pusumpugu, Larlé, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Agfab",
+        "address_line2": "Rue Pusumpugu, Larlé, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Association AGFAB",
+            "osm_id": 6071607385,
+            "name:en": "Agfab",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Agfab"
+        },
+        "place_id": "5181fdd7b96993f8bf59cb93d67976c02840f00103f9015960e569010000009203114173736f63696174696f6e204147464142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5359894999999997,
+          12.375903899615784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Site des forgerons de Saaba",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "piste",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4209056,
+        "lat": 12.3746024,
+        "formatted": "Site des forgerons de Saaba, piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Site des forgerons de Saaba",
+        "address_line2": "piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Site des forgerons de Saaba",
+            "osm_id": 6102579307,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "518b40ab8207bcf6bf5966b4bee2cbbf2840f00103f9016bf8bd6b0100000092031b536974652064657320666f726765726f6e73206465205361616261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4209056,
+          12.37460239961565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La cour du chef de Boudry",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-Plateau",
+        "county": "Ganzourgou",
+        "city": "Zempassogo",
+        "street": "N 4",
+        "iso3166_2": "BF-11",
+        "iso3166_2_sublevel": "BF-GAN",
+        "lon": -0.7358352,
+        "lat": 12.2069838,
+        "formatted": "La cour du chef de Boudry, N 4, Zempassogo, Ganzourgou, Central-Plateau, Burkina Faso",
+        "address_line1": "La cour du chef de Boudry",
+        "address_line2": "N 4, Zempassogo, Ganzourgou, Central-Plateau, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La cour du chef de Boudry",
+            "osm_id": 6301075798,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511cdce742f68be7bf59072ad4c7f9692840f00103f90156c99277010000009203194c6120636f7572206475206368656620646520426f75647279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7358351999999999,
+          12.206983799599596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chantu",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Ouaga 2000",
+        "street": "Boulevard Muammar Kaddafi",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4893527,
+        "lat": 12.2699892,
+        "formatted": "Chantu, Boulevard Muammar Kaddafi, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Chantu",
+        "address_line2": "Boulevard Muammar Kaddafi, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chantu",
+            "osm_id": 7026022985,
+            "name:fr": "Chantier de Garghin",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Chantier de Garghin"
+        },
+        "place_id": "514a592b7f63d4f7bf5988283d063c8a2840f00103f901499ac8a2010000009203064368616e7475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4893527,
+          12.269989199605575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chantier de M. Sou",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "piste",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4250268,
+        "lat": 12.3806009,
+        "formatted": "Chantier de M. Sou, piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Chantier de M. Sou",
+        "address_line2": "piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chantier de M. Sou",
+            "osm_id": 7031380805,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cac6dee6e8ccf6bf59205c011fdec22840f00103f901455b1aa3010000009203124368616e74696572206465204d2e20536f75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4250268,
+          12.38060089961624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pèlerinage Colline de Sambisogo",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-West",
+        "county": "Boulkiemdé",
+        "city": "Rogo",
+        "suburb": "Marché de Sambisgo",
+        "street": "D 43",
+        "iso3166_2": "BF-06",
+        "iso3166_2_sublevel": "BF-BLK",
+        "lon": -2.354993,
+        "lat": 12.1851344,
+        "formatted": "Pèlerinage Colline de Sambisogo, D 43, Rogo, Boulkiemdé, Central-West, Burkina Faso",
+        "address_line1": "Pèlerinage Colline de Sambisogo",
+        "address_line2": "D 43, Rogo, Boulkiemdé, Central-West, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pèlerinage Colline de Sambisogo",
+            "osm_id": 7098544286,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ae78ea9106d702c059a4459fefc95e2840f00103f9019e301ba70100000092032050c3a86c6572696e61676520436f6c6c696e652064652053616d6269736f676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3549929999999994,
+          12.185134399597537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diao",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-West",
+        "county": "Ziro",
+        "iso3166_2": "BF-06",
+        "iso3166_2_sublevel": "BF-ZIR",
+        "lon": -1.8328732,
+        "lat": 11.6589183,
+        "formatted": "Diao, Ziro, Burkina Faso",
+        "address_line1": "Diao",
+        "address_line2": "Ziro, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Diao",
+            "osm_id": 7556268385,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5117703bd97253fdbf59ff9b46bd5d512740f00103f901618163c2010000009203044469616f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8328731999999996,
+          11.658918299550349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Champ komkaga",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-Plateau",
+        "county": "Oubritenga",
+        "city": "Nagréongo",
+        "iso3166_2": "BF-11",
+        "iso3166_2_sublevel": "BF-OUB",
+        "lon": -1.1821856,
+        "lat": 12.3263671,
+        "formatted": "Champ komkaga, Nagréongo, Oubritenga, Burkina Faso",
+        "address_line1": "Champ komkaga",
+        "address_line2": "Nagréongo, Oubritenga, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Champ komkaga",
+            "osm_id": 8112913817,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518dd59c723beaf2bf599da3a69619a72840f00103f901993d91e30100000092030d4368616d70206b6f6d6b616761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1821855999999997,
+          12.326367099610986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Komkaga terrain",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-Plateau",
+        "county": "Oubritenga",
+        "city": "Nagréongo",
+        "iso3166_2": "BF-11",
+        "iso3166_2_sublevel": "BF-OUB",
+        "lon": -1.1915525,
+        "lat": 12.3191889,
+        "formatted": "Komkaga terrain, Nagréongo, Oubritenga, Burkina Faso",
+        "address_line1": "Komkaga terrain",
+        "address_line2": "Nagréongo, Oubritenga, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Komkaga terrain",
+            "osm_id": 8112914017,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ff78af5a9910f3bf591d253aba6ca32840f00103f901613e91e30100000092030f4b6f6d6b616761207465727261696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1915525,
+          12.319188899610305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place de l’Architecte",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "Place de l'Architecte",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4886244,
+        "lat": 12.3683233,
+        "formatted": "Place de l’Architecte, Place de l'Architecte, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Place de l’Architecte",
+        "address_line2": "Place de l'Architecte, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place de l’Architecte",
+            "osm_id": 8420172785,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "512371a0d167d1f7bf5924671cdf94bc2840f00103f901f1a3e1f501000000920317506c616365206465206ce2809941726368697465637465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4886243999999997,
+          12.36832329961505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marché de Koukin-Yaar",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Paglayiri",
+        "street": "Boulevard Ratag Pima",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5371038,
+        "lat": 12.3428749,
+        "formatted": "Marché de Koukin-Yaar, Boulevard Ratag Pima, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Marché de Koukin-Yaar",
+        "address_line2": "Boulevard Ratag Pima, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Marché de Koukin-Yaar",
+            "osm_id": 8697122517,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ccea7827fa97f8bf5923e9804c8daf2840f00103f901d58e6306020000009203164d61726368c3a9206465204b6f756b696e2d59616172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5371037999999997,
+          12.342874899612587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le terrain à zanga",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-Plateau",
+        "county": "Oubritenga",
+        "city": "Nagréongo",
+        "iso3166_2": "BF-11",
+        "iso3166_2_sublevel": "BF-OUB",
+        "lon": -1.1894617,
+        "lat": 12.3170296,
+        "formatted": "Le terrain à zanga, Nagréongo, Oubritenga, Burkina Faso",
+        "address_line1": "Le terrain à zanga",
+        "address_line2": "Nagréongo, Oubritenga, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Le terrain à zanga",
+            "osm_id": 8808793919,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515583d5fd0808f3bf59f06024b451a22840f00103f9013f870b0d020000009203134c65207465727261696e20c3a0207a616e6761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1894617,
+          12.317029599610095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buvette",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Bilbalogho",
+        "street": "Rue Mogho Naba Kouda (7.07)",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.532872,
+        "lat": 12.3500858,
+        "formatted": "Buvette, Rue Mogho Naba Kouda (7.07), Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Buvette",
+        "address_line2": "Rue Mogho Naba Kouda (7.07), Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buvette",
+            "osm_id": 9166851917,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510a444fcaa486f8bf591e4428723eb32840f00103f9014d0f63220200000092030742757665747465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5328719999999998,
+          12.350085799613279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garage Daou",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Larlé",
+        "street": "Rue 10.39",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.545531,
+        "lat": 12.3757159,
+        "formatted": "Garage Daou, Rue 10.39, Larlé, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Garage Daou",
+        "address_line2": "Rue 10.39, Larlé, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Garage Daou",
+            "osm_id": 9195713117,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514e44bfb67ebaf8bf59b6df9ad55dc02840f00103f9015d721b240200000092030b4761726167652044616f75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.545531,
+          12.375715899615766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zida ferme",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Koubri",
+        "suburb": "Bilbalogho",
+        "street": "R 33",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4280691,
+        "lat": 12.1806861,
+        "formatted": "Zida ferme, R 33, Koubri, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Zida ferme",
+        "address_line2": "R 33, Koubri, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zida ferme",
+            "osm_id": 9247964217,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b7d90efc5ed9f6bf590d3971e3825c2840f00103f90139bc38270200000092030a5a696461206665726d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4280690999999999,
+          12.18068609959712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mon village",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Sogué",
+        "street": "R 33",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6553875,
+        "lat": 12.2091741,
+        "formatted": "Mon village, R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Mon village",
+        "address_line2": "R 33, Sogué, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mon village",
+            "osm_id": 9252638017,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b1506b9a777cfabf591ee719de186b2840f00103f901410d80270200000092030b4d6f6e2076696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6553875,
+          12.209174099599803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lithium",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "RP",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.519259,
+        "lat": 12.4454588,
+        "formatted": "lithium, RP, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "lithium",
+        "address_line2": "RP, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "lithium",
+            "osm_id": 9259421718,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5168757286e24ef8bf595830002d13e42840f00103f9011690e727020000009203076c69746869756d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.519259,
+          12.445458799622585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Traore militaire",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "rue 28.150",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4406275,
+        "lat": 12.3581396,
+        "formatted": "Traore militaire, rue 28.150, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Traore militaire",
+        "address_line2": "rue 28.150, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Traore militaire",
+            "osm_id": 9260550217,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e97de36bcf0cf7bf59677dd7125eb72840f00103f90149c8f827020000009203105472616f7265206d696c697461697265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4406275,
+          12.358139599614061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gnoumou sapeurs-pompiers",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "¸",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6055222,
+        "lat": 12.4060948,
+        "formatted": "Gnoumou sapeurs-pompiers, ¸, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Gnoumou sapeurs-pompiers",
+        "address_line2": "¸, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gnoumou sapeurs-pompiers",
+            "osm_id": 9301223817,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511308e00b38b0f9bf5950e056a8ebcf2840f00103f9018969652a02000000920318476e6f756d6f7520736170657572732d706f6d7069657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6055222,
+          12.406094799618728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Traore appaulinaire",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "piste",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4287104,
+        "lat": 12.3592058,
+        "formatted": "Traore appaulinaire, piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Traore appaulinaire",
+        "address_line2": "piste, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Traore appaulinaire",
+            "osm_id": 9344048017,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510048b76fffdbf6bf59b2c093d2e9b72840f00103f90191dbf22c020000009203135472616f72652061707061756c696e61697265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4287104,
+          12.359205799614163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "f4",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Yagma",
+        "street": "Rue 21.37",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5834651,
+        "lat": 12.435535,
+        "formatted": "f4, Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "f4",
+        "address_line2": "Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "f4",
+            "osm_id": 9348230717,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c8b72d80df55f9bf59c0468771fede2840f00103f9013dae322d020000009203026634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5834650999999997,
+          12.43553499962161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simpore",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Yagma",
+        "street": "Rue 21.37",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5896794,
+        "lat": 12.4255367,
+        "formatted": "Simpore, Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Simpore",
+        "address_line2": "Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Simpore",
+            "osm_id": 9365392620,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5199ffa1aa536ff9bf599d3c40f2dfd92840f00103f901ec8c382e0200000092030753696d706f7265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5896793999999999,
+          12.425536699620631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sc Assami",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Tinsouka",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6825136,
+        "lat": 12.3993794,
+        "formatted": "sc Assami, Autoroute de contournement de Ouagadougou, Tinsouka, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "sc Assami",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Tinsouka, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "sc Assami",
+            "osm_id": 9680430317,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512034716193ebfabf598b1ce8747bcc2840f00103f901eda4ff4002000000920309736320417373616d69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6825136,
+          12.399379399618075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouedraogo 2 one",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "Avenue Kanzandé Leopold",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4647548,
+        "lat": 12.3622985,
+        "formatted": "Ouedraogo 2 one, Avenue Kanzandé Leopold, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Ouedraogo 2 one",
+        "address_line2": "Avenue Kanzandé Leopold, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ouedraogo 2 one",
+            "osm_id": 9790424117,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51588baabaa26ff7bf59ce775e307fb92840f00103f90135048e470200000092030f4f75656472616f676f2032206f6e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4647547999999997,
+          12.362298499614464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sébastien",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "N 3",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4490682,
+        "lat": 12.4253154,
+        "formatted": "Sébastien, N 3, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Sébastien",
+        "address_line2": "N 3, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sébastien",
+            "osm_id": 9844592017,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5102c70a23622ff7bf591ab6a7f0c2d92840f00103f901918dc84a0200000092030a53c3a96261737469656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4490681999999997,
+          12.425315399620604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3kva de super well",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Yagma",
+        "street": "Rue 21.37",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6012422,
+        "lat": 12.4357264,
+        "formatted": "3kva de super well, Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "3kva de super well",
+        "address_line2": "Rue 21.37, Yagma, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "3kva de super well",
+            "osm_id": 9943747117,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f9991f24b09ef9bf59e2c1d88717df2840f00103f9012d8ab15002000000920312336b76612064652073757065722077656c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6012422,
+          12.435726399621618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Non loti de dayoubsi",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Dayoubsi",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6068367,
+        "lat": 12.2308783,
+        "formatted": "Non loti de dayoubsi, Autoroute de contournement de Ouagadougou, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Non loti de dayoubsi",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Non loti de dayoubsi",
+            "osm_id": 10106468818,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51743348669ab5f9bf59c74a34ae35762840f00103f901d279645a020000009203144e6f6e206c6f7469206465206461796f75627369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6068366999999997,
+          12.230878299601853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Famille NABILA",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "Rue 17.474",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5680845,
+        "lat": 12.3249081,
+        "formatted": "Famille NABILA, Rue 17.474, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Famille NABILA",
+        "address_line2": "Rue 17.474, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Famille NABILA",
+            "osm_id": 10169206617,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510bd5cdc5df16f9bf597811bc5a5aa62840f00103f90159c7215e0200000092030e46616d696c6c65204e4142494c41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5680845,
+          12.324908099610852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dayoubsi maison",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Dayoubsi",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6063058,
+        "lat": 12.2305621,
+        "formatted": "Dayoubsi maison, Autoroute de contournement de Ouagadougou, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Dayoubsi maison",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Dayoubsi, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dayoubsi maison",
+            "osm_id": 10265969309,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517a00e6b56db3f9bf594af94a3c0c762840f00103f9019d42e6630200000092030f4461796f75627369206d6169736f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6063058,
+          12.230562099601816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place de la Femme",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Gounghin Nord",
+        "street": "Rue 9.22",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5553672,
+        "lat": 12.3599176,
+        "formatted": "Place de la Femme, Rue 9.22, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Place de la Femme",
+        "address_line2": "Rue 9.22, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place de la Femme",
+            "osm_id": 10568401509,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51645694b7c8e2f8bf5927329f1e47b82840f00103f9016502ed7502000000920311506c616365206465206c612046656d6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5553672,
+          12.359917599614233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murenduit",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "suburb": "Bilbalogho",
+        "street": "Avenue Mogho Naba Koom I",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5238542,
+        "lat": 12.3621805,
+        "formatted": "Murenduit, Avenue Mogho Naba Koom I, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Murenduit",
+        "address_line2": "Avenue Mogho Naba Koom I, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Murenduit",
+            "osm_id": 10595195705,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b5f40df1b461f8bf599b2ff2b86fb92840f00103f90139db8577020000009203094d7572656e64756974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5238542,
+          12.362180499614444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te 3",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Central-Plateau",
+        "county": "Kourwéogo",
+        "city": "Boussé",
+        "hamlet": "Boukou",
+        "suburb": "Q-Kaman-Tanga",
+        "street": "N 2",
+        "iso3166_2": "BF-11",
+        "iso3166_2_sublevel": "BF-KOW",
+        "lon": -1.8955966,
+        "lat": 12.6707892,
+        "formatted": "Te 3, N 2, Boussé, Kourwéogo, Central-Plateau, Burkina Faso",
+        "address_line1": "Te 3",
+        "address_line2": "N 2, Boussé, Kourwéogo, Central-Plateau, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Te 3",
+            "osm_id": 10595195908,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516a8ab6195d54febf59a9f895ae71572940f00103f90104dc85770200000092030454652033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8955965999999997,
+          12.670789199645087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Awa de yaba tampouy",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Ouagadougou",
+        "street": "Rue 22.30",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5340538,
+        "lat": 12.4222507,
+        "formatted": "Chez Awa de yaba tampouy, Rue 22.30, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "Chez Awa de yaba tampouy",
+        "address_line2": "Rue 22.30, Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chez Awa de yaba tampouy",
+            "osm_id": 10649654705,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5155df54ff7b8bf8bf59232a633e31d82840f00103f901b1d5c47a020000009203184368657a2041776120646520796162612074616d706f7579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5340538,
+          12.422250699620298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "contournement",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Katabtenga",
+        "street": "N 22",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5629458,
+        "lat": 12.4922531,
+        "formatted": "contournement, N 22, Katabtenga, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "contournement",
+        "address_line2": "N 22, Katabtenga, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "contournement",
+            "osm_id": 10674049805,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5199ba8674d301f9bf59be81289908fc2840f00103f9010d13397c0200000092030d636f6e746f75726e656d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5629457999999998,
+          12.492253099627188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "c1",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Katabtenga",
+        "street": "R 34",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4939414,
+        "lat": 12.5089077,
+        "formatted": "c1, R 34, Katabtenga, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "c1",
+        "address_line2": "R 34, Katabtenga, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "c1",
+            "osm_id": 10674050005,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514e3ff2182fe7f7bf59522dcd8c8f042940f00103f901d513397c020000009203026331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4939414000000002,
+          12.508907699628853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C11",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Kogononghin",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5484215,
+        "lat": 12.2247666,
+        "formatted": "C11, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "C11",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "C11",
+            "osm_id": 10674050006,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b0c56e9f55c6f8bf598f0a959b14732840f00103f901d613397c02000000920303433131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5484215,
+          12.22476659960128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C12",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Kogononghin",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.5611349,
+        "lat": 12.2275548,
+        "formatted": "C12, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "C12",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "C12",
+            "osm_id": 10674050007,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c44ec29668faf8bf5940ac0c1082742840f00103f901d713397c02000000920303433132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5611348999999999,
+          12.227554799601535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C15",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Kogononghin",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.592203,
+        "lat": 12.2348045,
+        "formatted": "C15, Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "C15",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Kogononghin, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "C15",
+            "osm_id": 10674050008,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51497d59daa979f9bf598f7d9d4b38782840f00103f901d813397c02000000920303433135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5922029999999998,
+          12.234804499602232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C17",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.6107739,
+        "lat": 12.2409934,
+        "formatted": "C17, Autoroute de contournement de Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "C17",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "C17",
+            "osm_id": 10674050009,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5188015cdabac5f9bf5920b1a37c637b2840f00103f901d913397c02000000920303433137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6107738999999999,
+          12.240993399602814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C23",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "city": "Tinsouka",
+        "street": "Autoroute de contournement de Ouagadougou",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.687267,
+        "lat": 12.3520108,
+        "formatted": "C23, Autoroute de contournement de Ouagadougou, Tinsouka, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "C23",
+        "address_line2": "Autoroute de contournement de Ouagadougou, Tinsouka, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "C23",
+            "osm_id": 10674050010,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a6eb89ae0bfffabf597b5b70c23ab42840f00103f901da13397c02000000920303433233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6872669999999999,
+          12.352010799613472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C2",
+        "country": "Burkina Faso",
+        "country_code": "bf",
+        "state": "Centre",
+        "county": "Kadiogo",
+        "street": "Nationale 3",
+        "iso3166_2": "BF-03",
+        "iso3166_2_sublevel": "BF-KAD",
+        "lon": -1.4233752,
+        "lat": 12.4662105,
+        "formatted": "C2, Nationale 3, Kadiogo, Centre, Burkina Faso",
+        "address_line1": "C2",
+        "address_line2": "Nationale 3, Kadiogo, Centre, Burkina Faso",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "C2",
+            "osm_id": 10674050105,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d4ffde1225c6f6bf590fe18124b3ee2840f00103f9013914397c020000009203024332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4233751999999997,
+          12.466210499624621
+        ]
+      }
+    }
+  ]
+}

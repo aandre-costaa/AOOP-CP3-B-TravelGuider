@@ -1,0 +1,4556 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edge of the World",
+        "lon": 45.9915926,
+        "lat": 24.94516540026263,
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Edge of the World",
+            "phone": "+966533701010",
+            "osm_id": 12520202825,
+            "tourism": "attraction",
+            "website": "https://www.riyadhtracks.com/",
+            "osm_type": "n",
+            "addr:street": "سدوس -حريملاء",
+            "description": "Private Tour- Group Tour",
+            "opening_hours": "24/7",
+            "addr:housenumber": 1
+          }
+        },
+        "website": "https://www.riyadhtracks.com/",
+        "opening_hours": "24/7",
+        "description": "Private Tour- Group Tour",
+        "contact": {
+          "phone": "+966533701010"
+        },
+        "place_id": "5151fa9d81ecfe4640595270135cf6f13840f00103f901492243ea0200000092031145646765206f662074686520576f726c64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9915926,
+          24.94516540026263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الطريف",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Ad Dir`iyah",
+        "postcode": "12572",
+        "suburb": "Turayfah",
+        "street": "وادي حنيفة",
+        "iso3166_2": "SA-01",
+        "lon": 46.57338356612043,
+        "lat": 24.732996200000002,
+        "formatted": "At-Turaif District in ad-Dir'iyah, وادي حنيفة, Turayfah, Ad Dir`iyah 12572, Saudi Arabia",
+        "address_line1": "At-Turaif District in ad-Dir'iyah",
+        "address_line2": "وادي حنيفة, Turayfah, Ad Dir`iyah 12572, Saudi Arabia",
+        "categories": [
+          "heritage",
+          "heritage.unesco",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.heritage",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الطريف",
+            "osm_id": 978220391,
+            "name:ar": "الطريف",
+            "name:en": "At-Turaif District in ad-Dir'iyah",
+            "name:fr": "District d’at-Turaif à ad-Dir’iyah",
+            "name:ml": "അത്തുറൈഫ് ജില്ല",
+            "ref:whc": 1659,
+            "tourism": "attraction",
+            "heritage": 1,
+            "historic": "archaeological_site",
+            "operator": "SCTA",
+            "osm_type": "w",
+            "wikidata": "Q22687629",
+            "wikipedia": "en:At-Turaif District",
+            "whc:criteria": "(iv),(v),(vi)",
+            "heritage:operator": "whc",
+            "archaeological_site": "city",
+            "whc:inscription_date": 2009
+          }
+        },
+        "operator": "SCTA",
+        "name_international": {
+          "ar": "الطريف",
+          "en": "At-Turaif District in ad-Dir'iyah",
+          "fr": "District d’at-Turaif à ad-Dir’iyah",
+          "ml": "അത്തുറൈഫ് ജില്ല"
+        },
+        "ref_other": {
+          "whc": 1659
+        },
+        "wiki_and_media": {
+          "wikidata": "Q22687629",
+          "wikipedia": "en:At-Turaif District"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "heritage": {
+          "level": 1,
+          "operator": "whc",
+          "ref": 1659,
+          "inscription_date": 2009
+        },
+        "place_id": "518a46f8a164494740598a4b94a3a5bb3840f00102f90167754e3a0000000092030cd8a7d984d8b7d8b1d98ad981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.57338356612043,
+          24.73299620028005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بوليفارد رياض سيتي",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Municipality of Al Shamal",
+        "postcode": "13521",
+        "district": "Hittin District",
+        "suburb": "Hittin",
+        "street": "Fountain St",
+        "iso3166_2": "SA-01",
+        "lon": 46.60447422835203,
+        "lat": 24.7684171,
+        "formatted": "Boulevard Riyadh City, Fountain St, Hittin, Municipality of Al Shamal 13521, Saudi Arabia",
+        "address_line1": "Boulevard Riyadh City",
+        "address_line2": "Fountain St, Hittin, Municipality of Al Shamal 13521, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "بوليفارد رياض سيتي",
+            "osm_id": 1218670088,
+            "barrier": "wall",
+            "name:en": "Boulevard Riyadh City",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "opening_hours": "Mo-Su 16:00-02:00"
+          }
+        },
+        "opening_hours": "Mo-Su 16:00-02:00",
+        "name_international": {
+          "en": "Boulevard Riyadh City"
+        },
+        "place_id": "51fe0559695f4d474059b160abfbb6c43840f00102f901086ea34800000000920322d8a8d988d984d98ad981d8a7d8b1d8af20d8b1d98ad8a7d8b620d8b3d98ad8aad98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.60447422835203,
+          24.768417100277194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "برج الخرج",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Al Kharj",
+        "city": "Al-Kharj",
+        "postcode": "16242",
+        "street": "طريق الملك عبد العزيز",
+        "iso3166_2": "SA-01",
+        "lon": 47.2981862,
+        "lat": 24.1627522,
+        "formatted": "Al Kharj Tower, طريق الملك عبد العزيز, Al-Kharj 16242, Saudi Arabia",
+        "address_line1": "Al Kharj Tower",
+        "address_line2": "طريق الملك عبد العزيز, Al-Kharj 16242, Saudi Arabia",
+        "categories": [
+          "man_made",
+          "man_made.water_tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "برج الخرج",
+            "osm_id": 7929380644,
+            "name:en": "Al Kharj Tower",
+            "tourism": "attraction",
+            "man_made": "water_tower",
+            "osm_type": "n",
+            "wikidata": "Q22932997"
+          }
+        },
+        "name_international": {
+          "en": "Al Kharj Tower"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q22932997"
+        },
+        "place_id": "512c8f24f72aa647405959bcd120aa293840f00103f90124bfa0d801000000920311d8a8d8b1d8ac20d8a7d984d8aed8b1d8ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2981862,
+          24.162752200322164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نهاية العالم",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "city": "Huraymila",
+        "street": "Walking path to Edge of the World",
+        "iso3166_2": "SA-01",
+        "lon": 45.9885808,
+        "lat": 24.948405,
+        "formatted": "Walking path to Edge of the World, Huraymila, Saudi Arabia",
+        "address_line1": "Walking path to Edge of the World",
+        "address_line2": "Huraymila, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 935,
+            "name": "نهاية العالم",
+            "osm_id": 11677231267,
+            "name:en": "Edge of the World",
+            "tourism": "viewpoint",
+            "website": "https://www.riyadhtracks.com/",
+            "alt_name": "مطل جبل فهرين",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.riyadhtracks.com/",
+        "name_other": {
+          "alt_name": "مطل جبل فهرين"
+        },
+        "name_international": {
+          "en": "Edge of the World"
+        },
+        "ele": 935,
+        "place_id": "510cbaced089fe4640595a7d8babcaf23840f00103f901a36804b802000000920317d986d987d8a7d98ad8a920d8a7d984d8b9d8a7d984d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.988580799999994,
+          24.948405000262348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مطل نهاية العالم",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "city": "Huraymila",
+        "iso3166_2": "SA-01",
+        "lon": 46.059195674638744,
+        "lat": 24.9148241,
+        "formatted": "Edge of the World, Huraymila, Riyadh Region, Saudi Arabia",
+        "address_line1": "Edge of the World",
+        "address_line2": "Huraymila, Riyadh Region, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مطل نهاية العالم",
+            "osm_id": 132072057,
+            "name:en": "Edge of the World",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Edge of the World"
+        },
+        "place_id": "51ac514fb99307474059463b88e931ea3840f00102f9017942df070000000092031ed985d8b7d98420d986d987d8a7d98ad8a920d8a7d984d8b9d8a7d984d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.059195674638744,
+          24.91482410026517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حي الغصيبة",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Ad Dir`iyah",
+        "postcode": "12572",
+        "suburb": "Turayfah",
+        "street": "King Faisal",
+        "iso3166_2": "SA-01",
+        "lon": 46.561591790544874,
+        "lat": 24.74603245,
+        "formatted": "Al-Mulaybeed District in ad-Dir'iyah, King Faisal, Turayfah, Ad Dir`iyah 12572, Saudi Arabia",
+        "address_line1": "Al-Mulaybeed District in ad-Dir'iyah",
+        "address_line2": "King Faisal, Turayfah, Ad Dir`iyah 12572, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "حي الغصيبة",
+            "osm_id": 978220392,
+            "name:en": "Al-Mulaybeed District in ad-Dir'iyah",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "archaeological_site": "city"
+          }
+        },
+        "name_international": {
+          "en": "Al-Mulaybeed District in ad-Dir'iyah"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "51d10b633de247474059f9b38ffbfbbe3840f00102f90168754e3a00000000920313d8add98a20d8a7d984d8bad8b5d98ad8a8d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.561591790544874,
+          24.746032450278992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona Ranch Resort",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13244",
+        "suburb": "Qurtubah",
+        "street": "Mohammed Bin Sabq Al Amawy",
+        "iso3166_2": "SA-01",
+        "lon": 46.7297038,
+        "lat": 24.8132163,
+        "formatted": "Arizona Ranch Resort, Mohammed Bin Sabq Al Amawy, Qurtubah, 13244, Saudi Arabia",
+        "address_line1": "Arizona Ranch Resort",
+        "address_line2": "Mohammed Bin Sabq Al Amawy, Qurtubah, 13244, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arizona Ranch Resort",
+            "osm_id": 3340104774,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "512a6222ef665d474059c33f86f12ed03840f00103f90146f415c7000000009203144172697a6f6e612052616e6368205265736f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.729703799999996,
+          24.813216300273563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horse",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Al Muzahimiyah",
+        "city": "Al Quwayiyah",
+        "street": "Makkah Al-Mukarramah Road",
+        "iso3166_2": "SA-01",
+        "lon": 45.9320203,
+        "lat": 24.3745365,
+        "formatted": "Horse, Makkah Al-Mukarramah Road, Al Quwayiyah, Saudi Arabia",
+        "address_line1": "Horse",
+        "address_line2": "Makkah Al-Mukarramah Road, Al Quwayiyah, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Horse",
+            "osm_id": 3397866594,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51a2daf1704cf74640597afac39fe15f3840f00103f901625487ca00000000920305486f727365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.93202029999999,
+          24.374536500307364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قاعة درة المملكة للاحتفالات",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13251",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "street": "Al Washam",
+        "iso3166_2": "SA-01",
+        "lon": 46.8063223,
+        "lat": 24.8106535,
+        "formatted": "قاعة درة المملكة للاحتفالات, Al Washam, Al Rawda Muncipality 13251, Saudi Arabia",
+        "address_line1": "قاعة درة المملكة للاحتفالات",
+        "address_line2": "Al Washam, Al Rawda Muncipality 13251, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قاعة درة المملكة للاحتفالات",
+            "osm_id": 4153886189,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518a44b29135674740595610e0fc86cf3840f00103f901ed4597f700000000920333d982d8a7d8b9d8a920d8afd8b1d8a920d8a7d984d985d985d984d983d8a920d984d984d8a7d8add8aad981d8a7d984d8a7d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.80632229999999,
+          24.81065350027378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sep",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "suburb": "Area 2",
+        "street": "Al Doh",
+        "iso3166_2": "SA-01",
+        "lon": 46.8730283,
+        "lat": 24.5549906,
+        "formatted": "sep, Al Doh, Area 2, Saudi Arabia",
+        "address_line1": "sep",
+        "address_line2": "Al Doh, Area 2, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "sep",
+            "osm_id": 4229811024,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c37d2e64bf6f47405993d92ddd138e3840f00103f90150cb1dfc00000000920303736570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.87302830000001,
+          24.554990600293944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omrania HO",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "12232",
+        "suburb": "As Sulaymaniyah District",
+        "street": "Al Baroudi",
+        "iso3166_2": "SA-01",
+        "lon": 46.7112436,
+        "lat": 24.7055846,
+        "formatted": "Omrania HO, Al Baroudi, As Sulaymaniyah District, Riyadh 12232, Saudi Arabia",
+        "address_line1": "Omrania HO",
+        "address_line2": "Al Baroudi, As Sulaymaniyah District, Riyadh 12232, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Omrania HO",
+            "osm_id": 4239310590,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a2bec0070a5b47405901c63e31a1b43840f00103f901febeaefc0000000092030a4f6d72616e696120484f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7112436,
+          24.70558460028224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "al remal",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13251",
+        "district": "Al Rimal District",
+        "street": "Khalid Bin Zaid",
+        "iso3166_2": "SA-01",
+        "lon": 46.8113983,
+        "lat": 24.83354,
+        "formatted": "al remal, Khalid Bin Zaid, Al Rimal District 13251, Saudi Arabia",
+        "address_line1": "al remal",
+        "address_line2": "Khalid Bin Zaid, Al Rimal District 13251, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "al remal",
+            "osm_id": 4240659389,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d74345e6db674740595c13a1e062d53840f00103f901bd53c3fc00000000920308616c2072656d616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8113983,
+          24.833540000271896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "work",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "12232",
+        "suburb": "Al `Ulayya",
+        "street": "Al Harra",
+        "iso3166_2": "SA-01",
+        "lon": 46.6957569,
+        "lat": 24.6929648,
+        "formatted": "work, Al Harra, Al `Ulayya, Riyadh 12232, Saudi Arabia",
+        "address_line1": "work",
+        "address_line2": "Al Harra, Al `Ulayya, Riyadh 12232, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "work",
+            "osm_id": 4242594591,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b0bbe58f0e59474059e17e222466b13840f00103f9011fdbe0fc00000000920304776f726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.69575689999999,
+          24.692964800283224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Bayan Holding",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "suburb": "Al Muwanisiyah",
+        "street": "No.51",
+        "iso3166_2": "SA-01",
+        "lon": 46.7698174,
+        "lat": 24.8154482,
+        "formatted": "Al Bayan Holding, No.51, Al Muwanisiyah, 13246, Saudi Arabia",
+        "address_line1": "Al Bayan Holding",
+        "address_line2": "No.51, Al Muwanisiyah, 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al Bayan Holding",
+            "osm_id": 4253399993,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5124726660896247405999c19736c1d03840f00103f901b9bb85fd00000000920310416c20426179616e20486f6c64696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.769817399999994,
+          24.815448200273384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "work",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "12242",
+        "suburb": "As Sulaymaniyah District",
+        "street": "شارع الملك محمد الخامس",
+        "iso3166_2": "SA-01",
+        "lon": 46.7035071,
+        "lat": 24.6992317,
+        "formatted": "work, شارع الملك محمد الخامس, As Sulaymaniyah District, Riyadh 12242, Saudi Arabia",
+        "address_line1": "work",
+        "address_line2": "شارع الملك محمد الخامس, As Sulaymaniyah District, Riyadh 12242, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "work",
+            "osm_id": 4271092225,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517d8049850c5a474059740a45d900b33840f00103f90101b293fe00000000920304776f726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7035071,
+          24.699231700282738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شركة صرح التقنية للمقاولات",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "12262",
+        "suburb": "King Fahd District",
+        "street": "Prince Naief Ibn Abdulaziz",
+        "iso3166_2": "SA-01",
+        "lon": 46.6659902,
+        "lat": 24.7383629,
+        "formatted": "شركة صرح التقنية للمقاولات, Prince Naief Ibn Abdulaziz, King Fahd District, 12262, Saudi Arabia",
+        "address_line1": "شركة صرح التقنية للمقاولات",
+        "address_line2": "Prince Naief Ibn Abdulaziz, King Fahd District, 12262, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شركة صرح التقنية للمقاولات",
+            "osm_id": 4271927391,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516f3ab82a3f55474059d947dd5905bd3840f00103f9015f70a0fe00000000920331d8b4d8b1d983d8a920d8b5d8b1d8ad20d8a7d984d8aad982d986d98ad8a920d984d984d985d982d8a7d988d984d8a7d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6659902,
+          24.738362900279615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazy Trading",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "12836",
+        "suburb": "Al Malaz District",
+        "street": "Salah Al Deen Al Aubi Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.7409746,
+        "lat": 24.6605671,
+        "formatted": "Bazy Trading, Salah Al Deen Al Aubi Street, Al Malaz District, Riyadh 12836, Saudi Arabia",
+        "address_line1": "Bazy Trading",
+        "address_line2": "Salah Al Deen Al Aubi Street, Al Malaz District, Riyadh 12836, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bazy Trading",
+            "osm_id": 4277820758,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5156157541d85e4740597f8aecec1aa93840f00103f901565dfafe0000000092030c42617a792054726164696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7409746,
+          24.660567100285785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riyadh batha",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "street": "Al Rwaya",
+        "iso3166_2": "SA-01",
+        "lon": 46.8817746,
+        "lat": 24.56903,
+        "formatted": "Riyadh batha, Al Rwaya, Saudi Arabia",
+        "address_line1": "Riyadh batha",
+        "address_line2": "Al Rwaya, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Riyadh batha",
+            "osm_id": 4292150992,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c3b876fddd7047405968b339f3ab913840f00103f901d006d5ff0000000092030c526979616468206261746861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.88177459999999,
+          24.569030000292884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riyadh sipchem",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "street": "Al Hamar Al Sharqi",
+        "iso3166_2": "SA-01",
+        "lon": 46.8765686,
+        "lat": 24.5735989,
+        "formatted": "Riyadh sipchem, Al Hamar Al Sharqi, Saudi Arabia",
+        "address_line1": "Riyadh sipchem",
+        "address_line2": "Al Hamar Al Sharqi, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Riyadh sipchem",
+            "osm_id": 4292192990,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51aad95e6633704740592ac7a560d7923840f00103f901deaad5ff0000000092030e526979616468207369706368656d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8765686,
+          24.57359890029253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metal workshop",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "As Sali Municipality",
+        "postcode": "14267",
+        "district": "As Sa`adah District",
+        "street": "Bakr Al Mazni",
+        "iso3166_2": "SA-01",
+        "lon": 46.8530235,
+        "lat": 24.70076,
+        "formatted": "Metal workshop, Bakr Al Mazni, As Sali Municipality 14267, Saudi Arabia",
+        "address_line1": "Metal workshop",
+        "address_line2": "Bakr Al Mazni, As Sali Municipality 14267, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Metal workshop",
+            "osm_id": 4293999090,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51169cc1df2f6d474059098fe30165b33840f00103f901f239f1ff0000000092030e4d6574616c20776f726b73686f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.85302349999999,
+          24.700760000282603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "عطلات الغازي للسياحة و السفريات",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "12612",
+        "suburb": "Al Murabba`",
+        "street": "شارع الوشم",
+        "iso3166_2": "SA-01",
+        "lon": 46.7062662,
+        "lat": 24.6513135,
+        "formatted": "عطلات الغازي للسياحة و السفريات, شارع الوشم, Al Murabba`, Riyadh 12612, Saudi Arabia",
+        "address_line1": "عطلات الغازي للسياحة و السفريات",
+        "address_line2": "شارع الوشم, Al Murabba`, Riyadh 12612, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "عطلات الغازي للسياحة و السفريات",
+            "osm_id": 4337180591,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5196a24bee665a4740597f2c477bbca63840f00103f901af1f84020100000092033ad8b9d8b7d984d8a7d8aa20d8a7d984d8bad8a7d8b2d98a20d984d984d8b3d98ad8a7d8add8a920d98820d8a7d984d8b3d981d8b1d98ad8a7d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7062662,
+          24.651313500286502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sumeasi",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Shmeisi Municipality",
+        "postcode": "12612",
+        "suburb": "Al Fakhiriyah District",
+        "street": "Al Hossam",
+        "iso3166_2": "SA-01",
+        "lon": 46.6882708,
+        "lat": 24.6447844,
+        "formatted": "Sumeasi, Al Hossam, Al Fakhiriyah District, Shmeisi Municipality 12612, Saudi Arabia",
+        "address_line1": "Sumeasi",
+        "address_line2": "Al Hossam, Al Fakhiriyah District, Shmeisi Municipality 12612, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sumeasi",
+            "osm_id": 4352534591,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515765f04119584740592434289710a53840f00103f9013f686e030100000092030753756d65617369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.68827079999999,
+          24.64478440028701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "المكتب. هيف",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Al Maathar Municipality",
+        "postcode": "12311",
+        "street": "Abdulsamie Al Wasti",
+        "iso3166_2": "SA-01",
+        "lon": 46.686305,
+        "lat": 24.6785565,
+        "formatted": "Haif Company, Abdulsamie Al Wasti, Al Maathar Municipality 12311, Saudi Arabia",
+        "address_line1": "Haif Company",
+        "address_line2": "Abdulsamie Al Wasti, Al Maathar Municipality 12311, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "المكتب. هيف",
+            "osm_id": 4356467592,
+            "name:en": "Haif Company",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "Riyadh",
+            "addr:street": "طريق الملك فهد",
+            "artist_name": "Ibrar Hussain",
+            "artwork_type": "building"
+          }
+        },
+        "name_international": {
+          "en": "Haif Company"
+        },
+        "artwork": {
+          "artist_name": "Ibrar Hussain",
+          "artwork_type": "building"
+        },
+        "place_id": "51670a9dd7d857474059a535f9e0b5ad3840f00103f901886baa0301000000920314d8a7d984d985d983d8aad8a82e20d987d98ad981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.686305,
+          24.678556500284362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aljajirah",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "As Sali Municipality",
+        "postcode": "12883",
+        "district": "Al Fayha District",
+        "suburb": "Al Jazirah District",
+        "street": "6",
+        "iso3166_2": "SA-01",
+        "lon": 46.7933634,
+        "lat": 24.680433,
+        "formatted": "aljajirah, 6, Al Jazirah District, As Sali Municipality 12883, Saudi Arabia",
+        "address_line1": "aljajirah",
+        "address_line2": "6, Al Jazirah District, As Sali Municipality 12883, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "aljajirah",
+            "osm_id": 4391421189,
+            "name:ar": "aljajirah",
+            "name:en": "aljajirah",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "aljajirah",
+          "en": "aljajirah"
+        },
+        "place_id": "51f26b90ee8c6547405901576bdb30ae3840f00103f90105c5bf0501000000920309616c6a616a69726168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.79336339999999,
+          24.680433000284214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الادارة hr",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13314",
+        "district": "At Taawun Distrikt",
+        "suburb": "Al Izdihar",
+        "street": "Othman Bin Affan Rd",
+        "iso3166_2": "SA-01",
+        "lon": 46.7103526,
+        "lat": 24.7718512,
+        "formatted": "الادارة hr, Othman Bin Affan Rd, Al Izdihar, At Taawun Distrikt 13314, Saudi Arabia",
+        "address_line1": "الادارة hr",
+        "address_line2": "Othman Bin Affan Rd, Al Izdihar, At Taawun Distrikt 13314, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الادارة hr",
+            "osm_id": 4588448192,
+            "name:ar": "الادارة hr",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الادارة hr"
+        },
+        "place_id": "5174d080d5ec5a47405957914e0a98c53840f00103f901c0297e1101000000920311d8a7d984d8a7d8afd8a7d8b1d8a9206872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.71035259999999,
+          24.771851200276924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "وادي خنيفه",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Al-Urayja Municipality",
+        "postcode": "12916",
+        "district": "Mahdia District",
+        "suburb": "Zahrat Laban District",
+        "street": "Haneefa Valley Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.6064839,
+        "lat": 24.6564111,
+        "formatted": "وادي خنيفه, Haneefa Valley Street, Zahrat Laban District, Al-Urayja Municipality 12916, Saudi Arabia",
+        "address_line1": "وادي خنيفه",
+        "address_line2": "Haneefa Valley Street, Zahrat Laban District, Al-Urayja Municipality 12916, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "وادي خنيفه",
+            "osm_id": 4595976193,
+            "name:ar": "وادي خنيفه",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "وادي خنيفه"
+        },
+        "place_id": "517706b243a14d474059d075d08e0aa83840f00103f9010108f11101000000920313d988d8a7d8afd98a20d8aed986d98ad981d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.60648389999999,
+          24.656411100286107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مكتب النقش المميز",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Al Maathar Municipality",
+        "postcode": "13519",
+        "district": "Al Nakheel District",
+        "street": "Al Jarir Valley",
+        "iso3166_2": "SA-01",
+        "lon": 46.640246,
+        "lat": 24.7515471,
+        "formatted": "مكتب النقش المميز, Al Jarir Valley, Al Maathar Municipality 13519, Saudi Arabia",
+        "address_line1": "مكتب النقش المميز",
+        "address_line2": "Al Jarir Valley, Al Maathar Municipality 13519, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مكتب النقش المميز",
+            "osm_id": 4874452623,
+            "name:ar": "مكتب النقش المميز",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مكتب النقش المميز"
+        },
+        "place_id": "5189b2b794f3514740599d19096465c03840f00103f9018f3e8a2201000000920320d985d983d8aad8a820d8a7d984d986d982d8b420d8a7d984d985d985d98ad8b2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.640246,
+          24.75154710027856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "وادي حنيفة",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Shmeisi Municipality",
+        "postcode": "19678",
+        "suburb": "Al Jarradiyah District",
+        "street": "Maslama Bin Abdulmelk",
+        "iso3166_2": "SA-01",
+        "lon": 46.6938599,
+        "lat": 24.6130433,
+        "formatted": "wadi honifah, Maslama Bin Abdulmelk, Al Jarradiyah District, Shmeisi Municipality 19678, Saudi Arabia",
+        "address_line1": "wadi honifah",
+        "address_line2": "Maslama Bin Abdulmelk, Al Jarradiyah District, Shmeisi Municipality 19678, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "وادي حنيفة",
+            "osm_id": 4878478425,
+            "name:ar": "وادي حنيفة",
+            "name:en": "wadi honifah",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "وادي حنيفة",
+          "en": "wadi honifah"
+        },
+        "place_id": "51be40b566d05847405979c6dd67f09c3840f00103f90159acc72201000000920313d988d8a7d8afd98a20d8add986d98ad981d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.69385989999999,
+          24.613043300289494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airplane",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Rumah",
+        "city": "Huraymila",
+        "street": "550",
+        "iso3166_2": "SA-01",
+        "lon": 46.5491768,
+        "lat": 25.4163895,
+        "formatted": "Airplane, 550, Huraymila, Saudi Arabia",
+        "address_line1": "Airplane",
+        "address_line2": "550, Huraymila, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Airplane",
+            "osm_id": 5387936310,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "aircraft"
+          }
+        },
+        "artwork": {
+          "artwork_type": "aircraft"
+        },
+        "place_id": "5167dce56c4b46474059bcd89580986a3940f00103f9013662254101000000920308416972706c616e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.54917679999999,
+          25.416389500220916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دار الرياض",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "12242",
+        "suburb": "As Sulaymaniyah District",
+        "street": "Al Athal",
+        "iso3166_2": "SA-01",
+        "lon": 46.694056,
+        "lat": 24.7106232,
+        "formatted": "Dar al Riyadh, Al Athal, As Sulaymaniyah District, Riyadh 12242, Saudi Arabia",
+        "address_line1": "Dar al Riyadh",
+        "address_line2": "Al Athal, As Sulaymaniyah District, Riyadh 12242, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دار الرياض",
+            "osm_id": 5461390824,
+            "name:en": "Dar al Riyadh",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Dar al Riyadh"
+        },
+        "place_id": "51dacbb6d3d65847405944fdec66ebb53840f00103f901e835864501000000920313d8afd8a7d8b120d8a7d984d8b1d98ad8a7d8b6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.694056,
+          24.71062320028183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Light Calligraphy",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11461",
+        "district": "حديقة الملك سلمان",
+        "suburb": "Al Waha District",
+        "street": "Al Ahsa'",
+        "iso3166_2": "SA-01",
+        "lon": 46.7201164,
+        "lat": 24.7356646,
+        "formatted": "Light Calligraphy, Al Ahsa', Al Waha District, Riyadh 11461, Saudi Arabia",
+        "address_line1": "Light Calligraphy",
+        "address_line2": "Al Ahsa', Al Waha District, Riyadh 11461, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Light Calligraphy",
+            "osm_id": 5686383158,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "Ahmed Y. AlRabiah",
+            "artwork_type": "installation"
+          }
+        },
+        "artwork": {
+          "artist_name": "Ahmed Y. AlRabiah",
+          "artwork_type": "installation"
+        },
+        "place_id": "511aa831c62c5c474059db06e78354bc3840f00103f9013652ef52010000009203114c696768742043616c6c69677261706879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.72011640000001,
+          24.73566460027983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مطابع أريج الألوان",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "22242",
+        "district": "Gbraya District",
+        "suburb": "Al Mansurah",
+        "street": "Prince Mohammed Ibn Abdulrahman Rd",
+        "iso3166_2": "SA-01",
+        "lon": 46.7409135,
+        "lat": 24.6184535,
+        "formatted": "Areej Color press, Prince Mohammed Ibn Abdulrahman Rd, Al Mansurah, Riyadh 22242, Saudi Arabia",
+        "address_line1": "Areej Color press",
+        "address_line2": "Prince Mohammed Ibn Abdulrahman Rd, Al Mansurah, Riyadh 22242, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مطابع أريج الألوان",
+            "osm_id": 5776489653,
+            "name:en": "Areej Color press",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Areej Color press"
+        },
+        "place_id": "511ad5e940d65e4740599bd6f5f7529e3840f00103f901b53c4e5801000000920322d985d8b7d8a7d8a8d8b920d8a3d8b1d98ad8ac20d8a7d984d8a3d984d988d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.74091349999999,
+          24.618453500289075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "فتحه",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "district": "Al-Nazim District",
+        "street": "Ahmad Ibn Abdulmumeen",
+        "iso3166_2": "SA-01",
+        "lon": 46.9762964,
+        "lat": 24.8287704,
+        "formatted": "فتحه, Ahmad Ibn Abdulmumeen, Al-Nazim District, Saudi Arabia",
+        "address_line1": "فتحه",
+        "address_line2": "Ahmad Ibn Abdulmumeen, Al-Nazim District, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "فتحه",
+            "osm_id": 6339451090,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ed99ca47f77c474059f70f054c2ad43840f00103f901d258dc7901000000920308d981d8aad8add987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9762964,
+          24.8287704002723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milano pizza pasta",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "11426",
+        "suburb": "Al Naseem District East",
+        "street": "Abi Al Aswad Al Do'aly Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.8372004,
+        "lat": 24.7468184,
+        "formatted": "Milano pizza pasta, Abi Al Aswad Al Do'aly Street, Al Naseem District East, 11426, Saudi Arabia",
+        "address_line1": "Milano pizza pasta",
+        "address_line2": "Abi Al Aswad Al Do'aly Street, Al Naseem District East, 11426, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Milano pizza pasta",
+            "osm_id": 6958931685,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515b19f961296b474059c43f9d7d2fbf3840f00103f901e5dec89e010000009203124d696c616e6f2070697a7a61207061737461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.83720039999999,
+          24.74681840027894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SDS",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "11263",
+        "street": "Anas Ibin Malek Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.7115348,
+        "lat": 24.858407,
+        "formatted": "SDS, Anas Ibin Malek Street, 11263, Saudi Arabia",
+        "address_line1": "SDS",
+        "address_line2": "Anas Ibin Malek Street, 11263, Saudi Arabia",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "SDS",
+            "osm_id": 7895957568,
+            "tourism": "artwork",
+            "man_made": "geoglyph",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a2fb8392135b47405906d1a88fc0db3840f00103f90140c0a2d601000000920303534453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.711534799999995,
+          24.858407000269857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Duruma",
+        "street": "Al Manjour Trail",
+        "iso3166_2": "SA-01",
+        "lon": 46.2003405,
+        "lat": 24.7043256,
+        "formatted": "درب المنجور, Al Manjour Trail, Saudi Arabia",
+        "address_line1": "درب المنجور",
+        "address_line2": "Al Manjour Trail, Saudi Arabia",
+        "name": "درب المنجور",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "درب المنجور",
+            "osm_id": 10678320628,
+            "name:en": "Al Manjour Trail",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Al Manjour Trail"
+        },
+        "place_id": "513bc8ebc1a419474059baf2baae4eb43840f00103f901f43d7a7c02000000920315d8afd8b1d8a820d8a7d984d985d986d8acd988d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2003405,
+          24.704325600282324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Globe",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Municipality of Al Shamal",
+        "postcode": "13521",
+        "district": "Hittin District",
+        "suburb": "Hittin",
+        "street": "Fountain St",
+        "iso3166_2": "SA-01",
+        "lon": 46.6045891,
+        "lat": 24.7676969,
+        "formatted": "Globe, Fountain St, Hittin, Municipality of Al Shamal 13521, Saudi Arabia",
+        "address_line1": "Globe",
+        "address_line2": "Fountain St, Hittin, Municipality of Al Shamal 13521, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Globe",
+            "osm_id": 11655051277,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "515002f62c634d47405970eeb7c887c43840f00103f9010df8b1b602000000920305476c6f6265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6045891,
+          24.767696900277258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نهاية العالم",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "city": "Huraymila",
+        "street": "Walking path to Edge of the World",
+        "iso3166_2": "SA-01",
+        "lon": 45.9910088,
+        "lat": 24.9472016,
+        "formatted": "Edge of the world, Walking path to Edge of the World, Huraymila, Saudi Arabia",
+        "address_line1": "Edge of the world",
+        "address_line2": "Walking path to Edge of the World, Huraymila, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 1002,
+            "name": "نهاية العالم",
+            "osm_id": 11838399969,
+            "name:en": "Edge of the world",
+            "tourism": "attraction",
+            "alt_name": "مطل جبل فهرين",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "مطل جبل فهرين"
+        },
+        "name_international": {
+          "en": "Edge of the world"
+        },
+        "ele": 1002,
+        "place_id": "512c065960d9fe4640599cd8d7cd7bf23840f00103f901e1a59fc102000000920317d986d987d8a7d98ad8a920d8a7d984d8b9d8a7d984d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9910088,
+          24.94720160026246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11586",
+        "district": "حديقة الملك سلمان",
+        "street": "Al Orouba",
+        "iso3166_2": "SA-01",
+        "lon": 46.709915633270256,
+        "lat": 24.7249041,
+        "formatted": "Al Orouba, Riyadh 11586, Saudi Arabia",
+        "address_line1": "Al Orouba",
+        "address_line2": "Riyadh 11586, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 328521949,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "514ee8f583de5a4740591d71ab5093b93840f00102f901ddd8941300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.709915633270256,
+          24.724904100280686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11586",
+        "district": "حديقة الملك سلمان",
+        "street": "Al Orouba",
+        "iso3166_2": "SA-01",
+        "lon": 46.70971554693419,
+        "lat": 24.72570105,
+        "formatted": "Al Orouba, Riyadh 11586, Saudi Arabia",
+        "address_line1": "Al Orouba",
+        "address_line2": "Riyadh 11586, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 328521950,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51c6c583f5d75a474059d0a0458bc7b93840f00102f901ded8941300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.70971554693419,
+          24.725701050280634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11586",
+        "district": "حديقة الملك سلمان",
+        "street": "Al Orouba",
+        "iso3166_2": "SA-01",
+        "lon": 46.70797885940369,
+        "lat": 24.7260511,
+        "formatted": "Al Orouba, Riyadh 11586, Saudi Arabia",
+        "address_line1": "Al Orouba",
+        "address_line2": "Riyadh 11586, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 328521952,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51f8b21f0d9f5a47405915ee227cdeb93840f00102f901e0d8941300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.70797885940368,
+          24.726051100280603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11586",
+        "district": "حديقة الملك سلمان",
+        "street": "Abu Bakar As-Sudiq Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.70792287064111,
+        "lat": 24.726930000000003,
+        "formatted": "Abu Bakar As-Sudiq Road, Riyadh 11586, Saudi Arabia",
+        "address_line1": "Abu Bakar As-Sudiq Road",
+        "address_line2": "Riyadh 11586, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 328521954,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513bbf74379d5a474059a8afa11518ba3840f00102f901e2d8941300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.707922870641106,
+          24.726930000280532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11586",
+        "district": "حديقة الملك سلمان",
+        "suburb": "Salah ad Din District",
+        "street": "Al Orouba",
+        "iso3166_2": "SA-01",
+        "lon": 46.710077238291255,
+        "lat": 24.727989700000002,
+        "formatted": "Al Orouba, Salah ad Din District, Riyadh 11586, Saudi Arabia",
+        "address_line1": "Al Orouba, Salah ad Din District",
+        "address_line2": "Riyadh 11586, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 328521956,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51260c9acfe35a474059848772885dba3840f00102f901e4d8941300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.71007723829125,
+          24.727989700280446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11586",
+        "district": "حديقة الملك سلمان",
+        "street": "Abu Bakar As-Sudiq Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.71088004067172,
+        "lat": 24.726608499999998,
+        "formatted": "Abu Bakar As-Sudiq Road, Riyadh 11586, Saudi Arabia",
+        "address_line1": "Abu Bakar As-Sudiq Road",
+        "address_line2": "Riyadh 11586, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 328521959,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513608ff1dfe5a4740595ab3c10303ba3840f00102f901e7d8941300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.71088004067171,
+          24.726608500280555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11586",
+        "district": "حديقة الملك سلمان",
+        "street": "Abu Bakar As-Sudiq Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.711566488988325,
+        "lat": 24.72534035,
+        "formatted": "Abu Bakar As-Sudiq Road, Riyadh 11586, Saudi Arabia",
+        "address_line1": "Abu Bakar As-Sudiq Road",
+        "address_line2": "Riyadh 11586, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 328521961,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513291579c145b474059b0ecbae7afb93840f00102f901e9d8941300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.71156648898831,
+          24.725340350280646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11586",
+        "district": "حديقة الملك سلمان",
+        "street": "Abu Bakar As-Sudiq Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.70879867200414,
+        "lat": 24.72723915,
+        "formatted": "Abu Bakar As-Sudiq Road, Riyadh 11586, Saudi Arabia",
+        "address_line1": "Abu Bakar As-Sudiq Road",
+        "address_line2": "Riyadh 11586, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 661459298,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5160da35eab95a4740595ad34e582cba3840f00102f90162116d2700000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.70879867200415,
+          24.727239150280504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Duruma",
+        "city": "Duruma",
+        "street": "5390",
+        "iso3166_2": "SA-01",
+        "lon": 46.105748070866014,
+        "lat": 24.57820705,
+        "formatted": "5390, Duruma, Saudi Arabia",
+        "address_line1": "5390",
+        "address_line2": "Duruma, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "osm_id": 907724659,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5108fe1c27890d4740594e52936005943840f00102f90173c71a3600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.105748070866014,
+          24.57820705029217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Municipality of Al Shamal",
+        "postcode": "11263",
+        "district": "Al Rimal District",
+        "suburb": "Imam Muhammad ibn Saud University",
+        "street": "Al Thumama",
+        "iso3166_2": "SA-01",
+        "lon": 46.705167,
+        "lat": 24.8189173,
+        "formatted": "Al Thumama, Imam Muhammad ibn Saud University, Municipality of Al Shamal 11263, Saudi Arabia",
+        "address_line1": "Al Thumama, Imam Muhammad ibn Saud University",
+        "address_line2": "Municipality of Al Shamal 11263, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3347616204,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "information": "board",
+            "artwork_type": "stone"
+          }
+        },
+        "artwork": {
+          "artwork_type": "stone"
+        },
+        "place_id": "51f69b89e9425a47405935cd6e90a4d13840f00103f901cc9188c700000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.705167,
+          24.818917300273103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "postcode": "11312",
+        "district": "Al Qirawan",
+        "street": "Asma Bint Malik Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.5629689,
+        "lat": 24.8716924,
+        "formatted": "Asma Bint Malik Street, Al Qirawan 11312, Saudi Arabia",
+        "address_line1": "Asma Bint Malik Street",
+        "address_line2": "Al Qirawan 11312, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3356914368,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5122156b5d0f484740597a53af3b27df3840f00103f901c07216c800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5629689,
+          24.871692400268763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Al Jubaylah",
+        "street": "King Khalid Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.4711762,
+        "lat": 24.9394084,
+        "formatted": "King Khalid Road, Al Jubaylah, Saudi Arabia",
+        "address_line1": "King Khalid Road",
+        "address_line2": "Al Jubaylah, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3359191554,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51a9d370804f3c474059beb7a4117df03840f00103f901023239c800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.47117620000001,
+          24.939408400263112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Al Jubaylah",
+        "street": "King Khalid Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.4716156,
+        "lat": 24.9392675,
+        "formatted": "King Khalid Road, Al Jubaylah, Saudi Arabia",
+        "address_line1": "King Khalid Road",
+        "address_line2": "Al Jubaylah, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3359191695,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51472465e65d3c47405967d3bbd573f03840f00103f9018f3239c800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4716156,
+          24.939267500263124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Umm al Kabash",
+        "street": "Al Amaria Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.42548,
+        "lat": 24.7887573,
+        "formatted": "Al Amaria Street, Umm al Kabash, Saudi Arabia",
+        "address_line1": "Al Amaria Street",
+        "address_line2": "Umm al Kabash, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3394656158,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51118dee207636474059302a99ffebc93840f00103f9019e5756ca00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42548,
+          24.788757300275563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13251",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Rimal District",
+        "street": "Al Shaikh Jabir Al Ahmed Al Shaba Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.7944068,
+        "lat": 24.8295583,
+        "formatted": "Al Shaikh Jabir Al Ahmed Al Shaba Road, Al Rawda Muncipality 13251, Saudi Arabia",
+        "address_line1": "Al Shaikh Jabir Al Ahmed Al Shaba Road",
+        "address_line2": "Al Rawda Muncipality 13251, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4253641289,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5128dc3c1faf6547405968cbc9ee5dd43840f00103f901496a89fd00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.79440679999999,
+          24.829558300272225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13635",
+        "district": "Al Rimal District",
+        "street": "Rabiha Bin Al Haris",
+        "iso3166_2": "SA-01",
+        "lon": 46.8319827,
+        "lat": 24.8796083,
+        "formatted": "Rabiha Bin Al Haris, Al Rimal District 13635, Saudi Arabia",
+        "address_line1": "Rabiha Bin Al Haris",
+        "address_line2": "Al Rimal District 13635, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4269952424,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513babbb687e6a47405911f172022ee13840f00103f901a84d82fe00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.83198269999999,
+          24.879608300268107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "work house",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "10011",
+        "district": "Al Rawda Muncipality",
+        "suburb": "An Nahdah",
+        "street": "Darain",
+        "iso3166_2": "SA-01",
+        "lon": 46.813746,
+        "lat": 24.7694471,
+        "formatted": "work house, Darain, An Nahdah, Al Rawda Muncipality 10011, Saudi Arabia",
+        "address_line1": "work house",
+        "address_line2": "Darain, An Nahdah, Al Rawda Muncipality 10011, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4413068393,
+            "name:en": "work house",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "work house"
+        },
+        "place_id": "511ba034d4286847405936b1337cfac43840f00103f90169140a0701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.813746,
+          24.769447100277112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arbic",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "suburb": "Al Yarmouk District",
+        "street": "Al Mazari",
+        "iso3166_2": "SA-01",
+        "lon": 46.7788855,
+        "lat": 24.8041415,
+        "formatted": "Arbic, Al Mazari, Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "address_line1": "Arbic",
+        "address_line2": "Al Mazari, Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4494461089,
+            "name:en": "Arbic",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Arbic"
+        },
+        "place_id": "5110ea2285b263474059d508a537dccd3840f00103f901a108e40b01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7788855,
+          24.8041415002743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "suburb": "Al Yarmouk District",
+        "street": "Al Mazari",
+        "iso3166_2": "SA-01",
+        "lon": 46.779445,
+        "lat": 24.8041,
+        "formatted": "Al Mazari, Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "address_line1": "Al Mazari, Al Yarmouk District",
+        "address_line2": "Al Rawda Muncipality 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4494510191,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ee0390dac46347405948e4637fd9cd3840f00103f9016fc8e40b01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.779444999999996,
+          24.804100000274303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "suburb": "Al Yarmouk District",
+        "street": "As-Sahabh",
+        "iso3166_2": "SA-01",
+        "lon": 46.7814017,
+        "lat": 24.805295,
+        "formatted": "As-Sahabh, Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "address_line1": "As-Sahabh, Al Yarmouk District",
+        "address_line2": "Al Rawda Muncipality 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4494510192,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f8448df804644740595ecf29d027ce3840f00103f90170c8e40b01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7814017,
+          24.805295000274207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "suburb": "Al Yarmouk District",
+        "street": "Al Mezerir'",
+        "iso3166_2": "SA-01",
+        "lon": 46.7795217,
+        "lat": 24.80456,
+        "formatted": "Al Mezerir', Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "address_line1": "Al Mezerir', Al Yarmouk District",
+        "address_line2": "Al Rawda Muncipality 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4494522089,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51db02f85dc76347405904d9e8a4f7cd3840f00103f901e9f6e40b01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7795217,
+          24.804560000274265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "suburb": "Al Yarmouk District",
+        "street": "Al Mazari",
+        "iso3166_2": "SA-01",
+        "lon": 46.7796667,
+        "lat": 24.8031092,
+        "formatted": "Al Mazari, Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "address_line1": "Al Mazari, Al Yarmouk District",
+        "address_line2": "Al Rawda Muncipality 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4508468394,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e023511ecc63474059934b869098cd3840f00103f901aac4b90c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77966670000001,
+          24.80310920027439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "suburb": "Al Yarmouk District",
+        "street": "Al Mazari",
+        "iso3166_2": "SA-01",
+        "lon": 46.7795809,
+        "lat": 24.8034906,
+        "formatted": "Al Mazari, Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "address_line1": "Al Mazari, Al Yarmouk District",
+        "address_line2": "Al Rawda Muncipality 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4508520592,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510a0b934ec96347405960d25a8fb1cd3840f00103f9019090ba0c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7795809,
+          24.80349060027436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "suburb": "Al Yarmouk District",
+        "street": "Al Mazari",
+        "iso3166_2": "SA-01",
+        "lon": 46.7793345,
+        "lat": 24.803851,
+        "formatted": "Al Mazari, Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "address_line1": "Al Mazari, Al Yarmouk District",
+        "address_line2": "Al Rawda Muncipality 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4508547791,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517e129f3bc1634740590109dd2dc9cd3840f00103f901cffaba0c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.77933449999999,
+          24.80385100027434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13246",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Yarmouk District",
+        "suburb": "Al Yarmouk District",
+        "street": "Al Mazari",
+        "iso3166_2": "SA-01",
+        "lon": 46.7796043,
+        "lat": 24.8037577,
+        "formatted": "Al Mazari, Al Yarmouk District, Al Rawda Muncipality 13246, Saudi Arabia",
+        "address_line1": "Al Mazari, Al Yarmouk District",
+        "address_line2": "Al Rawda Muncipality 13246, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4508547792,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511629de12ca6347405920968c10c3cd3840f00103f901d0faba0c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7796043,
+          24.803757700274332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "12221",
+        "suburb": "Al `Ulayya",
+        "street": "طريق مكة الفرعي",
+        "iso3166_2": "SA-01",
+        "lon": 46.6965606,
+        "lat": 24.681561,
+        "formatted": "طريق مكة الفرعي, Al `Ulayya, Riyadh 12221, Saudi Arabia",
+        "address_line1": "طريق مكة الفرعي, Al `Ulayya",
+        "address_line2": "Riyadh 12221, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4721856889,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514f57d2e528594740590b731ec87aae3840f00103f90179d1711901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.69656059999999,
+          24.68156100028413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "62800",
+        "district": "Al Rawda Muncipality",
+        "neighbourhood": "Al Ishbiliyah District",
+        "suburb": "Al Yarmouk District",
+        "street": "Imam Abdullah Ibn Saud Ibn Abdul Aziz Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.7809458,
+        "lat": 24.797004,
+        "formatted": "Imam Abdullah Ibn Saud Ibn Abdul Aziz Road, Al Yarmouk District, Al Rawda Muncipality 62800, Saudi Arabia",
+        "address_line1": "Imam Abdullah Ibn Saud Ibn Abdul Aziz Road, Al Yarmouk District",
+        "address_line2": "Al Rawda Muncipality 62800, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5077344423,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516a792f08f66347405939f6437408cc3840f00103f901a720a22e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7809458,
+          24.797004000274885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abana workshop",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "14531",
+        "suburb": "Ad Dar Al Baida District",
+        "commercial": "new warehouses",
+        "street": "Samira",
+        "iso3166_2": "SA-01",
+        "lon": 46.8102772,
+        "lat": 24.5742935,
+        "formatted": "Abana workshop, Samira, Ad Dar Al Baida District, Riyadh 14531, Saudi Arabia",
+        "address_line1": "Abana workshop",
+        "address_line2": "Samira, Ad Dar Al Baida District, Riyadh 14531, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5213712322,
+            "name:en": "Abana workshop",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Abana workshop"
+        },
+        "place_id": "51e458cd29b767474059c10f1ae604933840f00103f901c2efc23601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8102772,
+          24.574293500292473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Riyadh",
+        "postcode": "11461",
+        "district": "King Abdullah District",
+        "street": "Al Joud",
+        "iso3166_2": "SA-01",
+        "lon": 46.7525022,
+        "lat": 24.7222909,
+        "formatted": "Al Joud, Riyadh 11461, Saudi Arabia",
+        "address_line1": "Al Joud",
+        "address_line2": "Riyadh 11461, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6004121026,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518395f9fd5160474059a8e7720ee8b83840f00103f901c29ddf6501000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7525022,
+          24.72229090028091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Al Maathar Municipality",
+        "postcode": "12513",
+        "district": "King Saud University",
+        "street": "King Khalid Road",
+        "housenumber": "4545",
+        "iso3166_2": "SA-01",
+        "lon": 46.6324155,
+        "lat": 24.7142802,
+        "formatted": "4545 King Khalid Road, Al Maathar Municipality 12513, Saudi Arabia",
+        "address_line1": "4545 King Khalid Road",
+        "address_line2": "Al Maathar Municipality 12513, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6018675070,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e2fdb8fdf250474059ba633411dbb63840f00103f9017eb1bd6601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.63241549999999,
+          24.714280200281543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "12483",
+        "district": "King Abdullah District",
+        "suburb": "Mugharrzat",
+        "street": "King Abdullah Rd",
+        "iso3166_2": "SA-01",
+        "lon": 46.7384062,
+        "lat": 24.7590498,
+        "formatted": "King Abdullah Rd, Mugharrzat, King Abdullah District 12483, Saudi Arabia",
+        "address_line1": "King Abdullah Rd, Mugharrzat",
+        "address_line2": "King Abdullah District 12483, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6018716657,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f2142818845e474059aa3a741651c23840f00103f901f153be6601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7384062,
+          24.759049800277957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "12483",
+        "district": "King Abdullah District",
+        "suburb": "Mugharrzat",
+        "street": "King Abdullah Rd",
+        "iso3166_2": "SA-01",
+        "lon": 46.7377917,
+        "lat": 24.7587122,
+        "formatted": "King Abdullah Rd, Mugharrzat, King Abdullah District 12483, Saudi Arabia",
+        "address_line1": "King Abdullah Rd, Mugharrzat",
+        "address_line2": "King Abdullah District 12483, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6018716658,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5150615bf56f5e474059284577f63ac23840f00103f901f253be6601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7377917,
+          24.758712200277984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13214",
+        "district": "King Abdullah District",
+        "suburb": "Mugharrzat",
+        "street": "East Ring Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.7386262,
+        "lat": 24.7584918,
+        "formatted": "East Ring Road, Mugharrzat, King Abdullah District 13214, Saudi Arabia",
+        "address_line1": "East Ring Road, Mugharrzat",
+        "address_line2": "King Abdullah District 13214, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6018716659,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ff7ba64d8b5e4740596a7ac4842cc23840f00103f901f353be6601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.73862619999999,
+          24.758491800278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My Accommodation",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "As Sali Municipality",
+        "postcode": "14327",
+        "district": "Al Mashael District",
+        "street": "Istanboul",
+        "iso3166_2": "SA-01",
+        "lon": 46.8612448,
+        "lat": 24.6113345,
+        "formatted": "My Accommodation, Istanboul, As Sali Municipality 14327, Saudi Arabia",
+        "address_line1": "My Accommodation",
+        "address_line2": "Istanboul, As Sali Municipality 14327, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6297551286,
+            "name:en": "My Accommodation",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "My Accommodation"
+        },
+        "place_id": "51ceec04453d6e47405913a9f56a809c3840f00103f901b6015d7701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.861244799999994,
+          24.611334500289626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Shmeisi Municipality",
+        "postcode": "13874",
+        "suburb": "Al Hada District",
+        "street": "Jeddah Rd",
+        "iso3166_2": "SA-01",
+        "lon": 46.6099147,
+        "lat": 24.6592251,
+        "formatted": "Jeddah Rd, Al Hada District, Shmeisi Municipality 13874, Saudi Arabia",
+        "address_line1": "Jeddah Rd, Al Hada District",
+        "address_line2": "Shmeisi Municipality 13874, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7162136377,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c1ec54af114e474059226ee6f9c2a83840f00103f9013987e5aa01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6099147,
+          24.659225100285887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Municipality of Al Shamal",
+        "postcode": "11263",
+        "street": "Airport Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.7220061,
+        "lat": 24.8374769,
+        "formatted": "Airport Road, Municipality of Al Shamal 11263, Saudi Arabia",
+        "address_line1": "Airport Road",
+        "address_line2": "Municipality of Al Shamal 11263, Saudi Arabia",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7895957567,
+            "tourism": "artwork",
+            "man_made": "geoglyph",
+            "osm_type": "n",
+            "short_name": "KAAUH P.N.U"
+          }
+        },
+        "name_other": {
+          "short_name": "KAAUH P.N.U"
+        },
+        "place_id": "519a8125b26a5c47405966d2d9e264d63840f00103f9013fc0a2d601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7220061,
+          24.837476900271575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "postcode": "11312",
+        "district": "Al Qirawan",
+        "street": "Alamir Mohamed Ibn Saad Ibn Abdelaziz Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.5673255,
+        "lat": 24.8756853,
+        "formatted": "Alamir Mohamed Ibn Saad Ibn Abdelaziz Road, Al Qirawan 11312, Saudi Arabia",
+        "address_line1": "Alamir Mohamed Ibn Saad Ibn Abdelaziz Road",
+        "address_line2": "Al Qirawan 11312, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7896126962,
+            "aeroway": "parking_position",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "aircraft"
+          }
+        },
+        "artwork": {
+          "artwork_type": "aircraft"
+        },
+        "place_id": "51ea573a1f9e48474059aa3d6ee92ce03840f00103f901f255a5d601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.567325499999995,
+          24.875685300268437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Al Kharj",
+        "city": "Al-Kharj",
+        "postcode": "16275",
+        "street": "طريق الملك عبد الله",
+        "iso3166_2": "SA-01",
+        "lon": 47.2716008,
+        "lat": 24.1545284,
+        "formatted": "طريق الملك عبد الله, Al-Kharj 16275, Saudi Arabia",
+        "address_line1": "طريق الملك عبد الله",
+        "address_line2": "Al-Kharj 16275, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7929380450,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a1c8a4d0c3a247405974b0592c8f273840f00103f90162bea0d801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.271600799999995,
+          24.154528400322718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Al Jubaylah",
+        "street": "5762",
+        "iso3166_2": "SA-01",
+        "lon": 46.4553691,
+        "lat": 24.9165051,
+        "formatted": "5762, Al Jubaylah, Saudi Arabia",
+        "address_line1": "5762",
+        "address_line2": "Al Jubaylah, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8429317408,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f10de088493a47405968410814a0ea3840f00103f901202d6df601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.45536909999999,
+          24.916505100265027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Al `Uyaynah",
+        "street": "5147",
+        "iso3166_2": "SA-01",
+        "lon": 46.3919189,
+        "lat": 24.9250448,
+        "formatted": "5147, Al `Uyaynah, Saudi Arabia",
+        "address_line1": "5147",
+        "address_line2": "Al `Uyaynah, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8429317461,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51971705662a3247405956786cbccfec3840f00103f901552d6df601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3919189,
+          24.92504480026431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Al `Uyaynah",
+        "street": "5762",
+        "iso3166_2": "SA-01",
+        "lon": 46.395843,
+        "lat": 24.9038548,
+        "formatted": "5762, Al `Uyaynah, Saudi Arabia",
+        "address_line1": "5762",
+        "address_line2": "Al `Uyaynah, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8429317466,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51deacc1fbaa32474059b679370763e73840f00103f9015a2d6df601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.395843,
+          24.903854800266082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Al `Uyaynah",
+        "street": "5762",
+        "iso3166_2": "SA-01",
+        "lon": 46.3958611,
+        "lat": 24.9036583,
+        "formatted": "5762, Al `Uyaynah, Saudi Arabia",
+        "address_line1": "5762",
+        "address_line2": "Al `Uyaynah, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8429317467,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5119219793ab32474059e1667e2656e73840f00103f9015b2d6df601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3958611,
+          24.903658300266105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Al Jubaylah",
+        "street": "5762",
+        "iso3166_2": "SA-01",
+        "lon": 46.4480094,
+        "lat": 24.8959694,
+        "formatted": "5762, Al Jubaylah, Saudi Arabia",
+        "address_line1": "5762",
+        "address_line2": "Al Jubaylah, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8429317509,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5178a63c5f5839474059c65c28405ee53840f00103f901852d6df601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.44800939999999,
+          24.895969400266743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "street": "Khzam",
+        "iso3166_2": "SA-01",
+        "lon": 46.7320751,
+        "lat": 24.9642137,
+        "formatted": "Khzam, Saudi Arabia",
+        "address_line1": "Khzam",
+        "address_line2": "Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 9747039298,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "aircraft"
+          }
+        },
+        "artwork": {
+          "artwork_type": "aircraft"
+        },
+        "place_id": "51a35b0aa3b45d474059ebf984b5d6f63840f00103f9014204f84402000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.732075099999996,
+          24.964213700261023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Rumah",
+        "district": "الشرق",
+        "street": "Dammam Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.9785641,
+        "lat": 24.9453262,
+        "formatted": "Dammam Road, الشرق, Saudi Arabia",
+        "address_line1": "Dammam Road",
+        "address_line2": "الشرق, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 9753056671,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511445a396417d4740590c2edae500f23840f00103f9019fd5534502000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9785641,
+          24.945326200262613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palace wall",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Shmeisi Municipality",
+        "postcode": "12916",
+        "suburb": "Al Hada District",
+        "street": "Om Rahm",
+        "iso3166_2": "SA-01",
+        "lon": 46.629064,
+        "lat": 24.6588025,
+        "formatted": "Palace wall, Om Rahm, Al Hada District, Shmeisi Municipality 12916, Saudi Arabia",
+        "address_line1": "Palace wall",
+        "address_line2": "Om Rahm, Al Hada District, Shmeisi Municipality 12916, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10574890342,
+            "name:en": "Palace wall",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Palace wall"
+        },
+        "place_id": "51a38b4d2b85504740594240d947a7a83840f00103f9016605507602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.62906399999999,
+          24.65880250028591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palace wall",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Shmeisi Municipality",
+        "postcode": "12916",
+        "suburb": "Al Hada District",
+        "street": "Om Rahm",
+        "iso3166_2": "SA-01",
+        "lon": 46.6289854,
+        "lat": 24.6571682,
+        "formatted": "Palace wall, Om Rahm, Al Hada District, Shmeisi Municipality 12916, Saudi Arabia",
+        "address_line1": "Palace wall",
+        "address_line2": "Om Rahm, Al Hada District, Shmeisi Municipality 12916, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10574890343,
+            "name:en": "Palace wall",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Palace wall"
+        },
+        "place_id": "51aa54f59782504740592233d82c3ca83840f00103f9016705507602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.62898539999999,
+          24.657168200286044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Municipalty of Irqah",
+        "postcode": "12521",
+        "district": "Al Safarat District",
+        "suburb": "Hayy as Sifarat (Embassy Quarter)",
+        "street": "Haneefa Valley Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.6116314,
+        "lat": 24.6759211,
+        "formatted": "Haneefa Valley Street, Hayy as Sifarat (Embassy Quarter), Municipalty of Irqah 12521, Saudi Arabia",
+        "address_line1": "Haneefa Valley Street, Hayy as Sifarat (Embassy Quarter)",
+        "address_line2": "Municipalty of Irqah 12521, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10777813884,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "90, 180, 270"
+          }
+        },
+        "place_id": "51751a0ef0494e4740590a664c2a09ad3840f00103f9017c63688202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6116314,
+          24.675921100284576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "city": "Municipalty of Irqah",
+        "postcode": "12521",
+        "district": "Diplomatic Quarter",
+        "suburb": "Hayy as Sifarat (Embassy Quarter)",
+        "street": "B Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.6176947,
+        "lat": 24.6752431,
+        "formatted": "B Street, Hayy as Sifarat (Embassy Quarter), Municipalty of Irqah 12521, Saudi Arabia",
+        "address_line1": "B Street, Hayy as Sifarat (Embassy Quarter)",
+        "address_line2": "Municipalty of Irqah 12521, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10777813886,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "90, 180, 270"
+          }
+        },
+        "place_id": "51ceb4b39e104f474059789258bbdcac3840f00103f9017e63688202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6176947,
+          24.675243100284632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "suburb": "Banban",
+        "street": "Dertour",
+        "iso3166_2": "SA-01",
+        "lon": 46.6066403,
+        "lat": 25.0078232,
+        "formatted": "Dertour, Banban, Saudi Arabia",
+        "address_line1": "Dertour, Banban",
+        "address_line2": "Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10902113096,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c277ac63a64d474059534185b300023940f00103f901480bd18902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.606640299999995,
+          25.007823200257302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "11263",
+        "suburb": "Qurtubah",
+        "street": "Airport Road",
+        "iso3166_2": "SA-01",
+        "lon": 46.7333812,
+        "lat": 24.8414593,
+        "formatted": "Airport Road, Qurtubah, 11263, Saudi Arabia",
+        "address_line1": "Airport Road, Qurtubah",
+        "address_line2": "11263, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11653423499,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5128c0666fdf5d47405981946fe069d73840f00103f9018b2199b602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7333812,
+          24.841459300271257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Riyadh governorate",
+        "postcode": "13241",
+        "district": "Al Rawda Muncipality",
+        "suburb": "Hamra District",
+        "street": "Al Anhar",
+        "iso3166_2": "SA-01",
+        "lon": 46.7390602,
+        "lat": 24.7758177,
+        "formatted": "Al Anhar, Hamra District, Al Rawda Muncipality 13241, Saudi Arabia",
+        "address_line1": "Al Anhar, Hamra District",
+        "address_line2": "Al Rawda Muncipality 13241, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12100233755,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513a634e86995e4740598f5822fd9bc63840f00103f9011bea3ad102000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7390602,
+          24.7758177002766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "county": "Ad Diriyah",
+        "city": "Ad Dir`iyah",
+        "postcode": "12572",
+        "suburb": "Turayfah",
+        "street": "North Street",
+        "iso3166_2": "SA-01",
+        "lon": 46.5751415,
+        "lat": 24.73429,
+        "formatted": "North Street, Turayfah, Ad Dir`iyah 12572, Saudi Arabia",
+        "address_line1": "North Street, Turayfah",
+        "address_line2": "Ad Dir`iyah 12572, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12452857900,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514489963c9e4947405971fbf06dfabb3840f00103f9012c883fe602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5751415,
+          24.734290000279945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "city": "Huraymila",
+        "street": "Walking path to Edge of the World",
+        "iso3166_2": "SA-01",
+        "lon": 45.9908679,
+        "lat": 24.9458624,
+        "formatted": "Walking path to Edge of the World, Huraymila, Saudi Arabia",
+        "address_line1": "Walking path to Edge of the World",
+        "address_line2": "Huraymila, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 975,
+            "osm_id": 12453408091,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 975,
+        "place_id": "51fe9364c2d4fe464059cfa4cb0924f23840f00103f9015bed47e602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9908679,
+          24.945862400262566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "city": "Huraymila",
+        "street": "Walking path to Edge of the World",
+        "iso3166_2": "SA-01",
+        "lon": 45.9904653,
+        "lat": 24.9492871,
+        "formatted": "Walking path to Edge of the World, Huraymila, Saudi Arabia",
+        "address_line1": "Walking path to Edge of the World",
+        "address_line2": "Huraymila, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12453439314,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5152a92391c7fe4640592524ba7a04f33840f00103f901526748e602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9904653,
+          24.949287100262286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Riyadh Region",
+        "city": "Huraymila",
+        "street": "درب مطل جبل فهرين",
+        "iso3166_2": "SA-01",
+        "lon": 45.9916625,
+        "lat": 24.9450446,
+        "formatted": "درب مطل جبل فهرين, Huraymila, Saudi Arabia",
+        "address_line1": "درب مطل جبل فهرين",
+        "address_line2": "Huraymila, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12453439397,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b515fbcbeefe464059b0636371eef13840f00103f901a56748e602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.9916625,
+          24.945044600262634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lon": 47.09727689999999,
+        "lat": 24.498263200298236,
+        "categories": [
+          "natural",
+          "natural.mountain",
+          "natural.mountain.cave_entrance",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12603940103,
+            "natural": "cave_entrance",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "غار جميل جدا يحجب الهوى الشمالي والشرقي البارد أشعة الشمس من الصباح إلى العصر وهي تضيء المكان في الموقع صعب التقاط الأبراج الجوال وللحصول على الأبراج عليكم بالصعود فوق الغار"
+          }
+        },
+        "description": "غار جميل جدا يحجب الهوى الشمالي والشرقي البارد أشعة الشمس من الصباح إلى العصر وهي تضيء المكان في الموقع صعب التقاط الأبراج الجوال وللحصول على الأبراج عليكم بالصعود فوق الغار",
+        "place_id": "51ff13c891738c474059cb14562d8e7f3840f00103f90107dd40ef02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.09727689999999,
+          24.498263200298236
+        ]
+      }
+    }
+  ]
+}

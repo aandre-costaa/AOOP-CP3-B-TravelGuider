@@ -1,0 +1,2700 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place Echangeur",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Industriel",
+        "municipality": "Limete",
+        "street": "Place Echangeur",
+        "iso3166_2": "CD-KN",
+        "lon": 15.345319015484735,
+        "lat": -4.3743386,
+        "state_code": "KN",
+        "formatted": "Interchange Tower, Place Echangeur, Industriel, Democratic Republic of the Congo",
+        "address_line1": "Interchange Tower",
+        "address_line2": "Place Echangeur, Industriel, Democratic Republic of the Congo",
+        "categories": [
+          "building",
+          "building.tourism",
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place Echangeur",
+            "layer": 2,
+            "osm_id": 57890331,
+            "name:en": "Interchange Tower",
+            "tourism": "attraction",
+            "building": "yes",
+            "man_made": "tower",
+            "osm_type": "w",
+            "wikidata": "Q63483561",
+            "addr:city": "Kinshasa",
+            "wikipedia": "fr:Tour de l'Échangeur",
+            "building:levels": 16,
+            "building:material": "concrete",
+            "building:condition": "good"
+          }
+        },
+        "name_international": {
+          "en": "Interchange Tower"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q63483561",
+          "wikipedia": "fr:Tour de l'Échangeur"
+        },
+        "building": {
+          "levels": 16,
+          "material": "concrete",
+          "condition": "good"
+        },
+        "place_id": "5144636ca7cdb02e40596b412d9e527f11c0f00102f9011b5673030000000092030f506c61636520456368616e67657572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.34531901548474,
+          -4.374338599693469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mgr Luc Gillon",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Mbanza Lemba",
+        "municipality": "Lemba",
+        "suburb": "Mbanza Lemba",
+        "street": "une route etroite",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3089024,
+        "lat": -4.419587,
+        "state_code": "KN",
+        "formatted": "Mgr Luc Gillon, une route etroite, Mbanza Lemba, Democratic Republic of the Congo",
+        "address_line1": "Mgr Luc Gillon",
+        "address_line2": "une route etroite, Mbanza Lemba, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mgr Luc Gillon",
+            "osm_id": 616499389,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51d14f9374289e2e40597d05e636a8ad11c0f00103f901bd08bf240000000092030e4d6772204c75632047696c6c6f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.308902399999996,
+          -4.419586999692339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma Vallée",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Kimwenza",
+        "municipality": "Mont Ngafula",
+        "street": "Nkoyi",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2822443,
+        "lat": -4.495268,
+        "state_code": "KN",
+        "formatted": "Ma Vallée, Nkoyi, Kimwenza, Democratic Republic of the Congo",
+        "address_line1": "Ma Vallée",
+        "address_line2": "Nkoyi, Kimwenza, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ma Vallée",
+            "osm_id": 718504902,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fff62b5382902e405988b4d58827fb11c0f00103f901c683d32a0000000092030a4d612056616c6cc3a965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2822443,
+          -4.495267999690562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mont Ngaliema",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Kinsuka Pecheur",
+        "municipality": "Ngaliema",
+        "suburb": "Mont Ngaliema",
+        "street": "Avenue des Touristes",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2481963,
+        "lat": -4.3279879,
+        "state_code": "KN",
+        "formatted": "Mont Ngaliema, Avenue des Touristes, Kinsuka Pecheur, Democratic Republic of the Congo",
+        "address_line1": "Mont Ngaliema",
+        "address_line2": "Avenue des Touristes, Kinsuka Pecheur, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mont Ngaliema",
+            "osm_id": 746691834,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f6f9de95137f2e40597fb05a0fdc4f11c0f00103f901fa9c812c0000000092030d4d6f6e74204e67616c69656d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2481963,
+          -4.3279878996946755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardins présidentiels",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Kinsuka Pecheur",
+        "municipality": "Ngaliema",
+        "suburb": "Mont Ngaliema",
+        "street": "Avenue des Touristes",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2453853,
+        "lat": -4.3271106,
+        "state_code": "KN",
+        "formatted": "Jardins présidentiels, Avenue des Touristes, Kinsuka Pecheur, Democratic Republic of the Congo",
+        "address_line1": "Jardins présidentiels",
+        "address_line2": "Avenue des Touristes, Kinsuka Pecheur, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jardins présidentiels",
+            "osm_id": 746691835,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519bd65c24a37d2e40596a74bf14f64e11c0f00103f901fb9c812c000000009203164a617264696e73207072c3a9736964656e7469656c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2453853,
+          -4.3271105996947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Corniche",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Cliniques",
+        "municipality": "Gombe",
+        "street": "Avenue des Nations Unies",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2664567,
+        "lat": -4.314401,
+        "state_code": "KN",
+        "formatted": "La Corniche, Avenue des Nations Unies, Cliniques, Democratic Republic of the Congo",
+        "address_line1": "La Corniche",
+        "address_line2": "Avenue des Nations Unies, Cliniques, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Corniche",
+            "osm_id": 746702674,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a69938036d882e40596714ee55f24111c0f00103f90152c7812c0000000092030b4c6120436f726e69636865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266456700000003,
+          -4.314400999695045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardin botanique",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "county": "Mbanza-Ngungu",
+        "city": "Kisantu",
+        "street": "RN1",
+        "iso3166_2": "CD-BC",
+        "lon": 15.0569161,
+        "lat": -5.1487243,
+        "state_code": "BC",
+        "formatted": "Jardin botanique, RN1, Kisantu, Democratic Republic of the Congo",
+        "address_line1": "Jardin botanique",
+        "address_line2": "RN1, Kisantu, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jardin botanique",
+            "osm_id": 997437414,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51523b681b241d2e40599300cd2e4b9814c0f00103f901e6af733b000000009203104a617264696e20626f74616e69717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.056916099999999,
+          -5.148724299681038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zongo Falls Viewpoint",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "isolated_dwelling": "Zongo Falls",
+        "street": "Zongo Falls Path",
+        "iso3166_2": "CD-BC",
+        "lon": 14.9052082,
+        "lat": -4.7766049,
+        "state_code": "BC",
+        "formatted": "Zongo Falls Viewpoint, Zongo Falls Path, Kasangulu, Democratic Republic of the Congo",
+        "address_line1": "Zongo Falls Viewpoint",
+        "address_line2": "Zongo Falls Path, Kasangulu, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zongo Falls Viewpoint",
+            "osm_id": 2149384131,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515f24fe7277cf2d4059a43e98503e1b13c0f00103f901c3ff1c80000000009203155a6f6e676f2046616c6c732056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.905208200000002,
+          -4.7766048996851715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chutes du Loufoulakari",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Pool Department",
+        "iso3166_2": "CG-12",
+        "lon": 14.9834442,
+        "lat": -4.5851847,
+        "formatted": "Loufoularaki Waterfalls (upper), Pool Department, Congo-Brazzaville",
+        "address_line1": "Loufoularaki Waterfalls (upper)",
+        "address_line2": "Pool Department, Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chutes du Loufoulakari",
+            "osm_id": 3295577560,
+            "name:en": "Loufoularaki Waterfalls (upper)",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Loufoularaki Waterfalls (upper)"
+        },
+        "place_id": "51bce188ff85f72d4059f8206da83a5712c0f00103f901d8856ec400000000920316436875746573206475204c6f75666f756c616b617269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.983444200000001,
+          -4.585184699688618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chutes du Loufoulakari",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Pool Department",
+        "iso3166_2": "CG-12",
+        "lon": 14.9855768,
+        "lat": -4.5829352,
+        "formatted": "Loufoulakari Waterfalls (lower), Pool Department, Congo-Brazzaville",
+        "address_line1": "Loufoulakari Waterfalls (lower)",
+        "address_line2": "Pool Department, Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chutes du Loufoulakari",
+            "osm_id": 3295577562,
+            "name:en": "Loufoulakari Waterfalls (lower)",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Loufoulakari Waterfalls (lower)"
+        },
+        "place_id": "518764b7859df82d4059756609f7ec5412c0f00103f901da856ec400000000920316436875746573206475204c6f75666f756c616b617269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.985576800000002,
+          -4.582935199688667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statues des fameux africains",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Brazzaville (department)",
+        "city": "Brazzaville (municipality)",
+        "district": "Poto-Poto (arrondissement 3)",
+        "suburb": "Poto-Poto",
+        "street": "Route du Cimetière",
+        "iso3166_2": "CG-BZV",
+        "lon": 15.27324,
+        "lat": -4.2785065,
+        "formatted": "Statues des fameux africains, Route du Cimetière, Brazzaville (municipality), Congo-Brazzaville",
+        "address_line1": "Statues des fameux africains",
+        "address_line2": "Route du Cimetière, Brazzaville (municipality), Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statues des fameux africains",
+            "osm_id": 3725889189,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5108ebff1ce68b2e4059e6abcfce301d11c0f00103f901a58e14de0000000092031c53746174756573206465732066616d65757820616672696361696e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.273240000000001,
+          -4.278506499696027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statues des fameux congolais",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Brazzaville (department)",
+        "city": "Brazzaville (municipality)",
+        "district": "Poto-Poto (arrondissement 3)",
+        "suburb": "Poto-Poto",
+        "street": "Rue Louis Trichot",
+        "iso3166_2": "CG-BZV",
+        "lon": 15.2892558,
+        "lat": -4.2706041,
+        "formatted": "Statues des fameux congolais, Rue Louis Trichot, Brazzaville (municipality), Congo-Brazzaville",
+        "address_line1": "Statues des fameux congolais",
+        "address_line2": "Rue Louis Trichot, Brazzaville (municipality), Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statues des fameux congolais",
+            "osm_id": 3725889190,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514b5b125619942e40598b6fb93d191511c0f00103f901a68e14de0000000092031c53746174756573206465732066616d65757820636f6e676f6c616973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.289255799999998,
+          -4.270604099696253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tiktak",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Pool Department",
+        "city": "Ignie district",
+        "street": "RN 2",
+        "iso3166_2": "CG-12",
+        "lon": 15.379132,
+        "lat": -3.9895226,
+        "formatted": "tiktak, RN 2, Ignie district, Congo-Brazzaville",
+        "address_line1": "tiktak",
+        "address_line2": "RN 2, Ignie district, Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "tiktak",
+            "osm_id": 4131887489,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f1bbe9961dc22e4059cc1623d38aea0fc0f00103f901819947f60000000092030674696b74616b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.379132,
+          -3.98952259970506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lemba S/S",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Salongo",
+        "town": "Lemba",
+        "municipality": "Lemba",
+        "street": "Mayuma",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3326025,
+        "lat": -4.3950572,
+        "state_code": "KN",
+        "formatted": "Lemba S/S, Mayuma, Salongo, Democratic Republic of the Congo",
+        "address_line1": "Lemba S/S",
+        "address_line2": "Mayuma, Salongo, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lemba S/S",
+            "osm_id": 4179593814,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bd22f8df4aaa2e405916ece2df899411c0f00103f901568a1ff9000000009203094c656d626120532f53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.332602500000002,
+          -4.395057199692948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAMPUS S/S",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Mbanza Lemba",
+        "municipality": "Lemba",
+        "street": "Route de Kimwenza",
+        "iso3166_2": "CD-KN",
+        "lon": 15.303029,
+        "lat": -4.4097611,
+        "state_code": "KN",
+        "formatted": "CAMPUS S/S, Route de Kimwenza, Mbanza Lemba, Democratic Republic of the Congo",
+        "address_line1": "CAMPUS S/S",
+        "address_line2": "Route de Kimwenza, Mbanza Lemba, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "CAMPUS S/S",
+            "osm_id": 4179593815,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ab7af99d269b2e40590969e96998a311c0f00103f901578a1ff90000000092030a43414d50555320532f53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.303029,
+          -4.409761099692568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greatwhite",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Commerce",
+        "municipality": "Gombe",
+        "street": "Avenue du Commerce",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3196407,
+        "lat": -4.3055299,
+        "state_code": "KN",
+        "formatted": "Greatwhite, Avenue du Commerce, Commerce, Democratic Republic of the Congo",
+        "address_line1": "Greatwhite",
+        "address_line2": "Avenue du Commerce, Commerce, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Greatwhite",
+            "osm_id": 4232143490,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eaf021f2a7a32e4059c3907cd4dc3811c0f00103f901826241fc0000000092030a47726561747768697465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.319640699999997,
+          -4.3055298996952756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fresque de l'Afrique",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Brazzaville (department)",
+        "city": "Brazzaville (municipality)",
+        "district": "Poto-Poto (arrondissement 3)",
+        "suburb": "Poto-Poto",
+        "street": "Avenue Félix Eboué",
+        "iso3166_2": "CG-BZV",
+        "lon": 15.2846142,
+        "lat": -4.2746039,
+        "formatted": "Fresque de l'Afrique, Avenue Félix Eboué, Brazzaville (municipality), Congo-Brazzaville",
+        "address_line1": "Fresque de l'Afrique",
+        "address_line2": "Avenue Félix Eboué, Brazzaville (municipality), Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fresque de l'Afrique",
+            "osm_id": 4283191802,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5152f4d1f3b8912e40592132c2c3311911c0f00103f901fa514cff0000000092031446726573717565206465206c2741667269717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.284614199999996,
+          -4.274603899696133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foire Internationale de Kinshasa (FIKIN)",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Masiala",
+        "municipality": "Limete",
+        "street": "Avenue Sefu",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3378153,
+        "lat": -4.3717062,
+        "state_code": "KN",
+        "formatted": "Foire Internationale de Kinshasa (FIKIN), Avenue Sefu, Masiala, Democratic Republic of the Congo",
+        "address_line1": "Foire Internationale de Kinshasa (FIKIN)",
+        "address_line2": "Avenue Sefu, Masiala, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Foire Internationale de Kinshasa (FIKIN)",
+            "osm_id": 5349253481,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "yes"
+          }
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "place_id": "51482d8320f6ac2e4059d99dcd8ca07c11c0f00103f9016921d73e01000000920328466f69726520496e7465726e6174696f6e616c65206465204b696e7368617361202846494b494e29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.337815300000003,
+          -4.371706199693528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Residence Les Flamboyants",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Brazzaville (department)",
+        "city": "Brazzaville (municipality)",
+        "district": "Poto-Poto (arrondissement 3)",
+        "suburb": "Poto-Poto",
+        "street": "Avenue de la 2e Division Blindée",
+        "iso3166_2": "CG-BZV",
+        "lon": 15.2665084,
+        "lat": -4.2743804,
+        "formatted": "Residence Les Flamboyants, Avenue de la 2e Division Blindée, Brazzaville (municipality), Congo-Brazzaville",
+        "address_line1": "Residence Les Flamboyants",
+        "address_line2": "Avenue de la 2e Division Blindée, Brazzaville (municipality), Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Residence Les Flamboyants",
+            "osm_id": 5905846485,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f337fcc973882e4059ed6eed2cf71811c0f00103f901d5100460010000009203195265736964656e6365204c657320466c616d626f79616e7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266508399999998,
+          -4.274380399696139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cité Clairon",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Brazzaville (department)",
+        "city": "Brazzaville (municipality)",
+        "district": "Poto-Poto (arrondissement 3)",
+        "street": "Avenue du Maréchal Lyautey",
+        "iso3166_2": "CG-BZV",
+        "lon": 15.2632162,
+        "lat": -4.2710524,
+        "formatted": "Cité Clairon, Avenue du Maréchal Lyautey, Brazzaville (municipality), Congo-Brazzaville",
+        "address_line1": "Cité Clairon",
+        "address_line2": "Avenue du Maréchal Lyautey, Brazzaville (municipality), Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cité Clairon",
+            "osm_id": 5905846685,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51078e1546c4862e405967caa0c28e1511c0f00103f9019d1104600100000092030d436974c3a920436c6169726f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2632162,
+          -4.271052399696237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravin près de la Station de Télévision",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Brazzaville (department)",
+        "city": "Brazzaville (municipality)",
+        "district": "Djiri (arrondissement 9)",
+        "neighbourhood": "Itatolo",
+        "suburb": "Djiri",
+        "street": "RN 2",
+        "iso3166_2": "CG-BZV",
+        "lon": 15.2595177,
+        "lat": -4.1997933,
+        "formatted": "Ravin près de la Station de Télévision, RN 2, Brazzaville (municipality), Congo-Brazzaville",
+        "address_line1": "Ravin près de la Station de Télévision",
+        "address_line2": "RN 2, Brazzaville (municipality), Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ravin près de la Station de Télévision",
+            "osm_id": 6033571185,
+            "name:fr": "Ravin près de la Station de Télévision",
+            "name:zh": "电视台附近冲沟",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Ravin près de la Station de Télévision",
+          "zh": "电视台附近冲沟"
+        },
+        "place_id": "515f770481df842e405903a8609d96cc10c0f00103f90171fda06701000000920329526176696e207072c3a873206465206c612053746174696f6e2064652054c3a96cc3a9766973696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.259517700000002,
+          -4.199793299698288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laura K",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Lodja",
+        "municipality": "Kasa-Vubu",
+        "street": "Luozi",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3123247,
+        "lat": -4.3345639,
+        "state_code": "KN",
+        "formatted": "Laura K, Luozi, Lodja, Democratic Republic of the Congo",
+        "address_line1": "Laura K",
+        "address_line2": "Luozi, Lodja, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Laura K",
+            "osm_id": 6273289785,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514d77e805e99f2e4059b8703eeb975611c0f00103f90139ceea75010000009203074c61757261204b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3123247,
+          -4.334563899694494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pascale",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Kimbanseke",
+        "municipality": "Kimbanseke",
+        "street": "Boulevard Lumumba",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3979083,
+        "lat": -4.3992574,
+        "state_code": "KN",
+        "formatted": "Pascale, Boulevard Lumumba, Kimbanseke, Democratic Republic of the Congo",
+        "address_line1": "Pascale",
+        "address_line2": "Boulevard Lumumba, Kimbanseke, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pascale",
+            "osm_id": 6433928888,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512a9dfea2bacb2e4059857789eed69811c0f00103f901b8f67d7f0100000092030750617363616c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.397908300000001,
+          -4.399257399692833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sd l’okapi",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Kibomango",
+        "municipality": "Nsele",
+        "suburb": "Bongolo",
+        "street": "RN1",
+        "iso3166_2": "CD-KN",
+        "lon": 15.493089,
+        "lat": -4.3533429,
+        "state_code": "KN",
+        "formatted": "Sd l’okapi, RN1, Kibomango, Democratic Republic of the Congo",
+        "address_line1": "Sd l’okapi",
+        "address_line2": "RN1, Kibomango, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sd l’okapi",
+            "osm_id": 6433936690,
+            "name:fr": "Sd lokali",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Sd lokali"
+        },
+        "place_id": "51e208522976fc2e4059a4d699b8d26911c0f00103f90132157e7f0100000092030c5364206ce280996f6b617069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.493089000000001,
+          -4.353342899694017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planète Sono",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Conader",
+        "municipality": "Nsele",
+        "suburb": "Kimpoko Plage",
+        "street": "Avenue Menga",
+        "iso3166_2": "CD-KN",
+        "lon": 15.5578262,
+        "lat": -4.1942056,
+        "state_code": "KN",
+        "formatted": "Planète Sono, Avenue Menga, Conader, Democratic Republic of the Congo",
+        "address_line1": "Planète Sono",
+        "address_line2": "Avenue Menga, Conader, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Planète Sono",
+            "osm_id": 6513772078,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5133b44b659b1d2f4059a19e2dd5ddc610c0f00103f9012e4640840100000092030d506c616ec3a8746520536f6e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5578262,
+          -4.19420559969845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kimpoko Plage Mayi Pembe",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Conader",
+        "municipality": "Nsele",
+        "suburb": "Kimpoko Plage",
+        "street": "Avenue Menga",
+        "iso3166_2": "CD-KN",
+        "lon": 15.5593482,
+        "lat": -4.1925401,
+        "state_code": "KN",
+        "formatted": "Kimpoko Plage Mayi Pembe, Avenue Menga, Conader, Democratic Republic of the Congo",
+        "address_line1": "Kimpoko Plage Mayi Pembe",
+        "address_line2": "Avenue Menga, Conader, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kimpoko Plage Mayi Pembe",
+            "osm_id": 6513772079,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51262724e3621e2f4059a17e5d3b29c510c0f00103f9012f464084010000009203184b696d706f6b6f20506c616765204d6179692050656d6265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.559348199999999,
+          -4.192540099698506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plazza",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Industriel",
+        "municipality": "Limete",
+        "street": "16ème Rue",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3479512,
+        "lat": -4.3691674,
+        "state_code": "KN",
+        "formatted": "Plazza, 16ème Rue, Industriel, Democratic Republic of the Congo",
+        "address_line1": "Plazza",
+        "address_line2": "16ème Rue, Industriel, Democratic Republic of the Congo",
+        "categories": [
+          "building",
+          "building.catering",
+          "building.commercial",
+          "building.tourism",
+          "commercial",
+          "commercial.supermarket",
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plazza",
+            "shop": "supermarket",
+            "osm_id": 6581449658,
+            "cuisine": "regional",
+            "tourism": "attraction",
+            "building": "commercial",
+            "man_made": "oui",
+            "osm_type": "n",
+            "addr:city": "Kinshasa",
+            "addr:ward": "industriel",
+            "addr:street": "16ème Rue Industriel",
+            "building:levels": 1,
+            "building:material": "brick",
+            "building:condition": "average",
+            "is_in:admin_level7": "Limete",
+            "is_in:admin_level8": "Industriel"
+          }
+        },
+        "building": {
+          "levels": 1,
+          "type": "commercial",
+          "material": "brick",
+          "condition": "average"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "place_id": "513a35e1a826b22e4059c5bbd104077a11c0f00103f901baf3488801000000920306506c617a7a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3479512,
+          -4.369167399693599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patrice Lumumba",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Lemera",
+        "municipality": "Gombe",
+        "street": "Avenue du Fleuve",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2844338,
+        "lat": -4.3026919,
+        "state_code": "KN",
+        "formatted": "Patrice Lumumba, Avenue du Fleuve, Lemera, Democratic Republic of the Congo",
+        "address_line1": "Patrice Lumumba",
+        "address_line2": "Avenue du Fleuve, Lemera, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Patrice Lumumba",
+            "osm_id": 7216549607,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5106c1994ea1912e405995d287ddf43511c0f00103f901e7ce23ae0100000092030f50617472696365204c756d756d6261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.284433799999999,
+          -4.302691899695351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batteur du tam-tam",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Masiala",
+        "municipality": "Limete",
+        "street": "Avenue Sefu",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3366672,
+        "lat": -4.3729593,
+        "state_code": "KN",
+        "formatted": "Batteur du tam-tam, Avenue Sefu, Masiala, Democratic Republic of the Congo",
+        "address_line1": "Batteur du tam-tam",
+        "address_line2": "Avenue Sefu, Masiala, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Batteur du tam-tam",
+            "osm_id": 7318804497,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "André Lufwa Mawidi",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artist_name": "André Lufwa Mawidi",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "519445aba45fac2e4059d1b0eb0ae97d11c0f00103f90111183cb401000000920312426174746575722064752074616d2d74616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3366672,
+          -4.372959299693506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molinda",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Sankuru",
+        "municipality": "Matete",
+        "suburb": "Sankuru",
+        "street": "Lokoro",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3474448,
+        "lat": -4.3864385,
+        "state_code": "KN",
+        "formatted": "Molinda, Lokoro, Sankuru, Democratic Republic of the Congo",
+        "address_line1": "Molinda",
+        "address_line2": "Lokoro, Sankuru, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Molinda",
+            "osm_id": 8560446217,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519d54ea48e4b12e4059c563b888b68b11c0f00103f901090b3efe010000009203074d6f6c696e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3474448,
+          -4.386438499693161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vol du Faucon",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Maluku",
+        "village": "Kingakati",
+        "iso3166_2": "CD-KN",
+        "lon": 15.7386445,
+        "lat": -4.3495729,
+        "state_code": "KN",
+        "formatted": "Vol du Faucon, Maluku, Kinshasa, Democratic Republic of the Congo",
+        "address_line1": "Vol du Faucon",
+        "address_line2": "Maluku, Kinshasa, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vol du Faucon",
+            "osm_id": 9720307377,
+            "tourism": "attraction",
+            "operator": "Parc de la Vallée de la N'sele",
+            "osm_type": "n",
+            "attraction": "zip_line"
+          }
+        },
+        "operator": "Parc de la Vallée de la N'sele",
+        "place_id": "5194bda59c2f7a2f405930042f70f66511c0f00103f901b11e60430200000092030d566f6c20647520466175636f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7386445,
+          -4.34957289969411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Résidence Okito",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Mama Yemo",
+        "municipality": "Ngaliema",
+        "suburb": "Maman Yemo",
+        "street": "Avenue Mosala",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2195149,
+        "lat": -4.3499765,
+        "state_code": "KN",
+        "formatted": "Okito 's, Avenue Mosala, Mama Yemo, Democratic Republic of the Congo",
+        "address_line1": "Okito 's",
+        "address_line2": "Avenue Mosala, Mama Yemo, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Résidence Okito",
+            "osm_id": 10982263505,
+            "amenity": "shelter",
+            "name:en": "Okito 's",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Okito 's"
+        },
+        "place_id": "512cf8c84164702e4059f837523d606611c0f00103f901d10a988e0200000092031052c3a9736964656e6365204f6b69746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2195149,
+          -4.349976499694087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ntima Eco Village",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "iso3166_2": "CD-BC",
+        "lon": 15.1003662,
+        "lat": -4.4930183,
+        "state_code": "BC",
+        "formatted": "Ntima Eco Village, Kasangulu, Kongo Central, Democratic Republic of the Congo",
+        "address_line1": "Ntima Eco Village",
+        "address_line2": "Kasangulu, Kongo Central, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ntima Eco Village",
+            "osm_id": 11034494747,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Kasangulu"
+          }
+        },
+        "place_id": "51633fd53263332e4059ae0006cad9f811c0f00103f9011b07b591020000009203114e74696d612045636f2056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.100366200000002,
+          -4.493018299690602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ascado Eco Lodge",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "iso3166_2": "CD-BC",
+        "lon": 14.9940469,
+        "lat": -4.5900076,
+        "state_code": "BC",
+        "formatted": "Ascado Eco Lodge, Kasangulu, Kongo Central, Democratic Republic of the Congo",
+        "address_line1": "Ascado Eco Lodge",
+        "address_line2": "Kasangulu, Kongo Central, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ascado Eco Lodge",
+            "osm_id": 11034508759,
+            "tourism": "attraction",
+            "operator": "Daniel Mukoko",
+            "osm_type": "n",
+            "addr:city": "Kifuma"
+          }
+        },
+        "operator": "Daniel Mukoko",
+        "place_id": "5161611cb7f3fc2d4059fd36c4f32a5c12c0f00103f901d73db5910200000092031041736361646f2045636f204c6f646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.994046900000003,
+          -4.590007599688531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robo Roulage De Pont Kapi",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Matonge 1",
+        "municipality": "Kalamu",
+        "street": "Avenue Kase Vubu",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3144961,
+        "lat": -4.3317775,
+        "state_code": "KN",
+        "formatted": "Robo Roulage De Pont Kapi, Avenue Kase Vubu, Matonge 1, Democratic Republic of the Congo",
+        "address_line1": "Robo Roulage De Pont Kapi",
+        "address_line2": "Avenue Kase Vubu, Matonge 1, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Robo Roulage De Pont Kapi",
+            "osm_id": 11248544937,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51697000a205a12e405981f21a7bbd5311c0f00103f901a92c779e02000000920319526f626f20526f756c61676520446520506f6e74204b617069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.314496100000001,
+          -4.331777499694568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Coco",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Brazzaville (department)",
+        "city": "Brazzaville (municipality)",
+        "district": "Moungali (arrondissement 4)",
+        "street": "Rue de Djambala",
+        "iso3166_2": "CG-BZV",
+        "lon": 15.2780453,
+        "lat": -4.2539376,
+        "formatted": "Café Coco, Rue de Djambala, Brazzaville (municipality), Congo-Brazzaville",
+        "address_line1": "Café Coco",
+        "address_line2": "Rue de Djambala, Brazzaville (municipality), Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Café Coco",
+            "osm_id": 11278284569,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Rue de Djambala"
+          }
+        },
+        "place_id": "51f09c1cf45b8e2e405940b0d737080411c0f00103f90119f73ca00200000092030a436166c3a920436f636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.278045300000002,
+          -4.253937599696712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "limite 3",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "street": "RS119",
+        "iso3166_2": "CD-BC",
+        "lon": 15.0642955,
+        "lat": -4.6427464,
+        "state_code": "BC",
+        "formatted": "limite 3, RS119, Kasangulu, Democratic Republic of the Congo",
+        "address_line1": "limite 3",
+        "address_line2": "RS119, Kasangulu, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "limite 3",
+            "osm_id": 11618535069,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51598ffb56eb202e40592d1eb91c2c9212c0f00103f9019dc684b4020000009203086c696d6974652033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.064295500000002,
+          -4.642746399687479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "limite 4",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "street": "RS119",
+        "iso3166_2": "CD-BC",
+        "lon": 15.0630427,
+        "lat": -4.6437671,
+        "state_code": "BC",
+        "formatted": "limite 4, RS119, Kasangulu, Democratic Republic of the Congo",
+        "address_line1": "limite 4",
+        "address_line2": "RS119, Kasangulu, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "limite 4",
+            "osm_id": 11618542869,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c980fd2147202e4059ff97bdae379312c0f00103f90115e584b4020000009203086c696d6974652034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.063042699999999,
+          -4.643767099687465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Cliniques",
+        "municipality": "Gombe",
+        "street": "Place de l'Indépendance",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2811338,
+        "lat": -4.3108919,
+        "state_code": "KN",
+        "formatted": "Place de l'Indépendance, Cliniques, Democratic Republic of the Congo",
+        "address_line1": "Place de l'Indépendance",
+        "address_line2": "Cliniques, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 435766566,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51b599f9c4f08f2e4059a82037725a3e11c0f00103f9012645f91900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.281133800000001,
+          -4.310891899695129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Kinsuka Pecheur",
+        "municipality": "Ngaliema",
+        "suburb": "Mont Ngaliema",
+        "street": "Avenue des Touristes",
+        "iso3166_2": "CD-KN",
+        "lon": 15.239695,
+        "lat": -4.326515,
+        "state_code": "KN",
+        "formatted": "Avenue des Touristes, Kinsuka Pecheur, Democratic Republic of the Congo",
+        "address_line1": "Avenue des Touristes",
+        "address_line2": "Kinsuka Pecheur, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 746692833,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518907944db97a2e4059765eb5f2594e11c0f00103f901e1a0812c00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.239695,
+          -4.326514999694714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Lemera",
+        "municipality": "Gombe",
+        "street": "Avenue Roi Baudoin",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2801896,
+        "lat": -4.3003859,
+        "state_code": "KN",
+        "formatted": "Avenue Roi Baudoin, Lemera, Democratic Republic of the Congo",
+        "address_line1": "Avenue Roi Baudoin",
+        "address_line2": "Lemera, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 746692837,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d05be102758f2e4059467c7d5c983311c0f00103f901e5a0812c00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2801896,
+          -4.300385899695419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Conader",
+        "municipality": "Nsele",
+        "street": "RN43",
+        "iso3166_2": "CD-KN",
+        "lon": 15.5461243,
+        "lat": -4.1919485,
+        "state_code": "KN",
+        "formatted": "RN43, Conader, Democratic Republic of the Congo",
+        "address_line1": "RN43",
+        "address_line2": "Conader, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 759484537,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510f1ab09a9d172f4059bce2c2258ec410c0f00103f90179d0442d00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5461243,
+          -4.191948499698523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Maluku",
+        "iso3166_2": "CD-KN",
+        "lon": 15.724837110572988,
+        "lat": -4.30667325,
+        "state_code": "KN",
+        "formatted": "Maluku, Kinshasa, Democratic Republic of the Congo",
+        "address_line1": "Maluku",
+        "address_line2": "Kinshasa, Democratic Republic of the Congo",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 964635457,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "511ead89d91d732f40591aff678d083a11c0f00102f901412b7f3900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.724837110572988,
+          -4.306673249695246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Lemera",
+        "municipality": "Gombe",
+        "street": "Boulevard du Colonel Tshatshi",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2804039,
+        "lat": -4.3042884,
+        "state_code": "KN",
+        "formatted": "Boulevard du Colonel Tshatshi, Lemera, Democratic Republic of the Congo",
+        "address_line1": "Boulevard du Colonel Tshatshi",
+        "address_line2": "Lemera, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "osm_id": 1084140673,
+            "subject": "Laurent-Désiré Kabila",
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "statue",
+            "subject:wikidata": "Q135547",
+            "subject:wikipedia": "fr:Laurent-Désiré Kabila"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "517a579819918f2e405960f9d460973711c0f00102f90181ac9e4000000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2804039,
+          -4.304288399695309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Brazzaville (department)",
+        "city": "Brazzaville (municipality)",
+        "district": "Bacongo (arrondissement 2)",
+        "neighbourhood": "Case de Gaulle",
+        "suburb": "Bacongo",
+        "street": "Rue Mbama",
+        "iso3166_2": "CG-BZV",
+        "lon": 15.2670409,
+        "lat": -4.2904938,
+        "formatted": "Rue Mbama, Brazzaville (municipality), Congo-Brazzaville",
+        "address_line1": "Rue Mbama",
+        "address_line2": "Brazzaville (municipality), Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3291519877,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518863b895b9882e40590089e534772911c0f00103f901859b30c400000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.267040899999998,
+          -4.290493799695696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Lemera",
+        "municipality": "Gombe",
+        "street": "Promenade de la Raquette",
+        "iso3166_2": "CD-KN",
+        "lon": 15.274434,
+        "lat": -4.3057217,
+        "state_code": "KN",
+        "formatted": "Promenade de la Raquette, Lemera, Democratic Republic of the Congo",
+        "address_line1": "Promenade de la Raquette",
+        "address_line2": "Lemera, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4022834085,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5128d2fd9c828c2e40599779f71b0f3911c0f00103f901a593c7ef00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.274434,
+          -4.305721699695275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Kinsuka Pecheur",
+        "municipality": "Ngaliema",
+        "suburb": "Mont Ngaliema",
+        "street": "Chaussée Mzee Laurent-Désiré Kabila",
+        "iso3166_2": "CD-KN",
+        "lon": 15.2443668,
+        "lat": -4.3305924,
+        "state_code": "KN",
+        "formatted": "Chaussée Mzee Laurent-Désiré Kabila, Kinsuka Pecheur, Democratic Republic of the Congo",
+        "address_line1": "Chaussée Mzee Laurent-Désiré Kabila",
+        "address_line2": "Kinsuka Pecheur, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8249818507,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "N'Damvu Tsiku-Pezo",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artist_name": "N'Damvu Tsiku-Pezo",
+          "artwork_type": "mural"
+        },
+        "place_id": "51d4742ca51d7d2e40595bfa63d0865211c0f00103f9018b3dbaeb01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.244366800000002,
+          -4.330592399694605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Nzunzi Wa Mbombo",
+        "municipality": "Masina",
+        "suburb": "Nzuzi wa Mbombo",
+        "street": "Boulevard Lumumba",
+        "iso3166_2": "CD-KN",
+        "lon": 15.3844348,
+        "lat": -4.3937684,
+        "state_code": "KN",
+        "formatted": "Boulevard Lumumba, Nzunzi Wa Mbombo, Democratic Republic of the Congo",
+        "address_line1": "Boulevard Lumumba",
+        "address_line2": "Nzunzi Wa Mbombo, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8400755248,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "517ce35aa3d4c42e4059b084fb05389311c0f00103f901305ab9f401000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.384434800000001,
+          -4.3937683996929735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Maluku",
+        "village": "Kingakati",
+        "iso3166_2": "CD-KN",
+        "lon": 15.7383409,
+        "lat": -4.3493188,
+        "state_code": "KN",
+        "formatted": "Maluku, Kinshasa, Democratic Republic of the Congo",
+        "address_line1": "Maluku",
+        "address_line2": "Kinshasa, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 9720307380,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51319985d1077a2f4059ba41d2d3b36511c0f00103f901b41e604302000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.738340899999999,
+          -4.349318799694112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "limite 1",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "street": "RS119",
+        "iso3166_2": "CD-BC",
+        "lon": 15.0631646,
+        "lat": -4.6409951,
+        "state_code": "BC",
+        "formatted": "limite 1, RS119, Kasangulu, Democratic Republic of the Congo",
+        "address_line1": "limite 1",
+        "address_line2": "RS119, Kasangulu, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11618500669,
+            "name:en": "limite 1",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "limite 1"
+        },
+        "place_id": "51a487461c57202e40597737f804619012c0f00103f9013d4084b402000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0631646,
+          -4.6409950996875216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "concessession Yachika",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "street": "RS119",
+        "iso3166_2": "CD-BC",
+        "lon": 15.0641956,
+        "lat": -4.6433748,
+        "state_code": "BC",
+        "formatted": "concessession Yachika, RS119, Kasangulu, Democratic Republic of the Congo",
+        "address_line1": "concessession Yachika",
+        "address_line2": "RS119, Kasangulu, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11618521669,
+            "name:en": "concessession Yachika",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "concessession Yachika"
+        },
+        "place_id": "511c18e53ede202e4059bae9eed7d09212c0f00103f901459284b402000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.064195599999998,
+          -4.643374799687473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "limite 2",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "street": "RS119",
+        "iso3166_2": "CD-BC",
+        "lon": 15.065852,
+        "lat": -4.6425711,
+        "state_code": "BC",
+        "formatted": "limite 2, RS119, Kasangulu, Democratic Republic of the Congo",
+        "address_line1": "limite 2",
+        "address_line2": "RS119, Kasangulu, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11618521670,
+            "name:en": "limite 2",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "limite 2"
+        },
+        "place_id": "519ac0745ab7212e4059d80c8a28fe9112c0f00103f901469284b402000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.065851999999996,
+          -4.642571099687494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "borien 5",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kongo Central",
+        "city": "Kasangulu",
+        "street": "RS119",
+        "iso3166_2": "CD-BC",
+        "lon": 15.0615608,
+        "lat": -4.6439605,
+        "state_code": "BC",
+        "formatted": "borien 5, RS119, Kasangulu, Democratic Republic of the Congo",
+        "address_line1": "borien 5",
+        "address_line2": "RS119, Kasangulu, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11618551474,
+            "name:en": "borien 5",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "borien 5"
+        },
+        "place_id": "51636eade5841f2e4059434b98616a9312c0f00103f901b20685b402000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0615608,
+          -4.643960499687469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bela Falls ( LOUVOUBI)",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Pool Department",
+        "iso3166_2": "CG-12",
+        "lon": 14.7647981,
+        "lat": -4.8428544,
+        "formatted": "Bela Falls ( LOUVOUBI), Pool Department, Congo-Brazzaville",
+        "address_line1": "Bela Falls ( LOUVOUBI)",
+        "address_line2": "Pool Department, Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11963925269,
+            "name:en": "Bela Falls ( LOUVOUBI)",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bela Falls ( LOUVOUBI)"
+        },
+        "place_id": "51fd15d79d93872d4059a9bb4739155f13c0f00103f90115031bc902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.764798100000002,
+          -4.842854399684179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Pool Department",
+        "city": "Mabaya",
+        "hamlet": "Nganga Lingolo",
+        "district": "Madibou (arrondissement 8)",
+        "street": "RN 1",
+        "iso3166_2": "CG-12",
+        "lon": 15.1432806,
+        "lat": -4.3315213,
+        "formatted": "RN 1, Mabaya, Congo-Brazzaville",
+        "address_line1": "RN 1",
+        "address_line2": "Mabaya, Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11964652469,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51714d26135c492e40596776d0517a5311c0f00103f901b51b26c902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.143280599999999,
+          -4.331521299694578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LINZOLO MISSION",
+        "country": "Congo-Brazzaville",
+        "country_code": "cg",
+        "state": "Pool Department",
+        "city": "Linzolo",
+        "iso3166_2": "CG-12",
+        "lon": 15.1140565,
+        "lat": -4.415606,
+        "formatted": "LINZOLO MISSION, Linzolo, Pool Department, Congo-Brazzaville",
+        "address_line1": "LINZOLO MISSION",
+        "address_line2": "Linzolo, Pool Department, Congo-Brazzaville",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11964652569,
+            "name:en": "LINZOLO MISSION",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "LINZOLO MISSION"
+        },
+        "place_id": "51ddca129d653a2e405928cd829e94a911c0f00103f901191c26c902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.114056499999998,
+          -4.415605999692424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MARCHE",
+        "country": "Democratic Republic of the Congo",
+        "country_code": "cd",
+        "state": "Kinshasa",
+        "city": "Maluku",
+        "village": "Libaya",
+        "street": "RN43",
+        "iso3166_2": "CD-KN",
+        "lon": 15.5483349,
+        "lat": -4.0615529,
+        "state_code": "KN",
+        "formatted": "MARCHE, RN43, Maluku, Democratic Republic of the Congo",
+        "address_line1": "MARCHE",
+        "address_line2": "RN43, Maluku, Democratic Republic of the Congo",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11972109469,
+            "name:en": "MARCHE",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "MARCHE"
+        },
+        "place_id": "51c9821d5abf182f40597dc92cb9073f10c0f00103f9019de497c902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.548334900000002,
+          -4.0615528997026304
+        ]
+      }
+    }
+  ]
+}

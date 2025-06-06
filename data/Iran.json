@@ -1,0 +1,5637 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "باغ گیاه‌ شناسی ملی ایران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "13861-64935",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Shahrak Daneshgah Tehran",
+        "suburb": "District 21",
+        "street": "Tehran-Karaj Freeway",
+        "iso3166_2": "IR-23",
+        "lon": 51.17610867096447,
+        "lat": 35.74101245,
+        "formatted": "National Botanical Garden of Iran, Tehran, District 21, Tehran-Karaj Freeway, بخش مرکزی شهرستان تهران, 13861-64935, Iran",
+        "address_line1": "National Botanical Garden of Iran",
+        "address_line2": "Tehran, District 21, Tehran-Karaj Freeway, بخش مرکزی شهرستان تهران, 13861-64935, Iran",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "باغ گیاه‌ شناسی ملی ایران",
+            "phone": "+98 21 4478 7297;+98 21 4478 7595",
+            "osm_id": 99886906,
+            "leisure": "garden",
+            "name:en": "National Botanical Garden of Iran",
+            "tourism": "attraction",
+            "website": "https://nbgi.rifr-ac.ir/",
+            "osm_type": "w",
+            "wikidata": "Q6971107",
+            "addr:city": "تهران",
+            "wikipedia": "fa:باغ گیاه‌شناسی ملی ایران",
+            "addr:street": "آزادراه شهید فهمیده (تهران-کرج)",
+            "garden:type": "botanical"
+          }
+        },
+        "website": "https://nbgi.rifr-ac.ir/",
+        "name_international": {
+          "en": "National Botanical Garden of Iran"
+        },
+        "contact": {
+          "phone": "+98 21 4478 7297;+98 21 4478 7595"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6971107",
+          "wikipedia": "fa:باغ گیاه‌شناسی ملی ایران"
+        },
+        "place_id": "51ce2a9bba8a96494059e4b7f67ed9de4140f00102f9013a27f4050000000092032fd8a8d8a7d8ba20daafdb8cd8a7d987e2808c20d8b4d986d8a7d8b3db8c20d985d984db8c20d8a7db8cd8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.17610867096447,
+          35.74101244971078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کارگاه سنتور و مضراب مدنی",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "city": "Karaj County",
+        "town": "Kamalshahr",
+        "postcode": "31997-84646",
+        "district": "Karaj Central District",
+        "suburb": "Kamal Shahr",
+        "street": "بهشتی",
+        "housenumber": "390",
+        "iso3166_2": "IR-30",
+        "lon": 50.8825211,
+        "lat": 35.8608392,
+        "formatted": "Santour and Mezrab WorkShop Madani, Karaj County, Kamal Shahr, بهشتی, 390, Alborz Province, 31997-84646, Iran",
+        "address_line1": "Santour and Mezrab WorkShop Madani",
+        "address_line2": "Karaj County, Kamal Shahr, بهشتی, 390, Alborz Province, 31997-84646, Iran",
+        "categories": [
+          "office",
+          "office.company",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کارگاه سنتور و مضراب مدنی",
+            "email": "madaniabdoreza@gmail.com",
+            "phone": "+982634716496",
+            "office": "company",
+            "osm_id": 5361554622,
+            "name:en": "Santour and Mezrab WorkShop Madani",
+            "tourism": "artwork",
+            "website": "http://www.madanisantour.com",
+            "osm_type": "n",
+            "addr:street": "بهشتی",
+            "addr:postcode": 31475746,
+            "opening_hours": "Sa-Th 00:00-24:00; Fr 09:00-18:00",
+            "addr:housenumber": 390
+          }
+        },
+        "website": "http://www.madanisantour.com",
+        "opening_hours": "Sa-Th 00:00-24:00; Fr 09:00-18:00",
+        "name_international": {
+          "en": "Santour and Mezrab WorkShop Madani"
+        },
+        "contact": {
+          "phone": "+982634716496",
+          "email": "madaniabdoreza@gmail.com"
+        },
+        "place_id": "51d5438f73f670494059dbf598fa2fee4140f00103f901bed4923f0100000092032edaa9d8a7d8b1daafd8a7d98720d8b3d986d8aad988d8b120d98820d985d8b6d8b1d8a7d8a820d985d8afd986db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.8825211,
+          35.86083919972199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Free Walking Tour Tehran (Persian Walk)",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "11619-15149",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Pamenar",
+        "suburb": "District 12",
+        "street": "Panzdah-e Khordad Street",
+        "iso3166_2": "IR-23",
+        "lon": 51.4191275,
+        "lat": 35.6792947,
+        "formatted": "Tehran Free Walking Tour, Tehran, District 12, Panzdah-e Khordad Street, بخش مرکزی شهرستان تهران, 11619-15149, Iran",
+        "address_line1": "Tehran Free Walking Tour",
+        "address_line2": "Tehran, District 12, Panzdah-e Khordad Street, بخش مرکزی شهرستان تهران, 11619-15149, Iran",
+        "categories": [
+          "commercial",
+          "service",
+          "service.travel_agency",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Free Walking Tour Tehran (Persian Walk)",
+            "shop": "travel_agency",
+            "email": "info@persianwalk.com",
+            "phone": "+989358914604",
+            "osm_id": 6492274585,
+            "name:en": "Tehran Free Walking Tour",
+            "tourism": "attraction",
+            "website": "https://www.persianwalk.com/",
+            "osm_type": "n",
+            "addr:street": "پانزده خرداد",
+            "opening_hours": "Mo, We, Sa 09:30-14:00;Su, Tu, Th 10:00-14:00;24/7"
+          }
+        },
+        "website": "https://www.persianwalk.com/",
+        "opening_hours": "Mo, We, Sa 09:30-14:00;Su, Tu, Th 10:00-14:00;24/7",
+        "name_international": {
+          "en": "Tehran Free Walking Tour"
+        },
+        "contact": {
+          "phone": "+989358914604",
+          "email": "info@persianwalk.com"
+        },
+        "commercial": {
+          "type": "travel_agency"
+        },
+        "place_id": "5159ad4cf8a5b54940593acaf320f3d64140f00103f901993ff88201000000920327467265652057616c6b696e6720546f75722054656872616e20285065727369616e2057616c6b29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41912750000001,
+          35.67929469970518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سورتمه توچال",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "دهستان رودبار قصران",
+        "postcode": "19876-17862",
+        "district": "بخش رودبار قصران",
+        "street": "ریل سورتمه",
+        "iso3166_2": "IR-23",
+        "lon": 51.4060411,
+        "lat": 35.8198108,
+        "formatted": "Tochal Slope Ride, دهستان رودبار قصران, ریل سورتمه, بخش رودبار قصران, 19876-17862, Iran",
+        "address_line1": "Tochal Slope Ride",
+        "address_line2": "دهستان رودبار قصران, ریل سورتمه, بخش رودبار قصران, 19876-17862, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "url": "http://tochal.org/fa/WebContents/1068-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C_%DA%A9%D8%A7%D8%B1%DB%8C",
+            "name": "سورتمه توچال",
+            "sport": "toboggan",
+            "osm_id": 4494673188,
+            "name:en": "Tochal Slope Ride",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "ایستگاه اول به دوم توچال",
+            "opening_hours": "09:00-17:00; Th,Fr 08:30-20:00"
+          }
+        },
+        "website": "http://tochal.org/fa/WebContents/1068-%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C_%DA%A9%D8%A7%D8%B1%DB%8C",
+        "opening_hours": "09:00-17:00; Th,Fr 08:30-20:00",
+        "name_international": {
+          "en": "Tochal Slope Ride"
+        },
+        "place_id": "517baa9e27f9b349405931d96e8fefe84140f00103f9012445e70b01000000920317d8b3d988d8b1d8aad985d98720d8aad988da86d8a7d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4060411,
+          35.81981079971809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سینما ۵ بعدی بام تهران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "دهستان رودبار قصران",
+        "postcode": "19858-58962",
+        "district": "بخش رودبار قصران",
+        "street": "Tochal Health Road",
+        "iso3166_2": "IR-23",
+        "lon": 51.4055653,
+        "lat": 35.8198271,
+        "formatted": "Tochal 5D Simulator, دهستان رودبار قصران, Tochal Health Road, بخش رودبار قصران, 19858-58962, Iran",
+        "address_line1": "Tochal 5D Simulator",
+        "address_line2": "دهستان رودبار قصران, Tochal Health Road, بخش رودبار قصران, 19858-58962, Iran",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema",
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "سینما ۵ بعدی بام تهران",
+            "osm_id": 4513800810,
+            "amenity": "cinema",
+            "name:en": "Tochal 5D Simulator",
+            "tourism": "attraction",
+            "website": "http://tochal.org/fa/WebContents/1072-%D8%B3%DB%8C%D9%86%D9%85%D8%A7_5_%D8%A8%D8%B9%D8%AF%DB%8C",
+            "osm_type": "n",
+            "opening_hours": "09:00-23:59"
+          }
+        },
+        "website": "http://tochal.org/fa/WebContents/1072-%D8%B3%DB%8C%D9%86%D9%85%D8%A7_5_%D8%A8%D8%B9%D8%AF%DB%8C",
+        "opening_hours": "09:00-23:59",
+        "name_international": {
+          "en": "Tochal 5D Simulator"
+        },
+        "place_id": "513cf25190e9b3494059f6d42a18f0e84140f00103f9016a220b0d01000000920328d8b3db8cd986d985d8a720dbb520d8a8d8b9d8afdb8c20d8a8d8a7d98520d8aad987d8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.405565300000006,
+          35.8198270997181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بازار تجریش",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19636-54371",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Tajrish",
+        "suburb": "District 1",
+        "street": "کوچه پیاده رو امامزاده",
+        "iso3166_2": "IR-23",
+        "lon": 51.4296345,
+        "lat": 35.8056281,
+        "formatted": "Old Tajrish Bazaar, Tehran, District 1, کوچه پیاده رو امامزاده, بخش رودبار قصران, 19636-54371, Iran",
+        "address_line1": "Old Tajrish Bazaar",
+        "address_line2": "Tehran, District 1, کوچه پیاده رو امامزاده, بخش رودبار قصران, 19636-54371, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بازار تجریش",
+            "osm_id": 5673503144,
+            "name:de": "Tajrish Basar",
+            "name:en": "Old Tajrish Bazaar",
+            "tourism": "attraction",
+            "website": "https://tajrish1.ir",
+            "osm_type": "n",
+            "wikidata": "Q20109725"
+          }
+        },
+        "website": "https://tajrish1.ir",
+        "name_international": {
+          "de": "Tajrish Basar",
+          "en": "Old Tajrish Bazaar"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q20109725"
+        },
+        "place_id": "51dc5d6743feb6494059d68252d21ee74140f00103f901a8c92a5201000000920315d8a8d8a7d8b2d8a7d8b120d8aad8acd8b1db8cd8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42963449999999,
+          35.80562809971677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "آتلیه عکاسی آرش",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15769-17139",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "Abbas Abad",
+        "suburb": "District 7",
+        "quarter": "ناحیه ۴",
+        "street": "North Sohrevardi Avenue",
+        "housenumber": "242",
+        "iso3166_2": "IR-23",
+        "lon": 51.4350966,
+        "lat": 35.7249898,
+        "formatted": "arash studio, Tehran, District 7, North Sohrevardi Avenue, 242, بخش مرکزی شهرستان تهران, 15769-17139, Iran",
+        "address_line1": "arash studio",
+        "address_line2": "Tehran, District 7, North Sohrevardi Avenue, 242, بخش مرکزی شهرستان تهران, 15769-17139, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "آتلیه عکاسی آرش",
+            "craft": "photographer",
+            "level": 1,
+            "osm_id": 6275995652,
+            "name:en": "arash studio",
+            "tourism": "artwork",
+            "operator": "koroush mirzakhani",
+            "osm_type": "n",
+            "addr:city": "تهران",
+            "addr:street": "سهروردی شمالی",
+            "description": "عکس و فیلم تخصصی صنعتی ، کودک ، عروس",
+            "addr:country": "IR",
+            "addr:postcode": 1576917139,
+            "contact:email": "koroushmirzakhni@gmail.com",
+            "contact:phone": "+98 21 8875 1517",
+            "opening_hours": "Mo-Su 09:00-21:00",
+            "contact:mobile": "+98 912 033 0982",
+            "addr:housenumber": 242
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "koroush mirzakhani",
+        "description": "عکس و فیلم تخصصی صنعتی ، کودک ، عروس",
+        "craft": "photographer",
+        "name_international": {
+          "en": "arash studio"
+        },
+        "contact": {
+          "phone": "+98 21 8875 1517",
+          "email": "koroushmirzakhni@gmail.com"
+        },
+        "production": {
+          "industry": "photographer"
+        },
+        "place_id": "51e7ccd13eb1b7494059b2d73b77ccdc4140f00103f901041814760100000092031cd8a2d8aad984db8cd98720d8b9daa9d8a7d8b3db8c20d8a2d8b1d8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4350966,
+          35.72498979970932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قلم های آبی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "16546-36464",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "مجتمع مسکونی زردشتیان رستم باغ",
+        "suburb": "District 8",
+        "street": "Ayatullah Khoshghovat Boulevard",
+        "iso3166_2": "IR-23",
+        "lon": 51.5259859,
+        "lat": 35.7277336,
+        "formatted": "قلم های آبی, Tehran, District 8, Ayatullah Khoshghovat Boulevard, بخش مرکزی شهرستان تهران, 16546-36464, Iran",
+        "address_line1": "قلم های آبی",
+        "address_line2": "Tehran, District 8, Ayatullah Khoshghovat Boulevard, بخش مرکزی شهرستان تهران, 16546-36464, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قلم های آبی",
+            "phone": "+98 21 778 77876;+98 21 777 30185",
+            "osm_id": 9374894046,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "AZADEH ABI",
+            "description": "SCHOOL OF ART",
+            "artwork_type": "painting",
+            "opening_hours": "Mo-Su 09:00-21:00"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "description": "SCHOOL OF ART",
+        "contact": {
+          "phone": "+98 21 778 77876;+98 21 777 30185"
+        },
+        "artwork": {
+          "artist_name": "AZADEH ABI",
+          "artwork_type": "painting"
+        },
+        "place_id": "511c54878153c3494059fa79e55f26dd4140f00103f901de87c92e02000000920314d982d984d98520d987d8a7db8c20d8a2d8a8db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.525985899999995,
+          35.727733599709566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای فتحعلی شاهی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Robat Karim County",
+        "province": "Tehran Province",
+        "city": "شهرک خورشید",
+        "postcode": "31133-35145",
+        "district": "Robat Karim Central District",
+        "street": "بازارک",
+        "iso3166_2": "IR-23",
+        "lon": 51.083489649449305,
+        "lat": 35.4724528,
+        "formatted": "کاروانسرای فتحعلی شاهی, شهرک خورشید, بازارک, Robat Karim Central District, 31133-35145, Iran",
+        "address_line1": "کاروانسرای فتحعلی شاهی",
+        "address_line2": "شهرک خورشید, بازارک, Robat Karim Central District, 31133-35145, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای فتحعلی شاهی",
+            "osm_id": -11187284,
+            "name:ru": "Караван-сарай Фетхуллаха шаха",
+            "tourism": "attraction",
+            "alt_name": "کاروانسرای رباط کریم",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "r",
+            "wikidata": "Q5875161",
+            "wikipedia": "fa:کاروانسرای فتحعلیشاهی"
+          }
+        },
+        "name_other": {
+          "alt_name": "کاروانسرای رباط کریم"
+        },
+        "name_international": {
+          "ru": "Караван-сарай Фетхуллаха шаха"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5875161",
+          "wikipedia": "fa:کاروانسرای فتحعلیشاهی"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "place_id": "513af8f0c9af8a494059c2c7555579bc4140f00101f90154b4aa000000000092032adaa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20d981d8aad8add8b9d984db8c20d8b4d8a7d987db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.083489649449305,
+          35.472452799687304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای کنارگرد",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Hasanabad",
+        "village": "Kenar Gerd-e Bala",
+        "district": "Fashapuyeh District",
+        "neighbourhood": "مسکن ارغوان",
+        "street": "حافظ شیرازی",
+        "iso3166_2": "IR-23",
+        "lon": 51.25391523998941,
+        "lat": 35.376069400000006,
+        "formatted": "کاروانسرای کنارگرد, Hasanabad, حافظ شیرازی, Fashapuyeh District, Iran",
+        "address_line1": "کاروانسرای کنارگرد",
+        "address_line2": "Hasanabad, حافظ شیرازی, Fashapuyeh District, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای کنارگرد",
+            "osm_id": -11187283,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "r",
+            "wikidata": "Q5769024"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5769024"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "place_id": "51f2da694b80a04940592353c60a23b04140f00101f90153b4aa0000000000920323daa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20daa9d986d8a7d8b1daafd8b1d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25391523998941,
+          35.37606939967943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای خاتون آباد",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Pakdasht County",
+        "province": "Tehran Province",
+        "city": "Pakdasht",
+        "village": "Khatunabad",
+        "postcode": "33918-57108",
+        "district": "Pakdasht Central District",
+        "street": "ازاده",
+        "iso3166_2": "IR-23",
+        "lon": 51.66028419093139,
+        "lat": 35.4978991,
+        "formatted": "کاروانسرای خاتون آباد, Pakdasht, ازاده, Pakdasht Central District, 33918-57108, Iran",
+        "address_line1": "کاروانسرای خاتون آباد",
+        "address_line2": "Pakdasht, ازاده, Pakdasht Central District, 33918-57108, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای خاتون آباد",
+            "osm_id": -11187282,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "r",
+            "wikidata": "Q5908584"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5908584"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "place_id": "51de0e3f3184d4494059ddef5e28bbbf4140f00101f90152b4aa0000000000920328daa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20d8aed8a7d8aad988d98620d8a2d8a8d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.66028419093139,
+          35.49789909968943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای علی آباد",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Qom Province",
+        "county": "Qom County",
+        "city": "Qomrud RD",
+        "village": "Qaleh-ye Mohammad Ali Khan",
+        "district": "Qom Central District",
+        "street": "Tehran - Qom Old Road",
+        "iso3166_2": "IR-25",
+        "lon": 50.975497089211196,
+        "lat": 35.131567700000005,
+        "formatted": "کاروانسرای علی آباد, Qomrud RD, Tehran - Qom Old Road, Qom Province, Iran",
+        "address_line1": "کاروانسرای علی آباد",
+        "address_line2": "Qomrud RD, Tehran - Qom Old Road, Qom Province, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای علی آباد",
+            "osm_id": -11187281,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "r",
+            "wikidata": "Q20110879"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q20110879"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "place_id": "51aec0af16dd7c4940596ca0db35d7904140f00101f90151b4aa0000000000920324daa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20d8b9d984db8c20d8a2d8a8d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9754970892112,
+          35.13156769966085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای حوض سلطان",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Qom Province",
+        "county": "Qom County",
+        "city": "Qomrud RD",
+        "district": "Qom Central District",
+        "iso3166_2": "IR-25",
+        "lon": 51.1110771455953,
+        "lat": 35.081548850000004,
+        "formatted": "کاروانسرای حوض سلطان, Qomrud RD, Qom County, Iran",
+        "address_line1": "کاروانسرای حوض سلطان",
+        "address_line2": "Qomrud RD, Qom County, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای حوض سلطان",
+            "osm_id": -11187280,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "r",
+            "wikidata": "Q6545391"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6545391"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "place_id": "5118d5a1c6378e494059f8265531708a4140f00101f90150b4aa0000000000920326daa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20d8add988d8b620d8b3d984d8b7d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.11107714559529,
+          35.08154884965728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای دیر گچین",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Qom Province",
+        "county": "Qom County",
+        "city": "Qomrud RD",
+        "district": "Qom Central District",
+        "street": "Haram ta Haram Freeway (Qom-Garmsar)",
+        "iso3166_2": "IR-25",
+        "lon": 51.420732853158256,
+        "lat": 35.0582663,
+        "formatted": "Deyr Gachin Carvanserai, Qomrud RD, Haram ta Haram Freeway (Qom-Garmsar), Qom Province, Iran",
+        "address_line1": "Deyr Gachin Carvanserai",
+        "address_line2": "Qomrud RD, Haram ta Haram Freeway (Qom-Garmsar), Qom Province, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای دیر گچین",
+            "osm_id": -11187269,
+            "name:en": "Deyr Gachin Carvanserai",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "r",
+            "wikidata": "Q6394061",
+            "wikipedia": "fa:دیر گچین"
+          }
+        },
+        "name_international": {
+          "en": "Deyr Gachin Carvanserai"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6394061",
+          "wikipedia": "fa:دیر گچین"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "place_id": "517055fa92dab549405970bd254575874140f00101f90145b4aa0000000000920324daa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20d8afdb8cd8b120daafda86db8cd986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.420732853158256,
+          35.058266299655656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای ینگی امام",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "county": "Savojbolagh County",
+        "city": "Saidabad RD",
+        "district": "Savojbolagh Central District",
+        "suburb": "Yengi Emam",
+        "street": "گلستان",
+        "iso3166_2": "IR-30",
+        "lon": 50.719320572393954,
+        "lat": 35.9362795,
+        "formatted": "Yengi Emam Caravansari, Saidabad RD, Yengi Emam, گلستان, Alborz Province, Iran",
+        "address_line1": "Yengi Emam Caravansari",
+        "address_line2": "Saidabad RD, Yengi Emam, گلستان, Alborz Province, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای ینگی امام",
+            "height": 20,
+            "osm_id": -11171322,
+            "name:en": "Yengi Emam Caravansari",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "r",
+            "wikidata": "Q5902267"
+          }
+        },
+        "name_international": {
+          "en": "Yengi Emam Caravansari"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5902267"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "building": {
+          "height": 20
+        },
+        "place_id": "51d2e24eb2125c4940594fa0b301d8f74140f00101f901fa75aa0000000000920326daa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20db8cd986daafdb8c20d8a7d985d8a7d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.719320572393954,
+          35.93627949972926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "برج میلاد",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14736-56857",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Kuy Nasr",
+        "suburb": "District 2",
+        "street": "مرکز همایش های برج میلاد",
+        "iso3166_2": "IR-23",
+        "lon": 51.375273750000005,
+        "lat": 35.744701649999996,
+        "formatted": "Milad Tower, Tehran, District 2, مرکز همایش های برج میلاد, بخش مرکزی شهرستان تهران, 14736-56857, Iran",
+        "address_line1": "Milad Tower",
+        "address_line2": "Tehran, District 2, مرکز همایش های برج میلاد, بخش مرکزی شهرستان تهران, 14736-56857, Iran",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "برج میلاد",
+            "height": 435,
+            "osm_id": -8122457,
+            "name:en": "Milad Tower",
+            "name:ml": "മിലാദ് ഗോപുരം",
+            "name:zh": "默德塔",
+            "tourism": "viewpoint",
+            "building": "yes",
+            "osm_type": "r",
+            "wikidata": "Q622796",
+            "building:part": "no"
+          }
+        },
+        "name_international": {
+          "en": "Milad Tower",
+          "ml": "മിലാദ് ഗോപുരം",
+          "zh": "默德塔"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q622796"
+        },
+        "building": {
+          "height": 435
+        },
+        "place_id": "510da661f808b0494059ac64376252df4140f00101f90159f07b0000000000920311d8a8d8b1d8ac20d985db8cd984d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37527375,
+          35.74470164971112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "برج آزادی",
+        "old_name": "برج شهیاد",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14586-43635",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Ostad Moein",
+        "suburb": "District 9",
+        "street": "Azadi Square",
+        "iso3166_2": "IR-23",
+        "lon": 51.33806045,
+        "lat": 35.699738350000004,
+        "formatted": "Azadi Tower, Tehran, District 9, Azadi Square, بخش مرکزی شهرستان تهران, 14586-43635, Iran",
+        "address_line1": "Azadi Tower",
+        "address_line2": "Tehran, District 9, Azadi Square, بخش مرکزی شهرستان تهران, 14586-43635, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "برج آزادی",
+            "layer": 1,
+            "osm_id": -7814369,
+            "name:de": "Freiheitsturm",
+            "name:en": "Azadi Tower",
+            "name:es": "Torre Azadi",
+            "name:fr": "Tour Azadi",
+            "name:he": "מגדל אזאדי",
+            "name:hi": "आज़ादी टवर",
+            "name:it": "Torre Azadi",
+            "name:ml": "ആസാദി ഗോപുരം",
+            "name:pl": "Bordż-e Azadi",
+            "name:pt": "Torre Azadi",
+            "name:ru": "Башня Азади",
+            "name:sk": "Bordž-e ázádí",
+            "name:sv": "Azaditornet",
+            "name:zh": "自由纪念塔",
+            "tourism": "attraction",
+            "end_date": 1971,
+            "historic": "monument",
+            "old_name": "برج شهیاد",
+            "osm_type": "r",
+            "wikidata": "Q1140026",
+            "wikipedia": "en:Azadi Tower",
+            "start_date": 1969,
+            "building:part": "no",
+            "building:levels": 7
+          }
+        },
+        "name_other": {
+          "old_name": "برج شهیاد"
+        },
+        "name_international": {
+          "de": "Freiheitsturm",
+          "en": "Azadi Tower",
+          "es": "Torre Azadi",
+          "fr": "Tour Azadi",
+          "he": "מגדל אזאדי",
+          "hi": "आज़ादी टवर",
+          "it": "Torre Azadi",
+          "ml": "ആസാദി ഗോപുരം",
+          "pl": "Bordż-e Azadi",
+          "pt": "Torre Azadi",
+          "ru": "Башня Азади",
+          "sk": "Bordž-e ázádí",
+          "sv": "Azaditornet",
+          "zh": "自由纪念塔"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1140026",
+          "wikipedia": "en:Azadi Tower"
+        },
+        "historic": {
+          "type": "monument",
+          "start_date": 1969,
+          "end_date": 1971
+        },
+        "place_id": "511869989045ab494059d6dfb70691d94140f00101f901e13c770000000000920311d8a8d8b1d8ac20d8a2d8b2d8a7d8afdb8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33806045,
+          35.69973834970703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سردر باغ ملی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "11146-68116",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "Ferdowsi",
+        "suburb": "District 12",
+        "quarter": "ناحیه ۱",
+        "street": "Emam Khomeini Street",
+        "iso3166_2": "IR-23",
+        "lon": 51.41689855033009,
+        "lat": 35.6860645,
+        "formatted": "Sardar é Bagh Melli, Tehran, District 12, Emam Khomeini Street, بخش مرکزی شهرستان تهران, 11146-68116, Iran",
+        "address_line1": "Sardar é Bagh Melli",
+        "address_line2": "Tehran, District 12, Emam Khomeini Street, بخش مرکزی شهرستان تهران, 11146-68116, Iran",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سردر باغ ملی",
+            "osm_id": 322472990,
+            "name:en": "Sardar é Bagh Melli",
+            "name:ru": "Сардар-е Багх-е Мелли (Ворота Национального сада)",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "wikidata": "Q50826657",
+            "addr:city": "تهران",
+            "wikipedia": "fa:سردر باغ ملی",
+            "wheelchair": "no",
+            "addr:street": "خیابان امام خمینی"
+          }
+        },
+        "name_international": {
+          "en": "Sardar é Bagh Melli",
+          "ru": "Сардар-е Багх-е Мелли (Ворота Национального сада)"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "wiki_and_media": {
+          "wikidata": "Q50826657",
+          "wikipedia": "fa:سردر باغ ملی"
+        },
+        "place_id": "5171b583ee5cb54940596c9726f6d0d74140f00102f9011e8c381300000000920316d8b3d8b1d8afd8b120d8a8d8a7d8ba20d985d984db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41689855033008,
+          35.68606449970579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دژ رشکان",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "18637-46855",
+        "district": "Rey Central District",
+        "neighbourhood": "Safayieh",
+        "suburb": "District 20",
+        "street": "ابراهیم خلیل",
+        "iso3166_2": "IR-23",
+        "lon": 51.45232295135853,
+        "lat": 35.60536115,
+        "formatted": "Rashkan Castle, Tehran, District 20, ابراهیم خلیل, Rey Central District, 18637-46855, Iran",
+        "address_line1": "Rashkan Castle",
+        "address_line2": "Tehran, District 20, ابراهیم خلیل, Rey Central District, 18637-46855, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دژ رشکان",
+            "osm_id": 346039139,
+            "name:en": "Rashkan Castle",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "wikipedia": "en:Rashkan Castle"
+          }
+        },
+        "name_international": {
+          "en": "Rashkan Castle"
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Rashkan Castle"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "5150a8edb7e5b9494059be1c62797ccd4140f00102f9016323a0140000000092030fd8afda9820d8b1d8b4daa9d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4523229513585,
+          35.60536114969862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "محوطه باستانی ازبکی",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "county": "Nazarabad County",
+        "city": "Ahmadabad RD",
+        "district": "Nazarabad Central District",
+        "neighbourhood": "مهدی آباد",
+        "suburb": "شهرک سید جمال الدین",
+        "street": "جاده ازبکی",
+        "iso3166_2": "IR-30",
+        "lon": 50.58663424007646,
+        "lat": 35.97994125,
+        "formatted": "محوطه باستانی ازبکی, Ahmadabad RD, شهرک سید جمال الدین, جاده ازبکی, Alborz Province, Iran",
+        "address_line1": "محوطه باستانی ازبکی",
+        "address_line2": "Ahmadabad RD, شهرک سید جمال الدین, جاده ازبکی, Alborz Province, Iran",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "محوطه باستانی ازبکی",
+            "osm_id": 346040742,
+            "tourism": "attraction",
+            "alt_name": "Ozbaki",
+            "historic": "archaeological_site",
+            "man_made": "mound",
+            "osm_type": "w",
+            "wikipedia": "fa:محوطه باستانی ازبکی"
+          }
+        },
+        "name_other": {
+          "alt_name": "Ozbaki"
+        },
+        "wiki_and_media": {
+          "wikipedia": "fa:محوطه باستانی ازبکی"
+        },
+        "historic": {
+          "type": "archaeological_site",
+          "object_type": "mound"
+        },
+        "place_id": "51cdebadd4164b494059b0cd01b76efd4140f00102f901a629a01400000000920324d985d8add988d8b7d98720d8a8d8a7d8b3d8aad8a7d986db8c20d8a7d8b2d8a8daa9db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.58663424007646,
+          35.97994124973354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "برج شیخ شبلی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Damavand County",
+        "province": "Tehran Province",
+        "city": "Damavand",
+        "postcode": "39718-83613",
+        "district": "Central District (Damavand County)",
+        "street": "شیخ شبلی",
+        "iso3166_2": "IR-23",
+        "lon": 52.07292109602987,
+        "lat": 35.71737595,
+        "formatted": "Sheykh shebli Tower, Damavand, شیخ شبلی, Central District (Damavand County), 39718-83613, Iran",
+        "address_line1": "Sheykh shebli Tower",
+        "address_line2": "Damavand, شیخ شبلی, Central District (Damavand County), 39718-83613, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "برج شیخ شبلی",
+            "height": 10,
+            "osm_id": 420466322,
+            "name:en": "Sheykh shebli Tower",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "tower",
+            "osm_type": "w",
+            "wikipedia": "fa:برج شیخ شبلی"
+          }
+        },
+        "name_international": {
+          "en": "Sheykh shebli Tower"
+        },
+        "wiki_and_media": {
+          "wikipedia": "fa:برج شیخ شبلی"
+        },
+        "historic": {
+          "type": "tower"
+        },
+        "building": {
+          "height": 10
+        },
+        "place_id": "5182517d7a55094a4059be77a1f9d2db4140f00102f90192ce0f1900000000920316d8a8d8b1d8ac20d8b4db8cd8ae20d8b4d8a8d984db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.07292109602987,
+          35.717375949708625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ماشین دودی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "18437-63781",
+        "district": "Rey Central District",
+        "neighbourhood": "Hamzeh Abad",
+        "suburb": "District 20",
+        "street": "فرمانداری",
+        "iso3166_2": "IR-23",
+        "lon": 51.42278414676023,
+        "lat": 35.594245099999995,
+        "formatted": "ماشین دودی, Tehran, District 20, فرمانداری, Rey Central District, 18437-63781, Iran",
+        "address_line1": "ماشین دودی",
+        "address_line2": "Tehran, District 20, فرمانداری, Rey Central District, 18437-63781, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.locomotive"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ماشین دودی",
+            "osm_id": 451069418,
+            "tourism": "attraction",
+            "historic": "locomotive",
+            "osm_type": "w",
+            "wikipedia": "fa:ماشین دودی"
+          }
+        },
+        "wiki_and_media": {
+          "wikipedia": "fa:ماشین دودی"
+        },
+        "historic": {
+          "type": "locomotive"
+        },
+        "place_id": "511ccd79ca1db64940593f81323910cc4140f00102f901eac5e21a00000000920313d985d8a7d8b4db8cd98620d8afd988d8afdb8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42278414676022,
+          35.594245099697666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای سنگی علی آباد",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Qom Province",
+        "county": "Qom County",
+        "city": "Qomrud RD",
+        "village": "Qaleh-ye Mohammad Ali Khan",
+        "district": "Qom Central District",
+        "street": "Tehran - Qom Old Road",
+        "iso3166_2": "IR-25",
+        "lon": 50.9891458,
+        "lat": 35.1195131,
+        "formatted": "Ali Abad Stony Caravanserai, Qomrud RD, Tehran - Qom Old Road, Qom Province, Iran",
+        "address_line1": "Ali Abad Stony Caravanserai",
+        "address_line2": "Qomrud RD, Tehran - Qom Old Road, Qom Province, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای سنگی علی آباد",
+            "osm_id": 490071072,
+            "name:en": "Ali Abad Stony Caravanserai",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "w",
+            "wikidata": "Q6394051",
+            "wikipedia": "fa:کاروانسرای سنگی علی‌آباد",
+            "description": "مربوط به دوره سلجوقیان"
+          }
+        },
+        "description": "مربوط به دوره سلجوقیان",
+        "name_international": {
+          "en": "Ali Abad Stony Caravanserai"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6394051",
+          "wikipedia": "fa:کاروانسرای سنگی علی‌آباد"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "place_id": "51e5fc5e549c7e494059d93d8b344c8f4140f00102f90120e4351d0000000092032ddaa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20d8b3d986daafdb8c20d8b9d984db8c20d8a2d8a8d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.989145799999996,
+          35.119513099659976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "خانه تاریخی ظهیرالاسلام",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15616-35677",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "Baharestan",
+        "suburb": "District 12",
+        "quarter": "ناحیه ۱",
+        "street": "ولی آباد",
+        "iso3166_2": "IR-23",
+        "lon": 51.431906125191844,
+        "lat": 35.6996771,
+        "formatted": "خانه تاریخی ظهیرالاسلام, Tehran, District 12, ولی آباد, بخش مرکزی شهرستان تهران, 15616-35677, Iran",
+        "address_line1": "خانه تاریخی ظهیرالاسلام",
+        "address_line2": "Tehran, District 12, ولی آباد, بخش مرکزی شهرستان تهران, 15616-35677, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "خانه تاریخی ظهیرالاسلام",
+            "osm_id": 686363080,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q56360960",
+            "wikipedia": "fa:خانه ظهیرالاسلام",
+            "construction": "yes"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q56360960",
+          "wikipedia": "fa:خانه ظهیرالاسلام"
+        },
+        "place_id": "510e522db348b74940593a80ea048fd94140f00102f901c811e9280000000092032cd8aed8a7d986d98720d8aad8a7d8b1db8cd8aedb8c20d8b8d987db8cd8b1d8a7d984d8a7d8b3d984d8a7d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.431906125191844,
+          35.69967709970702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "باغ و عمارت عین‌الدوله",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "16687-36740",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Heravi - Hossein Abad",
+        "suburb": "District 4",
+        "street": "Jamali",
+        "iso3166_2": "IR-23",
+        "lon": 51.482000888858856,
+        "lat": 35.77103085,
+        "formatted": "باغ و عمارت عین‌الدوله, Tehran, District 4, Jamali, بخش مرکزی شهرستان تهران, 16687-36740, Iran",
+        "address_line1": "باغ و عمارت عین‌الدوله",
+        "address_line2": "Tehran, District 4, Jamali, بخش مرکزی شهرستان تهران, 16687-36740, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "باغ و عمارت عین‌الدوله",
+            "osm_id": 760600534,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q5897559",
+            "addr:street": "جمالی",
+            "wikipedia:fa": "باغ و عمارت عین‌الدوله"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5897559"
+        },
+        "place_id": "5156258334b2bd49405906dd8d23b1e24140f00102f901d6d7552d0000000092032ad8a8d8a7d8ba20d98820d8b9d985d8a7d8b1d8aa20d8b9db8cd986e2808cd8a7d984d8afd988d984d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.48200088885885,
+          35.77103084971354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منطقه گردشگری ترقیان",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Pardis County",
+        "province": "Tehran Province",
+        "city": "دهستان سیاهرود",
+        "district": "Jajrud District",
+        "street": "Damavand Road",
+        "iso3166_2": "IR-23",
+        "lon": 51.69505268462839,
+        "lat": 35.70659145,
+        "formatted": "منطقه گردشگری ترقیان, دهستان سیاهرود, Damavand Road, Jajrud District, Iran",
+        "address_line1": "منطقه گردشگری ترقیان",
+        "address_line2": "دهستان سیاهرود, Damavand Road, Jajrud District, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "منطقه گردشگری ترقیان",
+            "osm_id": 791252298,
+            "landuse": "orchard",
+            "tourism": "attraction",
+            "loc_name": "ترقیون",
+            "osm_type": "w",
+            "wikidata": "Q5680461",
+            "addr:city": "جاجرود"
+          }
+        },
+        "name_other": {
+          "loc_name": "ترقیون"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5680461"
+        },
+        "place_id": "51ecbc827cf7d84940595410b09671da4140f00102f9014a8d292f00000000920326d985d986d8b7d982d98720daafd8b1d8afd8b4daafd8b1db8c20d8aad8b1d982db8cd8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.69505268462839,
+          35.706591449707645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شهرک سینمایی و تلویزیونی ایران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14977-13115",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "شهرک سینمایی غزالی",
+        "suburb": "District 21",
+        "street": "یکم غزالی",
+        "iso3166_2": "IR-23",
+        "lon": 51.167226491763046,
+        "lat": 35.7307486,
+        "formatted": "شهرک سینمایی و تلویزیونی ایران, Tehran, District 21, یکم غزالی, بخش مرکزی شهرستان تهران, 14977-13115, Iran",
+        "address_line1": "شهرک سینمایی و تلویزیونی ایران",
+        "address_line2": "Tehran, District 21, یکم غزالی, بخش مرکزی شهرستان تهران, 14977-13115, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شهرک سینمایی و تلویزیونی ایران",
+            "osm_id": 1067538666,
+            "landuse": "residential",
+            "tourism": "attraction",
+            "alt_name": "شهرک سینمائی غزالی سابق",
+            "osm_type": "w",
+            "wikidata": "Q2974753",
+            "wikipedia": "fa:شهرک سینمایی و تلویزیونی ایران"
+          }
+        },
+        "name_other": {
+          "alt_name": "شهرک سینمائی غزالی سابق"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2974753",
+          "wikipedia": "fa:شهرک سینمایی و تلویزیونی ایران"
+        },
+        "place_id": "51d3927cad679549405901ad8c2b89dd4140f00102f901ea58a13f00000000920338d8b4d987d8b1daa920d8b3db8cd986d985d8a7db8cdb8c20d98820d8aad984d988db8cd8b2db8cd988d986db8c20d8a7db8cd8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.16722649176304,
+          35.73074859970985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qermez Castle",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Qom Province",
+        "county": "Qom County",
+        "city": "Qomrud RD",
+        "district": "Qom Central District",
+        "iso3166_2": "IR-25",
+        "lon": 51.09933498896295,
+        "lat": 35.096817,
+        "formatted": "Qermez Castle, Qomrud RD, Qom County, Iran",
+        "address_line1": "Qermez Castle",
+        "address_line2": "Qomrud RD, Qom County, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.fort"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Qermez Castle",
+            "osm_id": 1150577847,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "fort",
+            "osm_type": "w",
+            "wikidata": "Q20110851",
+            "wikipedia": "en:Qermez Castle"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q20110851",
+          "wikipedia": "en:Qermez Castle"
+        },
+        "historic": {
+          "type": "fort"
+        },
+        "place_id": "51e2784802b78c4940595e9ddb7f648c4140f00102f901b76c94440000000092030d5165726d657a20436173746c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.09933498896295,
+          35.096816999658344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "گالری هما",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15858-15714",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "Sanaei",
+        "suburb": "District 6",
+        "quarter": "ناحیه ۳",
+        "street": "خردمند ۴ شرقی",
+        "housenumber": "8",
+        "iso3166_2": "IR-23",
+        "lon": 51.4211561,
+        "lat": 35.7165184,
+        "formatted": "Homa Art Gallery, Tehran, District 6, خردمند ۴ شرقی, 8, بخش مرکزی شهرستان تهران, 15858-15714, Iran",
+        "address_line1": "Homa Art Gallery",
+        "address_line2": "Tehran, District 6, خردمند ۴ شرقی, 8, بخش مرکزی شهرستان تهران, 15858-15714, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "گالری هما",
+            "osm_id": 4804664022,
+            "name:en": "Homa Art Gallery",
+            "tourism": "attraction",
+            "website": "https://www.homaartgallery.com/",
+            "osm_type": "n",
+            "addr:street": "خردمند ۴",
+            "addr:housenumber": 8
+          }
+        },
+        "website": "https://www.homaartgallery.com/",
+        "name_international": {
+          "en": "Homa Art Gallery"
+        },
+        "place_id": "5164016e71e8b549405980ddfadfb6db4140f00103f901d65a611e01000000920311daafd8a7d984d8b1db8c20d987d985d8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42115609999999,
+          35.71651839970855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "گالری آران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15899-43911",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "Sanaei",
+        "suburb": "District 6",
+        "quarter": "ناحیه ۳",
+        "street": "دی",
+        "housenumber": "12",
+        "iso3166_2": "IR-23",
+        "lon": 51.4225392,
+        "lat": 35.7160039,
+        "formatted": "Aaran Art Gallery, Tehran, District 6, دی, 12, بخش مرکزی شهرستان تهران, 15899-43911, Iran",
+        "address_line1": "Aaran Art Gallery",
+        "address_line2": "Tehran, District 6, دی, 12, بخش مرکزی شهرستان تهران, 15899-43911, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "گالری آران",
+            "osm_id": 4804684522,
+            "name:en": "Aaran Art Gallery",
+            "tourism": "attraction",
+            "website": "https://www.aarangallery.com/",
+            "osm_type": "n",
+            "addr:street": "دی",
+            "addr:housenumber": 12
+          }
+        },
+        "website": "https://www.aarangallery.com/",
+        "name_international": {
+          "en": "Aaran Art Gallery"
+        },
+        "place_id": "5195a3b6c315b64940593b870a04a6db4140f00103f901eaaa611e01000000920313daafd8a7d984d8b1db8c20d8a2d8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.422539199999996,
+          35.716003899708504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "عمارت فخرالدوله",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "11517-13513",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "Darvazeh Shemiran",
+        "suburb": "District 12",
+        "quarter": "ناحیه ۶",
+        "street": "Moshki Street",
+        "iso3166_2": "IR-23",
+        "lon": 51.438036,
+        "lat": 35.6971435,
+        "formatted": "عمارت فخرالدوله, Tehran, District 12, Moshki Street, بخش مرکزی شهرستان تهران, 11517-13513, Iran",
+        "address_line1": "عمارت فخرالدوله",
+        "address_line2": "Tehran, District 12, Moshki Street, بخش مرکزی شهرستان تهران, 11517-13513, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "عمارت فخرالدوله",
+            "osm_id": 5033020771,
+            "tourism": "attraction",
+            "alt_name": "خانه مداحان",
+            "historic": "house",
+            "osm_type": "n",
+            "wikidata": "Q5898304",
+            "wikipedia": "fa:عمارت کوشک فخرالدوله"
+          }
+        },
+        "name_other": {
+          "alt_name": "خانه مداحان"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5898304",
+          "wikipedia": "fa:عمارت کوشک فخرالدوله"
+        },
+        "historic": {
+          "type": "house"
+        },
+        "place_id": "513e3c4b9011b84940590aee89ff3bd94140f00103f90163cdfd2b0100000092031dd8b9d985d8a7d8b1d8aa20d981d8aed8b1d8a7d984d8afd988d984d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.438036,
+          35.6971434997068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دخمه سنگی کافر کلی",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Mazandaran Province",
+        "county": "Amol County",
+        "city": "دهستان بالالاریجان",
+        "village": "Anhe",
+        "district": "بخش لاریجان",
+        "street": "جاده رینه",
+        "iso3166_2": "IR-02",
+        "lon": 52.1979669,
+        "lat": 35.8905176,
+        "formatted": "Kafir Keli cave dwellings, دهستان بالالاریجان, جاده رینه, Mazandaran Province, Iran",
+        "address_line1": "Kafir Keli cave dwellings",
+        "address_line2": "دهستان بالالاریجان, جاده رینه, Mazandaran Province, Iran",
+        "categories": [
+          "access",
+          "access.yes",
+          "natural",
+          "natural.mountain",
+          "natural.mountain.cave_entrance",
+          "no_fee",
+          "no_fee.no",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "دخمه سنگی کافر کلی",
+            "access": "yes",
+            "osm_id": 5332167799,
+            "name:en": "Kafir Keli cave dwellings",
+            "natural": "cave_entrance",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikipedia": "fa:دخمه سنگی کافر کلی"
+          }
+        },
+        "name_international": {
+          "en": "Kafir Keli cave dwellings"
+        },
+        "wiki_and_media": {
+          "wikipedia": "fa:دخمه سنگی کافر کلی"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "516398b8fa56194a405950aa0f7bfcf14140f00103f901776cd23d01000000920321d8afd8aed985d98720d8b3d986daafdb8c20daa9d8a7d981d8b120daa9d984db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.197966900000004,
+          35.89051759972483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "خانه مینایی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "11116-13154",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "Monirieh",
+        "suburb": "District 11",
+        "street": "کریمی طینت",
+        "iso3166_2": "IR-23",
+        "lon": 51.4026806,
+        "lat": 35.6832972,
+        "formatted": "خانه مینایی, Tehran, District 11, کریمی طینت, بخش مرکزی شهرستان تهران, 11116-13154, Iran",
+        "address_line1": "خانه مینایی",
+        "address_line2": "Tehran, District 11, کریمی طینت, بخش مرکزی شهرستان تهران, 11116-13154, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "خانه مینایی",
+            "osm_id": 6956378685,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q5945285"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5945285"
+        },
+        "place_id": "51e7ddb3098bb349405984175b4876d74140f00103f9013deaa19e01000000920315d8aed8a7d986d98720d985db8cd986d8a7db8cdb8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40268059999999,
+          35.68329719970555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرا",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Hasanabad RD",
+        "village": "Qaleh-ye Mohammad Ali Khan",
+        "district": "Fashapuyeh District",
+        "street": "Tehran - Qom Old Road",
+        "iso3166_2": "IR-23",
+        "lon": 51.02685556825008,
+        "lat": 35.26768655,
+        "formatted": "Caravanserail, Hasanabad RD, Tehran - Qom Old Road, Fashapuyeh District, Iran",
+        "address_line1": "Caravanserail",
+        "address_line2": "Hasanabad RD, Tehran - Qom Old Road, Fashapuyeh District, Iran",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرا",
+            "osm_id": -11221745,
+            "name:en": "Caravanserail",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "caravanserai",
+            "osm_type": "r"
+          }
+        },
+        "name_international": {
+          "en": "Caravanserail"
+        },
+        "historic": {
+          "type": "caravanserai"
+        },
+        "place_id": "51beacd50070834940593835888d43a24140f00101f901f13aab0000000000920312daa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.02685556825007,
+          35.26768654967094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "پل طبیعت",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15186-12345",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Kāvusiye",
+        "suburb": "District 3",
+        "street": "Tabiat Bridge",
+        "iso3166_2": "IR-23",
+        "lon": 51.4192696615991,
+        "lat": 35.75416025,
+        "formatted": "Tabiaat Bridge, Tehran, District 3, Tabiat Bridge, بخش مرکزی شهرستان تهران, 15186-12345, Iran",
+        "address_line1": "Tabiaat Bridge",
+        "address_line2": "Tehran, District 3, Tabiat Bridge, بخش مرکزی شهرستان تهران, 15186-12345, Iran",
+        "categories": [
+          "man_made",
+          "man_made.bridge",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "پل طبیعت",
+            "layer": 1,
+            "osm_id": 430540330,
+            "name:en": "Tabiaat Bridge",
+            "name:tr": "Tabiat Köprüsü",
+            "tourism": "attraction",
+            "man_made": "bridge",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Tabiaat Bridge",
+          "tr": "Tabiat Köprüsü"
+        },
+        "place_id": "51f862d6a0aab5494059663ab45288e04140f00102f9012a86a9190000000092030fd9bed98420d8b7d8a8db8cd8b9d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41926966159912,
+          35.754160249712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "هاکوپ",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "13166-14541",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "Azarbayjan",
+        "suburb": "District 11",
+        "street": "Pasteur Square",
+        "iso3166_2": "IR-23",
+        "lon": 51.39250207373479,
+        "lat": 35.69085135,
+        "formatted": "هاکوپ, Tehran, District 11, Pasteur Square, بخش مرکزی شهرستان تهران, 13166-14541, Iran",
+        "address_line1": "هاکوپ",
+        "address_line2": "Tehran, District 11, Pasteur Square, بخش مرکزی شهرستان تهران, 13166-14541, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "هاکوپ",
+            "osm_id": 436650237,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51cc2609823db24940595eb128d16dd84140f00102f901fdc0061a0000000092030ad987d8a7daa9d988d9be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.39250207373479,
+          35.69085134970622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "رصدخانه زعفرانیه",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19886-15753",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Zaferanieh",
+        "suburb": "District 1",
+        "street": "Yekta",
+        "iso3166_2": "IR-23",
+        "lon": 51.4205913,
+        "lat": 35.8065068,
+        "formatted": "رصدخانه زعفرانیه, Tehran, District 1, Yekta, بخش رودبار قصران, 19886-15753, Iran",
+        "address_line1": "رصدخانه زعفرانیه",
+        "address_line2": "Tehran, District 1, Yekta, بخش رودبار قصران, 19886-15753, Iran",
+        "categories": [
+          "building",
+          "building.tourism",
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "رصدخانه زعفرانیه",
+            "osm_id": 474620660,
+            "tourism": "artwork",
+            "building": "yes",
+            "man_made": "observatory",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b63d8befd5b54940598a64649d3be74140f00102f901f4224a1c0000000092031fd8b1d8b5d8afd8aed8a7d986d98720d8b2d8b9d981d8b1d8a7d986db8cd987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4205913,
+          35.80650679971684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "چشمه علی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "18637-46855",
+        "district": "Rey Central District",
+        "neighbourhood": "Safayieh",
+        "suburb": "District 20",
+        "street": "گلها",
+        "iso3166_2": "IR-23",
+        "lon": 51.44500755589743,
+        "lat": 35.60723315,
+        "formatted": "Fath Ali Shah Inscription, Tehran, District 20, گلها, Rey Central District, 18637-46855, Iran",
+        "address_line1": "Fath Ali Shah Inscription",
+        "address_line2": "Tehran, District 20, گلها, Rey Central District, 18637-46855, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.fountain"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "چشمه علی",
+            "osm_id": 685556087,
+            "amenity": "fountain",
+            "name:en": "Fath Ali Shah Inscription",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Fath Ali Shah Inscription"
+        },
+        "place_id": "51b486f101f6b84940597080dbd0b9cd4140f00102f90177c1dc280000000092030fda86d8b4d985d98720d8b9d984db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.44500755589743,
+          35.6072331496988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "زندان هارون الرشید",
+        "ref": 408,
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Rey",
+        "town": "Khavar Shahr",
+        "district": "Rey Central District",
+        "suburb": "فاز دو",
+        "street": "Imam Reza Expressway",
+        "iso3166_2": "IR-23",
+        "lon": 51.544617962614495,
+        "lat": 35.59207635,
+        "formatted": "Haroon Prison, Rey, فاز دو, Imam Reza Expressway, Rey Central District, Iran",
+        "address_line1": "Haroon Prison",
+        "address_line2": "Rey, فاز دو, Imam Reza Expressway, Rey Central District, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": 408,
+            "name": "زندان هارون الرشید",
+            "osm_id": 842382567,
+            "name:en": "Haroon Prison",
+            "name:fa": "زندان هارون یا زندان خان",
+            "tourism": "attraction",
+            "material": "آهک، ساروج، سنگ",
+            "operator": "دوران آل بویه",
+            "osm_type": "w",
+            "addr:city": "شهر ری",
+            "addr:street": "۳ کیلومتری شرق تهران، در سمت چپ جاده قدیم خراسان و در دامنه کوه های مسگرآباد.",
+            "building:levels": 2
+          }
+        },
+        "operator": "دوران آل بویه",
+        "name_international": {
+          "en": "Haroon Prison",
+          "fa": "زندان هارون یا زندان خان"
+        },
+        "place_id": "51281f990ab6c5494059c6576728c9cb4140f00102f901e7bc353200000000920322d8b2d986d8afd8a7d98620d987d8a7d8b1d988d98620d8a7d984d8b1d8b4db8cd8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.544617962614495,
+          35.59207634969748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "گذر گردشگری آب و آتش",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15186-12345",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Kāvusiye",
+        "suburb": "District 3",
+        "street": "Shahidi",
+        "iso3166_2": "IR-23",
+        "lon": 51.41756366604747,
+        "lat": 35.7558533,
+        "formatted": "گذر گردشگری آب و آتش, Tehran, District 3, Shahidi, بخش مرکزی شهرستان تهران, 15186-12345, Iran",
+        "address_line1": "گذر گردشگری آب و آتش",
+        "address_line2": "Tehran, District 3, Shahidi, بخش مرکزی شهرستان تهران, 15186-12345, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "گذر گردشگری آب و آتش",
+            "osm_id": 932827489,
+            "landuse": "retail",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51fcd5e8b972b54940592f6b09cdbfe04140f00102f90161d1993700000000920324daafd8b0d8b120daafd8b1d8afd8b4daafd8b1db8c20d8a2d8a820d98820d8a2d8aad8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41756366604747,
+          35.75585329971215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بنای تاریخی دروازه شوش",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14167-99463",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Herandi",
+        "suburb": "District 12",
+        "quarter": "ناحیه ۴",
+        "street": "Saheb Jam",
+        "iso3166_2": "IR-23",
+        "lon": 51.43083195762975,
+        "lat": 35.66041105,
+        "formatted": "بنای تاریخی دروازه شوش, Tehran, District 12, Saheb Jam, بخش مرکزی شهرستان تهران, 14167-99463, Iran",
+        "address_line1": "بنای تاریخی دروازه شوش",
+        "address_line2": "Tehran, District 12, Saheb Jam, بخش مرکزی شهرستان تهران, 14167-99463, Iran",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بنای تاریخی دروازه شوش",
+            "osm_id": 1082257129,
+            "tourism": "viewpoint",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b40b688025b749405960326a5988d44140f00102f901e9ee814000000000920329d8a8d986d8a7db8c20d8aad8a7d8b1db8cd8aedb8c20d8afd8b1d988d8a7d8b2d98720d8b4d988d8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43083195762975,
+          35.6604110497035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "persian letters",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "city": "Karaj County",
+        "postcode": "31559-73919",
+        "district": "Asara District",
+        "neighbourhood": "Azimieh",
+        "suburb": "District 1",
+        "street": "راه خاکی قله عظیمیه",
+        "iso3166_2": "IR-30",
+        "lon": 51.02530803244048,
+        "lat": 35.86484465,
+        "formatted": "persian letters, Karaj County, District 1, راه خاکی قله عظیمیه, Alborz Province, 31559-73919, Iran",
+        "address_line1": "persian letters",
+        "address_line2": "Karaj County, District 1, راه خاکی قله عظیمیه, Alborz Province, 31559-73919, Iran",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "persian letters",
+            "osm_id": 1150548841,
+            "tourism": "attraction",
+            "man_made": "geoglyph",
+            "osm_type": "w",
+            "geoglyph:language": "persian"
+          }
+        },
+        "place_id": "5138d4294b3d83494059ce56bf3ab3ee4140f00102f90169fb93440000000092030f7065727369616e206c657474657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.02530803244048,
+          35.86484464972237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "persian letters",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "city": "Karaj County",
+        "postcode": "31546-95456",
+        "district": "Karaj Central District",
+        "suburb": "District 8",
+        "street": "مسیر قله",
+        "iso3166_2": "IR-30",
+        "lon": 51.01343276450656,
+        "lat": 35.854750949999996,
+        "formatted": "persian letters, Karaj County, District 8, مسیر قله, Alborz Province, 31546-95456, Iran",
+        "address_line1": "persian letters",
+        "address_line2": "Karaj County, District 8, مسیر قله, Alborz Province, 31546-95456, Iran",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "persian letters",
+            "osm_id": 1150548842,
+            "tourism": "attraction",
+            "man_made": "geoglyph",
+            "osm_type": "w",
+            "geoglyph:language": "persian"
+          }
+        },
+        "place_id": "511120322ab881494059a2a3a77a68ed4140f00102f9016afb93440000000092030f7065727369616e206c657474657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.013432764506554,
+          35.85475094972141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کارخانه تاریخی قند کهریزک",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Kahrizak",
+        "village": "Esmaeil abad",
+        "postcode": "18181-38654",
+        "district": "Kahrizak District",
+        "street": "جاده قدیم تهران-قم",
+        "iso3166_2": "IR-23",
+        "lon": 51.36384670015609,
+        "lat": 35.513043800000005,
+        "formatted": "کارخانه تاریخی قند کهریزک, Kahrizak, جاده قدیم تهران-قم, Kahrizak District, 18181-38654, Iran",
+        "address_line1": "کارخانه تاریخی قند کهریزک",
+        "address_line2": "Kahrizak, جاده قدیم تهران-قم, Kahrizak District, 18181-38654, Iran",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کارخانه تاریخی قند کهریزک",
+            "osm_id": 1154761953,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51c6f6568792ae494059288b526babc14140f00102f901e144d4440000000092032fdaa9d8a7d8b1d8aed8a7d986d98720d8aad8a7d8b1db8cd8aedb8c20d982d986d8af20daa9d987d8b1db8cd8b2daa9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36384670015609,
+          35.513043799690706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دریاچه چیتگر",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14969-15132",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Daryacheh",
+        "suburb": "District 22",
+        "street": "Jozani Boulevard",
+        "iso3166_2": "IR-23",
+        "lon": 51.214156258547675,
+        "lat": 35.7461052,
+        "formatted": "Chitgar Lake, Tehran, District 22, Jozani Boulevard, بخش مرکزی شهرستان تهران, 14969-15132, Iran",
+        "address_line1": "Chitgar Lake",
+        "address_line2": "Tehran, District 22, Jozani Boulevard, بخش مرکزی شهرستان تهران, 14969-15132, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دریاچه چیتگر",
+            "osm_id": 1259635603,
+            "name:en": "Chitgar Lake",
+            "name:fa": "دریاچه چیتگر",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Chitgar Lake",
+          "fa": "دریاچه چیتگر"
+        },
+        "place_id": "511659e778699b49405953110c6080df4140f00102f9019383144b00000000920317d8afd8b1db8cd8a7da86d98720da86db8cd8aadaafd8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.214156258547675,
+          35.746105199711245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "باغ کتاب تهران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15447-33111",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Arazi Abas Abad",
+        "suburb": "District 3",
+        "street": "شهدای بانک مرکزی",
+        "iso3166_2": "IR-23",
+        "lon": 51.43161642611245,
+        "lat": 35.75221445,
+        "formatted": "Tehran Book Garden, Tehran, District 3, شهدای بانک مرکزی, بخش مرکزی شهرستان تهران, 15447-33111, Iran",
+        "address_line1": "Tehran Book Garden",
+        "address_line2": "Tehran, District 3, شهدای بانک مرکزی, بخش مرکزی شهرستان تهران, 15447-33111, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "باغ کتاب تهران",
+            "osm_id": 1260570338,
+            "name:en": "Tehran Book Garden",
+            "name:fa": "باغ کتاب تهران",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Tehran Book Garden",
+          "fa": "باغ کتاب تهران"
+        },
+        "place_id": "51e04801353fb7494059a08b269048e04140f00102f901e2c6224b0000000092031ad8a8d8a7d8ba20daa9d8aad8a7d8a820d8aad987d8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.43161642611244,
+          35.7522144497118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "میدان بصیرت",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Robat Karim County",
+        "province": "Tehran Province",
+        "city": "Parand",
+        "postcode": "37613-75392",
+        "district": "Robat Karim Central District",
+        "neighbourhood": "Phase Zero",
+        "street": "University Square",
+        "iso3166_2": "IR-23",
+        "lon": 50.994880150781256,
+        "lat": 35.46912155,
+        "formatted": "میدان بصیرت, Parand, University Square, Robat Karim Central District, 37613-75392, Iran",
+        "address_line1": "میدان بصیرت",
+        "address_line2": "Parand, University Square, Robat Karim Central District, 37613-75392, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "میدان بصیرت",
+            "osm_id": 1289452076,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "w",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51c385973b587f49405996e0c82c0cbc4140f00102f9012c7adb4c00000000920315d985db8cd8afd8a7d98620d8a8d8b5db8cd8b1d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.99488015078125,
+          35.46912154968702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "parand statue",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Robat Karim County",
+        "province": "Tehran Province",
+        "city": "Parand",
+        "postcode": "37613-75392",
+        "district": "Robat Karim Central District",
+        "neighbourhood": "Phase Zero",
+        "street": "بلوار شهدا جنوبی",
+        "iso3166_2": "IR-23",
+        "lon": 50.98560021847237,
+        "lat": 35.46702335,
+        "formatted": "parand statue, Parand, بلوار شهدا جنوبی, Robat Karim Central District, 37613-75392, Iran",
+        "address_line1": "parand statue",
+        "address_line2": "Parand, بلوار شهدا جنوبی, Robat Karim Central District, 37613-75392, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "parand statue",
+            "osm_id": 1289452077,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "w",
+            "artist_name": "Municipality of parand",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Municipality of parand",
+          "artwork_type": "statue"
+        },
+        "place_id": "5176a2e025287e494059ccafce6bc7bb4140f00102f9012d7adb4c0000000092030d706172616e6420737461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.98560021847236,
+          35.467023349686855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "میدان اکباتان",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "13938-35117",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Ekbatan",
+        "suburb": "District 5",
+        "street": "Ekbatan town Square",
+        "iso3166_2": "IR-23",
+        "lon": 51.30994410844828,
+        "lat": 35.712813249999996,
+        "formatted": "میدان اکباتان, Tehran, District 5, Ekbatan town Square, بخش مرکزی شهرستان تهران, 13938-35117, Iran",
+        "address_line1": "میدان اکباتان",
+        "address_line2": "Tehran, District 5, Ekbatan town Square, بخش مرکزی شهرستان تهران, 13938-35117, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "میدان اکباتان",
+            "osm_id": 1289592816,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "w",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51c5afa03faca74940597cd3ed763ddb4140f00102f901f09fdd4c00000000920319d985db8cd8afd8a7d98620d8a7daa9d8a8d8a7d8aad8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.30994410844827,
+          35.712813249708205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "پرچم ایران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Robat Karim County",
+        "province": "Tehran Province",
+        "city": "Manjilabad RD",
+        "postcode": "37613-75392",
+        "district": "Robat Karim Central District",
+        "neighbourhood": "Phase Zero",
+        "street": "جاده تپه شهدا پرند",
+        "iso3166_2": "IR-23",
+        "lon": 50.979848250633864,
+        "lat": 35.47954265,
+        "formatted": "پرچم ایران, Manjilabad RD, جاده تپه شهدا پرند, Robat Karim Central District, 37613-75392, Iran",
+        "address_line1": "پرچم ایران",
+        "address_line2": "Manjilabad RD, جاده تپه شهدا پرند, Robat Karim Central District, 37613-75392, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "پرچم ایران",
+            "osm_id": 1299061317,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artist_name": "عمران پرند",
+            "artwork_type": "painting"
+          }
+        },
+        "artwork": {
+          "artist_name": "عمران پرند",
+          "artwork_type": "painting"
+        },
+        "place_id": "51f4c1dfaa6b7d4940592cb94ea761bd4140f00102f901451a6e4d00000000920313d9bed8b1da86d98520d8a7db8cd8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.979848250633864,
+          35.479542649687886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صخره های هفت برادران",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Mazandaran Province",
+        "county": "Chalus County",
+        "city": "دهستان کوهستان",
+        "village": "ولی آباد",
+        "district": "بخش مرزن آباد",
+        "street": "Chalus Road",
+        "iso3166_2": "IR-02",
+        "lon": 51.2787861,
+        "lat": 36.2539769,
+        "formatted": "صخره های هفت برادران, دهستان کوهستان, Chalus Road, Mazandaran Province, Iran",
+        "address_line1": "صخره های هفت برادران",
+        "address_line2": "دهستان کوهستان, Chalus Road, Mazandaran Province, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صخره های هفت برادران",
+            "osm_id": 3900291246,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51280a4f43afa34940593e35a75082204240f00103f901aeb879e800000000920325d8b5d8aed8b1d98720d987d8a7db8c20d987d981d8aa20d8a8d8b1d8a7d8afd8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.27878609999999,
+          36.253976899761696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بام نیاوران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "دهستان رودبار قصران",
+        "postcode": "19567-33833",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Jamaran",
+        "suburb": "District 1",
+        "street": "کوهستان",
+        "iso3166_2": "IR-23",
+        "lon": 51.4539787,
+        "lat": 35.8198528,
+        "formatted": "Bame Niavaran, دهستان رودبار قصران, District 1, کوهستان, بخش رودبار قصران, 19567-33833, Iran",
+        "address_line1": "Bame Niavaran",
+        "address_line2": "دهستان رودبار قصران, District 1, کوهستان, بخش رودبار قصران, 19567-33833, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 1790,
+            "name": "بام نیاوران",
+            "osm_id": 4152607390,
+            "name:en": "Bame Niavaran",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bame Niavaran"
+        },
+        "ele": 1790,
+        "place_id": "5150ca5af91bba4940596029c1eff0e84140f00103f9019ec283f700000000920315d8a8d8a7d98520d986db8cd8a7d988d8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45397869999999,
+          35.81985279971809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سرای محله فرمانیه",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19518-53981",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Dibaji - Farmanieh",
+        "suburb": "District 1",
+        "street": "Shokri Dead End",
+        "iso3166_2": "IR-23",
+        "lon": 51.465144,
+        "lat": 35.7932878,
+        "formatted": "سرای محله فرمانیه, Tehran, District 1, Shokri Dead End, بخش رودبار قصران, 19518-53981, Iran",
+        "address_line1": "سرای محله فرمانیه",
+        "address_line2": "Tehran, District 1, Shokri Dead End, بخش رودبار قصران, 19518-53981, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سرای محله فرمانیه",
+            "osm_id": 4198770490,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511ff7add689bb494059150c62748ae54140f00103f9013a2744fa00000000920320d8b3d8b1d8a7db8c20d985d8add984d98720d981d8b1d985d8a7d986db8cd987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.465144,
+          35.79328779971562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "جوانه",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14516-83831",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "SattarKhan - Alestum",
+        "suburb": "District 2",
+        "street": "Rahim Sahraee",
+        "iso3166_2": "IR-23",
+        "lon": 51.350672,
+        "lat": 35.7210438,
+        "formatted": "Javane, Tehran, District 2, Rahim Sahraee, بخش مرکزی شهرستان تهران, 14516-83831, Iran",
+        "address_line1": "Javane",
+        "address_line2": "Tehran, District 2, Rahim Sahraee, بخش مرکزی شهرستان تهران, 14516-83831, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "جوانه",
+            "osm_id": 4258605490,
+            "name:en": "Javane",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Javane"
+        },
+        "place_id": "51bbcff1d1e2ac494059e65dc9294bdc4140f00103f901b229d5fd0000000092030ad8acd988d8a7d986d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.350671999999996,
+          35.721043799708966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بام کرج",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "city": "Karaj",
+        "postcode": "31546-95456",
+        "district": "Karaj Central District",
+        "neighbourhood": "Azimieh",
+        "suburb": "District 1",
+        "street": "طالقانی شمالی",
+        "iso3166_2": "IR-30",
+        "lon": 51.0165746,
+        "lat": 35.8501754,
+        "formatted": "بام کرج, Karaj, District 1, طالقانی شمالی, Alborz Province, 31546-95456, Iran",
+        "address_line1": "بام کرج",
+        "address_line2": "Karaj, District 1, طالقانی شمالی, Alborz Province, 31546-95456, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بام کرج",
+            "osm_id": 4294267722,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51de78d21d1f8249405927d5288cd2ec4140f00103f9014a53f5ff0000000092030dd8a8d8a7d98520daa9d8b1d8ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0165746,
+          35.85017539972096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "فانوس دریایی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15186-12345",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Kāvusiye",
+        "suburb": "District 3",
+        "street": "Tabiat Bridge",
+        "iso3166_2": "IR-23",
+        "lon": 51.4181889,
+        "lat": 35.754154,
+        "formatted": "فانوس دریایی, Tehran, District 3, Tabiat Bridge, بخش مرکزی شهرستان تهران, 15186-12345, Iran",
+        "address_line1": "فانوس دریایی",
+        "address_line2": "Tehran, District 3, Tabiat Bridge, بخش مرکزی شهرستان تهران, 15186-12345, Iran",
+        "categories": [
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "فانوس دریایی",
+            "osm_id": 4298062392,
+            "tourism": "viewpoint",
+            "man_made": "lighthouse",
+            "osm_type": "n",
+            "seamark:type": "light_major"
+          }
+        },
+        "place_id": "516c86c03687b54940598f74461e88e04140f00103f901383a2f0001000000920317d981d8a7d986d988d8b320d8afd8b1db8cd8a7db8cdb8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41818889999999,
+          35.754153999711995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بام تهران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "دهستان رودبار قصران",
+        "postcode": "19858-58962",
+        "district": "بخش رودبار قصران",
+        "street": "Tochal Health Road",
+        "iso3166_2": "IR-23",
+        "lon": 51.3997031,
+        "lat": 35.8217823,
+        "formatted": "Bame Tehran, دهستان رودبار قصران, Tochal Health Road, بخش رودبار قصران, 19858-58962, Iran",
+        "address_line1": "Bame Tehran",
+        "address_line2": "دهستان رودبار قصران, Tochal Health Road, بخش رودبار قصران, 19858-58962, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بام تهران",
+            "osm_id": 4344969092,
+            "name:en": "Bame Tehran",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bame Tehran"
+        },
+        "place_id": "510e4e9f7829b349405960dc922930e94140f00103f90184f7fa0201000000920311d8a8d8a7d98520d8aad987d8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.399703099999996,
+          35.82178229971828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "روستای کوشکک",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "city": "Karaj County",
+        "hamlet": "امام چشمه",
+        "district": "Asara District",
+        "suburb": "دهستان نساء",
+        "street": "Chalus Road",
+        "iso3166_2": "IR-30",
+        "lon": 51.3139459,
+        "lat": 36.0953231,
+        "formatted": "kooshkak village, Karaj County, دهستان نساء, Chalus Road, Alborz Province, Iran",
+        "address_line1": "kooshkak village",
+        "address_line2": "Karaj County, دهستان نساء, Chalus Road, Alborz Province, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "روستای کوشکک",
+            "osm_id": 4439252195,
+            "name:en": "kooshkak village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "kooshkak village"
+        },
+        "place_id": "514c9b16612fa8494059b7fa1d8c330c4240f00103f901e39c990801000000920317d8b1d988d8b3d8aad8a7db8c20daa9d988d8b4daa9daa9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.31394589999999,
+          36.09532309974514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "جانستان",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "دهستان رودبار قصران",
+        "village": "Garmabedar",
+        "district": "بخش رودبار قصران",
+        "street": "مسیر قله پیرزن کلوم",
+        "iso3166_2": "IR-23",
+        "lon": 51.6223615,
+        "lat": 36.0134613,
+        "formatted": "جانستان, دهستان رودبار قصران, مسیر قله پیرزن کلوم, بخش رودبار قصران, Iran",
+        "address_line1": "جانستان",
+        "address_line2": "دهستان رودبار قصران, مسیر قله پیرزن کلوم, بخش رودبار قصران, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "جانستان",
+            "osm_id": 4507475590,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510f65a88aa9cf494059d8109119b9014240f00103f901869eaa0c0100000092030ed8acd8a7d986d8b3d8aad8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.622361500000004,
+          36.01346129973689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "خانه فرهنگ سلمان فارسی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "13386-54995",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "BolurSazi",
+        "suburb": "District 17",
+        "street": "Yousefi",
+        "iso3166_2": "IR-23",
+        "lon": 51.3762462,
+        "lat": 35.6632492,
+        "formatted": "خانه فرهنگ سلمان فارسی, Tehran, District 17, Yousefi, بخش مرکزی شهرستان تهران, 13386-54995, Iran",
+        "address_line1": "خانه فرهنگ سلمان فارسی",
+        "address_line2": "Tehran, District 17, Yousefi, بخش مرکزی شهرستان تهران, 13386-54995, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "خانه فرهنگ سلمان فارسی",
+            "osm_id": 4699902589,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51431fe2d528b0494059b2e98a59e5d44140f00103f9017dd2221801000000920329d8aed8a7d986d98720d981d8b1d987d986daaf20d8b3d984d985d8a7d98620d981d8a7d8b1d8b3db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37624619999999,
+          35.66324919970374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neverland",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "دهستان لواسان کوچک",
+        "village": "ناصرآباد",
+        "district": "Lavasanat",
+        "street": "ناصرآباد",
+        "iso3166_2": "IR-23",
+        "lon": 51.6272593,
+        "lat": 35.8868432,
+        "formatted": "neverland, دهستان لواسان کوچک, ناصرآباد, Lavasanat, Iran",
+        "address_line1": "neverland",
+        "address_line2": "دهستان لواسان کوچک, ناصرآباد, Lavasanat, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "neverland",
+            "osm_id": 4701216089,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5152ce61084ad049405992bff51384f14140f00103f90159dd3618010000009203096e657665726c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.627259300000006,
+          35.88684319972448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "تابلو",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Hasanabad RD",
+        "postcode": "37614-18617",
+        "district": "Fashapuyeh District",
+        "street": "Ghadir Freeway",
+        "iso3166_2": "IR-23",
+        "lon": 51.0027605,
+        "lat": 35.3975591,
+        "formatted": "تابلو, Hasanabad RD, Ghadir Freeway, Fashapuyeh District, 37614-18617, Iran",
+        "address_line1": "تابلو",
+        "address_line2": "Hasanabad RD, Ghadir Freeway, Fashapuyeh District, 37614-18617, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "تابلو",
+            "osm_id": 4754224222,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513c9cc0745a80494059ccad7137e3b24140f00103f9015eb45f1b0100000092030ad8aad8a7d8a8d984d988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.002760499999994,
+          35.39755909968116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "تابلو",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Hasanabad RD",
+        "postcode": "37614-18617",
+        "district": "Fashapuyeh District",
+        "street": "Ghadir Freeway",
+        "iso3166_2": "IR-23",
+        "lon": 51.0027935,
+        "lat": 35.3978739,
+        "formatted": "تابلو, Hasanabad RD, Ghadir Freeway, Fashapuyeh District, 37614-18617, Iran",
+        "address_line1": "تابلو",
+        "address_line2": "Hasanabad RD, Ghadir Freeway, Fashapuyeh District, 37614-18617, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "تابلو",
+            "osm_id": 4754224922,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51199293895b8049405905882d88edb24140f00103f9011ab75f1b0100000092030ad8aad8a7d8a8d984d988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0027935,
+          35.39787389968118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بام قائم",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19359-33150",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Suhanak",
+        "suburb": "District 1",
+        "street": "شهید خدادادی",
+        "iso3166_2": "IR-23",
+        "lon": 51.5295154,
+        "lat": 35.8101697,
+        "formatted": "Bame Ghaem, Tehran, District 1, شهید خدادادی, بخش رودبار قصران, 19359-33150, Iran",
+        "address_line1": "Bame Ghaem",
+        "address_line2": "Tehran, District 1, شهید خدادادی, بخش رودبار قصران, 19359-33150, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بام قائم",
+            "osm_id": 4771511521,
+            "name:en": "Bame Ghaem",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bame Ghaem"
+        },
+        "place_id": "513add1e29c7c34940596c3f06a4b3e74140f00103f901e17c671c0100000092030fd8a8d8a7d98520d982d8a7d8a6d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.529515399999994,
+          35.81016969971719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "گالری اعتماد",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19777-13144",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Golab Dareh",
+        "suburb": "District 1",
+        "street": "Bookan",
+        "iso3166_2": "IR-23",
+        "lon": 51.4478397,
+        "lat": 35.8158629,
+        "formatted": "Etemad Art Gallery, Tehran, District 1, Bookan, بخش رودبار قصران, 19777-13144, Iran",
+        "address_line1": "Etemad Art Gallery",
+        "address_line2": "Tehran, District 1, Bookan, بخش رودبار قصران, 19777-13144, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "گالری اعتماد",
+            "osm_id": 4771572139,
+            "name:en": "Etemad Art Gallery",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Etemad Art Gallery"
+        },
+        "place_id": "51dbacb0cf52b949405957270c326ee84140f00103f901ab69681c01000000920317daafd8a7d984d8b1db8c20d8a7d8b9d8aad985d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.447839699999996,
+          35.81586289971772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شهرک سینمایی نور",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Qom Province",
+        "county": "Qom County",
+        "city": "Qomrud RD",
+        "village": "علی آباد",
+        "district": "Qom Central District",
+        "street": "جاده شهرک سینمایی",
+        "iso3166_2": "IR-25",
+        "lon": 50.9513627,
+        "lat": 35.1630729,
+        "formatted": "Noor Cinema City, Qomrud RD, جاده شهرک سینمایی, Qom Province, Iran",
+        "address_line1": "Noor Cinema City",
+        "address_line2": "Qomrud RD, جاده شهرک سینمایی, Qom Province, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شهرک سینمایی نور",
+            "osm_id": 4774288946,
+            "name:en": "Noor Cinema City",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Noor Cinema City"
+        },
+        "place_id": "512f91c140c6794940596175a192df944140f00103f90132de911c0100000092031ed8b4d987d8b1daa920d8b3db8cd986d985d8a7db8cdb8c20d986d988d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9513627,
+          35.16307289966313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "خانه امین",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "11619-15149",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Takhti",
+        "suburb": "District 12",
+        "quarter": "ناحیه ۴",
+        "street": "حاج قاسم",
+        "iso3166_2": "IR-23",
+        "lon": 51.4088089,
+        "lat": 35.6668529,
+        "formatted": "Amin home, Tehran, District 12, حاج قاسم, بخش مرکزی شهرستان تهران, 11619-15149, Iran",
+        "address_line1": "Amin home",
+        "address_line2": "Tehran, District 12, حاج قاسم, بخش مرکزی شهرستان تهران, 11619-15149, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "خانه امین",
+            "osm_id": 4778056821,
+            "name:en": "Amin home",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Amin home"
+        },
+        "place_id": "5127e89bd953b449405964bc916f5bd54140f00103f901755ccb1c01000000920311d8aed8a7d986d98720d8a7d985db8cd986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40880889999999,
+          35.66685289970408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15186-12345",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Kāvusiye",
+        "suburb": "District 3",
+        "street": "Tabiat Bridge",
+        "iso3166_2": "IR-23",
+        "lon": 51.4199756,
+        "lat": 35.7542698,
+        "formatted": "پل طبعیت, Tehran, District 3, Tabiat Bridge, بخش مرکزی شهرستان تهران, 15186-12345, Iran",
+        "address_line1": "پل طبعیت",
+        "address_line2": "Tehran, District 3, Tabiat Bridge, بخش مرکزی شهرستان تهران, 15186-12345, Iran",
+        "name": "پل طبعیت",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "پل طبعیت",
+            "osm_id": 4902450322,
+            "name:en": "Tabiat Bridge",
+            "name:fa": "پل طبیعت",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tabiat Bridge",
+          "fa": "پل طبیعت"
+        },
+        "place_id": "511a8fadc2c1b5494059d00fade98be04140f00103f901927435240100000092030fd9bed98420d8b7d8a8d8b9db8cd8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4199756,
+          35.754269799712006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بام محک",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19359-33150",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Shahrak Naft",
+        "suburb": "District 1",
+        "street": "اردستانی",
+        "iso3166_2": "IR-23",
+        "lon": 51.5038396,
+        "lat": 35.8137467,
+        "formatted": "بام محک, Tehran, District 1, اردستانی, بخش رودبار قصران, 19359-33150, Iran",
+        "address_line1": "بام محک",
+        "address_line2": "Tehran, District 1, اردستانی, بخش رودبار قصران, 19359-33150, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بام محک",
+            "osm_id": 5086291623,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510037e6d07dc0494059e34113da28e84140f00103f901a7a62a2f0100000092030dd8a8d8a7d98520d985d8addaa9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50383959999999,
+          35.813746699717534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دیدگاه",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Mazandaran Province",
+        "county": "Amol County",
+        "city": "دهستان لاریجان سفلی",
+        "village": "Hajji Dela",
+        "district": "بخش لاریجان",
+        "street": "جاده ناندل",
+        "iso3166_2": "IR-02",
+        "lon": 52.177322,
+        "lat": 36.025271,
+        "formatted": "دیدگاه, دهستان لاریجان سفلی, جاده ناندل, Mazandaran Province, Iran",
+        "address_line1": "دیدگاه",
+        "address_line2": "دهستان لاریجان سفلی, جاده ناندل, Mazandaran Province, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 2220,
+            "name": "دیدگاه",
+            "osm_id": 5217931486,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 2220,
+        "place_id": "513e6ebf7cb2164a4059c1b482143c034240f00103f901de5003370100000092030cd8afdb8cd8afdaafd8a7d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.17732199999999,
+          36.02527099973805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "موزه سرای شهید آیت الله دکتر بهشتی",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19496-44611",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Zargandeh",
+        "suburb": "District 3",
+        "street": "بهشتی",
+        "iso3166_2": "IR-23",
+        "lon": 51.4371762,
+        "lat": 35.7681169,
+        "formatted": "موزه سرای شهید آیت الله دکتر بهشتی, Tehran, District 3, بهشتی, بخش مرکزی شهرستان تهران, 19496-44611, Iran",
+        "address_line1": "موزه سرای شهید آیت الله دکتر بهشتی",
+        "address_line2": "Tehran, District 3, بهشتی, بخش مرکزی شهرستان تهران, 19496-44611, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "موزه سرای شهید آیت الله دکتر بهشتی",
+            "osm_id": 5277412535,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5177cbc463f5b749405900e391a751e24140f00103f901b7ec8e3a0100000092033ed985d988d8b2d98720d8b3d8b1d8a7db8c20d8b4d987db8cd8af20d8a2db8cd8aa20d8a7d984d984d98720d8afdaa9d8aad8b120d8a8d987d8b4d8aadb8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4371762,
+          35.76811689971328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مجموعه تفریحی و ورزشی توچال",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19858-58962",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Velenjak",
+        "suburb": "District 1",
+        "street": "Velenjak",
+        "iso3166_2": "IR-23",
+        "lon": 51.3988772,
+        "lat": 35.813624,
+        "formatted": "Tochal Sports and Recreation Complex, Tehran, District 1, Velenjak, بخش رودبار قصران, 19858-58962, Iran",
+        "address_line1": "Tochal Sports and Recreation Complex",
+        "address_line2": "Tehran, District 1, Velenjak, بخش رودبار قصران, 19858-58962, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مجموعه تفریحی و ورزشی توچال",
+            "osm_id": 5302181522,
+            "name:en": "Tochal Sports and Recreation Complex",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tochal Sports and Recreation Complex"
+        },
+        "place_id": "515e8f78680eb34940598503cbd424e84140f00103f90192de083c01000000920332d985d8acd985d988d8b9d98720d8aad981d8b1db8cd8addb8c20d98820d988d8b1d8b2d8b4db8c20d8aad988da86d8a7d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3988772,
+          35.81362399971753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شارع شهرداری",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "city": "Karaj",
+        "postcode": "31859-77344",
+        "district": "Karaj Central District",
+        "neighbourhood": "Phase 2 Mehrshahr",
+        "suburb": "District 4",
+        "street": "۲۰۶ غربی",
+        "iso3166_2": "IR-30",
+        "lon": 50.9042026,
+        "lat": 35.7956134,
+        "formatted": "شارع شهرداری, Karaj, District 4, ۲۰۶ غربی, Alborz Province, 31859-77344, Iran",
+        "address_line1": "شارع شهرداری",
+        "address_line2": "Karaj, District 4, ۲۰۶ غربی, Alborz Province, 31859-77344, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شارع شهرداری",
+            "osm_id": 5320290021,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a5fa29e9bc73494059f904eea8d6e54140f00103f901e52e1d3d01000000920317d8b4d8a7d8b1d8b920d8b4d987d8b1d8afd8a7d8b1db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9042026,
+          35.795613399715826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "آفرینک",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14588-36747",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Teymuri",
+        "suburb": "District 2",
+        "street": "چهارم",
+        "iso3166_2": "IR-23",
+        "lon": 51.3494536,
+        "lat": 35.7014443,
+        "formatted": "Afarinak, Tehran, District 2, چهارم, بخش مرکزی شهرستان تهران, 14588-36747, Iran",
+        "address_line1": "Afarinak",
+        "address_line2": "Tehran, District 2, چهارم, بخش مرکزی شهرستان تهران, 14588-36747, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "آفرینک",
+            "osm_id": 5484062522,
+            "name:en": "Afarinak",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Afarinak"
+        },
+        "place_id": "5116bc43e5baac4940599f9a43edc8d94140f00103f9013a27e0460100000092030cd8a2d981d8b1db8cd986daa9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.34945359999999,
+          35.701444299707184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاروانسرای شاه عباسی",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "county": "Savojbolagh County",
+        "city": "Saidabad RD",
+        "district": "Savojbolagh Central District",
+        "street": "بلوار کلهر",
+        "iso3166_2": "IR-30",
+        "lon": 50.7470851,
+        "lat": 35.908946,
+        "formatted": "کاروانسرای شاه عباسی, Saidabad RD, بلوار کلهر, Alborz Province, Iran",
+        "address_line1": "کاروانسرای شاه عباسی",
+        "address_line2": "Saidabad RD, بلوار کلهر, Alborz Province, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاروانسرای شاه عباسی",
+            "osm_id": 5488941023,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5119ea0b7ca05f494059f253af5758f44140f00103f901df972a4701000000920326daa9d8a7d8b1d988d8a7d986d8b3d8b1d8a7db8c20d8b4d8a7d98720d8b9d8a8d8a7d8b3db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7470851,
+          35.90894599972661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سندباد",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19986-35820",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Saadat Abad",
+        "suburb": "District 2",
+        "quarter": "Quarter 1 of District 2",
+        "street": "Saadat Abad Boulevard",
+        "iso3166_2": "IR-23",
+        "lon": 51.3732424,
+        "lat": 35.7873965,
+        "formatted": "سندباد, Tehran, District 2, Saadat Abad Boulevard, بخش مرکزی شهرستان تهران, 19986-35820, Iran",
+        "address_line1": "سندباد",
+        "address_line2": "Tehran, District 2, Saadat Abad Boulevard, بخش مرکزی شهرستان تهران, 19986-35820, Iran",
+        "categories": [
+          "catering",
+          "catering.ice_cream",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سندباد",
+            "osm_id": 5528590125,
+            "amenity": "ice_cream",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5183bd2e68c6af4940596aa19368c9e44140f00103f9012d9787490100000092030cd8b3d986d8afd8a8d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3732424,
+          35.78739649971506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "آبشار نارون",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "دهستان لواسان کوچک",
+        "village": "انباج",
+        "district": "Lavasanat",
+        "street": "جاده افجه",
+        "iso3166_2": "IR-23",
+        "lon": 51.6653048,
+        "lat": 35.8346768,
+        "formatted": "Naroon Cascade, دهستان لواسان کوچک, جاده افجه, Lavasanat, Iran",
+        "address_line1": "Naroon Cascade",
+        "address_line2": "دهستان لواسان کوچک, جاده افجه, Lavasanat, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "آبشار نارون",
+            "osm_id": 5602312921,
+            "name:en": "Naroon Cascade",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Naroon Cascade"
+        },
+        "place_id": "5198ef2ab528d549405939c37ab0d6ea4140f00103f901d982ec4d01000000920315d8a2d8a8d8b4d8a7d8b120d986d8a7d8b1d988d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.6653048,
+          35.834676799719496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نمایش تهران و فونتورم",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19981-85913",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Sharak-e Pasargad",
+        "suburb": "District 2",
+        "street": "Ahangarani",
+        "iso3166_2": "IR-23",
+        "lon": 51.3567999,
+        "lat": 35.7877606,
+        "formatted": "نمایش تهران و فونتورم, Tehran, District 2, Ahangarani, بخش رودبار قصران, 19981-85913, Iran",
+        "address_line1": "نمایش تهران و فونتورم",
+        "address_line2": "Tehran, District 2, Ahangarani, بخش رودبار قصران, 19981-85913, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نمایش تهران و فونتورم",
+            "osm_id": 5910875787,
+            "name:de": "Aussicht auf Teheran und Funkturm",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Aussicht auf Teheran und Funkturm"
+        },
+        "place_id": "51a8db7e9eabad494059466dde56d5e44140f00103f9018bce506001000000920327d986d985d8a7db8cd8b420d8aad987d8b1d8a7d98620d98820d981d988d986d8aad988d8b1d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3567999,
+          35.7877605997151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قلعه تاریخی ینگی امام",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "county": "Savojbolagh County",
+        "city": "Saidabad RD",
+        "district": "Savojbolagh Central District",
+        "suburb": "Yengi Emam",
+        "street": "بلوار امام خمینی",
+        "iso3166_2": "IR-30",
+        "lon": 50.7180098,
+        "lat": 35.9358081,
+        "formatted": "قلعه تاریخی ینگی امام, Saidabad RD, Yengi Emam, بلوار امام خمینی, Alborz Province, Iran",
+        "address_line1": "قلعه تاریخی ینگی امام",
+        "address_line2": "Saidabad RD, Yengi Emam, بلوار امام خمینی, Alborz Province, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قلعه تاریخی ینگی امام",
+            "osm_id": 5923854879,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518e9ac0bee75b4940599dd54f8fc8f74140f00103f9011fda166101000000920327d982d984d8b9d98720d8aad8a7d8b1db8cd8aedb8c20db8cd986daafdb8c20d8a7d985d8a7d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.71800979999999,
+          35.93580809972921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دربند",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "دهستان رودبار قصران",
+        "village": "Pas Ghaleh",
+        "postcode": "19636-54371",
+        "district": "بخش رودبار قصران",
+        "street": "میدان سربند",
+        "iso3166_2": "IR-23",
+        "lon": 51.426643,
+        "lat": 35.8280783,
+        "formatted": "دربند, دهستان رودبار قصران, میدان سربند, بخش رودبار قصران, 19636-54371, Iran",
+        "address_line1": "دربند",
+        "address_line2": "دهستان رودبار قصران, میدان سربند, بخش رودبار قصران, 19636-54371, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دربند",
+            "osm_id": 6036868609,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519f08e23c9cb6494059f2e83f78fee94140f00103f901014ed3670100000092030ad8afd8b1d8a8d986d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.426643000000006,
+          35.82807829971888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بازار بزرگ تهران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "11656-14416",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "سبزه میدان",
+        "suburb": "District 12",
+        "street": "Haft Tan",
+        "iso3166_2": "IR-23",
+        "lon": 51.4231875,
+        "lat": 35.6716875,
+        "formatted": "Tehran grand bazaar, Tehran, District 12, Haft Tan, بخش مرکزی شهرستان تهران, 11656-14416, Iran",
+        "address_line1": "Tehran grand bazaar",
+        "address_line2": "Tehran, District 12, Haft Tan, بخش مرکزی شهرستان تهران, 11656-14416, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بازار بزرگ تهران",
+            "osm_id": 6166996485,
+            "name:en": "Tehran grand bazaar",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tehran grand bazaar"
+        },
+        "place_id": "51ba490c022bb6494059722e22dbf9d54140f00103f90105e6946f0100000092031ed8a8d8a7d8b2d8a7d8b120d8a8d8b2d8b1daaf20d8aad987d8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4231875,
+          35.671687499704504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "خانه ترمه ایران",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "11636-44789",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "سبزه میدان",
+        "suburb": "District 12",
+        "street": "Kaffashha Bazaar",
+        "iso3166_2": "IR-23",
+        "lon": 51.4198793,
+        "lat": 35.6768658,
+        "formatted": "Iran Termeh Home, Tehran, District 12, Kaffashha Bazaar, بخش مرکزی شهرستان تهران, 11636-44789, Iran",
+        "address_line1": "Iran Termeh Home",
+        "address_line2": "Tehran, District 12, Kaffashha Bazaar, بخش مرکزی شهرستان تهران, 11636-44789, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "خانه ترمه ایران",
+            "osm_id": 6187265285,
+            "name:en": "Iran Termeh Home",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Iran Termeh Home"
+        },
+        "place_id": "5139e2da9abeb5494059c3c1dc89a3d64140f00103f901052dca700100000092031cd8aed8a7d986d98720d8aad8b1d985d98720d8a7db8cd8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4198793,
+          35.67686579970498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "گردشگری",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "county": "Taleghan County",
+        "city": "دهستان میان طالقان",
+        "village": "محمود کلایه",
+        "district": "بخش مرکزی",
+        "street": "جاده طالقان",
+        "iso3166_2": "IR-30",
+        "lon": 50.7183134,
+        "lat": 36.1648407,
+        "formatted": "مجموعه تفریحی البرز, دهستان میان طالقان, جاده طالقان, Alborz Province, Iran",
+        "address_line1": "مجموعه تفریحی البرز",
+        "address_line2": "دهستان میان طالقان, جاده طالقان, Alborz Province, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "گردشگری",
+            "osm_id": 6201542285,
+            "name:en": "مجموعه تفریحی البرز",
+            "name:fa": "گردشگری البرز",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "مجموعه تفریحی البرز",
+          "fa": "گردشگری البرز"
+        },
+        "place_id": "51a8a388b1f15b494059333e038019154240f00103f9018d06a4710100000092030edaafd8b1d8afd8b4daafd8b1db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.7183134,
+          36.16484069975231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "تندیس دکتر غلامحسین مصاحب",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "city": "Karaj",
+        "postcode": "31979-37551",
+        "district": "Karaj Central District",
+        "suburb": "District 6",
+        "street": "خیابان دکتر مصاحب",
+        "iso3166_2": "IR-30",
+        "lon": 50.9191623,
+        "lat": 35.8564483,
+        "formatted": "Dr. Mosaheb Statue, Karaj, District 6, خیابان دکتر مصاحب, Alborz Province, 31979-37551, Iran",
+        "address_line1": "Dr. Mosaheb Statue",
+        "address_line2": "Karaj, District 6, خیابان دکتر مصاحب, Alborz Province, 31979-37551, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "تندیس دکتر غلامحسین مصاحب",
+            "osm_id": 6236141880,
+            "name:en": "Dr. Mosaheb Statue",
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "Dr. Mosaheb Statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51ab1b391ca7754940596c020f19a0ed4140f00103f90138f9b3730100000092032fd8aad986d8afdb8cd8b320d8afdaa9d8aad8b120d8bad984d8a7d985d8add8b3db8cd98620d985d8b5d8a7d8add8a8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9191623,
+          35.85644829972156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کاخ سعد آباد",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Shemiranat County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19886-15753",
+        "district": "بخش رودبار قصران",
+        "neighbourhood": "Darband",
+        "suburb": "District 1",
+        "street": "saad abad",
+        "iso3166_2": "IR-23",
+        "lon": 51.4227614,
+        "lat": 35.8163596,
+        "formatted": "کاخ سعد آباد, Tehran, District 1, saad abad, بخش رودبار قصران, 19886-15753, Iran",
+        "address_line1": "کاخ سعد آباد",
+        "address_line2": "Tehran, District 1, saad abad, بخش رودبار قصران, 19886-15753, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کاخ سعد آباد",
+            "osm_id": 6289307083,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516e81a90b1db64940591f48ab787ee84140f00103f901cb35df7601000000920316daa9d8a7d8ae20d8b3d8b9d8af20d8a2d8a8d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4227614,
+          35.816359599717764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "پارک جنگلی شیان",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "13556-41223",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Shemiran no",
+        "suburb": "District 4",
+        "street": "لویزان",
+        "iso3166_2": "IR-23",
+        "lon": 51.5038056,
+        "lat": 35.7699768,
+        "formatted": "Shian Forst park, Tehran, District 4, لویزان, بخش مرکزی شهرستان تهران, 13556-41223, Iran",
+        "address_line1": "Shian Forst park",
+        "address_line2": "Tehran, District 4, لویزان, بخش مرکزی شهرستان تهران, 13556-41223, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "پارک جنگلی شیان",
+            "osm_id": 6400558688,
+            "name:en": "Shian Forst park",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Shian Forst park"
+        },
+        "place_id": "5156c5afb37cc049405959b98a998ee24140f00103f90160c6807d0100000092031cd9bed8a7d8b1daa920d8acd986daafd984db8c20d8b4db8cd8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.50380560000001,
+          35.769976799713454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقاشی دیواری مرگ بر آمریکا",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15979-33813",
+        "district": "بخش مرکزی شهرستان تهران",
+        "borough": "شهرداری منطقه شش ناحیه یک",
+        "neighbourhood": "ValiAsr",
+        "suburb": "District 6",
+        "quarter": "ناحیه ۱",
+        "street": "Karim Khan Zand Boulevard",
+        "iso3166_2": "IR-23",
+        "lon": 51.4160092,
+        "lat": 35.7150373,
+        "formatted": "Down with USA mural, Tehran, District 6, Karim Khan Zand Boulevard, بخش مرکزی شهرستان تهران, 15979-33813, Iran",
+        "address_line1": "Down with USA mural",
+        "address_line2": "Tehran, District 6, Karim Khan Zand Boulevard, بخش مرکزی شهرستان تهران, 15979-33813, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقاشی دیواری مرگ بر آمریکا",
+            "osm_id": 6452690692,
+            "name:en": "Down with USA mural",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Down with USA mural"
+        },
+        "place_id": "51e56a1aca3fb54940597ad59c5786db4140f00103f901043f9c8001000000920330d986d982d8a7d8b4db8c20d8afdb8cd988d8a7d8b1db8c20d985d8b1daaf20d8a8d8b120d8a2d985d8b1db8cdaa9d8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4160092,
+          35.71503729970841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سالن همایش ایرانیان",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14857-33186",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Varzeshgah Azadi",
+        "suburb": "District 22",
+        "street": "زمین های تنیس",
+        "iso3166_2": "IR-23",
+        "lon": 51.2639347,
+        "lat": 35.7290786,
+        "formatted": "Iranian conference hall, Tehran, District 22, زمین های تنیس, بخش مرکزی شهرستان تهران, 14857-33186, Iran",
+        "address_line1": "Iranian conference hall",
+        "address_line2": "Tehran, District 22, زمین های تنیس, بخش مرکزی شهرستان تهران, 14857-33186, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سالن همایش ایرانیان",
+            "osm_id": 6481707385,
+            "name:en": "Iranian conference hall",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Iranian conference hall"
+        },
+        "place_id": "51c863bc9cc8a1494059b9fb927252dd4140f00103f9017901578201000000920324d8b3d8a7d984d98620d987d985d8a7db8cd8b420d8a7db8cd8b1d8a7d986db8cd8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26393469999999,
+          35.72907859970969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "کم جاچوب",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "19987-97959",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Saadat Abad",
+        "suburb": "District 2",
+        "quarter": "Quarter 1 of District 2",
+        "street": "West Sarv Boulevard",
+        "iso3166_2": "IR-23",
+        "lon": 51.3630087,
+        "lat": 35.7787979,
+        "formatted": "کم جاچوب, Tehran, District 2, West Sarv Boulevard, بخش مرکزی شهرستان تهران, 19987-97959, Iran",
+        "address_line1": "کم جاچوب",
+        "address_line2": "Tehran, District 2, West Sarv Boulevard, بخش مرکزی شهرستان تهران, 19987-97959, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "کم جاچوب",
+            "osm_id": 6485882485,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ec54af1177ae494059afbb4aa6afe34140f00103f90175b696820100000092030fdaa9d98520d8acd8a7da86d988d8a8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.363008699999995,
+          35.77879789971427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دونا",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Mazandaran Province",
+        "county": "Nur County",
+        "city": "دهستان اوزرود",
+        "village": "دونای سفلی",
+        "district": "بخش بلده",
+        "street": "جاده دونا",
+        "iso3166_2": "IR-02",
+        "lon": 51.3689053,
+        "lat": 36.196365,
+        "formatted": "دهستان اوزرود, جاده دونا, Mazandaran Province, Iran",
+        "address_line1": "دهستان اوزرود",
+        "address_line2": "جاده دونا, Mazandaran Province, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دونا",
+            "osm_id": 6572614861,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511869f34938af494059c203027d22194240f00103f901cd24c28701000000920308d8afd988d986d8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.368905299999994,
+          36.1963649997556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ساختمان لبخند",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Rey County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "18437-63781",
+        "district": "Rey Central District",
+        "neighbourhood": "Firuz Abadi",
+        "suburb": "District 20",
+        "street": "کلهر",
+        "iso3166_2": "IR-23",
+        "lon": 51.4306564,
+        "lat": 35.5947132,
+        "formatted": "ساختمان لبخند, Tehran, District 20, کلهر, Rey Central District, 18437-63781, Iran",
+        "address_line1": "ساختمان لبخند",
+        "address_line2": "Tehran, District 20, کلهر, Rey Central District, 18437-63781, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ساختمان لبخند",
+            "osm_id": 6586211985,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5113e8b8bf1fb7494059c199e78f1fcc4140f00103f901919e918801000000920319d8b3d8a7d8aed8aad985d8a7d98620d984d8a8d8aed986d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4306564,
+          35.594713199697715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ایستگاه البرز",
+        "country": "Iran",
+        "country_code": "ir",
+        "state": "Alborz Province",
+        "county": "Fardis County",
+        "city": "Fardis RD",
+        "postcode": "31739-43832",
+        "district": "Fardis Central District",
+        "suburb": "District 2",
+        "street": "البرز",
+        "iso3166_2": "IR-30",
+        "lon": 50.9887213,
+        "lat": 35.7705463,
+        "formatted": "ایستگاه البرز, Fardis RD, District 2, البرز, Alborz Province, 31739-43832, Iran",
+        "address_line1": "ایستگاه البرز",
+        "address_line2": "Fardis RD, District 2, البرز, Alborz Province, 31739-43832, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ایستگاه البرز",
+            "osm_id": 6615817585,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e72d686b8e7e49405962a9da42a1e24140f00103f901715d558a01000000920319d8a7db8cd8b3d8aadaafd8a7d98720d8a7d984d8a8d8b1d8b2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9887213,
+          35.7705462997135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "تندیس سیاوش",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "15187-47114",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Kāvusiye",
+        "suburb": "District 3",
+        "street": "Hooshyar Dead End",
+        "iso3166_2": "IR-23",
+        "lon": 51.4179566,
+        "lat": 35.7562461,
+        "formatted": "تندیس سیاوش, Tehran, District 3, Hooshyar Dead End, بخش مرکزی شهرستان تهران, 15187-47114, Iran",
+        "address_line1": "تندیس سیاوش",
+        "address_line2": "Tehran, District 3, Hooshyar Dead End, بخش مرکزی شهرستان تهران, 15187-47114, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "تندیس سیاوش",
+            "osm_id": 6619133998,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51db12149a7fb5494059e5fe14accce04140f00103f9012ef8878a01000000920315d8aad986d8afdb8cd8b320d8b3db8cd8a7d988d8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.41795659999999,
+          35.75624609971218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "درياچه خليج فارس",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14938-89324",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Golestan",
+        "suburb": "District 22",
+        "street": "کناررو دریاچه",
+        "iso3166_2": "IR-23",
+        "lon": 51.2159981,
+        "lat": 35.746507,
+        "formatted": "درياچه خليج فارس, Tehran, District 22, کناررو دریاچه, بخش مرکزی شهرستان تهران, 14938-89324, Iran",
+        "address_line1": "درياچه خليج فارس",
+        "address_line2": "Tehran, District 22, کناررو دریاچه, بخش مرکزی شهرستان تهران, 14938-89324, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "درياچه خليج فارس",
+            "osm_id": 6699272185,
+            "name:ar": "بحيره خليج فارس",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "بحيره خليج فارس"
+        },
+        "place_id": "51c3bf63d3a59b4940595eff968a8ddf4140f00103f901f9c74e8f0100000092031ed8afd8b1d98ad8a7da86d98720d8aed984d98ad8ac20d981d8a7d8b1d8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2159981,
+          35.746506999711286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "تابلوسازی کهربا",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Pakdasht County",
+        "province": "Tehran Province",
+        "city": "Pakdasht",
+        "postcode": "33918-57108",
+        "district": "Pakdasht Central District",
+        "suburb": "شهرک شهدا ظفر",
+        "street": "نامداری غربی",
+        "iso3166_2": "IR-23",
+        "lon": 51.6958569,
+        "lat": 35.4713877,
+        "formatted": "tablosazi kahroba, Pakdasht, شهرک شهدا ظفر, نامداری غربی, Pakdasht Central District, 33918-57108, Iran",
+        "address_line1": "tablosazi kahroba",
+        "address_line2": "Pakdasht, شهرک شهدا ظفر, نامداری غربی, Pakdasht Central District, 33918-57108, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "تابلوسازی کهربا",
+            "osm_id": 6745990186,
+            "name:en": "tablosazi kahroba",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "tablosazi kahroba"
+        },
+        "place_id": "511419c2d611d949405955f2a06e56bc4140f00103f9012aa417920100000092031dd8aad8a7d8a8d984d988d8b3d8a7d8b2db8c20daa9d987d8b1d8a8d8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.695856899999995,
+          35.471387699687206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "آبشارآیینه رود",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Damavand County",
+        "province": "Tehran Province",
+        "city": "دهستان تاررود",
+        "district": "Central District (Damavand County)",
+        "street": "آلیه دره",
+        "iso3166_2": "IR-23",
+        "lon": 52.0922667,
+        "lat": 35.7355005,
+        "formatted": "Ayineh Rood Waterfall, دهستان تاررود, آلیه دره, Central District (Damavand County), Iran",
+        "address_line1": "Ayineh Rood Waterfall",
+        "address_line2": "دهستان تاررود, آلیه دره, Central District (Damavand County), Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "آبشارآیینه رود",
+            "osm_id": 6918776527,
+            "name:en": "Ayineh Rood Waterfall",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ayineh Rood Waterfall"
+        },
+        "place_id": "5142812d65cf0b4a4059413960e124de4140f00103f901cf26649c0100000092031bd8a2d8a8d8b4d8a7d8b1d8a2db8cdb8cd986d98720d8b1d988d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.092266699999996,
+          35.73550049971028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مزرعه گردشگری خورشید",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Damavand County",
+        "province": "Tehran Province",
+        "city": "دهستان جمع آبرود",
+        "district": "Central District (Damavand County)",
+        "street": "هومند",
+        "iso3166_2": "IR-23",
+        "lon": 52.0859303,
+        "lat": 35.5852174,
+        "formatted": "Khorshid Farm, دهستان جمع آبرود, هومند, Central District (Damavand County), Iran",
+        "address_line1": "Khorshid Farm",
+        "address_line2": "دهستان جمع آبرود, هومند, Central District (Damavand County), Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مزرعه گردشگری خورشید",
+            "osm_id": 6959588061,
+            "name:en": "Khorshid Farm",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "دماوند"
+          }
+        },
+        "name_international": {
+          "en": "Khorshid Farm"
+        },
+        "place_id": "51241e9ac3ff0a4a4059c85f5c67e8ca4140f00103f901dde2d29e01000000920326d985d8b2d8b1d8b9d98720daafd8b1d8afd8b4daafd8b1db8c20d8aed988d8b1d8b4db8cd8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.0859303,
+          35.58521739969689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "آموزشگاه موسیقی سروش",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "14736-75978",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Mehran - Payambar",
+        "suburb": "District 5",
+        "street": "مقداد",
+        "iso3166_2": "IR-23",
+        "lon": 51.3266094,
+        "lat": 35.7351054,
+        "formatted": "Soroush Music Academy, Tehran, District 5, مقداد, بخش مرکزی شهرستان تهران, 14736-75978, Iran",
+        "address_line1": "Soroush Music Academy",
+        "address_line2": "Tehran, District 5, مقداد, بخش مرکزی شهرستان تهران, 14736-75978, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "آموزشگاه موسیقی سروش",
+            "osm_id": 6964161787,
+            "name:en": "Soroush Music Academy",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Soroush Music Academy"
+        },
+        "place_id": "5179c83956cea94940592b6f09ef17de4140f00103f901fbac189f01000000920326d8a2d985d988d8b2d8b4daafd8a7d98720d985d988d8b3db8cd982db8c20d8b3d8b1d988d8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3266094,
+          35.73510539971024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سیسمونی در عبدل آباد",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "18949-18436",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Abdol Abad",
+        "suburb": "District 19",
+        "street": "شکوفه",
+        "iso3166_2": "IR-23",
+        "lon": 51.3700344,
+        "lat": 35.6326426,
+        "formatted": "سیسمونی در عبدل آباد, Tehran, District 19, شکوفه, بخش مرکزی شهرستان تهران, 18949-18436, Iran",
+        "address_line1": "سیسمونی در عبدل آباد",
+        "address_line2": "Tehran, District 19, شکوفه, بخش مرکزی شهرستان تهران, 18949-18436, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سیسمونی در عبدل آباد",
+            "osm_id": 7088303485,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518f3287495daf494059dce2c56efad04140f00103f9017ded7ea601000000920325d8b3db8cd8b3d985d988d986db8c20d8afd8b120d8b9d8a8d8afd98420d8a2d8a8d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3700344,
+          35.63264259970103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مرکز تحقیقات حفاظت خاک و آبخیزداری",
+        "country": "Iran",
+        "country_code": "ir",
+        "county": "Tehran County",
+        "province": "Tehran Province",
+        "city": "Tehran",
+        "postcode": "33131-17818",
+        "district": "بخش مرکزی شهرستان تهران",
+        "neighbourhood": "Shahrak Esteghlal",
+        "suburb": "District 21",
+        "street": "عباس شفیعی",
+        "iso3166_2": "IR-23",
+        "lon": 51.2205904,
+        "lat": 35.7007451,
+        "formatted": "مرکز تحقیقات حفاظت خاک و آبخیزداری, Tehran, District 21, عباس شفیعی, بخش مرکزی شهرستان تهران, 33131-17818, Iran",
+        "address_line1": "مرکز تحقیقات حفاظت خاک و آبخیزداری",
+        "address_line2": "Tehran, District 21, عباس شفیعی, بخش مرکزی شهرستان تهران, 33131-17818, Iran",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مرکز تحقیقات حفاظت خاک و آبخیزداری",
+            "osm_id": 7160178885,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e0e7644e3c9c4940598209f303b2d94140f00103f901c5a8c7aa0100000092033fd985d8b1daa9d8b220d8aad8add982db8cd982d8a7d8aa20d8add981d8a7d8b8d8aa20d8aed8a7daa920d98820d8a2d8a8d8aedb8cd8b2d8afd8a7d8b1db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.22059039999999,
+          35.700745099707106
+        ]
+      }
+    }
+  ]
+}

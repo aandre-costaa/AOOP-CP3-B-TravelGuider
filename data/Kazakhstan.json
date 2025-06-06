@@ -1,0 +1,1306 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Студия 1337",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Sarıarqa district",
+        "street": "улица Желтоксан",
+        "housenumber": "27",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4142276,
+        "lat": 51.1723394,
+        "formatted": "1337 Studio, Kazakhstan, 010000 Astana, улица Желтоксан, 27",
+        "address_line1": "1337 Studio",
+        "address_line2": "Kazakhstan, 010000 Astana, улица Желтоксан, 27",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Студия 1337",
+            "email": "info@1337.kz",
+            "phone": "+77763371337",
+            "osm_id": 4529345494,
+            "name:en": "1337 Studio",
+            "name:ru": "Студия 1337",
+            "tourism": "attraction",
+            "website": "https://1337.kz/",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "website": "https://1337.kz/",
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "1337 Studio",
+          "ru": "Студия 1337"
+        },
+        "contact": {
+          "phone": "+77763371337",
+          "email": "info@1337.kz"
+        },
+        "place_id": "5170c67ab482da5140598bbba9370f964940f00103f901d653f80d01000000920311d0a1d182d183d0b4d0b8d18f2031333337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4142276,
+          51.1723393992207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Думан",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "county": "Nura district",
+        "city": "Astana",
+        "postcode": "010016",
+        "district": "Esil district",
+        "street": "Korgalzhyn Highway",
+        "housenumber": "2",
+        "iso3166_2": "KZ-AST",
+        "lon": 71.41667617853417,
+        "lat": 51.1480907,
+        "formatted": "Ailand, Kazakhstan, 010016 Astana, Korgalzhyn Highway, 2",
+        "address_line1": "Ailand",
+        "address_line2": "Kazakhstan, 010016 Astana, Korgalzhyn Highway, 2",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Думан",
+            "osm_id": 240921034,
+            "name:en": "Ailand",
+            "name:kk": "Ailand",
+            "name:ru": "Ailand",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Коргалжын шоссе",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "building:levels": 3,
+            "addr:housenumber": 2
+          }
+        },
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "name_international": {
+          "en": "Ailand",
+          "kk": "Ailand",
+          "ru": "Ailand"
+        },
+        "building": {
+          "levels": 3
+        },
+        "place_id": "51e6f48fd2aada5140597a01d3a2f4924940f00102f901ca295c0e0000000092030ad094d183d0bcd0b0d0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41667617853417,
+          51.148090699224625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KADEX",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Esil district",
+        "street": "Объездная улица",
+        "iso3166_2": "KZ-71",
+        "lon": 71.472883019444,
+        "lat": 51.040343699999994,
+        "formatted": "KADEX, Kazakhstan, 010000 Astana, Объездная улица",
+        "address_line1": "KADEX",
+        "address_line2": "Kazakhstan, 010000 Astana, Объездная улица",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "KADEX",
+            "osm_id": 236541564,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5120d623b743de514059526c7afb29854940f00102f9017c56190e000000009203054b41444558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.472883019444,
+          51.04034369924251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KADEX",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Esil district",
+        "street": "Проезд 77",
+        "iso3166_2": "KZ-71",
+        "lon": 71.47661838990119,
+        "lat": 51.0387268,
+        "formatted": "KADEX, Kazakhstan, 010000 Astana, Проезд 77",
+        "address_line1": "KADEX",
+        "address_line2": "Kazakhstan, 010000 Astana, Проезд 77",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "KADEX",
+            "osm_id": 236541919,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "510f536bea80de514059fe1cf0fff4844940f00102f901df57190e000000009203054b41444558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.47661838990119,
+          51.03872679924278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чертово колесо",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Sarıarqa district",
+        "street": "улица Гумар Караш",
+        "iso3166_2": "KZ-71",
+        "lon": 71.42259216023564,
+        "lat": 51.15879905,
+        "formatted": "Чертово колесо, Kazakhstan, 010000 Astana, улица Гумар Караш",
+        "address_line1": "Чертово колесо",
+        "address_line2": "Kazakhstan, 010000 Astana, улица Гумар Караш",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Чертово колесо",
+            "osm_id": 506217858,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5184f0fcbf0bdb5140592a86f98653944940f00102f90182452c1e0000000092031bd0a7d0b5d180d182d0bed0b2d0be20d0bad0bed0bbd0b5d181d0be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.42259216023564,
+          51.15879904922288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "памятник Кулагеру",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "state": "Akmola Region",
+        "county": "Şortandı district",
+        "city": "Дамса",
+        "postcode": "021606",
+        "district": "Bayqoñır district",
+        "street": "Астана — Боровое",
+        "iso3166_2": "KZ-11",
+        "lon": 71.3323983,
+        "lat": 51.3548665,
+        "formatted": "памятник Кулагеру, Kazakhstan, Akmola Region, 021606 Дамса, Астана — Боровое",
+        "address_line1": "памятник Кулагеру",
+        "address_line2": "Kazakhstan, Akmola Region, 021606 Дамса, Астана — Боровое",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "памятник Кулагеру",
+            "osm_id": 3213666390,
+            "name:ru": "памятник Кулагеру",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ru": "памятник Кулагеру"
+        },
+        "place_id": "51beef840346d55140594f3df4436cad4940f00103f90156a88cbf00000000920321d0bfd0b0d0bcd18fd182d0bdd0b8d0ba20d09ad183d0bbd0b0d0b3d0b5d180d183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3323983,
+          51.354866499192774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Орёл",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "state": "Akmola Region",
+        "county": "Şortandı district",
+        "city": "Дамса",
+        "postcode": "021606",
+        "district": "Bayqoñır district",
+        "street": "Астана — Боровое",
+        "iso3166_2": "KZ-11",
+        "lon": 71.0939564,
+        "lat": 51.5901247,
+        "formatted": "Орёл, Kazakhstan, Akmola Region, 021606 Дамса, Астана — Боровое",
+        "address_line1": "Орёл",
+        "address_line2": "Kazakhstan, Akmola Region, 021606 Дамса, Астана — Боровое",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Орёл",
+            "osm_id": 3334324919,
+            "name:ru": "Орёл",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ru": "Орёл"
+        },
+        "place_id": "51fe4fb46103c651405997bac53489cb4940f00103f901b7c2bdc600000000920308d09ed180d191d0bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0939564,
+          51.59012469916086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Т34-85",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Bayqoñır district",
+        "street": "улица Бараева",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4323473,
+        "lat": 51.1554129,
+        "formatted": "Т34-85, Kazakhstan, 010000 Astana, улица Бараева",
+        "address_line1": "Т34-85",
+        "address_line2": "Kazakhstan, 010000 Astana, улица Бараева",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tank"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Т34-85",
+            "osm_id": 4209560711,
+            "tourism": "attraction",
+            "historic": "tank",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "tank"
+        },
+        "place_id": "51e3800294abdb51405945c5e391e4934940f00103f90187cce8fa00000000920307d0a233342d3835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.43234729999999,
+          51.15541289922343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Прокат",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Bayqoñır district",
+        "street": "улица Чехоева",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4466096,
+        "lat": 51.191274,
+        "formatted": "Show systems, Kazakhstan, 010000 Astana, улица Чехоева",
+        "address_line1": "Show systems",
+        "address_line2": "Kazakhstan, 010000 Astana, улица Чехоева",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Прокат",
+            "osm_id": 4476881592,
+            "name:en": "Show systems",
+            "name:ru": "Прокат",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Show systems",
+          "ru": "Прокат"
+        },
+        "place_id": "511a856e4095dc514059879b99aa7b984940f00103f901b8cad70a0100000092030cd09fd180d0bed0bad0b0d182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.44660960000002,
+          51.19127399921768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nur Alem Museum",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Esil district",
+        "suburb": "BI village",
+        "street": "Mangilik Yel",
+        "housenumber": "В1",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4160037,
+        "lat": 51.0893456,
+        "formatted": "Nur Alem Museum, Kazakhstan, 010000 Astana, BI village, Mangilik Yel, В1",
+        "address_line1": "Nur Alem Museum",
+        "address_line2": "Kazakhstan, 010000 Astana, BI village, Mangilik Yel, В1",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nur Alem Museum",
+            "osm_id": 4906134498,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f6a0fbcd9fda514059576035ad6f8b4940f00103f901e2ab6d240100000092030f4e757220416c656d204d757365756d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4160037,
+          51.08934559923426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Колесо Обозрения",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "county": "Nura district",
+        "city": "Astana",
+        "postcode": "Z05E9E1",
+        "district": "Esil district",
+        "street": "Korgalzhyn Highway",
+        "iso3166_2": "KZ-AST",
+        "lon": 71.414566,
+        "lat": 51.1473274,
+        "formatted": "Large Ferris Wheel (viewpoint), Kazakhstan, Z05E9E1 Astana, Korgalzhyn Highway",
+        "address_line1": "Large Ferris Wheel (viewpoint)",
+        "address_line2": "Kazakhstan, Z05E9E1 Astana, Korgalzhyn Highway",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Колесо Обозрения",
+            "osm_id": 5126825312,
+            "name:en": "Large Ferris Wheel (viewpoint)",
+            "name:ru": "Колесо Обозрения",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Large Ferris Wheel (viewpoint)",
+          "ru": "Колесо Обозрения"
+        },
+        "place_id": "512502d53f88da514059cdbccc9fdb924940f00103f901602595310100000092031fd09ad0bed0bbd0b5d181d0be20d09ed0b1d0bed0b7d180d0b5d0bdd0b8d18f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.414566,
+          51.14732739922474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Esil district",
+        "suburb": "Заречный",
+        "street": "Аллея Улытау",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4261425,
+        "lat": 51.1048467,
+        "formatted": "Аллея Улытау, Kazakhstan, 010000 Astana, Заречный, Аллея Улытау",
+        "address_line1": "Аллея Улытау",
+        "address_line2": "Kazakhstan, 010000 Astana, Заречный, Аллея Улытау",
+        "name": "Аллея Улытау",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Аллея Улытау",
+            "osm_id": 5878503587,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e13b31eb45db5140599a25dc9d6b8d4940f00103f901a3d8625e01000000920317d090d0bbd0bbd0b5d18f20d0a3d0bbd18bd182d0b0d183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.42614249999998,
+          51.104846699231715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ракета",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "county": "Nura district",
+        "city": "Astana",
+        "district": "Esil district",
+        "street": "Turan Avenue",
+        "iso3166_2": "KZ-AST",
+        "lon": 71.3859388,
+        "lat": 51.0780751,
+        "formatted": "Ракета, Kazakhstan, Astana, Turan Avenue",
+        "address_line1": "Ракета",
+        "address_line2": "Kazakhstan, Astana, Turan Avenue",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ракета",
+            "osm_id": 6878399633,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517a10a738b3d8514059f5ec665dfe894940f00103f901910cfc990100000092030cd0a0d0b0d0bad0b5d182d0b0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.38593879999999,
+          51.07807509923615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ракета",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "county": "Nura district",
+        "city": "Astana",
+        "district": "Esil district",
+        "street": "Turan Avenue",
+        "iso3166_2": "KZ-AST",
+        "lon": 71.3860542,
+        "lat": 51.0782874,
+        "formatted": "Ракета, Kazakhstan, Astana, Turan Avenue",
+        "address_line1": "Ракета",
+        "address_line2": "Kazakhstan, Astana, Turan Avenue",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ракета",
+            "osm_id": 6878399634,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f1deac1cb5d85140593cb44d52058a4940f00103f901920cfc990100000092030cd0a0d0b0d0bad0b5d182d0b0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3860542,
+          51.07828739923613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ракета",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "county": "Nura district",
+        "city": "Astana",
+        "district": "Esil district",
+        "street": "Е 103",
+        "iso3166_2": "KZ-AST",
+        "lon": 71.3861883,
+        "lat": 51.078488,
+        "formatted": "Ракета, Kazakhstan, Astana, Е 103",
+        "address_line1": "Ракета",
+        "address_line2": "Kazakhstan, Astana, Е 103",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ракета",
+            "osm_id": 6878399635,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5143a6214fb7d851405979ec0ee50b8a4940f00103f901930cfc990100000092030cd0a0d0b0d0bad0b5d182d0b0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3861883,
+          51.07848799923608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дракон",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Almaty District",
+        "street": "Триатлон Парк",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4510438,
+        "lat": 51.1325332,
+        "formatted": "Dragon, Kazakhstan, 010000 Astana, Триатлон Парк",
+        "address_line1": "Dragon",
+        "address_line2": "Kazakhstan, 010000 Astana, Триатлон Парк",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Дракон",
+            "osm_id": 10093885578,
+            "name:en": "Dragon",
+            "name:es": "Dragón",
+            "name:ru": "Дракон",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Dragon",
+          "es": "Dragón",
+          "ru": "Дракон"
+        },
+        "place_id": "511184d0e6dddc5140594d280ed9f6904940f00103f9018a78a4590200000092030cd094d180d0b0d0bad0bed0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4510438,
+          51.13253319922715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Олимпийские кольца",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "county": "Nura district",
+        "city": "Astana",
+        "postcode": "Z05E9E1",
+        "district": "Esil district",
+        "street": "Лыжероллерная трасса",
+        "iso3166_2": "KZ-AST",
+        "lon": 71.4196456,
+        "lat": 51.1540747,
+        "formatted": "Олимпийские кольца, Kazakhstan, Z05E9E1 Astana, Лыжероллерная трасса",
+        "address_line1": "Олимпийские кольца",
+        "address_line2": "Kazakhstan, Z05E9E1 Astana, Лыжероллерная трасса",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Олимпийские кольца",
+            "osm_id": 10148735979,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5142fa3779dbda5140593f2741b8b8934940f00103f901eb6be95c02000000920323d09ed0bbd0b8d0bcd0bfd0b8d0b9d181d0bad0b8d0b520d0bad0bed0bbd18cd186d0b0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4196456,
+          51.15407469922365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beatles Statue",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Sarıarqa district",
+        "street": "улица Азербайжана Мамбетова",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4237199,
+        "lat": 51.1623955,
+        "formatted": "Beatles Statue, Kazakhstan, 010000 Astana, улица Азербайжана Мамбетова",
+        "address_line1": "Beatles Statue",
+        "address_line2": "Kazakhstan, 010000 Astana, улица Азербайжана Мамбетова",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Beatles Statue",
+            "osm_id": 10860197906,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51854a123a1edb514059b4162f60c9944940f00103f901127851870200000092030e426561746c657320537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4237199,
+          51.1623954992223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Арка входа в Ботанический сад",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Esil district",
+        "suburb": "Заречный",
+        "street": "Turkistan street",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4225749,
+        "lat": 51.1053345,
+        "formatted": "Арка входа в Ботанический сад, Kazakhstan, 010000 Astana, Заречный, Turkistan street",
+        "address_line1": "Арка входа в Ботанический сад",
+        "address_line2": "Kazakhstan, 010000 Astana, Заречный, Turkistan street",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Арка входа в Ботанический сад",
+            "osm_id": 11783594720,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5112e797770bdb5140598fabd2997b8d4940f00103f901e0625bbe02000000920336d090d180d0bad0b020d0b2d185d0bed0b4d0b020d0b220d091d0bed182d0b0d0bdd0b8d187d0b5d181d0bad0b8d0b920d181d0b0d0b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4225749,
+          51.10533449923161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Almaty District",
+        "street": "улица Жумекен Нажимеденов",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4554152,
+        "lat": 51.1230123,
+        "formatted": "Kazakhstan, 010000 Astana, улица Жумекен Нажимеденов",
+        "address_line1": "Kazakhstan",
+        "address_line2": "010000 Astana, улица Жумекен Нажимеденов",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2641415781,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517b86cb8525dd514059b918f5ddbe8f4940f00103f90165ce709d00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.45541519999999,
+          51.123012299228726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zentrum des \"goldenen Vierecks\" zwischen Kenesary, Respublika und Zhengiz",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Sarıarqa district",
+        "street": "улица Бигельдинова",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4213275,
+        "lat": 51.1662886,
+        "formatted": "Zentrum des \"goldenen Vierecks\" zwischen Kenesary, Respublika und Zhengiz, Kazakhstan, 010000 Astana, улица Бигельдинова",
+        "address_line1": "Zentrum des \"goldenen Vierecks\" zwischen Kenesary, Respublika und Zhengiz",
+        "address_line2": "Kazakhstan, 010000 Astana, улица Бигельдинова",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5008032821,
+            "name:de": "Zentrum des \"goldenen Vierecks\" zwischen Kenesary, Respublika und Zhengiz",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Zentrum des \"goldenen Vierecks\" zwischen Kenesary, Respublika und Zhengiz"
+        },
+        "place_id": "51f2599e07f7da5140596aaddff148954940f00103f9013584802a01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.42132749999999,
+          51.16628859922169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant flag pole",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "county": "Nura district",
+        "city": "Astana",
+        "postcode": "Z05E9E1",
+        "district": "Esil district",
+        "street": "Korgalzhyn Highway",
+        "iso3166_2": "KZ-AST",
+        "lon": 71.4209126,
+        "lat": 51.1484467,
+        "formatted": "Giant flag pole, Kazakhstan, Z05E9E1 Astana, Korgalzhyn Highway",
+        "address_line1": "Giant flag pole",
+        "address_line2": "Kazakhstan, Z05E9E1 Astana, Korgalzhyn Highway",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5592690123,
+            "name:en": "Giant flag pole",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Giant flag pole"
+        },
+        "place_id": "515bde663bf0da514059302f2b4d00934940f00103f901cbad594d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4209126,
+          51.148446699224564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "“History”",
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Sarıarqa district",
+        "street": "улица Ильяса Есенберлина",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4163924,
+        "lat": 51.1886583,
+        "formatted": "“History”, Kazakhstan, 010000 Astana, улица Ильяса Есенберлина",
+        "address_line1": "“History”",
+        "address_line2": "Kazakhstan, 010000 Astana, улица Ильяса Есенберлина",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5715659521,
+            "name:en": "“History”",
+            "name:ru": "«История»",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "“History”",
+          "ru": "«История»"
+        },
+        "place_id": "5164134f2ca6da51405961a184f425984940f00103f901010bae5401000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4163924,
+          51.18865829921811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Esil district",
+        "suburb": "Пригородный поселок",
+        "street": "Қабанбай Батыр даңғылы",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4629618,
+        "lat": 51.0295992,
+        "formatted": "Kazakhstan, 010000 Astana, Пригородный поселок, Қабанбай Батыр даңғылы",
+        "address_line1": "Kazakhstan",
+        "address_line2": "010000 Astana, Пригородный поселок, Қабанбай Батыр даңғылы",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12072403000,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "510693872aa1dd514059035f14e8c9834940f00103f901384092cf02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.46296179999999,
+          51.02959919924435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Sarıarqa district",
+        "street": "проспект Женис",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4121158,
+        "lat": 51.1745051,
+        "formatted": "Kazakhstan, 010000 Astana, проспект Женис",
+        "address_line1": "Kazakhstan",
+        "address_line2": "010000 Astana, проспект Женис",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12095513450,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "518dcaf21a60da5140597f11df2e56964940f00103f9016ae3f2d002000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4121158,
+          51.17450509922036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Sarıarqa district",
+        "street": "улица Гумар Караш",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4245299,
+        "lat": 51.1565686,
+        "formatted": "Kazakhstan, 010000 Astana, улица Гумар Караш",
+        "address_line1": "Kazakhstan",
+        "address_line2": "010000 Astana, улица Гумар Караш",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12146084401,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51252b757f2bdb514059499f9a700a944940f00103f901318af6d302000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4245299,
+          51.156568599223256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kazakhstan",
+        "country_code": "kz",
+        "city": "Astana",
+        "postcode": "010000",
+        "district": "Bayqoñır district",
+        "street": "улица Амангельды Иманова",
+        "iso3166_2": "KZ-71",
+        "lon": 71.4402032,
+        "lat": 51.1638683,
+        "formatted": "Kazakhstan, 010000 Astana, улица Амангельды Иманова",
+        "address_line1": "Kazakhstan",
+        "address_line2": "010000 Astana, улица Амангельды Иманова",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12390012066,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "installation"
+          }
+        },
+        "artwork": {
+          "artwork_type": "installation"
+        },
+        "place_id": "510de60a4a2cdc5140594301eda2f9944940f00103f901a29480e202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4402032,
+          51.16386829922205
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boali falls",
+        "country": "Central African Republic",
+        "country_code": "cf",
+        "state": "Ombella-M'Poko",
+        "city": "Bogbayo",
+        "hamlet": "Dogba",
+        "street": "RN 1",
+        "iso3166_2": "CF-MP",
+        "lon": 18.0474639,
+        "lat": 4.8747095,
+        "formatted": "Boali falls, RN 1, Bogbayo, Central African Republic",
+        "address_line1": "Boali falls",
+        "address_line2": "RN 1, Bogbayo, Central African Republic",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boali falls",
+            "osm_id": 2278463422,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51993d1a98260c32405974afd7d8b37f1340f00103f901be97ce870000000092030b426f616c692066616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0474639,
+          4.874709499515905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salle omnisports",
+        "country": "Central African Republic",
+        "country_code": "cf",
+        "city": "Bangui",
+        "street": "Avenue des Martyrs",
+        "iso3166_2": "CF-BGF",
+        "lon": 18.5635573,
+        "lat": 4.3760237,
+        "formatted": "Salle omnisports, Avenue des Martyrs, Bangui, Central African Republic",
+        "address_line1": "Salle omnisports",
+        "address_line2": "Avenue des Martyrs, Bangui, Central African Republic",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Salle omnisports",
+            "osm_id": 5369227121,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510cec8c4a45903240590b71505b0c811140f00103f90171e707400100000092031053616c6c65206f6d6e6973706f727473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5635573,
+          4.376023699555172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barthelemy Boganda memorial",
+        "country": "Central African Republic",
+        "country_code": "cf",
+        "state": "Lobaye",
+        "city": "Botoko",
+        "hamlet": "Mboma",
+        "street": "RN 6",
+        "iso3166_2": "CF-LB",
+        "lon": 18.0601968,
+        "lat": 4.0323728,
+        "state_code": "LB",
+        "formatted": "Barthelemy Boganda memorial, RN 6, Botoko, Central African Republic",
+        "address_line1": "Barthelemy Boganda memorial",
+        "address_line2": "RN 6, Botoko, Central African Republic",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11663288469,
+            "name:en": "Barthelemy Boganda memorial",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Barthelemy Boganda memorial"
+        },
+        "place_id": "51e852b70e690f324059b4fbcd5526211040f00103f90195a82fb702000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0601968,
+          4.032372799584596
+        ]
+      }
+    }
+  ]
+}

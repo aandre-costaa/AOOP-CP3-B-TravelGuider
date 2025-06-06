@@ -1,0 +1,1525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lion Cage",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Central Province",
+        "county": "Chisamba District",
+        "suburb": "Protea Safari Lodge Game Farm",
+        "street": "Footpath to Lion Cage",
+        "iso3166_2": "ZM-02",
+        "lon": 28.266290902846055,
+        "lat": -15.078634050000002,
+        "formatted": "Footpath to Lion Cage, Central Province, Zambia",
+        "address_line1": "Footpath to Lion Cage",
+        "address_line2": "Central Province, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lion Cage",
+            "osm_id": 395072506,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal",
+            "fence_type": "chain_link",
+            "wheelchair": "no",
+            "opening_hours": "sunrise-sunset"
+          }
+        },
+        "opening_hours": "sunrise-sunset",
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "5134f2fea32b443c40590583e5b842282ec0f00102f901fa538c17000000009203094c696f6e2043616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.266290902846052,
+          -15.078634050385071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Rhino",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Kafue District",
+        "iso3166_2": "ZM-09",
+        "lon": 28.412173046918202,
+        "lat": -15.53006955,
+        "formatted": "White Rhino, Kafue District, Zambia",
+        "address_line1": "White Rhino",
+        "address_line2": "Kafue District, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "White Rhino",
+            "osm_id": 676172208,
+            "natural": "scrub",
+            "species": "Ceratotherium simum",
+            "tourism": "viewpoint",
+            "osm_type": "w",
+            "wikidata": "Q159918",
+            "wikipedia": "en:White rhinoceros",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q159918",
+          "wikipedia": "en:White rhinoceros"
+        },
+        "place_id": "516cce3c2c84693c4059da41af46650f2fc0f00102f901b0914d280000000092030b5768697465205268696e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4121730469182,
+          -15.53006955041285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiger Safaris Office",
+        "country": "Zimbabwe",
+        "country_code": "zw",
+        "state": "Mashonaland West Province",
+        "county": "Hurungwe",
+        "city": "Chirundu",
+        "street": "Road to Tiger Safaris Office",
+        "iso3166_2": "ZW-MW",
+        "lon": 28.8562347,
+        "lat": -16.0368305,
+        "formatted": "Road to Tiger Safaris Office, Chirundu, Zimbabwe",
+        "address_line1": "Road to Tiger Safaris Office",
+        "address_line2": "Chirundu, Zimbabwe",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tiger Safaris Office",
+            "osm_id": 2465749460,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "08:00-17:00"
+          }
+        },
+        "opening_hours": "08:00-17:00",
+        "place_id": "514c33823232db3c4059f2e042b96d0930c0f00103f901d459f8920000000092031454696765722053616661726973204f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8562347,
+          -16.036830500438505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plot 968, House No. 2",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "postcode": "10101",
+        "suburb": "Chainda",
+        "street": "Simon Mwansa Kapwepwe Avenue",
+        "housenumber": "Plot No.968",
+        "iso3166_2": "ZM-09",
+        "lon": 28.4073171,
+        "lat": -15.3880564,
+        "formatted": "The Bandas, Plot No.968 Simon Mwansa Kapwepwe Avenue, 10101 Lusaka Province, Zambia",
+        "address_line1": "The Bandas",
+        "address_line2": "Plot No.968 Simon Mwansa Kapwepwe Avenue, 10101 Lusaka Province, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plot 968, House No. 2",
+            "email": "ackim74@gmail.com",
+            "phone": "+260966759070",
+            "osm_id": 4579398690,
+            "name:en": "The Bandas",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Simon Mwansa Kapwepwe Avenue",
+            "addr:postcode": 10101,
+            "addr:housenumber": "Plot No.968"
+          }
+        },
+        "name_international": {
+          "en": "The Bandas"
+        },
+        "contact": {
+          "phone": "+260966759070",
+          "email": "ackim74@gmail.com"
+        },
+        "place_id": "51ff99f7ee45683c40597e7b1954afc62ec0f00103f9012214f41001000000920315506c6f74203936382c20486f757365204e6f2e2032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.407317099999997,
+          -15.38805640040459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plot No. 117-22-9013 House No.5",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "postcode": "10101",
+        "suburb": "Chiwala Mambwe",
+        "street": "Pendela Road",
+        "housenumber": "No.5",
+        "iso3166_2": "ZM-09",
+        "lon": 28.2984162,
+        "lat": -15.3868461,
+        "formatted": "Plot No. 117-22-9013 House No.5, No.5 Pendela Road, 10101 Lusaka, Zambia",
+        "address_line1": "Plot No. 117-22-9013 House No.5",
+        "address_line2": "No.5 Pendela Road, 10101 Lusaka, Zambia",
+        "categories": [
+          "internet_access",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plot No. 117-22-9013 House No.5",
+            "email": "eazyerick2002@live.com",
+            "phone": "+260966598627",
+            "osm_id": 5541041522,
+            "tourism": "attraction",
+            "operator": "Erick",
+            "osm_type": "n",
+            "addr:street": "Off Pendela Road.",
+            "addr:postcode": 10101,
+            "internet_access": "wlan",
+            "addr:housenumber": "No.5"
+          }
+        },
+        "operator": "Erick",
+        "contact": {
+          "phone": "+260966598627",
+          "email": "eazyerick2002@live.com"
+        },
+        "facilities": {
+          "internet_access": true
+        },
+        "place_id": "51ba980b01654c3c405925a52bb110c62ec0f00103f9017295454a0100000092031f506c6f74204e6f2e203131372d32322d3930313320486f757365204e6f2e35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2984162,
+          -15.38684610040452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabwata Cultural Village",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Ridgeway",
+        "street": "Burma Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.304921425426382,
+        "lat": -15.432860250000001,
+        "formatted": "Kabwata Cultural Village, Burma Road, Lusaka, Zambia",
+        "address_line1": "Kabwata Cultural Village",
+        "address_line2": "Burma Road, Lusaka, Zambia",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.arts_centre",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kabwata Cultural Village",
+            "osm_id": 551772102,
+            "amenity": "arts_centre",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "check_date": "2023-07-08",
+            "wheelchair": "no",
+            "internet_access": "no"
+          }
+        },
+        "facilities": {
+          "internet_access": false,
+          "wheelchair": false
+        },
+        "place_id": "51560e9e540f4e3c40599c79d6db9fdd2ec0f00102f901c65fe320000000009203184b6162776174612043756c747572616c2056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.30492142542638,
+          -15.432860250407252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheetah and lion enclosures",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Chongwe District",
+        "iso3166_2": "ZM-09",
+        "lon": 28.49749353287678,
+        "lat": -15.158879200000001,
+        "formatted": "Cheetah and lion enclosures, Chongwe District, Zambia",
+        "address_line1": "Cheetah and lion enclosures",
+        "address_line2": "Chongwe District, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cheetah and lion enclosures",
+            "osm_id": 672231505,
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "5162ad75bc5b7f3c4059d561539d58512ec0f00102f901517011280000000092031b4368656574616820616e64206c696f6e20656e636c6f7375726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.49749353287678,
+          -15.158879200390325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinyunyu Hot Spring",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Rufunsa District",
+        "iso3166_2": "ZM-09",
+        "lon": 29.023284,
+        "lat": -15.2616379,
+        "formatted": "Chinyunyu Hot Spring, Rufunsa District, Zambia",
+        "address_line1": "Chinyunyu Hot Spring",
+        "address_line2": "Rufunsa District, Zambia",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chinyunyu Hot Spring",
+            "osm_id": 736038630,
+            "natural": "spring",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512485b2f0f5053d405981322367f5852ec0f00103f901e60edf2b000000009203144368696e79756e797520486f7420537072696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.023284000000004,
+          -15.261637900396865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chirundu Crocodile Farm",
+        "country": "Zimbabwe",
+        "country_code": "zw",
+        "state": "Mashonaland West Province",
+        "county": "Hurungwe",
+        "street": "Track to Pumphouse",
+        "iso3166_2": "ZW-MW",
+        "lon": 28.9041837,
+        "lat": -16.0053191,
+        "formatted": "Chirundu Crocodile Farm, Track to Pumphouse, Hurungwe, Zimbabwe",
+        "address_line1": "Chirundu Crocodile Farm",
+        "address_line2": "Track to Pumphouse, Hurungwe, Zimbabwe",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chirundu Crocodile Farm",
+            "osm_id": 1430367685,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5185133d9578e73c4059e56bb2975c0130c0f00103f901c5ad41550000000092031743686972756e64752043726f636f64696c65204661726d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.904183699999994,
+          -16.005319100437095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hollow Baobab",
+        "country": "Zimbabwe",
+        "country_code": "zw",
+        "state": "Mashonaland West Province",
+        "county": "Hurungwe",
+        "city": "Chirundu",
+        "street": "Entry road to Rifa Educational Camp",
+        "iso3166_2": "ZW-MW",
+        "lon": 28.8610321,
+        "lat": -16.0633265,
+        "formatted": "Hollow Baobab, Entry road to Rifa Educational Camp, Chirundu, Zimbabwe",
+        "address_line1": "Hollow Baobab",
+        "address_line2": "Entry road to Rifa Educational Camp, Chirundu, Zimbabwe",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hollow Baobab",
+            "osm_id": 2448305407,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51614e86996cdc3c4059c85b602a361030c0f00103f901ff2cee910000000092030d486f6c6c6f772042616f626162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.861032099999992,
+          -16.063326500439672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rifa Hot Spring",
+        "country": "Zimbabwe",
+        "country_code": "zw",
+        "state": "Mashonaland West Province",
+        "county": "Hurungwe",
+        "city": "Chirundu",
+        "street": "Entry road to Rifa Educational Camp",
+        "iso3166_2": "ZW-MW",
+        "lon": 28.8603876,
+        "lat": -16.0648251,
+        "formatted": "Rifa Hot Spring, Entry road to Rifa Educational Camp, Chirundu, Zimbabwe",
+        "address_line1": "Rifa Hot Spring",
+        "address_line2": "Entry road to Rifa Educational Camp, Chirundu, Zimbabwe",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rifa Hot Spring",
+            "osm_id": 2448305410,
+            "natural": "spring",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5148e29b5c42dc3c40593e59b660981030c0f00103f901022dee910000000092030f5269666120486f7420537072696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.860387599999996,
+          -16.06482510043974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PWMA Rangers House Rifa",
+        "country": "Zimbabwe",
+        "country_code": "zw",
+        "state": "Mashonaland West Province",
+        "county": "Hurungwe",
+        "street": "River Road",
+        "iso3166_2": "ZW-MW",
+        "lon": 28.8702754,
+        "lat": -16.0698682,
+        "formatted": "PWMA Rangers House Rifa, River Road, Hurungwe, Zimbabwe",
+        "address_line1": "PWMA Rangers House Rifa",
+        "address_line2": "River Road, Hurungwe, Zimbabwe",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PWMA Rangers House Rifa",
+            "osm_id": 2449488663,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5169835d5ecade3c405982ebe3e1e21130c0f00103f901173b00920000000092031750574d412052616e6765727320486f7573652052696661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8702754,
+          -16.06986820043995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rifa Water Pump",
+        "country": "Zimbabwe",
+        "country_code": "zw",
+        "state": "Mashonaland West Province",
+        "county": "Hurungwe",
+        "street": "Road to Rifa Water Pump",
+        "iso3166_2": "ZW-MW",
+        "lon": 28.8654458,
+        "lat": -16.0767011,
+        "formatted": "Road to Rifa Water Pump, Hurungwe, Zimbabwe",
+        "address_line1": "Road to Rifa Water Pump",
+        "address_line2": "Hurungwe, Zimbabwe",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rifa Water Pump",
+            "osm_id": 2449488665,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e5751fdb8ddd3c405949f5edaea21330c0f00103f901193b00920000000092030f526966612057617465722050756d70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.865445799999993,
+          -16.076701100440264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shumba Hill Viewpoint",
+        "country": "Zimbabwe",
+        "country_code": "zw",
+        "state": "Mashonaland West Province",
+        "county": "Hurungwe",
+        "street": "Path to viewpoint",
+        "iso3166_2": "ZW-MW",
+        "lon": 28.8672821,
+        "lat": -16.0660071,
+        "formatted": "Shumba Hill Viewpoint, Path to viewpoint, Hurungwe, Zimbabwe",
+        "address_line1": "Shumba Hill Viewpoint",
+        "address_line2": "Path to viewpoint, Hurungwe, Zimbabwe",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shumba Hill Viewpoint",
+            "osm_id": 2465742538,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fbe71f3306de3c405952b161d7e51030c0f00103f901ca3ef892000000009203155368756d62612048696c6c2056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.867282099999994,
+          -16.066007100439784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vulture Watch",
+        "country": "Zimbabwe",
+        "country_code": "zw",
+        "state": "Mashonaland West Province",
+        "county": "Hurungwe",
+        "street": "Road to Rifa Water Pump",
+        "iso3166_2": "ZW-MW",
+        "lon": 28.8694847,
+        "lat": -16.0715041,
+        "formatted": "Vulture Watch, Road to Rifa Water Pump, Hurungwe, Zimbabwe",
+        "address_line1": "Vulture Watch",
+        "address_line2": "Road to Rifa Water Pump, Hurungwe, Zimbabwe",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vulture Watch",
+            "osm_id": 2493797669,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5153df9e8c96de3c40597aebbc174e1230c0f00103f9012555a4940000000092030d56756c74757265205761746368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.869484699999997,
+          -16.07150410044003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Chicken",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Kaunda Square",
+        "street": "Great East Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.3641774,
+        "lat": -15.380327,
+        "formatted": "Big Chicken, Great East Road, Lusaka, Zambia",
+        "address_line1": "Big Chicken",
+        "address_line2": "Great East Road, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Big Chicken",
+            "osm_id": 3708376075,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513af1e6ba3a5d3c40590a0b7938bac22ec0f00103f9010b5409dd0000000092030b42696720436869636b656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.364177399999996,
+          -15.38032700040414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Makeni House",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Makeni",
+        "street": "Kafue Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.2622417,
+        "lat": -15.460764,
+        "formatted": "Makeni House, Kafue Road, Lusaka, Zambia",
+        "address_line1": "Makeni House",
+        "address_line2": "Kafue Road, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Makeni House",
+            "osm_id": 4592441289,
+            "name:en": "Makeni House",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Makeni House"
+        },
+        "place_id": "51be25a54522433c40594bdc5142e9eb2ec0f00103f901c917bb110100000092030c4d616b656e6920486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.262241699999997,
+          -15.460764000408878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayport",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Luneta",
+        "street": "Heroes Place",
+        "iso3166_2": "ZM-09",
+        "lon": 28.2826568,
+        "lat": -15.4190658,
+        "formatted": "Bayport, Heroes Place, Lusaka, Zambia",
+        "address_line1": "Bayport",
+        "address_line2": "Heroes Place, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bayport",
+            "osm_id": 4694791090,
+            "name:en": "Bayport",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bayport"
+        },
+        "place_id": "51f4fd2f325c483c4059423ce7ca8fd62ec0f00103f901b2d3d41701000000920307426179706f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.282656799999998,
+          -15.419065800406432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuesday Market",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Libala",
+        "street": "Burma Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.3133664,
+        "lat": -15.4367092,
+        "formatted": "Tuesday Market, Burma Road, Lusaka, Zambia",
+        "address_line1": "Tuesday Market",
+        "address_line2": "Burma Road, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tuesday Market",
+            "osm_id": 4738231922,
+            "name:en": "Tuesday Market",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tuesday Market"
+        },
+        "place_id": "514daac7c738503c40598d392b5998df2ec0f00103f90172ae6b1a0100000092030e54756573646179204d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.313366399999996,
+          -15.436709200407472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russell Phiri Residence",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Chandamali",
+        "street": "Lottie Mwale Street",
+        "iso3166_2": "ZM-09",
+        "lon": 28.3264457,
+        "lat": -15.4640401,
+        "formatted": "Russell Phiri Residence, Lottie Mwale Street, Lusaka, Zambia",
+        "address_line1": "Russell Phiri Residence",
+        "address_line2": "Lottie Mwale Street, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Russell Phiri Residence",
+            "osm_id": 4790090021,
+            "name:en": "Russell Phiri Residence",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Shantumbu Road"
+          }
+        },
+        "name_international": {
+          "en": "Russell Phiri Residence"
+        },
+        "place_id": "517a6b05f291533c40593a94fea996ed2ec0f00103f90125f9821d0100000092031752757373656c6c205068697269205265736964656e6365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3264457,
+          -15.464040100409068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scrap Mentals",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Kanyama",
+        "street": "Masauko Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.2493686,
+        "lat": -15.4375402,
+        "formatted": "Scrap Mentals, Masauko Road, Lusaka, Zambia",
+        "address_line1": "Scrap Mentals",
+        "address_line2": "Masauko Road, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Scrap Mentals",
+            "osm_id": 4790146908,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513aa6dd9ed63f3c405908dfe64405e02ec0f00103f9015cd7831d0100000092030d5363726170204d656e74616c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.249368600000004,
+          -15.437540200407526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiti's Libala home",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Libala",
+        "street": "Kapoli Street",
+        "iso3166_2": "ZM-09",
+        "lon": 28.319166,
+        "lat": -15.449445,
+        "formatted": "Chiti's Libala home, Kapoli Street, Lusaka, Zambia",
+        "address_line1": "Chiti's Libala home",
+        "address_line2": "Kapoli Street, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chiti's Libala home",
+            "osm_id": 4810574822,
+            "name:en": "Chiti's Libala home",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Chiti's Libala home"
+        },
+        "place_id": "51c2feebdcb4513c40594035b4a71de62ec0f00103f901e68bbb1e0100000092031343686974692773204c6962616c6120686f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.319166000000003,
+          -15.449445000408218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiffany's Canyon",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Chilanga District",
+        "street": "Kafue Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.2393844,
+        "lat": -15.6445063,
+        "formatted": "Tiffany's Canyon, Kafue Road, Lusaka Province, Zambia",
+        "address_line1": "Tiffany's Canyon",
+        "address_line2": "Kafue Road, Lusaka Province, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tiffany's Canyon",
+            "osm_id": 4893855022,
+            "name:en": "Tiffany's Canyon",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tiffany's Canyon"
+        },
+        "place_id": "512e2cc94b483d3c40598ebbd4bafc492fc0f00103f9012e4db2230100000092031054696666616e7927732043616e796f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2393844,
+          -15.644506300419177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dream Valley Resort",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Ibex Hill",
+        "street": "Main Street",
+        "iso3166_2": "ZM-09",
+        "lon": 28.3735249,
+        "lat": -15.4145389,
+        "formatted": "Dream Valley Resort, Main Street, Lusaka, Zambia",
+        "address_line1": "Dream Valley Resort",
+        "address_line2": "Main Street, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dream Valley Resort",
+            "osm_id": 5087935829,
+            "name:en": "Dream Valley Resort",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Dream Valley Resort"
+        },
+        "place_id": "51ddbded539f5f3c40591c5458713ed42ec0f00103f90155bd432f01000000920313447265616d2056616c6c6579205265736f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.373524899999996,
+          -15.414538900406164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suwilanji Gardens",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Kalundu",
+        "street": "Lufubu Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.3235153,
+        "lat": -15.3832562,
+        "formatted": "Suwilanji Gardens, Lufubu Road, Lusaka, Zambia",
+        "address_line1": "Suwilanji Gardens",
+        "address_line2": "Lufubu Road, Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Suwilanji Gardens",
+            "osm_id": 5087935931,
+            "name:en": "Suwilanji Gardens",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Suwilanji Gardens"
+        },
+        "place_id": "51714111e6d1523c405990731d283ac42ec0f00103f901bbbd432f01000000920311537577696c616e6a692047617264656e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3235153,
+          -15.383256200404304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Selina Events Gardens",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "suburb": "Avondale",
+        "street": "Simon Mwansa Kapwepwe Avenue",
+        "iso3166_2": "ZM-09",
+        "lon": 28.3985119,
+        "lat": -15.3890193,
+        "formatted": "Selina Events Gardens, Simon Mwansa Kapwepwe Avenue, Lusaka Province, Zambia",
+        "address_line1": "Selina Events Gardens",
+        "address_line2": "Simon Mwansa Kapwepwe Avenue, Lusaka Province, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Selina Events Gardens",
+            "osm_id": 5418046521,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Off Twin Palm Road"
+          }
+        },
+        "place_id": "511a9139e004663c40596480a9892dc72ec0f00103f90139d4f0420100000092031553656c696e61204576656e74732047617264656e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.398511899999995,
+          -15.389019300404648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birdwatching Hide",
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Central Province",
+        "county": "Mumbwa District",
+        "iso3166_2": "ZM-02",
+        "lon": 27.4847278,
+        "lat": -15.4885844,
+        "formatted": "Birdwatching Hide, Mumbwa District, Zambia",
+        "address_line1": "Birdwatching Hide",
+        "address_line2": "Mumbwa District, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Birdwatching Hide",
+            "osm_id": 5512936801,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514776001f177c3b405998320abc27fa2ec0f00103f90161bd984801000000920311426972647761746368696e672048696465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.484727799999998,
+          -15.488584400410488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Kanyama",
+        "street": "Masauko Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.235702,
+        "lat": -15.4396628,
+        "formatted": "Masauko Road, Lusaka, Zambia",
+        "address_line1": "Masauko Road",
+        "address_line2": "Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4766227611,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510f9a5df7563c3c405988098a7b1be12ec0f00103f9019bdc161c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.235702,
+          -15.439662800407646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Kanyama",
+        "street": "Masauko Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.2356245,
+        "lat": -15.4375842,
+        "formatted": "Masauko Road, Lusaka, Zambia",
+        "address_line1": "Masauko Road",
+        "address_line2": "Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4772802944,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e8a221e3513c3c405944fe4b090be02ec0f00103f90180317b1c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2356245,
+          -15.437584200407521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Kanyama",
+        "street": "Mutanda Bantu",
+        "iso3166_2": "ZM-09",
+        "lon": 28.24855,
+        "lat": -15.4321975,
+        "formatted": "Mutanda Bantu, Lusaka, Zambia",
+        "address_line1": "Mutanda Bantu",
+        "address_line2": "Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4790040645,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "Welding"
+          }
+        },
+        "artwork": {
+          "artwork_type": "Welding"
+        },
+        "place_id": "51ba6b09f9a03f3c4059e552a3fd48dd2ec0f00103f9014538821d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.24855,
+          -15.432197500407208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Kafue District",
+        "street": "Central Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.4138102,
+        "lat": -15.5278115,
+        "formatted": "Central Road, Lusaka Province, Zambia",
+        "address_line1": "Central Road",
+        "address_line2": "Lusaka Province, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6332367661,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5150c01b77ef693c40595e73194f3d0e2fc0f00103f9012d43707901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4138102,
+          -15.52781150041272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Zambia",
+        "country_code": "zm",
+        "state": "Lusaka Province",
+        "county": "Lusaka District",
+        "city": "Lusaka",
+        "suburb": "Chiwala Mambwe",
+        "street": "Pendela Road",
+        "iso3166_2": "ZM-09",
+        "lon": 28.2994778,
+        "lat": -15.3939756,
+        "formatted": "Pendela Road, Lusaka, Zambia",
+        "address_line1": "Pendela Road",
+        "address_line2": "Lusaka, Zambia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11862382076,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c6e0bc93aa4c3c405985527e2bb7c92ec0f00103f901fc950dc302000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2994778,
+          -15.393975600404938
+        ]
+      }
+    }
+  ]
+}

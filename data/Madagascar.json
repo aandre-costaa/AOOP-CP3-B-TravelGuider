@@ -1,0 +1,4742 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rova",
+        "old_name": "Palais de la Reine",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ankadilalana",
+        "street": "Làlana Dokotera Ralarosy",
+        "lon": 47.53220000282898,
+        "lat": -18.9237079,
+        "formatted": "Queen's Palace, Làlana Dokotera Ralarosy, Ankadilalana, 101 Antananarivo, Madagascar",
+        "address_line1": "Queen's Palace",
+        "address_line2": "Làlana Dokotera Ralarosy, Ankadilalana, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rova",
+            "osm_id": 52638460,
+            "name:en": "Queen's Palace",
+            "name:fr": "Palais de Manjakamiadana",
+            "tourism": "attraction",
+            "old_name": "Palais de la Reine",
+            "osm_type": "w",
+            "wikidata": "Q1290337",
+            "wikipedia": "en:Rova of Antananarivo",
+            "wikimedia_commons": "Category:Rova of Antananarivo"
+          }
+        },
+        "name_other": {
+          "old_name": "Palais de la Reine"
+        },
+        "name_international": {
+          "en": "Queen's Palace",
+          "fr": "Palais de Manjakamiadana"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1290337",
+          "wikipedia": "en:Rova of Antananarivo",
+          "wikimedia_commons": "Category:Rova of Antananarivo"
+        },
+        "place_id": "51708a33211fc4474059e67df71e78ec32c0f00102f901fc32230300000000920304526f7661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53220000282897,
+          -18.923707900450516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chutes de la Lilly",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Andasibe",
+        "hamlet": "Ambanitavy",
+        "street": "N 43",
+        "lon": 46.6841364,
+        "lat": -19.0315439,
+        "formatted": "Chutes de la Lilly, N 43, Andasibe, Madagascar",
+        "address_line1": "Chutes de la Lilly",
+        "address_line2": "N 43, Andasibe, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chutes de la Lilly",
+            "osm_id": 2522135879,
+            "tourism": "attraction",
+            "website": "http://www.web-libre.org/dossiers/chutes-lili-madagascar,5548.html",
+            "osm_type": "n"
+          }
+        },
+        "website": "http://www.web-libre.org/dossiers/chutes-lili-madagascar,5548.html",
+        "place_id": "51680014c89157474059f1cdd442130833c0f00103f90147bd549600000000920312436875746573206465206c61204c696c6c79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6841364,
+          -19.03154390044614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institut Français de Madagascar",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Antsahavola",
+        "suburb": "Soarano",
+        "street": "Làlana Radama I",
+        "lon": 47.5222175,
+        "lat": -18.9050971,
+        "formatted": "Institut Français de Madagascar, Làlana Radama I, Soarano, 101 Antananarivo, Madagascar",
+        "address_line1": "Institut Français de Madagascar",
+        "address_line2": "Làlana Radama I, Soarano, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Institut Français de Madagascar",
+            "osm_id": 4369081089,
+            "amenity": "social_centre",
+            "name:fr": "Institut Français de Madagascar",
+            "tourism": "artwork",
+            "operator": "Ambassade de France",
+            "osm_type": "n",
+            "addr:full": "14, Avenue de l’Indépendance BP 488, 101 Antananarivo, Madagascar",
+            "short_name": "IFM",
+            "start_date": 1964,
+            "description": "L'IFM est un centre qui offre des services d'une médiathèque, permettant tous les modes d'accès au savoir à tous les publics, y compris les numériques.",
+            "contact:email": "contact@institutfrancais-madagascar.com",
+            "contact:phone": "+261 20 22 236 47",
+            "contact:twitter": "https://twitter.com/IFmadagascar",
+            "contact:website": "http://www.institutfrancais-madagascar.com/",
+            "contact:youtube": "https://www.youtube.com/channel/UCpkLT0pKzD71y6cqdOc09cQ",
+            "contact:facebook": "https://www.facebook.com/ifm.madagascar/?fref=ts",
+            "contact:instagram": "https://www.instagram.com/institutfrancaismadagascar/?hl=fr",
+            "social_center:hackerspace": "yes",
+            "project:oif-dfen_carteinnov": "yes"
+          }
+        },
+        "website": "http://www.institutfrancais-madagascar.com/",
+        "operator": "Ambassade de France",
+        "description": "L'IFM est un centre qui offre des services d'une médiathèque, permettant tous les modes d'accès au savoir à tous les publics, y compris les numériques.",
+        "name_other": {
+          "short_name": "IFM"
+        },
+        "name_international": {
+          "fr": "Institut Français de Madagascar"
+        },
+        "contact": {
+          "phone": "+261 20 22 236 47",
+          "email": "contact@institutfrancais-madagascar.com"
+        },
+        "place_id": "510df3e505d8c247405977248e71b4e732c0f00103f90101e36a0401000000920320496e737469747574204672616ec3a7616973206465204d616461676173636172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.52221749999999,
+          -18.905097100451226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NGO ANKIZY GASY Children of Madagascar",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Anosiala",
+        "postcode": "105",
+        "street": "N 4",
+        "lon": 47.4396445,
+        "lat": -18.8181253,
+        "formatted": "NGO ANKIZY GASY Children of Madagascar, N 4, 105 Anosiala, Madagascar",
+        "address_line1": "NGO ANKIZY GASY Children of Madagascar",
+        "address_line2": "N 4, 105 Anosiala, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "email": "foundation@childrenofmadagascar.com",
+            "phone": "00261340118817",
+            "osm_id": 4870246122,
+            "name:en": "NGO ANKIZY GASY Children of Madagascar",
+            "name:pl": "Fundacja Dzieci Madagaskaru",
+            "tourism": "attraction",
+            "website": "http://www.childrenofmadagscar.com",
+            "osm_type": "n",
+            "addr:street": "College Saint Joseph",
+            "opening_hours": "24/7"
+          }
+        },
+        "website": "http://www.childrenofmadagscar.com",
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "NGO ANKIZY GASY Children of Madagascar",
+          "pl": "Fundacja Dzieci Madagaskaru"
+        },
+        "contact": {
+          "phone": "00261340118817",
+          "email": "foundation@childrenofmadagascar.com"
+        },
+        "place_id": "51e1ae5e4546b8474059667be1a870d132c0f00103f901ea0e4a2201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.43964449999999,
+          -18.818125300454447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre de loisirs du CAR",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Ambohidratrimo",
+        "postcode": "105",
+        "suburb": "Maibahoaka",
+        "industrial": "usine et enceinte tradebois",
+        "street": "enceinte tradebois",
+        "lon": 47.45804432499219,
+        "lat": -18.821377249999998,
+        "formatted": "Centre de loisirs du CAR, enceinte tradebois, Maibahoaka, 105 Ambohidratrimo, Madagascar",
+        "address_line1": "Centre de loisirs du CAR",
+        "address_line2": "enceinte tradebois, Maibahoaka, 105 Ambohidratrimo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centre de loisirs du CAR",
+            "osm_id": 46418036,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51dcfa4932a1ba47405939618cc745d232c0f00102f9017448c4020000000092031843656e747265206465206c6f697369727320647520434152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45804432499219,
+          -18.821377250454336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colline Royale d'Antsahadinta",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Atsimondrano",
+        "city": "Ampilanonana",
+        "hamlet": "Antsahadinta",
+        "lon": 47.45725096983789,
+        "lat": -19.012370750000002,
+        "formatted": "Colline Royale d'Antsahadinta, Ampilanonana, District d'Antananarivo Atsimondrano, Madagascar",
+        "address_line1": "Colline Royale d'Antsahadinta",
+        "address_line2": "Ampilanonana, District d'Antananarivo Atsimondrano, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Colline Royale d'Antsahadinta",
+            "osm_id": 52734613,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "514ec2243387ba474059bc98c0ba2a0333c0f00102f90195aa24030000000092031d436f6c6c696e6520526f79616c65206427416e747361686164696e7461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.45725096983789,
+          -19.012370750446948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geysers",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Soanafindra",
+        "street": "N 1",
+        "lon": 46.6400535815591,
+        "lat": -18.92559895,
+        "formatted": "Geysers, N 1, Soanafindra, Madagascar",
+        "address_line1": "Geysers",
+        "address_line2": "N 1, Soanafindra, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Geysers",
+            "osm_id": 180673450,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51f33d9846ed514740598565850df4ec32c0f00102f901aadbc40a0000000092030747657973657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.640053581559094,
+          -18.92559895045044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coliseum Antsonjombe",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "100",
+        "suburb": "Ambohijatovo",
+        "street": "Làlana Andriantsihoarana Ratsimbazafy",
+        "lon": 47.54432866141762,
+        "lat": -18.8701428,
+        "formatted": "Coliseum Antsonjombe, Làlana Andriantsihoarana Ratsimbazafy, Ambohijatovo, 100 Antananarivo, Madagascar",
+        "address_line1": "Coliseum Antsonjombe",
+        "address_line2": "Làlana Andriantsihoarana Ratsimbazafy, Ambohijatovo, 100 Antananarivo, Madagascar",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.arts_centre",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Coliseum Antsonjombe",
+            "osm_id": 312408209,
+            "amenity": "arts_centre",
+            "tourism": "artwork",
+            "operator": "Ministre de l'Artisanat, de la Culture et des patrimoines",
+            "osm_type": "w"
+          }
+        },
+        "operator": "Ministre de l'Artisanat, de la Culture et des patrimoines",
+        "place_id": "513688c38facc547405926cbb6adc1de32c0f00102f90191f89e1200000000920314436f6c697365756d20416e74736f6e6a6f6d6265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.54432866141762,
+          -18.870142800452548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Jean Laborde",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Antsahabe",
+        "suburb": "Andohalo",
+        "street": "Làlana Rajoro Justin",
+        "lon": 47.53106390997284,
+        "lat": -18.9180846,
+        "formatted": "Maison Jean Laborde, Làlana Rajoro Justin, Andohalo, 101 Antananarivo, Madagascar",
+        "address_line1": "Maison Jean Laborde",
+        "address_line2": "Làlana Rajoro Justin, Andohalo, 101 Antananarivo, Madagascar",
+        "categories": [
+          "building",
+          "building.tourism",
+          "internet_access",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maison Jean Laborde",
+            "osm_id": 511204759,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "roof:shape": "hipped",
+            "internet_access": "wlan"
+          }
+        },
+        "facilities": {
+          "internet_access": true
+        },
+        "building": {
+          "roof": {
+            "shape": "hipped"
+          }
+        },
+        "place_id": "51a9b5f6e6f9c3474059aae5a59707eb32c0f00102f901975d781e000000009203134d6169736f6e204a65616e204c61626f726465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.531063909972836,
+          -18.918084600450733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portail des voyageurs",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ambavahadimitafo",
+        "street": "Làlana Raonivalo",
+        "lon": 47.5342816,
+        "lat": -18.92063965,
+        "formatted": "Portail des voyageurs, Làlana Raonivalo, Ambavahadimitafo, 101 Antananarivo, Madagascar",
+        "address_line1": "Portail des voyageurs",
+        "address_line2": "Làlana Raonivalo, Ambavahadimitafo, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.city_gate"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Portail des voyageurs",
+            "osm_id": 525106248,
+            "tourism": "attraction",
+            "historic": "city_gate",
+            "osm_type": "w",
+            "addr:city": "Antananarivo",
+            "addr:street": "Làlana Raonivalo"
+          }
+        },
+        "historic": {
+          "type": "city_gate"
+        },
+        "place_id": "51626de75663c44740591a16460aafeb32c0f00102f901487c4c1f00000000920315506f727461696c2064657320766f79616765757273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5342816,
+          -18.92063965045063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandraka Park",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District de Manjakandriana",
+        "city": "Ambatolaona",
+        "hamlet": "Mandraka",
+        "district": "Ambatolaona Est",
+        "street": "N 2",
+        "lon": 47.8927905,
+        "lat": -18.9127518,
+        "formatted": "Mandraka Park, N 2, Ambatolaona, Madagascar",
+        "address_line1": "Mandraka Park",
+        "address_line2": "N 2, Ambatolaona, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mandraka Park",
+            "osm_id": 592485369,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f9d687f546f24740594a4d1c1aaae932c0f00103f901f99b50230000000092030d4d616e6472616b61205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8927905,
+          -18.91275180045094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tombeau de Rainiharo",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Antsahavola",
+        "suburb": "Ampasamadinika",
+        "street": "Arabe Rasoamanarivo Victoire",
+        "lon": 47.51744495,
+        "lat": -18.90967405,
+        "formatted": "Tombeau de Rainiharo, Arabe Rasoamanarivo Victoire, Ampasamadinika, 101 Antananarivo, Madagascar",
+        "address_line1": "Tombeau de Rainiharo",
+        "address_line2": "Arabe Rasoamanarivo Victoire, Ampasamadinika, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tomb"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tombeau de Rainiharo",
+            "osm_id": 595982203,
+            "tourism": "attraction",
+            "historic": "tomb",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "tomb"
+        },
+        "place_id": "517cddd8a23bc247405909b50866e0e832c0f00102f9017bf7852300000000920314546f6d62656175206465205261696e696861726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.51744495,
+          -18.909674050451063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambatondrafandrana",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ambavahadimitafo",
+        "street": "Làlana Raonivalo",
+        "lon": 47.5328539,
+        "lat": -18.9218875,
+        "formatted": "Ambatondrafandrana, Làlana Raonivalo, Ambavahadimitafo, 101 Antananarivo, Madagascar",
+        "address_line1": "Ambatondrafandrana",
+        "address_line2": "Làlana Raonivalo, Ambavahadimitafo, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ambatondrafandrana",
+            "osm_id": 623449826,
+            "name:fr": "Palais de justice de la reine Ranavalona II",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Palais de justice de la reine Ranavalona II"
+        },
+        "place_id": "51e5057d8e34c4474059c506b9d100ec32c0f00103f901e216292500000000920312416d6261746f6e64726166616e6472616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5328539,
+          -18.921887500450584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilot de la sainte vierge",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Atalata Centre",
+        "hamlet": "Ambatosahana",
+        "postcode": "118",
+        "suburb": "Miadanandriana",
+        "street": "N 43",
+        "lon": 46.767166,
+        "lat": -19.07120455,
+        "formatted": "Ilot de la sainte vierge, N 43, Miadanandriana, 118 Atalata Centre, Madagascar",
+        "address_line1": "Ilot de la sainte vierge",
+        "address_line2": "N 43, Miadanandriana, 118 Atalata Centre, Madagascar",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.church"
+        ],
+        "details": [
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ilot de la sainte vierge",
+            "osm_id": 653581404,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "church",
+            "osm_type": "w",
+            "religion": "christian",
+            "denomination": "roman_catholic"
+          }
+        },
+        "building": {
+          "type": "church"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "roman_catholic"
+        },
+        "place_id": "51344dd87e32624740593b7c1f763a1233c0f00102f9015cdcf42600000000920318496c6f74206465206c61207361696e746520766965726765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.767166,
+          -19.071204550444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fasan-dRafotsirabodo",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Atsimondrano",
+        "lon": 47.46905909917982,
+        "lat": -19.0674792,
+        "formatted": "Fasan-dRafotsirabodo, District d'Antananarivo Atsimondrano, Madagascar",
+        "address_line1": "Fasan-dRafotsirabodo",
+        "address_line2": "District d'Antananarivo Atsimondrano, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tomb"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fasan-dRafotsirabodo",
+            "tomb": "mausoleum",
+            "osm_id": 1112539571,
+            "tourism": "attraction",
+            "historic": "tomb",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "tomb"
+        },
+        "place_id": "512c6fe9200abc474059e2111f51461133c0f00102f901b301504200000000920314466173616e2d645261666f7473697261626f646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.469059099179816,
+          -19.067479200444616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Niñas",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ankadikely",
+        "postcode": "103",
+        "suburb": "Ilafy",
+        "street": "route du rova d'ILAFY",
+        "lon": 47.600043310886946,
+        "lat": -18.842031749999997,
+        "formatted": "Casa Niñas, route du rova d'ILAFY, Ilafy, 103 Ankadikely, Madagascar",
+        "address_line1": "Casa Niñas",
+        "address_line2": "route du rova d'ILAFY, Ilafy, 103 Ankadikely, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Casa Niñas",
+            "osm_id": 1280179586,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b3381e38cecc4740594c648e648fd732c0f00102f90182fd4d4c0000000092030b43617361204e69c3b16173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.60004331088694,
+          -18.842031750453586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapasoa Ambatomirahavavy",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Ambatomirahavavy",
+        "street": "N 1",
+        "lon": 47.39265350203192,
+        "lat": -18.939341849999998,
+        "formatted": "Lapasoa Ambatomirahavavy, N 1, Ambatomirahavavy, Madagascar",
+        "address_line1": "Lapasoa Ambatomirahavavy",
+        "address_line2": "N 1, Ambatomirahavavy, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Lapasoa Ambatomirahavavy",
+            "osm_id": 1280878992,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5188f14e7842b24740594a721fb578f032c0f00102f90190a9584c000000009203184c617061736f6120416d6261746f6d697261686176617679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.39265350203192,
+          -18.9393418504499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croc Farm",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Anosiala",
+        "village": "Soamanandray",
+        "postcode": "105",
+        "street": "Route Crocfarm",
+        "lon": 47.4636505,
+        "lat": -18.7845621,
+        "formatted": "Croc Farm, Route Crocfarm, 105 Anosiala, Madagascar",
+        "address_line1": "Croc Farm",
+        "address_line2": "Route Crocfarm, 105 Anosiala, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Croc Farm",
+            "osm_id": 1655926421,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5114234be658bb4740595423d30fd9c832c0f00103f901956eb3620000000092030943726f63204661726d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4636505,
+          -18.78456210045563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espace IMAHO",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "village": "Soavinimerina",
+        "district": "Fiekena",
+        "street": "N 3",
+        "lon": 47.5674657,
+        "lat": -18.7963845,
+        "formatted": "Espace IMAHO, N 3, Ambohimanga Rova, Madagascar",
+        "address_line1": "Espace IMAHO",
+        "address_line2": "N 3, Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Espace IMAHO",
+            "osm_id": 4109380992,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51068d4fb7a2c8474059187fc8dadfcb32c0f00103f901802df0f40000000092030c45737061636520494d41484f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5674657,
+          -18.79638450045522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parc des expos Forello",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "suburb": "Tanjombato",
+        "street": "Rue Général Roland Rabetafika",
+        "housenumber": "Tanjombato",
+        "lon": 47.5181839,
+        "lat": -18.9524876,
+        "formatted": "Parc des expos Forello, Tanjombato Rue Général Roland Rabetafika, Tanjombato, 101 Antananarivo, Madagascar",
+        "address_line1": "Parc des expos Forello",
+        "address_line2": "Tanjombato Rue Général Roland Rabetafika, Tanjombato, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parc des expos Forello",
+            "osm_id": 4109414694,
+            "tourism": "attraction",
+            "operator": "Forello Expo",
+            "osm_type": "n",
+            "addr:city": "Antananarivo",
+            "addr:street": "ZI Forello",
+            "addr:postcode": 101,
+            "addr:housenumber": "Tanjombato"
+          }
+        },
+        "operator": "Forello Expo",
+        "place_id": "5127e89bd953c24740598dc6353ad6f332c0f00103f90126b1f0f4000000009203165061726320646573206578706f7320466f72656c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.51818389999999,
+          -18.952487600449377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manga tokana",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Atsimondrano",
+        "postcode": "102",
+        "suburb": "Ampitatafika",
+        "street": "N 1",
+        "lon": 47.4641906,
+        "lat": -18.9536589,
+        "formatted": "Manga tokana, N 1, Ampitatafika, 102, Madagascar",
+        "address_line1": "Manga tokana",
+        "address_line2": "N 1, Ampitatafika, 102, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Manga tokana",
+            "osm_id": 4186750811,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51290efb986abb47405921f85cfd22f432c0f00103f9015bbf8cf90000000092030c4d616e676120746f6b616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4641906,
+          -18.953658900449344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rn7",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "102",
+        "suburb": "Ankadimbahoaka",
+        "street": "Route Circulaire",
+        "lon": 47.5252991,
+        "lat": -18.9408198,
+        "formatted": "rn7, Route Circulaire, Ankadimbahoaka, 102 Antananarivo, Madagascar",
+        "address_line1": "rn7",
+        "address_line2": "Route Circulaire, Ankadimbahoaka, 102 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "rn7",
+            "osm_id": 4201639490,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51228f3b003dc3474059825c0291d9f032c0f00103f90142ee6ffa00000000920303726e37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5252991,
+          -18.94081980044985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philibert Tsiranana",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Fokontany Andoharano",
+        "suburb": "Anosy",
+        "street": "Làlana Ranaivo Jules",
+        "lon": 47.5212246,
+        "lat": -18.9182127,
+        "formatted": "Philibert Tsiranana, Làlana Ranaivo Jules, Anosy, 101 Antananarivo, Madagascar",
+        "address_line1": "Philibert Tsiranana",
+        "address_line2": "Làlana Ranaivo Jules, Anosy, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Philibert Tsiranana",
+            "osm_id": 4293480789,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51726fd97cb7c24740592e35cffc0feb32c0f00103f9015551e9ff000000009203135068696c69626572742054736972616e616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5212246,
+          -18.91821270045073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambatomitsangana",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "village": "Ambohimanga",
+        "hamlet": "Ambohipihaonana",
+        "district": "Avarakady",
+        "street": "Route d'Ambohimanga",
+        "lon": 47.5654702,
+        "lat": -18.7593986,
+        "formatted": "At the erected stone, Route d'Ambohimanga, Ambohimanga Rova, Madagascar",
+        "address_line1": "At the erected stone",
+        "address_line2": "Route d'Ambohimanga, Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ambatomitsangana",
+            "osm_id": 4293548387,
+            "name:en": "At the erected stone",
+            "name:fr": "À la pierre levée",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "At the erected stone",
+          "fr": "À la pierre levée"
+        },
+        "place_id": "5168eed75361c8474059be9659f267c232c0f00103f9016359eaff00000000920310416d6261746f6d697473616e67616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.56547019999999,
+          -18.7593986004565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jean Metallics",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "suburb": "Ambohitrimanjaka",
+        "street": "Route Ambohitrimanjaka",
+        "lon": 47.446688,
+        "lat": -18.869249,
+        "formatted": "Jean Metallics, Route Ambohitrimanjaka, Ambohitrimanjaka, Madagascar",
+        "address_line1": "Jean Metallics",
+        "address_line2": "Route Ambohitrimanjaka, Ambohitrimanjaka, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jean Metallics",
+            "osm_id": 4341098990,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5101c287122db947405948063d1a87de32c0f00103f901eee9bf020100000092030e4a65616e204d6574616c6c696373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.446688,
+          -18.869249000452584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antainofana",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "suburb": "Ambohitrimanjaka",
+        "lon": 47.4485345,
+        "lat": -18.8722614,
+        "formatted": "Antainofana, Ambohitrimanjaka, District d'Ambohidratrimo, Madagascar",
+        "address_line1": "Antainofana",
+        "address_line2": "Ambohitrimanjaka, District d'Ambohidratrimo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Antainofana",
+            "osm_id": 4341123491,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515850189469b9474059ad81ec854cdf32c0f00103f901a349c0020100000092030b416e7461696e6f66616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.448534499999994,
+          -18.872261400452476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lettres A N T A N A N A R I V O",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ankadilalana",
+        "street": "Escalier Razafindrazay",
+        "lon": 47.5309552,
+        "lat": -18.9218947,
+        "formatted": "Lettres A N T A N A N A R I V O, Escalier Razafindrazay, Ankadilalana, 101 Antananarivo, Madagascar",
+        "address_line1": "Lettres A N T A N A N A R I V O",
+        "address_line2": "Escalier Razafindrazay, Ankadilalana, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lettres A N T A N A N A R I V O",
+            "height": 5,
+            "osm_id": 4605773535,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "advertising": "sign"
+          }
+        },
+        "place_id": "5111d20957f6c34740597dca844a01ec32c0f00103f901df8686120100000092031f4c6574747265732041204e20542041204e2041204e2041205220492056204f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5309552,
+          -18.921894700450583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colline Royale d'Ambohidratrimo",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Ambohidratrimo",
+        "postcode": "105",
+        "suburb": "Mandriambero",
+        "street": "N 4",
+        "lon": 47.441529,
+        "lat": -18.8208473,
+        "formatted": "Colline Royale d'Ambohidratrimo, N 4, Mandriambero, 105 Ambohidratrimo, Madagascar",
+        "address_line1": "Colline Royale d'Ambohidratrimo",
+        "address_line2": "N 4, Mandriambero, 105 Ambohidratrimo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Colline Royale d'Ambohidratrimo",
+            "osm_id": 5415664323,
+            "tourism": "attraction",
+            "historic": "yes",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51279eb30584b84740591b76760c23d232c0f00103f901c37acc420100000092031f436f6c6c696e6520526f79616c65206427416d626f68696472617472696d6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.441528999999996,
+          -18.820847300454357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kijana Tany Mena",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Imerintsiatosika",
+        "street": "N 1",
+        "lon": 47.3066032,
+        "lat": -18.9843726,
+        "formatted": "Kijana Tany Mena, N 1, Imerintsiatosika, Madagascar",
+        "address_line1": "Kijana Tany Mena",
+        "address_line2": "N 1, Imerintsiatosika, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kijana Tany Mena",
+            "osm_id": 6060563827,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51aa6c0ec63ea7474059cd00bed7fffb32c0f00103f90173dd3c69010000009203104b696a616e612054616e79204d656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3066032,
+          -18.984372600448115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Okalou La City",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Ivandry",
+        "postcode": "100",
+        "suburb": "Alarobia",
+        "street": "Làlana Hydrocarbures",
+        "lon": 47.5193652,
+        "lat": -18.8750076,
+        "formatted": "Okalou La City, Làlana Hydrocarbures, Alarobia, 100 Ivandry, Madagascar",
+        "address_line1": "Okalou La City",
+        "address_line2": "Làlana Hydrocarbures, Alarobia, 100 Ivandry, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Okalou La City",
+            "osm_id": 11844416764,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511b57128f7ac2474059c3b1837f00e032c0f00103f901fc74fbc10200000092030e4f6b616c6f75204c612043697479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5193652,
+          -18.875007600452374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espace Kolomahaolo",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Atsimondrano",
+        "postcode": "102",
+        "suburb": "Ampitatafika",
+        "street": "N 1",
+        "lon": 47.4748966,
+        "lat": -18.9303615,
+        "formatted": "Espace Kolomahaolo, N 1, Ampitatafika, 102, Madagascar",
+        "address_line1": "Espace Kolomahaolo",
+        "address_line2": "N 1, Ampitatafika, 102, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Espace Kolomahaolo",
+            "osm_id": 11844416765,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a5fd6a69c9bc4740592de4d92b2cee32c0f00103f901fd74fbc102000000920312457370616365204b6f6c6f6d6168616f6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4748966,
+          -18.93036150045025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanàna Patrakala",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Ambodifasina",
+        "postcode": "105",
+        "street": "Lalana Tsarasaotra-Ivato",
+        "lon": 47.503913,
+        "lat": -18.790127,
+        "formatted": "Tanàna Patrakala, Lalana Tsarasaotra-Ivato, 105 Ambodifasina, Madagascar",
+        "address_line1": "Tanàna Patrakala",
+        "address_line2": "Lalana Tsarasaotra-Ivato, 105 Ambodifasina, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tanàna Patrakala",
+            "osm_id": 11844416768,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51be839f3880c047405987a45ac345ca32c0f00103f9010075fbc10200000092031154616ec3a06e612050617472616b616c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.503913,
+          -18.79012700045544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ilo Park & Fun",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "suburb": "Ambatomanoina",
+        "street": "N 2",
+        "lon": 47.642292,
+        "lat": -18.8769495,
+        "formatted": "Ilo Park & Fun, N 2, Ambatomanoina, Madagascar",
+        "address_line1": "Ilo Park & Fun",
+        "address_line2": "N 2, Ambatomanoina, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ilo Park & Fun",
+            "osm_id": 11844432369,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bf3dcf9f36d2474059a7af30c37fe032c0f00103f901f1b1fbc10200000092030e496c6f205061726b20262046756e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.64229199999999,
+          -18.876949500452294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La ferme d'Antanandrano",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ankadikely",
+        "postcode": "100",
+        "suburb": "Antanety Atsimo",
+        "street": "Cité Fraise",
+        "lon": 47.5356119,
+        "lat": -18.8493951,
+        "formatted": "La ferme d'Antanandrano, Cité Fraise, Antanety Atsimo, 100 Ankadikely, Madagascar",
+        "address_line1": "La ferme d'Antanandrano",
+        "address_line2": "Cité Fraise, Antanety Atsimo, 100 Ankadikely, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La ferme d'Antanandrano",
+            "osm_id": 11844432370,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5198ec44ee8ec447405962d411f571d932c0f00103f901f2b1fbc1020000009203174c61206665726d65206427416e74616e616e6472616e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53561189999999,
+          -18.849395100453314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamakoo Padel center",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Mandrosoa",
+        "postcode": "103",
+        "suburb": "Ankandrina",
+        "street": "Rocade d'Iarivo",
+        "lon": 47.5738123,
+        "lat": -18.882046,
+        "formatted": "Lamakoo Padel center, Rocade d'Iarivo, Ankandrina, 103 Mandrosoa, Madagascar",
+        "address_line1": "Lamakoo Padel center",
+        "address_line2": "Rocade d'Iarivo, Ankandrina, 103 Mandrosoa, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lamakoo Padel center",
+            "osm_id": 11844432371,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51714573ae72c94740596b8245c4cde132c0f00103f901f3b1fbc1020000009203144c616d616b6f6f20506164656c2063656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.57381229999999,
+          -18.882046000452117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oasis Vontovorona",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Atsimondrano",
+        "city": "Alakamisy",
+        "street": "Acces Vahy",
+        "lon": 47.4285006,
+        "lat": -18.9778619,
+        "formatted": "Oasis Vontovorona, Acces Vahy, Alakamisy, Madagascar",
+        "address_line1": "Oasis Vontovorona",
+        "address_line2": "Acces Vahy, Alakamisy, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Oasis Vontovorona",
+            "osm_id": 11844432373,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517ea88f1bd9b64740591e6e522855fa32c0f00103f901f5b1fbc1020000009203114f6173697320566f6e746f766f726f6e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.42850059999999,
+          -18.977861900448367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oceanis Park",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Anosiala",
+        "village": "Andakana",
+        "district": "Anjanamasina",
+        "street": "N 4",
+        "lon": 47.4243678,
+        "lat": -18.7701752,
+        "formatted": "Oceanis Park, N 4, Anosiala, Madagascar",
+        "address_line1": "Oceanis Park",
+        "address_line2": "N 4, Anosiala, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Oceanis Park",
+            "osm_id": 11844432374,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51db3c1faf51b64740593b26b2332ac532c0f00103f901f6b1fbc10200000092030c4f6365616e6973205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.42436779999999,
+          -18.770175200456134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lemurs park",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Katsaoka",
+        "street": "N 1",
+        "lon": 47.3586487,
+        "lat": -18.9543265,
+        "formatted": "Lemurs park, N 1, Katsaoka, Madagascar",
+        "address_line1": "Lemurs park",
+        "address_line2": "N 1, Katsaoka, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lemurs park",
+            "osm_id": 11844432375,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5160a05a33e8ad474059cc22d5bd4ef432c0f00103f901f7b1fbc10200000092030b4c656d757273207061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3586487,
+          -18.954326500449312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "T-T MADADISCOVER",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "103",
+        "district": "Fort Duchesne",
+        "suburb": "Ampandrianomby",
+        "street": "Lalana Farafaty",
+        "lon": 47.5521996,
+        "lat": -18.9050658,
+        "formatted": "T-T MADADISCOVER, Lalana Farafaty, Ampandrianomby, 103 Antananarivo, Madagascar",
+        "address_line1": "T-T MADADISCOVER",
+        "address_line2": "Lalana Farafaty, Ampandrianomby, 103 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "T-T MADADISCOVER",
+            "osm_id": 11873545262,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a16efb79aec647405987aa6d64b2e732c0f00103f9012eecb7c302000000920310542d54204d414441444953434f564552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5521996,
+          -18.905065800451236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tourisme Aventure Madagascar",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Mandrosoa",
+        "postcode": "100",
+        "suburb": "Ambatobe",
+        "street": "N 3",
+        "lon": 47.5519063,
+        "lat": -18.871743,
+        "formatted": "Tourisme Aventure Madagascar, N 3, Ambatobe, 100 Mandrosoa, Madagascar",
+        "address_line1": "Tourisme Aventure Madagascar",
+        "address_line2": "N 3, Ambatobe, 100 Mandrosoa, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tourisme Aventure Madagascar",
+            "osm_id": 11873545263,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516a7a9adda4c6474059dc759d8c2adf32c0f00103f9012fecb7c30200000092031c546f757269736d65204176656e74757265204d616461676173636172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5519063,
+          -18.871743000452497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "le Chat'o Park Hotel",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "postcode": "105",
+        "suburb": "Ivato",
+        "street": "N 52",
+        "lon": 47.4707525,
+        "lat": -18.8069029,
+        "formatted": "le Chat'o Park Hotel, N 52, Ivato, 105, Madagascar",
+        "address_line1": "le Chat'o Park Hotel",
+        "address_line2": "N 52, Ivato, 105, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "le Chat'o Park Hotel",
+            "osm_id": 11883169488,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514f01309e41bc4740594b80403091ce32c0f00103f901d0c64ac4020000009203146c652043686174276f205061726b20486f74656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.470752499999996,
+          -18.806902900454855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tana Beach",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Antanambao",
+        "hamlet": "Ambodifahitra",
+        "district": "Ambatondralambo",
+        "street": "N 3",
+        "lon": 47.608624,
+        "lat": -18.7745144,
+        "formatted": "Tana Beach, N 3, Antanambao, Madagascar",
+        "address_line1": "Tana Beach",
+        "address_line2": "N 3, Antanambao, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tana Beach",
+            "osm_id": 11886148811,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c5c72764e7cd474059503d649346c632c0f00103f901cb3c78c40200000092030a54616e61204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.608624,
+          -18.774514400455985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ESPACE Le Chandelier",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Ambatomirahavavy",
+        "street": "N 1",
+        "lon": 47.3881151,
+        "lat": -18.9357132,
+        "formatted": "ESPACE Le Chandelier, N 1, Ambatomirahavavy, Madagascar",
+        "address_line1": "ESPACE Le Chandelier",
+        "address_line2": "N 1, Ambatomirahavavy, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ESPACE Le Chandelier",
+            "osm_id": 11889096483,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b9ca6ec1adb1474059525e7ae68aef32c0f00103f9012337a5c402000000920314455350414345204c65204368616e64656c696572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3881151,
+          -18.935713200450046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fa Loisirs Imerintsiatosika",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Imerintsiatosika",
+        "street": "N 1",
+        "lon": 47.3289937,
+        "lat": -18.9785731,
+        "formatted": "Fa Loisirs Imerintsiatosika, N 1, Imerintsiatosika, Madagascar",
+        "address_line1": "Fa Loisirs Imerintsiatosika",
+        "address_line2": "N 1, Imerintsiatosika, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fa Loisirs Imerintsiatosika",
+            "osm_id": 11889096645,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51850b2f771caa474059c22b47c483fa32c0f00103f901c537a5c40200000092031b4661204c6f697369727320496d6572696e74736961746f73696b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.32899369999999,
+          -18.978573100448337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espace Villa Hasimbola",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Beronono",
+        "street": "N 1",
+        "lon": 47.3426886,
+        "lat": -18.9691309,
+        "formatted": "Espace Villa Hasimbola, N 1, Beronono, Madagascar",
+        "address_line1": "Espace Villa Hasimbola",
+        "address_line2": "N 1, Beronono, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Espace Villa Hasimbola",
+            "osm_id": 11889096648,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5124db5438ddab47405964f872f618f832c0f00103f901c837a5c4020000009203164573706163652056696c6c6120486173696d626f6c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3426886,
+          -18.969130900448718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "I Love Antananarivo Sign",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Antsahavola",
+        "suburb": "Soarano",
+        "street": "Araben'ny Fahaleovantena",
+        "lon": 47.5235776,
+        "lat": -18.9053147,
+        "formatted": "I Love Antananarivo Sign, Araben'ny Fahaleovantena, Soarano, 101 Antananarivo, Madagascar",
+        "address_line1": "I Love Antananarivo Sign",
+        "address_line2": "Araben'ny Fahaleovantena, Soarano, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "I Love Antananarivo Sign",
+            "osm_id": 12262987201,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5186753e9704c3474059ad0647b4c2e732c0f00103f901c155eeda0200000092031849204c6f766520416e74616e616e617269766f205369676e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.523577599999996,
+          -18.905314700451232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue vierge Marie",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Vakinankaratra",
+        "city": "Faratsiho",
+        "street": "N 43",
+        "lon": 46.964674,
+        "lat": -19.434868,
+        "formatted": "Statue vierge Marie, N 43, Faratsiho, Madagascar",
+        "address_line1": "Statue vierge Marie",
+        "address_line2": "N 43, Faratsiho, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statue vierge Marie",
+            "osm_id": 12470872381,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5197a608707a7b474059d5e85f82536f33c0f00103f9013d6952e70200000092031353746174756520766965726765204d61726965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.964673999999995,
+          -19.43486800042668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ambavahadimitafo",
+        "street": "Làlana Raonivalo",
+        "lon": 47.53289110783208,
+        "lat": -18.920813850000002,
+        "formatted": "Làlana Raonivalo, Ambavahadimitafo, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Raonivalo",
+        "address_line2": "Ambavahadimitafo, 101 Antananarivo, Madagascar",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 521975906,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "yes",
+            "osm_type": "w",
+            "building:material": "stone"
+          }
+        },
+        "building": {
+          "material": "stone"
+        },
+        "place_id": "51e73b9cc635c4474059a763dd74baeb32c0f00102f90162b81c1f00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53289110783208,
+          -18.920813850450624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Antsahabe",
+        "suburb": "Ambohimanoro",
+        "street": "Làlana Ravelojaona",
+        "lon": 47.53229,
+        "lat": -18.9192851,
+        "formatted": "Làlana Ravelojaona, Ambohimanoro, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Ravelojaona",
+        "address_line2": "Ambohimanoro, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 623449815,
+            "barrier": "sally_port",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5171fe261422c4474059c222b24456eb32c0f00103f901d716292500000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.532289999999996,
+          -18.919285100450686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "105",
+        "suburb": "Ambohidavampaliarivolasamarenina",
+        "street": "Impasse non carrossable du Geek averti",
+        "lon": 47.4836234,
+        "lat": -18.8544763,
+        "formatted": "Impasse non carrossable du Geek averti, Ambohidavampaliarivolasamarenina, 105 Antananarivo, Madagascar",
+        "address_line1": "Impasse non carrossable du Geek averti",
+        "address_line2": "Ambohidavampaliarivolasamarenina, 105 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 673375494,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51484a1f5fe7bd4740593da775f5beda32c0f00103f90106e5222800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4836234,
+          -18.854476300453133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ankadilalana",
+        "street": "Làlana Dokotera Ralarosy",
+        "lon": 47.5310917,
+        "lat": -18.9244391,
+        "formatted": "Làlana Dokotera Ralarosy, Ankadilalana, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Dokotera Ralarosy",
+        "address_line2": "Ankadilalana, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 679759110,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a95615d0fac34740591794770aa8ec32c0f00103f901064d842800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5310917,
+          -18.92443910045048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Andasibe",
+        "hamlet": "Ambanitavy",
+        "street": "N 43",
+        "lon": 46.6841799,
+        "lat": -19.0315341,
+        "formatted": "N 43, Andasibe, Madagascar",
+        "address_line1": "N 43",
+        "address_line2": "Andasibe, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2407682477,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 93
+          }
+        },
+        "place_id": "514e8afb349357474059ff1f6a9e120833c0f00103f901ad51828f00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.68417989999999,
+          -19.031534100446148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "village": "Ambohimanga",
+        "district": "Alakamisy",
+        "street": "Route d'Ambohimanga",
+        "lon": 47.5628695,
+        "lat": -18.7609641,
+        "formatted": "Route d'Ambohimanga, Ambohimanga Rova, Madagascar",
+        "address_line1": "Route d'Ambohimanga",
+        "address_line2": "Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2407755431,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513a35971b0cc8474059f7e3148bcec232c0f00103f901a76e838f00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.56286949999999,
+          -18.760964100456444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "102",
+        "suburb": "Saropody",
+        "street": "Bretelle",
+        "lon": 47.5415794,
+        "lat": -18.9466188,
+        "formatted": "Bretelle, Saropody, 102 Antananarivo, Madagascar",
+        "address_line1": "Bretelle",
+        "address_line2": "Saropody, 102 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4398472395,
+            "name:fr": "TV PLUS",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "TV PLUS"
+        },
+        "place_id": "51fa97497952c5474059b8b5159c55f232c0f00103f901cb5c2b0601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5415794,
+          -18.946618800449613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Anosiala",
+        "village": "Soamanandray",
+        "postcode": "105",
+        "street": "Route Crocfarm",
+        "lon": 47.4613133,
+        "lat": -18.797312,
+        "formatted": "Route Crocfarm, 105 Anosiala, Madagascar",
+        "address_line1": "Route Crocfarm",
+        "address_line2": "105 Anosiala, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4465098609,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51db5a70500cbb474059d1a9a6a31ccc32c0f00103f90171ff230a01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.46131329999999,
+          -18.797312000455182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "103",
+        "district": "Fort Duchesne",
+        "suburb": "Ampandrianomby",
+        "street": "Lalana Farafaty",
+        "lon": 47.5491117,
+        "lat": -18.9076587,
+        "formatted": "Lalana Farafaty, Ampandrianomby, 103 Antananarivo, Madagascar",
+        "address_line1": "Lalana Farafaty",
+        "address_line2": "Ampandrianomby, 103 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4490575890,
+            "name:fr": "Sitraka",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Sitraka"
+        },
+        "place_id": "51ecaccc4a49c6474059145e12525ce832c0f00103f90112c0a80b01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5491117,
+          -18.907658700451137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Anosiala",
+        "village": "Andakana",
+        "hamlet": "Ankazo",
+        "street": "N 4",
+        "lon": 47.3924161,
+        "lat": -18.7807553,
+        "formatted": "N 4, Anosiala, Madagascar",
+        "address_line1": "N 4",
+        "address_line2": "Anosiala, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4551508791,
+            "name:fr": "Espace sous-bois",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Espace sous-bois"
+        },
+        "place_id": "5141f6d5b03ab2474059dca25194dfc732c0f00103f90137834a0f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3924161,
+          -18.780755300455766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Miarinarivo I",
+        "town": "Miarinarivo",
+        "postcode": "117",
+        "district": "Andohavary",
+        "suburb": "Ampaisokely",
+        "street": "N 1",
+        "lon": 46.9034934,
+        "lat": -18.9546833,
+        "formatted": "N 1, Ampaisokely, 117 Miarinarivo I, Madagascar",
+        "address_line1": "N 1",
+        "address_line2": "Ampaisokely, 117 Miarinarivo I, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4683744489,
+            "name:fr": "Antserantsoa",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Antserantsoa"
+        },
+        "place_id": "517093f6aba5734740599377f11f66f432c0f00103f901e9442c1701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.9034934,
+          -18.9546833004493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Titanic Texas Ankatso I",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "103",
+        "suburb": "Ambolonkandrina",
+        "quarter": "Antsahamamy",
+        "street": "Ambohipo - Ambolonkandrina",
+        "lon": 47.553955,
+        "lat": -18.921865,
+        "formatted": "Titanic Texas Ankatso I, Ambohipo - Ambolonkandrina, Ambolonkandrina, 103 Antananarivo, Madagascar",
+        "address_line1": "Titanic Texas Ankatso I",
+        "address_line2": "Ambohipo - Ambolonkandrina, Ambolonkandrina, 103 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4693164190,
+            "name:en": "Titanic Texas Ankatso I",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Titanic Texas Ankatso I"
+        },
+        "place_id": "51533a58ffe7c647405929433c58ffeb32c0f00103f9019e00bc1701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.553954999999995,
+          -18.921865000450598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District de Manjakandriana",
+        "city": "Mantasoa",
+        "lon": 47.8872136,
+        "lat": -18.9900466,
+        "formatted": "Mantasoa, District de Manjakandriana, Madagascar",
+        "address_line1": "Mantasoa",
+        "address_line2": "District de Manjakandriana, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4743656126,
+            "name:zh": "曼陀罗山庄",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "zh": "曼陀罗山庄"
+        },
+        "place_id": "5181481a3790f14740598770aab173fd32c0f00103f901be72be1a01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8872136,
+          -18.990046600447865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMA (Association Malgache des Architecture",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Mandrosoa",
+        "postcode": "103",
+        "suburb": "Masinandriana",
+        "street": "downhill track (easy)",
+        "lon": 47.5689913,
+        "lat": -18.8763389,
+        "formatted": "AMA (Association Malgache des Architecture, downhill track (easy), Masinandriana, 103 Mandrosoa, Madagascar",
+        "address_line1": "AMA (Association Malgache des Architecture",
+        "address_line2": "downhill track (easy), Masinandriana, 103 Mandrosoa, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4808987621,
+            "name:en": "AMA (Association Malgache des Architecture",
+            "name:fr": "AMA (Association Malgache des Architecture",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "AMA (Association Malgache des Architecture",
+          "fr": "AMA (Association Malgache des Architecture"
+        },
+        "place_id": "51b19af8b4d4c8474059c4a705bf57e032c0f00103f901e553a31e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5689913,
+          -18.876338900452325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "100",
+        "suburb": "Andranobevava",
+        "street": "Làlana Marais Masay",
+        "lon": 47.5306507,
+        "lat": -18.8777363,
+        "formatted": "Làlana Marais Masay, Andranobevava, 100 Antananarivo, Madagascar",
+        "address_line1": "Làlana Marais Masay",
+        "address_line2": "Andranobevava, 100 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4879121527,
+            "name:fr": "Hilka",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Hilka"
+        },
+        "place_id": "51bd0cb55cecc34740595cf48053b3e032c0f00103f901777cd12201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5306507,
+          -18.87773630045227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Ambohimitsinjo",
+        "postcode": "100",
+        "district": "Golan",
+        "suburb": "Ambohimanandray",
+        "street": "Ambohimitsinjo Ambony",
+        "lon": 47.49423,
+        "lat": -18.8737659,
+        "formatted": "Ambohimitsinjo Ambony, Ambohimanandray, 100 Ambohimitsinjo, Madagascar",
+        "address_line1": "Ambohimitsinjo Ambony",
+        "address_line2": "Ambohimanandray, 100 Ambohimitsinjo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4879121528,
+            "name:fr": "Nofy",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Nofy"
+        },
+        "place_id": "51de59bbed42bf4740599acd3e1fafdf32c0f00103f901787cd12201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.49423,
+          -18.87376590045242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Bel'air",
+        "suburb": "Ambodimanga",
+        "street": "Làlana Gilbert Desvallons",
+        "lon": 47.5389801,
+        "lat": -18.8999679,
+        "formatted": "Làlana Gilbert Desvallons, Ambodimanga, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Gilbert Desvallons",
+        "address_line2": "Ambodimanga, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4879127925,
+            "name:fr": "Tamby",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Tamby"
+        },
+        "place_id": "51ef58c74cfdc447405981e3db4b64e632c0f00103f9017595d12201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.538980099999996,
+          -18.899967900451433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "103",
+        "district": "Fort Duchesne",
+        "suburb": "Tsiadana",
+        "street": "Arabe Jeneraly Charles de Gaulle",
+        "lon": 47.5470973,
+        "lat": -18.917136,
+        "formatted": "Arabe Jeneraly Charles de Gaulle, Tsiadana, 103 Antananarivo, Madagascar",
+        "address_line1": "Arabe Jeneraly Charles de Gaulle",
+        "address_line2": "Tsiadana, 103 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4879127926,
+            "name:fr": "Billy",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Billy"
+        },
+        "place_id": "516d9dc94807c64740599bebc76cc9ea32c0f00103f9017695d12201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5470973,
+          -18.91713600045078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Ambohidratrimo",
+        "city": "Antanetibe Zazamanga",
+        "lon": 47.4780784,
+        "lat": -18.6584943,
+        "formatted": "Antanetibe Zazamanga, District d'Ambohidratrimo, Madagascar",
+        "address_line1": "Antanetibe Zazamanga",
+        "address_line2": "District d'Ambohidratrimo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5045154623,
+            "name:fr": "Antanetibe Zazamanga",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Antanetibe Zazamanga"
+        },
+        "place_id": "5146764aac31bd474059b7131d1593a832c0f00103f9013ff3b62c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4780784,
+          -18.658494300459747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterfall",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Marovoalavo",
+        "hamlet": "Tsaralalàna?",
+        "street": "N 1b",
+        "lon": 46.6599249,
+        "lat": -19.0123431,
+        "formatted": "Waterfall, N 1b, Marovoalavo, Madagascar",
+        "address_line1": "Waterfall",
+        "address_line2": "N 1b, Marovoalavo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5163319221,
+            "name:en": "Waterfall",
+            "name:fr": "Cascade",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Waterfall",
+          "fr": "Cascade"
+        },
+        "place_id": "5175a84b6b785447405939c0dcea280333c0f00103f901b5ffc13301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6599249,
+          -19.012343100446945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Atsimondrano",
+        "city": "Fenoarivo",
+        "suburb": "Malaza",
+        "street": "N 1",
+        "lon": 47.4452405,
+        "lat": -18.9411802,
+        "formatted": "N 1, Malaza, Fenoarivo, Madagascar",
+        "address_line1": "N 1",
+        "address_line2": "Malaza, Fenoarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5503475022,
+            "name:fr": "Espace AREA",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Espace AREA"
+        },
+        "place_id": "51662d05a4fdb84740592293842ff1f032c0f00103f9014e5d084801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4452405,
+          -18.94118020044983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ECAR Verbe Divin Ambatobe",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Mandrosoa",
+        "postcode": "103",
+        "suburb": "Ambatobe",
+        "street": "Làlana Ambatobe",
+        "lon": 47.5579881,
+        "lat": -18.8737258,
+        "formatted": "ECAR Verbe Divin Ambatobe, Làlana Ambatobe, Ambatobe, 103 Mandrosoa, Madagascar",
+        "address_line1": "ECAR Verbe Divin Ambatobe",
+        "address_line2": "Làlana Ambatobe, Ambatobe, 103 Mandrosoa, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5664364521,
+            "name:en": "ECAR Verbe Divin Ambatobe",
+            "name:fr": "ECAR Verbe Divin Ambatobe",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "ECAR Verbe Divin Ambatobe",
+          "fr": "ECAR Verbe Divin Ambatobe"
+        },
+        "place_id": "51528770276cc7474059539d7a7eacdf32c0f00103f901e9579f5101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5579881,
+          -18.873725800452416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimangakely",
+        "postcode": "103",
+        "district": "Village Akamasoa",
+        "suburb": "Ambohimahitsy",
+        "street": "N 2",
+        "lon": 47.5750191,
+        "lat": -18.8951247,
+        "formatted": "N 2, Ambohimahitsy, 103 Ambohimangakely, Madagascar",
+        "address_line1": "N 2",
+        "address_line2": "Ambohimahitsy, 103 Ambohimangakely, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6043311285,
+            "name:fr": "Manantenasoa",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Manantenasoa"
+        },
+        "place_id": "51a589d2399ac94740590f4872e426e532c0f00103f901b59c356801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5750191,
+          -18.895124700451614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Alaotra-Mangoro",
+        "county": "District de Manjakandriana",
+        "city": "Ambatolaona",
+        "hamlet": "Mandraka",
+        "district": "Ambatolaona Est",
+        "street": "N 2",
+        "lon": 47.9409885,
+        "lat": -18.9269151,
+        "formatted": "N 2, Ambatolaona, Madagascar",
+        "address_line1": "N 2",
+        "address_line2": "Ambatolaona, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6089839417,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "NE"
+          }
+        },
+        "place_id": "51c0b4a84f72f84740595c9ada4e4aed32c0f00103f9013993fb6a01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9409885,
+          -18.926915100450387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karting",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Beronono",
+        "street": "N 1",
+        "lon": 47.3398295,
+        "lat": -18.9661909,
+        "formatted": "Karting, N 1, Beronono, Madagascar",
+        "address_line1": "Karting",
+        "address_line2": "N 1, Beronono, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6293502786,
+            "name:en": "Karting",
+            "name:fr": "Karting",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Karting",
+          "fr": "Karting"
+        },
+        "place_id": "51a65b76887fab474059dc1e6f4958f732c0f00103f901423b1f7701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.33982949999999,
+          -18.966190900448836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokanga",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ambohimitsimbina",
+        "street": "Làlana Dokotera Ralarosy",
+        "lon": 47.5306469,
+        "lat": -18.9256826,
+        "formatted": "Lokanga, Làlana Dokotera Ralarosy, Ambohimitsimbina, 101 Antananarivo, Madagascar",
+        "address_line1": "Lokanga",
+        "address_line2": "Làlana Dokotera Ralarosy, Ambohimitsimbina, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339492086,
+            "name:en": "Lokanga",
+            "name:fr": "Lokanga",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Lokanga",
+          "fr": "Lokanga"
+        },
+        "place_id": "51a59cd43cecc34740593169ef88f9ec32c0f00103f901f6f8dc7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5306469,
+          -18.925682600450447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambohimitsimbina",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ambohimitsimbina",
+        "street": "Làlana Dokotera Ralarosy",
+        "lon": 47.5319744,
+        "lat": -18.9319974,
+        "formatted": "Làlana Dokotera Ralarosy, Ambohimitsimbina, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Dokotera Ralarosy",
+        "address_line2": "Ambohimitsimbina, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339492087,
+            "name:en": "Ambohimitsimbina",
+            "name:fr": "Ambohimitsimbina",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ambohimitsimbina",
+          "fr": "Ambohimitsimbina"
+        },
+        "place_id": "519527b5bc17c4474059fee3b26197ee32c0f00103f901f7f8dc7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5319744,
+          -18.931997400450193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampamarinana",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ankadilalana",
+        "street": "Escalier Razafindrazay",
+        "lon": 47.5312519,
+        "lat": -18.9219208,
+        "formatted": "Ampamarinana, Escalier Razafindrazay, Ankadilalana, 101 Antananarivo, Madagascar",
+        "address_line1": "Ampamarinana",
+        "address_line2": "Escalier Razafindrazay, Ankadilalana, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339492088,
+            "name:en": "Ampamarinana",
+            "name:fr": "Ampamarinana",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ampamarinana",
+          "fr": "Ampamarinana"
+        },
+        "place_id": "510c38f00f00c4474059f96f670003ec32c0f00103f901f8f8dc7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5312519,
+          -18.921920800450582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Hotel Urban",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Antsahabe",
+        "suburb": "Ambatovinaky",
+        "street": "Làlana Tsiombikibo",
+        "lon": 47.5286096,
+        "lat": -18.9136048,
+        "formatted": "Grand Hotel Urban, Làlana Tsiombikibo, Ambatovinaky, 101 Antananarivo, Madagascar",
+        "address_line1": "Grand Hotel Urban",
+        "address_line2": "Làlana Tsiombikibo, Ambatovinaky, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339492089,
+            "name:en": "Grand Hotel Urban",
+            "name:fr": "Grand Hotel Urban",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Grand Hotel Urban",
+          "fr": "Grand Hotel Urban"
+        },
+        "place_id": "51032db87aa9c3474059c1671301e2e932c0f00103f901f9f8dc7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5286096,
+          -18.913604800450916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsiky Restaurant Hotel",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Fokontany Vohijoky",
+        "suburb": "Ambohijatovo",
+        "street": "Làlana Ramelina",
+        "lon": 47.5279193,
+        "lat": -18.9111899,
+        "formatted": "Tsiky Restaurant Hotel, Làlana Ramelina, Ambohijatovo, 101 Antananarivo, Madagascar",
+        "address_line1": "Tsiky Restaurant Hotel",
+        "address_line2": "Làlana Ramelina, Ambohijatovo, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339492090,
+            "name:en": "Tsiky Restaurant Hotel",
+            "name:fr": "Tsiky Restaurant Hotel",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tsiky Restaurant Hotel",
+          "fr": "Tsiky Restaurant Hotel"
+        },
+        "place_id": "51b03610dc92c3474059ede1c6bd43e932c0f00103f901faf8dc7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.52791930000001,
+          -18.911189900450996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andohalo",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Antsahabe",
+        "suburb": "Andohalo",
+        "street": "Làlana RP Venance Manifatra",
+        "lon": 47.530081,
+        "lat": -18.9167101,
+        "formatted": "Làlana RP Venance Manifatra, Andohalo, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana RP Venance Manifatra",
+        "address_line2": "Andohalo, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339500486,
+            "name:en": "Andohalo",
+            "name:fr": "Andohalo",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Andohalo",
+          "fr": "Andohalo"
+        },
+        "place_id": "51919db7b1d9c347405958595d83adea32c0f00103f901c619dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.530081,
+          -18.916710100450786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamboho Suite",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Fokontany Vohijoky",
+        "suburb": "Ambatonakanga",
+        "street": "Làlana Rahamefy Samuel",
+        "lon": 47.5283012,
+        "lat": -18.9126597,
+        "formatted": "Tamboho Suite, Làlana Rahamefy Samuel, Ambatonakanga, 101 Antananarivo, Madagascar",
+        "address_line1": "Tamboho Suite",
+        "address_line2": "Làlana Rahamefy Samuel, Ambatonakanga, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339500487,
+            "name:en": "Tamboho Suite",
+            "name:fr": "Tamboho Suite",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tamboho Suite",
+          "fr": "Tamboho Suite"
+        },
+        "place_id": "510138ac5f9fc347405961d0ed10a4e932c0f00103f901c719dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.528301199999994,
+          -18.91265970045095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambatovinaky",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Fokontany Vohijoky",
+        "suburb": "Ambatovinaky",
+        "street": "Làlana Printsy Ratefinanahary",
+        "lon": 47.528819,
+        "lat": -18.91458,
+        "formatted": "Làlana Printsy Ratefinanahary, Ambatovinaky, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Printsy Ratefinanahary",
+        "address_line2": "Ambatovinaky, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339506785,
+            "name:en": "Ambatovinaky",
+            "name:fr": "Ambatovinaky",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ambatovinaky",
+          "fr": "Ambatovinaky"
+        },
+        "place_id": "5170404b57b0c34740591e8337ea21ea32c0f00103f9016132dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.528819,
+          -18.914580000450876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planète Terrasse",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Fokontany Vohijoky",
+        "suburb": "Mandrosoa",
+        "street": "Làlana Sadiavahy",
+        "lon": 47.527965,
+        "lat": -18.9109189,
+        "formatted": "Planète Terrasse, Làlana Sadiavahy, Mandrosoa, 101 Antananarivo, Madagascar",
+        "address_line1": "Planète Terrasse",
+        "address_line2": "Làlana Sadiavahy, Mandrosoa, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339506885,
+            "name:en": "Planète Terrasse",
+            "name:fr": "Planète terrasse",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Planète Terrasse",
+          "fr": "Planète terrasse"
+        },
+        "place_id": "5161376c5b94c3474059d0be26fb31e932c0f00103f901c532dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.527965,
+          -18.91091890045101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Fokontany Vohijoky",
+        "suburb": "Ambatovinaky",
+        "street": "Làlana Printsy Ratefinanahary",
+        "lon": 47.528895,
+        "lat": -18.9146352,
+        "formatted": "Làlana Printsy Ratefinanahary, Ambatovinaky, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Printsy Ratefinanahary",
+        "address_line2": "Ambatovinaky, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339514486,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514c02d4d4b2c3474059f7b4518825ea32c0f00103f9017650dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.528895000000006,
+          -18.91463520045087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ankadilalana",
+        "street": "Escalier Razafindrazay",
+        "lon": 47.5312746,
+        "lat": -18.921907,
+        "formatted": "Escalier Razafindrazay, Ankadilalana, 101 Antananarivo, Madagascar",
+        "address_line1": "Escalier Razafindrazay",
+        "address_line2": "Ankadilalana, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339514585,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5107195cce00c447405983e3e01802ec32c0f00103f901d950dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53127460000001,
+          -18.921907000450584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Ambohimitsimbina",
+        "street": "Làlana Dokotera Ralarosy",
+        "lon": 47.5306654,
+        "lat": -18.9256548,
+        "formatted": "Làlana Dokotera Ralarosy, Ambohimitsimbina, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Dokotera Ralarosy",
+        "address_line2": "Ambohimitsimbina, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339514586,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51320f05d8ecc3474059f15187b6f7ec32c0f00103f901da50dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53066539999999,
+          -18.92565480045045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Antsahabe",
+        "suburb": "Andohalo",
+        "street": "Làlana RP Venance Manifatra",
+        "lon": 47.5301302,
+        "lat": -18.9168062,
+        "formatted": "Làlana RP Venance Manifatra, Andohalo, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana RP Venance Manifatra",
+        "address_line2": "Andohalo, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339514685,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519ccf6f4edbc3474059c8b4a7cfb3ea32c0f00103f9013d51dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5301302,
+          -18.916806200450793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Fokontany Vohijoky",
+        "suburb": "Ambohijatovo",
+        "street": "Làlana Ramelina",
+        "lon": 47.5279389,
+        "lat": -18.9111714,
+        "formatted": "Làlana Ramelina, Ambohijatovo, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Ramelina",
+        "address_line2": "Ambohijatovo, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6339514686,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a2e47a8093c3474059d1fc658742e932c0f00103f9013e51dd7901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.527938899999995,
+          -18.911171400451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Itasy Region",
+        "city": "Beronono",
+        "street": "N 1",
+        "lon": 47.3281113,
+        "lat": -18.9752637,
+        "formatted": "N 1, Beronono, Madagascar",
+        "address_line1": "N 1",
+        "address_line2": "Beronono, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6396197793,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515a79138dffa9474059f166c2e1aaf932c0f00103f901a13b3e7d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.3281113,
+          -18.97526370044847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "hamlet": "Ambohitrinimanga",
+        "street": "Route Tsarasaotra-Anosy Avaratra",
+        "lon": 47.5358758,
+        "lat": -18.8248449,
+        "formatted": "Route Tsarasaotra-Anosy Avaratra, Ambohimanga Rova, Madagascar",
+        "address_line1": "Route Tsarasaotra-Anosy Avaratra",
+        "address_line2": "Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6494745088,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e2db059497c447405924b90f0929d332c0f00103f90100f21d8301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5358758,
+          -18.82484490045421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "hamlet": "Ambohitrinimanga",
+        "street": "Route Tsarasaotra-Anosy Avaratra",
+        "lon": 47.5369225,
+        "lat": -18.8259329,
+        "formatted": "Route Tsarasaotra-Anosy Avaratra, Ambohimanga Rova, Madagascar",
+        "address_line1": "Route Tsarasaotra-Anosy Avaratra",
+        "address_line2": "Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6494745089,
+            "name:fr": "Terrain 871",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Terrain 871"
+        },
+        "place_id": "5148fe60e0b9c44740591f24ac5670d332c0f00103f90101f21d8301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5369225,
+          -18.825932900454173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Alasora",
+        "suburb": "Ambohidrazaka",
+        "street": "Route d'Alasora",
+        "lon": 47.563139,
+        "lat": -18.9685967,
+        "formatted": "Route d'Alasora, Ambohidrazaka, Alasora, Madagascar",
+        "address_line1": "Route d'Alasora",
+        "address_line2": "Ambohidrazaka, Alasora, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6494745090,
+            "name:fr": "Terrain tantely",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Terrain tantely"
+        },
+        "place_id": "51130d52f014c8474059da700ff4f5f732c0f00103f90102f21d8301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.563139,
+          -18.968596700448735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "hamlet": "Ambohitrinimanga",
+        "street": "Route Tsarasaotra-Anosy Avaratra",
+        "lon": 47.5358965,
+        "lat": -18.8247836,
+        "formatted": "Route Tsarasaotra-Anosy Avaratra, Ambohimanga Rova, Madagascar",
+        "address_line1": "Route Tsarasaotra-Anosy Avaratra",
+        "address_line2": "Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6494745091,
+            "name:fr": "Mamabe 723",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Mamabe 723"
+        },
+        "place_id": "513bc5aa4198c44740595d3a9e0425d332c0f00103f90103f21d8301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5358965,
+          -18.824783600454214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "hamlet": "Ambohitrinimanga",
+        "street": "Route Tsarasaotra-Anosy Avaratra",
+        "lon": 47.5337445,
+        "lat": -18.8250501,
+        "formatted": "Route Tsarasaotra-Anosy Avaratra, Ambohimanga Rova, Madagascar",
+        "address_line1": "Route Tsarasaotra-Anosy Avaratra",
+        "address_line2": "Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6494786387,
+            "name:fr": "Terrain à voir",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Terrain à voir"
+        },
+        "place_id": "51bef561bd51c44740592603bf7b36d332c0f00103f90153931e8301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5337445,
+          -18.8250501004542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "hamlet": "Ambohitrinimanga",
+        "street": "Route Tsarasaotra-Anosy Avaratra",
+        "lon": 47.5349954,
+        "lat": -18.8245688,
+        "formatted": "Route Tsarasaotra-Anosy Avaratra, Ambohimanga Rova, Madagascar",
+        "address_line1": "Route Tsarasaotra-Anosy Avaratra",
+        "address_line2": "Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6494786388,
+            "name:fr": "Terrain 507",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Terrain 507"
+        },
+        "place_id": "515541b1ba7ac4474059bb40dff016d332c0f00103f90154931e8301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53499539999999,
+          -18.824568800454227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimanga Rova",
+        "village": "Soavinimerina",
+        "district": "Fiekena",
+        "street": "N 3",
+        "housenumber": "855 ter",
+        "lon": 47.5538034,
+        "lat": -18.8340862,
+        "formatted": "855 ter N 3, Ambohimanga Rova, Madagascar",
+        "address_line1": "855 ter N 3",
+        "address_line2": "Ambohimanga Rova, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6517702085,
+            "name:fr": "Mécanicien fetra",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:housenumber": "855 ter"
+          }
+        },
+        "name_international": {
+          "fr": "Mécanicien fetra"
+        },
+        "place_id": "51f0b4a107e3c64740598dfe58ac86d532c0f00103f901c53d7c8401000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.55380339999999,
+          -18.834086200453886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District d'Antananarivo Avaradrano",
+        "city": "Ambohimangakely",
+        "postcode": "103",
+        "district": "Village Akamasoa",
+        "suburb": "Ambohimahitsy",
+        "street": "N 2",
+        "lon": 47.5779985,
+        "lat": -18.8915036,
+        "formatted": "N 2, Ambohimahitsy, 103 Ambohimangakely, Madagascar",
+        "address_line1": "N 2",
+        "address_line2": "Ambohimahitsy, 103 Ambohimangakely, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6782866701,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518a51d7dafbc9474059de34789439e432c0f00103f9010d554a9401000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.57799849999999,
+          -18.89150360045175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Ankerakely",
+        "suburb": "Manakambahiny",
+        "street": "Làlana Printsy Kamamy",
+        "lon": 47.5306769,
+        "lat": -18.9348847,
+        "formatted": "Làlana Printsy Kamamy, Manakambahiny, 101 Antananarivo, Madagascar",
+        "address_line1": "Làlana Printsy Kamamy",
+        "address_line2": "Manakambahiny, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7255125685,
+            "name:fr": "Studio Milles et une étoile",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Studio Milles et une étoile"
+        },
+        "place_id": "51101f7d38edc3474059c1f68d9a54ef32c0f00103f901b56e70b001000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5306769,
+          -18.934884700450088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soft Energy",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Ambohimanarina",
+        "postcode": "100",
+        "district": "Anosivavaka",
+        "suburb": "Betafo",
+        "street": "Rue Docteur Joseph Raseta",
+        "lon": 47.5052343,
+        "lat": -18.8762288,
+        "formatted": "Soft Energy, Rue Docteur Joseph Raseta, Betafo, 100 Ambohimanarina, Madagascar",
+        "address_line1": "Soft Energy",
+        "address_line2": "Rue Docteur Joseph Raseta, Betafo, 100 Ambohimanarina, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8482980117,
+            "name:en": "Soft Energy",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Soft Energy"
+        },
+        "place_id": "51a1a87d84abc047405990c1d98750e032c0f00103f9011501a0f901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.50523429999999,
+          -18.87622880045234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akany MAR LAR",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "103",
+        "district": "Andohanimandroseza",
+        "suburb": "Mandroseza",
+        "street": "Làlana Rainimanga Rahanamy",
+        "lon": 47.5476827,
+        "lat": -18.9316407,
+        "formatted": "Akany MAR LAR, Làlana Rainimanga Rahanamy, Mandroseza, 103 Antananarivo, Madagascar",
+        "address_line1": "Akany MAR LAR",
+        "address_line2": "Làlana Rainimanga Rahanamy, Mandroseza, 103 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8638095919,
+            "name:en": "Akany MAR LAR",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Akany MAR LAR"
+        },
+        "place_id": "51e08a7a771ac64740595f0e440180ee32c0f00103f9012fe2de0202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.547682699999996,
+          -18.9316407004502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dite AVARATSENA",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "county": "District de Manjakandriana",
+        "city": "Maroary",
+        "hamlet": "Manakana",
+        "street": "Route d'Ambohitrolomahitsy",
+        "lon": 47.6684991,
+        "lat": -18.728018,
+        "formatted": "dite AVARATSENA, Route d'Ambohitrolomahitsy, Maroary, Madagascar",
+        "address_line1": "dite AVARATSENA",
+        "address_line2": "Route d'Ambohitrolomahitsy, Maroary, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8638101725,
+            "name:en": "dite AVARATSENA",
+            "name:fr": "Parcelle N 1054 A",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "dite AVARATSENA",
+          "fr": "Parcelle N 1054 A"
+        },
+        "place_id": "51e4f3e56091d54740594edd3e635fba32c0f00103f901ddf8de0202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.66849909999999,
+          -18.728018000457546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LOT IIT 15 E",
+        "country": "Madagascar",
+        "country_code": "mg",
+        "state": "Analamanga",
+        "city": "Antananarivo",
+        "postcode": "101",
+        "district": "Bel'air",
+        "suburb": "Ambodimanga",
+        "street": "Làlana Camp de Maries",
+        "lon": 47.5407653,
+        "lat": -18.9042904,
+        "formatted": "LOT IIT 15 E, Làlana Camp de Maries, Ambodimanga, 101 Antananarivo, Madagascar",
+        "address_line1": "LOT IIT 15 E",
+        "address_line2": "Làlana Camp de Maries, Ambodimanga, 101 Antananarivo, Madagascar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8862064817,
+            "name:en": "LOT IIT 15 E",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "LOT IIT 15 E"
+        },
+        "place_id": "51e3271fcc37c5474059640660937fe732c0f00103f901b160381002000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5407653,
+          -18.904290400451274
+        ]
+      }
+    }
+  ]
+}

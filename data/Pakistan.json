@@ -1,0 +1,5119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamza APS",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Chah Sultan",
+        "municipality": "Rawalpindi City Tehsil",
+        "postcode": "46009",
+        "district": "Gulshan Daddan Khan",
+        "suburb": "Pindora",
+        "street": "Stadium Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0744226,
+        "lat": 33.6532558,
+        "state_code": "PB",
+        "formatted": "Hamza APS, Stadium Road, Pindora, Chah Sultan 46009, Pakistan",
+        "address_line1": "Hamza APS",
+        "address_line2": "Stadium Road, Pindora, Chah Sultan 46009, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hamza APS",
+            "osm_id": 4226368689,
+            "tourism": "attraction",
+            "website": "www.apssecratariat.com",
+            "osm_type": "n",
+            "addr:street": "Stadium Road",
+            "opening_hours": "Mo-Fr 07:00-14:30"
+          }
+        },
+        "website": "www.apssecratariat.com",
+        "opening_hours": "Mo-Fr 07:00-14:30",
+        "place_id": "5154450257c3445240592b96d3e29dd34040f00103f901b144e9fb0000000092030948616d7a6120415053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07442259999999,
+          33.65325579959275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rawat Fort",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawat",
+        "municipality": "Zone V",
+        "postcode": "45900",
+        "district": "Police Foundation Housing Society",
+        "street": "Grand Trunk Road",
+        "iso3166_2": "PK-IS",
+        "lon": 73.19423960775208,
+        "lat": 33.4981123,
+        "formatted": "Rawat Fort, Grand Trunk Road, Rawat 45900, Pakistan",
+        "address_line1": "Rawat Fort",
+        "address_line2": "Grand Trunk Road, Rawat 45900, Pakistan",
+        "categories": [
+          "access",
+          "access.yes",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.fort"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rawat Fort",
+            "access": "yes",
+            "osm_id": 72628231,
+            "barrier": "city_wall",
+            "tourism": "attraction",
+            "historic": "fort",
+            "osm_type": "w",
+            "wikidata": "Q7296947",
+            "wikipedia": "en:Rawat Fort"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7296947",
+          "wikipedia": "en:Rawat Fort"
+        },
+        "historic": {
+          "type": "fort"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "5184b8f66b6e4c524059ce3cd224c2bf4040f00102f901073854040000000092030a526177617420466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19423960775208,
+          33.49811229959015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daman-e-Koh",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone III",
+        "postcode": "44010",
+        "street": "Damn-i-koh Road",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0570403,
+        "lat": 33.7383666,
+        "formatted": "Daman-e-Koh, Damn-i-koh Road, Zone III 44010, Pakistan",
+        "address_line1": "Daman-e-Koh",
+        "address_line2": "Damn-i-koh Road, Zone III 44010, Pakistan",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details",
+          "details.catering"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Daman-e-Koh",
+            "is_in": "Islamabad",
+            "osm_id": 211325636,
+            "amenity": "restaurant",
+            "cuisine": "burger;tea;coffee_shop;asian",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "addr:street": "Damn-i-koh Road",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "catering": {
+          "cuisine": "burger;tea;coffee_shop;asian"
+        },
+        "place_id": "5176c35b8ca643524059d0dbf6cb82de4040f00103f901c492980c0000000092030b44616d616e2d652d4b6f68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05704030000001,
+          33.73836659959454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashoka Rocks",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Mansehra District",
+        "state_district": "Hazara Division",
+        "city": "Mansehra",
+        "municipality": "Mansehra Tehsil",
+        "street": "Mansehra-Naran-Chilas Highway N-15",
+        "iso3166_2": "PK-KP",
+        "lon": 73.1998453,
+        "lat": 34.3411036,
+        "state_code": "KP",
+        "formatted": "Ashoka Rocks, Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "address_line1": "Ashoka Rocks",
+        "address_line2": "Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ashoka Rocks",
+            "osm_id": 2758276370,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q6751573",
+            "wikipedia": "en:Mansehra Rock Edicts"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6751573",
+          "wikipedia": "en:Mansehra Rock Edicts"
+        },
+        "place_id": "5199f0f043ca4c52405955726248a92b4140f00103f90112f567a40000000092030c4173686f6b6120526f636b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1998453,
+          34.34110359961475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramkot Fort",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Azad Kashmir",
+        "county": "Mirpur District",
+        "state_district": "Mirpur Division",
+        "city": "Dadyal Tehsil",
+        "iso3166_2": "PK-JK",
+        "lon": 73.6413384,
+        "lat": 33.2228971,
+        "formatted": "Ramkot Fort, Dadyal Tehsil, Mirpur District, Pakistan",
+        "address_line1": "Ramkot Fort",
+        "address_line2": "Dadyal Tehsil, Mirpur District, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ramkot Fort",
+            "osm_id": 3404832578,
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "n",
+            "wikidata": "Q3429082",
+            "wikipedia": "en:Ramkot Fort"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3429082",
+          "wikipedia": "en:Ramkot Fort"
+        },
+        "historic": {
+          "type": "castle"
+        },
+        "place_id": "51d06a37b00b69524059198d64e4879c4040f00103f901429ff1ca0000000092030b52616d6b6f7420466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6413384,
+          33.22289709958768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Decent Logde",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Chah Sultan",
+        "municipality": "Rawalpindi City Tehsil",
+        "postcode": "46009",
+        "district": "Dhoke Kashmirian",
+        "suburb": "Satellite Town",
+        "street": "Road 6",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0652899,
+        "lat": 33.6431043,
+        "state_code": "PB",
+        "formatted": "Decent Logde, Road 6, Satellite Town, Chah Sultan 46009, Pakistan",
+        "address_line1": "Decent Logde",
+        "address_line2": "Road 6, Satellite Town, Chah Sultan 46009, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Decent Logde",
+            "phone": "0514415222",
+            "osm_id": 4788603621,
+            "name:en": "Decent Logde",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "6th Road",
+            "addr:postcode": 46009
+          }
+        },
+        "name_international": {
+          "en": "Decent Logde"
+        },
+        "contact": {
+          "phone": "0514415222"
+        },
+        "place_id": "519450b0b52d445240596055df3d51d24040f00103f901e54a6c1d0100000092030c446563656e74204c6f676465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06528989999998,
+          33.64310429959255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "جولین",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Haripur District",
+        "state_district": "Hazara Division",
+        "city": "Julian",
+        "municipality": "Khanpur Tehsil",
+        "street": "Jaulian Stupa Road",
+        "iso3166_2": "PK-KP",
+        "lon": 72.8747023,
+        "lat": 33.7649736,
+        "state_code": "KP",
+        "formatted": "Jaulian Stupa Road, Julian, Pakistan",
+        "address_line1": "Jaulian Stupa Road",
+        "address_line2": "Julian, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "جولین",
+            "osm_id": 5059185927,
+            "name:en": "Jaulian",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q593411"
+          }
+        },
+        "name_international": {
+          "en": "Jaulian"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q593411"
+        },
+        "place_id": "511a0f5b1ffb375240594648a8a7eae14040f00103f901070d8d2d0100000092030ad8acd988d984db8cd986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8747023,
+          33.764973599595166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giri Complex of Monuments",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Taxila",
+        "municipality": "Taxila Tehsil",
+        "street": "Khurram Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.8831994,
+        "lat": 33.7273878,
+        "state_code": "PB",
+        "formatted": "Giri Complex of Monuments, Khurram Road, Taxila, Pakistan",
+        "address_line1": "Giri Complex of Monuments",
+        "address_line2": "Khurram Road, Taxila, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Giri Complex of Monuments",
+            "osm_id": 7538413891,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q66134819"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q66134819"
+        },
+        "place_id": "5131b6c65686385240592a621d0b1bdd4040f00103f901431153c1010000009203194769726920436f6d706c6578206f66204d6f6e756d656e7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88319939999998,
+          33.7273877995943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khader Mohra",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Shahpur",
+        "municipality": "Taxila Tehsil",
+        "postcode": "47080",
+        "street": "PMO Colony Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.8467382,
+        "lat": 33.7405602,
+        "state_code": "PB",
+        "formatted": "Khader Mohra, PMO Colony Road, Shahpur 47080, Pakistan",
+        "address_line1": "Khader Mohra",
+        "address_line2": "PMO Colony Road, Shahpur 47080, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khader Mohra",
+            "osm_id": 7538414487,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q66134817"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q66134817"
+        },
+        "place_id": "5187516bf5303652405930fd36adcade4040f00103f901971353c10100000092030c4b6861646572204d6f687261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84673819999999,
+          33.7405601995946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giri Mosque",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Taxila",
+        "municipality": "Taxila Tehsil",
+        "street": "Khurram Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.8826003,
+        "lat": 33.7285071,
+        "state_code": "PB",
+        "formatted": "Giri Mosque, Khurram Road, Taxila, Pakistan",
+        "address_line1": "Giri Mosque",
+        "address_line2": "Khurram Road, Taxila, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Giri Mosque",
+            "osm_id": 7538430585,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q66134825"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q66134825"
+        },
+        "place_id": "5124fcf7857c38524059aad47bb83fdd4040f00103f901795253c10100000092030b47697269204d6f73717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88260029999998,
+          33.728507099594324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pipplan Stupa and Monastery",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Haripur District",
+        "state_district": "Hazara Division",
+        "city": "Mohra Moradu",
+        "municipality": "Khanpur Tehsil",
+        "postcode": "47080",
+        "street": "Jaulian Stupa Road",
+        "iso3166_2": "PK-KP",
+        "lon": 72.8659,
+        "lat": 33.7656919,
+        "state_code": "KP",
+        "formatted": "Pipplan Stupa and Monastery, Jaulian Stupa Road, Mohra Moradu 47080, Pakistan",
+        "address_line1": "Pipplan Stupa and Monastery",
+        "address_line2": "Jaulian Stupa Road, Mohra Moradu 47080, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pipplan Stupa and Monastery",
+            "osm_id": 7538512485,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q66134822"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q66134822"
+        },
+        "place_id": "51cf66d5e76a3752405965c9313102e24040f00103f901659254c10100000092031b506970706c616e20537475706120616e64204d6f6e617374657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8659,
+          33.765691899595176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "فیصل مسجد",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone III",
+        "postcode": "44220",
+        "street": "فیصل مسجد روڈ",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0380426,
+        "lat": 33.7296901,
+        "formatted": "Faisal Masjid, فیصل مسجد روڈ, Zone III 44220, Pakistan",
+        "address_line1": "Faisal Masjid",
+        "address_line2": "فیصل مسجد روڈ, Zone III 44220, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "فیصل مسجد",
+            "osm_id": 7577900785,
+            "name:ar": "مسجد فيصل",
+            "name:de": "Faisal-Moschee",
+            "name:en": "Faisal Masjid",
+            "name:ks": "فیصل مسجد",
+            "name:sd": "فيصل مسجد",
+            "name:ur": "فیصل  مسجد",
+            "tourism": "attraction",
+            "name:pnb": "فیصل مسجد",
+            "osm_type": "n",
+            "wikidata": "Q500983",
+            "addr:city": "اسلام آباد",
+            "long_name": "شاہ فیصل مسجد",
+            "wikipedia": "ur:فیصل مسجد",
+            "addr:street": "فیصل مسجد روڈ",
+            "long_name:ar": "مسجد الملك فيصل",
+            "long_name:ur": "شاہ فیصل مسجد"
+          }
+        },
+        "name_international": {
+          "ar": "مسجد فيصل",
+          "de": "Faisal-Moschee",
+          "en": "Faisal Masjid",
+          "ks": "فیصل مسجد",
+          "sd": "فيصل مسجد",
+          "ur": "فیصل  مسجد"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q500983",
+          "wikipedia": "ur:فیصل مسجد"
+        },
+        "place_id": "51b6b63a4a6f4252405981fc347c66dd4040f00103f901f196adc301000000920311d981db8cd8b5d98420d985d8b3d8acd8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03804260000001,
+          33.72969009959434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "فاطمہ جناح پارک",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "G-9/2",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0209926,
+        "lat": 33.7021194,
+        "formatted": "Fatima Jinnah Park, G-9/2, Islamabad 44000, Pakistan",
+        "address_line1": "Fatima Jinnah Park",
+        "address_line2": "G-9/2, Islamabad 44000, Pakistan",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "فاطمہ جناح پارک",
+            "osm_id": 7577900885,
+            "leisure": "park",
+            "name:ar": "متنزه فاطمة جناح",
+            "name:en": "Fatima Jinnah Park",
+            "name:hi": "फातिमा जिन्ना पार्क",
+            "name:ur": "فاطمہ جناح پارک",
+            "tourism": "attraction",
+            "alt_name": "ایف-9 پارک;ایف-9",
+            "name:pnb": "کیپیٹل پارک اسلام آباد",
+            "osm_type": "n",
+            "wikidata": "Q3305506",
+            "addr:city": "اسلام آباد",
+            "wikipedia": "pnb:کیپیٹل پارک اسلام آباد",
+            "alt_name:ar": "متنزه إف-9;إف-9",
+            "alt_name:ur": "ایف-9 پارک;ایف-9",
+            "addr:city:ar": "إسلام آباد",
+            "addr:city:ks": "اِسلام آبادٖ",
+            "addr:city:ps": "اسلام آباد",
+            "addr:city:sd": "اسلام آباد",
+            "addr:city:ur": "اسلام آباد",
+            "addr:city:pnb": "اسلام آباد",
+            "wikipedia:pnb": "کیپیٹل پارک اسلام آباد",
+            "name:etymology": "فاطمة جناح",
+            "alt_name:zh-Hans": "F9公园",
+            "wikimedia_commons": "Category:Fatima Jinnah Park",
+            "name:etymology:wikidata": "Q464947",
+            "name:etymology:wikipedia": "ar:فاطمة جناح"
+          }
+        },
+        "name_other": {
+          "alt_name": "ایف-9 پارک;ایف-9"
+        },
+        "name_international": {
+          "ar": "متنزه فاطمة جناح",
+          "en": "Fatima Jinnah Park",
+          "hi": "फातिमा जिन्ना पार्क",
+          "ur": "فاطمہ جناح پارک"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3305506",
+          "wikipedia": "pnb:کیپیٹل پارک اسلام آباد",
+          "wikimedia_commons": "Category:Fatima Jinnah Park"
+        },
+        "place_id": "514f9d58f157415240593792690cdfd94040f00103f9015597adc30100000092031cd981d8a7d8b7d985db8120d8acd986d8a7d8ad20d9bed8a7d8b1daa9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02099259999999,
+          33.70211939959375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attock Fort",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Attock District",
+        "state_district": "Rawalpindi Division",
+        "city": "Attock Khurd",
+        "street": "Attock Fort Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.2368437,
+        "lat": 33.8916628,
+        "state_code": "PB",
+        "formatted": "Attock Fort Road, Attock Khurd, Pakistan",
+        "address_line1": "Attock Fort Road",
+        "address_line2": "Attock Khurd, Pakistan",
+        "categories": [
+          "access_limited",
+          "access_limited.with_permit",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Attock Fort",
+            "wall": "castle_wall",
+            "access": "permit",
+            "height": 4,
+            "osm_id": 7940375400,
+            "barrier": "wall",
+            "landuse": "military",
+            "name:en": "Attock Fort",
+            "tourism": "attraction",
+            "historic": "castle",
+            "material": "stone",
+            "osm_type": "n",
+            "wikidata": "Q3694892",
+            "wikipedia": "en:Attock Fort",
+            "start_date": 1583,
+            "castle_type": "fortress",
+            "wall:thickness": 9
+          }
+        },
+        "name_international": {
+          "en": "Attock Fort"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3694892",
+          "wikipedia": "en:Attock Fort"
+        },
+        "historic": {
+          "type": "castle",
+          "start_date": 1583,
+          "castle_type": "fortress"
+        },
+        "restrictions": {
+          "access": "permit"
+        },
+        "place_id": "51df707a72280f524059e4aab10122f24040f00103f901688348d90100000092030b4174746f636b20466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2368437,
+          33.891662799598436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosque Sector C",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone V",
+        "postcode": "45800",
+        "street": "Johar Blvd.",
+        "iso3166_2": "PK-IS",
+        "lon": 73.2132375,
+        "lat": 33.537017,
+        "formatted": "Mosque Sector C, Johar Blvd., Zone V 45800, Pakistan",
+        "address_line1": "Mosque Sector C",
+        "address_line2": "Johar Blvd., Zone V 45800, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mosque Sector C",
+            "osm_id": 11770727669,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Street 46",
+            "opening_hours": "Su-Sa 05:00-21:00"
+          }
+        },
+        "opening_hours": "Su-Sa 05:00-21:00",
+        "place_id": "51f831e6aea54d524059b05119f9bcc44040f00103f901f50c97bd0200000092030f4d6f7371756520536563746f722043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21323749999999,
+          33.53701699959072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PINDI RACE CLUB",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "LADIAN",
+        "municipality": "Rawalpindi Saddar Tehsil",
+        "street": "Race Track",
+        "iso3166_2": "PK-PB",
+        "lon": 72.86723657810755,
+        "lat": 33.4033547,
+        "state_code": "PB",
+        "formatted": "PINDI RACE CLUB, Race Track, LADIAN, Pakistan",
+        "address_line1": "PINDI RACE CLUB",
+        "address_line2": "Race Track, LADIAN, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PINDI RACE CLUB",
+            "osm_id": 230629089,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "517a37d9cd803752405918b67520a1b34040f00102f901e11ebf0d0000000092030f50494e4449205241434520434c5542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86723657810754,
+          33.40335469958899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lipa Hut",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Bourbon",
+        "municipality": "Murree Tehsil",
+        "street": "Bhurban-Kohala Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.4371129,
+        "lat": 33.919186,
+        "state_code": "PB",
+        "formatted": "Lipa Hut, Bhurban-Kohala Road, Bourbon, Pakistan",
+        "address_line1": "Lipa Hut",
+        "address_line2": "Bhurban-Kohala Road, Bourbon, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lipa Hut",
+            "osm_id": 278618017,
+            "landuse": "military",
+            "tourism": "attraction",
+            "military": "barracks",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51398a62a8f95b524059229c07e3a7f54040f00103f901a15f9b10000000009203084c69706120487574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4371129,
+          33.919185999599236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khan Pur Dam",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Haripur District",
+        "state_district": "Hazara Division",
+        "city": "Khanpur",
+        "municipality": "Khanpur Tehsil",
+        "street": "Haripur Road",
+        "iso3166_2": "PK-KP",
+        "lon": 72.9215711,
+        "lat": 33.8120859,
+        "state_code": "KP",
+        "formatted": "Khan Pur Dam, Haripur Road, Khanpur, Pakistan",
+        "address_line1": "Khan Pur Dam",
+        "address_line2": "Haripur Road, Khanpur, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khan Pur Dam",
+            "osm_id": 303179593,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5113dc5905fb3a5240598b27466ef2e74040f00103f901492712120000000092030c4b68616e205075722044616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92157109999998,
+          33.81208589959632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramkot Fort",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Azad Kashmir",
+        "county": "Mirpur District",
+        "state_district": "Mirpur Division",
+        "city": "Dadyal Tehsil",
+        "iso3166_2": "PK-JK",
+        "lon": 73.64135933205147,
+        "lat": 33.22283195,
+        "formatted": "Ramkot Fort, Dadyal Tehsil, Mirpur District, Pakistan",
+        "address_line1": "Ramkot Fort",
+        "address_line2": "Dadyal Tehsil, Mirpur District, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ramkot Fort",
+            "osm_id": 333371825,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "514f0903080c69524059d2fddfc1859c4040f00102f901b1d9de130000000092030b52616d6b6f7420466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.64135933205147,
+          33.22283194958767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pindi Point",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Murree",
+        "municipality": "Murree Tehsil",
+        "district": "Murree Hills",
+        "street": "TV Station Rd",
+        "iso3166_2": "PK-PB",
+        "lon": 73.3794159,
+        "lat": 33.8929056,
+        "state_code": "PB",
+        "formatted": "Pindi Point, TV Station Rd, Murree, Pakistan",
+        "address_line1": "Pindi Point",
+        "address_line2": "TV Station Rd, Murree, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pindi Point",
+            "osm_id": 366080415,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514585a05948585240596a580ebb4af24040f00103f9019ff1d1150000000092030b50696e646920506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.37941589999998,
+          33.89290559959848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kashmir Point",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Jhika Gali",
+        "municipality": "Murree Tehsil",
+        "street": "Bank Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.4110469,
+        "lat": 33.9173976,
+        "state_code": "PB",
+        "formatted": "Kashmir Point, Bank Road, Jhika Gali, Pakistan",
+        "address_line1": "Kashmir Point",
+        "address_line2": "Bank Road, Jhika Gali, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kashmir Point",
+            "osm_id": 366080451,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d227a8974e5a5240598bdad7486df54040f00103f901c3f1d1150000000092030d4b6173686d697220506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4110469,
+          33.91739759959918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clock Tower",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi",
+        "town": "Rawalpindi Cantonment",
+        "postcode": "46220",
+        "street": "Ghari Chowk",
+        "iso3166_2": "PK-PB",
+        "lon": 73.09686880933806,
+        "lat": 33.5236735,
+        "state_code": "PB",
+        "formatted": "Clock Tower, Ghari Chowk, Rawalpindi 46220, Pakistan",
+        "address_line1": "Clock Tower",
+        "address_line2": "Ghari Chowk, Rawalpindi 46220, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Clock Tower",
+            "osm_id": 564270339,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5101073c193346524059f842b5bb07c34040f00102f9010315a2210000000092030b436c6f636b20546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09686880933806,
+          33.52367349959053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shah Allah Ditta Caves",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "county": "Haripur District",
+        "state_district": "Hazara Division",
+        "city": "Zone III",
+        "street": "شاہ اللہ دتہ روڈ",
+        "iso3166_2": "PK-IS",
+        "lon": 72.91516493610123,
+        "lat": 33.7221359,
+        "formatted": "Shah Allah Ditta Caves, شاہ اللہ دتہ روڈ, Zone III, Pakistan",
+        "address_line1": "Shah Allah Ditta Caves",
+        "address_line2": "شاہ اللہ دتہ روڈ, Zone III, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shah Allah Ditta Caves",
+            "osm_id": 570195862,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "510cc0f30f923a5240592403fcf26edc4040f00102f901967ffc21000000009203165368616820416c6c6168204469747461204361766573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91516493610123,
+          33.72213589959418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highland Country Club",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Haripur District",
+        "state_district": "Hazara Division",
+        "city": "Talhaar",
+        "municipality": "Khanpur Tehsil",
+        "street": "Pir Sohawa Road",
+        "iso3166_2": "PK-KP",
+        "lon": 73.12623467302072,
+        "lat": 33.8077028,
+        "state_code": "KP",
+        "formatted": "Highland Country Club, Pir Sohawa Road, Talhaar, Pakistan",
+        "address_line1": "Highland Country Club",
+        "address_line2": "Pir Sohawa Road, Talhaar, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Highland Country Club",
+            "osm_id": 570207914,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b00f983a1448524059a0932ace62e74040f00102f901aaaefc2100000000920315486967686c616e6420436f756e74727920436c7562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.12623467302069,
+          33.8077027995962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHA Appartments Children's Playground",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "G-11",
+        "iso3166_2": "PK-IS",
+        "lon": 73.00291901432833,
+        "lat": 33.66498765,
+        "formatted": "PHA Appartments Children's Playground, G-11, Islamabad 44000, Pakistan",
+        "address_line1": "PHA Appartments Children's Playground",
+        "address_line2": "G-11, Islamabad 44000, Pakistan",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PHA Appartments Children's Playground",
+            "osm_id": 608321005,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51eac43bd32f40524059769fb7501ed54040f00102f901ed3d422400000000920325504841204170706172746d656e7473204368696c6472656e277320506c617967726f756e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00291901432834,
+          33.66498764959299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PHA Appartments Children's Playground",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "G-11",
+        "iso3166_2": "PK-IS",
+        "lon": 73.00262518360148,
+        "lat": 33.66482475,
+        "formatted": "PHA Appartments Children's Playground, G-11, Islamabad 44000, Pakistan",
+        "address_line1": "PHA Appartments Children's Playground",
+        "address_line2": "G-11, Islamabad 44000, Pakistan",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PHA Appartments Children's Playground",
+            "osm_id": 608321008,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b86dd1022b40524059608936fa18d54040f00102f901f03d422400000000920325504841204170706172746d656e7473204368696c6472656e277320506c617967726f756e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00262518360148,
+          33.66482474959298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Islamabad Viewpoint",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone III",
+        "postcode": "44010",
+        "street": "Damn-i-koh Road",
+        "iso3166_2": "PK-IS",
+        "lon": 73.05373741982984,
+        "lat": 33.7397318,
+        "formatted": "Islamabad Viewpoint, Damn-i-koh Road, Zone III 44010, Pakistan",
+        "address_line1": "Islamabad Viewpoint",
+        "address_line2": "Damn-i-koh Road, Zone III 44010, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Islamabad Viewpoint",
+            "osm_id": 721588451,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51652f136f7043524059f4881788afde4040f00102f901e390022b0000000092031349736c616d616261642056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05373741982983,
+          33.73973179959458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daman-e-Koh",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone III",
+        "postcode": "44010",
+        "street": "Trail 2",
+        "iso3166_2": "PK-IS",
+        "lon": 73.05561020812925,
+        "lat": 33.739284850000004,
+        "formatted": "Daman-e-Koh, Trail 2, Zone III 44010, Pakistan",
+        "address_line1": "Daman-e-Koh",
+        "address_line2": "Trail 2, Zone III 44010, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Daman-e-Koh",
+            "osm_id": 721588453,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51494f1e1e8f43524059eeb7cde2a0de4040f00102f901e590022b0000000092030b44616d616e2d652d4b6f68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05561020812924,
+          33.73928484959457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eagle Nest",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi Saddar Tehsil",
+        "suburb": "Khaniyal Homes",
+        "street": "Eagle Nest Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.86008175163,
+        "lat": 33.368411550000005,
+        "state_code": "PB",
+        "formatted": "Eagle Nest Road, Khaniyal Homes, Rawalpindi Saddar Tehsil, Pakistan",
+        "address_line1": "Eagle Nest Road",
+        "address_line2": "Khaniyal Homes, Rawalpindi Saddar Tehsil, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Eagle Nest",
+            "osm_id": 1126197865,
+            "tourism": "viewpoint",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51cac854940b37524059d879121c28af4040f00102f901696a20430000000092030a4561676c65204e657374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86008175163002,
+          33.36841154958864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NORTH HILLS",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Murree",
+        "municipality": "Murree Tehsil",
+        "suburb": "Sunny Bank",
+        "street": "Lower Jhika Gali Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.41008610569534,
+        "lat": 33.912127850000005,
+        "state_code": "PB",
+        "formatted": "NORTH HILLS, Lower Jhika Gali Road, Sunny Bank, Murree, Pakistan",
+        "address_line1": "NORTH HILLS",
+        "address_line2": "Lower Jhika Gali Road, Sunny Bank, Murree, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "NORTH HILLS",
+            "osm_id": 1225405575,
+            "tourism": "attraction",
+            "operator": "AH",
+            "osm_type": "w"
+          }
+        },
+        "operator": "AH",
+        "place_id": "515a20cbd93e5a5240593ae6f99ac0f44040f00102f90187340a490000000092030b4e4f5254482048494c4c53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.41008610569534,
+          33.91212784959903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potohari",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone III",
+        "postcode": "04404",
+        "street": "7th Avenue",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0833516,
+        "lat": 33.6991669,
+        "formatted": "Potohari, 7th Avenue, Zone III 04404, Pakistan",
+        "address_line1": "Potohari",
+        "address_line2": "7th Avenue, Zone III 04404, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Potohari",
+            "osm_id": 2247178870,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516e04f3a15545524059ae190c4d7ed94040f00103f901763af18500000000920308506f746f68617269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08335159999999,
+          33.69916689959369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sozo Adventure Park",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Lower Topa",
+        "municipality": "Murree Tehsil",
+        "street": "Abbasi Colony Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.4320592,
+        "lat": 33.8902357,
+        "state_code": "PB",
+        "formatted": "Sozo Adventure Park, Abbasi Colony Road, Lower Topa, Pakistan",
+        "address_line1": "Sozo Adventure Park",
+        "address_line2": "Abbasi Colony Road, Lower Topa, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sozo Adventure Park",
+            "osm_id": 2466324566,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e67ba1dba65b524059dfc04f3ef3f14040f00103f9015620019300000000920313536f7a6f20416476656e74757265205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4320592,
+          33.8902356995984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghora Gali Chair Lift",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Bansra Gali",
+        "municipality": "Murree Tehsil",
+        "district": "Murree Hills",
+        "suburb": "Sunny Bank",
+        "street": "Kashmir Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.3684427,
+        "lat": 33.8950838,
+        "state_code": "PB",
+        "formatted": "Ghora Gali Chair Lift, Kashmir Road, Sunny Bank, Bansra Gali, Pakistan",
+        "address_line1": "Ghora Gali Chair Lift",
+        "address_line2": "Kashmir Road, Sunny Bank, Bansra Gali, Pakistan",
+        "categories": [
+          "public_transport",
+          "public_transport.aerialway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ghora Gali Chair Lift",
+            "osm_id": 2468692419,
+            "network": "Pindi Point Chairlift",
+            "tourism": "attraction",
+            "operator": "PTDC",
+            "osm_type": "n",
+            "aerialway": "station",
+            "aerialway:access": "both",
+            "public_transport": "station",
+            "aerialway:summer:access": "both"
+          }
+        },
+        "operator": "PTDC",
+        "network": "Pindi Point Chairlift",
+        "place_id": "51ccbcb0909457524059413a1f1b92f24040f00103f901c34125930000000092031547686f72612047616c69204368616972204c696674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3684427,
+          33.89508379959853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simli Dam Viewpoint",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Khalabut",
+        "street": "Karore - Mouri Rd",
+        "iso3166_2": "PK-PB",
+        "lon": 73.3611546,
+        "lat": 33.7221994,
+        "state_code": "PB",
+        "formatted": "Simli Dam Viewpoint, Karore - Mouri Rd, Khalabut, Pakistan",
+        "address_line1": "Simli Dam Viewpoint",
+        "address_line2": "Karore - Mouri Rd, Khalabut, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Simli Dam Viewpoint",
+            "osm_id": 2671717402,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5133f32e281d575240595439a90771dc4040f00103f9011a2c3f9f0000000092031353696d6c692044616d2056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3611546,
+          33.72219939959419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Attock District",
+        "state_district": "Rawalpindi Division",
+        "city": "Attock",
+        "postcode": "43600",
+        "suburb": "Dar-ul-Islam Colony",
+        "street": "Fawara Chowk",
+        "iso3166_2": "PK-PB",
+        "lon": 72.3559137,
+        "lat": 33.7704643,
+        "state_code": "PB",
+        "formatted": "فوارہ چوک, Fawara Chowk, Dar-ul-Islam Colony, Attock 43600, Pakistan",
+        "address_line1": "فوارہ چوک",
+        "address_line2": "Fawara Chowk, Dar-ul-Islam Colony, Attock 43600, Pakistan",
+        "name": "فوارہ چوک",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "فوارہ چوک",
+            "osm_id": 3387498885,
+            "name:en": "Fawara Chowk",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Fawara Chowk"
+        },
+        "place_id": "51b16c414ac716524059a9bffc929ee24040f00103f9018521e9c900000000920311d981d988d8a7d8b1db8120da86d988daa9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35591369999999,
+          33.7704642995953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trail 3 hill top",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Bheri Village",
+        "municipality": "Zone III",
+        "postcode": "44010",
+        "street": "Trail3 Fireline",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0793527,
+        "lat": 33.7485094,
+        "formatted": "Trail 3 hill top, Trail3 Fireline, Bheri Village 44010, Pakistan",
+        "address_line1": "Trail 3 hill top",
+        "address_line2": "Trail3 Fireline, Bheri Village 44010, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trail 3 hill top",
+            "osm_id": 3799310316,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515bd6581d14455240590b01f027cfdf4040f00103f901ecdf74e200000000920310547261696c20332068696c6c20746f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0793527,
+          33.748509399594774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kashmir Point",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Murree",
+        "municipality": "Murree Tehsil",
+        "district": "Kuldana",
+        "suburb": "Sunny Bank",
+        "street": "Governor House Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.4046674,
+        "lat": 33.9141273,
+        "state_code": "PB",
+        "formatted": "Kashmir Point, Governor House Road, Sunny Bank, Murree, Pakistan",
+        "address_line1": "Kashmir Point",
+        "address_line2": "Governor House Road, Sunny Bank, Murree, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kashmir Point",
+            "osm_id": 4082034590,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5178301812e6595240595414941f02f54040f00103f9019ee74ef30000000092030d4b6173686d697220506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4046674,
+          33.91412729959907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panjpeer Rocks",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Kotli Sattian Tehsil",
+        "municipality": "Kahuta Tehsil",
+        "street": "Kotli Sattian Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.5298703,
+        "lat": 33.7344714,
+        "state_code": "PB",
+        "formatted": "Panjpeer Rocks, Kotli Sattian Road, Kotli Sattian Tehsil, Pakistan",
+        "address_line1": "Panjpeer Rocks",
+        "address_line2": "Kotli Sattian Road, Kotli Sattian Tehsil, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Panjpeer Rocks",
+            "osm_id": 4139084390,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ca671e65e961524059838da82803de4040f00103f901666ab5f60000000092030e50616e6a7065657220526f636b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5298703,
+          33.73447139959446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tolipir picnic Place",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Azad Kashmir",
+        "county": "Poonch District",
+        "state_district": "Poonch Division",
+        "city": "Abbaspur Tehsil",
+        "street": "AbbasPur Road",
+        "iso3166_2": "PK-JK",
+        "lon": 73.898638,
+        "lat": 33.8937895,
+        "formatted": "Tolipir picnic Place, AbbasPur Road, Abbaspur Tehsil, Pakistan",
+        "address_line1": "Tolipir picnic Place",
+        "address_line2": "AbbasPur Road, Abbaspur Tehsil, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tolipir picnic Place",
+            "osm_id": 4139919294,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51573cf54883795240595324bfb167f24040f00103f901be27c2f600000000920314546f6c69706972207069636e696320506c616365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89863799999999,
+          33.893789499598505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganga Choti 10340 Ft",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Azad Kashmir",
+        "county": "Poonch Division",
+        "postcode": "12500",
+        "district": "Bagh District",
+        "street": "الجبار روڈ",
+        "iso3166_2": "PK-JK",
+        "lon": 73.7886488,
+        "lat": 34.0753482,
+        "formatted": "Ganga Choti 10340 Ft, الجبار روڈ, Azad Kashmir 12500, Pakistan",
+        "address_line1": "Ganga Choti 10340 Ft",
+        "address_line2": "الجبار روڈ, Azad Kashmir 12500, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ganga Choti 10340 Ft",
+            "osm_id": 4139985090,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e601d13879725240596a8e8202a5094140f00103f901c228c3f60000000092031447616e67612043686f7469203130333430204674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7886488,
+          34.07534819960422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jab Bridge",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Abbottabad District",
+        "state_district": "Hazara Division",
+        "city": "Abbottabad",
+        "municipality": "Abbottabad Tehsil",
+        "postcode": "22010",
+        "district": "Jhangi Syedan",
+        "suburb": "Jhangi",
+        "street": "Karakoram Highway",
+        "iso3166_2": "PK-KP",
+        "lon": 73.2314923,
+        "lat": 34.1843914,
+        "state_code": "KP",
+        "formatted": "Jab Bridge, Karakoram Highway, Jhangi, Abbottabad 22010, Pakistan",
+        "address_line1": "Jab Bridge",
+        "address_line2": "Karakoram Highway, Jhangi, Abbottabad 22010, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jab Bridge",
+            "osm_id": 4149864885,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a77114c5d04e524059937d2b239a174140f00103f901b5e959f70000000092030a4a616220427269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2314923,
+          34.18439139960824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jab Pul Bridge",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Abbottabad District",
+        "state_district": "Hazara Division",
+        "city": "Abbottabad",
+        "municipality": "Abbottabad Tehsil",
+        "postcode": "22010",
+        "district": "Jhangi Syedan",
+        "suburb": "Jhangi",
+        "street": "Karakoram Highway",
+        "iso3166_2": "PK-KP",
+        "lon": 73.2314316,
+        "lat": 34.184461,
+        "state_code": "KP",
+        "formatted": "Jab Pul Bridge, Karakoram Highway, Jhangi, Abbottabad 22010, Pakistan",
+        "address_line1": "Jab Pul Bridge",
+        "address_line2": "Karakoram Highway, Jhangi, Abbottabad 22010, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jab Pul Bridge",
+            "osm_id": 4149869340,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b3507cc6cf4e524059395a046b9c174140f00103f9011cfb59f70000000092030e4a61622050756c20427269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2314316,
+          34.18446099960824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muhammadi Colony ",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Chah Sultan",
+        "municipality": "Rawalpindi City Tehsil",
+        "postcode": "46300",
+        "district": "Dhoke Tahlian",
+        "suburb": "Qayyum Abad",
+        "street": "Kurri Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0961635,
+        "lat": 33.6365253,
+        "state_code": "PB",
+        "formatted": "Muhammadi Colony , Kurri Road, Qayyum Abad, Chah Sultan 46300, Pakistan",
+        "address_line1": "Muhammadi Colony ",
+        "address_line2": "Kurri Road, Qayyum Abad, Chah Sultan 46300, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Muhammadi Colony ",
+            "osm_id": 4156790491,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5168e4f38a2746524059bd6938a979d14040f00103f901db96c3f7000000009203114d7568616d6d61646920436f6c6f6e7920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09616349999999,
+          33.63652529959243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kohala Point",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Abbottabad District",
+        "state_district": "Hazara Division",
+        "city": "Abbottabad Tehsil",
+        "street": "Old Kohala Bridge Rd",
+        "iso3166_2": "PK-KP",
+        "lon": 73.4981267,
+        "lat": 34.0968574,
+        "state_code": "KP",
+        "formatted": "Kohala Point, Old Kohala Bridge Rd, Abbottabad Tehsil, Pakistan",
+        "address_line1": "Kohala Point",
+        "address_line2": "Old Kohala Bridge Rd, Abbottabad Tehsil, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kohala Point",
+            "osm_id": 4159058089,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ec70cf4ee15f524059e9d6c1d2650c4140f00103f901a930e6f70000000092030c4b6f68616c6120506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4981267,
+          34.09685739960498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "julian",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Haripur District",
+        "state_district": "Hazara Division",
+        "city": "Mohra Moradu",
+        "municipality": "Khanpur Tehsil",
+        "postcode": "47080",
+        "street": "Jaulian Stupa Road",
+        "iso3166_2": "PK-KP",
+        "lon": 72.8724525,
+        "lat": 33.7664491,
+        "state_code": "KP",
+        "formatted": "julian, Jaulian Stupa Road, Mohra Moradu 47080, Pakistan",
+        "address_line1": "julian",
+        "address_line2": "Jaulian Stupa Road, Mohra Moradu 47080, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "julian",
+            "osm_id": 4166465689,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510eb40243d637524059b0670c011be24040f00103f901993857f8000000009203066a756c69616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87245249999998,
+          33.76644909959521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liaqat Colony",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi Cantonment",
+        "village": "Ranial",
+        "street": "Chakri Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0152325,
+        "lat": 33.5559723,
+        "state_code": "PB",
+        "formatted": "Liaqat Colony, Chakri Road, Rawalpindi Cantonment, Pakistan",
+        "address_line1": "Liaqat Colony",
+        "address_line2": "Chakri Road, Rawalpindi Cantonment, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Liaqat Colony",
+            "osm_id": 4209591091,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518755bc91f940524059d81cae192ac74040f00103f9013343e9fa0000000092030d4c696171617420436f6c6f6e79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01523250000001,
+          33.55597229959102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahadra, Muzaffarabad",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Azad Kashmir",
+        "county": "Muzaffarabad District",
+        "state_district": "Muzaffarabad Division",
+        "street": "Jhelum Valley Road",
+        "iso3166_2": "PK-JK",
+        "lon": 73.4921929,
+        "lat": 34.1563417,
+        "formatted": "Shahadra, Muzaffarabad, Jhelum Valley Road, Azad Kashmir, Pakistan",
+        "address_line1": "Shahadra, Muzaffarabad",
+        "address_line2": "Jhelum Valley Road, Azad Kashmir, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shahadra, Muzaffarabad",
+            "osm_id": 4269761097,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b234a616805f5240592b683b0103144140f00103f90149627ffe0000000092031653686168616472612c204d757a616666617261626164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.49219289999999,
+          34.15634169960716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "راڑہ",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Azad Kashmir",
+        "county": "Muzaffarabad District",
+        "state_district": "Muzaffarabad Division",
+        "city": "Ambore",
+        "district": "Upper Chatter",
+        "suburb": "Chatter Domail",
+        "street": "Jhelum Valley Road",
+        "iso3166_2": "PK-JK",
+        "lon": 73.4815636,
+        "lat": 34.2877529,
+        "formatted": "راڑہ, Jhelum Valley Road, Chatter Domail, Ambore, Pakistan",
+        "address_line1": "راڑہ",
+        "address_line2": "Jhelum Valley Road, Chatter Domail, Ambore, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "راڑہ",
+            "osm_id": 4269790492,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516b3c22f0d15e52405910954616d5244140f00103f9011cd57ffe00000000920308d8b1d8a7da91db81"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4815636,
+          34.28775289961243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GPO chowk murree",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Murree District",
+        "state_district": "Rawalpindi Division",
+        "city": "Jhika Gali",
+        "municipality": "Murree Tehsil",
+        "district": "Lower Jhirka",
+        "suburb": "Sunny Bank",
+        "street": "Upper Jhika Gali Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.3942354,
+        "lat": 33.9069412,
+        "state_code": "PB",
+        "formatted": "GPO chowk murree, Upper Jhika Gali Road, Sunny Bank, Jhika Gali, Pakistan",
+        "address_line1": "GPO chowk murree",
+        "address_line2": "Upper Jhika Gali Road, Sunny Bank, Jhika Gali, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "traffic_signals"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "GPO chowk murree",
+            "osm_id": 4284530688,
+            "highway": "traffic_signals",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "traffic_signals": "signal"
+          }
+        },
+        "place_id": "513b7b1d273b5952405909d633a616f44040f00103f90100c060ff0000000092031047504f2063686f776b206d7572726565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3942354,
+          33.90694119959887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahria 7-8-9/ defence",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi",
+        "town": "Rawalpindi Cantonment",
+        "postcode": "46600",
+        "district": "Sector B1",
+        "suburb": "Civil Lines",
+        "street": "Grand Trunk Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0765731,
+        "lat": 33.5672491,
+        "state_code": "PB",
+        "formatted": "Bahria 7-8-9/ defence, Grand Trunk Road, Civil Lines, Rawalpindi 46600, Pakistan",
+        "address_line1": "Bahria 7-8-9/ defence",
+        "address_line2": "Grand Trunk Road, Civil Lines, Rawalpindi 46600, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bahria 7-8-9/ defence",
+            "osm_id": 4322683892,
+            "highway": "rest_area",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513610dc92e64452405900b7559e9bc84040f00103f901f4eba6010100000092031542616872696120372d382d392f20646566656e6365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07657309999999,
+          33.56724909959121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pirwadhai Moor",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi Cantonment",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "street": "Service Road South I-12",
+        "iso3166_2": "PK-PB",
+        "lon": 72.9922093,
+        "lat": 33.6152778,
+        "state_code": "PB",
+        "formatted": "Pirwadai mor, Service Road South I-12, Rawalpindi Cantonment 44000, Pakistan",
+        "address_line1": "Pirwadai mor",
+        "address_line2": "Service Road South I-12, Rawalpindi Cantonment 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "pirwadhai Moor",
+            "osm_id": 4323282293,
+            "name:en": "Pirwadai mor",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Pirwadai mor"
+        },
+        "place_id": "515e926f5b803f524059f099456cc1ce4040f00103f901750db0010100000092030e706972776164686169204d6f6f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99220929999998,
+          33.615277799592036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samoo",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Taxila",
+        "municipality": "Taxila Tehsil",
+        "postcode": "47080",
+        "street": "Farooqia Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.7902609,
+        "lat": 33.7828713,
+        "state_code": "PB",
+        "formatted": "Samoo, Farooqia Road, Taxila 47080, Pakistan",
+        "address_line1": "Samoo",
+        "address_line2": "Farooqia Road, Taxila 47080, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Samoo",
+            "osm_id": 4327186190,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51af3374a29332524059bb5e722035e44040f00103f9010e9feb010100000092030553616d6f6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7902609,
+          33.78287129959559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samoo",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Taxila",
+        "municipality": "Taxila Tehsil",
+        "postcode": "47080",
+        "street": "Farooqia Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.7902662,
+        "lat": 33.7828865,
+        "state_code": "PB",
+        "formatted": "Samoo, Farooqia Road, Taxila 47080, Pakistan",
+        "address_line1": "Samoo",
+        "address_line2": "Farooqia Road, Taxila 47080, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Samoo",
+            "osm_id": 4327186590,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519608afb89332524059171ff49f35e44040f00103f9019ea0eb010100000092030553616d6f6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.79026619999999,
+          33.78288649959557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Executive 48 Flats",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Blue Area",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "G-5",
+        "street": "Service Road West G5;Service Road West F5",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0986324,
+        "lat": 33.7164662,
+        "formatted": "Executive 48 Flats, Service Road West G5;Service Road West F5, G-5, Blue Area 44000, Pakistan",
+        "address_line1": "Executive 48 Flats",
+        "address_line2": "Service Road West G5;Service Road West F5, G-5, Blue Area 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Executive 48 Flats",
+            "osm_id": 4329668489,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51dc1445fe4f4652405913f9172ab5db4040f00103f901897f11020100000092031245786563757469766520343820466c617473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09863239999999,
+          33.71646619959406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CADD",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "F-5",
+        "street": "Secretariat Road",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0959494,
+        "lat": 33.7378239,
+        "formatted": "CADD, Secretariat Road, F-5, Islamabad 44000, Pakistan",
+        "address_line1": "CADD",
+        "address_line2": "Secretariat Road, F-5, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "CADD",
+            "osm_id": 4332119797,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5188c4f30824465240599e7b770371de4040f00103f901f5e636020100000092030443414444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0959494,
+          33.737823899594545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangla View Point",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Azad Kashmir",
+        "county": "Mirpur District",
+        "state_district": "Mirpur Division",
+        "city": "Mirpur",
+        "municipality": "Mirpur Tehsil",
+        "street": "Power House Road",
+        "iso3166_2": "PK-JK",
+        "lon": 73.6331586,
+        "lat": 33.1528438,
+        "formatted": "Mangla View Point, Power House Road, Mirpur, Pakistan",
+        "address_line1": "Mangla View Point",
+        "address_line2": "Power House Road, Mirpur, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mangla View Point",
+            "osm_id": 4352994891,
+            "name:en": "Mangla View Point",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mangla View Point"
+        },
+        "place_id": "51980ba6ab8568524059f44fb86290934040f00103f9014b6e7503010000009203114d616e676c61205669657720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6331586,
+          33.15284379958749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harnoi Point",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Abbottabad District",
+        "state_district": "Hazara Division",
+        "city": "Abbottabad",
+        "municipality": "Abbottabad Tehsil",
+        "street": "Murree Road",
+        "iso3166_2": "PK-KP",
+        "lon": 73.3119543,
+        "lat": 34.1489965,
+        "state_code": "KP",
+        "formatted": "Harnoi Point, Murree Road, Abbottabad, Pakistan",
+        "address_line1": "Harnoi Point",
+        "address_line2": "Murree Road, Abbottabad, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harnoi Point",
+            "osm_id": 4373330198,
+            "name:en": "Harnoi Point",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Harnoi Point"
+        },
+        "place_id": "512e162b0ff753524059da833a5112134140f00103f90116b9ab040100000092030c4861726e6f6920506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3119543,
+          34.148996499606895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IrFaN FaRooQ AwaN Home",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Chah Sultan",
+        "municipality": "Rawalpindi City Tehsil",
+        "postcode": "46000",
+        "district": "Choudhry Feroz",
+        "suburb": "Dhok Khabba",
+        "street": "ست",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0734921,
+        "lat": 33.614579,
+        "state_code": "PB",
+        "formatted": "IrFaN FaRooQ AwaN Home, ست, Dhok Khabba, Chah Sultan 46000, Pakistan",
+        "address_line1": "IrFaN FaRooQ AwaN Home",
+        "address_line2": "ست, Dhok Khabba, Chah Sultan 46000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "IrFaN FaRooQ AwaN Home",
+            "osm_id": 4401180992,
+            "name:en": "IrFaN FaRooQ AwaN Home",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "IrFaN FaRooQ AwaN Home"
+        },
+        "place_id": "51eb803518b44452405930075086aace4040f00103f90140b1540601000000920316497246614e204661526f6f51204177614e20486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0734921,
+          33.61457899959203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pakistan Town 2",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone V",
+        "postcode": "45710",
+        "street": "CBR Road",
+        "iso3166_2": "PK-IS",
+        "lon": 73.1411962,
+        "lat": 33.5643442,
+        "formatted": "pakistan Town 2, CBR Road, Zone V 45710, Pakistan",
+        "address_line1": "pakistan Town 2",
+        "address_line2": "CBR Road, Zone V 45710, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "pakistan Town 2",
+            "osm_id": 4401181690,
+            "name:en": "pakistan Town 2",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "pakistan Town 2"
+        },
+        "place_id": "517154c95b09495240593677446e3cc84040f00103f901fab354060100000092030f70616b697374616e20546f776e2032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14119619999998,
+          33.56434419959116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khayaban-e-Kashmir G-15",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone 2",
+        "postcode": "45210",
+        "district": "G-16",
+        "suburb": "G-15",
+        "street": "Main Road 1",
+        "iso3166_2": "PK-IS",
+        "lon": 72.9269595,
+        "lat": 33.6385093,
+        "formatted": "Khayaban-e-Kashmir G-15, Main Road 1, G-15, Zone 2 45210, Pakistan",
+        "address_line1": "Khayaban-e-Kashmir G-15",
+        "address_line2": "Main Road 1, G-15, Zone 2 45210, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khayaban-e-Kashmir G-15",
+            "osm_id": 4409869951,
+            "name:en": "Khayaban-e-Kashmir G-15",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Khayaban-e-Kashmir G-15"
+        },
+        "place_id": "51da4df04d533b52405984f837acbad14040f00103f9017f46d906010000009203174b6861796162616e2d652d4b6173686d697220472d3135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92695949999998,
+          33.63850929959247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhoke Hasolian",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi Division",
+        "city": "LANGAH",
+        "postcode": "46000",
+        "district": "Chakwal District",
+        "street": "LANGAH ROAD",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0872897,
+        "lat": 33.0691619,
+        "state_code": "PB",
+        "formatted": "Dhoke Hasolian, LANGAH ROAD, LANGAH 46000, Pakistan",
+        "address_line1": "Dhoke Hasolian",
+        "address_line2": "LANGAH ROAD, LANGAH 46000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dhoke Hasolian",
+            "osm_id": 4450390191,
+            "name:en": "Dhoke Hasolian",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "LANGAH ROAD",
+            "addr:postcode": 46000
+          }
+        },
+        "name_international": {
+          "en": "Dhoke Hasolian"
+        },
+        "place_id": "51c5b189279645524059be6d104cda884040f00103f901af9043090100000092030e44686f6b65204861736f6c69616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0872897,
+          33.069161899587456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shehzad Home",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi",
+        "town": "Rawalpindi Cantonment",
+        "street": "Samarzar Main Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0327753,
+        "lat": 33.5331619,
+        "state_code": "PB",
+        "formatted": "Shehzad Home, Samarzar Main Road, Rawalpindi, Pakistan",
+        "address_line1": "Shehzad Home",
+        "address_line2": "Samarzar Main Road, Rawalpindi, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shehzad Home",
+            "osm_id": 4488698992,
+            "name:en": "Shehzad Home",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Shehzad Home"
+        },
+        "place_id": "51756792fd1842524059891b2da63ec44040f00103f901701c8c0b0100000092030c536865687a616420486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03277529999998,
+          33.53316189959066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "راول چوک",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone IV",
+        "postcode": "04404",
+        "street": "راول چوک",
+        "iso3166_2": "PK-IS",
+        "lon": 73.1104315,
+        "lat": 33.6890095,
+        "formatted": "Rawal Chowk, راول چوک, Zone IV 04404, Pakistan",
+        "address_line1": "Rawal Chowk",
+        "address_line2": "راول چوک, Zone IV 04404, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "راول چوک",
+            "osm_id": 4528270791,
+            "name:en": "Rawal Chowk",
+            "name:ur": "راول چوک",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Rawal Chowk",
+          "ur": "راول چوک"
+        },
+        "place_id": "51af3c484f114752405992b1997631d84040f00103f901c7ede70d0100000092030fd8b1d8a7d988d98420da86d988daa9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11043149999999,
+          33.68900949959347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wahcant Gete No 2",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Nawababad",
+        "municipality": "Taxila Tehsil",
+        "postcode": "47040",
+        "suburb": "4 Area",
+        "street": "Grand Trunk Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.7719978,
+        "lat": 33.7467953,
+        "state_code": "PB",
+        "formatted": "Wahcant Gete No 2, Grand Trunk Road, 4 Area, Nawababad 47040, Pakistan",
+        "address_line1": "Wahcant Gete No 2",
+        "address_line2": "Grand Trunk Road, 4 Area, Nawababad 47040, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wahcant Gete No 2",
+            "osm_id": 4594136790,
+            "name:en": "Wahcant Gete No 2",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Wahcant Gete No 2"
+        },
+        "place_id": "515fe575696831524059704806fd96df4040f00103f901d6f6d4110100000092031157616863616e742047657465204e6f2032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7719978,
+          33.74679529959474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shafi janjua road",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi",
+        "town": "Rawalpindi Cantonment",
+        "postcode": "44400",
+        "suburb": "Awan Town",
+        "street": "Naseerabad Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.974777,
+        "lat": 33.6253519,
+        "state_code": "PB",
+        "formatted": "shafi janjua road, Naseerabad Road, Awan Town, Rawalpindi 44400, Pakistan",
+        "address_line1": "shafi janjua road",
+        "address_line2": "Naseerabad Road, Awan Town, Rawalpindi 44400, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "shafi janjua road",
+            "osm_id": 4728036392,
+            "name:en": "shafi janjua road",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "shafi janjua road"
+        },
+        "place_id": "5127f911bf623e524059ba9ef2870bd04040f00103f901281cd019010000009203117368616669206a616e6a756120726f6164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.974777,
+          33.62535189959222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Advocate Kashif",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi Cantonment",
+        "postcode": "46060",
+        "district": "Chour Harpal",
+        "suburb": "Chour Harpal",
+        "street": "Misrial Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0096372,
+        "lat": 33.605737,
+        "state_code": "PB",
+        "formatted": "Advocate Kashif, Misrial Road, Chour Harpal, Rawalpindi Cantonment 46060, Pakistan",
+        "address_line1": "Advocate Kashif",
+        "address_line2": "Misrial Road, Chour Harpal, Rawalpindi Cantonment 46060, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Advocate Kashif",
+            "osm_id": 4820980323,
+            "name:en": "Advocate Kashif",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Advocate Kashif"
+        },
+        "place_id": "51cdb458e59d40524059b49c3dca88cd4040f00103f90163525a1f0100000092030f4164766f63617465204b6173686966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0096372,
+          33.60573699959187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humayun Tauqeer CUST",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi City Tehsil",
+        "postcode": "46330",
+        "suburb": "Shakrial",
+        "street": "Sambal Street",
+        "iso3166_2": "PK-PB",
+        "lon": 73.1027766,
+        "lat": 33.6366826,
+        "state_code": "PB",
+        "formatted": "Humayun Tauqeer CUST, Sambal Street, Shakrial, Rawalpindi City Tehsil 46330, Pakistan",
+        "address_line1": "Humayun Tauqeer CUST",
+        "address_line2": "Sambal Street, Shakrial, Rawalpindi City Tehsil 46330, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Humayun Tauqeer CUST",
+            "osm_id": 4853049122,
+            "name:en": "Humayun Tauqeer CUST",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Humayun Tauqeer CUST"
+        },
+        "place_id": "51d2f24de493465240594497bfd07ed14040f00103f90122a743210100000092031448756d6179756e20546175716565722043555354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1027766,
+          33.63668259959243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aslam v 109",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi Cantonment",
+        "postcode": "45210",
+        "district": "Chour Harpal",
+        "neighbourhood": "Friends Colony Street No. 2",
+        "suburb": "Chour Harpal",
+        "street": "Chakra Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.9897857,
+        "lat": 33.5929168,
+        "state_code": "PB",
+        "formatted": "Aslam v 109, Chakra Road, Chour Harpal, Rawalpindi Cantonment 45210, Pakistan",
+        "address_line1": "Aslam v 109",
+        "address_line2": "Chakra Road, Chour Harpal, Rawalpindi Cantonment 45210, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aslam v 109",
+            "osm_id": 4853049123,
+            "name:en": "Aslam v 109",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Aslam v 109"
+        },
+        "place_id": "511ae31ea6583f5240595ebf9bb2e4cb4040f00103f90123a743210100000092030b41736c616d207620313039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9897857,
+          33.592916799591634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pindora / Pandora",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Chah Sultan",
+        "municipality": "Rawalpindi City Tehsil",
+        "postcode": "46009",
+        "district": "Dhoke Kashmirian",
+        "suburb": "Pindora",
+        "street": "Saidpur Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0644148,
+        "lat": 33.6496103,
+        "state_code": "PB",
+        "formatted": "Pindora / Pandora, Saidpur Road, Pindora, Chah Sultan 46009, Pakistan",
+        "address_line1": "Pindora / Pandora",
+        "address_line2": "Saidpur Road, Pindora, Chah Sultan 46009, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pindora / Pandora",
+            "osm_id": 4942271325,
+            "name:en": "Pindora / Pandora",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Pindora / Pandora"
+        },
+        "place_id": "5137d8405f1f445240599af2276e26d34040f00103f9015d1395260100000092031150696e646f7261202f2050616e646f7261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0644148,
+          33.64961029959268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kali Tanki",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Old City",
+        "municipality": "Rawalpindi City Tehsil",
+        "postcode": "46300",
+        "district": "Sardar Buta Singh",
+        "suburb": "Asghar Mall",
+        "street": "Saidpur Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.062831,
+        "lat": 33.6341782,
+        "state_code": "PB",
+        "formatted": "Kali tanki, Saidpur Road, Asghar Mall, Old City 46300, Pakistan",
+        "address_line1": "Kali tanki",
+        "address_line2": "Saidpur Road, Asghar Mall, Old City 46300, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kali Tanki",
+            "osm_id": 4942272621,
+            "name:en": "Kali tanki",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Kali tanki"
+        },
+        "place_id": "51328b506c0544524059f18a51c02cd14040f00103f9016d1895260100000092030a4b616c692054616e6b69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06283099999999,
+          33.63417819959239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris mohallah",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Old City",
+        "municipality": "Rawalpindi City Tehsil",
+        "postcode": "46300",
+        "district": "Dhoke Sultan Muhammad",
+        "suburb": "Syed Pur",
+        "street": "Govt. Colleg Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0557343,
+        "lat": 33.6336841,
+        "state_code": "PB",
+        "formatted": "Paris mohallah, Govt. Colleg Road, Syed Pur, Old City 46300, Pakistan",
+        "address_line1": "Paris mohallah",
+        "address_line2": "Govt. Colleg Road, Syed Pur, Old City 46300, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paris mohallah",
+            "osm_id": 4942273022,
+            "name:en": "Paris mohallah",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Paris mohallah"
+        },
+        "place_id": "51fdf0982691435240594bdf818f1cd14040f00103f901fe1995260100000092030e5061726973206d6f68616c6c6168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0557343,
+          33.63368409959238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerry's Group",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "E-8",
+        "street": "Street 16",
+        "iso3166_2": "PK-IS",
+        "lon": 73.043417,
+        "lat": 33.7272812,
+        "formatted": "Gerry's Group, Street 16, E-8, Islamabad 44000, Pakistan",
+        "address_line1": "Gerry's Group",
+        "address_line2": "Street 16, E-8, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gerry's Group",
+            "osm_id": 4964054200,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "اسلام آباد",
+            "addr:street": "Street 16",
+            "addr:city:ar": "إسلام آباد",
+            "addr:city:en": "Islamabad",
+            "addr:city:ks": "اِسلام آبادٖ",
+            "addr:city:ps": "اسلام آباد",
+            "addr:city:sd": "اسلام آباد",
+            "addr:city:ur": "اسلام آباد",
+            "addr:city:pnb": "اسلام آباد"
+          }
+        },
+        "place_id": "51cac51858c74252405967a0e38c17dd4040f00103f901b874e1270100000092030d476572727927732047726f7570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.043417,
+          33.727281199594294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institute of Engineers Pakistan",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "G-8",
+        "street": "Street 12",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0532622,
+        "lat": 33.6896033,
+        "formatted": "Institute of Engineers Pakistan, Street 12, G-8, Islamabad 44000, Pakistan",
+        "address_line1": "Institute of Engineers Pakistan",
+        "address_line2": "Street 12, G-8, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Institute of Engineers Pakistan",
+            "osm_id": 4967695203,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "اسلام آباد",
+            "addr:street": "Street 12",
+            "addr:city:ar": "إسلام آباد",
+            "addr:city:en": "Islamabad",
+            "addr:city:ks": "اِسلام آبادٖ",
+            "addr:city:ps": "اسلام آباد",
+            "addr:city:sd": "اسلام آباد",
+            "addr:city:ur": "اسلام آباد",
+            "addr:city:pnb": "اسلام آباد"
+          }
+        },
+        "place_id": "513bc7dba56843524059de7bc1eb44d84040f00103f901630319280100000092031f496e73746974757465206f6620456e67696e656572732050616b697374616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05326219999999,
+          33.689603299593486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kasa Nari",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Mansehra District",
+        "state_district": "Hazara Division",
+        "city": "Garhi Habibullah",
+        "municipality": "Mansehra Tehsil",
+        "street": "Mansehra -Talhatta Road",
+        "iso3166_2": "PK-KP",
+        "lon": 73.3234832,
+        "lat": 34.3831952,
+        "state_code": "KP",
+        "formatted": "Kasa Nari, Mansehra -Talhatta Road, Garhi Habibullah, Pakistan",
+        "address_line1": "Kasa Nari",
+        "address_line2": "Mansehra -Talhatta Road, Garhi Habibullah, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kasa Nari",
+            "osm_id": 4970021625,
+            "name:en": "Kasa Nari",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Kasa Nari"
+        },
+        "place_id": "518b33e1f2b354524059382b518a0c314140f00103f901f9823c28010000009203094b617361204e617269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.32348319999998,
+          34.38319519961664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attershisha ziyarat",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Mansehra District",
+        "state_district": "Hazara Division",
+        "city": "Mansehra",
+        "municipality": "Mansehra Tehsil",
+        "street": "Mansehra-Naran-Chilas Highway N-15",
+        "iso3166_2": "PK-KP",
+        "lon": 73.3136956,
+        "lat": 34.3894649,
+        "state_code": "KP",
+        "formatted": "Attershisha ziyarat, Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "address_line1": "Attershisha ziyarat",
+        "address_line2": "Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Attershisha ziyarat",
+            "osm_id": 4970034621,
+            "name:en": "Attershisha ziyarat",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Attershisha ziyarat"
+        },
+        "place_id": "518bb9b5961354524059b6655ffcd9314140f00103f901bdb53c28010000009203134174746572736869736861207a697961726174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3136956,
+          34.389464899616925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attershisha Village",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Mansehra District",
+        "state_district": "Hazara Division",
+        "city": "Mansehra",
+        "municipality": "Mansehra Tehsil",
+        "street": "Mansehra-Naran-Chilas Highway N-15",
+        "iso3166_2": "PK-KP",
+        "lon": 73.3109075,
+        "lat": 34.3913892,
+        "state_code": "KP",
+        "formatted": "Attershisha Village, Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "address_line1": "Attershisha Village",
+        "address_line2": "Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Attershisha Village",
+            "osm_id": 4970034622,
+            "name:en": "Attershisha Village",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Attershisha Village"
+        },
+        "place_id": "51302592e8e5535240596e2e920a19324140f00103f901beb53c280100000092031341747465727368697368612056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.31090749999998,
+          34.391389199617024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M.Fawad Khan House",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Mansehra District",
+        "state_district": "Hazara Division",
+        "city": "Mansehra",
+        "municipality": "Mansehra Tehsil",
+        "street": "Mansehra-Naran-Chilas Highway N-15",
+        "iso3166_2": "PK-KP",
+        "lon": 73.3131127,
+        "lat": 34.389587,
+        "state_code": "KP",
+        "formatted": "M.Fawad Khan House, Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "address_line1": "M.Fawad Khan House",
+        "address_line2": "Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "M.Fawad Khan House",
+            "osm_id": 4970034623,
+            "name:en": "M.Fawad Khan House",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "M.Fawad Khan House"
+        },
+        "place_id": "51959dd9090a5452405998269ffcdd314140f00103f901bfb53c28010000009203124d2e4661776164204b68616e20486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.31311269999999,
+          34.38958699961694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laray AtterShisha",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Mansehra District",
+        "state_district": "Hazara Division",
+        "city": "Garhi Habibullah",
+        "municipality": "Mansehra Tehsil",
+        "street": "Mansehra -Talhatta Road",
+        "iso3166_2": "PK-KP",
+        "lon": 73.3243712,
+        "lat": 34.3794621,
+        "state_code": "KP",
+        "formatted": "Laray AtterShisha, Mansehra -Talhatta Road, Garhi Habibullah, Pakistan",
+        "address_line1": "Laray AtterShisha",
+        "address_line2": "Mansehra -Talhatta Road, Garhi Habibullah, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Laray AtterShisha",
+            "osm_id": 4995599422,
+            "name:en": "Laray AtterShisha",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Laray AtterShisha"
+        },
+        "place_id": "51eaf06b7fc2545240594ef6cd3692304140f00103f9013eccc229010000009203114c61726179204174746572536869736861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3243712,
+          34.379462099616475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shakhelgari (Imran Bhai House)",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Mansehra District",
+        "state_district": "Hazara Division",
+        "city": "Mansehra",
+        "municipality": "Mansehra Tehsil",
+        "street": "Mansehra-Naran-Chilas Highway N-15",
+        "iso3166_2": "PK-KP",
+        "lon": 73.270325,
+        "lat": 34.3510835,
+        "state_code": "KP",
+        "formatted": "Shakhelgari (Imran Bhai House), Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "address_line1": "Shakhelgari (Imran Bhai House)",
+        "address_line2": "Mansehra-Naran-Chilas Highway N-15, Mansehra, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shakhelgari (Imran Bhai House)",
+            "osm_id": 4995601323,
+            "name:en": "Shakhelgari (Imran Bhai House)",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Shakhelgari (Imran Bhai House)"
+        },
+        "place_id": "51a3923a014d515240599a81da4df02c4140f00103f901abd3c2290100000092031e5368616b68656c676172692028496d72616e204268616920486f75736529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.270325,
+          34.3510834996152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baba Hunjira wali sarkar maqbara tomb",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Zone 1",
+        "postcode": "45210",
+        "suburb": "I-15",
+        "quarter": "I-15/1",
+        "street": "Street 28F",
+        "iso3166_2": "PK-IS",
+        "lon": 72.9492978,
+        "lat": 33.5939273,
+        "formatted": "Baba Hunjira wali sarkar maqbara tomb, Street 28F, I-15, Zone 1 45210, Pakistan",
+        "address_line1": "Baba Hunjira wali sarkar maqbara tomb",
+        "address_line2": "Street 28F, I-15, Zone 1 45210, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Baba Hunjira wali sarkar maqbara tomb",
+            "osm_id": 4996056021,
+            "name:en": "Baba Hunjira wali sarkar maqbara tomb",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Baba Hunjira wali sarkar maqbara tomb"
+        },
+        "place_id": "518b4a8f4bc13c52405950f94bcf05cc4040f00103f901d5c3c92901000000920325426162612048756e6a6972612077616c69207361726b6172206d61716261726120746f6d62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9492978,
+          33.593927299591655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faizabad",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Chah Sultan",
+        "municipality": "Rawalpindi City Tehsil",
+        "postcode": "44790",
+        "district": "Dhoke Khillu Khan",
+        "suburb": "Dhoke Paracha",
+        "street": "Murree Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0853793,
+        "lat": 33.6624676,
+        "state_code": "PB",
+        "formatted": "Faizabad, Murree Road, Dhoke Paracha, Chah Sultan 44790, Pakistan",
+        "address_line1": "Faizabad",
+        "address_line2": "Murree Road, Dhoke Paracha, Chah Sultan 44790, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Faizabad",
+            "osm_id": 5022137725,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515850bdda7645524059a67401bdcbd44040f00103f9017dbd572b010000009203084661697a61626164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0853793,
+          33.662467599592944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashad Home",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "I-9",
+        "street": "Service Road South I-9",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0538907,
+        "lat": 33.6473286,
+        "formatted": "Ashad Home, Service Road South I-9, I-9, Islamabad 44000, Pakistan",
+        "address_line1": "Ashad Home",
+        "address_line2": "Service Road South I-9, I-9, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ashad Home",
+            "osm_id": 5034003227,
+            "name:en": "Ashad Home",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ashad Home"
+        },
+        "place_id": "51be83faf172435240590882dea9dbd24040f00103f9011bcb0c2c0100000092030a417368616420486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05389069999998,
+          33.64732859959264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shakil Home",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi Cantonment",
+        "postcode": "23451",
+        "district": "Shalley Valley",
+        "suburb": "Shalley Valley",
+        "street": "Dhok Saiydan Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0394503,
+        "lat": 33.5700149,
+        "state_code": "PB",
+        "formatted": "Shakil Home, Dhok Saiydan Road, Shalley Valley, Rawalpindi Cantonment 23451, Pakistan",
+        "address_line1": "Shakil Home",
+        "address_line2": "Dhok Saiydan Road, Shalley Valley, Rawalpindi Cantonment 23451, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shakil Home",
+            "osm_id": 5044771021,
+            "name:en": "Shakil Home",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Shakil Home"
+        },
+        "place_id": "5150148d5a864252405912fd8b3ff6c84040f00103f901cd18b12c0100000092030b5368616b696c20486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0394503,
+          33.57001489959124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noman Home",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi",
+        "town": "Rawalpindi Cantonment",
+        "postcode": "23451",
+        "street": "Tulsa Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0431551,
+        "lat": 33.5606449,
+        "state_code": "PB",
+        "formatted": "Noman Home, Tulsa Road, Rawalpindi 23451, Pakistan",
+        "address_line1": "Noman Home",
+        "address_line2": "Tulsa Road, Rawalpindi 23451, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Noman Home",
+            "osm_id": 5072650924,
+            "name:en": "Noman Home",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Noman Home"
+        },
+        "place_id": "51f5c99b0dc342524059dd344a36c3c74040f00103f901ac825a2e0100000092030a4e6f6d616e20486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04315509999999,
+          33.560644899591104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haq Distributor",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "I-9",
+        "street": "Street 3",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0590855,
+        "lat": 33.6633631,
+        "formatted": "Haq Distributor, Street 3, I-9, Islamabad 44000, Pakistan",
+        "address_line1": "Haq Distributor",
+        "address_line2": "Street 3, I-9, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Haq Distributor",
+            "osm_id": 5101187122,
+            "name:en": "Haq Distributor",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Haq Distributor"
+        },
+        "place_id": "51bd8a8c0ec843524059fd0f0115e9d44040f00103f90132f00d300100000092030f486171204469737472696275746f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0590855,
+          33.66336309959295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakim Plaza",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "New Awan Town",
+        "postcode": "46060",
+        "suburb": "Pia Colony",
+        "street": "Range Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0079488,
+        "lat": 33.6004516,
+        "state_code": "PB",
+        "formatted": "Hakim Plaza, Range Road, Pia Colony, New Awan Town 46060, Pakistan",
+        "address_line1": "Hakim Plaza",
+        "address_line2": "Range Road, Pia Colony, New Awan Town 46060, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hakim Plaza",
+            "osm_id": 5101187421,
+            "name:en": "Hakim Plaza",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Hakim Plaza"
+        },
+        "place_id": "51b702af3b8240524059ec891799dbcc4040f00103f9015df10d300100000092030b48616b696d20506c617a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0079488,
+          33.600451599591764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamran Home",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi",
+        "town": "Rawalpindi Cantonment",
+        "postcode": "23451",
+        "street": "Tulsa Road",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0431596,
+        "lat": 33.5606676,
+        "state_code": "PB",
+        "formatted": "Kamran Home, Tulsa Road, Rawalpindi 23451, Pakistan",
+        "address_line1": "Kamran Home",
+        "address_line2": "Tulsa Road, Rawalpindi 23451, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kamran Home",
+            "osm_id": 5115837821,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5189a07b20c342524059d615b6f4c3c74040f00103f9017d7ded300100000092030b4b616d72616e20486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04315959999998,
+          33.5606675995911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haq Distributor",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "I-9",
+        "street": "Street 3",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0590312,
+        "lat": 33.6633486,
+        "formatted": "Haq Distributor, Street 3, I-9, Islamabad 44000, Pakistan",
+        "address_line1": "Haq Distributor",
+        "address_line2": "Street 3, I-9, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Haq Distributor",
+            "osm_id": 5134205721,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51655ccc2ac743524059af8c5e9be8d44040f00103f90119c305320100000092030f486171204469737472696275746f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0590312,
+          33.66334859959294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "thand",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Abbottabad District",
+        "state_district": "Hazara Division",
+        "city": "Thandiani",
+        "municipality": "Abbottabad Tehsil",
+        "street": "Thandiani Road",
+        "iso3166_2": "PK-KP",
+        "lon": 73.3514593,
+        "lat": 34.2284228,
+        "state_code": "KP",
+        "formatted": "thand, Thandiani Road, Thandiani, Pakistan",
+        "address_line1": "thand",
+        "address_line2": "Thandiani Road, Thandiani, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "thand",
+            "osm_id": 5178234625,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5101d8254f7e5652405929fe52f53c1d4140f00103f9010197a534010000009203057468616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3514593,
+          34.22842279960998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ijaz Shah Home",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "G-8",
+        "street": "G8 Markaz Road",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0473353,
+        "lat": 33.699098,
+        "formatted": "Ijaz Shah Home, G8 Markaz Road, G-8, Islamabad 44000, Pakistan",
+        "address_line1": "Ijaz Shah Home",
+        "address_line2": "G8 Markaz Road, G-8, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ijaz Shah Home",
+            "osm_id": 5224299523,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51905ca38a07435240591b7a120b7cd94040f00103f901037c64370100000092030e496a617a205368616820486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04733529999999,
+          33.6990979995937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rasheed Sb Home",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Attock District",
+        "state_district": "Rawalpindi Division",
+        "city": "Kamra Khurd",
+        "street": "Attock Road",
+        "iso3166_2": "PK-PB",
+        "lon": 72.4288109,
+        "lat": 33.8372178,
+        "state_code": "PB",
+        "formatted": "Rasheed Sb Home, Attock Road, Kamra Khurd, Pakistan",
+        "address_line1": "Rasheed Sb Home",
+        "address_line2": "Attock Road, Kamra Khurd, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rasheed Sb Home",
+            "osm_id": 5224313322,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c5ea45a3711b524059f372eef329eb4040f00103f901eab164370100000092030f5261736865656420536220486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.42881089999999,
+          33.837217799596964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "K Khan",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Swabi District",
+        "state_district": "Mardan Division",
+        "city": "Tordher",
+        "municipality": "Lahor Tehsil",
+        "street": "Tordher Bazaar",
+        "iso3166_2": "PK-KP",
+        "lon": 72.2893549,
+        "lat": 33.9904496,
+        "state_code": "KP",
+        "formatted": "K Khan, Tordher Bazaar, Tordher, Pakistan",
+        "address_line1": "K Khan",
+        "address_line2": "Tordher Bazaar, Tordher, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "K Khan",
+            "osm_id": 5230385522,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fe1b6aca8412524059e94f6f0dc7fe4040f00103f9017259c137010000009203064b204b68616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2893549,
+          33.9904495996014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tealiner",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "G-8",
+        "street": "G8 Markaz Road",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0509677,
+        "lat": 33.6953167,
+        "formatted": "Tealiner, G8 Markaz Road, G-8, Islamabad 44000, Pakistan",
+        "address_line1": "Tealiner",
+        "address_line2": "G8 Markaz Road, G-8, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tealiner",
+            "osm_id": 5284836923,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c029070e4343524059018f3a2300d94040f00103f9013b36003b010000009203085465616c696e6572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0509677,
+          33.69531669959361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Usman Distributors",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "I-10",
+        "industrial": "I-10/3",
+        "street": "Street 9",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0378311,
+        "lat": 33.6492537,
+        "formatted": "Usman Distributors, Street 9, I-10, Islamabad 44000, Pakistan",
+        "address_line1": "Usman Distributors",
+        "address_line2": "Street 9, I-10, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Usman Distributors",
+            "osm_id": 5284838222,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51645122d36b425240595e47c7be1ad34040f00103f9014e3b003b0100000092031255736d616e204469737472696275746f7273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0378311,
+          33.64925369959268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Java Dam",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Kamalpur",
+        "municipality": "Rawalpindi Saddar Tehsil",
+        "street": "Rawalpindi Ring Road - Proposed",
+        "iso3166_2": "PK-PB",
+        "lon": 72.9367308,
+        "lat": 33.4344754,
+        "state_code": "PB",
+        "formatted": "Java Dam, Rawalpindi Ring Road - Proposed, Kamalpur, Pakistan",
+        "address_line1": "Java Dam",
+        "address_line2": "Rawalpindi Ring Road - Proposed, Kamalpur, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Java Dam",
+            "osm_id": 5320773721,
+            "name:en": "Java Dam",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Java Dam"
+        },
+        "place_id": "51fac9bd65f33b5240598d13d0e39cb74040f00103f9015990243d010000009203084a6176612044616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93673079999999,
+          33.43447539958934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rest House Near motorway",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Dhadhumber",
+        "municipality": "Rawalpindi Saddar Tehsil",
+        "street": "M2 Motorway",
+        "iso3166_2": "PK-PB",
+        "lon": 72.6587938,
+        "lat": 33.199371,
+        "state_code": "PB",
+        "formatted": "Rest House Near motorway, M2 Motorway, Dhadhumber, Pakistan",
+        "address_line1": "Rest House Near motorway",
+        "address_line2": "M2 Motorway, Dhadhumber, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rest House Near motorway",
+            "osm_id": 5531723321,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51af7378ad292a524059ef7f29fd84994040f00103f9013966b749010000009203185265737420486f757365204e656172206d6f746f72776179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6587938,
+          33.19937099958758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue of Liberty",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Punjab",
+        "county": "Rawalpindi District",
+        "state_district": "Rawalpindi Division",
+        "city": "Rawalpindi",
+        "town": "Rawalpindi Cantonment",
+        "postcode": "46220",
+        "street": "Statue Of Liber Island",
+        "iso3166_2": "PK-PB",
+        "lon": 73.0874056,
+        "lat": 33.5014625,
+        "state_code": "PB",
+        "formatted": "Statue of Liberty, Statue Of Liber Island, Rawalpindi 46220, Pakistan",
+        "address_line1": "Statue of Liberty",
+        "address_line2": "Statue Of Liber Island, Rawalpindi 46220, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statue of Liberty",
+            "osm_id": 5599314121,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "512f5fa80d984552405986f455ec2fc04040f00103f901c9c0be4d01000000920311537461747565206f66204c696265727479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0874056,
+          33.501462499590204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaheen Foundation",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "E-8",
+        "street": "Shangrila Road",
+        "iso3166_2": "PK-IS",
+        "lon": 73.019602,
+        "lat": 33.7107509,
+        "formatted": "Shaheen Foundation, Shangrila Road, E-8, Islamabad 44000, Pakistan",
+        "address_line1": "Shaheen Foundation",
+        "address_line2": "Shangrila Road, E-8, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shaheen Foundation",
+            "osm_id": 5663039733,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eb3bbf284141524059e4adaee2f9da4040f00103f901f5208b51010000009203125368616865656e20466f756e646174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.019602,
+          33.71075089959393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohra Morado",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Khyber Pakhtunkhwa",
+        "county": "Haripur District",
+        "state_district": "Hazara Division",
+        "city": "Mohra Moradu",
+        "municipality": "Khanpur Tehsil",
+        "postcode": "47080",
+        "street": "Jaulian Stupa Road",
+        "iso3166_2": "PK-KP",
+        "lon": 72.8603899,
+        "lat": 33.7609976,
+        "state_code": "KP",
+        "formatted": "Mohra Morado, Jaulian Stupa Road, Mohra Moradu 47080, Pakistan",
+        "address_line1": "Mohra Morado",
+        "address_line2": "Jaulian Stupa Road, Mohra Moradu 47080, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mohra Morado",
+            "osm_id": 5687298821,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c293cca01037524059334c8d5e68e14040f00103f901054bfd520100000092030c4d6f687261204d6f7261646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8603899,
+          33.760997599595065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muhammad Imran Afzal",
+        "country": "Pakistan",
+        "country_code": "pk",
+        "state": "Islamabad Capital Territory",
+        "city": "Islamabad",
+        "municipality": "Zone 1",
+        "postcode": "44000",
+        "suburb": "I-8",
+        "street": "Street 85",
+        "iso3166_2": "PK-IS",
+        "lon": 73.0817081,
+        "lat": 33.6666622,
+        "formatted": "Muhammad Imran Afzal, Street 85, I-8, Islamabad 44000, Pakistan",
+        "address_line1": "Muhammad Imran Afzal",
+        "address_line2": "Street 85, I-8, Islamabad 44000, Pakistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Muhammad Imran Afzal",
+            "osm_id": 5714720621,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515e549cb43a45524059a15ddc2f55d54040f00103f9016db79f54010000009203144d7568616d6d616420496d72616e2041667a616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08170809999999,
+          33.66666219959303
+        ]
+      }
+    }
+  ]
+}

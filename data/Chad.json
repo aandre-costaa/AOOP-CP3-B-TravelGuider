@@ -1,0 +1,1615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parc de jeux",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Chari-Baguirmi",
+        "city": "Mandelia",
+        "hamlet": "Siguet",
+        "street": "Ndjamena - Sarh/Bongor National Road",
+        "iso3166_2": "TD-CB",
+        "lon": 15.1551159,
+        "lat": 11.9612838,
+        "state_code": "CB",
+        "formatted": "Parc de jeux, Ndjamena - Sarh/Bongor National Road, Mandelia, Chad",
+        "address_line1": "Parc de jeux",
+        "address_line2": "Ndjamena - Sarh/Bongor National Road, Mandelia, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parc de jeux",
+            "osm_id": 4502748090,
+            "name:fr": "Parc de jeux",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Ndjamena - Sarh/Bongor National Road",
+            "opening_hours": "Mo-Su 08:00-17:30"
+          }
+        },
+        "opening_hours": "Mo-Su 08:00-17:30",
+        "name_international": {
+          "fr": "Parc de jeux"
+        },
+        "place_id": "51e22deb596b4f2e4059edb6e2632dec2740f00103f901ba7b620c0100000092030c50617263206465206a657578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.155115900000002,
+          11.96128379957687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مركز المنى الثقافي",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "2ème Arrondissement / الدائرة الثانية",
+        "neighbourhood": "Djambal Bahr",
+        "suburb": "Djambal Bahr",
+        "street": "Avenue Charles de Gaulle",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0440014,
+        "lat": 12.109401,
+        "formatted": "مركز المنى الثقافي, Avenue Charles de Gaulle, Djambal Bahr, N'Djamena, Chad",
+        "address_line1": "مركز المنى الثقافي",
+        "address_line2": "Avenue Charles de Gaulle, Djambal Bahr, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مركز المنى الثقافي",
+            "osm_id": 2163827256,
+            "name:ar": "مركز المنى الثقافي",
+            "name:fr": "Centre culturel Al Mouna",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "انجمينا",
+            "addr:street": "شارع شارل ديغول",
+            "operator_type": "community",
+            "school:secondary": "yes",
+            "operational_status": "open",
+            "school:fondamental_first_cycle": "yes",
+            "school:fondamental_third_cycle": "yes",
+            "school:fondamental_second_cycle": "yes"
+          }
+        },
+        "operator_details": {
+          "type": "community"
+        },
+        "name_international": {
+          "ar": "مركز المنى الثقافي",
+          "fr": "Centre culturel Al Mouna"
+        },
+        "place_id": "51d9f4fb5987162e405904c8666803382840f00103f9013862f98000000000920322d985d8b1d983d8b220d8a7d984d985d986d98920d8a7d984d8abd982d8a7d981d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0440014,
+          12.109400999590441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre de jeux Hinda",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "6éme Arrondissement / الدائرة السادسة",
+        "suburb": "6ème Arrondissement",
+        "street": "N'Djamena - Moundou انجامينا - موندو",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0826132,
+        "lat": 12.0928449,
+        "formatted": "Centre de jeux Hinda, N'Djamena - Moundou انجامينا - موندو, 6ème Arrondissement, N'Djamena, Chad",
+        "address_line1": "Centre de jeux Hinda",
+        "address_line2": "N'Djamena - Moundou انجامينا - موندو, 6ème Arrondissement, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centre de jeux Hinda",
+            "osm_id": 4108574989,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51926f00474c2a2e405967abde5d892f2840f00103f9010de1e3f40000000092031443656e747265206465206a6575782048696e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0826132,
+          12.09284489958891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferme Artine",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Chari-Baguirmi",
+        "iso3166_2": "TD-CB",
+        "lon": 15.264845,
+        "lat": 11.9097229,
+        "state_code": "CB",
+        "formatted": "Ferme Artine, Chari-Baguirmi, Chad",
+        "address_line1": "Ferme Artine",
+        "address_line2": "Chari-Baguirmi, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ferme Artine",
+            "osm_id": 4108575489,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "RAF"
+          }
+        },
+        "place_id": "51a9048bc399872e4059862b2c33c7d12740f00103f90101e3e3f40000000092030c4665726d6520417274696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.264844999999996,
+          11.909722899572227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotary club",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "suburb": "3ème Arrondissement / الدائرة الثالثة",
+        "street": "Avenue Mubutu شارع موبوتو",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0525042,
+        "lat": 12.1001841,
+        "formatted": "Rotary club, Avenue Mubutu شارع موبوتو, 3ème Arrondissement / الدائرة الثالثة, N'Djamena, Chad",
+        "address_line1": "Rotary club",
+        "address_line2": "Avenue Mubutu شارع موبوتو, 3ème Arrondissement / الدائرة الثالثة, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rotary club",
+            "osm_id": 4116261791,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5128ce9bd4e11a2e40590da28e544b332840f00103f9019f2b59f50000000092030b526f7461727920636c7562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.052504200000001,
+          12.100184099589592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond-point patte d'oie",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "10ème Arrondissement / الدائرة العاشرة",
+        "neighbourhood": "Goudji Charfa قوجي شارفا",
+        "suburb": "Goudji Charfa قوجي شارفا",
+        "street": "Autoroute transafricaine N'Djaména - Tripoli / Khartoum",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0400151,
+        "lat": 12.1650043,
+        "formatted": "Rond-point patte d'oie, Autoroute transafricaine N'Djaména - Tripoli / Khartoum, Goudji Charfa قوجي شارفا, N'Djamena, Chad",
+        "address_line1": "Rond-point patte d'oie",
+        "address_line2": "Autoroute transafricaine N'Djaména - Tripoli / Khartoum, Goudji Charfa قوجي شارفا, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond-point patte d'oie",
+            "osm_id": 4116332790,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "513db1f3db7c142e4059e2ec8c717b542840f00103f901f6405af500000000920316526f6e642d706f696e742070617474652064276f6965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0400151,
+          12.16500429959564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الاتحاد اللوثري العالمي LWF",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "1er Arrondissement / الدائرة الأولى",
+        "neighbourhood": "Milezi مليز",
+        "suburb": "Milezi مليز",
+        "street": "Rue Milezi",
+        "iso3166_2": "TD-ND",
+        "lon": 14.9783882,
+        "lat": 12.1213006,
+        "formatted": "الاتحاد اللوثري العالمي LWF, Rue Milezi, Milezi مليز, N'Djamena, Chad",
+        "address_line1": "الاتحاد اللوثري العالمي LWF",
+        "address_line2": "Rue Milezi, Milezi مليز, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الاتحاد اللوثري العالمي LWF",
+            "osm_id": 4116332891,
+            "name:ar": "الاتحاد اللوثري العالمي",
+            "name:fr": "LWF",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الاتحاد اللوثري العالمي",
+          "fr": "LWF"
+        },
+        "place_id": "51a995534ceff42d40593876b81c1b3e2840f00103f9015b415af500000000920330d8a7d984d8a7d8aad8add8a7d8af20d8a7d984d984d988d8abd8b1d98a20d8a7d984d8b9d8a7d984d985d98a204c5746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9783882,
+          12.12130059959155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trou suspect",
+        "country": "Cameroon",
+        "country_code": "cm",
+        "state": "Far-North",
+        "county": "Logone-et-Chari",
+        "city": "Fotokol",
+        "village": "Tchoukouli",
+        "hamlet": "Magam Arabe",
+        "street": "N1A",
+        "iso3166_2": "CM-EN",
+        "lon": 14.3736885,
+        "lat": 12.3690093,
+        "formatted": "Trou suspect, N1A, Fotokol, Cameroon",
+        "address_line1": "Trou suspect",
+        "address_line2": "N1A, Fotokol, Cameroon",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trou suspect",
+            "osm_id": 4490727995,
+            "name:en": "Trou suspect",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Trou suspect"
+        },
+        "place_id": "5159c85c1954bf2c4059988873c9eebc2840f00103f9013b12ab0b0100000092030c54726f752073757370656374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.373688500000002,
+          12.369009299615115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مانديليا Mandelia",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Chari-Baguirmi",
+        "city": "Mandelia",
+        "hamlet": "Siguet",
+        "street": "Ndjamena - Sarh/Bongor National Road",
+        "iso3166_2": "TD-CB",
+        "lon": 15.2403708,
+        "lat": 11.7420592,
+        "state_code": "CB",
+        "formatted": "مانديليا Mandelia, Ndjamena - Sarh/Bongor National Road, Mandelia, Chad",
+        "address_line1": "مانديليا Mandelia",
+        "address_line2": "Ndjamena - Sarh/Bongor National Road, Mandelia, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مانديليا Mandelia",
+            "osm_id": 4539935892,
+            "name:ar": "مانديليا",
+            "name:fr": "Mandelia",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مانديليا",
+          "fr": "Mandelia"
+        },
+        "place_id": "51a4d3a9e1117b2e40592f97f32eef7b2740f00103f90194ec990e01000000920319d985d8a7d986d8afd98ad984d98ad8a7204d616e64656c6961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2403708,
+          11.742059199557472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "suburb": "3ème Arrondissement / الدائرة الثالثة",
+        "street": "Route de la Corniche طريق الكورنيش",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0535841,
+        "lat": 12.0979742,
+        "formatted": "Connection, Route de la Corniche طريق الكورنيش, 3ème Arrondissement / الدائرة الثالثة, N'Djamena, Chad",
+        "address_line1": "Connection",
+        "address_line2": "Route de la Corniche طريق الكورنيش, 3ème Arrondissement / الدائرة الثالثة, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Connection",
+            "osm_id": 4744980223,
+            "name:fr": "Connection",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Connection"
+        },
+        "place_id": "51d42b0a606f1b2e4059282d9eac29322840f00103f901ffa6d21a0100000092030a436f6e6e656374696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.053584100000002,
+          12.097974199589387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Couturier",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "6éme Arrondissement / الدائرة السادسة",
+        "suburb": "Moursal مورسال",
+        "street": "Avenue Mubutu",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0710476,
+        "lat": 12.0945062,
+        "formatted": "Couturier, Avenue Mubutu, Moursal مورسال, N'Djamena, Chad",
+        "address_line1": "Couturier",
+        "address_line2": "Avenue Mubutu, Moursal مورسال, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Couturier",
+            "osm_id": 4773515226,
+            "name:fr": "Couturier",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Couturier"
+        },
+        "place_id": "5128ebdc5960242e40592e02d91d63302840f00103f901da0f861c01000000920309436f75747572696572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0710476,
+          12.094506199589059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connection",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "suburb": "3ème Arrondissement / الدائرة الثالثة",
+        "street": "Route de la Corniche طريق الكورنيش",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0534205,
+        "lat": 12.0980331,
+        "formatted": "Connection, Route de la Corniche طريق الكورنيش, 3ème Arrondissement / الدائرة الثالثة, N'Djamena, Chad",
+        "address_line1": "Connection",
+        "address_line2": "Route de la Corniche طريق الكورنيش, 3ème Arrondissement / الدائرة الثالثة, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Connection",
+            "osm_id": 4773556738,
+            "name:fr": "Connection",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Connection"
+        },
+        "place_id": "5137df88ee591b2e4059ed52f96431322840f00103f90102b2861c0100000092030a436f6e6e656374696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0534205,
+          12.098033099589395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "2ème Arrondissement / الدائرة الثانية",
+        "neighbourhood": "Bololo بولولو",
+        "suburb": "Bololo بولولو",
+        "street": "Place de la Nation",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0390118,
+        "lat": 12.1120586,
+        "formatted": "Place de la Nation, Bololo بولولو, N'Djamena, Chad",
+        "address_line1": "Place de la Nation",
+        "address_line2": "Bololo بولولو, N'Djamena, Chad",
+        "name": "Place de la Nation",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place de la Nation",
+            "osm_id": 4811763621,
+            "name:ar": "ساحة الأمة",
+            "name:fr": "Place de la Nation",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "ساحة الأمة",
+          "fr": "Place de la Nation"
+        },
+        "place_id": "51f150ca5af9132e405986f4a8be5f392840f00103f901a5afcd1e01000000920312506c616365206465206c61204e6174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.039011799999999,
+          12.112058599590693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferme Ali Nangoto",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Chari-Baguirmi",
+        "city": "Mandelia",
+        "hamlet": "Siguet",
+        "street": "Ndjamena - Sarh/Bongor National Road",
+        "iso3166_2": "TD-CB",
+        "lon": 15.2541654,
+        "lat": 11.8480214,
+        "state_code": "CB",
+        "formatted": "Ferme Ali Nangoto, Ndjamena - Sarh/Bongor National Road, Mandelia, Chad",
+        "address_line1": "Ferme Ali Nangoto",
+        "address_line2": "Ndjamena - Sarh/Bongor National Road, Mandelia, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ferme Ali Nangoto",
+            "osm_id": 5462216422,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ad8ca1f721822e405909e562dc2fb22740f00103f901e6ce9245010000009203114665726d6520416c69204e616e676f746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2541654,
+          11.848021399566749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferme de Djouna",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "hamlet": "Sagoa",
+        "district": "7ème Arrondissement / الدائرة السابعة",
+        "suburb": "7ème Arrondissement / الدائرة السابعة",
+        "street": "70404",
+        "iso3166_2": "TD-ND",
+        "lon": 15.1262342,
+        "lat": 12.0694892,
+        "formatted": "Ferme de Djouna, 70404, 7ème Arrondissement / الدائرة السابعة, N'Djamena, Chad",
+        "address_line1": "Ferme de Djouna",
+        "address_line2": "70404, 7ème Arrondissement / الدائرة السابعة, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ferme de Djouna",
+            "osm_id": 5498904322,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510046e1c4a1402e4059f14c9f1694232840f00103f901029fc2470100000092030f4665726d6520646520446a6f756e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.126234199999999,
+          12.069489199586743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Couveuse OWIYANA",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Chari-Baguirmi",
+        "city": "Klessoum",
+        "hamlet": "Ardébé",
+        "street": "Route régionale N'Djaména - Linia - Masenya",
+        "iso3166_2": "TD-CB",
+        "lon": 15.2119192,
+        "lat": 12.0018594,
+        "state_code": "CB",
+        "formatted": "Couveuse OWIYANA, Route régionale N'Djaména - Linia - Masenya, Klessoum, Chad",
+        "address_line1": "Couveuse OWIYANA",
+        "address_line2": "Route régionale N'Djaména - Linia - Masenya, Klessoum, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Couveuse OWIYANA",
+            "osm_id": 5548381324,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f8c962ac806c2e405900c718b7f3002840f00103f9018c94b54a01000000920310436f757665757365204f574959414e41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.211919199999997,
+          12.001859399580553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poulailler Ali Adji",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Chari-Baguirmi",
+        "city": "Klessoum",
+        "hamlet": "Ardébé",
+        "street": "Route régionale N'Djaména - Linia - Masenya",
+        "iso3166_2": "TD-CB",
+        "lon": 15.2647475,
+        "lat": 12.0475828,
+        "state_code": "CB",
+        "formatted": "Poulailler Ali Adji, Route régionale N'Djaména - Linia - Masenya, Klessoum, Chad",
+        "address_line1": "Poulailler Ali Adji",
+        "address_line2": "Route régionale N'Djaména - Linia - Masenya, Klessoum, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Poulailler Ali Adji",
+            "osm_id": 5619162224,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514265fcfb8c872e40591b23d0c55c182840f00103f901709ced4e01000000920313506f756c61696c6c657220416c692041646a69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.264747500000002,
+          12.047582799584736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poulailler Ali Klessoum",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Chari-Baguirmi",
+        "city": "Klessoum",
+        "hamlet": "Ardébé",
+        "street": "Route régionale N'Djaména - Linia - Masenya",
+        "iso3166_2": "TD-CB",
+        "lon": 15.190628,
+        "lat": 12.0147808,
+        "state_code": "CB",
+        "formatted": "Poulailler Ali Klessoum, Route régionale N'Djaména - Linia - Masenya, Klessoum, Chad",
+        "address_line1": "Poulailler Ali Klessoum",
+        "address_line2": "Route régionale N'Djaména - Linia - Masenya, Klessoum, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Poulailler Ali Klessoum",
+            "osm_id": 5619163722,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515f6743fe99612e4059de9f555991072840f00103f9014aa2ed4e01000000920317506f756c61696c6c657220416c69204b6c6573736f756d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.190628000000002,
+          12.014780799581725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marché de farcha",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "1er Arrondissement / الدائرة الأولى",
+        "neighbourhood": "Milezi مليز",
+        "suburb": "Ardep Timan",
+        "street": "Rue Milezi",
+        "iso3166_2": "TD-ND",
+        "lon": 14.9790257,
+        "lat": 12.1264087,
+        "formatted": "Marché de farcha, Rue Milezi, Ardep Timan, N'Djamena, Chad",
+        "address_line1": "Marché de farcha",
+        "address_line2": "Rue Milezi, Ardep Timan, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Marché de farcha",
+            "osm_id": 6145471385,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5114e346db42f52d4059f35a1da4b8402840f00103f90199734c6e010000009203114d61726368c3a920646520666172636861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.979025700000001,
+          12.126408699592025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almandoula (Tribus Beni-Waïl)",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Hadjer-Lamis",
+        "iso3166_2": "TD-HL",
+        "lon": 15.223644,
+        "lat": 12.7312309,
+        "formatted": "Almandoula (Tribus Beni-Waïl), Hadjer-Lamis, Chad",
+        "address_line1": "Almandoula (Tribus Beni-Waïl)",
+        "address_line2": "Hadjer-Lamis, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Almandoula (Tribus Beni-Waïl)",
+            "osm_id": 6611991186,
+            "name:ar": "المندولة( قبيلة بني وئل)",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "المندولة( قبيلة بني وئل)"
+        },
+        "place_id": "51abe4637781722e405951a77fe563762940f00103f90192fa1a8a0100000092031e416c6d616e646f756c6120285472696275732042656e692d5761c3af6c29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.223643999999998,
+          12.731230899651253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardin Ambourou",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Hadjer-Lamis",
+        "city": "Sidje Milesi",
+        "iso3166_2": "TD-HL",
+        "lon": 14.975218,
+        "lat": 12.9950152,
+        "formatted": "Jardin Ambourou, Sidje Milesi, Hadjer-Lamis, Chad",
+        "address_line1": "Jardin Ambourou",
+        "address_line2": "Sidje Milesi, Hadjer-Lamis, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jardin Ambourou",
+            "osm_id": 7005991885,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e9f010c64ff32d40592c49dba172fd2940f00103f901cdf396a10100000092030f4a617264696e20416d626f75726f75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.975218,
+          12.995015199678697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardin Ambourou",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Hadjer-Lamis",
+        "city": "Sidje Milesi",
+        "iso3166_2": "TD-HL",
+        "lon": 14.9752572,
+        "lat": 12.9950459,
+        "formatted": "Jardin Ambourou, Sidje Milesi, Hadjer-Lamis, Chad",
+        "address_line1": "Jardin Ambourou",
+        "address_line2": "Sidje Milesi, Hadjer-Lamis, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jardin Ambourou",
+            "osm_id": 7005991886,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51886066e954f32d40591f47faa776fd2940f00103f901cef396a10100000092030f4a617264696e20416d626f75726f75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.975257200000001,
+          12.995045899678699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "isolated_dwelling": "مزرعة داود دوران",
+        "iso3166_2": "TD-ND",
+        "lon": 14.9448177,
+        "lat": 12.1772356,
+        "formatted": "مزرعة داود دوران, N'Djamena, Chad",
+        "address_line1": "مزرعة داود دوران",
+        "address_line2": "N'Djamena, Chad",
+        "name": "مزرعة داود دوران",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مزرعة داود دوران",
+            "place": "isolated_dwelling",
+            "osm_id": 7174815188,
+            "name:ar": "مزرعة داود دوران",
+            "name:fr": "Ferme David Durant",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مزرعة داود دوران",
+          "fr": "Ferme David Durant"
+        },
+        "place_id": "51285d4425bfe32d405907e9df9fbe5a2840f00103f901d4fda6ab0100000092031ed985d8b2d8b1d8b9d8a920d8afd8a7d988d8af20d8afd988d8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.944817700000002,
+          12.177235599596782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Félicité",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "6éme Arrondissement / الدائرة السادسة",
+        "suburb": "Moursal مورسال",
+        "street": "Avenue de la Revolution",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0729276,
+        "lat": 12.0969041,
+        "formatted": "Maison Félicité, Avenue de la Revolution, Moursal مورسال, N'Djamena, Chad",
+        "address_line1": "Maison Félicité",
+        "address_line2": "Avenue de la Revolution, Moursal مورسال, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maison Félicité",
+            "osm_id": 7184338688,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5198f331c456252e4059282b056a9d312840f00103f901004f38ac010000009203114d6169736f6e2046c3a96c69636974c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0729276,
+          12.096904099589281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Michelle Archange",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "Kabalaye كابالي",
+        "suburb": "Kabalaye كابالي",
+        "street": "Avenue Bezo شارع بيزو",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0528303,
+        "lat": 12.1008831,
+        "formatted": "Maison Michelle Archange, Avenue Bezo شارع بيزو, Kabalaye كابالي, N'Djamena, Chad",
+        "address_line1": "Maison Michelle Archange",
+        "address_line2": "Avenue Bezo شارع بيزو, Kabalaye كابالي, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maison Michelle Archange",
+            "osm_id": 7184338689,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ca79b5920c1b2e4059d4e91af3a6332840f00103f901014f38ac010000009203184d6169736f6e204d696368656c6c652041726368616e6765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0528303,
+          12.100883099589659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Marie-France",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "Kabalaye كابالي",
+        "suburb": "Kabalaye كابالي",
+        "street": "Avenue Bezo شارع بيزو",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0543539,
+        "lat": 12.1031906,
+        "formatted": "Maison Marie-France, Avenue Bezo شارع بيزو, Kabalaye كابالي, N'Djamena, Chad",
+        "address_line1": "Maison Marie-France",
+        "address_line2": "Avenue Bezo شارع بيزو, Kabalaye كابالي, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maison Marie-France",
+            "osm_id": 7184363590,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f3d13d46d41b2e405977fcf465d5342840f00103f90146b038ac010000009203134d6169736f6e204d617269652d4672616e6365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0543539,
+          12.103190599589864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Djidda - Lydai",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "6éme Arrondissement / الدائرة السادسة",
+        "suburb": "Moursal مورسال",
+        "street": "Avenue de la Revolution",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0756928,
+        "lat": 12.0976611,
+        "formatted": "Maison Djidda - Lydai, Avenue de la Revolution, Moursal مورسال, N'Djamena, Chad",
+        "address_line1": "Maison Djidda - Lydai",
+        "address_line2": "Avenue de la Revolution, Moursal مورسال, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maison Djidda - Lydai",
+            "osm_id": 7184363591,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d915e934c1262e4059c9a7b9a200322840f00103f90147b038ac010000009203154d6169736f6e20446a69646461202d204c79646169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0756928,
+          12.097661099589361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Clarisse",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "7ème Arrondissement / الدائرة السابعة",
+        "neighbourhood": "Dembe",
+        "suburb": "Habena هابينا",
+        "street": "10 October 2013 Avenue",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0988578,
+        "lat": 12.1002573,
+        "formatted": "Maison Clarisse, 10 October 2013 Avenue, Habena هابينا, N'Djamena, Chad",
+        "address_line1": "Maison Clarisse",
+        "address_line2": "10 October 2013 Avenue, Habena هابينا, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maison Clarisse",
+            "osm_id": 7184363685,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b6e8537d9d322e40595ed8bdec54332840f00103f901a5b038ac0100000092030f4d6169736f6e20436c617269737365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.098857800000001,
+          12.100257299589597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cyber café Apple",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "2ème Arrondissement / الدائرة الثانية",
+        "neighbourhood": "Djambal Bahr",
+        "suburb": "Djambal Bahr",
+        "street": "Avenue de behagle",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0436756,
+        "lat": 12.1076276,
+        "formatted": "cyber café Apple, Avenue de behagle, Djambal Bahr, N'Djamena, Chad",
+        "address_line1": "cyber café Apple",
+        "address_line2": "Avenue de behagle, Djambal Bahr, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "cyber café Apple",
+            "osm_id": 7313130185,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513144f3a55c162e405946c6f8f61a372840f00103f901c982e5b301000000920311637962657220636166c3a9204170706c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.043675600000002,
+          12.107627599590284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hadjer el Hamis",
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Hadjer-Lamis",
+        "city": "Hadjèr él Hamis",
+        "iso3166_2": "TD-HL",
+        "lon": 14.8400082,
+        "lat": 12.8596193,
+        "formatted": "Hadjer el Hamis, Hadjèr él Hamis, Hadjer-Lamis, Chad",
+        "address_line1": "Hadjer el Hamis",
+        "address_line2": "Hadjèr él Hamis, Hadjer-Lamis, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hadjer el Hamis",
+            "osm_id": 7467373162,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5161be068e15ae2d40599223560520b82940f00103f9016a1217bd0100000092030f4861646a657220656c2048616d6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.840008200000002,
+          12.859619299664505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manège",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "1er Arrondissement / الدائرة الأولى",
+        "suburb": "ماجريو Madjorio",
+        "street": "دوار فارشا Rond Point Farcha",
+        "iso3166_2": "TD-ND",
+        "lon": 14.9908921,
+        "lat": 12.1277408,
+        "formatted": "Manège, دوار فارشا Rond Point Farcha, ماجريو Madjorio, N'Djamena, Chad",
+        "address_line1": "Manège",
+        "address_line2": "دوار فارشا Rond Point Farcha, ماجريو Madjorio, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Manège",
+            "osm_id": 8975072717,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c2ba963556fb2d4059f239f93d67412840f00103f901cdbdf416020000009203074d616ec3a86765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9908921,
+          12.12774079959215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Maïna",
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "street": "2eme Voie de Contournement",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0750621,
+        "lat": 12.1974464,
+        "formatted": "Chez Maïna, 2eme Voie de Contournement, N'Djamena, Chad",
+        "address_line1": "Chez Maïna",
+        "address_line2": "2eme Voie de Contournement, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chez Maïna",
+            "osm_id": 11635367070,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519356218a6e262e405988fac9b117652840f00103f9019e9c85b50200000092030b4368657a204d61c3af6e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.075062100000002,
+          12.19744639959869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "6éme Arrondissement / الدائرة السادسة",
+        "suburb": "Paris Congo باريس الكونغو",
+        "street": "Avenue Kondol شارع كوندول",
+        "iso3166_2": "TD-ND",
+        "lon": 15.0777682,
+        "lat": 12.105397,
+        "formatted": "Avenue Kondol شارع كوندول, Paris Congo باريس الكونغو, N'Djamena, Chad",
+        "address_line1": "Avenue Kondol شارع كوندول",
+        "address_line2": "Paris Congo باريس الكونغو, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8971665917,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516b56c73bd1272e4059f6ab7498f6352840f00103f901fdc1c01602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0777682,
+          12.105396999590067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Chad",
+        "country_code": "td",
+        "state": "Hadjer-Lamis",
+        "city": "Tom Marefin",
+        "hamlet": "Mani kosam",
+        "street": "Route Dyarmaya - Dandi",
+        "iso3166_2": "TD-HL",
+        "lon": 14.6789863,
+        "lat": 12.7993919,
+        "formatted": "Route Dyarmaya - Dandi, Tom Marefin, Chad",
+        "address_line1": "Route Dyarmaya - Dandi",
+        "address_line2": "Tom Marefin, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 9271356533,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5135dda117a45b2d4059627023e549992940f00103f90175ac9d2802000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6789863,
+          12.79939189965825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Chad",
+        "country_code": "td",
+        "city": "N'Djamena",
+        "district": "9ème Arrondissement / الدائرة التاسعة",
+        "suburb": "Walia",
+        "street": "Ndjamena - Bangui Transafrican Highway",
+        "iso3166_2": "TD-ND",
+        "lon": 15.1009331,
+        "lat": 12.074744,
+        "formatted": "Ndjamena - Bangui Transafrican Highway, Walia, N'Djamena, Chad",
+        "address_line1": "Ndjamena - Bangui Transafrican Highway",
+        "address_line2": "Walia, N'Djamena, Chad",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11968288469,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f42ad780ad332e40594b9973d844262840f00103f901d5965dc902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.100933099999999,
+          12.074743999587232
+        ]
+      }
+    }
+  ]
+}

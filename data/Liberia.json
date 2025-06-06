@@ -1,0 +1,377 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cotton Tree",
+        "country": "Liberia",
+        "country_code": "lr",
+        "state": "Montserrado County",
+        "county": "Greater Monrovia",
+        "city": "Monrovia",
+        "district": "Vai Town",
+        "suburb": "Buah Yard",
+        "street": "United Nations Drive",
+        "iso3166_2": "LR-MO",
+        "lon": -10.8075049,
+        "lat": 6.3237778,
+        "formatted": "Cotton Tree, United Nations Drive, Monrovia, Liberia",
+        "address_line1": "Cotton Tree",
+        "address_line2": "United Nations Drive, Monrovia, Liberia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cotton Tree",
+            "osm_id": 1730515734,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5130b84148719d25c05996e14e688c4b1940f00103f901169325670000000092030b436f74746f6e2054726565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.807504899999998,
+          6.3237777994294415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset Beach",
+        "country": "Liberia",
+        "country_code": "lr",
+        "state": "Grand Bassa County",
+        "county": "Commonwealth-B",
+        "city": "Gbegar Village",
+        "postcode": "4000",
+        "street": "Gbegar Village Road",
+        "iso3166_2": "LR-GB",
+        "lon": -10.0177661,
+        "lat": 5.831402,
+        "formatted": "Sunset Beach, Gbegar Village Road, 4000 Gbegar Village, Liberia",
+        "address_line1": "Sunset Beach",
+        "address_line2": "Gbegar Village Road, 4000 Gbegar Village, Liberia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sunset Beach",
+            "osm_id": 4585927993,
+            "name:en": "Sunset Beach",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Sunset Beach"
+        },
+        "place_id": "5176f464a3180924c059adeeb50b5b531740f00103f90139b557110100000092030c53756e736574204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0177661,
+          5.8314019994538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilco Android",
+        "country": "Liberia",
+        "country_code": "lr",
+        "state": "Grand Bassa County",
+        "county": "St. John River City",
+        "city": "BIA",
+        "iso3166_2": "LR-GB",
+        "lon": -10.0149201,
+        "lat": 6.0589435,
+        "formatted": "Wilco Android, BIA, St. John River City, Liberia",
+        "address_line1": "Wilco Android",
+        "address_line2": "BIA, St. John River City, Liberia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wilco Android",
+            "osm_id": 4915712021,
+            "name:en": "Wilco Android",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Wilco Android"
+        },
+        "place_id": "51281b7b9ba30724c0598da849af5b3c1840f00103f90115d0ff240100000092030d57696c636f20416e64726f6964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.014920099999998,
+          6.058943499441864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Town Hall",
+        "country": "Liberia",
+        "country_code": "lr",
+        "state": "Montserrado County",
+        "county": "Greater Monrovia",
+        "city": "Monrovia",
+        "suburb": "Bassa Community",
+        "street": "Tubman Boulevard",
+        "iso3166_2": "LR-MO",
+        "lon": -10.7935063,
+        "lat": 6.2953219,
+        "formatted": "City Town Hall, Tubman Boulevard, Monrovia, Liberia",
+        "address_line1": "City Town Hall",
+        "address_line2": "Tubman Boulevard, Monrovia, Liberia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "City Town Hall",
+            "osm_id": 5251784923,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5105572f75469625c059cb632fdd682e1940f00103f901dbe007390100000092030e4369747920546f776e2048616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.793506299999999,
+          6.295321899430699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Africa ruins",
+        "country": "Liberia",
+        "country_code": "lr",
+        "state": "Montserrado County",
+        "county": "St. Paul River",
+        "city": "Hotel Africa Road/Plu",
+        "postcode": "1001",
+        "street": "Hotel Africa Road",
+        "iso3166_2": "LR-MO",
+        "lon": -10.8035705,
+        "lat": 6.3898486,
+        "formatted": "Hotel Africa ruins, Hotel Africa Road, 1001 Hotel Africa Road/Plu, Liberia",
+        "address_line1": "Hotel Africa ruins",
+        "address_line2": "Hotel Africa Road, 1001 Hotel Africa Road/Plu, Liberia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hotel Africa ruins",
+            "osm_id": 8470144258,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518d0fb3976d9b25c059f4b6a378348f1940f00103f9010225dcf801000000920312486f74656c20416672696361207275696e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.803570500000001,
+          6.389848599426603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buchanan The City of Love",
+        "country": "Liberia",
+        "country_code": "lr",
+        "state": "Grand Bassa County",
+        "county": "Commonwealth-B",
+        "city": "Buchanan",
+        "postcode": "4000",
+        "street": "Stadium Road",
+        "iso3166_2": "LR-GB",
+        "lon": -10.0328538,
+        "lat": 5.8923088,
+        "formatted": "Buchanan The City of Love, Stadium Road, 4000 Buchanan, Liberia",
+        "address_line1": "Buchanan The City of Love",
+        "address_line2": "Stadium Road, 4000 Buchanan, Liberia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buchanan The City of Love",
+            "osm_id": 9248914275,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5141199936d21024c059a24ade65b9911740f00103f901633b47270200000092031942756368616e616e205468652043697479206f66204c6f7665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.0328538,
+          5.8923087994504915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Liberia",
+        "country_code": "lr",
+        "state": "Montserrado County",
+        "county": "Greater Monrovia",
+        "city": "Monrovia",
+        "district": "Vai Town",
+        "street": "Benson Street",
+        "iso3166_2": "LR-MO",
+        "lon": -10.8138383,
+        "lat": 6.3193057,
+        "formatted": "Benson Street, Monrovia, Liberia",
+        "address_line1": "Benson Street",
+        "address_line2": "Monrovia, Liberia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4539767391,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e876e569afa025c05923e8c112f8461940f00103f9015f5a970e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.8138383,
+          6.319305699429637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "重庆外建",
+        "country": "Liberia",
+        "country_code": "lr",
+        "state": "Montserrado County",
+        "county": "Greater Monrovia",
+        "city": "Monrovia",
+        "postcode": "6133",
+        "suburb": "Paynesville",
+        "quarter": "Elwa",
+        "street": "ELWA Road",
+        "iso3166_2": "LR-MO",
+        "lon": -10.7045194,
+        "lat": 6.2446968,
+        "formatted": "重庆外建, ELWA Road, 6133 Monrovia, Liberia",
+        "address_line1": "重庆外建",
+        "address_line2": "ELWA Road, 6133 Monrovia, Liberia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5083758923,
+            "name:zh": "重庆外建",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "zh": "重庆外建"
+        },
+        "place_id": "518ccb4cc4b66825c05995003ccc91fa1840f00103f9014b01042f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.704519400000002,
+          6.244696799432991
+        ]
+      }
+    }
+  ]
+}

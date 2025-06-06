@@ -1,0 +1,4574 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clock Tower Square",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "iso3166_2": "BT-15",
+        "lon": 89.63969182493702,
+        "lat": 27.470353699999997,
+        "formatted": "Clock Tower Square, thromde, Chang Gewog, Bhutan",
+        "address_line1": "Clock Tower Square",
+        "address_line2": "thromde, Chang Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "foot": "yes",
+            "name": "Clock Tower Square",
+            "place": "square",
+            "osm_id": 91559919,
+            "name:es": "Plaza de la torre del reloj",
+            "surface": "paving_stones",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q15210985",
+            "motor_vehicle": "no"
+          }
+        },
+        "name_international": {
+          "es": "Plaza de la torre del reloj"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q15210985"
+        },
+        "place_id": "51e0e7fab5f0685640598e139f1969783b40f00102f901ef17750500000000920312436c6f636b20546f77657220537175617265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63969182493702,
+          27.47035370000554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buddha Dordenma",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "city": "Thimphu",
+        "postcode": "11001",
+        "street": "Gaki Lam SW",
+        "iso3166_2": "BT-15",
+        "lon": 89.64538743077125,
+        "lat": 27.443578600000002,
+        "formatted": "Buddha Dordenma, Gaki Lam SW, Thimphu 11001, Bhutan",
+        "address_line1": "Buddha Dordenma",
+        "address_line2": "Gaki Lam SW, Thimphu 11001, Bhutan",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buddha Dordenma",
+            "osm_id": 188067168,
+            "amenity": "place_of_worship",
+            "name:es": "Buda Dordenma",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "wikidata": "Q4097986",
+            "wikipedia": "en:Buddha Dordenma statue",
+            "start_date": "2015-09-25"
+          }
+        },
+        "name_international": {
+          "es": "Buda Dordenma"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q4097986",
+          "wikipedia": "en:Buddha Dordenma statue"
+        },
+        "building": {
+          "start_date": "2015-09-25"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "515e1a15074e69564059fc3dfc5d8e713b40f00102f90160ad350b0000000092030f42756464686120446f7264656e6d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64538743077125,
+          27.443578600008536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsomgo lake",
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Gangtok",
+        "city": "Tsomgo",
+        "iso3166_2": "IN-SK",
+        "lon": 88.76197985870488,
+        "lat": 27.374530749999998,
+        "state_code": "SK",
+        "formatted": "Tsomgo Lake, Tsomgo, Gangtok, India",
+        "address_line1": "Tsomgo Lake",
+        "address_line2": "Tsomgo, Gangtok, India",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tsomgo lake",
+            "water": "lake",
+            "osm_id": 473531836,
+            "name:en": "Tsomgo Lake",
+            "name:hi": "Tsomgo",
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q542864"
+          }
+        },
+        "name_international": {
+          "en": "Tsomgo Lake",
+          "hi": "Tsomgo"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q542864"
+        },
+        "place_id": "5148562b47c43056405989aa4a3fe15f3b40f00102f901bc85391c0000000092030b54736f6d676f206c616b65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.76197985870488,
+          27.374530750016252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black-necked Crane Information Center",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Gangteng Gewog",
+        "city": "Gangteng",
+        "street": "Gangtey Nature Trail",
+        "iso3166_2": "BT-24",
+        "lon": 90.16947619122541,
+        "lat": 27.4643527,
+        "formatted": "Black-necked Crane Information Center, Gangtey Nature Trail, Gangteng, Bhutan",
+        "address_line1": "Black-necked Crane Information Center",
+        "address_line2": "Gangtey Nature Trail, Gangteng, Bhutan",
+        "categories": [
+          "building",
+          "building.office",
+          "building.tourism",
+          "office",
+          "office.educational_institution",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Black-necked Crane Information Center",
+            "office": "educational_institution",
+            "osm_id": 663353755,
+            "name:es": "Centro Información Grullas de cuello negro",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "wheelchair": "no",
+            "opening_hours": "Mo-Su 09:00-17:00"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "name_international": {
+          "es": "Centro Información Grullas de cuello negro"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "51e2b0aab2d88a56405900568cd1df763b40f00102f9019bf9892700000000920325426c61636b2d6e65636b6564204372616e6520496e666f726d6174696f6e2043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.16947619122541,
+          27.464352700006202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Haa District",
+        "county": "Samar Gewog",
+        "city": "Jenkanang_Pudunang",
+        "village": "Jyenkhana",
+        "street": "Puduna bridge",
+        "iso3166_2": "BT-13",
+        "lon": 89.3133088,
+        "lat": 27.2992119,
+        "formatted": "PuduZam, Puduna bridge, Jenkanang_Pudunang, Bhutan",
+        "address_line1": "PuduZam",
+        "address_line2": "Puduna bridge, Jenkanang_Pudunang, Bhutan",
+        "name": "PuduZam",
+        "categories": [
+          "highway",
+          "highway.path",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details",
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PuduZam",
+            "layer": 1,
+            "bridge": "yes",
+            "osm_id": 470046802,
+            "highway": "path",
+            "name:en": "Puduna bridge",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "bridge:structure": "suspension"
+          }
+        },
+        "name_international": {
+          "en": "Puduna bridge"
+        },
+        "way": {
+          "bridge": true
+        },
+        "place_id": "51d3d8035207545640594cf269a4a54c3b40f00102f9015258041c00000000920307507564755a616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3129468,
+          27.29940250002464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuenga Rabten Palace",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Trongsa District",
+        "county": "Draagteng Gewog",
+        "city": "Draagteng Gewog Office",
+        "street": "Gelephu - Trongsa Highway",
+        "iso3166_2": "BT-32",
+        "lon": 90.51800600496571,
+        "lat": 27.410798200000002,
+        "formatted": "Kuenga Rabten Palace, Gelephu - Trongsa Highway, Draagteng Gewog Office, Bhutan",
+        "address_line1": "Kuenga Rabten Palace",
+        "address_line2": "Gelephu - Trongsa Highway, Draagteng Gewog Office, Bhutan",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kuenga Rabten Palace",
+            "osm_id": 665625903,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51669da80227a1564059dc4e22122a693b40f00102f9012fa5ac27000000009203144b75656e67612052616274656e2050616c616365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.51800600496571,
+          27.410798200012195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thongbu La",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Soe_Yagsa",
+        "iso3166_2": "BT-11",
+        "lon": 89.3122201,
+        "lat": 27.6444686,
+        "formatted": "Thongbu La, Soe_Yagsa, Tsento Gewog, Bhutan",
+        "address_line1": "Thongbu La",
+        "address_line2": "Soe_Yagsa, Tsento Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 4300,
+            "name": "Thongbu La",
+            "place": "locality",
+            "osm_id": 2088837303,
+            "natural": "saddle",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "mountain_pass": "yes"
+          }
+        },
+        "ele": 4300,
+        "place_id": "51d9a9036afb53564059273de8e4fba43b40f00103f901b720817c0000000092030a54686f6e676275204c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3122201,
+          27.644468599986023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tagulun La",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Soe_Yagsa",
+        "iso3166_2": "BT-11",
+        "lon": 89.324323,
+        "lat": 27.6599095,
+        "formatted": "Tagulun La, Soe_Yagsa, Tsento Gewog, Bhutan",
+        "address_line1": "Tagulun La",
+        "address_line2": "Soe_Yagsa, Tsento Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 4520,
+            "name": "Tagulun La",
+            "place": "locality",
+            "osm_id": 2088837652,
+            "natural": "saddle",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "mountain_pass": "yes"
+          }
+        },
+        "ele": 4520,
+        "place_id": "51cd9541b5c15456405994c038d4efa83b40f00103f9011422817c0000000092030a546167756c756e204c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.324323,
+          27.659909499984295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bontela",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Soe_Yagsa",
+        "iso3166_2": "BT-11",
+        "lon": 89.3627283,
+        "lat": 27.7345679,
+        "formatted": "Bontela, Soe_Yagsa, Tsento Gewog, Bhutan",
+        "address_line1": "Bontela",
+        "address_line2": "Soe_Yagsa, Tsento Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 4890,
+            "name": "Bontela",
+            "place": "locality",
+            "osm_id": 2088839401,
+            "natural": "saddle",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "mountain_pass": "yes"
+          }
+        },
+        "ele": 4890,
+        "place_id": "515b75c2f03657564059891653a40cbc3b40f00103f901e928817c00000000920307426f6e74656c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3627283,
+          27.734567899975932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haa valley view",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Haa District",
+        "county": "Katsho Gewog",
+        "city": "Kargoen_Hatam",
+        "village": "Mombichhokha",
+        "iso3166_2": "BT-13",
+        "lon": 89.2892984,
+        "lat": 27.3965682,
+        "formatted": "Haa valley view, Kargoen_Hatam, Katsho Gewog, Bhutan",
+        "address_line1": "Haa valley view",
+        "address_line2": "Kargoen_Hatam, Katsho Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Haa valley view",
+            "osm_id": 2406827769,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5140b26fdd83525640595db1597e85653b40f00103f901f946758f0000000092030f4861612076616c6c65792076696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2892984,
+          27.396568200013792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zero Point",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "city": "Gangchhe_Talakha",
+        "postcode": "11001",
+        "street": "Babesa Zero",
+        "iso3166_2": "BT-15",
+        "lon": 89.6420669,
+        "lat": 27.4268193,
+        "formatted": "Babesa Rotary, Babesa Zero, Gangchhe_Talakha 11001, Bhutan",
+        "address_line1": "Babesa Rotary",
+        "address_line2": "Babesa Zero, Gangchhe_Talakha 11001, Bhutan",
+        "categories": [
+          "highway.motorway.junction",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zero Point",
+            "osm_id": 4539805890,
+            "highway": "motorway_junction",
+            "name:en": "Babesa Rotary",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Babesa Rotary"
+        },
+        "place_id": "510556c49f1769564059a7d89607446d3b40f00103f901c2f0970e0100000092030a5a65726f20506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64206689999999,
+          27.426819300010404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chetola's viewpoint",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Gasa District",
+        "county": "Laya Gewogs",
+        "city": "Gyalza_Loong-Go",
+        "iso3166_2": "BT-GA",
+        "lon": 89.7841086,
+        "lat": 28.1350746,
+        "formatted": "Chetola's viewpoint, Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+        "address_line1": "Chetola's viewpoint",
+        "address_line2": "Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chetola's viewpoint",
+            "osm_id": 4581610384,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c960d6d52e725640598d39bd3f94223c40f00103f90190d3151101000000920313436865746f6c6127732076696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.78410859999998,
+          28.135074599931205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haa valley view",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Haa District",
+        "county": "Katsho Gewog",
+        "city": "Kargoen_Hatam",
+        "village": "Mombichhokha",
+        "street": "Hatam footpath",
+        "iso3166_2": "BT-13",
+        "lon": 89.292441,
+        "lat": 27.39693,
+        "formatted": "Haa valley view, Hatam footpath, Kargoen_Hatam, Bhutan",
+        "address_line1": "Haa valley view",
+        "address_line2": "Hatam footpath, Kargoen_Hatam, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Haa valley view",
+            "osm_id": 5898604290,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519cc0745ab7525640593fdc58349d653b40f00103f901028f955f0100000092030f4861612076616c6c65792076696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.292441,
+          27.39693000001375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ganek View Point",
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Rongli subdivision",
+        "state_district": "Pakyong",
+        "city": "Rongli",
+        "street": "Jelep Pass Highway",
+        "iso3166_2": "IN-SK",
+        "lon": 88.7874068,
+        "lat": 27.25676,
+        "state_code": "SK",
+        "formatted": "Ganek View Point, Jelep Pass Highway, Rongli -, Sikkim, India",
+        "address_line1": "Ganek View Point",
+        "address_line2": "Jelep Pass Highway, Rongli -, Sikkim, India",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ganek View Point",
+            "osm_id": 6069136359,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "S"
+          }
+        },
+        "place_id": "5179a97ddf6432564059170cfb05bb413b40f00103f901e7abbf690100000092031047616e656b205669657720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7874068,
+          27.2567600000294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thambi View Point",
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Rongli subdivision",
+        "state_district": "Pakyong",
+        "city": "Rongli",
+        "street": "Jelep Pass Highway",
+        "iso3166_2": "IN-SK",
+        "lon": 88.7853898,
+        "lat": 27.2657607,
+        "state_code": "SK",
+        "formatted": "Thambi View Point, Jelep Pass Highway, Rongli -, Sikkim, India",
+        "address_line1": "Thambi View Point",
+        "address_line2": "Jelep Pass Highway, Rongli -, Sikkim, India",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thambi View Point",
+            "osm_id": 6069136374,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "S"
+          }
+        },
+        "place_id": "512b6794d343325640591b2fabe408443b40f00103f901f6abbf69010000009203115468616d6269205669657720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7853898,
+          27.26576070002839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lungthung View Point",
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Rongli subdivision",
+        "state_district": "Pakyong",
+        "city": "Rongli",
+        "street": "Jelep Pass Highway",
+        "iso3166_2": "IN-SK",
+        "lon": 88.7989283,
+        "lat": 27.2645531,
+        "state_code": "SK",
+        "formatted": "Lungthung View Point, Jelep Pass Highway, Rongli -, Sikkim, India",
+        "address_line1": "Lungthung View Point",
+        "address_line2": "Jelep Pass Highway, Rongli -, Sikkim, India",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lungthung View Point",
+            "osm_id": 6069136395,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5153162aa421335640598fad80c0b9433b40f00103f9010bacbf69010000009203144c756e677468756e67205669657720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.79892829999999,
+          27.264553100028532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elephant Lake View Point",
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Gangtok",
+        "city": "Kupup",
+        "district": "Kupup camp",
+        "street": "Jelep Pass Highway",
+        "iso3166_2": "IN-SK",
+        "lon": 88.839101,
+        "lat": 27.3289155,
+        "state_code": "SK",
+        "formatted": "Elephant Lake View Point, Jelep Pass Highway, Kupup camp, Kupup -, Sikkim, India",
+        "address_line1": "Elephant Lake View Point",
+        "address_line2": "Jelep Pass Highway, Kupup camp, Kupup -, Sikkim, India",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Elephant Lake View Point",
+            "osm_id": 6069136399,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "SE"
+          }
+        },
+        "place_id": "519d42aed4b33556405938bd63ce33543b40f00103f9010facbf6901000000920318456c657068616e74204c616b65205669657720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.83910099999999,
+          27.32891550002134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bumdrak Viewpoint",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Nyechhu_Shar-ri",
+        "hamlet": "Tagtshang",
+        "street": "Taktshang-Bumdra path",
+        "iso3166_2": "BT-11",
+        "lon": 89.381436,
+        "lat": 27.509883,
+        "formatted": "Bumdrak Viewpoint, Taktshang-Bumdra path, Nyechhu_Shar-ri, Bhutan",
+        "address_line1": "Bumdrak Viewpoint",
+        "address_line2": "Taktshang-Bumdra path, Nyechhu_Shar-ri, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bumdrak Viewpoint",
+            "osm_id": 6222840750,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5116618a72695856405987ca39b187823b40f00103f901ae03e9720100000092031142756d6472616b2056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.38143599999998,
+          27.509883000001107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nathu La View Point",
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Gangtok",
+        "city": "Changgu",
+        "street": "NH310",
+        "iso3166_2": "IN-SK",
+        "lon": 88.8297007,
+        "lat": 27.3873852,
+        "state_code": "SK",
+        "formatted": "Nathu La View Point, NH310, Changgu -, Sikkim, India",
+        "address_line1": "Nathu La View Point",
+        "address_line2": "NH310, Changgu -, Sikkim, India",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nathu La View Point",
+            "osm_id": 8600075581,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f8fdf6d019355640599d042dad2b633b40f00103f9013dbd9a00020000009203134e61746875204c61205669657720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.82970069999999,
+          27.38738520001481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pele La",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Dangchhu Gewog",
+        "city": "Uesagang",
+        "street": "PNH 1",
+        "iso3166_2": "BT-24",
+        "lon": 90.2022815,
+        "lat": 27.5369014,
+        "formatted": "Pele La, PNH 1, Uesagang, Bhutan",
+        "address_line1": "Pele La",
+        "address_line2": "PNH 1, Uesagang, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pele La",
+            "osm_id": 9194462118,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517dc51a2ef28c5640591c2bc25e72893b40f00103f901a65b08240200000092030750656c65204c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.20228149999998,
+          27.536901399998087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MSTF",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Dagana District",
+        "county": "Tseza Gewog",
+        "city": "Karlingzingkha",
+        "town": "Dagana",
+        "street": "Way to the Lhakhang",
+        "iso3166_2": "BT-22",
+        "lon": 89.8805995,
+        "lat": 27.0738652,
+        "formatted": "MSTF, Way to the Lhakhang, Karlingzingkha, Bhutan",
+        "address_line1": "MSTF",
+        "address_line2": "Way to the Lhakhang, Karlingzingkha, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "MSTF",
+            "osm_id": 10243731809,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ee5701be5b78564059a9866ad4e8123b40f00103f90161f19262020000009203044d535446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.88059949999999,
+          27.073865200049713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Botanical Garden Serbithang",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Wangchhu Taba",
+        "suburb": "Bhutan Agro Industries Ltd.",
+        "street": "Serbi Lam  SE",
+        "iso3166_2": "BT-15",
+        "lon": 89.6511348,
+        "lat": 27.4252028,
+        "formatted": "Royal Botanical Garden Serbithang, Serbi Lam SE, Bhutan Agro Industries Ltd., thromde 11001, Bhutan",
+        "address_line1": "Royal Botanical Garden Serbithang",
+        "address_line2": "Serbi Lam SE, Bhutan Agro Industries Ltd., thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Royal Botanical Garden Serbithang",
+            "osm_id": 10598725318,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "5165d24b31ac695640598e363817da6c3b40f00103f901c6b6bb7702000000920321526f79616c20426f74616e6963616c2047617264656e2053657262697468616e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65113479999998,
+          27.425202800010588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "End of lakeside trail, foreigners cannot go further",
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Gangtok",
+        "city": "Changgu",
+        "street": "NH310",
+        "iso3166_2": "IN-SK",
+        "lon": 88.7610202,
+        "lat": 27.3734309,
+        "state_code": "SK",
+        "formatted": "End of lakeside trail, foreigners cannot go further, NH310, Changgu -, Sikkim, India",
+        "address_line1": "End of lakeside trail, foreigners cannot go further",
+        "address_line2": "NH310, Changgu -, Sikkim, India",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "End of lakeside trail, foreigners cannot go further",
+            "osm_id": 10845711119,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511aa6118eb430564059dbe2de2a995f3b40f00103f9010f6b748602000000920333456e64206f66206c616b657369646520747261696c2c20666f726569676e6572732063616e6e6f7420676f2066757274686572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.76102019999999,
+          27.37343090001637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chair lift",
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Gangtok",
+        "city": "Changgu",
+        "street": "NH310",
+        "iso3166_2": "IN-SK",
+        "lon": 88.7579306,
+        "lat": 27.3740817,
+        "state_code": "SK",
+        "formatted": "Chair lift, NH310, Changgu -, Sikkim, India",
+        "address_line1": "Chair lift",
+        "address_line2": "NH310, Changgu -, Sikkim, India",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chair lift",
+            "osm_id": 10845715705,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cee858ef8130564059279a7bd1c35f3b40f00103f901f97c74860200000092030a4368616972206c696674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.75793059999998,
+          27.374081700016315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "乃堆拉国门拍照点",
+        "country": "China",
+        "country_code": "cn",
+        "region": "Shigatse Prefecture",
+        "state": "Tibet",
+        "county": "Yadong County",
+        "city": "Xiayadong",
+        "hamlet": "Chunpitang",
+        "street": "Yanai Road",
+        "iso3166_2": "CN-XZ",
+        "lon": 88.8311516,
+        "lat": 27.386906,
+        "formatted": "乃堆拉国门拍照点, Yanai Road, Yadong County, Tibet, China",
+        "address_line1": "乃堆拉国门拍照点",
+        "address_line2": "Yanai Road, Yadong County, Tibet, China",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "乃堆拉国门拍照点",
+            "osm_id": 11292321149,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5128017b963135564059a9b088450c633b40f00103f9017d2513a102000000920318e4b983e5a086e68b89e59bbde997a8e68b8de785a7e782b9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8311516,
+          27.38690600001488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucky Bhutan adventure",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Bangdu",
+        "street": "Bangdu Lam SW",
+        "iso3166_2": "BT-15",
+        "lon": 89.6480852,
+        "lat": 27.4524157,
+        "formatted": "Lucky Bhutan adventure, Bangdu Lam SW, thromde 11001, Bhutan",
+        "address_line1": "Lucky Bhutan adventure",
+        "address_line2": "Bangdu Lam SW, thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lucky Bhutan adventure",
+            "osm_id": 11930612669,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Bangdu Lam SW"
+          }
+        },
+        "place_id": "5161c1583a7a69564059b7baeb83d1733b40f00103f901bdb31ec7020000009203164c75636b792042687574616e20616476656e74757265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64808519999998,
+          27.452415700007545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thuenpa puenzhi",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "city": "Gangchhe_Talakha",
+        "postcode": "11001",
+        "street": "Babesa Zero",
+        "iso3166_2": "BT-15",
+        "lon": 89.642038,
+        "lat": 27.4267521,
+        "formatted": "Thuenpa puenzhi, Babesa Zero, Gangchhe_Talakha 11001, Bhutan",
+        "address_line1": "Thuenpa puenzhi",
+        "address_line2": "Babesa Zero, Gangchhe_Talakha 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thuenpa puenzhi",
+            "osm_id": 11932121770,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5183328d261769564059460b29a03f6d3b40f00103f901aaba35c70200000092030f546875656e7061207075656e7a6869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.642038,
+          27.42675210001041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhutan Prayer Flags",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "Thimphu",
+        "postcode": "11001",
+        "district": "Babesa",
+        "street": "Barpi Lam SE",
+        "housenumber": "735",
+        "iso3166_2": "BT-15",
+        "lon": 89.655212,
+        "lat": 27.4365635,
+        "formatted": "Bhutan Prayer Flags, Barpi Lam SE 735, Thimphu 11001, Bhutan",
+        "address_line1": "Bhutan Prayer Flags",
+        "address_line2": "Barpi Lam SE 735, Thimphu 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bhutan Prayer Flags",
+            "osm_id": 11937046169,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5197fc4ffeee69564059d32a23a0c26f3b40f00103f90199de80c70200000092031342687574616e2050726179657220466c616773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65521199999999,
+          27.43656350000931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird's Eye View of Taktsang",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Nyechhu_Shar-ri",
+        "hamlet": "Tagtshang",
+        "street": "Taktshang-Bumdra path",
+        "iso3166_2": "BT-11",
+        "lon": 89.3623933,
+        "lat": 27.4936957,
+        "formatted": "Bird's Eye View of Taktsang, Taktshang-Bumdra path, Nyechhu_Shar-ri, Bhutan",
+        "address_line1": "Bird's Eye View of Taktsang",
+        "address_line2": "Taktshang-Bumdra path, Nyechhu_Shar-ri, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bird's Eye View of Taktsang",
+            "osm_id": 11961168083,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5187f2aa7331575640593ab065d7627e3b40f00103f901d3f0f0c80200000092031b426972642773204579652056696577206f662054616b7473616e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3623933,
+          27.493695700002924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangaygang",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Kawang Gewog",
+        "state_district": "Thimphu",
+        "city": "Chhanda-Gang_Chhoekhortse_Phajoding",
+        "postcode": "11001",
+        "district": "Motithang",
+        "street": "Sangay Lam",
+        "iso3166_2": "BT-15",
+        "lon": 89.6237316,
+        "lat": 27.4837956,
+        "formatted": "Sangaygang, Sangay Lam, Chhanda-Gang_Chhoekhortse_Phajoding 11001, Bhutan",
+        "address_line1": "Sangaygang",
+        "address_line2": "Sangay Lam, Chhanda-Gang_Chhoekhortse_Phajoding 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sangaygang",
+            "osm_id": 12015003269,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d5def137eb675640594df74707da7b3b40f00103f901856626cc0200000092030a53616e67617967616e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6237316,
+          27.483795600004033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lungtenphu Viewpoint",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Jalu",
+        "street": "Khamtoe Lam SE",
+        "iso3166_2": "BT-15",
+        "lon": 89.6625706,
+        "lat": 27.4496155,
+        "formatted": "Lungtenphu Viewpoint, Khamtoe Lam SE, thromde 11001, Bhutan",
+        "address_line1": "Lungtenphu Viewpoint",
+        "address_line2": "Khamtoe Lam SE, thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lungtenphu Viewpoint",
+            "osm_id": 12015003270,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a192848e676a564059f44e5c001a733b40f00103f901866626cc020000009203144c756e6774656e7068752056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6625706,
+          27.44961550000785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Pamtsho",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11002",
+        "district": "Jungzhina",
+        "street": "Jakar Lam NW",
+        "iso3166_2": "BT-15",
+        "lon": 89.6364211,
+        "lat": 27.5185466,
+        "formatted": "Upper Pamtsho, Jakar Lam NW, thromde 11002, Bhutan",
+        "address_line1": "Upper Pamtsho",
+        "address_line2": "Jakar Lam NW, thromde 11002, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Upper Pamtsho",
+            "osm_id": 12015003369,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ffbe901fbb68564059dc735078bf843b40f00103f901e96626cc0200000092030d55707065722050616d7473686f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63642109999999,
+          27.518546600000136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuenselphodrang Viewpoint",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Bangdu",
+        "street": "Gaki Lam SW",
+        "iso3166_2": "BT-15",
+        "lon": 89.6422227,
+        "lat": 27.4484796,
+        "formatted": "Kuenselphodrang Viewpoint, Gaki Lam SW, thromde 11001, Bhutan",
+        "address_line1": "Kuenselphodrang Viewpoint",
+        "address_line2": "Gaki Lam SW, thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kuenselphodrang Viewpoint",
+            "osm_id": 12043089269,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ed4f3d2d1a695640591df51e8fcf723b40f00103f90175f5d2cd020000009203194b75656e73656c70686f6472616e672056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6422227,
+          27.44847960000799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "旦成拉观景台",
+        "country": "China",
+        "country_code": "cn",
+        "region": "Shigatse Prefecture",
+        "state": "Tibet",
+        "county": "Yadong County",
+        "city": "Xiayadong",
+        "hamlet": "Dolepchen",
+        "street": "Sinchela Road",
+        "iso3166_2": "CN-XZ",
+        "lon": 88.9747133,
+        "lat": 27.3617716,
+        "formatted": "旦成拉观景台, Sinchela Road, Yadong County, Tibet, China",
+        "address_line1": "旦成拉观景台",
+        "address_line2": "Sinchela Road, Yadong County, Tibet, China",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "旦成拉观景台",
+            "osm_id": 12215963154,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517b9ee4b3613e56405991b246109d5c3b40f00103f90112ce20d802000000920312e697a6e68890e68b89e8a782e699afe58fb0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9747133,
+          27.36177160001768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "野人谷",
+        "country": "China",
+        "country_code": "cn",
+        "region": "Shigatse Prefecture",
+        "state": "Tibet",
+        "county": "Yadong County",
+        "city": "Xiayadong",
+        "iso3166_2": "CN-XZ",
+        "lon": 88.9979416,
+        "lat": 27.3429369,
+        "formatted": "野人谷, Xiayadong, Yadong County, China",
+        "address_line1": "野人谷",
+        "address_line2": "Xiayadong, Yadong County, China",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "野人谷",
+            "osm_id": 12215963156,
+            "natural": "valley",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515ad47146de3f564059362d72b6ca573b40f00103f90114ce20d802000000920309e9878ee4babae8b0b7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.99794160000002,
+          27.342936900019787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "林海银河瀑布",
+        "country": "China",
+        "country_code": "cn",
+        "region": "Shigatse Prefecture",
+        "state": "Tibet",
+        "county": "Yadong County",
+        "city": "Xiayadong",
+        "iso3166_2": "CN-XZ",
+        "lon": 89.0137367,
+        "lat": 27.2692461,
+        "formatted": "林海银河瀑布, Xiayadong, Yadong County, China",
+        "address_line1": "林海银河瀑布",
+        "address_line2": "Xiayadong, Yadong County, China",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "林海银河瀑布",
+            "osm_id": 12216018920,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "place_id": "515050e50fe1405640592132fa4fed443b40f00103f901e8a721d802000000920312e69e97e6b5b7e993b6e6b2b3e78091e5b883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.01373669999998,
+          27.269246100028003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Play Center",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "Thimphu",
+        "postcode": "11001",
+        "district": "Norzin",
+        "street": "Chang Lam SE",
+        "housenumber": "210",
+        "iso3166_2": "BT-15",
+        "lon": 89.6394144,
+        "lat": 27.4727401,
+        "formatted": "Play Center, Chang Lam SE 210, Thimphu 11001, Bhutan",
+        "address_line1": "Play Center",
+        "address_line2": "Chang Lam SE 210, Thimphu 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4678134789,
+            "name:en": "Play Center",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 09:00-22:00"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "name_international": {
+          "en": "Play Center"
+        },
+        "place_id": "51da25602aec68564059c807c57e05793b40f00103f90105acd61601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63941439999999,
+          27.472740100005268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Nyechhu_Shar-ri",
+        "village": "Nyamed",
+        "hamlet": "Tagtshang",
+        "street": "Path to Tigers Nest",
+        "iso3166_2": "BT-11",
+        "lon": 89.3581967,
+        "lat": 27.4928779,
+        "formatted": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+        "address_line1": "Path to Tigers Nest",
+        "address_line2": "Nyechhu_Shar-ri, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 247436097,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513f02dab1ec565640591f6ffd3e2d7e3b40f00103f9014193bf0e00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3581967,
+          27.492877900003005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "Thimphu",
+        "postcode": "11001",
+        "district": "Semtokha",
+        "street": "Semtokha Lam SE",
+        "housenumber": "938",
+        "iso3166_2": "BT-15",
+        "lon": 89.66962307027086,
+        "lat": 27.43827855,
+        "formatted": "Semtokha Lam SE 938, Thimphu 11001, Bhutan",
+        "address_line1": "Semtokha Lam SE 938",
+        "address_line2": "Thimphu 11001, Bhutan",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.temple"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 308278792,
+            "amenity": "place_of_worship",
+            "name:es": "Dzong Simthoka",
+            "tourism": "attraction",
+            "building": "temple",
+            "historic": "castle",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "addr:city": "Thimphu",
+            "addr:street": "Semtokha Lam SE",
+            "castle_type": "dzong",
+            "denomination": "vajrayana",
+            "addr:postcode": 11001,
+            "addr:housenumber": 938
+          }
+        },
+        "name_international": {
+          "es": "Dzong Simthoka"
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "dzong"
+        },
+        "building": {
+          "type": "temple"
+        },
+        "place_of_worship": {
+          "religion": "buddhist",
+          "denomination": "vajrayana"
+        },
+        "place_id": "5177ddb81adb6a564059d6d3e60533703b40f00102f90108f65f1200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.66962307027084,
+          27.438278550009123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ref": "PNH 4",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Trongsa District",
+        "county": "Nubi Gewog",
+        "city": "Bagochen Boolingpang Ueling",
+        "village": "Tadzong",
+        "postcode": "33001",
+        "street": "Teligang bridge",
+        "iso3166_2": "BT-32",
+        "lon": 90.5231727,
+        "lat": 27.4898328,
+        "formatted": "Teligang bridge, Bagochen Boolingpang Ueling 33001, Bhutan",
+        "address_line1": "Teligang bridge",
+        "address_line2": "Bagochen Boolingpang Ueling 33001, Bhutan",
+        "categories": [
+          "highway",
+          "highway.primary",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details",
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": "PNH 4",
+            "layer": 1,
+            "bridge": "yes",
+            "osm_id": 968737618,
+            "highway": "primary",
+            "name:en": "Teligang bridge",
+            "tourism": "attraction",
+            "z_order": 360,
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Teligang bridge"
+        },
+        "way": {
+          "bridge": true
+        },
+        "place_id": "513d2a59a97ba1564059c585b0ae657d3b40f00102f90152c3bd3900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52317269999999,
+          27.48983280000336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Nyechhu_Shar-ri",
+        "village": "Nyamed",
+        "hamlet": "Tagtshang",
+        "street": "Path to Tigers Nest",
+        "iso3166_2": "BT-11",
+        "lon": 89.3586226,
+        "lat": 27.4886559,
+        "formatted": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+        "address_line1": "Path to Tigers Nest",
+        "address_line2": "Nyechhu_Shar-ri, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1978908062,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d1a634acf3565640592e83958d187d3b40f00103f9019ebdf37500000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3586226,
+          27.488655900003486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Loong-nyi Gewog",
+        "city": "Tshaphel_Tsiloongkha",
+        "street": "Bondey - Haa Highway",
+        "iso3166_2": "BT-11",
+        "lon": 89.3504155,
+        "lat": 27.367529,
+        "formatted": "Bondey - Haa Highway, Tshaphel_Tsiloongkha, Bhutan",
+        "address_line1": "Bondey - Haa Highway",
+        "address_line2": "Tshaphel_Tsiloongkha, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2016370453,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bc2022356d565640599e676b61165e3b40f00103f901155f2f7800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3504155,
+          27.367529000017036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "Thimphu",
+        "postcode": "11001",
+        "district": "Norzin",
+        "street": "Jangchub Lam SE",
+        "housenumber": "163",
+        "iso3166_2": "BT-15",
+        "lon": 89.6363059,
+        "lat": 27.4741505,
+        "formatted": "Jangchub Lam SE 163, Thimphu 11001, Bhutan",
+        "address_line1": "Jangchub Lam SE 163",
+        "address_line2": "Thimphu 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4361126883,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "Zamling Arts"
+          }
+        },
+        "artwork": {
+          "artwork_type": "Zamling Arts"
+        },
+        "place_id": "511eb0613cb9685640596ce75aed61793b40f00103f901e383f10301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6363059,
+          27.47415050000511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "baleygang",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Dagana District",
+        "county": "Gozhi Gewog",
+        "postcode": "35001",
+        "street": "Dagana Dzongkhag Highway",
+        "iso3166_2": "BT-22",
+        "lon": 89.940974,
+        "lat": 26.961068,
+        "formatted": "baleygang, Dagana Dzongkhag Highway, Dagana District 35001, Bhutan",
+        "address_line1": "baleygang",
+        "address_line2": "Dagana Dzongkhag Highway, Dagana District 35001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4427585289,
+            "name:en": "baleygang",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "baleygang"
+        },
+        "place_id": "51b81803eb387c564059c27f6d8d08f63a40f00103f9010997e70701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.94097399999998,
+          26.96106800006215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chiltsathang",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Dagana District",
+        "county": "Karna Gewog",
+        "city": "Lhaling",
+        "street": "Lhaling Lam",
+        "iso3166_2": "BT-22",
+        "lon": 89.9246348,
+        "lat": 27.0017495,
+        "formatted": "chiltsathang, Lhaling Lam, Lhaling, Bhutan",
+        "address_line1": "chiltsathang",
+        "address_line2": "Lhaling Lam, Lhaling, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4427613994,
+            "name:en": "chiltsathang",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "chiltsathang"
+        },
+        "place_id": "5195af70372d7b5640593788bda772003b40f00103f9012a07e80701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.92463479999999,
+          27.00174950005768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanab ji",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Dagana District",
+        "county": "Karna Gewog",
+        "city": "Lhaling",
+        "street": "Lhaling Lam",
+        "iso3166_2": "BT-22",
+        "lon": 89.9074262,
+        "lat": 27.0423815,
+        "formatted": "Tanab ji, Lhaling Lam, Lhaling, Bhutan",
+        "address_line1": "Tanab ji",
+        "address_line2": "Lhaling Lam, Lhaling, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4427622693,
+            "name:en": "Tanab ji",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tanab ji"
+        },
+        "place_id": "5125225745137a56405913af9483d90a3b40f00103f9012529e80701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.90742619999999,
+          27.042381500053192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daga chhu bridge",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Dagana District",
+        "county": "Karna Gewog",
+        "city": "Lhaling",
+        "street": "Daga Chhu Bridge",
+        "iso3166_2": "BT-22",
+        "lon": 89.8808611,
+        "lat": 27.0649842,
+        "formatted": "Daga chhu bridge, Daga Chhu Bridge, Lhaling, Bhutan",
+        "address_line1": "Daga chhu bridge",
+        "address_line2": "Daga Chhu Bridge, Lhaling, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4427633390,
+            "name:en": "Daga chhu bridge",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Daga chhu bridge"
+        },
+        "place_id": "5164343c07607856405975f9f5cda2103b40f00103f901ee52e80701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8808611,
+          27.06498420005069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rukubji",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Saephu Gewog",
+        "city": "Boommlog",
+        "street": "PNH 1",
+        "iso3166_2": "BT-24",
+        "lon": 90.2766007,
+        "lat": 27.5156937,
+        "formatted": "Rukubji, PNH 1, Boommlog, Bhutan",
+        "address_line1": "Rukubji",
+        "address_line2": "PNH 1, Boommlog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4524503390,
+            "name:en": "Rukubji",
+            "name:es": "Rukubji",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Rukubji",
+          "es": "Rukubji"
+        },
+        "place_id": "513f236cd3b3915640595741988004843b40f00103f9015e71ae0d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2766007,
+          27.515693700000465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest office",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Dagana District",
+        "county": "Tsenda-Gang Gewog",
+        "city": "Tsenda-Gang",
+        "postcode": "35001",
+        "suburb": "Bangtrar",
+        "street": "camp area",
+        "iso3166_2": "BT-22",
+        "lon": 89.9606332,
+        "lat": 26.931033,
+        "formatted": "Forest office, camp area, Bangtrar, Tsenda-Gang 35001, Bhutan",
+        "address_line1": "Forest office",
+        "address_line2": "camp area, Bangtrar, Tsenda-Gang 35001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4531296089,
+            "name:en": "Forest office",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Forest office"
+        },
+        "place_id": "51ea5cac037b7d56405922c7be2d58ee3a40f00103f9015917160e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.96063319999999,
+          26.931033000065447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shearee Square",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "Thimphu",
+        "postcode": "11001",
+        "district": "Chang Jalu",
+        "street": "Doebum Zur Lam 241 SE",
+        "housenumber": "571",
+        "iso3166_2": "BT-15",
+        "lon": 89.6585124,
+        "lat": 27.4490486,
+        "formatted": "Shearee Square, Doebum Zur Lam 241 SE 571, Thimphu 11001, Bhutan",
+        "address_line1": "Shearee Square",
+        "address_line2": "Doebum Zur Lam 241 SE 571, Thimphu 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4539819389,
+            "name:en": "Shearee Square",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Shearee Square"
+        },
+        "place_id": "51ab803111256a5640593c595bd9f4723b40f00103f9017d25980e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65851239999999,
+          27.449048600007913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flyover Bridge",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Zamtok",
+        "street": "Bangdu Tengzam",
+        "iso3166_2": "BT-15",
+        "lon": 89.6484565,
+        "lat": 27.45634,
+        "formatted": "Flyover Bridge, Bangdu Tengzam, thromde 11001, Bhutan",
+        "address_line1": "Flyover Bridge",
+        "address_line2": "Bangdu Tengzam, thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4539827091,
+            "name:en": "Flyover Bridge",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Flyover Bridge"
+        },
+        "place_id": "513a18b14f80695640591fe3bfb2d2743b40f00103f9019343980e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64845649999998,
+          27.456340000007113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Gasa District",
+        "county": "Laya Gewogs",
+        "city": "Gyalza_Loong-Go",
+        "iso3166_2": "BT-GA",
+        "lon": 89.719301,
+        "lat": 28.066196,
+        "formatted": "Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+        "address_line1": "Gyalza_Loong-Go",
+        "address_line2": "Laya Gewogs, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4581610410,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b9be0f07096e5640590add9638f2103c40f00103f901aad3151101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.71930099999999,
+          28.066195999938863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Gasa District",
+        "county": "Laya Gewogs",
+        "city": "Gyalza_Loong-Go",
+        "iso3166_2": "BT-GA",
+        "lon": 89.779429,
+        "lat": 28.128882,
+        "formatted": "Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+        "address_line1": "Gyalza_Loong-Go",
+        "address_line2": "Laya Gewogs, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4581610628,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5173232c2ae27156405922c02669fe203c40f00103f90184d4151101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.77942899999998,
+          28.128881999931885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Gasa District",
+        "county": "Laya Gewogs",
+        "city": "Gyalza_Loong-Go",
+        "iso3166_2": "BT-GA",
+        "lon": 89.780906,
+        "lat": 28.133993,
+        "formatted": "Gyalza_Loong-Go, Laya Gewogs, Bhutan",
+        "address_line1": "Gyalza_Loong-Go",
+        "address_line2": "Laya Gewogs, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4581610669,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5103d0285dfa715640590f99805d4d223c40f00103f901add4151101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.780906,
+          28.133992999931305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Datong goenpa",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Punakha District",
+        "county": "Shelnga-Bjemi Gewog",
+        "iso3166_2": "BT-23",
+        "lon": 89.9458849,
+        "lat": 27.6127619,
+        "formatted": "Datong goenpa, Shelnga-Bjemi Gewog, Bhutan",
+        "address_line1": "Datong goenpa",
+        "address_line2": "Shelnga-Bjemi Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4588437489,
+            "name:en": "Datong goenpa",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Datong goenpa"
+        },
+        "place_id": "51efd1d160897c564059abb0c0f6dd9c3b40f00103f901f1ff7d1101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9458849,
+          27.61276189998959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Happy Game Hall",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Olakha",
+        "street": "Olakha Zur Lam 3 SE",
+        "housenumber": "4",
+        "iso3166_2": "BT-15",
+        "lon": 89.661304,
+        "lat": 27.4461923,
+        "formatted": "Happy Game Hall, Olakha Zur Lam 3 SE 4, thromde 11001, Bhutan",
+        "address_line1": "Happy Game Hall",
+        "address_line2": "Olakha Zur Lam 3 SE 4, thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4715615990,
+            "name:en": "Happy Game Hall",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Jàlu Lam - 11",
+            "addr:postcode": 11001,
+            "addr:housenumber": 4
+          }
+        },
+        "name_international": {
+          "en": "Happy Game Hall"
+        },
+        "place_id": "51b12d03ce526a5640592e4398a839723b40f00103f901f696121901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.66130399999999,
+          27.446192300008242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenzling resort",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Lamgong Gewog",
+        "city": "Satsam",
+        "street": "Gayda Zampa Bridge",
+        "iso3166_2": "BT-11",
+        "lon": 89.3640622,
+        "lat": 27.4462195,
+        "formatted": "Tenzling resort, Gayda Zampa Bridge, Satsam, Bhutan",
+        "address_line1": "Tenzling resort",
+        "address_line2": "Gayda Zampa Bridge, Satsam, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4951829221,
+            "name:en": "Tenzling resort",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tenzling resort"
+        },
+        "place_id": "516dad8acb4c57564059745fef703b723b40f00103f901e5ea262701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.36406219999999,
+          27.44621950000824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BBS Tower viewpoint",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Kawang Gewog",
+        "state_district": "Thimphu",
+        "city": "Chhanda-Gang_Chhoekhortse_Phajoding",
+        "postcode": "11001",
+        "district": "Motithang",
+        "street": "Sangay Lam",
+        "iso3166_2": "BT-15",
+        "lon": 89.6246367,
+        "lat": 27.4838907,
+        "formatted": "BBS Tower viewpoint, Sangay Lam, Chhanda-Gang_Chhoekhortse_Phajoding 11001, Bhutan",
+        "address_line1": "BBS Tower viewpoint",
+        "address_line2": "Sangay Lam, Chhanda-Gang_Chhoekhortse_Phajoding 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5130563721,
+            "name:en": "BBS Tower viewpoint",
+            "name:es": "Mirador torre BBS",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "BBS Tower viewpoint",
+          "es": "Mirador torre BBS"
+        },
+        "place_id": "516798350cfa67564059155bcb42e07b3b40f00103f9018930ce3101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.62463669999998,
+          27.483890700004014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Gasa District",
+        "county": "Laya Gewogs",
+        "city": "Pazhi",
+        "iso3166_2": "BT-GA",
+        "lon": 89.5583647,
+        "lat": 28.0349962,
+        "formatted": "Pazhi, Laya Gewogs, Bhutan",
+        "address_line1": "Pazhi",
+        "address_line2": "Laya Gewogs, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5207966721,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516a6f4b3fbc63564059923cce82f5083c40f00103f90101446b3601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5583647,
+          28.034996199942334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountain Pass",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Gase Tshowogm Gewog",
+        "city": "Haetshokha",
+        "iso3166_2": "BT-24",
+        "lon": 89.716657,
+        "lat": 27.3592111,
+        "formatted": "Mountain Pass, Haetshokha, Gase Tshowogm Gewog, Bhutan",
+        "address_line1": "Mountain Pass",
+        "address_line2": "Haetshokha, Gase Tshowogm Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5279729224,
+            "name:en": "Mountain Pass",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mountain Pass"
+        },
+        "place_id": "51c45c52b5dd6d564059f5ef3642f55b3b40f00103f9014846b23a01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.716657,
+          27.359211100017962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lawala",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Dangchhu Gewog",
+        "city": "Doongdoongnyelsa Norbooding",
+        "village": "Phobjikha",
+        "street": "Lawala - Gangtey Gonpa Road",
+        "iso3166_2": "BT-24",
+        "lon": 90.1724961,
+        "lat": 27.5248714,
+        "formatted": "Lawala - Gangtey Gonpa Road, Doongdoongnyelsa Norbooding, Bhutan",
+        "address_line1": "Lawala - Gangtey Gonpa Road",
+        "address_line2": "Doongdoongnyelsa Norbooding, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5279741921,
+            "name:dz": "ལ་ཝ་ལ",
+            "name:en": "Lawala",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "dz": "ལ་ཝ་ལ",
+          "en": "Lawala"
+        },
+        "place_id": "51010c152d0a8b564059739ad9f85d863b40f00103f901e177b23a01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1724961,
+          27.524871399999437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karma Prints",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "Thimphu",
+        "postcode": "11001",
+        "district": "Norzin",
+        "street": "Norzin Lam SE",
+        "housenumber": "191",
+        "iso3166_2": "BT-15",
+        "lon": 89.6388511,
+        "lat": 27.4719561,
+        "formatted": "Karma Prints, Norzin Lam SE 191, Thimphu 11001, Bhutan",
+        "address_line1": "Karma Prints",
+        "address_line2": "Norzin Lam SE 191, Thimphu 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5305102969,
+            "name:en": "Karma Prints",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Karma Prints"
+        },
+        "place_id": "51de60b9efe268564059b5ab6e1dd2783b40f00103f9017972353c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63885109999998,
+          27.47195610000536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Samtse District",
+        "county": "Sang-Ngag-Chhoeling Gewog",
+        "city": "Dephellingmaed Khangzangling",
+        "village": "Depheling",
+        "hamlet": "Khamzangling",
+        "street": "Sipsu - Samtse Highway",
+        "iso3166_2": "BT-14",
+        "lon": 88.9751216,
+        "lat": 27.0019145,
+        "formatted": "Sipsu - Samtse Highway, Dephellingmaed Khangzangling, Bhutan",
+        "address_line1": "Sipsu - Samtse Highway",
+        "address_line2": "Dephellingmaed Khangzangling, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5344329421,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e2676d64683e564059c922fb777d003b40f00103f901cdfe8b3e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9751216,
+          27.00191450005767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thimphu Welcome Gate",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "city": "Gangchhe_Talakha",
+        "postcode": "11001",
+        "street": "Thimphu to Phuentsholing Highway",
+        "iso3166_2": "BT-15",
+        "lon": 89.6376036,
+        "lat": 27.4220377,
+        "formatted": "Thimphu Welcome Gate, Thimphu to Phuentsholing Highway, Gangchhe_Talakha 11001, Bhutan",
+        "address_line1": "Thimphu Welcome Gate",
+        "address_line2": "Thimphu to Phuentsholing Highway, Gangchhe_Talakha 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5553993222,
+            "name:en": "Thimphu Welcome Gate",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Thimphu Welcome Gate"
+        },
+        "place_id": "51f673547fce68564059de39a7a90a6c3b40f00103f90106360b4b01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6376036,
+          27.42203770001094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Loong-nyi Gewog",
+        "city": "Khangkhu",
+        "postcode": "12001",
+        "street": "Paro - Thimpu Highway",
+        "iso3166_2": "BT-11",
+        "lon": 89.4206972,
+        "lat": 27.4021937,
+        "formatted": "Paro - Thimpu Highway, Khangkhu 12001, Bhutan",
+        "address_line1": "Paro - Thimpu Highway",
+        "address_line2": "Khangkhu 12001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6287340958,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5135e1f2b3ec5a564059b936942af6663b40f00103f9019e35c17601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42069720000002,
+          27.40219370001316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Thedtsho Gewog",
+        "city": "Lho Rinchhengang",
+        "village": "Rinchhengang",
+        "street": "PNH 1",
+        "iso3166_2": "BT-24",
+        "lon": 89.8940767,
+        "lat": 27.4744481,
+        "formatted": "PNH 1, Lho Rinchhengang, Bhutan",
+        "address_line1": "PNH 1",
+        "address_line2": "Lho Rinchhengang, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6392042674,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 90
+          }
+        },
+        "place_id": "5165a77a8d3879564059d02b416e75793b40f00103f901b2d4fe7c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.89407669999999,
+          27.474448100005077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nimtasa Tokchu",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Kawang Gewog",
+        "city": "Boegarna_Dodennang",
+        "street": "Chagri Dorjeden path",
+        "iso3166_2": "BT-15",
+        "lon": 89.636722,
+        "lat": 27.6251588,
+        "formatted": "Nimtasa Tokchu, Chagri Dorjeden path, Boegarna_Dodennang, Bhutan",
+        "address_line1": "Nimtasa Tokchu",
+        "address_line2": "Chagri Dorjeden path, Boegarna_Dodennang, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6585426290,
+            "name:en": "Nimtasa Tokchu",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Nimtasa Tokchu"
+        },
+        "place_id": "5133a9a10dc06856405985c138680aa03b40f00103f90172a1858801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.636722,
+          27.625158799988203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tashi Workshop Pling",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Chukha",
+        "county": "Phuentshogling Gewog",
+        "city": "Dzongkhag Thromde",
+        "town": "Phuntsholing",
+        "street": "AH-48",
+        "iso3166_2": "BT-12",
+        "lon": 89.3774811,
+        "lat": 26.8640811,
+        "formatted": "Tashi Workshop Pling, AH-48, Dzongkhag Thromde, Bhutan",
+        "address_line1": "Tashi Workshop Pling",
+        "address_line2": "AH-48, Dzongkhag Thromde, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6585426293,
+            "name:en": "Tashi Workshop Pling",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tashi Workshop Pling"
+        },
+        "place_id": "51ead67ca6285856405988e7416b34dd3a40f00103f90175a1858801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.37748109999998,
+          26.86408110007281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Nyechhu_Shar-ri",
+        "hamlet": "Tagtshang",
+        "street": "Path to Tigers Nest",
+        "iso3166_2": "BT-11",
+        "lon": 89.3620237,
+        "lat": 27.4925261,
+        "formatted": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+        "address_line1": "Path to Tigers Nest",
+        "address_line2": "Nyechhu_Shar-ri, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6691766885,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511ff873652b5756405987f0c330167e3b40f00103f9016542dc8e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3620237,
+          27.492526100003058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prayer Flags",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Loong-nyi Gewog",
+        "street": "Bondey - Haa Highway",
+        "iso3166_2": "BT-11",
+        "lon": 89.3828809,
+        "lat": 27.3726063,
+        "formatted": "Prayer Flags, Bondey - Haa Highway, Paro District, Bhutan",
+        "address_line1": "Prayer Flags",
+        "address_line2": "Bondey - Haa Highway, Paro District, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6696349086,
+            "name:en": "Prayer Flags",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Prayer Flags"
+        },
+        "place_id": "51d6f0e31e8158564059b4da6020635f3b40f00103f9019e2d228f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3828809,
+          27.37260630001647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prayer Flags",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Loong-nyi Gewog",
+        "street": "Bondey - Haa Highway",
+        "iso3166_2": "BT-11",
+        "lon": 89.3771306,
+        "lat": 27.3803803,
+        "formatted": "Prayer Flags, Bondey - Haa Highway, Paro District, Bhutan",
+        "address_line1": "Prayer Flags",
+        "address_line2": "Bondey - Haa Highway, Paro District, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6696349185,
+            "name:en": "Prayer Flags",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Prayer Flags"
+        },
+        "place_id": "51885462e82258564059129c749a60613b40f00103f901012e228f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.37713059999999,
+          27.380380300015595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinche La (5000m)",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Gasa District",
+        "county": "Laya Gewogs",
+        "city": "Pazhi",
+        "iso3166_2": "BT-GA",
+        "lon": 89.5523065,
+        "lat": 28.0152706,
+        "formatted": "Sinche La (5000m), Pazhi, Laya Gewogs, Bhutan",
+        "address_line1": "Sinche La (5000m)",
+        "address_line2": "Pazhi, Laya Gewogs, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 4630,
+            "osm_id": 6846906885,
+            "name:en": "Sinche La (5000m)",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Sinche La (5000m)"
+        },
+        "ele": 4630,
+        "place_id": "5191b75cfd5863564059245a27c6e8033c40f00103f90105821b9801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5523065,
+          28.015270599944543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jhari La (4750m)",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Lingzhi Gewog",
+        "city": "Khangkiyuel",
+        "iso3166_2": "BT-15",
+        "lon": 89.5110384,
+        "lat": 27.9613802,
+        "formatted": "Jhari La (4750m), Khangkiyuel, Lingzhi Gewog, Bhutan",
+        "address_line1": "Jhari La (4750m)",
+        "address_line2": "Khangkiyuel, Lingzhi Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6846906886,
+            "name:en": "Jhari La (4750m)",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Jhari La (4750m)"
+        },
+        "place_id": "5102c067dab46056405942cf45031df63b40f00103f90106821b9801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.51103839999999,
+          27.96138019995056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Lingzhi Gewog",
+        "city": "Chakphu",
+        "iso3166_2": "BT-15",
+        "lon": 89.3880318,
+        "lat": 27.8090109,
+        "formatted": "Chakphu, Lingzhi Gewog, Bhutan",
+        "address_line1": "Chakphu",
+        "address_line2": "Lingzhi Gewog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6846907185,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b6b35483d558564059e5779d561bcf3b40f00103f90131831b9801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3880318,
+          27.809010899967593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Haa District",
+        "county": "Katsho Gewog",
+        "city": "Wangtsa",
+        "street": "Bondey - Haa Highway",
+        "iso3166_2": "BT-13",
+        "lon": 89.3420661,
+        "lat": 27.3733657,
+        "formatted": "Bondey - Haa Highway, Wangtsa, Bhutan",
+        "address_line1": "Bondey - Haa Highway",
+        "address_line2": "Wangtsa, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6934125785,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517f243669e455564059bd04ffe4945f3b40f00103f901d95c4e9d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3420661,
+          27.373365700016382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best view point for Tiger's Nest",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Nyechhu_Shar-ri",
+        "hamlet": "Tagtshang",
+        "street": "Path to Tigers Nest",
+        "iso3166_2": "BT-11",
+        "lon": 89.3629124,
+        "lat": 27.4923865,
+        "formatted": "Best view point for Tiger's Nest, Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+        "address_line1": "Best view point for Tiger's Nest",
+        "address_line2": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6942831285,
+            "name:en": "Best view point for Tiger's Nest",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Best view point for Tiger's Nest"
+        },
+        "place_id": "510654eef439575640594a81aa0a0d7e3b40f00103f901b532d39d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3629124,
+          27.492386500003057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TLC imports and exports",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Jalu",
+        "street": "Jalu Zur Lam 9 SE",
+        "iso3166_2": "BT-15",
+        "lon": 89.6589486,
+        "lat": 27.4516031,
+        "formatted": "TLC imports and exports, Jalu Zur Lam 9 SE, thromde 11001, Bhutan",
+        "address_line1": "TLC imports and exports",
+        "address_line2": "Jalu Zur Lam 9 SE, thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7007103986,
+            "name:en": "TLC imports and exports",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "TLC imports and exports"
+        },
+        "place_id": "51aeafbf362c6a564059144ec1429c733b40f00103f901f2eba7a101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6589486,
+          27.45160310000763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Wangchang Gewog",
+        "city": "Paro",
+        "postcode": "12001",
+        "street": "Farm Road",
+        "iso3166_2": "BT-11",
+        "lon": 89.4144802,
+        "lat": 27.4198508,
+        "formatted": "Farm Road, Paro 12001, Bhutan",
+        "address_line1": "Farm Road",
+        "address_line2": "Paro 12001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7391667499,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 160
+          }
+        },
+        "place_id": "51baf5f5d7865a5640595a3f8f577b6b3b40f00103f9012be593b801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.41448019999999,
+          27.419850800011183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Darkarla Gewog",
+        "city": "Chamgang Toed",
+        "street": "Dagala track",
+        "iso3166_2": "BT-15",
+        "lon": 89.695338,
+        "lat": 27.271361,
+        "formatted": "Dagala track, Chamgang Toed, Bhutan",
+        "address_line1": "Dagala track",
+        "address_line2": "Chamgang Toed, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 4458,
+            "osm_id": 7608216080,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 4458,
+        "place_id": "51a06af46a806c56405974871cea77453b40f00103f901102a7cc501000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.69533799999999,
+          27.271361000027767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Darkarla Gewog",
+        "city": "Chamgang Toed",
+        "isolated_dwelling": "Gepailo",
+        "street": "Ganeyzam",
+        "iso3166_2": "BT-15",
+        "lon": 89.6524861,
+        "lat": 27.288531,
+        "formatted": "Ganeyzam, Chamgang Toed, Bhutan",
+        "address_line1": "Ganeyzam",
+        "address_line2": "Chamgang Toed, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 3592,
+            "osm_id": 9170930090,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 3592,
+        "place_id": "510d260f55c26956405943fee82add493b40f00103f901aa49a12202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65248609999999,
+          27.288531000025852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Darkarla Gewog",
+        "city": "Chamgang Toed",
+        "isolated_dwelling": "Gepailo",
+        "street": "Ganeyzam",
+        "iso3166_2": "BT-15",
+        "lon": 89.6519939,
+        "lat": 27.2889551,
+        "formatted": "Ganeyzam, Chamgang Toed, Bhutan",
+        "address_line1": "Ganeyzam",
+        "address_line2": "Chamgang Toed, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 3556,
+            "osm_id": 9170930103,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 3556,
+        "place_id": "51406c9f44ba695640598e9f20f6f8493b40f00103f901b749a12202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65199389999998,
+          27.28895510002581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Darkarla Gewog",
+        "city": "Chamgang Toed",
+        "isolated_dwelling": "Gepailo",
+        "street": "Ganeyzam",
+        "iso3166_2": "BT-15",
+        "lon": 89.6412228,
+        "lat": 27.3023204,
+        "formatted": "Ganeyzam, Chamgang Toed, Bhutan",
+        "address_line1": "Ganeyzam",
+        "address_line2": "Chamgang Toed, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 3206,
+            "osm_id": 9170930325,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 3206,
+        "place_id": "51c6dc5acb09695640599f04a7de644d3b40f00103f901954aa12202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64122280000001,
+          27.30232040002431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Haa District",
+        "county": "Uesu Gewog",
+        "city": "Ha",
+        "street": "Bondey - Haa Highway",
+        "iso3166_2": "BT-13",
+        "lon": 89.2947914,
+        "lat": 27.3775279,
+        "formatted": "Bondey - Haa Highway, Ha, Bhutan",
+        "address_line1": "Bondey - Haa Highway",
+        "address_line2": "Ha, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 9734343833,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511789bfdcdd525640595ee51faba5603b40f00103f901994c364402000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2947914,
+          27.377527900015927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viewpoint on Wangdue Phodrang Dzong",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Thedtsho Gewog",
+        "city": "Lho Rinchhengang",
+        "village": "Rinchhengang",
+        "street": "PNH 1",
+        "iso3166_2": "BT-24",
+        "lon": 89.8944825,
+        "lat": 27.475995,
+        "formatted": "Viewpoint on Wangdue Phodrang Dzong, PNH 1, Lho Rinchhengang, Bhutan",
+        "address_line1": "Viewpoint on Wangdue Phodrang Dzong",
+        "address_line2": "PNH 1, Lho Rinchhengang, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10087147018,
+            "name:en": "Viewpoint on Wangdue Phodrang Dzong",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Viewpoint on Wangdue Phodrang Dzong"
+        },
+        "place_id": "51081687333f79564059a314eeceda793b40f00103f9010aa63d5902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.89448249999998,
+          27.47599500000491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Saephu Gewog",
+        "city": "Boommlog",
+        "street": "PNH 1",
+        "iso3166_2": "BT-24",
+        "lon": 90.2702667,
+        "lat": 27.5166924,
+        "formatted": "PNH 1, Boommlog, Bhutan",
+        "address_line1": "PNH 1",
+        "address_line2": "Boommlog, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10087155817,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a96cb30c4c91564059dc1700f445843b40f00103f90169c83d5902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2702667,
+          27.516692400000338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "View Point Trongsa Dzong",
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Trongsa District",
+        "county": "Nubi Gewog",
+        "city": "Bji Saengbji",
+        "village": "Tshangkhazur",
+        "postcode": "33001",
+        "street": "PNH 1",
+        "iso3166_2": "BT-32",
+        "lon": 90.4965547,
+        "lat": 27.4965265,
+        "formatted": "View Point Trongsa Dzong, PNH 1, Bji Saengbji 33001, Bhutan",
+        "address_line1": "View Point Trongsa Dzong",
+        "address_line2": "PNH 1, Bji Saengbji 33001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10089693417,
+            "name:en": "View Point Trongsa Dzong",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "View Point Trongsa Dzong"
+        },
+        "place_id": "51354b5d8dc79f564059ca1b575c1c7f3b40f00103f901e980645902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4965547,
+          27.49652650000261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Dagana District",
+        "county": "Gesarling Gewog",
+        "city": "Gesarling",
+        "street": "Lhomazingkha Highway",
+        "iso3166_2": "BT-22",
+        "lon": 89.9059631,
+        "lat": 26.9238167,
+        "formatted": "Lhomazingkha Highway, Gesarling, Bhutan",
+        "address_line1": "Lhomazingkha Highway",
+        "address_line2": "Gesarling, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10242165672,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517e78a74cfb795640597e4852407fec3a40f00103f901a80b7b6202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.90596309999998,
+          26.923816700066247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Dagana District",
+        "county": "Gesarling Gewog",
+        "city": "Gesarling",
+        "street": "Lhomazingkha Highway",
+        "iso3166_2": "BT-22",
+        "lon": 89.9109733,
+        "lat": 26.922125,
+        "formatted": "Lhomazingkha Highway, Gesarling, Bhutan",
+        "address_line1": "Lhomazingkha Highway",
+        "address_line2": "Gesarling, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10242199890,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ddc1f4624d7a564059011c4e6210ec3a40f00103f90152917b6202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.91097329999998,
+          26.922125000066448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Punakha District",
+        "county": "Guma Gewog",
+        "city": "Changyuel Loongsilgang Tashijong",
+        "town": "Kuruthang",
+        "hamlet": "Pajo",
+        "postcode": "13001",
+        "street": "Misina - Punakha Highway",
+        "iso3166_2": "BT-23",
+        "lon": 89.8621164,
+        "lat": 27.5800413,
+        "formatted": "Misina - Punakha Highway, Changyuel Loongsilgang Tashijong 13001, Bhutan",
+        "address_line1": "Misina - Punakha Highway",
+        "address_line2": "Changyuel Loongsilgang Tashijong 13001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10759958293,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "description": "Punakha Dzong Viewpoint"
+          }
+        },
+        "description": "Punakha Dzong Viewpoint",
+        "place_id": "5119d643ea2c77564059e3cc2d967d943b40f00103f90115ef578102000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8621164,
+          27.58004129999325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Wangdue Phodrang District",
+        "county": "Dangchhu Gewog",
+        "city": "Doongdoongnyelsa Norbooding",
+        "village": "Nobding",
+        "street": "PNH 1",
+        "iso3166_2": "BT-24",
+        "lon": 90.1312006,
+        "lat": 27.5025337,
+        "formatted": "PNH 1, Doongdoongnyelsa Norbooding, Bhutan",
+        "address_line1": "PNH 1",
+        "address_line2": "Doongdoongnyelsa Norbooding, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11300141969,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cb8d339765885640596ba56e0ca6803b40f00103f901917b8aa102000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.13120059999999,
+          27.50253370000193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "India",
+        "country_code": "in",
+        "state": "Sikkim",
+        "county": "Gangtok",
+        "city": "Changgu",
+        "street": "NH310",
+        "iso3166_2": "IN-SK",
+        "lon": 88.758902,
+        "lat": 27.3680732,
+        "state_code": "SK",
+        "formatted": "NH310, Changgu -, Sikkim, India",
+        "address_line1": "NH310",
+        "address_line2": "Changgu -, Sikkim, India",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11387330469,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519db7b1d99130564059659b940b3a5e3b40f00103f901a5dfbca602000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.75890199999999,
+          27.368073200016983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Paro District",
+        "county": "Tsento Gewog",
+        "city": "Nyechhu_Shar-ri",
+        "village": "Nyamed",
+        "hamlet": "Tagtshang",
+        "street": "Path to Tigers Nest",
+        "iso3166_2": "BT-11",
+        "lon": 89.3355055,
+        "lat": 27.5022513,
+        "formatted": "Path to Tigers Nest, Nyechhu_Shar-ri, Bhutan",
+        "address_line1": "Path to Tigers Nest",
+        "address_line2": "Nyechhu_Shar-ri, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11961168088,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5134880fec7855564059c6e18b8a93803b40f00103f901d8f0f0c802000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.33550550000001,
+          27.502251300001966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Bangdu",
+        "street": "Gaki Lam SW",
+        "iso3166_2": "BT-15",
+        "lon": 89.6435643,
+        "lat": 27.451564,
+        "formatted": "Gaki Lam SW, thromde 11001, Bhutan",
+        "address_line1": "Gaki Lam SW",
+        "address_line2": "thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12043095369,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e057512830695640597215c4b299733b40f00103f901490dd3cd02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64356429999998,
+          27.451564000007643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Bangdu",
+        "street": "Gaki Lam SW",
+        "iso3166_2": "BT-15",
+        "lon": 89.6439337,
+        "lat": 27.4536492,
+        "formatted": "Gaki Lam SW, thromde 11001, Bhutan",
+        "address_line1": "Gaki Lam SW",
+        "address_line2": "thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12043095469,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b592b13536695640596ae39d5a22743b40f00103f901ad0dd3cd02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6439337,
+          27.453649200007398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bhutan",
+        "country_code": "bt",
+        "state": "Thimphu District",
+        "county": "Chang Gewog",
+        "state_district": "Thimphu",
+        "city": "thromde",
+        "postcode": "11001",
+        "district": "Chang Zamtok",
+        "street": "Bangdu Lam SW",
+        "iso3166_2": "BT-15",
+        "lon": 89.6464129,
+        "lat": 27.4548947,
+        "formatted": "Bangdu Lam SW, thromde 11001, Bhutan",
+        "address_line1": "Bangdu Lam SW",
+        "address_line2": "thromde 11001, Bhutan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12060768270,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519a4d36d45e69564059aca7a3fa73743b40f00103f9010eb8e0ce02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6464129,
+          27.454894700007273
+        ]
+      }
+    }
+  ]
+}

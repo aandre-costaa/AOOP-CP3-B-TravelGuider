@@ -1,0 +1,5153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pico de Garza",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "hamlet": "Costa El Mangal",
+        "postcode": "43000",
+        "street": "Camino Costa El Mangal",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9152629,
+        "lat": 11.8983655,
+        "state_code": "GR",
+        "formatted": "Pico de Garza, Camino Costa El Mangal, Granada, Nicaragua",
+        "address_line1": "Pico de Garza",
+        "address_line2": "Camino Costa El Mangal, Granada, Nicaragua",
+        "categories": [
+          "beach",
+          "beach.beach_resort",
+          "catering",
+          "catering.bar",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pico de Garza",
+            "phone": "8768-5045",
+            "sport": "canoe",
+            "osm_id": 3248392092,
+            "amenity": "bar",
+            "leisure": "beach_resort",
+            "tourism": "attraction",
+            "website": "https://picodegarza.com/",
+            "osm_type": "n",
+            "amenity_1": "restaurant",
+            "description": "Es un bar y restaurante",
+            "opening_hours": "09:00-18:00"
+          }
+        },
+        "website": "https://picodegarza.com/",
+        "opening_hours": "09:00-18:00",
+        "description": "Es un bar y restaurante",
+        "contact": {
+          "phone": "8768-5045"
+        },
+        "place_id": "517eafd7aa937a55c059ad061190f6cb2740f00103f9019c879ec10000000092030d5069636f206465204761727a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91526289999999,
+          11.898365499571208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RSP Montibelli",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "Distrito V",
+        "state": "Managua",
+        "city": "Ticuantepe",
+        "postcode": "16300",
+        "street": "La Miona",
+        "iso3166_2": "NI-MN",
+        "lon": -86.23206,
+        "lat": 12.0211283,
+        "state_code": "MN",
+        "formatted": "RSP Montibelli, La Miona, Ticuantepe, Nicaragua",
+        "address_line1": "RSP Montibelli",
+        "address_line2": "La Miona, Ticuantepe, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "RSP Montibelli",
+            "email": "info@montibelli.com",
+            "phone": "+50522209801",
+            "osm_id": 5345761121,
+            "tourism": "attraction",
+            "website": "http://www.montibelli.com",
+            "osm_type": "n",
+            "addr:street": "Palestina",
+            "opening_hours": "24/7"
+          }
+        },
+        "website": "http://www.montibelli.com",
+        "opening_hours": "24/7",
+        "contact": {
+          "phone": "+50522209801",
+          "email": "info@montibelli.com"
+        },
+        "place_id": "516cad2f12da8e55c059c4731754d10a2840f00103f90161d7a13e0100000092030e525350204d6f6e746962656c6c69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23205999999999,
+          12.021128299582308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taller Soy Nica",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Calle Arsenal",
+        "street": "Calle La Calzada",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9491769,
+        "lat": 11.9299864,
+        "state_code": "GR",
+        "formatted": "Soy Nica Workshop, Calle La Calzada, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "Soy Nica Workshop",
+        "address_line2": "Calle La Calzada, Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Taller Soy Nica",
+            "phone": "+505 8367 0023",
+            "osm_id": 6103506488,
+            "name:en": "Soy Nica Workshop",
+            "tourism": "attraction",
+            "website": "https://soynica.myshopify.com/",
+            "osm_type": "n",
+            "addr:street": "Calle La Calzada",
+            "opening_hours": "Mo-Su 09:00-18:00"
+          }
+        },
+        "website": "https://soynica.myshopify.com/",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "name_international": {
+          "en": "Soy Nica Workshop"
+        },
+        "contact": {
+          "phone": "+505 8367 0023"
+        },
+        "place_id": "5198e77750bf7c55c0596cca672d27dc2740f00103f901381ecc6b0100000092030f54616c6c657220536f79204e696361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9491769,
+          11.929986399574055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estación Biológica Agualí",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Matagalpa",
+        "city": "Matagalpa",
+        "postcode": "61000",
+        "street": "11a Avenida Este",
+        "iso3166_2": "NI-MT",
+        "lon": -85.9127529,
+        "lat": 12.917844,
+        "state_code": "MT",
+        "formatted": "Agualí Biological Station, 11a Avenida Este, Matagalpa, Nicaragua",
+        "address_line1": "Agualí Biological Station",
+        "address_line2": "11a Avenida Este, Matagalpa, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estación Biológica Agualí",
+            "email": "info@aguali.net",
+            "phone": "+505 8647 4680",
+            "osm_id": 6759778785,
+            "name:en": "Agualí Biological Station",
+            "tourism": "attraction",
+            "website": "https://www.aguali.net",
+            "osm_type": "n",
+            "addr:full": "Hotel Bermúdez 900 al este y 300 al sur",
+            "opening_hours": "Sa-Su 09:00-17:00"
+          }
+        },
+        "website": "https://www.aguali.net",
+        "opening_hours": "Sa-Su 09:00-17:00",
+        "name_international": {
+          "en": "Agualí Biological Station"
+        },
+        "contact": {
+          "phone": "+505 8647 4680",
+          "email": "info@aguali.net"
+        },
+        "place_id": "5111b5238b6a7a55c05971d412a6efd52940f00103f901e109ea920100000092031c457374616369c3b36e2042696f6cc3b36769636120416775616cc3ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9127529,
+          12.917843999670568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel y Centro Recreativo Crist",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Matagalpa",
+        "city": "Sébaco",
+        "village": "Chagüitillo",
+        "hamlet": "Las Palomas",
+        "postcode": "62200",
+        "street": "Carretera Matagalpa - Sébaco",
+        "iso3166_2": "NI-MT",
+        "lon": -86.0773896,
+        "lat": 12.8917776,
+        "state_code": "MT",
+        "formatted": "Quinta Cristh, Carretera Matagalpa - Sébaco, Sébaco, Nicaragua",
+        "address_line1": "Quinta Cristh",
+        "address_line2": "Carretera Matagalpa - Sébaco, Sébaco, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hotel y Centro Recreativo Crist",
+            "phone": "+505 2775 4796",
+            "osm_id": 4696591344,
+            "name:en": "Quinta Cristh",
+            "name:es": "Hotel y Centro Recreativo Crist",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "Quinta Cristh",
+          "es": "Hotel y Centro Recreativo Crist"
+        },
+        "contact": {
+          "phone": "+505 2775 4796"
+        },
+        "place_id": "513c4382f3f38455c059ebc1d31297c82940f00103f901f04bf0170100000092031f486f74656c20792043656e74726f205265637265617469766f204372697374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0773896,
+          12.891777599667838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fortaleza El Coyotepe",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Masaya",
+        "postcode": "41000",
+        "district": "Benjamín Zeledón",
+        "suburb": "San Carlos",
+        "street": "Carretera al Coyotepe",
+        "iso3166_2": "NI-MS",
+        "lon": -86.09849787725332,
+        "lat": 11.995913999999999,
+        "state_code": "MS",
+        "formatted": "Fortaleza El Coyotepe, Carretera al Coyotepe, San Carlos, Masaya, Nicaragua",
+        "address_line1": "Fortaleza El Coyotepe",
+        "address_line2": "Carretera al Coyotepe, San Carlos, Masaya, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.fort"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fortaleza El Coyotepe",
+            "osm_id": -17612225,
+            "tourism": "attraction",
+            "historic": "fort",
+            "osm_type": "r",
+            "wikidata": "Q1138311",
+            "short_name": "Fortaleza Coyotepe",
+            "defensive_works": "bastion"
+          }
+        },
+        "name_other": {
+          "short_name": "Fortaleza Coyotepe"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1138311"
+        },
+        "historic": {
+          "type": "fort"
+        },
+        "place_id": "51d2610aca4d8655c0593ea69370e8fd2740f00101f901c1bd0c0100000000920315466f7274616c657a6120456c20436f796f74657065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09849787725332,
+          11.995913999580008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa Gigante",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Rivas",
+        "city": "Tola",
+        "village": "El Gigante",
+        "postcode": "48500",
+        "iso3166_2": "NI-RI",
+        "lon": -86.03278309916817,
+        "lat": 11.389200299999999,
+        "state_code": "RI",
+        "formatted": "Playa Gigante, Tola, Nicaragua",
+        "address_line1": "Playa Gigante",
+        "address_line2": "Tola, Nicaragua",
+        "categories": [
+          "beach",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Playa Gigante",
+            "osm_id": -5916942,
+            "natural": "beach",
+            "tourism": "attraction",
+            "alt_name": "Playa El Gigante;Costa de Gigante;Costa Gigante",
+            "osm_type": "r",
+            "wikidata": "Q14229544"
+          }
+        },
+        "name_other": {
+          "alt_name": "Playa El Gigante;Costa de Gigante;Costa Gigante"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q14229544"
+        },
+        "place_id": "517cb2481e198255c0592822fc4245c72640f00101f9010e495a000000000092030d506c61796120476967616e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03278309916817,
+          11.389200299528127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catedral San Pedro",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Matagalpa",
+        "city": "Matagalpa",
+        "postcode": "61000",
+        "street": "1a Calle Norte",
+        "iso3166_2": "NI-MT",
+        "lon": -85.91831735020908,
+        "lat": 12.92865775,
+        "state_code": "MT",
+        "formatted": "Catedral San Pedro, 1a Calle Norte, Matagalpa, Nicaragua",
+        "address_line1": "Catedral San Pedro",
+        "address_line2": "1a Calle Norte, Matagalpa, Nicaragua",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.cathedral"
+        ],
+        "details": [
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Catedral San Pedro",
+            "osm_id": 244239172,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "cathedral",
+            "osm_type": "w",
+            "religion": "christian",
+            "wikidata": "Q28582460",
+            "denomination": "catholic"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q28582460"
+        },
+        "building": {
+          "type": "cathedral"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "catholic"
+        },
+        "place_id": "51d59f22b6c57a55c059aa08500779db2940f00102f90144cb8e0e00000000920312436174656472616c2053616e20506564726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91831735020908,
+          12.928657749671704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruinas de León Viejo",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "La Paz Centro",
+        "village": "Puerto Momotombo",
+        "postcode": "22100",
+        "street": "Antigua Vía del Ferrocarril",
+        "iso3166_2": "NI-LE",
+        "lon": -86.61742176502443,
+        "lat": 12.40045855,
+        "state_code": "LE",
+        "formatted": "Ruinas de León Viejo, Antigua Vía del Ferrocarril, La Paz Centro, Nicaragua",
+        "address_line1": "Ruinas de León Viejo",
+        "address_line2": "Antigua Vía del Ferrocarril, La Paz Centro, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ruinas de León Viejo",
+            "osm_id": 273967854,
+            "tourism": "attraction",
+            "alt_name": "León Viejo",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikidata": "Q1422898"
+          }
+        },
+        "name_other": {
+          "alt_name": "León Viejo"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1422898"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51952794d683a755c05900072ce708cd2840f00102f901ee6a5410000000009203155275696e6173206465204c65c3b36e205669656a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.61742176502442,
+          12.400458549618179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hervideros de San Jacinto",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "Telica",
+        "village": "San Jacinto",
+        "postcode": "22400",
+        "suburb": "San Jacinto",
+        "street": "Calle Las Estrellas",
+        "iso3166_2": "NI-LE",
+        "lon": -86.77932302528572,
+        "lat": 12.581822800000001,
+        "state_code": "LE",
+        "formatted": "Hervideros de San Jacinto, Calle Las Estrellas, San Jacinto, Telica, Nicaragua",
+        "address_line1": "Hervideros de San Jacinto",
+        "address_line2": "Calle Las Estrellas, San Jacinto, Telica, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hervideros de San Jacinto",
+            "osm_id": 457338205,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q21528844"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q21528844"
+        },
+        "place_id": "51cea7ae6de0b155c059320291ade4292940f00102f9015d6d421b0000000092031948657276696465726f732064652053616e204a6163696e746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77932302528572,
+          12.581822799636118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "don José",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Catarina",
+        "postcode": "42500",
+        "street": "2a Calle NE",
+        "iso3166_2": "NI-MS",
+        "lon": -86.0553755,
+        "lat": 11.9260427,
+        "state_code": "MS",
+        "formatted": "don José, 2a Calle NE, Catarina, Nicaragua",
+        "address_line1": "don José",
+        "address_line2": "2a Calle NE, Catarina, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "don José",
+            "osm_id": 4525451597,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "place_id": "51fa5fae458b8355c059b6bcca4422da2740f00103f9014de9bc0d01000000920309646f6e204a6f73c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0553755,
+          11.926042699573696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque La Trinidad",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Estelí",
+        "city": "La Trinidad",
+        "postcode": "32500",
+        "district": "Barrio El Olimpo",
+        "street": "Calle Central",
+        "iso3166_2": "NI-ES",
+        "lon": -86.2357181,
+        "lat": 12.9681203,
+        "state_code": "ES",
+        "formatted": "Parque La Trinidad, Calle Central, Barrio El Olimpo, La Trinidad, Nicaragua",
+        "address_line1": "Parque La Trinidad",
+        "address_line2": "Calle Central, Barrio El Olimpo, La Trinidad, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque La Trinidad",
+            "osm_id": 4543244689,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "calle central",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "place_id": "51d0a45e01168f55c0593067c376adef2940f00103f9019169cc0e01000000920312506172717565204c61205472696e69646164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23571809999999,
+          12.96812029967586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hostal Poza Perla",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "Nagarote",
+        "postcode": "22200",
+        "suburb": "El Guineo",
+        "street": "Carretera Puerto Sandino - El Tránsito",
+        "housenumber": "87971135",
+        "iso3166_2": "NI-LE",
+        "lon": -86.7163655,
+        "lat": 12.0683337,
+        "state_code": "LE",
+        "formatted": "Poza Perla Hostel, Carretera Puerto Sandino - El Tránsito 87971135, El Guineo, Nagarote, Nicaragua",
+        "address_line1": "Poza Perla Hostel",
+        "address_line2": "Carretera Puerto Sandino - El Tránsito 87971135, El Guineo, Nagarote, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hostal Poza Perla",
+            "email": "drmurillo78@gmail.com",
+            "phone": 58271756,
+            "osm_id": 4881456422,
+            "name:en": "Poza Perla Hostel",
+            "name:es": "Hostal Poza Perla",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "NIC-52B",
+            "addr:housenumber": 87971135
+          }
+        },
+        "name_international": {
+          "en": "Poza Perla Hostel",
+          "es": "Hostal Poza Perla"
+        },
+        "contact": {
+          "phone": 58271756,
+          "email": "drmurillo78@gmail.com"
+        },
+        "place_id": "51e39eaeeed8ad55c059f3e079a2fc222840f00103f901261df52201000000920311486f7374616c20506f7a61205065726c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71636549999998,
+          12.06833369958665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bosque Las Prusias",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Las Camelias",
+        "street": "Camino a la Laguna",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9826913,
+        "lat": 11.9153469,
+        "state_code": "GR",
+        "formatted": "Bosque Las Prusias, Camino a la Laguna, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "Bosque Las Prusias",
+        "address_line2": "Camino a la Laguna, Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bosque Las Prusias",
+            "osm_id": 5320727921,
+            "name:es": "Bosque Las Prusias",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 06:00-18:00"
+          }
+        },
+        "opening_hours": "Mo-Su 06:00-18:00",
+        "name_international": {
+          "es": "Bosque Las Prusias"
+        },
+        "place_id": "5114e40c6ae47e55c059dd514c59a8d42740f00103f90171dd233d01000000920312426f73717565204c61732050727573696173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9826913,
+          11.915346899572734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Patio de La Botana",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Chinandega",
+        "city": "Chichigalpa",
+        "postcode": "26100",
+        "street": "NIC-54",
+        "housenumber": "123",
+        "iso3166_2": "NI-CI",
+        "lon": -87.0295744,
+        "lat": 12.5697326,
+        "state_code": "CI",
+        "formatted": "El Patio de La Botana, NIC-54 123, Chichigalpa, Nicaragua",
+        "address_line1": "El Patio de La Botana",
+        "address_line2": "NIC-54 123, Chichigalpa, Nicaragua",
+        "categories": [
+          "catering",
+          "catering.bar",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.facilities",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Patio de La Botana",
+            "osm_id": 5364726560,
+            "amenity": "bar",
+            "brewery": "various",
+            "smoking": "separated",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Chichigalpa",
+            "addr:street": "NIC-54",
+            "description": "El Lugar perfecto para La Carnita Asada.",
+            "opening_hours": "24/7",
+            "outdoor_seating": "yes",
+            "addr:housenumber": 123,
+            "payment:credit_cards": "yes"
+          }
+        },
+        "opening_hours": "24/7",
+        "description": "El Lugar perfecto para La Carnita Asada.",
+        "facilities": {
+          "smoking": true,
+          "outdoor_seating": true
+        },
+        "payment_options": {
+          "credit_cards": true
+        },
+        "place_id": "512033068ce4c155c0593ecbc5fdb3232940f00103f901203bc33f01000000920315456c20506174696f206465204c6120426f74616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0295744,
+          12.5697325996349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cifar Island Hotel-Restaurante",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "hamlet": "Costa El Mangal",
+        "postcode": "43000",
+        "street": "Camino Costa El Mangal",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9162143,
+        "lat": 11.8931888,
+        "state_code": "GR",
+        "formatted": "Cifar Island Hotel-Restaurante, Camino Costa El Mangal, Granada, Nicaragua",
+        "address_line1": "Cifar Island Hotel-Restaurante",
+        "address_line2": "Camino Costa El Mangal, Granada, Nicaragua",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cifar Island Hotel-Restaurante",
+            "phone": 89898986,
+            "osm_id": 6631872186,
+            "natural": "spring",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Isletas de Granada, Lago de Nicaragua."
+          }
+        },
+        "contact": {
+          "phone": 89898986
+        },
+        "place_id": "5128a84d41a37a55c059ab9ed60a50c92740f00103f901ba564a8b0100000092031e43696661722049736c616e6420486f74656c2d52657374617572616e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91621429999998,
+          11.893188799570757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estación Biológica Agualí",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Matagalpa",
+        "city": "Matagalpa",
+        "postcode": "61000",
+        "street": "Entrada parqueo",
+        "iso3166_2": "NI-MT",
+        "lon": -85.9126393,
+        "lat": 12.917841,
+        "state_code": "MT",
+        "formatted": "Biological Station Agualí, Entrada parqueo, Matagalpa, Nicaragua",
+        "address_line1": "Biological Station Agualí",
+        "address_line2": "Entrada parqueo, Matagalpa, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estación Biológica Agualí",
+            "osm_id": 6759772386,
+            "name:en": "Biological Station Agualí",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Entrada parqueo",
+            "opening_hours": "Sa-Su 09:00-17:00"
+          }
+        },
+        "opening_hours": "Sa-Su 09:00-17:00",
+        "name_international": {
+          "en": "Biological Station Agualí"
+        },
+        "place_id": "51d5a2aaae687a55c059ad066941efd52940f00103f901e2f0e9920100000092031c457374616369c3b36e2042696f6cc3b36769636120416775616cc3ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91263929999998,
+          12.917840999670569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isla del Amor",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Managua",
+        "city": "Ciudad Sandino",
+        "postcode": "15700",
+        "iso3166_2": "NI-MN",
+        "lon": -86.31652496435247,
+        "lat": 12.1722877,
+        "state_code": "MN",
+        "formatted": "Isla del Amor, Ciudad Sandino, Nicaragua",
+        "address_line1": "Isla del Amor",
+        "address_line2": "Ciudad Sandino, Nicaragua",
+        "categories": [
+          "island",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Isla del Amor",
+            "place": "islet",
+            "osm_id": -11803022,
+            "tourism": "attraction",
+            "osm_type": "r"
+          }
+        },
+        "place_id": "51ba90ecf1419455c059e089e61736582840f00101f9018e19b4000000000092030d49736c612064656c20416d6f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31652496435245,
+          12.172287699596325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fortaleza La Polvora",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Centro Histórico",
+        "neighbourhood": "Barrio La Pólvora",
+        "street": "Calle La Pólvora",
+        "iso3166_2": "NI-GR",
+        "lon": -85.96520417738944,
+        "lat": 11.928664,
+        "state_code": "GR",
+        "formatted": "Fortaleza La Polvora, Calle La Pólvora, Centro Histórico, Granada, Nicaragua",
+        "address_line1": "Fortaleza La Polvora",
+        "address_line2": "Calle La Pólvora, Centro Histórico, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fortaleza La Polvora",
+            "osm_id": 27403442,
+            "barrier": "wall",
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "w",
+            "castle_type": "fortress"
+          }
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "fortress"
+        },
+        "place_id": "516af6bde7c57d55c059024906d979db2740f00102f901b224a20100000000920314466f7274616c657a61204c6120506f6c766f7261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.96520417738944,
+          11.928663999573931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Centro Histórico",
+        "neighbourhood": "Calle Atravezada",
+        "street": "Calle Atravesada",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9552544,
+        "lat": 11.9340597,
+        "state_code": "GR",
+        "formatted": "Calle Atravesada, Centro Histórico, Granada, Nicaragua",
+        "address_line1": "Calle Atravesada",
+        "address_line2": "Centro Histórico, Granada, Nicaragua",
+        "name": "Calle Atravesada",
+        "categories": [
+          "highway",
+          "highway.tertiary",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details",
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Calle Atravesada",
+            "layer": 1,
+            "bridge": "yes",
+            "oneway": "no",
+            "osm_id": 27529083,
+            "highway": "tertiary",
+            "tourism": "attraction",
+            "z_order": 340,
+            "alt_name": "Calle Atravesada (Puente Los Dardanelos)",
+            "osm_type": "w",
+            "bridge:name": "Puente Los Dardanelos",
+            "maxweightrating": 20
+          }
+        },
+        "name_other": {
+          "alt_name": "Calle Atravesada (Puente Los Dardanelos)"
+        },
+        "way": {
+          "bridge": true,
+          "oneway": false
+        },
+        "place_id": "5111c53fc7227d55c059bf6720ef1cde2740f00102f9017b0fa4010000000092031043616c6c652041747261766573616461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95524769999999,
+          11.933814499574394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza de la Fe",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "11001",
+        "district": "Centro Histórico Cultural",
+        "iso3166_2": "NI-MN",
+        "lon": -86.27442755732497,
+        "lat": 12.15937905,
+        "state_code": "MN",
+        "formatted": "Plaza de la Fe, Centro Histórico Cultural, Managua, Nicaragua",
+        "address_line1": "Plaza de la Fe",
+        "address_line2": "Centro Histórico Cultural, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza de la Fe",
+            "place": "square",
+            "osm_id": 38704541,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513df59938909155c0596f5b7b219a512840f00102f9019d954e020000000092030e506c617a61206465206c61204665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.27442755732496,
+          12.159379049595115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fortaleza El Coyotepe",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Masaya",
+        "postcode": "41000",
+        "district": "Benjamín Zeledón",
+        "suburb": "San Carlos",
+        "street": "Carretera al Coyotepe",
+        "iso3166_2": "NI-MS",
+        "lon": -86.09833295,
+        "lat": 11.995942,
+        "state_code": "MS",
+        "formatted": "Fortaleza El Coyotepe, Carretera al Coyotepe, San Carlos, Masaya, Nicaragua",
+        "address_line1": "Fortaleza El Coyotepe",
+        "address_line2": "Carretera al Coyotepe, San Carlos, Masaya, Nicaragua",
+        "categories": [
+          "building",
+          "building.military",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fortaleza El Coyotepe",
+            "osm_id": 78047766,
+            "tourism": "attraction",
+            "building": "bunker",
+            "osm_type": "w",
+            "short_name": "Fortaleza Coyotepe"
+          }
+        },
+        "name_other": {
+          "short_name": "Fortaleza Coyotepe"
+        },
+        "building": {
+          "type": "bunker"
+        },
+        "place_id": "51a01749164b8655c05966d1191cecfd2740f00102f90116eaa60400000000920315466f7274616c657a6120456c20436f796f74657065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09833294999999,
+          11.995941999580008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palacio Episcopal",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Sector El Parque",
+        "street": "Calle La Libertad",
+        "iso3166_2": "NI-GR",
+        "lon": -85.95328044153757,
+        "lat": 11.9304273,
+        "state_code": "GR",
+        "formatted": "Palacio Episcopal, Calle La Libertad, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "Palacio Episcopal",
+        "address_line2": "Calle La Libertad, Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Palacio Episcopal",
+            "osm_id": 97207323,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "518014f88b027d55c059dcf38df760dc2740f00102f9011b44cb050000000092031150616c6163696f2045706973636f70616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95328044153757,
+          11.930427299574085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isla de los Monos",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "iso3166_2": "NI-GR",
+        "lon": -85.90549115813215,
+        "lat": 11.9143698,
+        "state_code": "GR",
+        "formatted": "Monkey Island, Granada, Nicaragua",
+        "address_line1": "Monkey Island",
+        "address_line2": "Granada, Nicaragua",
+        "categories": [
+          "island",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Isla de los Monos",
+            "place": "islet",
+            "osm_id": 172360317,
+            "name:en": "Monkey Island",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Monkey Island"
+        },
+        "place_id": "51aabf2f91f37955c059ae3a434728d42740f00102f9017d02460a0000000092031149736c61206465206c6f73204d6f6e6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90549115813215,
+          11.91436979957265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Isletas",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "village": "El Diamante",
+        "postcode": "43000",
+        "street": "Camino Puerto El Rayo",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9028721,
+        "lat": 11.901022,
+        "state_code": "GR",
+        "formatted": "Las Isletas, Camino Puerto El Rayo, Granada, Nicaragua",
+        "address_line1": "Las Isletas",
+        "address_line2": "Camino Puerto El Rayo, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Las Isletas",
+            "osm_id": 175697504,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51217e0fa8c87955c05992456ac152cd2740f00103f90160ee780a0000000092030b4c61732049736c65746173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90287209999998,
+          11.901021999571444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Catarina",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Catarina",
+        "postcode": "42500",
+        "street": "1a Calle NE",
+        "iso3166_2": "NI-MS",
+        "lon": -86.0690303,
+        "lat": 11.9131822,
+        "state_code": "MS",
+        "formatted": "Mirador de Catarina, 1a Calle NE, Catarina, Nicaragua",
+        "address_line1": "Mirador de Catarina",
+        "address_line2": "1a Calle NE, Catarina, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Catarina",
+            "osm_id": 175858767,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b63b10fe6a8455c05924e8049e8cd32740f00103f9014f647b0a000000009203134d697261646f72206465204361746172696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.06903029999998,
+          11.913182199572539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Las Madres",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "12066",
+        "district": "Bologna",
+        "iso3166_2": "NI-MN",
+        "lon": -86.28051757100701,
+        "lat": 12.13591615,
+        "state_code": "MN",
+        "formatted": "Parque Las Madres, Bologna, Managua, Nicaragua",
+        "address_line1": "Parque Las Madres",
+        "address_line2": "Bologna, Managua, Nicaragua",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque Las Madres",
+            "osm_id": 240323434,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "Managua"
+          }
+        },
+        "place_id": "516c5bf8fff39155c059e8ff32cd96452840f00102f9016a0b530e00000000920311506172717565204c6173204d6164726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.28051757100701,
+          12.135916149592916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DIetmar Schönherr - Mosaico",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Sector El Parque",
+        "street": "Plazuela de los Leones",
+        "iso3166_2": "NI-GR",
+        "lon": -85.95325465603449,
+        "lat": 11.93120165,
+        "state_code": "GR",
+        "formatted": "DIetmar Schönherr - Mosaico, Plazuela de los Leones, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "DIetmar Schönherr - Mosaico",
+        "address_line2": "Plazuela de los Leones, Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "DIetmar Schönherr - Mosaico",
+            "osm_id": 266237084,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51611bd11f027d55c059f2cd6d76c6dc2740f00102f9019c74de0f0000000092031c444965746d617220536368c3b66e68657272202d204d6f736169636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95325465603447,
+          11.931201649574152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza de Xalteva",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Calle Consulado",
+        "iso3166_2": "NI-GR",
+        "lon": -85.96019777697862,
+        "lat": 11.928350049999999,
+        "state_code": "GR",
+        "formatted": "Plaza de Xalteva, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "Plaza de Xalteva",
+        "address_line2": "Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza de Xalteva",
+            "osm_id": 290549749,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51297460e1737d55c059da519cb250db2740f00102f901f56f511100000000920310506c617a612064652058616c74657661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9601977769786,
+          11.928350049573897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petroglifos",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Rivas",
+        "city": "Altagracia",
+        "village": "La Sabana",
+        "postcode": "48800",
+        "street": "Avenida Central",
+        "iso3166_2": "NI-RI",
+        "lon": -85.5780884,
+        "lat": 11.56615115,
+        "state_code": "RI",
+        "formatted": "Petroglifos, Avenida Central, Altagracia, Nicaragua",
+        "address_line1": "Petroglifos",
+        "address_line2": "Avenida Central, Altagracia, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Petroglifos",
+            "osm_id": 382961686,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "519a0c7d66ff6455c0598fc13f90de212740f00102f9011688d3160000000092030b506574726f676c69666f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57808839999998,
+          11.566151149542547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miguel Larreynaga",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "Distrito IV",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "11095",
+        "suburb": "Santa Rosa",
+        "street": "Rotonda La Virgen",
+        "iso3166_2": "NI-MN",
+        "lon": -86.22472416766234,
+        "lat": 12.1430155,
+        "state_code": "MN",
+        "formatted": "Miguel Larreynaga, Rotonda La Virgen, Santa Rosa, Managua, Nicaragua",
+        "address_line1": "Miguel Larreynaga",
+        "address_line2": "Rotonda La Virgen, Santa Rosa, Managua, Nicaragua",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Miguel Larreynaga",
+            "height": 10,
+            "osm_id": 392824667,
+            "tourism": "artwork",
+            "historic": "memorial",
+            "man_made": "obelisk",
+            "memorial": "statue",
+            "osm_type": "w",
+            "inscription": "Miguel Larreynaga",
+            "artwork_type": "statue"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue",
+          "inscription": "Miguel Larreynaga",
+          "artwork_type": "statue",
+          "object_type": "obelisk"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51c1ae79e1618e55c059ac26db5339492840f00102f9015b076a17000000009203114d696775656c204c61727265796e616761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.22472416766233,
+          12.14301549959358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malecón de Poneloya",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "León",
+        "village": "Poneloya",
+        "postcode": "21000",
+        "street": "Carretera León - Poneloya",
+        "iso3166_2": "NI-LE",
+        "lon": -87.03736751023206,
+        "lat": 12.37298,
+        "state_code": "LE",
+        "formatted": "Malecón de Poneloya, Carretera León - Poneloya, León, Nicaragua",
+        "address_line1": "Malecón de Poneloya",
+        "address_line2": "Carretera León - Poneloya, León, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Malecón de Poneloya",
+            "osm_id": 462890633,
+            "tourism": "viewpoint",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "514c98b23a64c255c05946d2083cf7be2840f00102f9018926971b000000009203144d616c6563c3b36e20646520506f6e656c6f7961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03736751023206,
+          12.372979999615506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Portillo",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Estelí",
+        "city": "San Nicolás",
+        "postcode": "32400",
+        "street": "NN-45",
+        "iso3166_2": "NI-ES",
+        "lon": -86.3400263658919,
+        "lat": 12.93889555,
+        "state_code": "ES",
+        "formatted": "El Portillo, NN-45, San Nicolás, Nicaragua",
+        "address_line1": "El Portillo",
+        "address_line2": "NN-45, San Nicolás, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Portillo",
+            "osm_id": 531145423,
+            "tourism": "viewpoint",
+            "osm_type": "w",
+            "description": "Vista a la Cordillera de los Maribios: Momotombito, Momotombo, Cerro Negro, Telica, San Cristóbal"
+          }
+        },
+        "description": "Vista a la Cordillera de los Maribios: Momotombito, Momotombo, Cerro Negro, Telica, San Cristóbal",
+        "place_id": "512452f2fdc29555c059be68e0eab6e02940f00102f901cfa2a81f0000000092030b456c20506f7274696c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3400263658919,
+          12.93889554967279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Árboles de la Vida",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "11001",
+        "district": "Centro Histórico Cultural",
+        "street": "Paseo Xolotlán",
+        "iso3166_2": "NI-MN",
+        "lon": -86.27337551394703,
+        "lat": 12.16067435,
+        "state_code": "MN",
+        "formatted": "Árboles de la Vida, Paseo Xolotlán, Centro Histórico Cultural, Managua, Nicaragua",
+        "address_line1": "Árboles de la Vida",
+        "address_line2": "Paseo Xolotlán, Centro Histórico Cultural, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Árboles de la Vida",
+            "osm_id": 705012088,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "installation",
+            "description:en": "Iron colorful and nightly illuminated tree sculptures"
+          }
+        },
+        "description_international": {
+          "en": "Iron colorful and nightly illuminated tree sculptures"
+        },
+        "artwork": {
+          "artwork_type": "installation"
+        },
+        "place_id": "517ffb02fc7e9155c0599aa289e843522840f00102f90178a1052a00000000920313c38172626f6c6573206465206c612056696461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.27337551394702,
+          12.16067434959523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muelle de Granada",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Carlos M. Marenco",
+        "street": "Antigua Vía del Ferrocarril",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9411043,
+        "lat": 11.9306531,
+        "state_code": "GR",
+        "formatted": "Muelle de Granada, Antigua Vía del Ferrocarril, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "Muelle de Granada",
+        "address_line2": "Antigua Vía del Ferrocarril, Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Muelle de Granada",
+            "osm_id": 784210457,
+            "amenity": "ferry_terminal",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5100a8870d3b7c55c059022f25907edc2740f00103f901191abe2e000000009203114d75656c6c65206465204772616e616461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9411043,
+          11.930653099574105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Piedra Bocona",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Centro Histórico",
+        "neighbourhood": "Sector El Parque",
+        "street": "Calle La Libertad",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9568204,
+        "lat": 11.9306811,
+        "state_code": "GR",
+        "formatted": "La Piedra Bocona, Calle La Libertad, Centro Histórico, Granada, Nicaragua",
+        "address_line1": "La Piedra Bocona",
+        "address_line2": "Calle La Libertad, Centro Histórico, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Piedra Bocona",
+            "osm_id": 784694800,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515189a18b3c7d55c0592e5aab3b82dc2740f00103f901107ec52e000000009203104c612050696564726120426f636f6e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95682039999998,
+          11.930681099574112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Vicky",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "14027",
+        "district": "Altamira Este",
+        "suburb": "Altamira Este",
+        "street": "Avenida Birsa",
+        "iso3166_2": "NI-MN",
+        "lon": -86.2551535,
+        "lat": 12.1194289,
+        "state_code": "MN",
+        "formatted": "La Vicky, Avenida Birsa, Altamira Este, Managua, Nicaragua",
+        "address_line1": "La Vicky",
+        "address_line2": "Avenida Birsa, Altamira Este, Managua, Nicaragua",
+        "categories": [
+          "catering",
+          "catering.bar",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Vicky",
+            "osm_id": 887677031,
+            "amenity": "bar",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51707d586f549055c0596ee2e3c8253d2840f00103f90167e0e834000000009203084c61205669636b79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2551535,
+          12.11942889959138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arte del Casa tres Mundos",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Sector El Parque",
+        "street": "Calle El Arsenal",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9527616,
+        "lat": 11.9315426,
+        "state_code": "GR",
+        "formatted": "Arte del Casa tres Mundos, Calle El Arsenal, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "Arte del Casa tres Mundos",
+        "address_line2": "Calle El Arsenal, Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "commercial",
+          "commercial.art",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arte del Casa tres Mundos",
+            "shop": "art",
+            "osm_id": 1122104777,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "art"
+        },
+        "place_id": "519d38ca0bfa7c55c0590001d026f3dc2740f00103f901c9f5e14200000000920319417274652064656c20436173612074726573204d756e646f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95276159999999,
+          11.931542599574186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pie de Gigante",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Rivas",
+        "city": "Tola",
+        "village": "El Gigante",
+        "postcode": "48500",
+        "street": "Camino de la Boba",
+        "iso3166_2": "NI-RI",
+        "lon": -86.0357268,
+        "lat": 11.3840652,
+        "state_code": "RI",
+        "formatted": "Pie de Gigante, Camino de la Boba, Tola, Nicaragua",
+        "address_line1": "Pie de Gigante",
+        "address_line2": "Camino de la Boba, Tola, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pie de Gigante",
+            "osm_id": 1675904169,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ce650f59498255c059ac019f31a4c42640f00103f901a944e4630000000092030e50696520646520476967616e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.03572679999999,
+          11.384065199527718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El túnel",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "suburb": "Santa Ana",
+        "street": "Al Mombacho",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9796698,
+        "lat": 11.8350942,
+        "state_code": "GR",
+        "formatted": "El túnel, Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "address_line1": "El túnel",
+        "address_line2": "Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El túnel",
+            "osm_id": 1838329504,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513ef8f5e8b27e55c059566d887791ab2740f00103f901a0ae926d00000000920309456c2074c3ba6e656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97966979999998,
+          11.8350941995656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fumarolas",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "suburb": "Santa Ana",
+        "street": "Al Mombacho",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9750326,
+        "lat": 11.8366433,
+        "state_code": "GR",
+        "formatted": "Fumarolas, Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "address_line1": "Fumarolas",
+        "address_line2": "Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fumarolas",
+            "osm_id": 1838329506,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512b6222ef667e55c059cd1ab4825cac2740f00103f901a2ae926d0000000092030946756d61726f6c6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9750326,
+          11.836643299565731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fumarolas",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "suburb": "Santa Ana",
+        "street": "Al Mombacho",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9749981,
+        "lat": 11.8366943,
+        "state_code": "GR",
+        "formatted": "Fumarolas, Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "address_line1": "Fumarolas",
+        "address_line2": "Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fumarolas",
+            "osm_id": 1838329507,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515f4a6e5e667e55c059dbc4fa3163ac2740f00103f901a3ae926d0000000092030946756d61726f6c6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97499809999998,
+          11.83669429956574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La vieja del cráter",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "suburb": "Santa Ana",
+        "street": "Al Mombacho",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9795274,
+        "lat": 11.8352997,
+        "state_code": "GR",
+        "formatted": "La vieja del cráter, Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "address_line1": "La vieja del cráter",
+        "address_line2": "Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La vieja del cráter",
+            "osm_id": 1838329508,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514b22b193b07e55c05961fcf766acab2740f00103f901a4ae926d000000009203144c61207669656a612064656c206372c3a1746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97952739999998,
+          11.835299699565612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fortaleza San Pablo",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "village": "El Diamante",
+        "postcode": "43000",
+        "street": "Desvío al Astillero El Diamante",
+        "iso3166_2": "NI-GR",
+        "lon": -85.918803,
+        "lat": 11.9211138,
+        "state_code": "GR",
+        "formatted": "Fortaleza San Pablo, Desvío al Astillero El Diamante, Granada, Nicaragua",
+        "address_line1": "Fortaleza San Pablo",
+        "address_line2": "Desvío al Astillero El Diamante, Granada, Nicaragua",
+        "categories": [
+          "access",
+          "access.yes",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fortaleza San Pablo",
+            "access": "yes",
+            "osm_id": 1838334851,
+            "tourism": "attraction",
+            "historic": "fortification",
+            "osm_type": "n",
+            "castle_type": "fortress"
+          }
+        },
+        "historic": {
+          "type": "fortification",
+          "castle_type": "fortress"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "51dd1d19abcd7a55c059711f5a3a9cd72740f00103f90183c3926d00000000920313466f7274616c657a612053616e205061626c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.91880299999998,
+          11.92111379957325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguas Agrias",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Nandaime",
+        "postcode": "44300",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9714376,
+        "lat": 11.7726698,
+        "state_code": "GR",
+        "formatted": "Aguas Agrias, Nandaime, Nicaragua",
+        "address_line1": "Aguas Agrias",
+        "address_line2": "Nandaime, Nicaragua",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": 5,
+            "name": "Aguas Agrias",
+            "osm_id": 1849290829,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b3869c082c7e55c059726f3f609b8b2740f00103f9014df0396e0000000092030c416775617320416772696173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97143759999999,
+          11.772669799560138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volcan Masaya Crater",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Nindirí",
+        "postcode": "42200",
+        "street": "NN-109",
+        "iso3166_2": "NI-MS",
+        "lon": -86.166513,
+        "lat": 11.9865501,
+        "state_code": "MS",
+        "formatted": "Volcan Masaya Crater, NN-109, Nindirí, Nicaragua",
+        "address_line1": "Volcan Masaya Crater",
+        "address_line2": "NN-109, Nindirí, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Volcan Masaya Crater",
+            "osm_id": 1867508330,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f7562426a88a55c059b01d3b181df92740f00103f9016aea4f6f00000000920314566f6c63616e204d617361796120437261746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.166513,
+          11.986550099579148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "suburb": "Santa Ana",
+        "street": "Al Mombacho",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9754715,
+        "lat": 11.8366699,
+        "state_code": "GR",
+        "formatted": "Mirador, Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "address_line1": "Mirador",
+        "address_line2": "Al Mombacho, Santa Ana, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 1995471769,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5185ab03206e7e55c059665d40ff5fac2740f00103f901997bf076000000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97547149999998,
+          11.836669899565731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vista de cañón",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Managua",
+        "city": "El Crucero",
+        "postcode": "16100",
+        "street": "Pan-American Highway",
+        "iso3166_2": "NI-MN",
+        "lon": -86.3054531,
+        "lat": 11.9645885,
+        "state_code": "MN",
+        "formatted": "Vista de cañón, Pan-American Highway, El Crucero, Nicaragua",
+        "address_line1": "Vista de cañón",
+        "address_line2": "Pan-American Highway, El Crucero, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vista de cañón",
+            "osm_id": 2034771221,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518ebd288b8c9355c0592f90378bdeed2740f00103f90115254879000000009203105669737461206465206361c3b1c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3054531,
+          11.96458849957716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Mirador",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "Distrito V",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "16300",
+        "street": "La Miona",
+        "iso3166_2": "NI-MN",
+        "lon": -86.248843,
+        "lat": 12.0276758,
+        "state_code": "MN",
+        "formatted": "El Mirador, La Miona, Managua, Nicaragua",
+        "address_line1": "El Mirador",
+        "address_line2": "La Miona, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Mirador",
+            "osm_id": 2043144566,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51aab5300bed8f55c059ce32bc852b0e2840f00103f90176e9c7790000000092030a456c204d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.248843,
+          12.027675799582905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chelimates",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "Distrito V",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "14321",
+        "district": "Balcones de Santo Domingo",
+        "street": "Calle el Madroño",
+        "iso3166_2": "NI-MN",
+        "lon": -86.2550585,
+        "lat": 12.0588584,
+        "state_code": "MN",
+        "formatted": "Chelimates, Calle el Madroño, Balcones de Santo Domingo, Managua, Nicaragua",
+        "address_line1": "Chelimates",
+        "address_line2": "Calle el Madroño, Balcones de Santo Domingo, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chelimates",
+            "osm_id": 2043219467,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514604e3e0529055c059aea12ab0221e2840f00103f9010b0ec9790000000092030a4368656c696d61746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25505849999999,
+          12.05885839958577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Ventarron",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "La Concepción",
+        "village": "Panamá",
+        "postcode": "42300",
+        "street": "Las Maderas - Panamá",
+        "iso3166_2": "NI-MS",
+        "lon": -86.1856966,
+        "lat": 11.9775009,
+        "state_code": "MS",
+        "formatted": "El Ventarron, Las Maderas - Panamá, La Concepción, Nicaragua",
+        "address_line1": "El Ventarron",
+        "address_line2": "Las Maderas - Panamá, La Concepción, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Ventarron",
+            "osm_id": 2043280577,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519dfefd73e28b55c059c2ff76ff7af42740f00103f901c1fcc9790000000092030c456c2056656e746172726f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18569659999999,
+          11.977500899578335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arte Primitivista",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "14189",
+        "district": "Anexo Cruz Del Paraíso",
+        "suburb": "Anexo Cruz Del Paraíso",
+        "street": "23 Pje. S.E.",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2512065,
+        "lat": 12.1001152,
+        "state_code": "MN",
+        "formatted": "Arte Primitivista, 23 Pje. S.E., Anexo Cruz Del Paraíso, Managua, Nicaragua",
+        "address_line1": "Arte Primitivista",
+        "address_line2": "23 Pje. S.E., Anexo Cruz Del Paraíso, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arte Primitivista",
+            "osm_id": 2161385929,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ba826dc4139055c059ba23a84c42332840f00103f901c921d4800000000092031141727465205072696d6974697669737461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2512065,
+          12.100115199589585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador El Calvario",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Matagalpa",
+        "city": "Matagalpa",
+        "postcode": "61000",
+        "street": "Carretera Matagalpa - Sébaco",
+        "iso3166_2": "NI-MT",
+        "lon": -85.9254509,
+        "lat": 12.930054,
+        "state_code": "MT",
+        "formatted": "Mirador El Calvario, Carretera Matagalpa - Sébaco, Matagalpa, Nicaragua",
+        "address_line1": "Mirador El Calvario",
+        "address_line2": "Carretera Matagalpa - Sébaco, Matagalpa, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador El Calvario",
+            "osm_id": 2206258653,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51716369963a7b55c0599435b00930dc2940f00103f901ddd58083000000009203134d697261646f7220456c2043616c766172696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9254509,
+          12.930053999671863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Alexis Argüello",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "14006",
+        "district": "Sector Central Los Robles",
+        "street": "Pista Miguel Obando",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2638281,
+        "lat": 12.1231063,
+        "state_code": "MN",
+        "formatted": "Monumento Alexis Argüello, Pista Miguel Obando, Sector Central Los Robles, Managua, Nicaragua",
+        "address_line1": "Monumento Alexis Argüello",
+        "address_line2": "Pista Miguel Obando, Sector Central Los Robles, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Alexis Argüello",
+            "osm_id": 2453319385,
+            "tourism": "artwork",
+            "historic": "memorial",
+            "memorial": "statue",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "510351418fe29055c059215bf5c9073f2840f00103f901d9ae3a920000000092031a4d6f6e756d656e746f20416c6578697320417267c3bc656c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2638281,
+          12.123106299591713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "70 Aniversario Naciones Unidas",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "11037",
+        "district": "Enrique Bermúdez 380",
+        "street": "Paseo Naciones Unidas",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2826288,
+        "lat": 12.1263121,
+        "state_code": "MN",
+        "formatted": "70 Aniversario Naciones Unidas, Paseo Naciones Unidas, Enrique Bermúdez 380, Managua, Nicaragua",
+        "address_line1": "70 Aniversario Naciones Unidas",
+        "address_line2": "Paseo Naciones Unidas, Enrique Bermúdez 380, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "70 Aniversario Naciones Unidas",
+            "osm_id": 2666398401,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51183a1b97169255c05971acc1faab402840f00103f901c102ee9e0000000092031e373020416e69766572736172696f204e6163696f6e657320556e69646173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2826288,
+          12.126312099592015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Diria",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Diriá",
+        "postcode": "44200",
+        "street": "Calle Laguna de Apoyo",
+        "iso3166_2": "NI-GR",
+        "lon": -86.0482952,
+        "lat": 11.8944893,
+        "state_code": "GR",
+        "formatted": "Mirador de Diria, Calle Laguna de Apoyo, Diriá, Nicaragua",
+        "address_line1": "Mirador de Diria",
+        "address_line2": "Calle Laguna de Apoyo, Diriá, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Diria",
+            "osm_id": 2667909505,
+            "tourism": "viewpoint",
+            "alt_name": "El Bouquete",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "El Bouquete"
+        },
+        "place_id": "517023c044178355c059be8e6080fac92740f00103f9018111059f000000009203104d697261646f72206465204469726961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04829519999998,
+          11.89448929957086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mombacho Canopy Adventures",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "street": "Al Mombacho",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9927397,
+        "lat": 11.8391004,
+        "state_code": "GR",
+        "formatted": "Mombacho Canopy Adventures, Al Mombacho, Granada, Nicaragua",
+        "address_line1": "Mombacho Canopy Adventures",
+        "address_line2": "Al Mombacho, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mombacho Canopy Adventures",
+            "sport": "zip_line",
+            "osm_id": 2667909506,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51373c180c897f55c05981644c919ead2740f00103f9018211059f0000000092031a4d6f6d626163686f2043616e6f707920416476656e7475726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9927397,
+          11.839100399565952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "11000",
+        "district": "Sector Central 1 Lago Xolotlán",
+        "street": "Paseo Xolotlán",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2720115,
+        "lat": 12.1597641,
+        "state_code": "MN",
+        "formatted": "Paseo Xolotlán, Sector Central 1 Lago Xolotlán, Managua, Nicaragua",
+        "address_line1": "Paseo Xolotlán",
+        "address_line2": "Sector Central 1 Lago Xolotlán, Managua, Nicaragua",
+        "name": "Paseo Xolotlán",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paseo Xolotlán",
+            "osm_id": 2686077232,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b228eca2689155c0590bac9d99cc512840f00103f90130491aa00000000092030f506173656f20586f6c6f746cc3a16e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.27201149999999,
+          12.159764099595142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua Cristo Rey",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "14012",
+        "district": "Barrio La Luz",
+        "street": "Rotonda Santo Domingo",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2575705,
+        "lat": 12.1325952,
+        "state_code": "MN",
+        "formatted": "Christ the King statue, Rotonda Santo Domingo, Barrio La Luz, Managua, Nicaragua",
+        "address_line1": "Christ the King statue",
+        "address_line2": "Rotonda Santo Domingo, Barrio La Luz, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estatua Cristo Rey",
+            "osm_id": 2905086061,
+            "name:en": "Christ the King statue",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "alt_name:en": "Christ Statue",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "Christ the King statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51847afa087c9055c059b4b69b84e3432840f00103f9016d1828ad00000000920312457374617475612043726973746f20526579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.25757049999999,
+          12.132595199592608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua de Cruz Camino de Tierra Cruce",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "La Concepción",
+        "village": "Panamá",
+        "postcode": "42300",
+        "street": "Las Maderas - Panamá",
+        "iso3166_2": "NI-MS",
+        "lon": -86.1970922,
+        "lat": 11.9626344,
+        "state_code": "MS",
+        "formatted": "Estatua de Cruz Camino de Tierra Cruce, Las Maderas - Panamá, La Concepción, Nicaragua",
+        "address_line1": "Estatua de Cruz Camino de Tierra Cruce",
+        "address_line2": "Las Maderas - Panamá, La Concepción, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estatua de Cruz Camino de Tierra Cruce",
+            "osm_id": 3107754965,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue",
+            "reference_point": "yes"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51fc529a289d8c55c0592560806adeec2740f00103f901d5933cb90000000092032645737461747561206465204372757a2043616d696e6f20646520546965727261204372756365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.19709219999999,
+          11.962634399576993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lava",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "Telica",
+        "postcode": "22400",
+        "street": "Way to bat cave",
+        "iso3166_2": "NI-LE",
+        "lon": -86.8391579,
+        "lat": 12.6069929,
+        "state_code": "LE",
+        "formatted": "Lava, Way to bat cave, Telica, Nicaragua",
+        "address_line1": "Lava",
+        "address_line2": "Way to bat cave, Telica, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lava",
+            "osm_id": 3271341255,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51862b56c3b4b555c05955b4f9c5c7362940f00103f901c7b4fcc2000000009203044c617661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8391579,
+          12.60699289963865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "Telica",
+        "postcode": "22400",
+        "street": "Way to bat cave",
+        "iso3166_2": "NI-LE",
+        "lon": -86.8394035,
+        "lat": 12.601144,
+        "state_code": "LE",
+        "formatted": "Mirador, Way to bat cave, Telica, Nicaragua",
+        "address_line1": "Mirador",
+        "address_line2": "Way to bat cave, Telica, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 3271341256,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51772975c9b8b555c0599f437525c9332940f00103f901c8b4fcc2000000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83940349999999,
+          12.601143999638053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinkhole",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "La Paz Centro",
+        "postcode": "22100",
+        "street": "Cerro Negro a El Hoyo",
+        "iso3166_2": "NI-LE",
+        "lon": -86.6674719,
+        "lat": 12.4863931,
+        "state_code": "LE",
+        "formatted": "Sinkhole, Cerro Negro a El Hoyo, La Paz Centro, Nicaragua",
+        "address_line1": "Sinkhole",
+        "address_line2": "Cerro Negro a El Hoyo, La Paz Centro, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sinkhole",
+            "osm_id": 3927939336,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ee5f0fdcb7aa55c059f8ca2f8408f92840f00103f90108991fea0000000092030853696e6b686f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66747189999998,
+          12.486393099626625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sor María Romero",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Centro Histórico",
+        "neighbourhood": "Calle Estrada",
+        "street": "Calle La Hoyada",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9586796,
+        "lat": 11.9276935,
+        "state_code": "GR",
+        "formatted": "Sor María Romero, Calle La Hoyada, Centro Histórico, Granada, Nicaragua",
+        "address_line1": "Sor María Romero",
+        "address_line2": "Calle La Hoyada, Centro Histórico, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sor María Romero",
+            "osm_id": 4097929102,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "mapillary": 3972123496236510
+          }
+        },
+        "place_id": "51e955ae015b7d55c0594cc372a4fada2740f00103f9018e6f41f400000000920311536f72204d6172c3ad6120526f6d65726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9586796,
+          11.927693499573842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quinta libertad",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "Telica",
+        "village": "San José de Telica",
+        "postcode": "22400",
+        "street": "Carretera Telica - San Isidro",
+        "iso3166_2": "NI-LE",
+        "lon": -86.8643204,
+        "lat": 12.528493,
+        "state_code": "LE",
+        "formatted": "Quinta libertad, Carretera Telica - San Isidro, Telica, Nicaragua",
+        "address_line1": "Quinta libertad",
+        "address_line2": "Carretera Telica - San Isidro, Telica, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Quinta libertad",
+            "osm_id": 4108786200,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "NIC-26"
+          }
+        },
+        "place_id": "5100d1820651b755c0598c286ba2960e2940f00103f901181ae7f40000000092030f5175696e7461206c69626572746164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8643204,
+          12.528492999630792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Ángel Valentino Barrios",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "Distrito V",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "14151",
+        "district": "Reparto Sócrates Sandino",
+        "suburb": "Reparto Schick",
+        "street": "Calle Bariloche",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2303813,
+        "lat": 12.1099146,
+        "state_code": "MN",
+        "formatted": "Parque Ángel Valentino Barrios, Calle Bariloche, Reparto Schick, Managua, Nicaragua",
+        "address_line1": "Parque Ángel Valentino Barrios",
+        "address_line2": "Calle Bariloche, Reparto Schick, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque Ángel Valentino Barrios",
+            "osm_id": 4167173090,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510a473591be8e55c0593130f5b946382840f00103f901e20362f80000000092031f50617271756520c3816e67656c2056616c656e74696e6f2042617272696f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2303813,
+          12.109914599590498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "12092",
+        "district": "Barrio 380",
+        "street": "Rotonda El Periodista",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2831875,
+        "lat": 12.1254507,
+        "state_code": "MN",
+        "formatted": "Rotonda El Periodista, Barrio 380, Managua, Nicaragua",
+        "address_line1": "Rotonda El Periodista",
+        "address_line2": "Barrio 380, Managua, Nicaragua",
+        "name": "Rotonda El Periodista",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rotonda El Periodista",
+            "osm_id": 4197737794,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51b4c876be1f9255c059f203f8123b402840f00103f901426534fa00000000920315526f746f6e646120456c20506572696f6469737461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2831875,
+          12.12545069959194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Faro lighthouse",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Managua",
+        "city": "San Rafael del Sur",
+        "village": "Masachapa",
+        "postcode": "16700",
+        "street": "NN-283",
+        "iso3166_2": "NI-MN",
+        "lon": -86.516503,
+        "lat": 11.7878344,
+        "state_code": "MN",
+        "formatted": "El Faro lighthouse, NN-283, San Rafael del Sur, Nicaragua",
+        "address_line1": "El Faro lighthouse",
+        "address_line2": "NN-283, San Rafael del Sur, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Faro lighthouse",
+            "osm_id": 4213109045,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514c5299620ea155c0597f8fc9075f932740f00103f90135f11efb00000000920312456c204661726f206c69676874686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.516503,
+          11.78783439956146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nous group Office",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "14244",
+        "district": "Sector Sur Cruz Del Paraíso",
+        "street": "Camino Viejo a Santo Domingo",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2453199,
+        "lat": 12.0971928,
+        "state_code": "MN",
+        "formatted": "Nous group Office, Camino Viejo a Santo Domingo, Sector Sur Cruz Del Paraíso, Managua, Nicaragua",
+        "address_line1": "Nous group Office",
+        "address_line2": "Camino Viejo a Santo Domingo, Sector Sur Cruz Del Paraíso, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nous group Office",
+            "osm_id": 4227282592,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b5e33c52b38f55c0591a492f41c3312840f00103f901a036f7fb000000009203114e6f75732067726f7570204f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24531989999998,
+          12.097192799589312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entrance surface vulcano",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "Telica",
+        "village": "El Ojochal",
+        "postcode": "22400",
+        "street": "Carretera Telica - San Isidro",
+        "iso3166_2": "NI-LE",
+        "lon": -86.7810591,
+        "lat": 12.5755977,
+        "state_code": "LE",
+        "formatted": "Entrance surface vulcano, Carretera Telica - San Isidro, Telica, Nicaragua",
+        "address_line1": "Entrance surface vulcano",
+        "address_line2": "Carretera Telica - San Isidro, Telica, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Entrance surface vulcano",
+            "osm_id": 4266229992,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518faf4edffcb155c059b02cdfbdb4262940f00103f901e88049fe00000000920318456e7472616e636520737572666163652076756c63616e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78105909999998,
+          12.575597699635495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro de la Paz",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Matagalpa",
+        "city": "Matagalpa",
+        "hamlet": "La Providencia",
+        "postcode": "61000",
+        "street": "Sendreo El Roble",
+        "iso3166_2": "NI-MT",
+        "lon": -85.9086341,
+        "lat": 12.9103504,
+        "state_code": "MT",
+        "formatted": "Cerro de la Paz, Sendreo El Roble, Matagalpa, Nicaragua",
+        "address_line1": "Cerro de la Paz",
+        "address_line2": "Sendreo El Roble, Matagalpa, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro de la Paz",
+            "osm_id": 4283398790,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f1e1a30f277a55c059f0f6947219d22940f00103f901867a4fff0000000092030f436572726f206465206c612050617a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90863409999999,
+          12.910350399669795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mombacho Cigar Factory",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Calle Almendro",
+        "street": "Calle Atravesada",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9553998,
+        "lat": 11.9352741,
+        "state_code": "GR",
+        "formatted": "Mombacho Cigar Factory, Calle Atravesada, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "Mombacho Cigar Factory",
+        "address_line2": "Calle Atravesada, Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mombacho Cigar Factory",
+            "osm_id": 4299182595,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Calle Atravesada"
+          }
+        },
+        "place_id": "51b6e63345257d55c059d7ef2c3fdcde2740f00103f90103524000010000009203164d6f6d626163686f20436967617220466163746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.95539979999998,
+          11.935274099574526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fotin de acosasco",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "León",
+        "postcode": "21000",
+        "district": "Barrio Ronald Sandino Zamora",
+        "street": "16ta Avenida Sur Oeste",
+        "iso3166_2": "NI-LE",
+        "lon": -86.8938859,
+        "lat": 12.4003859,
+        "state_code": "LE",
+        "formatted": "fotin de acosasco, 16ta Avenida Sur Oeste, Barrio Ronald Sandino Zamora, León, Nicaragua",
+        "address_line1": "fotin de acosasco",
+        "address_line2": "16ta Avenida Sur Oeste, Barrio Ronald Sandino Zamora, León, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "fotin de acosasco",
+            "osm_id": 4363443110,
+            "name:es": "fotin de acosasco",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "fotin de acosasco"
+        },
+        "place_id": "51c0b6346d35b955c05972477161ffcc2840f00103f901a6db140401000000920311666f74696e2064652061636f736173636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.89388589999999,
+          12.400385899618161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de las esculturas de Jalacate",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Estelí",
+        "city": "Esteli",
+        "hamlet": "Almaciguera",
+        "postcode": "31000",
+        "street": "NN-35A",
+        "iso3166_2": "NI-ES",
+        "lon": -86.357334,
+        "lat": 12.984517,
+        "state_code": "ES",
+        "formatted": "Viewpoint at the sculptures of Jalacate, NN-35A, Esteli, Nicaragua",
+        "address_line1": "Viewpoint at the sculptures of Jalacate",
+        "address_line2": "NN-35A, Esteli, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de las esculturas de Jalacate",
+            "osm_id": 4444969790,
+            "name:en": "Viewpoint at the sculptures of Jalacate",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Viewpoint at the sculptures of Jalacate"
+        },
+        "place_id": "51edef6c8fde9655c0594bf1b79c12f82940f00103f9013edbf008010000009203254d697261646f72206465206c617320657363756c7475726173206465204a616c6163617465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.357334,
+          12.984516999677586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finca Galesa",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Carazo",
+        "city": "Dolores",
+        "postcode": "46100",
+        "street": "Antigua Vía del Ferrocarril",
+        "iso3166_2": "NI-CA",
+        "lon": -86.2264148,
+        "lat": 11.8650277,
+        "state_code": "CA",
+        "formatted": "Finca Galesa, Antigua Vía del Ferrocarril, Dolores, Nicaragua",
+        "address_line1": "Finca Galesa",
+        "address_line2": "Antigua Vía del Ferrocarril, Dolores, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Finca Galesa",
+            "osm_id": 4507434090,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51255580947d8e55c0593a8f1fe9e4ba2740f00103f9016afca90c0100000092030c46696e63612047616c657361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2264148,
+          11.865027699568248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zepeda Guitarras",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Masaya",
+        "postcode": "41000",
+        "district": "Villa San Jerónimo",
+        "suburb": "La Reforma 1",
+        "street": "Calle Carlos Vega Bolaños",
+        "iso3166_2": "NI-MS",
+        "lon": -86.0845598,
+        "lat": 11.9788547,
+        "state_code": "MS",
+        "formatted": "Zepeda Guitars, Calle Carlos Vega Bolaños, La Reforma 1, Masaya, Nicaragua",
+        "address_line1": "Zepeda Guitars",
+        "address_line2": "Calle Carlos Vega Bolaños, La Reforma 1, Masaya, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zepeda Guitarras",
+            "osm_id": 4507439989,
+            "name:en": "Zepeda Guitars",
+            "name:es": "Zepeda Guitarras",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Zepeda Guitars",
+          "es": "Zepeda Guitarras"
+        },
+        "place_id": "5199e3816d698555c059687374712cf52740f00103f9017513aa0c010000009203105a657065646120477569746172726173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08455979999998,
+          11.978854699578463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado de Artesanías",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Masaya",
+        "postcode": "41000",
+        "suburb": "San Juan",
+        "quarter": "Barrio San Miguel",
+        "street": "Avenida El Progreso",
+        "iso3166_2": "NI-MS",
+        "lon": -86.0937659,
+        "lat": 11.9739661,
+        "state_code": "MS",
+        "formatted": "Old Market (Souvenir), Avenida El Progreso, San Juan, Masaya, Nicaragua",
+        "address_line1": "Old Market (Souvenir)",
+        "address_line2": "Avenida El Progreso, San Juan, Masaya, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mercado de Artesanías",
+            "osm_id": 4511104490,
+            "name:en": "Old Market (Souvenir)",
+            "name:es": "Mercado de Artesanías",
+            "tourism": "attraction",
+            "alt_name": "Mercado Viejo",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "Mercado Viejo"
+        },
+        "name_international": {
+          "en": "Old Market (Souvenir)",
+          "es": "Mercado de Artesanías"
+        },
+        "place_id": "51b77eb042008655c059553342afabf22740f00103f901eafde10c010000009203164d65726361646f206465204172746573616ec3ad6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.09376589999998,
+          11.973966099578016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exposición Pecuaria del Istmo Centroamericano",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "Distrito II",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "12019",
+        "district": "Area Comunal Rafael Rios",
+        "suburb": "Linda Vista Norte",
+        "street": "Calle Rafael Ángel Ríos",
+        "housenumber": "22641794",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.3045492,
+        "lat": 12.1598832,
+        "state_code": "MN",
+        "formatted": "Cattle Exhibition of the Central American Isthmus, Calle Rafael Ángel Ríos 22641794, Linda Vista Norte, Managua, Nicaragua",
+        "address_line1": "Cattle Exhibition of the Central American Isthmus",
+        "address_line2": "Calle Rafael Ángel Ríos 22641794, Linda Vista Norte, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Exposición Pecuaria del Istmo Centroamericano",
+            "osm_id": 4581995200,
+            "name:en": "Cattle Exhibition of the Central American Isthmus",
+            "name:es": "Exposición Pecuaria del Istmo Centroamericano",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "short_name": "EXPICA",
+            "addr:street": "Calle Rafael Angel Rio",
+            "addr:housenumber": 22641794
+          }
+        },
+        "name_other": {
+          "short_name": "EXPICA"
+        },
+        "name_international": {
+          "en": "Cattle Exhibition of the Central American Isthmus",
+          "es": "Exposición Pecuaria del Istmo Centroamericano"
+        },
+        "place_id": "517881edbb7d9355c059d4e1f235dc512840f00103f901c0b21b110100000092032e4578706f73696369c3b36e2050656375617269612064656c204973746d6f2043656e74726f616d65726963616e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3045492,
+          12.159883199595164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gigantona",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "León",
+        "postcode": "21000",
+        "district": "Barrio Sagrado",
+        "street": "Calle Rubén Darío",
+        "iso3166_2": "NI-LE",
+        "lon": -86.8788557,
+        "lat": 12.4352359,
+        "state_code": "LE",
+        "formatted": "Gigantona, Calle Rubén Darío, Barrio Sagrado, León, Nicaragua",
+        "address_line1": "Gigantona",
+        "address_line2": "Calle Rubén Darío, Barrio Sagrado, León, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gigantona",
+            "osm_id": 4583516054,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cd59fa2b3fb855c059f7d6653dd7de2840f00103f90196e7321101000000920309476967616e746f6e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.87885569999999,
+          12.435235899621587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinturas en la calle",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "León",
+        "postcode": "21000",
+        "district": "Barrio Sagrado",
+        "street": "Calle Rubén Darío",
+        "iso3166_2": "NI-LE",
+        "lon": -86.8808879,
+        "lat": 12.4350444,
+        "state_code": "LE",
+        "formatted": "Pinturas en la calle, Calle Rubén Darío, Barrio Sagrado, León, Nicaragua",
+        "address_line1": "Pinturas en la calle",
+        "address_line2": "Calle Rubén Darío, Barrio Sagrado, León, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pinturas en la calle",
+            "osm_id": 4584804913,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "514b7ca47760b855c059755db923bede2840f00103f901319246110100000092031450696e747572617320656e206c612063616c6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88088789999999,
+          12.435044399621555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Residencia Oficial Eben-ezer",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "region": "District I",
+        "state": "Managua",
+        "city": "Managua",
+        "postcode": "12087",
+        "district": "Jonathan González",
+        "street": "23a Calle S.O.",
+        "iso3166_2": "NI-MN",
+        "iso3166_2_sublevel": "NI-MN",
+        "lon": -86.2773742,
+        "lat": 12.1314993,
+        "state_code": "MN",
+        "formatted": "Residencia Oficial Eben-ezer, 23a Calle S.O., Jonathan González, Managua, Nicaragua",
+        "address_line1": "Residencia Oficial Eben-ezer",
+        "address_line2": "23a Calle S.O., Jonathan González, Managua, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Residencia Oficial Eben-ezer",
+            "osm_id": 4595247789,
+            "name:es": "Residencia Oficial Eben-ezer",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Residencia Oficial Eben-ezer"
+        },
+        "place_id": "514370b77fc09155c059ba644ee053432840f00103f901adeae5110100000092031c5265736964656e636961204f66696369616c204562656e2d657a6572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.27737419999998,
+          12.131499299592509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venta de ceramica y artesanias",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "La Paz Centro",
+        "postcode": "22100",
+        "district": "Villa San Nicolás",
+        "street": "Carretera Nueva a León",
+        "iso3166_2": "NI-LE",
+        "lon": -86.6706171,
+        "lat": 12.3347971,
+        "state_code": "LE",
+        "formatted": "Venta de ceramica y artesanias, Carretera Nueva a León, Villa San Nicolás, La Paz Centro, Nicaragua",
+        "address_line1": "Venta de ceramica y artesanias",
+        "address_line2": "Carretera Nueva a León, Villa San Nicolás, La Paz Centro, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Venta de ceramica y artesanias",
+            "osm_id": 4716925789,
+            "name:es": "Venta de ceramica y artesanias",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Venta de ceramica y artesanias"
+        },
+        "place_id": "51db28fc63ebaa55c059b54183866aab2840f00103f9015d9326190100000092031e56656e746120646520636572616d6963612079206172746573616e696173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6706171,
+          12.3347970996118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia Nandasmo",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Nandasmo",
+        "postcode": "42400",
+        "street": "Avenida Marcos Alemán",
+        "iso3166_2": "NI-MS",
+        "lon": -86.1202821,
+        "lat": 11.9256325,
+        "state_code": "MS",
+        "formatted": "Iglesia Nandasmo, Avenida Marcos Alemán, Nandasmo, Nicaragua",
+        "address_line1": "Iglesia Nandasmo",
+        "address_line2": "Avenida Marcos Alemán, Nandasmo, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Iglesia Nandasmo",
+            "osm_id": 4718547389,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d372b1b3b28755c0593391c380ecd92740f00103f901bd513f190100000092031049676c65736961204e616e6461736d6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12028209999998,
+          11.925632499573657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Tamanes",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Chontales",
+        "city": "Juigalpa",
+        "postcode": "55000",
+        "iso3166_2": "NI-CO",
+        "lon": -85.3575078,
+        "lat": 12.1055468,
+        "state_code": "CO",
+        "formatted": "Mirador Tamanes, Juigalpa, Nicaragua",
+        "address_line1": "Mirador Tamanes",
+        "address_line2": "Juigalpa, Nicaragua",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Tamanes",
+            "osm_id": 4748935194,
+            "leisure": "park",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5126446568e15655c059b3dfe83a0a362840f00103f9011a000f1b0100000092030f4d697261646f722054616d616e6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.35750779999998,
+          12.105546799590092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Nindiri",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Nindirí",
+        "postcode": "42200",
+        "street": "NIC-74",
+        "iso3166_2": "NI-MS",
+        "lon": -86.1242561,
+        "lat": 11.998034,
+        "state_code": "MS",
+        "formatted": "Mirador de Nindiri, NIC-74, Nindirí, Nicaragua",
+        "address_line1": "Mirador de Nindiri",
+        "address_line2": "NIC-74, Nindirí, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Nindiri",
+            "osm_id": 4758969021,
+            "name:es": "Mirador de Nindiri",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Mirador de Nindiri"
+        },
+        "place_id": "510575dbcff38755c05974fcf84ffefe2740f00103f901bd1aa81b010000009203124d697261646f72206465204e696e64697269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.12425609999998,
+          11.998033999580208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Masaya",
+        "postcode": "41000",
+        "district": "Monimbó",
+        "suburb": "San Juan",
+        "street": "Camino viejo a Niquinohomo",
+        "iso3166_2": "NI-MS",
+        "lon": -86.1002768,
+        "lat": 11.9378918,
+        "state_code": "MS",
+        "formatted": "Mirador, Camino viejo a Niquinohomo, San Juan, Masaya, Nicaragua",
+        "address_line1": "Mirador",
+        "address_line2": "Camino viejo a Niquinohomo, San Juan, Masaya, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 4758969121,
+            "name:es": "Mirador",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Mirador"
+        },
+        "place_id": "510a2362ef6a8655c05968b89c5a33e02740f00103f901211ba81b010000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10027679999999,
+          11.937891799574757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "Catarina",
+        "postcode": "42500",
+        "street": "2a Calle NE",
+        "iso3166_2": "NI-MS",
+        "lon": -86.0652886,
+        "lat": 11.9271202,
+        "state_code": "MS",
+        "formatted": "Mirador, 2a Calle NE, Catarina, Nicaragua",
+        "address_line1": "Mirador",
+        "address_line2": "2a Calle NE, Catarina, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 4762915028,
+            "name:es": "Mirador",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Mirador"
+        },
+        "place_id": "514e733cb02d8455c059c342b17fafda2740f00103f901d450e41b010000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0652886,
+          11.927120199573784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro Recreativo Xilomen",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Managua",
+        "city": "Ticuantepe",
+        "postcode": "16300",
+        "street": "Carretera Managua - Masaya",
+        "iso3166_2": "NI-MN",
+        "lon": -86.1949749,
+        "lat": 12.040747,
+        "state_code": "MN",
+        "formatted": "Centro Recreativo Xilomen, Carretera Managua - Masaya, Ticuantepe, Nicaragua",
+        "address_line1": "Centro Recreativo Xilomen",
+        "address_line2": "Carretera Managua - Masaya, Ticuantepe, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centro Recreativo Xilomen",
+            "osm_id": 4762915031,
+            "name:es": "Centro Recreativo Xilomen",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Centro Recreativo Xilomen"
+        },
+        "place_id": "519ec200787a8c55c059683f6dcadc142840f00103f901d750e41b0100000092031943656e74726f205265637265617469766f2058696c6f6d656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1949749,
+          12.040746999584101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manualidades MONIC, decoracion eventos",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "León",
+        "postcode": "21000",
+        "district": "Barrio Sagrado",
+        "street": "1era Calle Nor Este",
+        "iso3166_2": "NI-LE",
+        "lon": -86.8765241,
+        "lat": 12.4366047,
+        "state_code": "LE",
+        "formatted": "Manualidades MONIC, decoracion eventos, 1era Calle Nor Este, Barrio Sagrado, León, Nicaragua",
+        "address_line1": "Manualidades MONIC, decoracion eventos",
+        "address_line2": "1era Calle Nor Este, Barrio Sagrado, León, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Manualidades MONIC, decoracion eventos",
+            "osm_id": 4771939023,
+            "name:es": "Manualidades MONIC, decoracion eventos",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Manualidades MONIC, decoracion eventos"
+        },
+        "place_id": "51f8e989f818b855c059704fb4a68adf2840f00103f901cf026e1c010000009203264d616e75616c696461646573204d4f4e49432c206465636f726163696f6e206576656e746f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.87652409999998,
+          12.43660469962171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telica atardecer",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "Telica",
+        "postcode": "22400",
+        "street": "Way to bat cave",
+        "iso3166_2": "NI-LE",
+        "lon": -86.846611,
+        "lat": 12.606921,
+        "state_code": "LE",
+        "formatted": "Telica Sunset Point, Way to bat cave, Telica, Nicaragua",
+        "address_line1": "Telica Sunset Point",
+        "address_line2": "Way to bat cave, Telica, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Telica atardecer",
+            "osm_id": 4944831922,
+            "name:de": "Telica Sonnenuntergang",
+            "name:en": "Telica Sunset Point",
+            "name:es": "Telica atardecer",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Telica Sonnenuntergang",
+          "en": "Telica Sunset Point",
+          "es": "Telica atardecer"
+        },
+        "place_id": "51c45be7df2eb655c0593e686959be362940f00103f901b225bc260100000092031054656c69636120617461726465636572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.846611,
+          12.606920999638643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Merced",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Granada",
+        "city": "Granada",
+        "postcode": "43000",
+        "district": "Sector Urbano",
+        "neighbourhood": "Co. La Merced",
+        "street": "Calle Real Xalteva",
+        "iso3166_2": "NI-GR",
+        "lon": -85.9567725,
+        "lat": 11.9292944,
+        "state_code": "GR",
+        "formatted": "La Merced, Calle Real Xalteva, Sector Urbano, Granada, Nicaragua",
+        "address_line1": "La Merced",
+        "address_line2": "Calle Real Xalteva, Sector Urbano, Granada, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Merced",
+            "osm_id": 4946412821,
+            "name:de": "La Merced",
+            "name:en": "La Merced",
+            "name:es": "La Merced",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "La Merced",
+          "en": "La Merced",
+          "es": "La Merced"
+        },
+        "place_id": "51944db9c23b7d55c059690dbd79ccdb2740f00103f9011545d426010000009203094c61204d6572636564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9567725,
+          11.929294399573978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arte Precolombino - Cerámica Miguel angel",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Masaya",
+        "city": "San Juan de Oriente",
+        "postcode": "42800",
+        "street": "1a Calle SO",
+        "iso3166_2": "NI-MS",
+        "lon": -86.0738378,
+        "lat": 11.905608,
+        "state_code": "MS",
+        "formatted": "Arte Precolombino - Cerámica Miguel angel, 1a Calle SO, San Juan de Oriente, Nicaragua",
+        "address_line1": "Arte Precolombino - Cerámica Miguel angel",
+        "address_line2": "1a Calle SO, San Juan de Oriente, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arte Precolombino - Cerámica Miguel angel",
+            "osm_id": 4958787520,
+            "name:es": "Arte Precolombino - Cerámica Miguel angel",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Arte Precolombino - Cerámica Miguel angel"
+        },
+        "place_id": "51590d2ec2b98455c05977500adaabcf2740f00103f901c01791270100000092032a4172746520507265636f6c6f6d62696e6f202d20436572c3a16d696361204d696775656c20616e67656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07383779999999,
+          11.905607999571869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entrada a miradores",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Estelí",
+        "city": "San Nicolás",
+        "hamlet": "Almaciguera",
+        "postcode": "31000",
+        "street": "NN-35A",
+        "iso3166_2": "NI-ES",
+        "lon": -86.3795676,
+        "lat": 12.9707063,
+        "state_code": "ES",
+        "formatted": "Entrada a miradores, NN-35A, San Nicolás, Nicaragua",
+        "address_line1": "Entrada a miradores",
+        "address_line2": "NN-35A, San Nicolás, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Entrada a miradores",
+            "osm_id": 4998170227,
+            "name:es": "Entrada a miradores",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Entrada a miradores"
+        },
+        "place_id": "51c227e7d54a9855c059a742866a00f12940f00103f9017306ea2901000000920313456e74726164612061206d697261646f726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3795676,
+          12.970706299676136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cueva del Duende",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Estelí",
+        "city": "San Nicolás",
+        "hamlet": "Almaciguera",
+        "postcode": "31000",
+        "street": "NN-35A",
+        "iso3166_2": "NI-ES",
+        "lon": -86.3808645,
+        "lat": 12.9712236,
+        "state_code": "ES",
+        "formatted": "Mirador Cueva del Duende, NN-35A, San Nicolás, Nicaragua",
+        "address_line1": "Mirador Cueva del Duende",
+        "address_line2": "NN-35A, San Nicolás, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cueva del Duende",
+            "osm_id": 4998172725,
+            "name:es": "Mirador Cueva del Duende",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Mirador Cueva del Duende"
+        },
+        "place_id": "5146ed7e15609855c059de6c3b3844f12940f00103f9013510ea29010000009203184d697261646f722043756576612064656c204475656e6465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3808645,
+          12.97122359967619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Apaguajil",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Estelí",
+        "city": "San Nicolás",
+        "hamlet": "Almaciguera",
+        "postcode": "31000",
+        "street": "NN-35A",
+        "iso3166_2": "NI-ES",
+        "lon": -86.3791433,
+        "lat": 12.968491,
+        "state_code": "ES",
+        "formatted": "Mirador Apaguajil, NN-35A, San Nicolás, Nicaragua",
+        "address_line1": "Mirador Apaguajil",
+        "address_line2": "NN-35A, San Nicolás, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Apaguajil",
+            "osm_id": 4998172922,
+            "name:es": "Mirador Apaguajil",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Mirador Apaguajil"
+        },
+        "place_id": "51d67f42e2439855c0592128640ddeef2940f00103f901fa10ea29010000009203114d697261646f72204170616775616a696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.37914329999998,
+          12.96849099967591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Crater and Sulfur Vents",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "La Paz Centro",
+        "postcode": "22100",
+        "street": "Cerro Negro a El Hoyo",
+        "iso3166_2": "NI-LE",
+        "lon": -86.6653058,
+        "lat": 12.4891266,
+        "state_code": "LE",
+        "formatted": "Old Crater and Sulfur Vents, Cerro Negro a El Hoyo, La Paz Centro, Nicaragua",
+        "address_line1": "Old Crater and Sulfur Vents",
+        "address_line2": "Cerro Negro a El Hoyo, La Paz Centro, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Old Crater and Sulfur Vents",
+            "osm_id": 5010489481,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b335c75e94aa55c05998003acd6efa2840f00103f9018900a62a0100000092031b4f6c642043726174657220616e642053756c6675722056656e7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66530579999998,
+          12.489126599626886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sulfur Vent",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "León",
+        "city": "La Paz Centro",
+        "postcode": "22100",
+        "street": "Cerro Negro a El Hoyo",
+        "iso3166_2": "NI-LE",
+        "lon": -86.6650439,
+        "lat": 12.4872962,
+        "state_code": "LE",
+        "formatted": "Sulfur Vent, Cerro Negro a El Hoyo, La Paz Centro, Nicaragua",
+        "address_line1": "Sulfur Vent",
+        "address_line2": "Cerro Negro a El Hoyo, La Paz Centro, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sulfur Vent",
+            "osm_id": 5010489494,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51df394a1490aa55c05936b931e37ef92840f00103f9019600a62a0100000092030b53756c6675722056656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66504389999999,
+          12.487296199626694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entrada parc nacional chaco cente",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Carazo",
+        "city": "Santa Teresa",
+        "village": "Santa Margarita",
+        "postcode": "41000",
+        "district": "Villa Madre Proletaria",
+        "street": "Pan-American Highway",
+        "iso3166_2": "NI-CA",
+        "lon": -86.1575907,
+        "lat": 11.8222945,
+        "state_code": "CA",
+        "formatted": "Entrada parc nacional chaco cente, Pan-American Highway, Villa Madre Proletaria, Santa Teresa, Nicaragua",
+        "address_line1": "Entrada parc nacional chaco cente",
+        "address_line2": "Pan-American Highway, Villa Madre Proletaria, Santa Teresa, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Entrada parc nacional chaco cente",
+            "osm_id": 5018650126,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d7a94df7158a55c059c49edec803a52740f00103f9010e86222b01000000920321456e74726164612070617263206e6163696f6e616c20636861636f2063656e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1575907,
+          11.822294499564471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Guavillo",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Carazo",
+        "city": "Jinotepe",
+        "hamlet": "El Guabillo",
+        "postcode": "41000",
+        "street": "NIC-34B",
+        "iso3166_2": "NI-CA",
+        "lon": -86.2329027,
+        "lat": 11.6468049,
+        "state_code": "CA",
+        "formatted": "El Guavillo, NIC-34B, Jinotepe, Nicaragua",
+        "address_line1": "El Guavillo",
+        "address_line2": "NIC-34B, Jinotepe, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Guavillo",
+            "osm_id": 5022459721,
+            "name:es": "El guavillo",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "El guavillo"
+        },
+        "place_id": "519be9b9e0e78e55c059ede904032a4b2740f00103f90149a75c2b0100000092030b456c2047756176696c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2329027,
+          11.646804899549318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscina \"El Bongoe\"",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Matagalpa",
+        "city": "Ciudad Darío",
+        "village": "Valle Las Calabazas",
+        "postcode": "62800",
+        "suburb": "Valle Las Calabazas",
+        "street": "Pan-American Highway",
+        "iso3166_2": "NI-MT",
+        "lon": -86.0882783,
+        "lat": 12.6702595,
+        "state_code": "MT",
+        "formatted": "Piscina \"El Bongoe\", Pan-American Highway, Valle Las Calabazas, Ciudad Darío, Nicaragua",
+        "address_line1": "Piscina \"El Bongoe\"",
+        "address_line2": "Pan-American Highway, Valle Las Calabazas, Ciudad Darío, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Piscina \"El Bongoe\"",
+            "osm_id": 5067771521,
+            "name:es": "Piscina \"El Bongoe\"",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Piscina \"El Bongoe\""
+        },
+        "place_id": "5193dc065aa68555c0591b9ecd402c572940f00103f901810e102e0100000092031350697363696e612022456c20426f6e676f6522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0882783,
+          12.670259499645047
+        ]
+      }
+    }
+  ]
+}

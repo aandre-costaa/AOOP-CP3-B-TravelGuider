@@ -1,0 +1,4645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Da Family Zone",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Camalote",
+        "street": "George Price Highway",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8197593,
+        "lat": 17.2462797,
+        "formatted": "Da Family Zone, George Price Highway, Camalote, Belize",
+        "address_line1": "Da Family Zone",
+        "address_line2": "George Price Highway, Camalote, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Da Family Zone",
+            "email": "sales@apcs.bz",
+            "phone": 5016159986,
+            "osm_id": 4594732289,
+            "tourism": "attraction",
+            "website": "http://dafamilyzone.com",
+            "osm_type": "n",
+            "addr:street": "George Price Highway",
+            "opening_hours": "Mo-Su 07:00-18:00",
+            "addr:street:es": "Autopista George Price"
+          }
+        },
+        "website": "http://dafamilyzone.com",
+        "opening_hours": "Mo-Su 07:00-18:00",
+        "contact": {
+          "phone": 5016159986,
+          "email": "sales@apcs.bz"
+        },
+        "place_id": "51e005b6ef763456c05940dcb92f0c3f3140f00103f901010dde110100000092030e44612046616d696c79205a6f6e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.81975929999999,
+          17.24627970016104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahal Pech Archaeological Reserve",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "suburb": "Santiago Juan",
+        "quarter": "Maya Vista",
+        "street": "Cahal Pech Archaeological Reserve Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.07386085837484,
+        "lat": 17.1459099,
+        "formatted": "Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Cahal Pech Archaeological Reserve Trail",
+        "address_line2": "San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cahal Pech Archaeological Reserve",
+            "osm_id": 201661582,
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "wikidata": "Q968463",
+            "wikipedia": "en:Cahal Pech",
+            "opening_hours": "Mo-Su 08:00-17:00",
+            "wikimedia_commons": "Category:Cahal Pech",
+            "historic:civilization": "prehistoric"
+          }
+        },
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "wiki_and_media": {
+          "wikidata": "Q968463",
+          "wikipedia": "en:Cahal Pech",
+          "wikimedia_commons": "Category:Cahal Pech"
+        },
+        "historic": {
+          "type": "archaeological_site",
+          "civilization": "prehistoric"
+        },
+        "place_id": "512acbe422ba4456c059524fe9595a253140f00102f9018e1c050c00000000920321436168616c2050656368204172636861656f6c6f676963616c2052657365727665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07386085837484,
+          17.14590990015069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bocawina Adventures & Eco-Tours",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "street": "New Waterfall Trail",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.3874387,
+        "lat": 16.9282418,
+        "formatted": "Bocawina Adventures & Eco-Tours, New Waterfall Trail, Stann Creek District, Belize",
+        "address_line1": "Bocawina Adventures & Eco-Tours",
+        "address_line2": "New Waterfall Trail, Stann Creek District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bocawina Adventures & Eco-Tours",
+            "phone": "664-5554",
+            "osm_id": 2612964720,
+            "tourism": "attraction",
+            "website": "https://www.bocawinaadventures.com/",
+            "operator": "Bocawina Adventures & Eco-Tours",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.bocawinaadventures.com/",
+        "operator": "Bocawina Adventures & Eco-Tours",
+        "contact": {
+          "phone": "664-5554"
+        },
+        "place_id": "511b6db0cbcb1856c05939542e41a1ed3040f00103f90170adbe9b0000000092031f426f636177696e6120416476656e747572657320262045636f2d546f757273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3874387,
+          16.928241800127783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caribbean Sprinter Water Taxi",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "suburb": "Bahía Puesta del Sol",
+        "street": "Calle al Sol",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0232347,
+        "lat": 17.7426023,
+        "formatted": "Caribbean Sprinter Water Taxi, Calle al Sol, Caye Caulker Village, Belize",
+        "address_line1": "Caribbean Sprinter Water Taxi",
+        "address_line2": "Calle al Sol, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Caribbean Sprinter Water Taxi",
+            "phone": "+501-226-0033",
+            "osm_id": 2656654072,
+            "tourism": "attraction",
+            "website": "http://www.cayecaulkerwatertaxi.com/",
+            "osm_type": "n",
+            "addr:city": "Caye Caulker Village",
+            "addr:street": "Calle del Sol"
+          }
+        },
+        "website": "http://www.cayecaulkerwatertaxi.com/",
+        "contact": {
+          "phone": "+501-226-0033"
+        },
+        "place_id": "51782865ad7c0156c0592b56312f1bbe3140f00103f901f852599e0000000092031d43617269626265616e20537072696e7465722057617465722054617869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02323469999999,
+          17.742602300210063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Iguana Conservation Project",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "district": "Savannah Area",
+        "suburb": "Morotown",
+        "street": "Buena Vista Street",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0683823,
+        "lat": 17.1536154,
+        "formatted": "Green Iguana Conservation Project, Buena Vista Street, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Green Iguana Conservation Project",
+        "address_line2": "Buena Vista Street, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Green Iguana Conservation Project",
+            "phone": "(501)824-2034",
+            "osm_id": 4530731093,
+            "tourism": "attraction",
+            "website": "https://www.sanignaciobelize.com/belize-iguana-project",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.sanignaciobelize.com/belize-iguana-project",
+        "contact": {
+          "phone": "(501)824-2034"
+        },
+        "place_id": "5104882760604456c05905d0bf5653273140f00103f90155780d0e01000000920321477265656e20496775616e6120436f6e736572766174696f6e2050726f6a656374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0683823,
+          17.153615400151484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evangelical Quest Church",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Camalote",
+        "street": "Valley of Peace Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8041923,
+        "lat": 17.2597742,
+        "formatted": "Evangelical Quest Church, Valley of Peace Road, Camalote, Belize",
+        "address_line1": "Evangelical Quest Church",
+        "address_line2": "Valley of Peace Road, Camalote, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Evangelical Quest Church",
+            "email": "german_gllrd@yahoo.com",
+            "phone": 8222095,
+            "osm_id": 5077139626,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Su, We, Fr 19:30-21:00"
+          }
+        },
+        "opening_hours": "Su, We, Fr 19:30-21:00",
+        "contact": {
+          "phone": 8222095,
+          "email": "german_gllrd@yahoo.com"
+        },
+        "place_id": "517a0cfbe2773356c059cc0ade8f80423140f00103f901aa009f2e010000009203184576616e67656c6963616c20517565737420436875726368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.80419229999998,
+          17.259774200162425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belize Raptor Center",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Cristo Rey",
+        "street": "San Antonio Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0586535,
+        "lat": 17.1333278,
+        "formatted": "Belize Raptor Center, San Antonio Road, Cristo Rey, Belize",
+        "address_line1": "Belize Raptor Center",
+        "address_line2": "San Antonio Road, Cristo Rey, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Belize Raptor Center",
+            "email": "belizeraptorcenter@gmail.com",
+            "phone": "+011 (501) 615-0226",
+            "osm_id": 5353199621,
+            "tourism": "attraction",
+            "website": "http://www.belizeraptorcenter.com/",
+            "osm_type": "n"
+          }
+        },
+        "website": "http://www.belizeraptorcenter.com/",
+        "contact": {
+          "phone": "+011 (501) 615-0226",
+          "email": "belizeraptorcenter@gmail.com"
+        },
+        "place_id": "51f0129cfac04356c059074a4dc521223140f00103f9010558133f0100000092031442656c697a6520526170746f722043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05865349999999,
+          17.13332780014937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheil mayan chocolate factory",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "city": "Maya Centre",
+        "district": "Maya Centre",
+        "neighbourhood": "New Site",
+        "street": "Kendall Road",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.3807166,
+        "lat": 16.7972878,
+        "formatted": "Cheil mayan chocolate factory, Kendall Road, Maya Centre, Belize",
+        "address_line1": "Cheil mayan chocolate factory",
+        "address_line2": "Kendall Road, Maya Centre, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cheil mayan chocolate factory",
+            "phone": 6264578,
+            "osm_id": 6336681685,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "cockscomb road",
+            "opening_hours": "Mo-Su 08:00-17:00"
+          }
+        },
+        "opening_hours": "Mo-Su 08:00-17:00",
+        "contact": {
+          "phone": 6264578
+        },
+        "place_id": "51d68228a95d1856c059fefca20d1bcc3040f00103f901d516b2790100000092031d436865696c206d6179616e2063686f636f6c61746520666163746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3807166,
+          16.79728780011373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caracol",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Caracol Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.11848771710069,
+        "lat": 16.761162499999998,
+        "formatted": "Caracol Road, Cayo District, Belize",
+        "address_line1": "Caracol Road",
+        "address_line2": "Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Caracol",
+            "osm_id": 28718695,
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "wikidata": "Q1035336",
+            "wikipedia": "en:Caracol",
+            "wikimedia_commons": "Category:Caracol (Belize)",
+            "archaeological_site": "temple",
+            "historic:civilization": "mayan"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1035336",
+          "wikipedia": "en:Caracol",
+          "wikimedia_commons": "Category:Caracol (Belize)"
+        },
+        "historic": {
+          "type": "archaeological_site",
+          "civilization": "mayan"
+        },
+        "place_id": "51367b814d954756c059cde9ac8bdbc23040f00102f9016736b6010000000092030743617261636f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11848771710069,
+          16.761162500109823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Herman's Blue Hole National Park",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.68930191787013,
+        "lat": 17.146895,
+        "formatted": "St. Herman's Blue Hole National Park, Cayo District, Belize",
+        "address_line1": "St. Herman's Blue Hole National Park",
+        "address_line2": "Cayo District, Belize",
+        "categories": [
+          "natural",
+          "natural.protected_area",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "St. Herman's Blue Hole National Park",
+            "osm_id": 223261644,
+            "tourism": "attraction",
+            "boundary": "protected_area",
+            "operator": "Forest Department",
+            "osm_type": "w",
+            "wikidata": "Q7588335",
+            "protect_class": 2,
+            "protection_title": "National Park"
+          }
+        },
+        "operator": "Forest Department",
+        "wiki_and_media": {
+          "wikidata": "Q7588335"
+        },
+        "place_id": "51a094ca851d2c56c059f29725e99a253140f00102f901ccb34e0d0000000092032453742e204865726d616e277320426c756520486f6c65204e6174696f6e616c205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.68930191787013,
+          17.146895000150785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altún Ha",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Altun Ha",
+        "street": "Altún Ha Road",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.34699699797713,
+        "lat": 17.7644705,
+        "formatted": "Altún Ha Road, Altun Ha, Belize",
+        "address_line1": "Altún Ha Road",
+        "address_line2": "Altun Ha, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Altún Ha",
+            "osm_id": 253110664,
+            "landuse": "meadow",
+            "name:be": "Алтун-Ха",
+            "name:es": "Altún Ha",
+            "name:ru": "Алтун-Ха",
+            "name:uk": "Алтун-Ха",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "wikidata": "Q446176",
+            "wikipedia": "en:Altun Ha",
+            "wikipedia:es": "Altún Ha",
+            "archaeological_site": "city"
+          }
+        },
+        "name_international": {
+          "be": "Алтун-Ха",
+          "es": "Altún Ha",
+          "ru": "Алтун-Ха",
+          "uk": "Алтун-Ха"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q446176",
+          "wikipedia": "en:Altun Ha"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "51cd87e532351656c059f62ab556b4c33140f00102f9018829160f00000000920309416c74c3ba6e204861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.34699699797712,
+          17.76447050021212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Hole",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.68379148567199,
+        "lat": 17.1571355,
+        "formatted": "Blue Hole, Cayo District, Belize",
+        "address_line1": "Blue Hole",
+        "address_line2": "Cayo District, Belize",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Blue Hole",
+            "water": "cenote",
+            "osm_id": 401126123,
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q131011080",
+            "intermittent": "no"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q131011080"
+        },
+        "place_id": "51a40f5d3dc32b56c0595d313a083a283140f00102f901ebb2e81700000000920309426c756520486f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.68379148567197,
+          17.157135500151856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flighthouse",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "city": "Independence",
+        "hamlet": "Big Creek",
+        "suburb": "Port of Big Creek",
+        "street": "Savannah Road",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.40360767272728,
+        "lat": 16.478422600000002,
+        "formatted": "Flighthouse, Savannah Road, Independence, Belize",
+        "address_line1": "Flighthouse",
+        "address_line2": "Savannah Road, Independence, Belize",
+        "categories": [
+          "building",
+          "building.service",
+          "building.tourism",
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Flighthouse",
+            "osm_id": 953825242,
+            "tourism": "attraction",
+            "website": "https://www.ncl.com/",
+            "building": "yes",
+            "man_made": "lighthouse",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://www.ncl.com/",
+        "place_id": "51d0b146b5d41956c05962014de7797a3040f00102f901da37da380000000092030b466c69676874686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.40360767272728,
+          16.478422600078723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Rock Falls",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9742204,
+        "lat": 17.0324774,
+        "formatted": "Big Rock Falls, Cayo District, Belize",
+        "address_line1": "Big Rock Falls",
+        "address_line2": "Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Big Rock Falls",
+            "osm_id": 2087383133,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall",
+            "wikidata": "Q4906231",
+            "wikipedia": "en:Big Rock Falls"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q4906231",
+          "wikipedia": "en:Big Rock Falls"
+        },
+        "place_id": "51244685a0593e56c05992745b7050083140f00103f9015df06a7c0000000092030e42696720526f636b2046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.97422039999998,
+          17.032477400138823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thousand Foot Falls",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8482005,
+        "lat": 17.0570413,
+        "formatted": "Thousand Foot Falls, Cayo District, Belize",
+        "address_line1": "Thousand Foot Falls",
+        "address_line2": "Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thousand Foot Falls",
+            "width": 27,
+            "height": 488,
+            "osm_id": 2171748724,
+            "tourism": "attraction",
+            "alt_name": "Hidden Valley Falls",
+            "osm_type": "n",
+            "waterway": "waterfall",
+            "wikidata": "Q7797037"
+          }
+        },
+        "name_other": {
+          "alt_name": "Hidden Valley Falls"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7797037"
+        },
+        "place_id": "51dbfcbfea483656c059f2a036429a0e3140f00103f901744172810000000092031354686f7573616e6420466f6f742046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8482005,
+          17.057041300141414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bocawina Zipline",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "street": "New Waterfall Trail",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.3885979,
+        "lat": 16.9273146,
+        "formatted": "Bocawina Zipline, New Waterfall Trail, Stann Creek District, Belize",
+        "address_line1": "Bocawina Zipline",
+        "address_line2": "New Waterfall Trail, Stann Creek District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bocawina Zipline",
+            "osm_id": 2612966521,
+            "tourism": "attraction",
+            "website": "https://www.bocawinaadventures.com/",
+            "operator": "Bocawina Adventures & Eco-Tours",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.bocawinaadventures.com/",
+        "operator": "Bocawina Adventures & Eco-Tours",
+        "place_id": "51d4f2b9c9de1856c059d8a6587d64ed3040f00103f90179b4be9b00000000920310426f636177696e61205a69706c696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.38859789999998,
+          16.927314600127687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Happy Go Luckie Tours",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "city": "Hopkins Village",
+        "street": "Karina South Street Main",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.2833403,
+        "lat": 16.8616175,
+        "formatted": "Happy Go Luckie Tours, Karina South Street Main, Hopkins Village, Belize",
+        "address_line1": "Happy Go Luckie Tours",
+        "address_line2": "Karina South Street Main, Hopkins Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Happy Go Luckie Tours",
+            "email": "info@hgltours.com",
+            "osm_id": 5202532600,
+            "tourism": "attraction",
+            "operator": "Happy Go Luckie Tours",
+            "osm_type": "n",
+            "addr:city": "Hopkins Village",
+            "description": "Marine tour operator\nwww.hgltours.com \n"
+          }
+        },
+        "operator": "Happy Go Luckie Tours",
+        "description": "Marine tour operator\nwww.hgltours.com \n",
+        "contact": {
+          "email": "info@hgltours.com"
+        },
+        "place_id": "51e3885a3f221256c059f5ade8f692dc3040f00103f901f858183601000000920315486170707920476f204c75636b696520546f757273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2833403,
+          16.861617500120662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harvest Caye Beach",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "city": "Independence",
+        "hamlet": "Big Creek",
+        "suburb": "Port of Big Creek",
+        "street": "Savannah Road",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.403214,
+        "lat": 16.478313,
+        "formatted": "Harvest Caye Beach, Savannah Road, Independence, Belize",
+        "address_line1": "Harvest Caye Beach",
+        "address_line2": "Savannah Road, Independence, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harvest Caye Beach",
+            "osm_id": 5366994422,
+            "tourism": "attraction",
+            "website": "https://www.ncl.com/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.ncl.com/",
+        "place_id": "5185d21742ce1956c059f89684b8727a3040f00103f901f6d5e53f01000000920312486172766573742043617965204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.403214,
+          16.478313000078714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ajaw Chocolate",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "district": "Savannah Area",
+        "suburb": "Morotown",
+        "street": "Benque Viejo Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0713339,
+        "lat": 17.1547564,
+        "formatted": "Ajaw Chocolate, Benque Viejo Road, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Ajaw Chocolate",
+        "address_line2": "Benque Viejo Road, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ajaw Chocolate",
+            "osm_id": 5582045624,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Sa 09:00-18:00"
+          }
+        },
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "place_id": "5127e60fbc904456c059727f8d1d9e273140f00103f901b841b74c0100000092030e416a61772043686f636f6c617465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0713339,
+          17.154756400151605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stingray Swimming Area",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Alux Street",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0256248,
+        "lat": 17.7456849,
+        "formatted": "Stingray Swimming Area, Alux Street, Caye Caulker Village, Belize",
+        "address_line1": "Stingray Swimming Area",
+        "address_line2": "Alux Street, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stingray Swimming Area",
+            "time": "17:00",
+            "osm_id": 9684077517,
+            "name:es": "Área de Baño de Mantarrayas",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "17:00"
+          }
+        },
+        "opening_hours": "17:00",
+        "name_international": {
+          "es": "Área de Baño de Mantarrayas"
+        },
+        "place_id": "51dc7d33d6a30156c0594586a334e5be3140f00103f901cd4b3741020000009203165374696e67726179205377696d6d696e672041726561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0256248,
+          17.745684900210353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windward Lookout",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Windward Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9217096,
+        "lat": 16.9344089,
+        "formatted": "Windward Lookout, Windward Road, Cayo District, Belize",
+        "address_line1": "Windward Lookout",
+        "address_line2": "Windward Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Windward Lookout",
+            "osm_id": 12306220570,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "place_id": "51311a434afd3a56c0599a24f36b35ef3040f00103f9011a0682dd0200000092031057696e6477617264204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9217096,
+          16.93440890012844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Belize City",
+        "district": "Fort Street Tourist Village",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.18248398061758,
+        "lat": 17.4934485,
+        "formatted": "Fort Street Tourist Village, Belize City, Fort Street Tourist Village, Belize",
+        "address_line1": "Fort Street Tourist Village",
+        "address_line2": "Belize City, Fort Street Tourist Village, Belize",
+        "name": "Fort Street Tourist Village",
+        "categories": [
+          "populated_place",
+          "populated_place.neighbourhood",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Fort Street Tourist Village",
+            "place": "neighbourhood",
+            "osm_id": -14955483,
+            "tourism": "attraction",
+            "osm_type": "r"
+          }
+        },
+        "place_id": "51f8324ad1ad0b56c0590e8f12a4527e3140f00101f901db33e4000000000092031b466f72742053747265657420546f75726973742056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18248398061758,
+          17.493448500185927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kukumba Beach",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Belize City",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.24764870138124,
+        "lat": 17.470371649999997,
+        "formatted": "Kukumba Beach, Belize City, Belize District, Belize",
+        "address_line1": "Kukumba Beach",
+        "address_line2": "Belize City, Belize District, Belize",
+        "categories": [
+          "beach",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kukumba Beach",
+            "osm_id": -8504547,
+            "name:de": "Kukumba-Strand",
+            "name:es": "Playa Kukumba",
+            "name:nl": "Kukumba Strand",
+            "natural": "beach",
+            "tourism": "attraction",
+            "osm_type": "r"
+          }
+        },
+        "name_international": {
+          "de": "Kukumba-Strand",
+          "es": "Playa Kukumba",
+          "nl": "Kukumba Strand"
+        },
+        "place_id": "511255f079d90f56c0591681c6466a783140f00101f901e3c481000000000092030d4b756b756d6261204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24764870138122,
+          17.47037165018363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nohoch Che'en Caves Branch Archaeological Reserve",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Frank's Eddy",
+        "district": "Frank's Eddy",
+        "street": "Nohoch Che'en Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.6497674929761,
+        "lat": 17.2075963,
+        "formatted": "Nohoch Che'en Caves Branch Archaeological Reserve, Nohoch Che'en Road, Frank's Eddy, Belize",
+        "address_line1": "Nohoch Che'en Caves Branch Archaeological Reserve",
+        "address_line2": "Nohoch Che'en Road, Frank's Eddy, Belize",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.nature_reserve",
+          "natural",
+          "natural.protected_area",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nohoch Che'en Caves Branch Archaeological Reserve",
+            "osm_id": 201225796,
+            "leisure": "nature_reserve",
+            "tourism": "attraction",
+            "alt_name": "Jaguar Paw",
+            "osm_type": "w",
+            "iucn_level": 6,
+            "start_date": 2009,
+            "protection_title": "Archaeological Reserve"
+          }
+        },
+        "name_other": {
+          "alt_name": "Jaguar Paw"
+        },
+        "place_id": "51841565ca952956c059faf1f70725353140f00102f9014476fe0b000000009203314e6f686f63682043686527656e204361766573204272616e6368204172636861656f6c6f676963616c2052657365727665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64976749297608,
+          17.20759630015707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Actun Tunichil Muknal Natural Monument",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.85921734800294,
+        "lat": 17.12038465,
+        "formatted": "Actun Tunichil Muknal Natural Monument, Cayo District, Belize",
+        "address_line1": "Actun Tunichil Muknal Natural Monument",
+        "address_line2": "Cayo District, Belize",
+        "categories": [
+          "natural",
+          "natural.protected_area",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Actun Tunichil Muknal Natural Monument",
+            "osm_id": 240710976,
+            "tourism": "attraction",
+            "boundary": "protected_area",
+            "historic": "archaeological_site",
+            "operator": "NICH",
+            "osm_type": "w",
+            "protect_class": 3,
+            "protection_title": "Natural Monument",
+            "archaeological_site": "cave",
+            "historic:civilization": "maya"
+          }
+        },
+        "operator": "NICH",
+        "historic": {
+          "type": "archaeological_site",
+          "civilization": "maya"
+        },
+        "place_id": "510575c26afd3656c05983534787d11e3140f00102f90140f5580e00000000920326416374756e2054756e696368696c204d756b6e616c204e61747572616c204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.85921734800293,
+          17.120384650148036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seahorse Dive Center",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "city": "Placencia",
+        "street": "Placencia Road",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.36545501284992,
+        "lat": 16.5127053,
+        "formatted": "Seahorse Dive Center, Placencia Road, Placencia, Belize",
+        "address_line1": "Seahorse Dive Center",
+        "address_line2": "Placencia Road, Placencia, Belize",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.tourism",
+          "commercial",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Seahorse Dive Center",
+            "shop": "yes",
+            "osm_id": 377518851,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Placencia"
+          }
+        },
+        "place_id": "5160166c9d631756c059235790a740833040f00102f901037b801600000000920314536561686f72736520446976652043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3654550128499,
+          16.51270530008254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranger Station",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Augustine",
+        "street": "Chiquibul Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9884774089025,
+        "lat": 16.9653432,
+        "formatted": "Ranger Station, Chiquibul Road, Augustine, Belize",
+        "address_line1": "Ranger Station",
+        "address_line2": "Chiquibul Road, Augustine, Belize",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ranger Station",
+            "osm_id": 646635883,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "518c04c036433f56c05956fb61bb20f73040f00102f9016be18a260000000092030e52616e6765722053746174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9884774089025,
+          16.965343200131734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ranger Tower #1",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Augustine",
+        "street": "Chiquibul Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.98852471767069,
+        "lat": 16.9648093,
+        "formatted": "Ranger Tower #1, Chiquibul Road, Augustine, Belize",
+        "address_line1": "Ranger Tower #1",
+        "address_line2": "Chiquibul Road, Augustine, Belize",
+        "categories": [
+          "building",
+          "building.tourism",
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ranger Tower #1",
+            "osm_id": 1033351662,
+            "tourism": "attraction",
+            "building": "yes",
+            "man_made": "tower",
+            "osm_type": "w",
+            "tower:type": "watchtower",
+            "tower:construction": "concrete"
+          }
+        },
+        "place_id": "51ba6b2dfd433f56c05934f106befdf63040f00102f901eeb1973d0000000092030f52616e67657220546f776572202331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.98852471767069,
+          16.964809300131677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrier Jump Jet",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Ladyville",
+        "street": "Airport Road",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.3092223,
+        "lat": 17.5356297,
+        "formatted": "Harrier Jump Jet, Airport Road, Ladyville, Belize",
+        "address_line1": "Harrier Jump Jet",
+        "address_line2": "Airport Road, Ladyville, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harrier Jump Jet",
+            "osm_id": 1065995790,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51696c544cca1356c0592a152d071f893140f00103f9010ece893f0000000092031048617272696572204a756d70204a6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3092223,
+          17.53562970019008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hol Chan Cut",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "San Pedro Town",
+        "suburb": "Boca Ciega",
+        "street": "Elsa Paz South Road",
+        "iso3166_2": "BZ-BZ",
+        "lon": -87.977162,
+        "lat": 17.8627707,
+        "formatted": "Hol Chan Cut, Elsa Paz South Road, San Pedro Town, Belize",
+        "address_line1": "Hol Chan Cut",
+        "address_line2": "Elsa Paz South Road, San Pedro Town, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hol Chan Cut",
+            "sport": "scuba_diving",
+            "osm_id": 1574464135,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5137397cd289fe55c059c965658adedc3140f00103f901876ad85d0000000092030c486f6c204368616e20437574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.977162,
+          17.862770700221322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabbage Haul Ridge",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "street": "Tiger Fern Trail",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.4326992,
+        "lat": 16.766274,
+        "formatted": "Cabbage Haul Ridge, Tiger Fern Trail, Stann Creek District, Belize",
+        "address_line1": "Cabbage Haul Ridge",
+        "address_line2": "Tiger Fern Trail, Stann Creek District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cabbage Haul Ridge",
+            "osm_id": 1973263134,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515840fc57b11b56c059ca3f6a882ac43040f00103f9011e9b9d750000000092031243616262616765204861756c205269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4326992,
+          16.76627400011038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio On Pools",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Augustine",
+        "street": "Chiquibul Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9781855,
+        "lat": 16.9896147,
+        "formatted": "Rio On Pools, Chiquibul Road, Augustine, Belize",
+        "address_line1": "Rio On Pools",
+        "address_line2": "Chiquibul Road, Augustine, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rio On Pools",
+            "osm_id": 1973888588,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f7fa5a979a3e56c059bbb7946357fd3040f00103f9014c26a7750000000092030c52696f204f6e20506f6f6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.97818549999998,
+          16.989614700134307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Altos",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Augustine",
+        "street": "Hydram Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9939673,
+        "lat": 16.9748266,
+        "formatted": "Los Altos, Hydram Road, Augustine, Belize",
+        "address_line1": "Los Altos",
+        "address_line2": "Hydram Road, Augustine, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Los Altos",
+            "osm_id": 1973898356,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c6b205299d3f56c05948d76e3c8ef93040f00103f901744ca775000000009203094c6f7320416c746f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99396729999998,
+          16.97482660013273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thousand Foot Falls Natural Monument",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Roaring Creek Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8481911,
+        "lat": 17.060086,
+        "formatted": "Thousand Foot Falls Natural Monument, Roaring Creek Road, Cayo District, Belize",
+        "address_line1": "Thousand Foot Falls Natural Monument",
+        "address_line2": "Roaring Creek Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thousand Foot Falls Natural Monument",
+            "osm_id": 1973938303,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5186d052c3483656c059628ecdcb610f3140f00103f9017fe8a7750000000092032454686f7573616e6420466f6f742046616c6c73204e61747572616c204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.84819109999998,
+          17.06008600014173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thousand Foot Falls",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Roaring Creek Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8480639,
+        "lat": 17.0598775,
+        "formatted": "Thousand Foot Falls, Roaring Creek Road, Cayo District, Belize",
+        "address_line1": "Thousand Foot Falls",
+        "address_line2": "Roaring Creek Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thousand Foot Falls",
+            "osm_id": 1973938493,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c3dacead463656c059f7dfc021540f3140f00103f9013de9a7750000000092031354686f7573616e6420466f6f742046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.84806389999999,
+          17.059877500141706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zip Line",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "El Progresso",
+        "district": "Seven Miles",
+        "street": "Seven Miles / El Progresso Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9512668,
+        "lat": 17.0910909,
+        "formatted": "Zip Line, Seven Miles / El Progresso Road, El Progresso, Belize",
+        "address_line1": "Zip Line",
+        "address_line2": "Seven Miles / El Progresso Road, El Progresso, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zip Line",
+            "osm_id": 2087845913,
+            "tourism": "attraction",
+            "operator": "Calico Jack",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Calico Jack",
+        "place_id": "5150f1248ee13c56c059fd15b5bb51173140f00103f9011900727c000000009203085a6970204c696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95126679999998,
+          17.09109090014498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Hills Butterfly Ranch",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Spanish Lookout",
+        "street": "Chiquibul Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9742182,
+        "lat": 17.0975392,
+        "formatted": "Green Hills Butterfly Ranch, Chiquibul Road, Spanish Lookout, Belize",
+        "address_line1": "Green Hills Butterfly Ranch",
+        "address_line2": "Chiquibul Road, Spanish Lookout, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Green Hills Butterfly Ranch",
+            "osm_id": 2129538863,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c00a4b97593e56c0591cb43a54f8183140f00103f9012f2fee7e0000000092031b477265656e2048696c6c7320427574746572666c792052616e6368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9742182,
+          17.097539200145647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinol Sands",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Chiquibul Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9833608,
+        "lat": 17.0124405,
+        "formatted": "Pinol Sands, Chiquibul Road, Cayo District, Belize",
+        "address_line1": "Pinol Sands",
+        "address_line2": "Chiquibul Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pinol Sands",
+            "osm_id": 2171678683,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c60a2362ef3e56c059ab3bf54c2f033140f00103f901db2f71810000000092030b50696e6f6c2053616e6473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.98336079999999,
+          17.012440500136716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Five Sisters Falls",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9847976,
+        "lat": 17.0367076,
+        "formatted": "Five Sisters Falls, Cayo District, Belize",
+        "address_line1": "Five Sisters Falls",
+        "address_line2": "Cayo District, Belize",
+        "categories": [
+          "access_limited",
+          "access_limited.private",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Five Sisters Falls",
+            "access": "private",
+            "osm_id": 2171683210,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "restrictions": {
+          "access": "private"
+        },
+        "place_id": "51794b83ec063f56c059e21c56ab65093140f00103f9018a417181000000009203124669766520536973746572732046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9847976,
+          17.036707600139273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twin Ceiba",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Caracol Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.1157796,
+        "lat": 16.7616467,
+        "formatted": "Twin Ceiba, Caracol Road, Cayo District, Belize",
+        "address_line1": "Twin Ceiba",
+        "address_line2": "Caracol Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Twin Ceiba",
+            "osm_id": 2301107147,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cfe2d6ee684756c05907143447fbc23040f00103f901cb1b28890000000092030a5477696e204365696261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.11577959999998,
+          16.761646700109875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Checo Hill",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "El Progresso",
+        "district": "Seven Miles",
+        "street": "Seven Miles / El Progresso Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9612392,
+        "lat": 17.1093994,
+        "formatted": "Checo Hill, Seven Miles / El Progresso Road, El Progresso, Belize",
+        "address_line1": "Checo Hill",
+        "address_line2": "Seven Miles / El Progresso Road, El Progresso, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Checo Hill",
+            "osm_id": 2481628001,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5186e86bf1843d56c05939d55d99011c3140f00103f90161a3ea930000000092030a436865636f2048696c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9612392,
+          17.109399400146888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarpon viewing",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Calle La Poza",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0248882,
+        "lat": 17.7472019,
+        "formatted": "Tarpon viewing, Calle La Poza, Caye Caulker Village, Belize",
+        "address_line1": "Tarpon viewing",
+        "address_line2": "Calle La Poza, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tarpon viewing",
+            "osm_id": 2653159709,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519a43adc4970156c059c4e9ac9f48bf3140f00103f9011d01249e0000000092030e546172706f6e2076696577696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02488819999999,
+          17.7472019002105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ras Creek",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Hattie Street",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0247038,
+        "lat": 17.7500902,
+        "formatted": "Ras Creek, Hattie Street, Caye Caulker Village, Belize",
+        "address_line1": "Ras Creek",
+        "address_line2": "Hattie Street, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ras Creek",
+            "osm_id": 2653201909,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "518f453fbf940156c05991f44ee905c03140f00103f901f5a5249e0000000092030952617320437265656b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02470379999998,
+          17.750090200210767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Split",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Hattie Street",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0243417,
+        "lat": 17.7505814,
+        "formatted": "The Split, Hattie Street, Caye Caulker Village, Belize",
+        "address_line1": "The Split",
+        "address_line2": "Hattie Street, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Split",
+            "osm_id": 2653248464,
+            "subsea": "channel",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "51755b7dd08e0156c05931e4461a26c03140f00103f901d05b259e000000009203095468652053706c6974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0243417,
+          17.750581400210823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cockscomb Basin Wildlife Sanctuary",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "street": "Victoria Peak Path",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.4574043,
+        "lat": 16.7800574,
+        "formatted": "Cockscomb Basin Wildlife Sanctuary, Victoria Peak Path, Stann Creek District, Belize",
+        "address_line1": "Cockscomb Basin Wildlife Sanctuary",
+        "address_line2": "Victoria Peak Path, Stann Creek District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cockscomb Basin Wildlife Sanctuary",
+            "osm_id": 2693715177,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512f63af1c461d56c059b67b7ed7b1c73040f00103f901e9d48ea000000000920322436f636b73636f6d6220426173696e2057696c646c6966652053616e637475617279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4574043,
+          16.780057400111865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S. P. Express ticketing",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Pasero Street",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0241997,
+        "lat": 17.7437678,
+        "formatted": "S. P. Express ticketing, Pasero Street, Caye Caulker Village, Belize",
+        "address_line1": "S. P. Express ticketing",
+        "address_line2": "Pasero Street, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "S. P. Express ticketing",
+            "osm_id": 2694600320,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ab04e67c8c0156c05975b8099167be3140f00103f90180569ca000000000920317532e20502e2045787072657373207469636b6574696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02419969999998,
+          17.74376780021017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonetree Records",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Benque Viejo del Carmen",
+        "street": "Elizabeth Street",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.1398912,
+        "lat": 17.0715553,
+        "formatted": "Stonetree Records, Elizabeth Street, Benque Viejo del Carmen, Belize",
+        "address_line1": "Stonetree Records",
+        "address_line2": "Elizabeth Street, Benque Viejo del Carmen, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stonetree Records",
+            "osm_id": 2698654596,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e13f38faf34856c05926f8b97251123140f00103f9018433daa00000000092031153746f6e6574726565205265636f726473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.13989119999998,
+          17.071555300142926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Pedro Belize Express",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Playa Asunción",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0230714,
+        "lat": 17.7435401,
+        "formatted": "San Pedro Belize Express, Playa Asunción, Caye Caulker Village, Belize",
+        "address_line1": "San Pedro Belize Express",
+        "address_line2": "Playa Asunción, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "San Pedro Belize Express",
+            "osm_id": 2730281389,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51441e77007a0156c059cbaadda458be3140f00103f901adc9bca20000000092031853616e20506564726f2042656c697a652045787072657373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02307139999999,
+          17.74354010021015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa Del Nino",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Avenida Hicaco",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0234434,
+        "lat": 17.7456403,
+        "formatted": "Playa Del Nino, Avenida Hicaco, Caye Caulker Village, Belize",
+        "address_line1": "Playa Del Nino",
+        "address_line2": "Avenida Hicaco, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Playa Del Nino",
+            "osm_id": 2730326590,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a613bf18800156c059a9fb5f48e2be3140f00103f9013e7abda20000000092030e506c6179612044656c204e696e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02344339999999,
+          17.745640300210344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elijio Panti National Park Visitor Centre",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Antonio Village",
+        "street": "Elijio Panti Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0258243,
+        "lat": 17.0578512,
+        "formatted": "Elijio Panti National Park Visitor Centre, Elijio Panti Road, San Antonio Village, Belize",
+        "address_line1": "Elijio Panti National Park Visitor Centre",
+        "address_line2": "Elijio Panti Road, San Antonio Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Elijio Panti National Park Visitor Centre",
+            "osm_id": 2827545400,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514cfcf61aa74156c05960a41456cf0e3140f00103f90138eb88a800000000920329456c696a696f2050616e7469204e6174696f6e616c205061726b2056697369746f722043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.02582430000001,
+          17.0578512001415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poustinia Art Park",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Benque Viejo del Carmen",
+        "street": "Mollejon Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.124314,
+        "lat": 17.0388374,
+        "formatted": "Poustinia Art Park, Mollejon Road, Benque Viejo del Carmen, Belize",
+        "address_line1": "Poustinia Art Park",
+        "address_line2": "Mollejon Road, Benque Viejo del Carmen, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Poustinia Art Park",
+            "osm_id": 2875517301,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d51bb5c2f44756c059f675733ff1093140f00103f90175e964ab00000000920312506f757374696e696120417274205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.12431399999998,
+          17.038837400139492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Área de Pícnic y Piscina",
+        "country": "Guatemala",
+        "country_code": "gt",
+        "state": "Petén",
+        "city": "Melchor de Mencos",
+        "street": "Puente de Cuerda",
+        "iso3166_2": "GT-17",
+        "lon": -89.1538612,
+        "lat": 17.0251939,
+        "state_code": "PE",
+        "formatted": "Área de Pícnic y Piscina, Puente de Cuerda, - Melchor de Mencos, Guatemala",
+        "address_line1": "Área de Pícnic y Piscina",
+        "address_line2": "Puente de Cuerda, - Melchor de Mencos, Guatemala",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Área de Pícnic y Piscina",
+            "osm_id": 2875527717,
+            "name:es": "Área de Pícnic y Piscina",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Área de Pícnic y Piscina"
+        },
+        "place_id": "51e487a5dcd84956c059d426811b73063140f00103f901251265ab0000000092031ac3817265612064652050c3ad636e696320792050697363696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1538612,
+          17.025193900138063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croc Land",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Biscayne",
+        "street": "Washing Tree Road",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.4595534,
+        "lat": 17.6975761,
+        "formatted": "Croc Land, Washing Tree Road, Biscayne, Belize",
+        "address_line1": "Croc Land",
+        "address_line2": "Washing Tree Road, Biscayne, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Croc Land",
+            "osm_id": 3756053246,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5100f1a952691d56c059e1dae85894b23140f00103f901fed2e0df0000000092030943726f63204c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4595534,
+          17.69757610020577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New River Cove Buffalo Club",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Orange Walk District",
+        "street": "Philip Goldson Highway",
+        "iso3166_2": "BZ-OW",
+        "lon": -88.5612513,
+        "lat": 18.0331085,
+        "formatted": "New River Cove Buffalo Club, Philip Goldson Highway, Orange Walk District, Belize",
+        "address_line1": "New River Cove Buffalo Club",
+        "address_line2": "Philip Goldson Highway, Orange Walk District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "New River Cove Buffalo Club",
+            "osm_id": 3756080505,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519995928aeb2356c059afbc75cc79083240f00103f901793de1df0000000092031b4e657720526976657220436f76652042756666616c6f20436c7562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5612513,
+          18.03310850023689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COI MANANTIAL RESERVA DE LA BIOSFERA MAYA",
+        "country": "Guatemala",
+        "country_code": "gt",
+        "state": "Petén",
+        "city": "Melchor de Mencos",
+        "iso3166_2": "GT-17",
+        "lon": -89.2072424,
+        "lat": 17.180353,
+        "state_code": "PE",
+        "formatted": "COI MANANTIAL RESERVA DE LA BIOSFERA MAYA, Melchor de Mencos, Petén, Guatemala",
+        "address_line1": "COI MANANTIAL RESERVA DE LA BIOSFERA MAYA",
+        "address_line2": "Melchor de Mencos, Petén, Guatemala",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "COI MANANTIAL RESERVA DE LA BIOSFERA MAYA",
+            "osm_id": 4243016897,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510d96a075434d56c059e3653d9d2b2e3140f00103f901c14ce7fc00000000920329434f49204d414e414e5449414c2052455345525641204445204c412042494f5346455241204d415941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2072424,
+          17.180353000154252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finca El Pedregal",
+        "country": "Guatemala",
+        "country_code": "gt",
+        "state": "Petén",
+        "city": "Melchor de Mencos",
+        "hamlet": "Santa Rosa La Zarca",
+        "iso3166_2": "GT-17",
+        "lon": -89.150921,
+        "lat": 17.1463611,
+        "state_code": "PE",
+        "formatted": "Finca El Pedregal, Melchor de Mencos, Petén, Guatemala",
+        "address_line1": "Finca El Pedregal",
+        "address_line2": "Melchor de Mencos, Petén, Guatemala",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Finca El Pedregal",
+            "osm_id": 4349317392,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e6d18db0a84956c059d28dcaeb77253140f00103f90110513d030100000092031146696e636120456c20506564726567616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15092100000001,
+          17.146361100150735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boat dock",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Orange Walk District",
+        "city": "Indian Church",
+        "street": "Lamanai Access",
+        "iso3166_2": "BZ-OW",
+        "lon": -88.6511678,
+        "lat": 17.7644146,
+        "formatted": "Boat dock, Lamanai Access, Indian Church, Belize",
+        "address_line1": "Boat dock",
+        "address_line2": "Lamanai Access, Indian Church, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boat dock",
+            "osm_id": 4351924291,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51544db5bbac2956c059f77edcacb0c33140f00103f9014318650301000000920309426f617420646f636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6511678,
+          17.764414600212117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boats to Lamanai",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Orange Walk District",
+        "street": "Tower Hill Bridge",
+        "iso3166_2": "BZ-OW",
+        "lon": -88.5564739,
+        "lat": 18.0280864,
+        "formatted": "Boats to Lamanai, Tower Hill Bridge, Orange Walk District, Belize",
+        "address_line1": "Boats to Lamanai",
+        "address_line2": "Tower Hill Bridge, Orange Walk District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boats to Lamanai",
+            "osm_id": 4351924589,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f764b4449d2356c059547a9aab30073240f00103f9016d19650301000000920310426f61747320746f204c616d616e6169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5564739,
+          18.028086400236432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OSCAR Belizean Snow",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "street": "George Price Highway",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0802468,
+        "lat": 17.1475953,
+        "formatted": "OSCAR Belizean Snow, George Price Highway, San Ignacio & Santa Elena, Belize",
+        "address_line1": "OSCAR Belizean Snow",
+        "address_line2": "George Price Highway, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "OSCAR Belizean Snow",
+            "osm_id": 4563700595,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f36679c3224556c059f6303bcec8253140f00103f901738b0410010000009203134f534341522042656c697a65616e20536e6f77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.08024679999998,
+          17.14759530015086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Cayo",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "Santa Elena",
+        "street": "San Antonio Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.049407,
+        "lat": 17.1453368,
+        "formatted": "Villa Cayo, San Antonio Road, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Villa Cayo",
+        "address_line2": "San Antonio Road, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Villa Cayo",
+            "osm_id": 4746017235,
+            "name:es": "Villa Cayo",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Cristo Rey Road"
+          }
+        },
+        "name_international": {
+          "es": "Villa Cayo"
+        },
+        "place_id": "51624cfa7b294356c0595d8de3ca34253140f00103f901d379e21a0100000092030a56696c6c61204361796f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.049407,
+          17.14533680015062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Elena",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "Santa Elena",
+        "street": "George Price Highway",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.054014,
+        "lat": 17.1669082,
+        "formatted": "George Price Highway, San Ignacio & Santa Elena, Belize",
+        "address_line1": "George Price Highway",
+        "address_line2": "San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Santa Elena",
+            "osm_id": 4751997581,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Santa Elena",
+            "addr:street": "George Price Highway"
+          }
+        },
+        "place_id": "51ace122f7744356c0593e17ed7eba2a3140f00103f9018dba3d1b0100000092030b53616e746120456c656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.054014,
+          17.166908200152868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "I <3 Belize",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Belize City",
+        "suburb": "Fort George",
+        "street": "Fort Street",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.1820798,
+        "lat": 17.4914899,
+        "formatted": "I <3 Belize, Fort Street, Belize City, Belize",
+        "address_line1": "I <3 Belize",
+        "address_line2": "Fort Street, Belize City, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "I <3 Belize",
+            "osm_id": 4806694222,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c8900832a70b56c059ad9c3748d27d3140f00103f9014e55801e0100000092030b49203c332042656c697a65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1820798,
+          17.49148990018573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naia Resort",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "city": "Seine Bight",
+        "hamlet": "Surfside Lagoon Residences",
+        "street": "Placencia Road",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.3581171,
+        "lat": 16.5892311,
+        "formatted": "Naia Resort, Placencia Road, Seine Bight, Belize",
+        "address_line1": "Naia Resort",
+        "address_line2": "Placencia Road, Seine Bight, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Naia Resort",
+            "osm_id": 5177588331,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51db28fc63eb1656c05950ad70d9d7963040f00103f9016bba9b340100000092030b4e616961205265736f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3581171,
+          16.589231100091013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BELIZE sign",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Belize City",
+        "suburb": "Coral Grove",
+        "street": "Sea Shore Drive",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.2101665,
+        "lat": 17.5148831,
+        "formatted": "BELIZE sign, Sea Shore Drive, Belize City, Belize",
+        "address_line1": "BELIZE sign",
+        "address_line2": "Sea Shore Drive, Belize City, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "BELIZE sign",
+            "osm_id": 5336273521,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Sea Shore Drive"
+          }
+        },
+        "place_id": "51bf0d315e730d56c0591992fc60cf833140f00103f9017112113e0100000092030b42454c495a45207369676e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2101665,
+          17.514883100188033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza B",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "suburb": "Santiago Juan",
+        "quarter": "Maya Vista",
+        "street": "Cahal Pech Archaeological Reserve Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0734527,
+        "lat": 17.1461259,
+        "formatted": "Plaza B, Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Plaza B",
+        "address_line2": "Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza B",
+            "osm_id": 5340013071,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516213f472b34456c059f13eca8168253140f00103f9010f224a3e01000000920307506c617a612042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07345269999999,
+          17.14612590015071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza G",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "suburb": "Santiago Juan",
+        "quarter": "Maya Vista",
+        "street": "Cahal Pech Archaeological Reserve Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0735019,
+        "lat": 17.1454727,
+        "formatted": "Plaza G, Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Plaza G",
+        "address_line2": "Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza G",
+            "osm_id": 5340013073,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51672c5041b44456c0599a9be9b23d253140f00103f90111224a3e01000000920307506c617a612047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07350189999998,
+          17.14547270015064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza A",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "suburb": "Santiago Juan",
+        "quarter": "Maya Vista",
+        "street": "Cahal Pech Archaeological Reserve Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0741449,
+        "lat": 17.1460149,
+        "formatted": "Plaza A, Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Plaza A",
+        "address_line2": "Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza A",
+            "osm_id": 5340016291,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51922a40cabe4456c0593de0843b61253140f00103f901a32e4a3e01000000920307506c617a612041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0741449,
+          17.146014900150693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza E",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "suburb": "Santiago Juan",
+        "quarter": "Maya Vista",
+        "street": "Cahal Pech Archaeological Reserve Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0743109,
+        "lat": 17.1455087,
+        "formatted": "Plaza E, Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Plaza E",
+        "address_line2": "Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza E",
+            "osm_id": 5340016529,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51204f8182c14456c059346ee40e40253140f00103f901912f4a3e01000000920307506c617a612045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0743109,
+          17.145508700150643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza F",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "suburb": "Santiago Juan",
+        "quarter": "Maya Vista",
+        "street": "Cahal Pech Archaeological Reserve Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0739303,
+        "lat": 17.1454355,
+        "formatted": "Plaza F, Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Plaza F",
+        "address_line2": "Cahal Pech Archaeological Reserve Trail, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza F",
+            "osm_id": 5340016958,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51be2b2746bb4456c0590fd3cc423b253140f00103f9013e314a3e01000000920307506c617a612046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0739303,
+          17.14543550015065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jumping platform",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Hicaco Avenue",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0239974,
+        "lat": 17.7503607,
+        "formatted": "Jumping platform, Hicaco Avenue, Caye Caulker Village, Belize",
+        "address_line1": "Jumping platform",
+        "address_line2": "Hicaco Avenue, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jumping platform",
+            "osm_id": 5435711925,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "51180c642c890156c059e99b8ba317c03140f00103f901b561fe43010000009203104a756d70696e6720706c6174666f726d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02399739999998,
+          17.750360700210795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Iguana Conservation Project",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "San Ignacio & Santa Elena",
+        "town": "San Ignacio",
+        "district": "Savannah Area",
+        "suburb": "Morotown",
+        "street": "Buena Vista Street",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0678358,
+        "lat": 17.152839,
+        "formatted": "Green Iguana Conservation Project, Buena Vista Street, San Ignacio & Santa Elena, Belize",
+        "address_line1": "Green Iguana Conservation Project",
+        "address_line2": "Buena Vista Street, San Ignacio & Santa Elena, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Green Iguana Conservation Project",
+            "osm_id": 5484427533,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51df9ff76b574456c0592334eb7420273140f00103f9010db9e54601000000920321477265656e20496775616e6120436f6e736572766174696f6e2050726f6a656374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0678358,
+          17.152839000151413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Caye Aquarium",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "iso3166_2": "BZ-BZ",
+        "lon": -87.6075978,
+        "lat": 17.2130056,
+        "formatted": "Long Caye Aquarium, Belize District, Belize",
+        "address_line1": "Long Caye Aquarium",
+        "address_line2": "Belize District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Long Caye Aquarium",
+            "sport": "scuba_diving",
+            "osm_id": 5484628121,
+            "name:es": "Acuario de Cayo Largo",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "scuba_diving:divespot": "yes"
+          }
+        },
+        "name_international": {
+          "es": "Acuario de Cayo Largo"
+        },
+        "place_id": "51c607e2e1e2e655c059b78af68887363140f00103f90199c8e846010000009203124c6f6e67204361796520417175617269756d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60759779999998,
+          17.213005600157626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seemore Adventures Dive Shop",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "city": "Hopkins Village",
+        "street": "Karina South Street Main",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.2800536,
+        "lat": 16.8534257,
+        "formatted": "Seemore Adventures Dive Shop, Karina South Street Main, Hopkins Village, Belize",
+        "address_line1": "Seemore Adventures Dive Shop",
+        "address_line2": "Karina South Street Main, Hopkins Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Seemore Adventures Dive Shop",
+            "osm_id": 5564997427,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512148ef65ec1156c05992944f1b7ada3040f00103f901331fb34b0100000092031c5365656d6f726520416476656e747572657320446976652053686f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.28005359999999,
+          16.85342570011978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterfall",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "street": "Tiger Fern Trail",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.4412015,
+        "lat": 16.7805547,
+        "formatted": "Waterfall, Tiger Fern Trail, Stann Creek District, Belize",
+        "address_line1": "Waterfall",
+        "address_line2": "Tiger Fern Trail, Stann Creek District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Waterfall",
+            "osm_id": 5564997428,
+            "name:de": "Wasserfall",
+            "name:es": "Cascada",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Wasserfall",
+          "es": "Cascada"
+        },
+        "place_id": "518f5c37a53c1c56c05943b8cd6ed2c73040f00103f901341fb34b01000000920309576174657266616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44120150000002,
+          16.780554700111917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben's Bluff",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "street": "Ben's Bluff Trail",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.4481796,
+        "lat": 16.7736012,
+        "formatted": "Ben's Bluff Trail, Stann Creek District, Belize",
+        "address_line1": "Ben's Bluff Trail",
+        "address_line2": "Stann Creek District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ben's Bluff",
+            "osm_id": 5564997429,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51002f7df9ae1c56c059b29f6eba0ac63040f00103f901351fb34b0100000092030b42656e277320426c756666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4481796,
+          16.773601200111166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natural Arch",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "district": "Millionario",
+        "street": "Natural Arch Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.049326,
+        "lat": 16.6153393,
+        "formatted": "Natural Arch Trail, Millionario, Belize",
+        "address_line1": "Natural Arch Trail",
+        "address_line2": "Millionario, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Natural Arch",
+            "osm_id": 5601032625,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eb353d28284356c059c6d859e0869d3040f00103f901b1f9d84d0100000092030c4e61747572616c2041726368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.049326,
+          16.615339300093886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caballito de Mar",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Alux Street",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0256471,
+        "lat": 17.7455982,
+        "formatted": "Caballito de Mar, Alux Street, Caye Caulker Village, Belize",
+        "address_line1": "Caballito de Mar",
+        "address_line2": "Alux Street, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Caballito de Mar",
+            "osm_id": 5670864522,
+            "name:es": "Caballito de Mar",
+            "name:it": "Cavalluccio Marino",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Caballito de Mar",
+          "it": "Cavalluccio Marino"
+        },
+        "place_id": "512fefbb33a40156c05922dc0d86dfbe3140f00103f9018a86025201000000920310436162616c6c69746f206465204d6172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0256471,
+          17.745598200210345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dawn Shaw Falls",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Granite Cairn Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9291469,
+        "lat": 16.988233,
+        "formatted": "Dawn Shaw Falls, Granite Cairn Road, Cayo District, Belize",
+        "address_line1": "Dawn Shaw Falls",
+        "address_line2": "Granite Cairn Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dawn Shaw Falls",
+            "osm_id": 5697465813,
+            "tourism": "attraction",
+            "alt_name": "Granite Falls",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "Granite Falls"
+        },
+        "place_id": "51812b8f24773b56c059766780d6fcfc3040f00103f901d56d98530100000092030f4461776e20536861772046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.92914689999999,
+          16.98823300013415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Signs by Allie",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "suburb": "Bahía Puesta del Sol",
+        "street": "Aventurera Street",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0253755,
+        "lat": 17.7422911,
+        "formatted": "Signs by Allie, Aventurera Street, Caye Caulker Village, Belize",
+        "address_line1": "Signs by Allie",
+        "address_line2": "Aventurera Street, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Signs by Allie",
+            "osm_id": 5857620286,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a7a78fc09f0156c0598f831fca06be3140f00103f9013e31245d0100000092030e5369676e7320627920416c6c6965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02537549999998,
+          17.74229110021002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Familia Sinkholes",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Bullet Tree Falls",
+        "street": "El Pilar Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0993041,
+        "lat": 17.2169111,
+        "formatted": "Santa Familia Sinkholes, El Pilar Road, Bullet Tree Falls, Belize",
+        "address_line1": "Santa Familia Sinkholes",
+        "address_line2": "El Pilar Road, Bullet Tree Falls, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Santa Familia Sinkholes",
+            "osm_id": 6008988835,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f47695ff5a4656c0597051617c87373140f00103f901a3e429660100000092031753616e74612046616d696c69612053696e6b686f6c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09930409999998,
+          17.21691110015803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slate Creek Overlook",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Chiquibul Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9667606,
+        "lat": 17.0783573,
+        "formatted": "Slate Creek Overlook, Chiquibul Road, Cayo District, Belize",
+        "address_line1": "Slate Creek Overlook",
+        "address_line2": "Chiquibul Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Slate Creek Overlook",
+            "osm_id": 6077116219,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ed03da67df3d56c059148559390f143140f00103f9013b6f396a01000000920314536c61746520437265656b204f7665726c6f6f6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9667606,
+          17.07835730014365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinol Cascade",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Chiquibul Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9736934,
+        "lat": 17.0092914,
+        "formatted": "Pinol Cascade, Chiquibul Road, Cayo District, Belize",
+        "address_line1": "Pinol Cascade",
+        "address_line2": "Chiquibul Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pinol Cascade",
+            "osm_id": 6080823878,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5130551ffe503e56c05945b8d3eb60023140f00103f9014602726a0100000092030d50696e6f6c2043617363616465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9736934,
+          17.00929140013638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Actun Tunichil Muknal Site Entrance",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Arizona Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8506669,
+        "lat": 17.128719,
+        "formatted": "Actun Tunichil Muknal Site Entrance, Arizona Road, Cayo District, Belize",
+        "address_line1": "Actun Tunichil Muknal Site Entrance",
+        "address_line2": "Arizona Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Actun Tunichil Muknal Site Entrance",
+            "osm_id": 6094085978,
+            "tourism": "attraction",
+            "operator": "National Institute of Culture and History",
+            "osm_type": "n"
+          }
+        },
+        "operator": "National Institute of Culture and History",
+        "place_id": "518ad29453713656c0596b0378baf3203140f00103f9015a5f3c6b01000000920323416374756e2054756e696368696c204d756b6e616c205369746520456e7472616e6365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8506669,
+          17.1287190001489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacbitun Farm",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Noh Beh Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9874592,
+        "lat": 17.0899137,
+        "formatted": "Pacbitun Farm, Noh Beh Road, Cayo District, Belize",
+        "address_line1": "Pacbitun Farm",
+        "address_line2": "Noh Beh Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pacbitun Farm",
+            "osm_id": 6094117340,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5199881288323f56c059a395919504173140f00103f901dcd93c6b0100000092030d506163626974756e204661726d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9874592,
+          17.08991370014486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Privassion Pool",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Privassion Bridge",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9473858,
+        "lat": 17.0348155,
+        "formatted": "Privassion Pool, Privassion Bridge, Cayo District, Belize",
+        "address_line1": "Privassion Pool",
+        "address_line2": "Privassion Bridge, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Privassion Pool",
+            "osm_id": 6111603573,
+            "tourism": "attraction",
+            "alt_name": "Sandy Beach",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "Sandy Beach"
+        },
+        "place_id": "5178ec0cf8a13c56c059c37d2aabe9083140f00103f90175ab476c0100000092030f50726976617373696f6e20506f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9473858,
+          17.034815500139086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abandoned Turpentine Factory",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "1963 Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9960139,
+        "lat": 17.0146508,
+        "formatted": "Abandoned Turpentine Factory, 1963 Road, Cayo District, Belize",
+        "address_line1": "Abandoned Turpentine Factory",
+        "address_line2": "1963 Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Abandoned Turpentine Factory",
+            "osm_id": 6111732583,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5120b715b1be3f56c059cd72a327c0033140f00103f90167a3496c0100000092031c4162616e646f6e65642054757270656e74696e6520466163746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99601389999998,
+          17.014650800136952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Frio Cave C",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Augustine",
+        "street": "Rio Frio Cave Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.007172,
+        "lat": 16.9792148,
+        "formatted": "Rio Frio Cave C, Rio Frio Cave Road, Augustine, Belize",
+        "address_line1": "Rio Frio Cave C",
+        "address_line2": "Rio Frio Cave Road, Augustine, Belize",
+        "categories": [
+          "access",
+          "access.yes",
+          "natural",
+          "natural.mountain",
+          "natural.mountain.cave_entrance",
+          "no_fee",
+          "no_fee.no",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "Rio Frio Cave C",
+            "access": "yes",
+            "osm_id": 6111811642,
+            "natural": "cave_entrance",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "519a5c8c81754056c059d05436d2adfa3040f00103f9013ad84a6c0100000092030f52696f204672696f20436176652043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.007172,
+          16.979214800133207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaax Tun",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "El Progresso",
+        "district": "Seven Miles",
+        "street": "Seven Miles / El Progresso Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9387605,
+        "lat": 17.095286,
+        "formatted": "Kaax Tun, Seven Miles / El Progresso Road, El Progresso, Belize",
+        "address_line1": "Kaax Tun",
+        "address_line2": "Seven Miles / El Progresso Road, El Progresso, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kaax Tun",
+            "osm_id": 6177349725,
+            "tourism": "attraction",
+            "operator": "Julio Ruano",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Julio Ruano",
+        "place_id": "51b391eba6143c56c0592764cea964183140f00103f9015de03270010000009203084b6161782054756e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.93876049999999,
+          17.095286000145418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradise Earth",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Central Farm",
+        "street": "Baking Pot Ferry Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -89.0136663,
+        "lat": 17.2046895,
+        "formatted": "Paradise Earth, Baking Pot Ferry Road, Central Farm, Belize",
+        "address_line1": "Paradise Earth",
+        "address_line2": "Baking Pot Ferry Road, Central Farm, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paradise Earth",
+            "osm_id": 6177384980,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51abe39de8df4056c0590602f58766343140f00103f901146a33700100000092030e5061726164697365204561727468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0136663,
+          17.204689500156768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chocolate La Especial",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "city": "Camalote",
+        "street": "Calbo Street",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8281004,
+        "lat": 17.2463173,
+        "formatted": "chocolate La Especial, Calbo Street, Camalote, Belize",
+        "address_line1": "chocolate La Especial",
+        "address_line2": "Calbo Street, Camalote, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "chocolate La Especial",
+            "osm_id": 6682274085,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517df3d198ff3456c05976a18ca60e3f3140f00103f90125694b8e0100000092031563686f636f6c617465204c6120457370656369616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8281004,
+          17.246317300161046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATM Cave",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Arizona Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8617594,
+        "lat": 17.1143345,
+        "formatted": "ATM Cave, Arizona Road, Cayo District, Belize",
+        "address_line1": "ATM Cave",
+        "address_line2": "Arizona Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ATM Cave",
+            "osm_id": 6716580386,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515101e610273756c05908f09a06451d3140f00103f90122e256900100000092030841544d2043617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8617594,
+          17.114334500147407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tarpon viewing & feeding spot",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Calle La Poza",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.024815,
+        "lat": 17.7473142,
+        "formatted": "Tarpon viewing & feeding spot, Calle La Poza, Caye Caulker Village, Belize",
+        "address_line1": "Tarpon viewing & feeding spot",
+        "address_line2": "Calle La Poza, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tarpon viewing & feeding spot",
+            "osm_id": 6983350186,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d15ca791960156c05995bdc1fb4fbf3140f00103f901aa773da00100000092031d546172706f6e2076696577696e6720262066656564696e672073706f74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.024815,
+          17.747314200210514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seahorse habitat viewing",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Belize District",
+        "city": "Caye Caulker Village",
+        "street": "Alux Street",
+        "iso3166_2": "BZ-BZ",
+        "lon": -88.0255035,
+        "lat": 17.7453935,
+        "formatted": "Seahorse habitat viewing, Alux Street, Caye Caulker Village, Belize",
+        "address_line1": "Seahorse habitat viewing",
+        "address_line2": "Alux Street, Caye Caulker Village, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Seahorse habitat viewing",
+            "osm_id": 6983350585,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bf9b6ed9a10156c059e60dc21bd2be3140f00103f90139793da001000000920318536561686f72736520686162697461742076696577696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0255035,
+          17.74539350021032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenton Canyon",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "1963 Line",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9951255,
+        "lat": 16.9972477,
+        "formatted": "Kenton Canyon, 1963 Line, Cayo District, Belize",
+        "address_line1": "Kenton Canyon",
+        "address_line2": "1963 Line, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kenton Canyon",
+            "osm_id": 7074099205,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519a7add22b03f56c0596e1712a04bff3040f00103f9010530a6a50100000092030d4b656e746f6e2043616e796f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9951255,
+          16.997247700135112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linear Rapids",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "1963 Line",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9941852,
+        "lat": 16.9971613,
+        "formatted": "Linear Rapids, 1963 Line, Cayo District, Belize",
+        "address_line1": "Linear Rapids",
+        "address_line2": "1963 Line, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Linear Rapids",
+            "osm_id": 7074099244,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b30af6baa03f56c059c6ea84f645ff3040f00103f9012c30a6a50100000092030d4c696e65617220526170696473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99418519999999,
+          16.997161300135097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiger Creek Pools",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Lake Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.9049855,
+        "lat": 17.0657308,
+        "formatted": "Tiger Creek Pools, Lake Trail, Cayo District, Belize",
+        "address_line1": "Tiger Creek Pools",
+        "address_line2": "Lake Trail, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tiger Creek Pools",
+            "osm_id": 7086664728,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ab764d48eb3956c05982f3d4bbd3103140f00103f90118ec65a601000000920311546967657220437265656b20506f6f6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9049855,
+          17.065730800142326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiger Creek Falls Lookout",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Lake Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.905948,
+        "lat": 17.0646123,
+        "formatted": "Tiger Creek Falls Lookout, Lake Trail, Cayo District, Belize",
+        "address_line1": "Tiger Creek Falls Lookout",
+        "address_line2": "Lake Trail, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tiger Creek Falls Lookout",
+            "osm_id": 7086664729,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5119f8510dfb3956c059b807846e8a103140f00103f90119ec65a601000000920319546967657220437265656b2046616c6c73204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.90594799999998,
+          17.064612300142215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bull's Point Lookout",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Dumbcane Road",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8866652,
+        "lat": 17.069556,
+        "formatted": "Bull's Point Lookout, Dumbcane Road, Cayo District, Belize",
+        "address_line1": "Bull's Point Lookout",
+        "address_line2": "Dumbcane Road, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bull's Point Lookout",
+            "osm_id": 7086664730,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511420651fbf3856c05984da096cce113140f00103f9011aec65a60100000092031442756c6c277320506f696e74204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.88666519999998,
+          17.069556000142725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidden Pool",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Cayo District",
+        "street": "Secret Pools Trail",
+        "iso3166_2": "BZ-CY",
+        "lon": -88.8701116,
+        "lat": 17.0630954,
+        "formatted": "Hidden Pool, Secret Pools Trail, Cayo District, Belize",
+        "address_line1": "Hidden Pool",
+        "address_line2": "Secret Pools Trail, Cayo District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hidden Pool",
+            "osm_id": 7086664767,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b27790e8af3756c0595e23280527103140f00103f9013fec65a60100000092030b48696464656e20506f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8701116,
+          17.063095400142053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plane Wreck",
+        "country": "Belize",
+        "country_code": "bz",
+        "state": "Stann Creek District",
+        "street": "Tinamou Trail",
+        "iso3166_2": "BZ-SC",
+        "lon": -88.4475449,
+        "lat": 16.7858504,
+        "formatted": "Plane Wreck, Tinamou Trail, Stann Creek District, Belize",
+        "address_line1": "Plane Wreck",
+        "address_line2": "Tinamou Trail, Stann Creek District, Belize",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plane Wreck",
+            "osm_id": 7147715685,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51763f5d93a41c56c0591c08e87d2dc93040f00103f901657c09aa0100000092030b506c616e6520577265636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4475449,
+          16.785850400112494
+        ]
+      }
+    }
+  ]
+}

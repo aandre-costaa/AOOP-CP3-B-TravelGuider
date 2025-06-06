@@ -1,0 +1,4958 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Grotto Main Entrance",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Discovery Bay",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.3740813,
+        "lat": 18.4604734,
+        "formatted": "Green Grotto Main Entrance, Northern Coastal Highway, Discovery Bay, Jamaica",
+        "address_line1": "Green Grotto Main Entrance",
+        "address_line2": "Northern Coastal Highway, Discovery Bay, Jamaica",
+        "categories": [
+          "fee",
+          "natural",
+          "natural.mountain",
+          "natural.mountain.cave_entrance",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Green Grotto Main Entrance",
+            "phone": "1 876 973 2841",
+            "osm_id": 3692128724,
+            "natural": "cave_entrance",
+            "tourism": "attraction",
+            "website": "https://greengrottocavesja.com/",
+            "osm_type": "n",
+            "wikidata": "Q5602610",
+            "opening_hours": "Su-Sa 09:00-16:00"
+          }
+        },
+        "website": "https://greengrottocavesja.com/",
+        "opening_hours": "Su-Sa 09:00-16:00",
+        "contact": {
+          "phone": "1 876 973 2841"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5602610"
+        },
+        "place_id": "51e462b1f2f05753c0594cdab295e1753240f00103f901d46911dc0000000092031a477265656e2047726f74746f204d61696e20456e7472616e6365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3740813,
+          18.46047340027353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose Hall Great House (1770)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "city": "Mount Zion",
+        "street": "Rose Hall Road",
+        "iso3166_2": "JM-08",
+        "lon": -77.81919712160261,
+        "lat": 18.516315249999998,
+        "formatted": "Rose Hall Great House (1770), Rose Hall Road, Mount Zion, Jamaica",
+        "address_line1": "Rose Hall Great House (1770)",
+        "address_line2": "Rose Hall Road, Mount Zion, Jamaica",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rose Hall Great House (1770)",
+            "email": "info@rosehall.com",
+            "phone": "+1 876 767 3425",
+            "osm_id": 403481256,
+            "tourism": "attraction",
+            "website": "https://rosehall.com/",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w",
+            "wikipedia": "en:Rose Hall, Montego Bay"
+          }
+        },
+        "website": "https://rosehall.com/",
+        "contact": {
+          "phone": "+1 876 767 3425",
+          "email": "info@rosehall.com"
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Rose Hall, Montego Bay"
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "51ad90c3b96d7453c059cc5e7a3c2d843240f00102f901a8a20c180000000092031c526f73652048616c6c20477265617420486f75736520283137373029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.81919712160261,
+          18.516315250278055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunn's River Falls and Park",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.1377324,
+        "lat": 18.4155014,
+        "formatted": "Dunn's River Falls and Park, Northern Coastal Highway, Ocho Rios, Jamaica",
+        "address_line1": "Dunn's River Falls and Park",
+        "address_line2": "Northern Coastal Highway, Ocho Rios, Jamaica",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fax": "1 876 974 5197",
+            "fee": "yes",
+            "name": "Dunn's River Falls and Park",
+            "email": "dunnsriver@udcjm.com",
+            "phone": "1 876 974 5944",
+            "osm_id": 290801761,
+            "tourism": "attraction",
+            "operator": "Urban Development Corporation (UDC)",
+            "osm_type": "n",
+            "addr:country": "JM",
+            "opening_hours": "08:30-16:30"
+          }
+        },
+        "opening_hours": "08:30-16:30",
+        "operator": "Urban Development Corporation (UDC)",
+        "contact": {
+          "phone": "1 876 974 5944",
+          "email": "dunnsriver@udcjm.com",
+          "fax": "1 876 974 5197"
+        },
+        "place_id": "5160668e9bd04853c059e699bd4c5e6a3240f00103f901614855110000000092031b44756e6e27732052697665722046616c6c7320616e64205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1377324,
+          18.41550140026984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS Falls Office",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Cambridge",
+        "hamlet": "Orange Hill",
+        "district": "Mount Reece",
+        "street": "B6",
+        "iso3166_2": "JM-11",
+        "lon": -77.82822178670102,
+        "lat": 18.1403216,
+        "formatted": "YS Falls Office, B6, Cambridge, Jamaica",
+        "address_line1": "YS Falls Office",
+        "address_line2": "B6, Cambridge, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "YS Falls Office",
+            "osm_id": 318426378,
+            "tourism": "attraction",
+            "website": "https://ysfalls.com",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Middle Quarters",
+            "opening_hours": "Tu-Su 09:00-15:00; PH off"
+          }
+        },
+        "website": "https://ysfalls.com",
+        "opening_hours": "Tu-Su 09:00-15:00; PH off",
+        "place_id": "51ccedf395017553c05910fbcb1dec233240f00102f9010acdfa120000000092030f59532046616c6c73204f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.82822178670102,
+          18.14032160024641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockfort Mineral Bath Complex",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "street": "Sir Florizel Glaspole Boulevard",
+        "lon": -76.73521470953418,
+        "lat": 17.966301100000003,
+        "formatted": "Rockfort Mineral Bath Complex, Sir Florizel Glaspole Boulevard, Kingston, Jamaica",
+        "address_line1": "Rockfort Mineral Bath Complex",
+        "address_line2": "Sir Florizel Glaspole Boulevard, Kingston, Jamaica",
+        "categories": [
+          "sport",
+          "sport.swimming_pool",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rockfort Mineral Bath Complex",
+            "osm_id": 328990200,
+            "landuse": "commercial",
+            "leisure": "swimming_pool",
+            "tourism": "attraction",
+            "website": "https://www.caribcement.com/community/community/2014/05/21/ROCKFORT-MINERAL-BATH-COMPLEX-(RMBC)",
+            "historic": "baths",
+            "operator": "Carib Cement Company",
+            "osm_type": "w",
+            "description": "Public baths with mineral-rich water, probably first constructed 1694. Also an hisoric fort.",
+            "opening_hours": "Tu-Fr 08:00-16:00; Sa-Su 07:00-18:00"
+          }
+        },
+        "website": "https://www.caribcement.com/community/community/2014/05/21/ROCKFORT-MINERAL-BATH-COMPLEX-(RMBC)",
+        "opening_hours": "Tu-Fr 08:00-16:00; Sa-Su 07:00-18:00",
+        "operator": "Carib Cement Company",
+        "description": "Public baths with mineral-rich water, probably first constructed 1694. Also an hisoric fort.",
+        "historic": {
+          "type": "baths"
+        },
+        "place_id": "51323fffc10d2f53c0598e9447825ff73140f00102f901f8fd9b130000000092031d526f636b666f7274204d696e6572616c204261746820436f6d706c6578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73521470953418,
+          17.966301100230844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margaritaville",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "city": "Montego Bay",
+        "street": "Gloucester Avenue/Jimmy Cliff Boulevard",
+        "iso3166_2": "JM-08",
+        "lon": -77.93032372133585,
+        "lat": 18.483857,
+        "formatted": "Margaritaville, Gloucester Avenue/Jimmy Cliff Boulevard, Montego Bay, Jamaica",
+        "address_line1": "Margaritaville",
+        "address_line2": "Gloucester Avenue/Jimmy Cliff Boulevard, Montego Bay, Jamaica",
+        "categories": [
+          "building",
+          "building.catering",
+          "building.tourism",
+          "catering",
+          "catering.restaurant",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Margaritaville",
+            "phone": "1 876 952 4777",
+            "osm_id": 371390426,
+            "amenity": "restaurant",
+            "cuisine": "international;caribbean;local",
+            "tourism": "attraction",
+            "website": "https://www.margaritavillecaribbean.com/",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://www.margaritavillecaribbean.com/",
+        "contact": {
+          "phone": "1 876 952 4777"
+        },
+        "catering": {
+          "cuisine": "international;caribbean;local"
+        },
+        "place_id": "512775816c8a7b53c059a61f680dde7b3240f00102f901daf722160000000092030e4d617267617269746176696c6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93032372133585,
+          18.483857000275428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Charles Main Building, 1655",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Port Royal",
+        "street": "Church Street",
+        "lon": -76.84245483841667,
+        "lat": 17.935132250000002,
+        "formatted": "Fort Charles Main Building, 1655, Church Street, Port Royal, Jamaica",
+        "address_line1": "Fort Charles Main Building, 1655",
+        "address_line2": "Church Street, Port Royal, Jamaica",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fort Charles Main Building, 1655",
+            "osm_id": 375748185,
+            "tourism": "attraction",
+            "website": "http://www.jnht.com/site_fort_charles.php",
+            "building": "yes",
+            "historic": "ruins",
+            "osm_type": "w",
+            "start_date": 1650,
+            "opening_hours": "Mo-Sa 09:00-16:45"
+          }
+        },
+        "website": "http://www.jnht.com/site_fort_charles.php",
+        "opening_hours": "Mo-Sa 09:00-16:45",
+        "historic": {
+          "type": "ruins",
+          "start_date": 1650
+        },
+        "building": {
+          "start_date": 1650
+        },
+        "place_id": "51d1d6b2c7ea3553c059062ac0d364ef3140f00102f9015976651600000000920320466f727420436861726c6573204d61696e204275696c64696e672c2031363535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84245483841666,
+          17.935132250228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glistening Waters",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Florence Hall",
+        "hamlet": "Rock",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-07",
+        "lon": -77.62820826042194,
+        "lat": 18.4830377,
+        "formatted": "Glistening Waters, Northern Coastal Highway, Florence Hall, Jamaica",
+        "address_line1": "Glistening Waters",
+        "address_line2": "Northern Coastal Highway, Florence Hall, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Glistening Waters",
+            "phone": "+1 876 954-3229",
+            "osm_id": 412578418,
+            "tourism": "attraction",
+            "website": "https://www.glisteningwaters.com/",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://www.glisteningwaters.com/",
+        "contact": {
+          "phone": "+1 876 954-3229"
+        },
+        "place_id": "51b7656b90346853c059f16ad55ba87b3240f00102f9017272971800000000920311476c697374656e696e6720576174657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.62820826042194,
+          18.483037700275364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Two Sister's Cave",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Portmore",
+        "street": "Manatee Avenue",
+        "iso3166_2": "JM-14",
+        "lon": -76.9031244,
+        "lat": 17.8841418,
+        "formatted": "Two Sister's Cave, Manatee Avenue, Portmore, Jamaica",
+        "address_line1": "Two Sister's Cave",
+        "address_line2": "Manatee Avenue, Portmore, Jamaica",
+        "categories": [
+          "natural",
+          "natural.mountain",
+          "natural.mountain.cave_entrance",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Two Sister's Cave",
+            "phone": "+1 876 656 8031",
+            "osm_id": 2603741792,
+            "natural": "cave_entrance",
+            "tourism": "attraction",
+            "website": "http://www.udcja.com/two-sisters-caves",
+            "operator": "UDC",
+            "osm_type": "n",
+            "addr:city": "Portmore"
+          }
+        },
+        "website": "http://www.udcja.com/two-sisters-caves",
+        "operator": "UDC",
+        "contact": {
+          "phone": "+1 876 656 8031"
+        },
+        "place_id": "510f8e48cacc3953c05957fcf41d57e23140f00103f90160f2319b0000000092031154776f2053697374657227732043617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90312440000001,
+          17.884141800223315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Y.S. Falls Visitor Centre",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Cambridge",
+        "hamlet": "Orange Hill",
+        "district": "Mount Reece",
+        "street": "B6",
+        "iso3166_2": "JM-11",
+        "lon": -77.8281299,
+        "lat": 18.1401956,
+        "formatted": "Y.S. Falls Visitor Centre, B6, Cambridge, Jamaica",
+        "address_line1": "Y.S. Falls Visitor Centre",
+        "address_line2": "B6, Cambridge, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Y.S. Falls Visitor Centre",
+            "osm_id": 3248315604,
+            "tourism": "attraction",
+            "website": "https://ysfalls.com/rates/",
+            "osm_type": "n",
+            "addr:street": "Middle Quarters",
+            "opening_hours": "Tu-Su 09:00-15:00; PH off"
+          }
+        },
+        "website": "https://ysfalls.com/rates/",
+        "opening_hours": "Tu-Su 09:00-15:00; PH off",
+        "place_id": "51bd558d14007553c059f119dedbe3233240f00103f901d45c9dc100000000920319592e532e2046616c6c732056697369746f722043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.82812989999998,
+          18.14019560024639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camp Irie Adventures",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Maggotty",
+        "hamlet": "Vauxhall",
+        "district": "New Holland",
+        "street": "B6",
+        "iso3166_2": "JM-11",
+        "lon": -77.7520896,
+        "lat": 18.164779,
+        "formatted": "Camp Irie Adventures, B6, Maggotty, Jamaica",
+        "address_line1": "Camp Irie Adventures",
+        "address_line2": "B6, Maggotty, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Camp Irie Adventures",
+            "osm_id": 11100474849,
+            "tourism": "attraction",
+            "website": "https://campirie.com/",
+            "osm_type": "n",
+            "addr:city": "Maggotty",
+            "opening_hours": "Tu-Su 09:00-17:00"
+          }
+        },
+        "website": "https://campirie.com/",
+        "opening_hours": "Tu-Su 09:00-17:00",
+        "place_id": "515aea6a3c227053c0599522e1f42e2a3240f00103f901e1cda3950200000092031443616d70204972696520416476656e7475726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7520896,
+          18.164779000248547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Y. S. Falls",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Redgate",
+        "street": "Redgate Road",
+        "iso3166_2": "JM-11",
+        "lon": -77.8250374,
+        "lat": 18.1548926,
+        "formatted": "Y. S. Falls, Redgate Road, Redgate, Jamaica",
+        "address_line1": "Y. S. Falls",
+        "address_line2": "Redgate Road, Redgate, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Y. S. Falls",
+            "osm_id": 290803074,
+            "tourism": "attraction",
+            "website": "https://www.ysfalls.com/",
+            "osm_type": "n",
+            "addr:country": "JM"
+          }
+        },
+        "website": "https://www.ysfalls.com/",
+        "place_id": "5185beaa69cd7453c059c6749c0aa7273240f00103f901824d55110000000092030b592e20532e2046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8250374,
+          18.15489260024767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mystic Mountain",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.12716609653577,
+        "lat": 18.414654900000002,
+        "formatted": "Mystic Mountain, Northern Coastal Highway, Ocho Rios, Jamaica",
+        "address_line1": "Mystic Mountain",
+        "address_line2": "Northern Coastal Highway, Ocho Rios, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Mystic Mountain",
+            "osm_id": 374192693,
+            "tourism": "attraction",
+            "website": "http://www.rainforestadventure.com/jamaica-mystic-mountain/",
+            "operator": "Rain Forest Adventures",
+            "osm_type": "w"
+          }
+        },
+        "website": "http://www.rainforestadventure.com/jamaica-mystic-mountain/",
+        "operator": "Rain Forest Adventures",
+        "place_id": "51fd71447d234853c059e8c8d3d2266a3240f00102f90135ba4d160000000092030f4d7973746963204d6f756e7461696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12716609653576,
+          18.414654900269767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hot off the press",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Andrew",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "suburb": "New Kingston",
+        "street": "Grenada Crescent",
+        "iso3166_2": "JM-02",
+        "lon": -76.7891799,
+        "lat": 18.0069462,
+        "formatted": "hot off the press, Grenada Crescent, New Kingston, Kingston, Jamaica",
+        "address_line1": "hot off the press",
+        "address_line2": "Grenada Crescent, New Kingston, Kingston, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "hot off the press",
+            "phone": "+18769223400",
+            "osm_id": 4249631190,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "contact": {
+          "phone": "+18769223400"
+        },
+        "place_id": "51464a69ec813253c059bdd6e639c7013240f00103f901d6394cfd00000000920311686f74206f666620746865207072657373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7891799,
+          18.00694620023454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluefields Beach Park",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Westmoreland",
+        "state_district": "Cornwall County",
+        "city": "Bluefields",
+        "district": "Auldayr",
+        "street": "A2",
+        "iso3166_2": "JM-10",
+        "lon": -78.0321791,
+        "lat": 18.175013,
+        "formatted": "Bluefields Beach Park, A2, Bluefields, Jamaica",
+        "address_line1": "Bluefields Beach Park",
+        "address_line2": "A2, Bluefields, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bluefields Beach Park",
+            "osm_id": 5519049821,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 09:00-17:00"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "place_id": "515787ed380f8253c0593772e8a6cd2c3240f00103f9015d04f64801000000920315426c75656669656c6473204265616368205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0321791,
+          18.175013000249432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Island Village",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.11081581108007,
+        "lat": 18.406510949999998,
+        "formatted": "Island Village, Northern Coastal Highway, Ocho Rios, Jamaica",
+        "address_line1": "Island Village",
+        "address_line2": "Northern Coastal Highway, Ocho Rios, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Island Village",
+            "osm_id": 231049685,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51fe1d339b174753c05923df041a11683240f00102f901d589c50d0000000092030e49736c616e642056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11081581108007,
+          18.40651095026909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamboo Avenue",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "iso3166_2": "JM-11",
+        "lon": -77.7916214961387,
+        "lat": 18.10521445,
+        "formatted": "Bamboo Avenue, Saint Elizabeth, Jamaica",
+        "address_line1": "Bamboo Avenue",
+        "address_line2": "Saint Elizabeth, Jamaica",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bamboo Avenue",
+            "osm_id": 264178633,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "517d2e35eda97253c05996dc8e55ef1a3240f00102f901c90bbf0f0000000092030d42616d626f6f204176656e7565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.79162149613872,
+          18.105214450243317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Somerset Falls",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Portland",
+        "state_district": "Surrey County",
+        "city": "Hope Bay",
+        "hamlet": "Hermitage",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-04",
+        "lon": -76.5541102,
+        "lat": 18.1951187,
+        "formatted": "Somerset Falls, Northern Coastal Highway, Hope Bay, Jamaica",
+        "address_line1": "Somerset Falls",
+        "address_line2": "Northern Coastal Highway, Hope Bay, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Somerset Falls",
+            "osm_id": 290802032,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Waterfall area in steeply walled gorge. Artificially landscape with pools.",
+            "addr:country": "JM"
+          }
+        },
+        "description": "Waterfall area in steeply walled gorge. Artificially landscape with pools.",
+        "place_id": "5152d8a08a762353c059ba6a944cf3313240f00103f901704955110000000092030e536f6d65727365742046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5541102,
+          18.195118700251193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbus Park",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Discovery Bay",
+        "district": "Old Folly",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.4150008,
+        "lat": 18.4657923,
+        "formatted": "Columbus Park, Northern Coastal Highway, Discovery Bay, Jamaica",
+        "address_line1": "Columbus Park",
+        "address_line2": "Northern Coastal Highway, Discovery Bay, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Columbus Park",
+            "osm_id": 290803537,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "addr:country": "JM"
+          }
+        },
+        "place_id": "5116f4835f8f5a53c059be67082a3e773240f00103f901514f55110000000092030d436f6c756d627573205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4150008,
+          18.465792300273954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devon House",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Andrew",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "suburb": "Half Way Tree",
+        "street": "Hope Road",
+        "housenumber": "26",
+        "iso3166_2": "JM-02",
+        "lon": -76.7899419,
+        "lat": 18.0147091,
+        "formatted": "Devon House, 26 Hope Road, Half Way Tree, Kingston, Jamaica",
+        "address_line1": "Devon House",
+        "address_line2": "26 Hope Road, Half Way Tree, Kingston, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Devon House",
+            "osm_id": 290803586,
+            "tourism": "attraction",
+            "operator": "Government of Jamaica",
+            "osm_type": "n",
+            "addr:street": "Hope Road",
+            "description": "First house of its stature built and owned by a black man in Jamaica, George Stiebel, a black Jamaican self-made millionaire . in 1881",
+            "addr:country": "JM",
+            "addr:housenumber": 26
+          }
+        },
+        "operator": "Government of Jamaica",
+        "description": "First house of its stature built and owned by a black man in Jamaica, George Stiebel, a black Jamaican self-made millionaire . in 1881",
+        "place_id": "515e8f78688e3253c059c476c0f9c3033240f00103f901824f55110000000092030b4465766f6e20486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7899419,
+          18.014709100235237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Royal Artillery Store “Giddy House” 1888",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Port Royal",
+        "street": "Florizel Avenue",
+        "lon": -76.842466,
+        "lat": 17.9340623,
+        "formatted": "The Royal Artillery Store “Giddy House” 1888, Florizel Avenue, Port Royal, Jamaica",
+        "address_line1": "The Royal Artillery Store “Giddy House” 1888",
+        "address_line2": "Florizel Avenue, Port Royal, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Royal Artillery Store “Giddy House” 1888",
+            "osm_id": 316150814,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "517c7f83f6ea3553c059c6e7f7b41eef3140f00102f9011e14d8120000000092033054686520526f79616c20417274696c6c6572792053746f726520e2809c476964647920486f757365e2809d2031383838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.842466,
+          17.9340623002279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christ Church (1840)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Portland",
+        "state_district": "Surrey County",
+        "city": "Port Antonio",
+        "street": "Harbour Street",
+        "iso3166_2": "JM-04",
+        "lon": -76.4498564917444,
+        "lat": 18.17713055,
+        "formatted": "Christ Church (1840), Harbour Street, Port Antonio, Jamaica",
+        "address_line1": "Christ Church (1840)",
+        "address_line2": "Harbour Street, Port Antonio, Jamaica",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Christ Church (1840)",
+            "osm_id": 335369251,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "alt_name": "Port Antonio's Anglican Church",
+            "building": "yes",
+            "osm_type": "w",
+            "religion": "christian"
+          }
+        },
+        "name_other": {
+          "alt_name": "Port Antonio's Anglican Church"
+        },
+        "place_of_worship": {
+          "religion": "christian"
+        },
+        "place_id": "51dffbe172ca1c53c059d171806d582d3240f00102f9012354fd13000000009203144368726973742043687572636820283138343029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4498564917444,
+          18.17713055024962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devon House",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Andrew",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "suburb": "Half Way Tree",
+        "street": "Phoenix Avenue",
+        "iso3166_2": "JM-02",
+        "lon": -76.7899952662801,
+        "lat": 18.0148195,
+        "formatted": "Devon House, Phoenix Avenue, Half Way Tree, Kingston, Jamaica",
+        "address_line1": "Devon House",
+        "address_line2": "Phoenix Avenue, Half Way Tree, Kingston, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Devon House",
+            "osm_id": 339345041,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51be2a4e488f3253c0597bdaf435cb033240f00102f90191fe39140000000092030b4465766f6e20486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7899952662801,
+          18.014819500235244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "J. Charles Swaby's Black River Safari",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Black River",
+        "street": "Crane Road",
+        "iso3166_2": "JM-11",
+        "lon": -77.84630851277839,
+        "lat": 18.022979399999997,
+        "formatted": "J. Charles Swaby's Black River Safari, Crane Road, Black River, Jamaica",
+        "address_line1": "J. Charles Swaby's Black River Safari",
+        "address_line2": "Crane Road, Black River, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "J. Charles Swaby's Black River Safari",
+            "osm_id": 342945829,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "516a2d2eeb297653c059c57e5cfae1053240f00102f90125f07014000000009203254a2e20436861726c6573205377616279277320426c61636b20526976657220536166617269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.84630851277839,
+          18.022979400235972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "hamlet": "Murphy Hill",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Governors Hill Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.1206228,
+        "lat": 18.4088351,
+        "formatted": "Jamaica Bobsleigh, Governors Hill Road, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Governors Hill Road, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "layer": -1,
+            "oneway": "yes",
+            "osm_id": 355551971,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "51b949b148b84753c0590d1dc96aa9683240f00102f901e34a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12062279999999,
+          18.40883510026929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.1212824,
+        "lat": 18.4104576,
+        "formatted": "Jamaica Bobsleigh, Northern Coastal Highway, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Northern Coastal Highway, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "oneway": "yes",
+            "osm_id": 355551972,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "5125654117c34753c059468dd1bf13693240f00102f901e44a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1212824,
+          18.41045760026943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "hamlet": "Murphy Hill",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Governors Hill Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.1207131,
+        "lat": 18.4089892,
+        "formatted": "Jamaica Bobsleigh, Governors Hill Road, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Governors Hill Road, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "layer": 1,
+            "oneway": "yes",
+            "osm_id": 355551973,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "5141f6d5b0ba4753c0591a6bd4c89d683240f00102f901e54a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1207697,
+          18.408657600269272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "hamlet": "Murphy Hill",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Governors Hill Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.1206388,
+        "lat": 18.4084299,
+        "formatted": "Jamaica Bobsleigh, Governors Hill Road, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Governors Hill Road, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "layer": -1,
+            "oneway": "yes",
+            "osm_id": 355551974,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "513c28cd8bb84753c059705da8dc8e683240f00102f901e64a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1206388,
+          18.408429900269255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "hamlet": "Murphy Hill",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Governors Hill Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.1209418,
+        "lat": 18.4096368,
+        "formatted": "Jamaica Bobsleigh, Governors Hill Road, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Governors Hill Road, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "oneway": "yes",
+            "osm_id": 355551975,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "5109eeac82bd4753c0591b6514f5dd683240f00102f901e74a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12094179999998,
+          18.40963680026935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.1222411,
+        "lat": 18.4106272,
+        "formatted": "Jamaica Bobsleigh, Northern Coastal Highway, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Northern Coastal Highway, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "oneway": "yes",
+            "osm_id": 355551976,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "5188ae55ccd24753c0595a013cdd1e693240f00102f901e84a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1222411,
+          18.410627200269438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.1213469,
+        "lat": 18.4102972,
+        "formatted": "Jamaica Bobsleigh, Northern Coastal Highway, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Northern Coastal Highway, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "layer": 1,
+            "oneway": "yes",
+            "osm_id": 355551977,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "5125bec925c44753c05926ccc03c09693240f00102f901e94a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1213469,
+          18.410297200269405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.1216397,
+        "lat": 18.4104221,
+        "formatted": "Jamaica Bobsleigh, Northern Coastal Highway, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Northern Coastal Highway, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "layer": -1,
+            "oneway": "yes",
+            "osm_id": 355551978,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "514c59e1f1c84753c0597d363a6c11693240f00102f901ea4a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1216397,
+          18.410422100269432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "hamlet": "Murphy Hill",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Governors Hill Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.1205294,
+        "lat": 18.4083301,
+        "formatted": "Jamaica Bobsleigh, Governors Hill Road, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Governors Hill Road, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "layer": 0,
+            "oneway": "yes",
+            "osm_id": 355551979,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "5137cdf1c0b64753c059fba04a5288683240f00102f901eb4a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1205294,
+          18.40833010026925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "hamlet": "Murphy Hill",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Governors Hill Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.1207347,
+        "lat": 18.4085182,
+        "formatted": "Jamaica Bobsleigh, Governors Hill Road, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Governors Hill Road, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "oneway": "yes",
+            "osm_id": 355551980,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "5183ff081eba4753c0592bfa15a694683240f00102f901ec4a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1207347,
+          18.408518200269253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamaica Bobsleigh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "hamlet": "Murphy Hill",
+        "district": "Ocho Rios",
+        "neighbourhood": "Columbus Heights",
+        "street": "Governors Hill Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.1202504,
+        "lat": 18.4081833,
+        "formatted": "Jamaica Bobsleigh, Governors Hill Road, Ocho Rios, Jamaica",
+        "address_line1": "Jamaica Bobsleigh",
+        "address_line2": "Governors Hill Road, Ocho Rios, Jamaica",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jamaica Bobsleigh",
+            "oneway": "yes",
+            "osm_id": 355551981,
+            "leisure": "track",
+            "surface": "railway",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "bobsleigh"
+          }
+        },
+        "place_id": "512ed5bb2eb24753c059026e65b37e683240f00102f901ed4a3115000000009203114a616d6169636120426f62736c65696768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1202504,
+          18.408183300269236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doctor's Cave Bathing Club",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "city": "Montego Bay",
+        "street": "Gloucester Avenue/Jimmy Cliff Boulevard",
+        "iso3166_2": "JM-08",
+        "lon": -77.92886505,
+        "lat": 18.486706050000002,
+        "formatted": "Doctor's Cave Bathing Club, Gloucester Avenue/Jimmy Cliff Boulevard, Montego Bay, Jamaica",
+        "address_line1": "Doctor's Cave Bathing Club",
+        "address_line2": "Gloucester Avenue/Jimmy Cliff Boulevard, Montego Bay, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Doctor's Cave Bathing Club",
+            "osm_id": 371442724,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "516f096586727b53c05905b388c4987c3240f00102f90124c423160000000092031a446f63746f72277320436176652042617468696e6720436c7562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.92886505,
+          18.48670605027566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historic Court House (1774)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "city": "Montego Bay",
+        "street": "Market Street",
+        "iso3166_2": "JM-08",
+        "lon": -77.92321729893982,
+        "lat": 18.473574749999997,
+        "formatted": "Historic Court House (1774), Market Street, Montego Bay, Jamaica",
+        "address_line1": "Historic Court House (1774)",
+        "address_line2": "Market Street, Montego Bay, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Historic Court House (1774)",
+            "osm_id": 371544345,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51118302fe157b53c05906a4e0313c793240f00102f901195125160000000092031b486973746f72696320436f75727420486f75736520283137373429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9232172989398,
+          18.473574750274587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterloo Guest House",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Black River",
+        "street": "High Street",
+        "iso3166_2": "JM-11",
+        "lon": -77.851384,
+        "lat": 18.02476155,
+        "formatted": "Waterloo Guest House, High Street, Black River, Jamaica",
+        "address_line1": "Waterloo Guest House",
+        "address_line2": "High Street, Black River, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Waterloo Guest House",
+            "osm_id": 374627862,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "519c1551137d7653c0596476e0c556063240f00102f901165e54160000000092031457617465726c6f6f20477565737420486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.851384,
+          18.024761550236136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Peters Anglican Church (1796)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Falmouth",
+        "district": "Winns Morass",
+        "street": "Pitt Street",
+        "iso3166_2": "JM-07",
+        "lon": -77.65706253043388,
+        "lat": 18.4929357,
+        "formatted": "St. Peters Anglican Church (1796), Pitt Street, Falmouth, Jamaica",
+        "address_line1": "St. Peters Anglican Church (1796)",
+        "address_line2": "Pitt Street, Falmouth, Jamaica",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "St. Peters Anglican Church (1796)",
+            "osm_id": 543524071,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "religion": "christian"
+          }
+        },
+        "place_of_worship": {
+          "religion": "christian"
+        },
+        "place_id": "51fce8ff4f0d6a53c0598cb7b708317e3240f00102f901e78465200000000092032153742e2050657465727320416e676c6963616e2043687572636820283137393629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65706253043385,
+          18.492935700276163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UWI Honour Roll Monument",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "suburb": "Mona",
+        "lon": -76.74366989235187,
+        "lat": 18.00450035,
+        "formatted": "UWI Honour Roll Monument, Mona, Kingston, Kingston and Saint Andrew Corporation, Jamaica",
+        "address_line1": "UWI Honour Roll Monument",
+        "address_line2": "Mona, Kingston, Kingston and Saint Andrew Corporation, Jamaica",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "UWI Honour Roll Monument",
+            "osm_id": 591548844,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "Kingston 7",
+            "addr:street": "Gibraltar Camp Road",
+            "description": "A Park dedicated to those past students that are currently or have been heads of state. The Bell inside belonged to the Sacred Heart Church at the site now called the Old Library."
+          }
+        },
+        "description": "A Park dedicated to those past students that are currently or have been heads of state. The Bell inside belonged to the Sacred Heart Church at the site now called the Old Library.",
+        "place_id": "51f4aa9a49982f53c059b01359ef26013240f00102f901ac5142230000000092031855574920486f6e6f757220526f6c6c204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74366989235187,
+          18.00450035023431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zip-line Over Dunn's River",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Ocho Rios",
+        "district": "Ocho Rios",
+        "iso3166_2": "JM-06",
+        "lon": -77.13883510097874,
+        "lat": 18.41612855,
+        "formatted": "Zip-line Over Dunn's River, Ocho Rios, Saint Ann, Jamaica",
+        "address_line1": "Zip-line Over Dunn's River",
+        "address_line2": "Ocho Rios, Saint Ann, Jamaica",
+        "categories": [
+          "fee",
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Zip-line Over Dunn's River",
+            "osm_id": 614522632,
+            "leisure": "park",
+            "tourism": "attraction",
+            "location": "platform",
+            "operator": "Chukka",
+            "osm_type": "w",
+            "description": "Eleven aerial elements between trees within the Dunn's River park. Fee in addition to park entrance fee."
+          }
+        },
+        "operator": "Chukka",
+        "description": "Eleven aerial elements between trees within the Dunn's River park. Fee in addition to park entrance fee.",
+        "place_id": "51648f9eace24853c05952579266876a3240f00102f90108dfa0240000000092031a5a69702d6c696e65204f7665722044756e6e2773205269766572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13883510097872,
+          18.416128550269896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Bay Cultural Center",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Treasure Beach",
+        "hamlet": "Pedro Pen",
+        "district": "Great Bay",
+        "street": "Great Bay Road",
+        "iso3166_2": "JM-11",
+        "lon": -77.7387382334706,
+        "lat": 17.8643157,
+        "formatted": "Great Bay Cultural Center, Great Bay Road, Treasure Beach, Jamaica",
+        "address_line1": "Great Bay Cultural Center",
+        "address_line2": "Great Bay Road, Treasure Beach, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Great Bay Cultural Center",
+            "osm_id": 701461339,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:street": "Great Bay Road"
+          }
+        },
+        "place_id": "51e843ba7c476f53c059e0de31cb43dd3140f00102f9015b73cf29000000009203194772656174204261792043756c747572616c2043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7387382334706,
+          17.864315700221482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Rocky",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Port Royal",
+        "street": "Port Royal Road",
+        "lon": -76.81748487577059,
+        "lat": 17.9371928,
+        "formatted": "Fort Rocky, Port Royal Road, Port Royal, Jamaica",
+        "address_line1": "Fort Rocky",
+        "address_line2": "Port Royal Road, Port Royal, Jamaica",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.fort"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fort Rocky",
+            "osm_id": 707034809,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "fort",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "fort"
+        },
+        "place_id": "51329a15ac513453c059d8060bdeebef3140f00102f901b97e242a0000000092030a466f727420526f636b79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81748487577059,
+          17.93719280022819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Haldane, 1759",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Mary",
+        "state_district": "Middlesex County",
+        "city": "Port Maria",
+        "hamlet": "Little Bay",
+        "district": "Port Maria",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-05",
+        "lon": -76.89075317900735,
+        "lat": 18.379290150000003,
+        "formatted": "Fort Haldane, 1759, Northern Coastal Highway, Port Maria, Jamaica",
+        "address_line1": "Fort Haldane, 1759",
+        "address_line2": "Northern Coastal Highway, Port Maria, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fort Haldane, 1759",
+            "osm_id": 745341042,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5140299f19023953c0594c17c72819613240f00102f90172006d2c00000000920312466f72742048616c64616e652c2031373539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89075317900733,
+          18.37929015026684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Charles Archeological Site, 1655",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Port Royal",
+        "street": "Church Street",
+        "lon": -76.84246472636389,
+        "lat": 17.93495095,
+        "formatted": "Fort Charles Archeological Site, 1655, Church Street, Port Royal, Jamaica",
+        "address_line1": "Fort Charles Archeological Site, 1655",
+        "address_line2": "Church Street, Port Royal, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fort Charles Archeological Site, 1655",
+            "osm_id": 745349413,
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "archaeological_site": "fortification"
+          }
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "510ef12bf1ea3553c059e4970af258ef3140f00102f90125216d2c00000000920325466f727420436861726c65732041726368656f6c6f676963616c20536974652c2031363535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84246472636389,
+          17.934950950227986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The White Horses",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Thomas",
+        "state_district": "Surrey County",
+        "city": "White Horses",
+        "hamlet": "Shady Springs",
+        "iso3166_2": "JM-03",
+        "lon": -76.47516051071231,
+        "lat": 17.870001549999998,
+        "formatted": "The White Horses, White Horses, Saint Thomas, Jamaica",
+        "address_line1": "The White Horses",
+        "address_line2": "White Horses, Saint Thomas, Jamaica",
+        "categories": [
+          "natural",
+          "natural.sand",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The White Horses",
+            "osm_id": 745765343,
+            "natural": "sand",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "510a77a107691e53c0593daced6bb8de3140f00102f901df79732c0000000092031054686520576869746520486f72736573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4751605107123,
+          17.870001550222003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson’s Quarter Deck",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Port Royal",
+        "street": "Church Street",
+        "lon": -76.84246336737601,
+        "lat": 17.93489755,
+        "formatted": "Nelson’s Quarter Deck, Church Street, Port Royal, Jamaica",
+        "address_line1": "Nelson’s Quarter Deck",
+        "address_line2": "Church Street, Port Royal, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nelson’s Quarter Deck",
+            "osm_id": 745973214,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "514fbd78ebea3553c059f456237255ef3140f00102f901dea5762c000000009203174e656c736f6ee28099732051756172746572204465636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.842463367376,
+          17.934897550227973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodney's House (Historic)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Portmore",
+        "hamlet": "Port Henderson",
+        "street": "Morgan's Way",
+        "iso3166_2": "JM-14",
+        "lon": -76.8813743534616,
+        "lat": 17.94148905,
+        "formatted": "Rodney's House (Historic), Morgan's Way, Portmore, Jamaica",
+        "address_line1": "Rodney's House (Historic)",
+        "address_line2": "Morgan's Way, Portmore, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rodney's House (Historic)",
+            "osm_id": 746032775,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51a4e9f96f683853c0591b46286d05f13140f00102f901878e772c00000000920319526f646e6579277320486f7573652028486973746f72696329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88137435346158,
+          17.94148905022858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock Fort",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "street": "Sir Florizel Glaspole Boulevard",
+        "lon": -76.73510895120017,
+        "lat": 17.966538399999997,
+        "formatted": "Rock Fort, Sir Florizel Glaspole Boulevard, Kingston, Jamaica",
+        "address_line1": "Rock Fort",
+        "address_line2": "Sir Florizel Glaspole Boulevard, Kingston, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rock Fort",
+            "osm_id": 746517108,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51b2196a060c2f53c059da51830f6ff73140f00102f90174f27e2c00000000920309526f636b20466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73510895120015,
+          17.966538400230867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Clarence",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Hellshire",
+        "street": "Fort Clarence Road",
+        "iso3166_2": "JM-14",
+        "lon": -76.87755705719104,
+        "lat": 17.919001,
+        "formatted": "Fort Clarence Road, Hellshire, Jamaica",
+        "address_line1": "Fort Clarence Road",
+        "address_line2": "Hellshire, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fort Clarence",
+            "osm_id": 746670198,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "519c4013e5293853c059d4f648a643eb3140f00102f9017648812c0000000092030d466f727420436c6172656e6365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87755705719104,
+          17.919001000226515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apostles Battery",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Portmore",
+        "hamlet": "Port Henderson",
+        "street": "Morgan's Way",
+        "iso3166_2": "JM-14",
+        "lon": -76.87318765205134,
+        "lat": 17.941983800000003,
+        "formatted": "Apostles Battery, Morgan's Way, Portmore, Jamaica",
+        "address_line1": "Apostles Battery",
+        "address_line2": "Morgan's Way, Portmore, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Apostles Battery",
+            "osm_id": 746694625,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "513835764ee23753c0590258afd925f13140f00102f901e1a7812c0000000092031041706f73746c65732042617474657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87318765205134,
+          17.941983800228634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colbeck Castle (1680)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Old Harbour",
+        "street": "Colbeck Castle Road",
+        "iso3166_2": "JM-14",
+        "lon": -77.13156982236899,
+        "lat": 17.95221575,
+        "formatted": "Colbeck Castle (1680), Colbeck Castle Road, Old Harbour, Jamaica",
+        "address_line1": "Colbeck Castle (1680)",
+        "address_line2": "Colbeck Castle Road, Old Harbour, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Colbeck Castle (1680)",
+            "osm_id": 746815650,
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "w",
+            "castle_type": "fortress"
+          }
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "fortress"
+        },
+        "place_id": "51c80dd5a36b4853c059daf85169c4f33140f00102f901a280832c00000000920315436f6c6265636b20436173746c6520283136383029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13156982236899,
+          17.952215750229563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenwood Great House (1780)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "district": "Greenwood",
+        "street": "Belgrade Avenue",
+        "iso3166_2": "JM-08",
+        "lon": -77.74250820029442,
+        "lat": 18.50324825,
+        "formatted": "Greenwood Great House (1780), Belgrade Avenue, Jamaica",
+        "address_line1": "Greenwood Great House (1780)",
+        "address_line2": "Belgrade Avenue, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Greenwood Great House (1780)",
+            "osm_id": 751703897,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b0511d41856f53c0597cb598e0d4803240f00102f9015917ce2c0000000092031c477265656e776f6f6420477265617420486f75736520283137383029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.74250820029442,
+          18.503248250276997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Good Hope Great House (1755)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Wales",
+        "street": "Martha Brae - Friendship Road",
+        "iso3166_2": "JM-07",
+        "lon": -77.67722164404239,
+        "lat": 18.41756805,
+        "formatted": "Good Hope Great House (1755), Martha Brae - Friendship Road, Wales, Jamaica",
+        "address_line1": "Good Hope Great House (1755)",
+        "address_line2": "Martha Brae - Friendship Road, Wales, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Good Hope Great House (1755)",
+            "osm_id": 751709180,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "518b537399576b53c059a2c35fbde56a3240f00102f901fc2bce2c0000000092031c476f6f6420486f706520477265617420486f75736520283137353529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.67722164404238,
+          18.417568050270013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seville Great House (1745)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Priory",
+        "district": "Seville Heights",
+        "street": "Seville Heritage Park Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.21556098890719,
+        "lat": 18.4357634,
+        "formatted": "Seville Great House (1745), Seville Heritage Park Road, Priory, Jamaica",
+        "address_line1": "Seville Great House (1745)",
+        "address_line2": "Seville Heritage Park Road, Priory, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Seville Great House (1745)",
+            "osm_id": 751709183,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51966951c0cb4d53c059baf5b0308e6f3240f00102f901ff2bce2c0000000092031a536576696c6c6520477265617420486f75736520283137343529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.21556098890719,
+          18.435763400271505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devon House (1881)\\",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Andrew",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "suburb": "Half Way Tree",
+        "street": "Hope Road",
+        "iso3166_2": "JM-02",
+        "lon": -76.790004285246,
+        "lat": 18.01473275,
+        "formatted": "Devon House (1881)\\, Hope Road, Half Way Tree, Kingston, Jamaica",
+        "address_line1": "Devon House (1881)\\",
+        "address_line2": "Hope Road, Half Way Tree, Kingston, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Devon House (1881)\\",
+            "osm_id": 751749099,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513635226e8f3253c059c4708886c5033240f00102f901ebc7ce2c000000009203134465766f6e20486f757365202831383831295c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.790004285246,
+          18.01473275023524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falmouth Waterwheel (1797)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Martha Brae",
+        "hamlet": "Hague",
+        "street": "Perth Town Road",
+        "iso3166_2": "JM-07",
+        "lon": -77.65580471948799,
+        "lat": 18.4700107,
+        "formatted": "Falmouth Waterwheel (1797), Perth Town Road, Martha Brae, Jamaica",
+        "address_line1": "Falmouth Waterwheel (1797)",
+        "address_line2": "Perth Town Road, Martha Brae, Jamaica",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Falmouth Waterwheel (1797)",
+            "osm_id": 753778575,
+            "tourism": "attraction",
+            "man_made": "water_works",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51dab05bb4f86953c059bc720a9f52783240f00102f9018fbfed2c0000000092031a46616c6d6f757468205761746572776865656c20283137393729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65580471948797,
+          18.4700107002743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Square",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Falmouth",
+        "district": "Winns Morass",
+        "iso3166_2": "JM-07",
+        "lon": -77.65261810911169,
+        "lat": 18.4923698,
+        "formatted": "Water Square, Falmouth, Trelawny, Jamaica",
+        "address_line1": "Water Square",
+        "address_line2": "Falmouth, Trelawny, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Water Square",
+            "place": "square",
+            "osm_id": 753779803,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "515edabe7ec46953c05956b97df20b7e3240f00102f9015bc4ed2c0000000092030c576174657220537175617265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65261810911167,
+          18.492369800276116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Knibb Memorial Baptist Church (1944)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Falmouth",
+        "district": "Winns Morass",
+        "street": "George Street",
+        "iso3166_2": "JM-07",
+        "lon": -77.65451854938405,
+        "lat": 18.491862349999998,
+        "formatted": "William Knibb Memorial Baptist Church (1944), George Street, Falmouth, Jamaica",
+        "address_line1": "William Knibb Memorial Baptist Church (1944)",
+        "address_line2": "George Street, Falmouth, Jamaica",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "William Knibb Memorial Baptist Church (1944)",
+            "osm_id": 753782443,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "religion": "christian"
+          }
+        },
+        "place_of_worship": {
+          "religion": "christian"
+        },
+        "place_id": "51b40ec5a1e36953c059c891e4b0ea7d3240f00102f901abceed2c0000000092032c57696c6c69616d204b6e696262204d656d6f7269616c20426170746973742043687572636820283139343429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65451854938402,
+          18.49186235027608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix Foundry Dome (1810)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Falmouth",
+        "district": "Winns Morass",
+        "street": "Upper Harbour Street",
+        "iso3166_2": "JM-07",
+        "lon": -77.65119123304862,
+        "lat": 18.491318900000003,
+        "formatted": "Phoenix Foundry Dome (1810), Upper Harbour Street, Falmouth, Jamaica",
+        "address_line1": "Phoenix Foundry Dome (1810)",
+        "address_line2": "Upper Harbour Street, Falmouth, Jamaica",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Phoenix Foundry Dome (1810)",
+            "osm_id": 754031040,
+            "tourism": "attraction",
+            "man_made": "kiln",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b058fe1dad6953c0599d975013c77d3240f00102f901c099f12c0000000092031b50686f656e697820466f756e64727920446f6d6520283138313029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65119123304862,
+          18.49131890027603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Old Goal (pre 1692)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Port Royal",
+        "street": "Church Street",
+        "lon": -76.84207640923395,
+        "lat": 17.9360929,
+        "formatted": "The Old Goal (pre 1692), Church Street, Port Royal, Jamaica",
+        "address_line1": "The Old Goal (pre 1692)",
+        "address_line2": "Church Street, Port Royal, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Old Goal (pre 1692)",
+            "osm_id": 754357969,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5127997394e43553c059587fc8c8a3ef3140f00102f901d196f62c00000000920317546865204f6c6420476f616c2028707265203136393229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84207640923397,
+          17.93609290022809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sligoville Great House",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Sligoville",
+        "district": "Highgate Park",
+        "street": "School Road",
+        "iso3166_2": "JM-14",
+        "lon": -76.95498293622579,
+        "lat": 18.09728405,
+        "formatted": "Sligoville Great House, School Road, Sligoville, Jamaica",
+        "address_line1": "Sligoville Great House",
+        "address_line2": "School Road, Sligoville, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sligoville Great House",
+            "osm_id": 755310625,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51fbd4bf701e3d53c059e536869be7183240f00102f9012120052d00000000920316536c69676f76696c6c6520477265617420486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95498293622579,
+          18.09728405024261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stewart Castle Ruins",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Stewart Castle",
+        "street": "Stewart Castle Boulevard",
+        "iso3166_2": "JM-07",
+        "lon": -77.5711786331565,
+        "lat": 18.480639250000003,
+        "formatted": "Stewart Castle Ruins, Stewart Castle Boulevard, Stewart Castle, Jamaica",
+        "address_line1": "Stewart Castle Ruins",
+        "address_line2": "Stewart Castle Boulevard, Stewart Castle, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stewart Castle Ruins",
+            "osm_id": 755761716,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "513265d3308e6453c059161b852c0b7b3240f00102f90134020c2d000000009203145374657761727420436173746c65205275696e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5711786331565,
+          18.480639250275168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tryall Great House",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Hanover",
+        "state_district": "Cornwall County",
+        "city": "Tryall",
+        "street": "Great House Drive",
+        "iso3166_2": "JM-09",
+        "lon": -78.05814413626706,
+        "lat": 18.4500104,
+        "formatted": "Tryall Great House, Great House Drive, Tryall, Jamaica",
+        "address_line1": "Tryall Great House",
+        "address_line2": "Great House Drive, Tryall, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tryall Great House",
+            "osm_id": 755769608,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5128ee2ea2b88353c059ef07b0e133733240f00102f90108210c2d00000000920312547279616c6c20477265617420486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.05814413626706,
+          18.45001040027267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunkers Hill Cultural Xperience and River Tours",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Dromilly",
+        "street": "Dromilly Road",
+        "iso3166_2": "JM-07",
+        "lon": -77.7144814,
+        "lat": 18.377532199999997,
+        "formatted": "Bunkers Hill Cultural Xperience and River Tours, Dromilly Road, Dromilly, Jamaica",
+        "address_line1": "Bunkers Hill Cultural Xperience and River Tours",
+        "address_line2": "Dromilly Road, Dromilly, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bunkers Hill Cultural Xperience and River Tours",
+            "osm_id": 756333611,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "516ba63110ba6d53c059165545f3a5603240f00102f9012bbc142d0000000092032f42756e6b6572732048696c6c2043756c747572616c205870657269656e636520616e6420526976657220546f757273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7144814,
+          18.377532200266693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyde Hall Estate House",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Florence Hall",
+        "hamlet": "Grange",
+        "district": "Hague",
+        "street": "Clark's Town - Florence Hall Road",
+        "iso3166_2": "JM-07",
+        "lon": -77.56943038794898,
+        "lat": 18.43100095,
+        "formatted": "Hyde Hall Estate House, Clark's Town - Florence Hall Road, Florence Hall, Jamaica",
+        "address_line1": "Hyde Hall Estate House",
+        "address_line2": "Clark's Town - Florence Hall Road, Florence Hall, Jamaica",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hyde Hall Estate House",
+            "osm_id": 756339873,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51ba65278c716453c05998f50914566e3240f00102f901a1d4142d00000000920316487964652048616c6c2045737461746520486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.56943038794898,
+          18.431000950271113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emancipation War 1831-32",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "city": "Montego Bay",
+        "street": "Strand Street",
+        "iso3166_2": "JM-08",
+        "lon": -77.92354800000001,
+        "lat": 18.473428849999998,
+        "formatted": "Emancipation War 1831-32, Strand Street, Montego Bay, Jamaica",
+        "address_line1": "Emancipation War 1831-32",
+        "address_line2": "Strand Street, Montego Bay, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Emancipation War 1831-32",
+            "osm_id": 758142603,
+            "tourism": "attraction",
+            "historic": "memorial",
+            "memorial": "stone",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "stone"
+        },
+        "place_id": "51521212691b7b53c05986e914a232793240f00102f9018b56302d00000000920318456d616e6369706174696f6e2057617220313833312d3332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.92354800000001,
+          18.47342885027458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cage (1806)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "city": "Montego Bay",
+        "street": "North Lane",
+        "iso3166_2": "JM-08",
+        "lon": -77.92297105089014,
+        "lat": 18.4740782,
+        "formatted": "The Cage (1806), North Lane, Montego Bay, Jamaica",
+        "address_line1": "The Cage (1806)",
+        "address_line2": "North Lane, Montego Bay, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Cage (1806)",
+            "osm_id": 758142606,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5196ae2bf5117b53c05912ed5d305d793240f00102f9018e56302d0000000092030f546865204361676520283138303629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.92297105089014,
+          18.474078200274626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sam Sharpe Square",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "city": "Montego Bay",
+        "iso3166_2": "JM-08",
+        "lon": -77.92280471664446,
+        "lat": 18.473752750000003,
+        "formatted": "Sam Sharpe Square, Montego Bay, Saint James, Jamaica",
+        "address_line1": "Sam Sharpe Square",
+        "address_line2": "Montego Bay, Saint James, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sam Sharpe Square",
+            "place": "square",
+            "osm_id": 758142607,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "Montego Bay",
+            "wheelchair": "no",
+            "is_in:country": "Jamaica",
+            "is_in:country_code": "JM"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "5147a5833b0f7b53c059cdd138dc47793240f00102f9018f56302d0000000092031153616d2053686172706520537175617265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.92280471664445,
+          18.473752750274617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Creek Dome",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "city": "Montego Bay",
+        "street": "Humber Avenue",
+        "iso3166_2": "JM-08",
+        "lon": -77.91886513767017,
+        "lat": 18.47155155,
+        "formatted": "The Creek Dome, Humber Avenue, Montego Bay, Jamaica",
+        "address_line1": "The Creek Dome",
+        "address_line2": "Humber Avenue, Montego Bay, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Creek Dome",
+            "osm_id": 758424356,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5196eeb8afce7a53c05988ce369ab7783240f00102f90124a3342d0000000092030e54686520437265656b20446f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.91886513767017,
+          18.471551550274427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferry Inn (1684)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Spanish Town",
+        "hamlet": "Ferry",
+        "street": "Ferry Service Road",
+        "iso3166_2": "JM-14",
+        "lon": -76.87349001782962,
+        "lat": 18.025010350000002,
+        "formatted": "Ferry Inn (1684), Ferry Service Road, Spanish Town, Jamaica",
+        "address_line1": "Ferry Inn (1684)",
+        "address_line2": "Ferry Service Road, Spanish Town, Jamaica",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ferry Inn (1684)",
+            "osm_id": 758440483,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "517cfdac42e73753c05967530c1467063240f00102f90123e2342d00000000920310466572727920496e6e20283136383429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87349001782962,
+          18.025010350236155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1907 Earthquake Monument",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "district": "Greenwich Town",
+        "street": "East Avenue",
+        "lon": -76.81249780023016,
+        "lat": 17.9807335,
+        "formatted": "1907 Earthquake Monument, East Avenue, Kingston, Jamaica",
+        "address_line1": "1907 Earthquake Monument",
+        "address_line2": "East Avenue, Kingston, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "1907 Earthquake Monument",
+            "osm_id": 758549102,
+            "tourism": "attraction",
+            "historic": "memorial",
+            "memorial": "stone",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "stone"
+        },
+        "place_id": "51de03c6f6ff3353c059b896c55911fb3140f00102f9016e8a362d00000000920318313930372045617274687175616b65204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81249780023015,
+          17.980733500232162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Nugent's Martello Tower",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Andrew",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "suburb": "Harbour View",
+        "street": "Fort Nugent Drive",
+        "iso3166_2": "JM-02",
+        "lon": -76.71824133359375,
+        "lat": 17.9587775,
+        "formatted": "Fort Nugent's Martello Tower, Fort Nugent Drive, Harbour View, Kingston, Jamaica",
+        "address_line1": "Fort Nugent's Martello Tower",
+        "address_line2": "Fort Nugent Drive, Harbour View, Kingston, Jamaica",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fort Nugent's Martello Tower",
+            "osm_id": 758550016,
+            "tourism": "attraction",
+            "building": "ruins",
+            "historic": "martello_tower",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "martello_tower"
+        },
+        "building": {
+          "type": "ruins"
+        },
+        "place_id": "51eb9a7faaf72d53c05912a1377172f53140f00102f901008e362d0000000092031c466f7274204e7567656e742773204d617274656c6c6f20546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.71824133359375,
+          17.958777500230163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Tosh",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Westmoreland",
+        "state_district": "Cornwall County",
+        "city": "Belmont",
+        "street": "A2",
+        "iso3166_2": "JM-10",
+        "lon": -78.0291644,
+        "lat": 18.1490454,
+        "formatted": "Peter Tosh, A2, Belmont, Jamaica",
+        "address_line1": "Peter Tosh",
+        "address_line2": "A2, Belmont, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Peter Tosh",
+            "osm_id": 1338117693,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51460d5cd4dd8153c0594daedfd627263240f00103f9013d0ec24f0000000092030a506574657220546f7368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.02916439999998,
+          18.14904540024718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubbling Spring Mineral Bath",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Middle Quarters",
+        "street": "Luana - Middle Quarters Road",
+        "iso3166_2": "JM-11",
+        "lon": -77.8381564,
+        "lat": 18.0972786,
+        "formatted": "Bubbling Spring Mineral Bath, Luana - Middle Quarters Road, Middle Quarters, Jamaica",
+        "address_line1": "Bubbling Spring Mineral Bath",
+        "address_line2": "Luana - Middle Quarters Road, Middle Quarters, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bubbling Spring Mineral Bath",
+            "osm_id": 2597607690,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b7bbbd5aa47553c05985a41640e7183240f00103f9010a59d49a0000000092031c427562626c696e6720537072696e67204d696e6572616c2042617468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.83815639999999,
+          18.097278600242607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faith's Pen Rest Stop",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "city": "Faith's Pen",
+        "hamlet": "Unity Valley",
+        "street": "Linstead - Moneague Road",
+        "iso3166_2": "JM-06",
+        "lon": -77.095082,
+        "lat": 18.2347069,
+        "formatted": "Faith's Pen Rest Stop, Linstead - Moneague Road, Faith's Pen, Jamaica",
+        "address_line1": "Faith's Pen Rest Stop",
+        "address_line2": "Linstead - Moneague Road, Faith's Pen, Jamaica",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.chicken",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.catering"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Faith's Pen Rest Stop",
+            "osm_id": 2674288450,
+            "amenity": "restaurant",
+            "cuisine": "chicken",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "catering": {
+          "cuisine": "chicken"
+        },
+        "place_id": "510d1cd0d2154653c05934bd5cc0153c3240f00103f9014267669f00000000920315466169746827732050656e20526573742053746f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.095082,
+          18.234706900254608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rafting on the Rio Grande",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Portland",
+        "state_district": "Surrey County",
+        "city": "Port Antonio",
+        "district": "Breastworks",
+        "street": "Red Hassel Road",
+        "iso3166_2": "JM-04",
+        "lon": -76.477595,
+        "lat": 18.1440933,
+        "formatted": "Rafting on the Rio Grande, Red Hassel Road, Port Antonio, Jamaica",
+        "address_line1": "Rafting on the Rio Grande",
+        "address_line2": "Red Hassel Road, Port Antonio, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rafting on the Rio Grande",
+            "osm_id": 2774889821,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eb6e9eea901e53c059e7216c4ce3243240f00103f9015d7565a50000000092031952616674696e67206f6e207468652052696f204772616e6465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.477595,
+          18.144093300246734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holywell National Park",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Kingston and Saint Andrew Corporation",
+        "state_district": "Surrey County",
+        "street": "Freetown Road",
+        "lon": -76.7265428,
+        "lat": 18.0860741,
+        "formatted": "Holywell National Park, Freetown Road, Jamaica",
+        "address_line1": "Holywell National Park",
+        "address_line2": "Freetown Road, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Holywell National Park",
+            "osm_id": 2937237913,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513c495fad7f2e53c0590592c5f308163240f00103f90199b112af00000000920316486f6c7977656c6c204e6174696f6e616c205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7265428,
+          18.08607410024162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martha Brae Rafting Village",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Martha Brae",
+        "hamlet": "Clifton",
+        "street": "Perth Town Road",
+        "iso3166_2": "JM-07",
+        "lon": -77.6473978,
+        "lat": 18.4518682,
+        "formatted": "Martha Brae Rafting Village, Perth Town Road, Martha Brae, Jamaica",
+        "address_line1": "Martha Brae Rafting Village",
+        "address_line2": "Perth Town Road, Martha Brae, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Martha Brae Rafting Village",
+            "osm_id": 3045058519,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5126a02ef76e6953c059304666a2ad733240f00103f901d7e77fb50000000092031b4d617274686120427261652052616674696e672056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6473978,
+          18.451868200272827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocklands Bird Sanctuary",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint James",
+        "state_district": "Cornwall County",
+        "street": "Reading Boulevard",
+        "iso3166_2": "JM-08",
+        "lon": -77.9418181,
+        "lat": 18.4270085,
+        "formatted": "Rocklands Bird Sanctuary, Reading Boulevard, Jamaica",
+        "address_line1": "Rocklands Bird Sanctuary",
+        "address_line2": "Reading Boulevard, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rocklands Bird Sanctuary",
+            "osm_id": 3048025823,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f9916cbf467c53c059eac6d76d506d3240f00103f901df2eadb500000000920318526f636b6c616e647320426972642053616e637475617279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94181809999999,
+          18.42700850027078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irie Blue Hole",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Mary",
+        "state_district": "Middlesex County",
+        "city": "Newstead",
+        "street": "Cascade Road",
+        "iso3166_2": "JM-05",
+        "lon": -77.0513537,
+        "lat": 18.3721147,
+        "formatted": "Irie Blue Hole, Cascade Road, Newstead, Jamaica",
+        "address_line1": "Irie Blue Hole",
+        "address_line2": "Cascade Road, Newstead, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Irie Blue Hole",
+            "osm_id": 3228162699,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "addr:street": "Thatch Hill Road"
+          }
+        },
+        "place_id": "51d5810761494353c0592001b4e8425f3240f00103f9018bda69c00000000092030e4972696520426c756520486f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0513537,
+          18.372114700266252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lover's Leap",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Southfield",
+        "hamlet": "Yardley Chase",
+        "district": "Mayfield",
+        "street": "Lover's Leap Road",
+        "iso3166_2": "JM-11",
+        "lon": -77.6603555,
+        "lat": 17.8685027,
+        "formatted": "Lover's Leap Road, Southfield, Jamaica",
+        "address_line1": "Lover's Leap Road",
+        "address_line2": "Southfield, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lover's Leap",
+            "osm_id": 3246833785,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f40eb743436a53c059caf0653156de3140f00103f90179c086c10000000092030c4c6f7665722773204c656170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.66035549999998,
+          17.86850270022186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alligator Hole",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Manchester",
+        "state_district": "Middlesex County",
+        "city": "Fraquhars Beach",
+        "street": "Fraquhars Beach Road",
+        "iso3166_2": "JM-12",
+        "lon": -77.3938544,
+        "lat": 17.8664149,
+        "formatted": "Alligator Hole, Fraquhars Beach Road, Fraquhars Beach, Jamaica",
+        "address_line1": "Alligator Hole",
+        "address_line2": "Fraquhars Beach Road, Fraquhars Beach, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Alligator Hole",
+            "osm_id": 3247521290,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51aed815e9345953c0591b38ed5dcddd3140f00103f9010a3e91c10000000092030e416c6c696761746f7220486f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39385439999998,
+          17.866414900221667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodney's Lookout Trail Head",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Portmore",
+        "district": "Mount Royal Estates",
+        "street": "Gerbera Ave",
+        "iso3166_2": "JM-14",
+        "lon": -76.8875821,
+        "lat": 17.9513389,
+        "formatted": "Rodney's Lookout Trail Head, Gerbera Ave, Portmore, Jamaica",
+        "address_line1": "Rodney's Lookout Trail Head",
+        "address_line2": "Gerbera Ave, Portmore, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rodney's Lookout Trail Head",
+            "osm_id": 3596866343,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f6002725ce3853c059f5e537f28af33140f00103f90127d363d60000000092031b526f646e65792773204c6f6f6b6f757420547261696c2048656164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8875821,
+          17.95133890022949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bob Marley Statue",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Andrew",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "suburb": "New Kingston",
+        "street": "Arthur Wint Drive",
+        "iso3166_2": "JM-02",
+        "lon": -76.7749721,
+        "lat": 18.0030248,
+        "formatted": "Bob Marley Statue, Arthur Wint Drive, New Kingston, Kingston, Jamaica",
+        "address_line1": "Bob Marley Statue",
+        "address_line2": "Arthur Wint Drive, New Kingston, Kingston, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bob Marley Statue",
+            "osm_id": 3598969268,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51ff339424993153c0592c15ba3bc6003240f00103f901b4e983d600000000920311426f62204d61726c657920537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7749721,
+          18.003024800234172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Arms/Rodney Lookout",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Portmore",
+        "hamlet": "Port Henderson",
+        "street": "Morgan's Way",
+        "iso3166_2": "JM-14",
+        "lon": -76.8745977,
+        "lat": 17.9484587,
+        "formatted": "The Arms/Rodney Lookout, Morgan's Way, Portmore, Jamaica",
+        "address_line1": "The Arms/Rodney Lookout",
+        "address_line2": "Morgan's Way, Portmore, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Arms/Rodney Lookout",
+            "osm_id": 3767463250,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5109aaa168f93753c05959177b30cef23140f00103f90152ed8ee0000000009203175468652041726d732f526f646e6579204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8745977,
+          17.948458700229228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logan shed",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Thomas",
+        "state_district": "Surrey County",
+        "city": "Trinityville",
+        "hamlet": "Mount Lebanus",
+        "street": "Spring Piece Road",
+        "iso3166_2": "JM-03",
+        "lon": -76.5415364,
+        "lat": 17.9703937,
+        "formatted": "Logan shed, Spring Piece Road, Trinityville, Jamaica",
+        "address_line1": "Logan shed",
+        "address_line2": "Spring Piece Road, Trinityville, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Logan shed",
+            "osm_id": 4123218388,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "chill spot"
+          }
+        },
+        "description": "chill spot",
+        "place_id": "51fde54988a82253c059cdbcb6b86bf83140f00103f901d451c3f50000000092030a4c6f67616e2073686564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5415364,
+          17.970393700231217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luminous Lagoon",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Florence Hall",
+        "hamlet": "Rock",
+        "street": "Northern Coastal Highway",
+        "iso3166_2": "JM-07",
+        "lon": -77.6279091,
+        "lat": 18.4861677,
+        "formatted": "Luminous Lagoon, Northern Coastal Highway, Florence Hall, Jamaica",
+        "address_line1": "Luminous Lagoon",
+        "address_line2": "Northern Coastal Highway, Florence Hall, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Luminous Lagoon",
+            "osm_id": 4139715198,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511657a6a92f6853c059280e857c757c3240f00103f9017e0abff60000000092030f4c756d696e6f7573204c61676f6f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.62790909999998,
+          18.486167700275615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chill spot (Tyre or Ackee Tree)",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Thomas",
+        "state_district": "Surrey County",
+        "city": "Danvers Pen",
+        "hamlet": "Blue Mountain",
+        "street": "Danvers Pen Road",
+        "iso3166_2": "JM-03",
+        "lon": -76.4749666,
+        "lat": 17.9302958,
+        "formatted": "Chill spot (Tyre or Ackee Tree), Danvers Pen Road, Danvers Pen, Jamaica",
+        "address_line1": "Chill spot (Tyre or Ackee Tree)",
+        "address_line2": "Danvers Pen Road, Danvers Pen, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chill spot (Tyre or Ackee Tree)",
+            "osm_id": 4173885510,
+            "highway": "rest_area",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Spot where people, including youth, gather to domino and hold reasoning"
+          }
+        },
+        "description": "Spot where people, including youth, gather to domino and hold reasoning",
+        "place_id": "514e6c4fda651e53c059619595dd27ee3140f00103f9014670c8f80000000092031f4368696c6c2073706f74202854797265206f722041636b6565205472656529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47496659999999,
+          17.930295800227558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chukka",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Ann",
+        "state_district": "Middlesex County",
+        "street": "Arg Byfield Highway",
+        "iso3166_2": "JM-06",
+        "lon": -77.2447312,
+        "lat": 18.455342,
+        "formatted": "Chukka, Arg Byfield Highway, Jamaica",
+        "address_line1": "Chukka",
+        "address_line2": "Arg Byfield Highway, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chukka",
+            "osm_id": 4256295390,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e5130dada94f53c05911ab174b91743240f00103f901dee9b1fd000000009203064368756b6b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2447312,
+          18.45534200027311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powergen ltd",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Andrew",
+        "state_district": "Surrey County",
+        "city": "Kingston",
+        "suburb": "Half Way Tree",
+        "street": "Courtney Walsh Drive",
+        "iso3166_2": "JM-02",
+        "lon": -76.8009163,
+        "lat": 18.0153622,
+        "formatted": "Powergen ltd, Courtney Walsh Drive, Half Way Tree, Kingston, Jamaica",
+        "address_line1": "Powergen ltd",
+        "address_line2": "Courtney Walsh Drive, Half Way Tree, Kingston, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Powergen ltd",
+            "osm_id": 4761161523,
+            "name:en": "Powergen ltd",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Powergen ltd"
+        },
+        "place_id": "5155d57036423353c059ec9af3c6ee033240f00103f901338fc91b0100000092030c506f77657267656e206c7464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8009163,
+          18.015362200235288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue hole",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Mary",
+        "state_district": "Middlesex County",
+        "city": "Newstead",
+        "street": "Cascade Road",
+        "iso3166_2": "JM-05",
+        "lon": -77.0483901,
+        "lat": 18.3631894,
+        "formatted": "Blue hole, Cascade Road, Newstead, Jamaica",
+        "address_line1": "Blue hole",
+        "address_line2": "Cascade Road, Newstead, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Blue hole",
+            "osm_id": 4959925717,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cf3ccad2184353c059e86404fbf95c3240f00103f901d575a22701000000920309426c756520686f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04839009999999,
+          18.363189400265497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scenic view over Kingston",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Andrew",
+        "state_district": "Surrey County",
+        "city": "Gordon Town",
+        "hamlet": "Irishtown",
+        "street": "Newcastle Road",
+        "iso3166_2": "JM-02",
+        "lon": -76.7255921,
+        "lat": 18.047788,
+        "formatted": "Scenic view over Kingston, Newcastle Road, Gordon Town, Jamaica",
+        "address_line1": "Scenic view over Kingston",
+        "address_line2": "Newcastle Road, Gordon Town, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Scenic view over Kingston",
+            "osm_id": 5234204223,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511aefd819702e53c059112a9ad53b0c3240f00103f9013f9efb37010000009203195363656e69632076696577206f766572204b696e6773746f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7255921,
+          18.047788000238203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beautiful beach",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Westmoreland",
+        "state_district": "Cornwall County",
+        "city": "Bluefields",
+        "district": "Auldayr",
+        "street": "A2",
+        "iso3166_2": "JM-10",
+        "lon": -78.0270457,
+        "lat": 18.161648,
+        "formatted": "Beautiful beach, A2, Bluefields, Jamaica",
+        "address_line1": "Beautiful beach",
+        "address_line2": "A2, Bluefields, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Beautiful beach",
+            "osm_id": 5235395123,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d53fe31dbb8153c059b9876ac361293240f00103f90133ca0d380100000092030f42656175746966756c206265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.02704569999999,
+          18.16164800024828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boat: Welcome to Treasure Beach",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "city": "Treasure Beach",
+        "hamlet": "Pedro Cross",
+        "district": "Treasure Beach",
+        "street": "Treasure Beach Road",
+        "iso3166_2": "JM-11",
+        "lon": -77.7391511,
+        "lat": 17.8876093,
+        "formatted": "Boat: Welcome to Treasure Beach, Treasure Beach Road, Treasure Beach, Jamaica",
+        "address_line1": "Boat: Welcome to Treasure Beach",
+        "address_line2": "Treasure Beach Road, Treasure Beach, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boat: Welcome to Treasure Beach",
+            "osm_id": 5243520124,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "515b536a404e6f53c0590016f45c3ae33140f00103f9017cc489380100000092031f426f61743a2057656c636f6d6520746f205472656173757265204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7391511,
+          17.88760930022363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Bond Beach",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Mary",
+        "state_district": "Middlesex County",
+        "city": "Oracabessa",
+        "district": "Liberty Castle",
+        "street": "James Bond Beach Service Road",
+        "iso3166_2": "JM-05",
+        "lon": -76.949061,
+        "lat": 18.4069363,
+        "formatted": "James Bond Beach Service Road, Oracabessa, Jamaica",
+        "address_line1": "James Bond Beach Service Road",
+        "address_line2": "Oracabessa, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "James Bond Beach",
+            "osm_id": 5471369522,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512d3a596abd3c53c0590d3635fa2c683240f00103f90132791e46010000009203104a616d657320426f6e64204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94906099999999,
+          18.406936300269127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plum Valley",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Portland",
+        "state_district": "Surrey County",
+        "city": "Buff Bay",
+        "hamlet": "Kildare",
+        "street": "Nelson Street",
+        "iso3166_2": "JM-04",
+        "lon": -76.6735768,
+        "lat": 18.209047,
+        "formatted": "Plum Valley, Nelson Street, Buff Bay, Jamaica",
+        "address_line1": "Plum Valley",
+        "address_line2": "Nelson Street, Buff Bay, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plum Valley",
+            "osm_id": 5704168429,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510ad6dde11b2b53c0593669ad1a84353240f00103f901edb3fe530100000092030b506c756d2056616c6c6579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6735768,
+          18.209047000252404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Craft Market",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Trelawny",
+        "state_district": "Cornwall County",
+        "city": "Falmouth",
+        "suburb": "Port of Falmouth",
+        "street": "Seaboard Street",
+        "iso3166_2": "JM-07",
+        "lon": -77.6511982,
+        "lat": 18.4916304,
+        "formatted": "Craft Market, Seaboard Street, Port of Falmouth, Falmouth, Jamaica",
+        "address_line1": "Craft Market",
+        "address_line2": "Seaboard Street, Port of Falmouth, Falmouth, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Craft Market",
+            "osm_id": 5771887856,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b20d373bad6953c059b1e76a7ddb7d3240f00103f901f00408580100000092030c4372616674204d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.65119819999998,
+          18.491630400276055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "beach",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Elizabeth",
+        "state_district": "Cornwall County",
+        "street": "Fort Charles Road",
+        "iso3166_2": "JM-11",
+        "lon": -77.8001732,
+        "lat": 17.9246962,
+        "formatted": "beach, Fort Charles Road, Jamaica",
+        "address_line1": "beach",
+        "address_line2": "Fort Charles Road, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "beach",
+            "osm_id": 6200834486,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51af48a709367353c059ecb5e2e3b8ec3140f00103f901b6399971010000009203056265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8001732,
+          17.924696200227046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amber lane",
+        "country": "Jamaica",
+        "country_code": "jm",
+        "county": "Saint Catherine",
+        "state_district": "Middlesex County",
+        "city": "Bog Walk",
+        "hamlet": "Prospect",
+        "district": "Tulloch",
+        "street": "Bog Walk - White Hall Road",
+        "iso3166_2": "JM-14",
+        "lon": -76.9936781,
+        "lat": 18.1142221,
+        "formatted": "Amber lane, Bog Walk - White Hall Road, Bog Walk, Jamaica",
+        "address_line1": "Amber lane",
+        "address_line2": "Bog Walk - White Hall Road, Bog Walk, Jamaica",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Amber lane",
+            "osm_id": 6216219586,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511790076c983f53c0596407d9a83d1d3240f00103f901c2fb83720100000092030a416d626572206c616e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9936781,
+          18.114222100244106
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5083 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catedral de Santa Ana",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Lorenzo",
+        "street": "1ª Avenida Norte",
+        "iso3166_2": "SV-SA",
+        "lon": -89.55557254415535,
+        "lat": 13.9949458,
+        "state_code": "SA",
+        "formatted": "Catedral de Santa Ana, 1ª Avenida Norte, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Catedral de Santa Ana",
+        "address_line2": "1ª Avenida Norte, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.cathedral"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Catedral de Santa Ana",
+            "osm_id": 368554276,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "cathedral",
+            "historic": "cathedral",
+            "operator": "Iglesia Católica",
+            "osm_type": "w",
+            "religion": "christian",
+            "wikidata": "Q5051807",
+            "addr:city": "Santa Ana",
+            "architect": "Ing. Aurelio Fuertes y Arq. Lucio Cappellaro",
+            "wikipedia": "en:Santa Ana Cathedral, El Salvador",
+            "addr:street": "1ª Avenida Norte",
+            "denomination": "catholic",
+            "addr:block_number": "B-3",
+            "year_of_construction": "El 21 de enero de 1906"
+          }
+        },
+        "operator": "Iglesia Católica",
+        "wiki_and_media": {
+          "wikidata": "Q5051807",
+          "wikipedia": "en:Santa Ana Cathedral, El Salvador"
+        },
+        "historic": {
+          "type": "cathedral"
+        },
+        "building": {
+          "type": "cathedral",
+          "start_date": "El 21 de enero de 1906"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "catholic"
+        },
+        "place_id": "51faec24808e6356c059fac62e8969fd2b40f00102f90124b1f71500000000920315436174656472616c2064652053616e746120416e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55557254415535,
+          13.994945799789537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turicentro Puerto San Juan",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Cuscatlán",
+        "city": "Suchitoto",
+        "street": "Calle a Turicentro",
+        "iso3166_2": "SV-CU",
+        "lon": -89.0161708,
+        "lat": 13.9457969,
+        "state_code": "CU",
+        "formatted": "Turicentro Puerto San Juan, Calle a Turicentro, Suchitoto, Cuscatlán, El Salvador",
+        "address_line1": "Turicentro Puerto San Juan",
+        "address_line2": "Calle a Turicentro, Suchitoto, Cuscatlán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Turicentro Puerto San Juan",
+            "osm_id": 4529261291,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 07:00-18:00"
+          }
+        },
+        "opening_hours": "Mo-Su 07:00-18:00",
+        "place_id": "519b4940f1084156c059c675c27d3fe42b40f00103f901eb0af70d0100000092031a5475726963656e74726f2050756572746f2053616e204a75616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01617079999998,
+          13.945796899783897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Sonsonate",
+        "city": "Juayúa",
+        "village": "La Unión",
+        "municipality": "Sonsonate Norte",
+        "postcode": "2307",
+        "district": "Barrio San José",
+        "suburb": "Asentamiento Buena Vista",
+        "street": "2da Calle Pte",
+        "iso3166_2": "SV-SO",
+        "lon": -89.7468775,
+        "lat": 13.8430246,
+        "state_code": "SO",
+        "formatted": "Feria Gastronomica sàbado y domingo 0800 a 1700, 2da Calle Pte, 2307 - Juayúa, Sonsonate, El Salvador",
+        "address_line1": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+        "address_line2": "2da Calle Pte, 2307 - Juayúa, Sonsonate, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+            "osm_id": 7801227985,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Sa-Su 08:00-17:00"
+          }
+        },
+        "opening_hours": "Sa-Su 08:00-17:00",
+        "place_id": "51912749d7cc6f56c0595e7d9beba0af2b40f00103f901d14afdd00100000092033046657269612047617374726f6e6f6d6963612073c3a06261646f207920646f6d696e676f203038303020612031373030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7468775,
+          13.843024599772146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duendes del Gramalón",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Usulután",
+        "city": "Berlín",
+        "hamlet": "Zapotillo",
+        "district": "Barrio Concepción",
+        "street": "Carretera Mercedes Umaña - Berlín",
+        "housenumber": "KM110",
+        "iso3166_2": "SV-US",
+        "lon": -88.5162268,
+        "lat": 13.510649,
+        "state_code": "US",
+        "formatted": "Duendes del Gramalón, Carretera Mercedes Umaña - Berlín KM110, Berlín, Usulután, El Salvador",
+        "address_line1": "Duendes del Gramalón",
+        "address_line2": "Carretera Mercedes Umaña - Berlín KM110, Berlín, Usulután, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.contact",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Duendes del Gramalón",
+            "phone": "+503 6312 0731",
+            "osm_id": 11160631188,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Berlín",
+            "check_date": "2024-09-01",
+            "addr:street": "Carretera Mercedes Umaña - Berlín",
+            "currency:XBT": "yes",
+            "description:en": "This location has some Myan caves hand dug into the hill side.  They also offer accomdation and basic tours of their hand crafted artwork.",
+            "addr:housenumber": "KM110",
+            "payment:lightning": "yes"
+          }
+        },
+        "description_international": {
+          "en": "This location has some Myan caves hand dug into the hill side.  They also offer accomdation and basic tours of their hand crafted artwork."
+        },
+        "contact": {
+          "phone": "+503 6312 0731"
+        },
+        "payment_options": {
+          "lightning": true
+        },
+        "place_id": "5165d421dc092156c059f83023c973052b40f00103f90194b73999020000009203154475656e6465732064656c204772616d616cc3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.51622679999998,
+          13.510648999734698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escuela de Artes y Oficios José Mariano Méndez",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "2201",
+        "suburb": "Barrio San Sebastian",
+        "street": "Calle José Mariano Méndez Poniente",
+        "iso3166_2": "SV-SA",
+        "lon": -89.56339396891678,
+        "lat": 13.98952465,
+        "state_code": "SA",
+        "formatted": "Escuela de Artes y Oficios José Mariano Méndez, Calle José Mariano Méndez Poniente, 2201 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Escuela de Artes y Oficios José Mariano Méndez",
+        "address_line2": "Calle José Mariano Méndez Poniente, 2201 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escuela de Artes y Oficios José Mariano Méndez",
+            "osm_id": -13753897,
+            "tourism": "attraction",
+            "building": "ruins",
+            "historic": "ruins",
+            "osm_type": "r",
+            "addr:city": "Santa Ana",
+            "addr:street": "Calle José Mariano Méndez Poniente",
+            "building:levels": 2
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "building": {
+          "levels": 2,
+          "type": "ruins"
+        },
+        "place_id": "51b6d093a50e6456c059c2db92f9a2fa2b40f00101f90129ded1000000000092033045736375656c612064652041727465732079204f666963696f73204a6f73c3a9204d617269616e6f204dc3a96e64657a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.56339396891676,
+          13.989524649788908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iglesia de la Inmaculada Concepción de María",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Lempira",
+        "city": "Gualcince",
+        "street": "RV-814",
+        "iso3166_2": "HN-LE",
+        "lon": -88.54239364659091,
+        "lat": 14.123674000000001,
+        "state_code": "LE",
+        "formatted": "Iglesia de la Inmaculada Concepción de María, RV-814, Gualcince, Honduras",
+        "address_line1": "Iglesia de la Inmaculada Concepción de María",
+        "address_line2": "RV-814, Gualcince, Honduras",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.church"
+        ],
+        "details": [
+          "details.building",
+          "details.historic",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Iglesia de la Inmaculada Concepción de María",
+            "osm_id": -8335772,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "church",
+            "osm_type": "r",
+            "religion": "christian",
+            "addr:city": "Gualcinse",
+            "start_date": 1700,
+            "denomination": "catholic"
+          }
+        },
+        "historic": {
+          "type": "church",
+          "start_date": 1700
+        },
+        "building": {
+          "start_date": 1700
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "catholic"
+        },
+        "place_id": "51a26ad793b62256c059fb0cd132523f2c40f00101f9019c317f000000000092032e49676c65736961206465206c6120496e6d6163756c61646120436f6e6365706369c3b36e206465204d6172c3ad61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54239364659091,
+          14.123673999804387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto San Juan",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Cuscatlán",
+        "city": "Suchitoto",
+        "street": "Calle a Turicentro",
+        "iso3166_2": "SV-CU",
+        "lon": -89.0161675907601,
+        "lat": 13.94595515,
+        "state_code": "CU",
+        "formatted": "Puerto San Juan, Calle a Turicentro, Suchitoto, Cuscatlán, El Salvador",
+        "address_line1": "Puerto San Juan",
+        "address_line2": "Calle a Turicentro, Suchitoto, Cuscatlán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puerto San Juan",
+            "osm_id": -6442389,
+            "tourism": "attraction",
+            "osm_type": "r"
+          }
+        },
+        "place_id": "517664cae3084156c059009cbf3b54e42b40f00101f901954d62000000000092030f50756572746f2053616e204a75616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01616759076009,
+          13.945955149783913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casino Santaneco",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Juan",
+        "street": "Avenida Independencia Norte",
+        "iso3166_2": "SV-SA",
+        "lon": -89.55707643166068,
+        "lat": 13.99534315,
+        "state_code": "SA",
+        "formatted": "Casino Santaneco, Avenida Independencia Norte, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Casino Santaneco",
+        "address_line2": "Avenida Independencia Norte, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casino Santaneco",
+            "osm_id": -6319238,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "building",
+            "osm_type": "r",
+            "addr:city": "Santa Ana",
+            "addr:street": "Avenida Independencia Norte"
+          }
+        },
+        "historic": {
+          "type": "building"
+        },
+        "place_id": "51b6d6e723a76356c059aa49099e9dfd2b40f00101f901866c600000000000920310436173696e6f2053616e74616e65636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55707643166065,
+          13.99534314978958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torre",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "street": "Avenida José María Cornejo",
+        "iso3166_2": "SV-SV",
+        "lon": -88.78412299759847,
+        "lat": 13.645238200000001,
+        "state_code": "SV",
+        "formatted": "Torre, Avenida José María Cornejo, San Vicente, El Salvador",
+        "address_line1": "Torre",
+        "address_line2": "Avenida José María Cornejo, San Vicente, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Torre",
+            "osm_id": 268659960,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "San Vicente",
+            "addr:street": "Avenida Jose Maria Cornejo,"
+          }
+        },
+        "place_id": "5186ae39122f3256c059331c4ca95c4a2b40f00102f901f86c031000000000920305546f727265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78412299759847,
+          13.645238199749746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Bendición de Yahve",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "San Juan Opico",
+        "hamlet": "Colonia Las Victorias IV",
+        "street": "Carretera a San Juan Opico",
+        "iso3166_2": "SV-LI",
+        "lon": -89.36018130913801,
+        "lat": 13.856292,
+        "state_code": "LI",
+        "formatted": "Casa Bendición de Yahve, Carretera a San Juan Opico, San Juan Opico, La Libertad, El Salvador",
+        "address_line1": "Casa Bendición de Yahve",
+        "address_line2": "Carretera a San Juan Opico, San Juan Opico, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa Bendición de Yahve",
+            "osm_id": 317134778,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "Opico",
+            "addr:street": "Carretera a Opico"
+          }
+        },
+        "place_id": "5134d8e7350d5756c05966b5ade76bb62b40f00102f901ba17e71200000000920318436173612042656e64696369c3b36e206465205961687665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.360181309138,
+          13.856291999773656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teatro Nacional de Santa Ana",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Lorenzo",
+        "street": "2ª Calle Oriente",
+        "iso3166_2": "SV-SA",
+        "lon": -89.55659383287401,
+        "lat": 13.9955792,
+        "state_code": "SA",
+        "formatted": "Teatro Nacional de Santa Ana, 2ª Calle Oriente, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Teatro Nacional de Santa Ana",
+        "address_line2": "2ª Calle Oriente, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "building.historic",
+          "building.tourism",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Teatro Nacional de Santa Ana",
+            "osm_id": 368071888,
+            "amenity": "theatre",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "theatre",
+            "osm_type": "w",
+            "addr:city": "Santa Ana",
+            "addr:street": "2ª Calle Oriente"
+          }
+        },
+        "historic": {
+          "type": "theatre"
+        },
+        "place_id": "515856bd3b9f6356c05933598f8ebcfd2b40f00102f901d054f0150000000092031c54656174726f204e6163696f6e616c2064652053616e746120416e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.556593832874,
+          13.995579199789608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Juan",
+        "street": "2ª Calle Poniente o Villa Morena",
+        "iso3166_2": "SV-SA",
+        "lon": -89.55689699999999,
+        "lat": 13.995130450000001,
+        "state_code": "SA",
+        "formatted": "2ª Calle Poniente o Villa Morena, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "2ª Calle Poniente o Villa Morena",
+        "address_line2": "0210 - Santa Ana, Santa Ana, El Salvador",
+        "name": "2ª Calle Poniente o Villa Morena",
+        "categories": [
+          "highway",
+          "highway.residential",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "2ª Calle Poniente o Villa Morena",
+            "lanes": 1,
+            "oneway": "yes",
+            "osm_id": 368079028,
+            "highway": "residential",
+            "surface": "asphalt",
+            "tourism": "attraction",
+            "z_order": 330,
+            "osm_type": "w"
+          }
+        },
+        "way": {
+          "oneway": true,
+          "lanes": 1,
+          "surface": "asphalt"
+        },
+        "place_id": "51283284ada36356c059503d2fa880fd2b40f00102f901b470f0150000000092032132c2aa2043616c6c6520506f6e69656e7465206f2056696c6c61204d6f72656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55686509999998,
+          13.995122199789563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "San Salvador",
+        "hamlet": "Urbanizacion Lomas de Altamira",
+        "municipality": "San Salvador Centro",
+        "postcode": "1101",
+        "district": "Cantón Lomas de Candelaria",
+        "neighbourhood": "Lotificación Montserrat",
+        "street": "Avenida Doctor José Antonio Rodríguez Porth",
+        "iso3166_2": "SV-SS",
+        "lon": -89.21393624113969,
+        "lat": 13.6795352,
+        "state_code": "SS",
+        "formatted": "Mirador, Avenida Doctor José Antonio Rodríguez Porth, 1101 - San Salvador, San Salvador, El Salvador",
+        "address_line1": "Mirador",
+        "address_line2": "Avenida Doctor José Antonio Rodríguez Porth, 1101 - San Salvador, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 377364843,
+            "tourism": "attraction",
+            "operator": "Alcaldía Municipal de San Salvador",
+            "osm_type": "w"
+          }
+        },
+        "operator": "Alcaldía Municipal de San Salvador",
+        "place_id": "51f1c7a121b14d56c0595ad8a609ec5b2b40f00102f9016b217e16000000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.21393624113968,
+          13.679535199753605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa del Expresidente Pedro José Escalón",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "district": "Colonia Coto",
+        "suburb": "Barrio Santa Cruz",
+        "street": "Calle Libertad Oriente",
+        "iso3166_2": "SV-SA",
+        "lon": -89.55474570000001,
+        "lat": 13.99388595,
+        "state_code": "SA",
+        "formatted": "Casa del Expresidente Pedro José Escalón, Calle Libertad Oriente, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Casa del Expresidente Pedro José Escalón",
+        "address_line2": "Calle Libertad Oriente, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa del Expresidente Pedro José Escalón",
+            "osm_id": 383543569,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "abandoned": "yes"
+          }
+        },
+        "disused": true,
+        "place_id": "512fc61bf4806356c0594f99849edefc2b40f00102f9011169dc160000000092032a436173612064656c204578707265736964656e746520506564726f204a6f73c3a920457363616cc3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5547457,
+          13.993885949789414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a los Próceres",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "San Salvador",
+        "municipality": "San Salvador Centro",
+        "postcode": "1011",
+        "district": "Centro Histórico",
+        "suburb": "Barrio El Centro",
+        "retail": "Microcentro Histórico de San Salvador",
+        "street": "Calle Presbítero Vicente Aguilar",
+        "iso3166_2": "SV-SS",
+        "lon": -89.1894137,
+        "lat": 13.6974675,
+        "state_code": "SS",
+        "formatted": "Monumento a los Próceres, Calle Presbítero Vicente Aguilar, 1011 - San Salvador, San Salvador, El Salvador",
+        "address_line1": "Monumento a los Próceres",
+        "address_line2": "Calle Presbítero Vicente Aguilar, 1011 - San Salvador, San Salvador, El Salvador",
+        "categories": [
+          "access",
+          "access.yes",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a los Próceres",
+            "access": "yes",
+            "osm_id": 418859022,
+            "tourism": "artwork",
+            "historic": "monument",
+            "osm_type": "n",
+            "inscription": "5 de Noviembre\n1811 - 1911",
+            "artwork_type": "statue"
+          }
+        },
+        "historic": {
+          "type": "monument",
+          "inscription": "5 de Noviembre\n1811 - 1911",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "5184baa35a1f4c56c0595ef2ca751a652b40f00103f9010e48f718000000009203194d6f6e756d656e746f2061206c6f73205072c3b36365726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.18941369999999,
+          13.697467499755643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Juan",
+        "street": "2ª Calle Poniente o Vía Morena",
+        "iso3166_2": "SV-SA",
+        "lon": -89.55891760676299,
+        "lat": 13.995409419619325,
+        "state_code": "SA",
+        "formatted": "2ª Calle Poniente o Vía Morena, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "2ª Calle Poniente o Vía Morena",
+        "address_line2": "0210 - Santa Ana, Santa Ana, El Salvador",
+        "name": "2ª Calle Poniente o Vía Morena",
+        "categories": [
+          "highway",
+          "highway.residential",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "2ª Calle Poniente o Vía Morena",
+            "lanes": 1,
+            "oneway": "yes",
+            "osm_id": 425055543,
+            "highway": "residential",
+            "surface": "asphalt",
+            "tourism": "attraction",
+            "z_order": 330,
+            "osm_type": "w"
+          }
+        },
+        "way": {
+          "oneway": true,
+          "lanes": 1,
+          "surface": "asphalt"
+        },
+        "place_id": "5109dae4f0c96356c059d5088826abfd2b40f00102f90137d555190000000092032032c2aa2043616c6c6520506f6e69656e7465206f2056c3ad61204d6f72656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55920049999999,
+          13.995446399789595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Juan",
+        "street": "2ª Calle Poniente",
+        "iso3166_2": "SV-SA",
+        "lon": -89.55727311583048,
+        "lat": 13.995192460877952,
+        "state_code": "SA",
+        "formatted": "2ª Calle Poniente, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "2ª Calle Poniente",
+        "address_line2": "0210 - Santa Ana, Santa Ana, El Salvador",
+        "name": "2ª Calle Poniente",
+        "categories": [
+          "highway",
+          "highway.residential",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "2ª Calle Poniente",
+            "lanes": 1,
+            "name_1": "Via Morena",
+            "oneway": "yes",
+            "osm_id": 425055544,
+            "highway": "residential",
+            "surface": "asphalt",
+            "tourism": "attraction",
+            "z_order": 330,
+            "osm_type": "w"
+          }
+        },
+        "way": {
+          "oneway": true,
+          "lanes": 1,
+          "surface": "asphalt"
+        },
+        "place_id": "51764b72c0ae6356c05948e8a2598ffd2b40f00102f90138d555190000000092031232c2aa2043616c6c6520506f6e69656e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55754099999999,
+          13.995234299789573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Termales de Santa Teresa",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Ahuachapán",
+        "municipality": "Ahuachapán Centro",
+        "postcode": "2101",
+        "street": "Calle a la Laguna de las Ninfas",
+        "iso3166_2": "SV-AH",
+        "lon": -89.81869979136277,
+        "lat": 13.90180995,
+        "state_code": "AH",
+        "formatted": "Termales de Santa Teresa, Calle a la Laguna de las Ninfas, 2101 - Ahuachapán, Ahuachapán, El Salvador",
+        "address_line1": "Termales de Santa Teresa",
+        "address_line2": "Calle a la Laguna de las Ninfas, 2101 - Ahuachapán, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Termales de Santa Teresa",
+            "osm_id": 458891065,
+            "landuse": "tourism",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "514a49cf93657456c059e003a308bacd2b40f00102f901391f5a1b000000009203185465726d616c65732064652053616e746120546572657361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81869979136277,
+          13.901809949778851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque La Alameda",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Paz",
+        "city": "Zacatecoluca",
+        "postcode": "0821",
+        "district": "Barrio El Centro",
+        "iso3166_2": "SV-PA",
+        "lon": -88.87322890619495,
+        "lat": 13.50869795,
+        "state_code": "PA",
+        "formatted": "Parque La Alameda, 0821 - Zacatecoluca, La Paz, El Salvador",
+        "address_line1": "Parque La Alameda",
+        "address_line2": "0821 - Zacatecoluca, La Paz, El Salvador",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque La Alameda",
+            "osm_id": 550738476,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51de817efbe23756c059be4dc30e74042b40f00102f9012c9ad32000000000920311506172717565204c6120416c616d656461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.87322890619495,
+          13.50869794973448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paseo el Calvario",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Usulután",
+        "city": "Usulután",
+        "postcode": "3401",
+        "district": "Colonia Puesta del Sol",
+        "street": "Avenida Melara",
+        "iso3166_2": "SV-US",
+        "lon": -88.44035081458836,
+        "lat": 13.341785949999998,
+        "state_code": "US",
+        "formatted": "Paseo el Calvario, Avenida Melara, 3401 - Usulután, Usulután, El Salvador",
+        "address_line1": "Paseo el Calvario",
+        "address_line2": "Avenida Melara, 3401 - Usulután, Usulután, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Paseo el Calvario",
+            "osm_id": 570405482,
+            "tourism": "attraction",
+            "operator": "Usulutan",
+            "osm_type": "w",
+            "addr:city": "Usulután",
+            "wheelchair": "yes",
+            "addr:street": "Avenida Melara",
+            "addr:postcode": 3401
+          }
+        },
+        "operator": "Usulutan",
+        "facilities": {
+          "wheelchair": true
+        },
+        "place_id": "5122db2eb52e1c56c05986866891feae2a40f00102f9016ab2ff2100000000920311506173656f20656c2043616c766172696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.44035081458836,
+          13.341785949716051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza El Santuario",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "iso3166_2": "SV-SV",
+        "lon": -88.78155153606022,
+        "lat": 13.6443601,
+        "state_code": "SV",
+        "formatted": "Plaza El Santuario, San Vicente, El Salvador",
+        "address_line1": "Plaza El Santuario",
+        "address_line2": "San Vicente, El Salvador",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza El Santuario",
+            "osm_id": 608794310,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "511ae1bbf0043256c059498b2691e9492b40f00102f901c676492400000000920312506c617a6120456c2053616e74756172696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78155153606022,
+          13.64436009974965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Triangulo",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "iso3166_2": "SV-SV",
+        "lon": -88.79146319997093,
+        "lat": 13.64509005,
+        "state_code": "SV",
+        "formatted": "El Triangulo, San Vicente, El Salvador",
+        "address_line1": "El Triangulo",
+        "address_line2": "San Vicente, El Salvador",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Triangulo",
+            "osm_id": 608798562,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:street": "Calle Álvaro Quiñonez de Osorio"
+          }
+        },
+        "place_id": "5136f74355a73256c059db4c353e494a2b40f00102f901628749240000000092030c456c20547269616e67756c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.79146319997093,
+          13.645090049749731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cancha Tacón",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "iso3166_2": "SV-SV",
+        "lon": -88.78804625509183,
+        "lat": 13.64258025,
+        "state_code": "SV",
+        "formatted": "Cancha Tacón, San Vicente, El Salvador",
+        "address_line1": "Cancha Tacón",
+        "address_line2": "San Vicente, El Salvador",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cancha Tacón",
+            "osm_id": 608801720,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b2568f596f3256c05975754b4700492b40f00102f901b89349240000000092030d43616e63686120546163c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78804625509181,
+          13.642580249749452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "street": "1a Calle Oriente/Calle Lic. Hernany Miranda",
+        "iso3166_2": "SV-SV",
+        "lon": -88.7816219,
+        "lat": 13.6440397,
+        "state_code": "SV",
+        "formatted": "1a Calle Oriente/Calle Lic. Hernany Miranda, San Vicente, El Salvador",
+        "address_line1": "1a Calle Oriente/Calle Lic. Hernany Miranda",
+        "address_line2": "San Vicente, El Salvador",
+        "name": "1a Calle Oriente/Calle Lic. Hernany Miranda",
+        "categories": [
+          "access",
+          "access.yes",
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "lit": "yes",
+            "foot": "yes",
+            "ford": "stepping_stones",
+            "name": "1a Calle Oriente/Calle Lic. Hernany Miranda",
+            "access": "permissive",
+            "oneway": "no",
+            "osm_id": 610020328,
+            "highway": "footway",
+            "surface": "paving_stones",
+            "tourism": "attraction",
+            "z_order": 100,
+            "alt_name": "1 Calle",
+            "osm_type": "w",
+            "addr:city": "San Vicente",
+            "addr:street": "1a Calle Oriente/Calle Lic. Hernany Miranda",
+            "motor_vehicle": "no"
+          }
+        },
+        "name_other": {
+          "alt_name": "1 Calle"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "way": {
+          "lit": true,
+          "oneway": false,
+          "surface": "paving_stones"
+        },
+        "place_id": "51bd3e29490d3256c059c92c6840ce492b40f00102f901e82b5c240000000092032b31612043616c6c65204f7269656e74652f43616c6c65204c69632e204865726e616e79204d6972616e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78206089999999,
+          13.64415169974963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Tempisque",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "iso3166_2": "SV-SV",
+        "lon": -88.78003376192184,
+        "lat": 13.64442265,
+        "state_code": "SV",
+        "formatted": "El Tempisque, San Vicente, El Salvador",
+        "address_line1": "El Tempisque",
+        "address_line2": "San Vicente, El Salvador",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Tempisque",
+            "osm_id": 614971026,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51ba4eba12ec3156c059f1f3fac3f1492b40f00102f90192b6a7240000000092030c456c2054656d706973717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78003376192183,
+          13.644422649749659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acahuapa",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "street": "Carretera a San Vicente",
+        "iso3166_2": "SV-SV",
+        "lon": -88.78372737037822,
+        "lat": 13.64904815,
+        "state_code": "SV",
+        "formatted": "Acahuapa, Carretera a San Vicente, San Vicente, El Salvador",
+        "address_line1": "Acahuapa",
+        "address_line2": "Carretera a San Vicente, San Vicente, El Salvador",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Acahuapa",
+            "water": "river",
+            "osm_id": 614973067,
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "San Vicente",
+            "addr:street": "Carretera a San Vicente"
+          }
+        },
+        "place_id": "514a30d896283256c059a669010a504c2b40f00102f9018bbea724000000009203084163616875617061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78372737037822,
+          13.649048149750183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acahuapa",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "street": "Carretera a San Vicente",
+        "iso3166_2": "SV-SV",
+        "lon": -88.78320649445206,
+        "lat": 13.6483431,
+        "state_code": "SV",
+        "formatted": "Acahuapa, Carretera a San Vicente, San Vicente, El Salvador",
+        "address_line1": "Acahuapa",
+        "address_line2": "Carretera a San Vicente, San Vicente, El Salvador",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Acahuapa",
+            "water": "river",
+            "osm_id": 614973068,
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "San Vicente",
+            "addr:street": "Carretera a San Vicente"
+          }
+        },
+        "place_id": "51edeb210e203256c059240774a0f34b2b40f00102f9018cbea724000000009203084163616875617061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78320649445205,
+          13.6483430997501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puente viejo Agua Caliente",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Atiquizaya",
+        "hamlet": "El Salitre",
+        "municipality": "Ahuachapán Norte",
+        "street": "Calle antigua a Las Chinamas",
+        "iso3166_2": "SV-AH",
+        "lon": -89.80082749969668,
+        "lat": 13.9922553,
+        "state_code": "AH",
+        "formatted": "Puente viejo Agua Caliente, Calle antigua a Las Chinamas, Atiquizaya, Ahuachapán, El Salvador",
+        "address_line1": "Puente viejo Agua Caliente",
+        "address_line2": "Calle antigua a Las Chinamas, Atiquizaya, Ahuachapán, El Salvador",
+        "categories": [
+          "man_made",
+          "man_made.bridge",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.bridge",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puente viejo Agua Caliente",
+            "layer": 1,
+            "osm_id": 1039180362,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "man_made": "bridge",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins",
+          "object_type": "bridge"
+        },
+        "place_id": "51d23bfcc1407356c0593dc1fbe208fc2b40f00102f9014aa2f03d0000000092031a5075656e7465207669656a6f20416775612043616c69656e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.80082749969668,
+          13.99225529978923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KAIPIRINHA BAR",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "Guazapa",
+        "municipality": "San Salvador Norte",
+        "street": "Guerrilla Trail",
+        "iso3166_2": "SV-SS",
+        "lon": -89.14002353779156,
+        "lat": 13.874119449999998,
+        "state_code": "SS",
+        "formatted": "KAIPIRINHA BAR, Guerrilla Trail, Guazapa, San Salvador, El Salvador",
+        "address_line1": "KAIPIRINHA BAR",
+        "address_line2": "Guerrilla Trail, Guazapa, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "KAIPIRINHA BAR",
+            "osm_id": 1052886611,
+            "tourism": "attraction",
+            "operator": "Eco Turismo Guazapa",
+            "osm_type": "w",
+            "description": "Lugar turístico de la ruta del combatiente, marca el inicio de la caminata y solo opera durante las excursiones programadas."
+          }
+        },
+        "operator": "Eco Turismo Guazapa",
+        "description": "Lugar turístico de la ruta del combatiente, marca el inicio de la caminata y solo opera durante las excursiones programadas.",
+        "place_id": "510adf4825f64856c0590c2ba3958cbf2b40f00102f90153c6c13e0000000092030e4b4149504952494e484120424152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.14002353779156,
+          13.874119449775684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torre",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "street": "Avenida José María Cornejo",
+        "iso3166_2": "SV-SV",
+        "lon": -88.78412299759847,
+        "lat": 13.645238200000001,
+        "state_code": "SV",
+        "formatted": "Torre, Avenida José María Cornejo, San Vicente, El Salvador",
+        "address_line1": "Torre",
+        "address_line2": "Avenida José María Cornejo, San Vicente, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Torre",
+            "osm_id": 1069109510,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5186ae39122f3256c059331c4ca95c4a2b40f00102f9010651b93f00000000920305546f727265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78412299759847,
+          13.645238199749746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonsonate tierra bendita de Dios",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Sonsonate",
+        "city": "Sonsonate",
+        "municipality": "Sonsonate Centro",
+        "postcode": "9601",
+        "street": "10ª Avenida Norte",
+        "iso3166_2": "SV-SO",
+        "lon": -89.72243065185376,
+        "lat": 13.72025335,
+        "state_code": "SO",
+        "formatted": "Sonsonate tierra bendita de Dios, 10ª Avenida Norte, 9601 - Sonsonate, Sonsonate, El Salvador",
+        "address_line1": "Sonsonate tierra bendita de Dios",
+        "address_line2": "10ª Avenida Norte, 9601 - Sonsonate, Sonsonate, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sonsonate tierra bendita de Dios",
+            "osm_id": 1121064758,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artist_name": "Juan Carlos Hernandez aka BlackArt",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artist_name": "Juan Carlos Hernandez aka BlackArt",
+          "artwork_type": "mural"
+        },
+        "place_id": "51bfd5c54d3c6e56c05987170c0cc5702b40f00102f9013617d24200000000920320536f6e736f6e617465207469657272612062656e646974612064652044696f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.72243065185374,
+          13.720253349758208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Yanqui",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Sonsonate",
+        "city": "Nahulingo",
+        "village": "Piedra de Moler",
+        "hamlet": "Lotificacion El Edén",
+        "municipality": "Sonsonate Centro",
+        "postcode": "9601",
+        "street": "SON10E",
+        "iso3166_2": "SV-SO",
+        "lon": -89.71086070470595,
+        "lat": 13.706259750000001,
+        "state_code": "SO",
+        "formatted": "El Yanqui, SON10E, 9601 - Nahulingo, Sonsonate, El Salvador",
+        "address_line1": "El Yanqui",
+        "address_line2": "SON10E, 9601 - Nahulingo, Sonsonate, El Salvador",
+        "categories": [
+          "access",
+          "access.yes",
+          "sport",
+          "sport.swimming_pool",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "El Yanqui",
+            "access": "yes",
+            "osm_id": 1130959027,
+            "leisure": "swimming_pool",
+            "tourism": "attraction",
+            "location": "outdoor",
+            "osm_type": "w",
+            "swimming_pool": "swimming"
+          }
+        },
+        "facilities": {
+          "swimming_pool": true
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "514eaee5bd7e6d56c059275fbfe09a692b40f00102f901b310694300000000920309456c2059616e717569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.71086070470594,
+          13.706259749756624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paque Recreativo Amapulapa",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "street": "Calle Antigua a Amapulapa",
+        "iso3166_2": "SV-SV",
+        "lon": -88.77464958533966,
+        "lat": 13.6274066,
+        "state_code": "SV",
+        "formatted": "Paque Recreativo Amapulapa, Calle Antigua a Amapulapa, San Vicente, El Salvador",
+        "address_line1": "Paque Recreativo Amapulapa",
+        "address_line2": "Calle Antigua a Amapulapa, San Vicente, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Paque Recreativo Amapulapa",
+            "osm_id": 1154849389,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5133b9dadb933156c0591a6c16703b412b40f00102f9016d9ad5440000000092031a5061717565205265637265617469766f20416d6170756c617061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.77464958533965,
+          13.627406599747747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hacienda Rios Claro",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Quezaltepeque",
+        "street": "LIB 25",
+        "iso3166_2": "SV-LI",
+        "lon": -89.28426815308049,
+        "lat": 13.85062535,
+        "state_code": "LI",
+        "formatted": "Hacienda Rios Claro, LIB 25, Quezaltepeque, La Libertad, El Salvador",
+        "address_line1": "Hacienda Rios Claro",
+        "address_line2": "LIB 25, Quezaltepeque, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Hacienda Rios Claro",
+            "osm_id": 1160591846,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "519a310d73315256c059e7d8742a85b32b40f00102f901e6392d450000000092031348616369656e64612052696f7320436c61726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.28426815308049,
+          13.85062534977301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural al Magico Gonzalez",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "San Salvador",
+        "municipality": "San Salvador Centro",
+        "postcode": "1103",
+        "district": "Distrito Municipal 2",
+        "neighbourhood": "Residencial Olímpica",
+        "street": "49a Avenida Sur",
+        "iso3166_2": "SV-SS",
+        "lon": -89.21616105000001,
+        "lat": 13.698858099999999,
+        "state_code": "SS",
+        "formatted": "Mural al Magico Gonzalez, 49a Avenida Sur, 1103 - San Salvador, San Salvador, El Salvador",
+        "address_line1": "Mural al Magico Gonzalez",
+        "address_line2": "49a Avenida Sur, 1103 - San Salvador, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural al Magico Gonzalez",
+            "osm_id": 1199331291,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artist_name": "Rodo",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artist_name": "Rodo",
+          "artwork_type": "mural"
+        },
+        "place_id": "515780a5a9d44d56c059132bfd5fd0652b40f00102f901db577c47000000009203184d7572616c20616c204d616769636f20476f6e7a616c657a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.21610489999999,
+          13.698855399755791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador La Cruz",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "San Pedro Puxtla",
+        "municipality": "Ahuachapán Sur",
+        "street": "13a Calle Poniente",
+        "iso3166_2": "SV-AH",
+        "lon": -89.81223796372386,
+        "lat": 13.77657485,
+        "state_code": "AH",
+        "formatted": "Mirador La Cruz, 13a Calle Poniente, San Pedro Puxtla, Ahuachapán, El Salvador",
+        "address_line1": "Mirador La Cruz",
+        "address_line2": "13a Calle Poniente, San Pedro Puxtla, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador La Cruz",
+            "osm_id": 1220607073,
+            "tourism": "viewpoint",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51deb0f0b4fb7356c0592045fd379b8d2b40f00102f90161fcc0480000000092030f4d697261646f72204c61204372757a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81223796372385,
+          13.776574849764586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faro del Turicentro Apulo",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "Ilopango",
+        "village": "Dolores Apulo",
+        "hamlet": "Apacingo",
+        "municipality": "San Salvador Este",
+        "postcode": "1117",
+        "district": "Comunidad El Salvador I",
+        "street": "Apulo Recreational Park Entrance",
+        "iso3166_2": "SV-SS",
+        "lon": -89.07646929782986,
+        "lat": 13.701126649999999,
+        "state_code": "SS",
+        "formatted": "Faro del Turicentro Apulo, Apulo Recreational Park Entrance, 1117 - Ilopango, San Salvador, El Salvador",
+        "address_line1": "Faro del Turicentro Apulo",
+        "address_line2": "Apulo Recreational Park Entrance, 1117 - Ilopango, San Salvador, El Salvador",
+        "categories": [
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Faro del Turicentro Apulo",
+            "osm_id": 1227208707,
+            "tourism": "attraction",
+            "man_made": "lighthouse",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51f3547bdfe44456c059cd1c7e12fa662b40f00102f90103b82549000000009203194661726f2064656c205475726963656e74726f204170756c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07646929782986,
+          13.701126649756043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa del Escultor",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Cuscatlán",
+        "city": "Suchitoto",
+        "street": "3a Avenida Norte",
+        "iso3166_2": "SV-CU",
+        "lon": -89.0241946,
+        "lat": 13.9380009,
+        "state_code": "CU",
+        "formatted": "Casa del Escultor, 3a Avenida Norte, Suchitoto, Cuscatlán, El Salvador",
+        "address_line1": "Casa del Escultor",
+        "address_line2": "3a Avenida Norte, Suchitoto, Cuscatlán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa del Escultor",
+            "osm_id": 1327860370,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5159ef81678c4156c059815f68a741e02b40f00103f901928a254f00000000920311436173612064656c20457363756c746f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0241946,
+          13.938000899782994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acceso Desprendimiento de las Colinas 2001",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Santa Tecla",
+        "hamlet": "Altos del Matazano",
+        "postcode": "0511",
+        "district": "Alturas de Tenerife",
+        "street": "Calle a Comasagua",
+        "iso3166_2": "SV-LI",
+        "lon": -89.2932402,
+        "lat": 13.6549549,
+        "state_code": "LI",
+        "formatted": "Acceso Desprendimiento de las Colinas 2001, Calle a Comasagua, 0511 - Santa Tecla, La Libertad, El Salvador",
+        "address_line1": "Acceso Desprendimiento de las Colinas 2001",
+        "address_line2": "Calle a Comasagua, 0511 - Santa Tecla, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Acceso Desprendimiento de las Colinas 2001",
+            "osm_id": 1520522728,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d7378b72c45256c059d491a53f564f2b40f00103f901e855a15a0000000092032a41636365736f204465737072656e64696d69656e746f206465206c617320436f6c696e61732032303031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2932402,
+          13.654954899750841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madeiros Arte en madera",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Zaragoza",
+        "hamlet": "El Corralito",
+        "district": "Residencial Las Pérgolas",
+        "street": "Carretera a La Libertad",
+        "iso3166_2": "SV-LI",
+        "lon": -89.2901168,
+        "lat": 13.5709093,
+        "state_code": "LI",
+        "formatted": "Madeiros Arte en madera, Carretera a La Libertad, Zaragoza, La Libertad, El Salvador",
+        "address_line1": "Madeiros Arte en madera",
+        "address_line2": "Carretera a La Libertad, Zaragoza, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Madeiros Arte en madera",
+            "osm_id": 1528809411,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514b010e46915256c05948be46394e242b40f00103f901c3c71f5b000000009203174d61646569726f73204172746520656e206d6164657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2901168,
+          13.570909299741416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Redondel Olímpico",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "San Salvador",
+        "municipality": "San Salvador Centro",
+        "postcode": "1101",
+        "district": "Distrito Municipal 2",
+        "neighbourhood": "Urbanización Santa Monica",
+        "suburb": "Colonia Escalón",
+        "street": "Redondel Olímpico",
+        "iso3166_2": "SV-SS",
+        "lon": -89.2218707,
+        "lat": 13.6988718,
+        "state_code": "SS",
+        "formatted": "Monumento Redondel Olímpico, Redondel Olímpico, 1101 - San Salvador, San Salvador, El Salvador",
+        "address_line1": "Monumento Redondel Olímpico",
+        "address_line2": "Redondel Olímpico, 1101 - San Salvador, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Redondel Olímpico",
+            "osm_id": 1549864658,
+            "tourism": "artwork",
+            "material": "concrete",
+            "memorial": "sculpture",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51321c2a21334e56c05979184886d2652b40f00103f901d20e615c0000000092031c4d6f6e756d656e746f205265646f6e64656c204f6cc3ad6d7069636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22187069999998,
+          13.698871799755794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascadas de Huizucar",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Huizúcar",
+        "street": "Senda Al Rio Huiza",
+        "iso3166_2": "SV-LI",
+        "lon": -89.2310628,
+        "lat": 13.5896279,
+        "state_code": "LI",
+        "formatted": "Cascadas de Huizucar, Senda Al Rio Huiza, Huizúcar, La Libertad, El Salvador",
+        "address_line1": "Cascadas de Huizucar",
+        "address_line2": "Senda Al Rio Huiza, Huizúcar, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascadas de Huizucar",
+            "osm_id": 1550680681,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519e54a0bbc94e56c059426a44b5e32d2b40f00103f90169826d5c000000009203144361736361646173206465204875697a75636172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.23106279999999,
+          13.589627899743508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascadas de Huizucar",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "Rosario de Mora",
+        "municipality": "San Salvador Sur",
+        "street": "SAL22S",
+        "iso3166_2": "SV-SS",
+        "lon": -89.2265675,
+        "lat": 13.5842103,
+        "state_code": "SS",
+        "formatted": "Cascadas de Huizucar, SAL22S, Rosario de Mora, San Salvador, El Salvador",
+        "address_line1": "Cascadas de Huizucar",
+        "address_line2": "SAL22S, Rosario de Mora, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascadas de Huizucar",
+            "osm_id": 1550681258,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5188b5f814804e56c059a6c3c69c1d2b2b40f00103f901aa846d5c000000009203144361736361646173206465204875697a75636172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22656749999999,
+          13.584210299742903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascada",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "Rosario de Mora",
+        "municipality": "San Salvador Sur",
+        "street": "SAL22S",
+        "iso3166_2": "SV-SS",
+        "lon": -89.2201355,
+        "lat": 13.5767901,
+        "state_code": "SS",
+        "formatted": "Cascada, SAL22S, Rosario de Mora, San Salvador, El Salvador",
+        "address_line1": "Cascada",
+        "address_line2": "SAL22S, Rosario de Mora, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascada",
+            "osm_id": 1550774251,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51114c35b3164e56c059fe182e0851272b40f00103f901ebef6e5c0000000092030743617363616461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.22013549999998,
+          13.57679009974208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de la Cruz de Ataco",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Concepción de Ataco",
+        "municipality": "Ahuachapán Centro",
+        "postcode": "2106",
+        "street": "Avenida Fray Celestino Pennissi",
+        "iso3166_2": "SV-AH",
+        "lon": -89.8521697,
+        "lat": 13.8655399,
+        "state_code": "AH",
+        "formatted": "Mirador de la Cruz de Ataco, Avenida Fray Celestino Pennissi, 2106 - Concepción de Ataco, Ahuachapán, El Salvador",
+        "address_line1": "Mirador de la Cruz de Ataco",
+        "address_line2": "Avenida Fray Celestino Pennissi, 2106 - Concepción de Ataco, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de la Cruz de Ataco",
+            "osm_id": 1551253232,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511909c8f2897656c059c0d4b50b28bb2b40f00103f901f03e765c0000000092031b4d697261646f72206465206c61204372757a20646520417461636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8521697,
+          13.865539899774717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Juayúa",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Sonsonate",
+        "city": "Salcoatitán",
+        "hamlet": "Tizapa",
+        "municipality": "Sonsonate Norte",
+        "postcode": "2307",
+        "street": "Ruta de Las Flores",
+        "iso3166_2": "SV-SO",
+        "lon": -89.7642121,
+        "lat": 13.8416114,
+        "state_code": "SO",
+        "formatted": "Mirador de Juayúa, Ruta de Las Flores, 2307 - Salcoatitán, Sonsonate, El Salvador",
+        "address_line1": "Mirador de Juayúa",
+        "address_line2": "Ruta de Las Flores, 2307 - Salcoatitán, Sonsonate, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Juayúa",
+            "osm_id": 1554390907,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51472dded9e87056c0593cec7bb0e7ae2b40f00103f9017b1fa65c000000009203124d697261646f72206465204a756179c3ba61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7642121,
+          13.84161139977197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panorámico",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "San Juan Opico",
+        "street": "Acceso a Panorámico",
+        "iso3166_2": "SV-LI",
+        "lon": -89.3308443,
+        "lat": 13.8109658,
+        "state_code": "LI",
+        "formatted": "Acceso a Panorámico, San Juan Opico, La Libertad, El Salvador",
+        "address_line1": "Acceso a Panorámico",
+        "address_line2": "San Juan Opico, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Panorámico",
+            "osm_id": 1701012085,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515a24928d2c5556c0593f5cc8e8369f2b40f00103f901756263650000000092030b50616e6f72c3a16d69636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3308443,
+          13.810965799768494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador curva Dunlop",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "San Juan Opico",
+        "street": "Parqueo Paddock",
+        "iso3166_2": "SV-LI",
+        "lon": -89.3302703,
+        "lat": 13.8095593,
+        "state_code": "LI",
+        "formatted": "Mirador curva Dunlop, Parqueo Paddock, San Juan Opico, La Libertad, El Salvador",
+        "address_line1": "Mirador curva Dunlop",
+        "address_line2": "Parqueo Paddock, San Juan Opico, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador curva Dunlop",
+            "osm_id": 1701012123,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c3550a26235556c059f95a798e7e9e2b40f00103f9019b626365000000009203144d697261646f722063757276612044756e6c6f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33027029999998,
+          13.80955929976834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graderíos Caribe",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "San Juan Opico",
+        "street": "Parqueo Paddock",
+        "iso3166_2": "SV-LI",
+        "lon": -89.3300503,
+        "lat": 13.8104761,
+        "state_code": "LI",
+        "formatted": "Graderíos Caribe, Parqueo Paddock, San Juan Opico, La Libertad, El Salvador",
+        "address_line1": "Graderíos Caribe",
+        "address_line2": "Parqueo Paddock, San Juan Opico, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Graderíos Caribe",
+            "osm_id": 1701012147,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513e224b8b1f5556c059de632db9f69e2b40f00103f901b362636500000000920311477261646572c3ad6f7320436172696265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33005030000001,
+          13.810476099768433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galería de Tecla",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Santa Tecla",
+        "postcode": "0511",
+        "district": "Barrio Belén",
+        "street": "1a Calle Oriente",
+        "iso3166_2": "SV-LI",
+        "lon": -89.2888035,
+        "lat": 13.6752591,
+        "state_code": "LI",
+        "formatted": "Galería de Tecla, 1a Calle Oriente, 0511 - Santa Tecla, La Libertad, El Salvador",
+        "address_line1": "Galería de Tecla",
+        "address_line2": "1a Calle Oriente, 0511 - Santa Tecla, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Galería de Tecla",
+            "osm_id": 2091383914,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511adeacc17b5256c05937888b8fbb592b40f00103f9016afca77c0000000092031147616c6572c3ad61206465205465636c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2888035,
+          13.675259099753118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hacienda el Jicaro",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "San Lorenzo",
+        "hamlet": "Zunca",
+        "municipality": "Ahuachapán Norte",
+        "district": "Cantón Las Pozas",
+        "street": "Carretera Atiquizaya - San Lorenzo",
+        "iso3166_2": "SV-AH",
+        "lon": -89.7703803,
+        "lat": 13.9915294,
+        "state_code": "AH",
+        "formatted": "Hacienda el Jicaro, Carretera Atiquizaya - San Lorenzo, San Lorenzo, Ahuachapán, El Salvador",
+        "address_line1": "Hacienda el Jicaro",
+        "address_line2": "Carretera Atiquizaya - San Lorenzo, San Lorenzo, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hacienda el Jicaro",
+            "osm_id": 3195154704,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e47e2ce94d7156c059d83bd2bda9fb2b40f00103f901103172be0000000092031248616369656e646120656c204a696361726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7703803,
+          13.991529399789144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salto Malacatiupán",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Ahuachapán",
+        "hamlet": "Río Frío",
+        "municipality": "Ahuachapán Centro",
+        "street": "Calle al Cantón La Coyotera",
+        "iso3166_2": "SV-AH",
+        "lon": -89.7993229,
+        "lat": 13.996517,
+        "state_code": "AH",
+        "formatted": "Salto Malacatiupán, Calle al Cantón La Coyotera, Ahuachapán, El Salvador",
+        "address_line1": "Salto Malacatiupán",
+        "address_line2": "Calle al Cantón La Coyotera, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Salto Malacatiupán",
+            "osm_id": 3266223238,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51689c3c1b287356c0598502e87937fe2b40f00103f901869caec20000000092031353616c746f204d616c61636174697570c3a16e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.79932289999999,
+          13.996516999789728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Tanque de Caluco",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Sonsonate",
+        "city": "Caluco",
+        "village": "Suquiat",
+        "municipality": "Sonsonate Este",
+        "street": "Calle Al Tancon",
+        "iso3166_2": "SV-SO",
+        "lon": -89.66594,
+        "lat": 13.7042983,
+        "state_code": "SO",
+        "formatted": "El Tanque de Caluco, Calle Al Tancon, Caluco, Sonsonate, El Salvador",
+        "address_line1": "El Tanque de Caluco",
+        "address_line2": "Calle Al Tancon, Caluco, Sonsonate, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Tanque de Caluco",
+            "osm_id": 3396083900,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514946cec29e6a56c0590e2a68c999682b40f00103f901bc206cca00000000920313456c2054616e7175652064652043616c75636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66593999999999,
+          13.704298299756399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ecoparque El Espino;Eco Parque el Espino",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Antiguo Cuscatlán",
+        "postcode": "1501",
+        "iso3166_2": "SV-LI",
+        "lon": -89.2774017,
+        "lat": 13.7007083,
+        "state_code": "LI",
+        "formatted": "Ecoparque El Espino;Eco Parque el Espino, 1501 - Antiguo Cuscatlán, La Libertad, El Salvador",
+        "address_line1": "Ecoparque El Espino;Eco Parque el Espino",
+        "address_line2": "1501 - Antiguo Cuscatlán, La Libertad, El Salvador",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ecoparque El Espino;Eco Parque el Espino",
+            "osm_id": 3502173596,
+            "leisure": "park",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b4560ff3c05156c059bcf9fe3cc3662b40f00103f9019cedbed00000000092032845636f70617271756520456c20457370696e6f3b45636f2050617271756520656c20457370696e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27740169999998,
+          13.700708299755995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de La Lava",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "San Juan Opico",
+        "district": "Residencial Bella Granada",
+        "street": "Carretera a Quezaltepeque",
+        "iso3166_2": "SV-LI",
+        "lon": -89.329035,
+        "lat": 13.8044813,
+        "state_code": "LI",
+        "formatted": "Mirador de La Lava, Carretera a Quezaltepeque, San Juan Opico, La Libertad, El Salvador",
+        "address_line1": "Mirador de La Lava",
+        "address_line2": "Carretera a Quezaltepeque, San Juan Opico, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de La Lava",
+            "osm_id": 3632288252,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51520fd1e80e5556c059047e11f9e49b2b40f00103f901fc5180d8000000009203124d697261646f72206465204c61204c617661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.329035,
+          13.804481299767765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a la Libertad",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Lorenzo",
+        "street": "Avenida Independencia Norte",
+        "iso3166_2": "SV-SA",
+        "lon": -89.5568218,
+        "lat": 13.9948098,
+        "state_code": "SA",
+        "formatted": "Monumento a la Libertad, Avenida Independencia Norte, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Monumento a la Libertad",
+        "address_line2": "Avenida Independencia Norte, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a la Libertad",
+            "osm_id": 3646981390,
+            "tourism": "artwork",
+            "historic": "monument",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "historic": {
+          "type": "monument",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51ca2ce7f7a26356c05930acc7b557fd2b40f00103f9010e8560d9000000009203174d6f6e756d656e746f2061206c61204c69626572746164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5568218,
+          13.994809799789522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homenaje Póstumo a David Granadino",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Lorenzo",
+        "street": "2ª Calle Oriente",
+        "iso3166_2": "SV-SA",
+        "lon": -89.5564379,
+        "lat": 13.9949848,
+        "state_code": "SA",
+        "formatted": "Homenaje Póstumo a David Granadino, 2ª Calle Oriente, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Homenaje Póstumo a David Granadino",
+        "address_line2": "2ª Calle Oriente, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Homenaje Póstumo a David Granadino",
+            "osm_id": 3649758463,
+            "tourism": "artwork",
+            "historic": "monument",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "historic": {
+          "type": "monument",
+          "artwork_type": "bust"
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "5150b0b5ad9c6356c059f339cea56efd2b40f00103f901ffe48ad900000000920323486f6d656e616a652050c3b37374756d6f2061204461766964204772616e6164696e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55643789999999,
+          13.99498479978954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Torogoces",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "San Salvador",
+        "municipality": "San Salvador Centro",
+        "postcode": "1103",
+        "district": "Distrito Municipal 2",
+        "neighbourhood": "Colonia Centroamérica",
+        "street": "Redondel Monseñor Arturo Rivera y Damas",
+        "iso3166_2": "SV-SS",
+        "lon": -89.210806,
+        "lat": 13.7147557,
+        "state_code": "SS",
+        "formatted": "The Torogoces, Redondel Monseñor Arturo Rivera y Damas, 1103 - San Salvador, San Salvador, El Salvador",
+        "address_line1": "The Torogoces",
+        "address_line2": "Redondel Monseñor Arturo Rivera y Damas, 1103 - San Salvador, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Los Torogoces",
+            "osm_id": 3774458319,
+            "name:en": "The Torogoces",
+            "tourism": "artwork",
+            "material": "fiberglass",
+            "osm_type": "n",
+            "artist_name": "Torogoz",
+            "inscription": "Simbolos Nacionales\nAve: Torogoz\nFlor: Izote\nArbol: Maquilishuat",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "The Torogoces"
+        },
+        "artwork": {
+          "artist_name": "Torogoz",
+          "artwork_type": "statue"
+        },
+        "place_id": "513df372d87d4d56c059462d8675f46d2b40f00103f901cfa9f9e00000000092030d4c6f7320546f726f676f636573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.210806,
+          13.714755699757585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador al Volcan de Izalco",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0503",
+        "district": "Cantón Lomas de San Marcelino",
+        "street": "Calle al Cerro Verde",
+        "iso3166_2": "SV-SA",
+        "lon": -89.6248284,
+        "lat": 13.8270076,
+        "state_code": "SA",
+        "formatted": "Mirador al Volcan de Izalco, Calle al Cerro Verde, 0503 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Mirador al Volcan de Izalco",
+        "address_line2": "Calle al Cerro Verde, 0503 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador al Volcan de Izalco",
+            "osm_id": 3782569054,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512be74130fd6756c0592a1d458a6da72b40f00103f9015e6c75e10000000092031b4d697261646f7220616c20566f6c63616e20646520497a616c636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6248284,
+          13.827007599770315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Volcán de Izalco",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0503",
+        "district": "Cantón Lomas de San Marcelino",
+        "street": "Calle al Cerro Verde",
+        "iso3166_2": "SV-SA",
+        "lon": -89.6229062,
+        "lat": 13.8249513,
+        "state_code": "SA",
+        "formatted": "Mirador Volcán de Izalco, Calle al Cerro Verde, 0503 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Mirador Volcán de Izalco",
+        "address_line2": "Calle al Cerro Verde, 0503 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Volcán de Izalco",
+            "osm_id": 3782569055,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51715ef7b1dd6756c059419c4a0460a62b40f00103f9015f6c75e1000000009203194d697261646f7220566f6c63c3a16e20646520497a616c636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6229062,
+          13.82495129977008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cruz del Tecana",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "district": "Parcelación Lomas de Tecana 1",
+        "street": "Avenida Tecana",
+        "iso3166_2": "SV-SA",
+        "lon": -89.538316,
+        "lat": 13.9935301,
+        "state_code": "SA",
+        "formatted": "Cruz del Tecana, Avenida Tecana, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Cruz del Tecana",
+        "address_line2": "Avenida Tecana, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cruz del Tecana",
+            "osm_id": 3861904161,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5177baf3c4736256c059be5f2cfaaffc2b40f00103f90121fb2fe60000000092030f4372757a2064656c20546563616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.538316,
+          13.993530099789378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a José Kessel",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0210",
+        "suburb": "Barrio San Lorenzo",
+        "street": "1ª Avenida Norte",
+        "iso3166_2": "SV-SA",
+        "lon": -89.5563765,
+        "lat": 13.9952749,
+        "state_code": "SA",
+        "formatted": "Monumento a José Kessel, 1ª Avenida Norte, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Monumento a José Kessel",
+        "address_line2": "1ª Avenida Norte, 0210 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a José Kessel",
+            "osm_id": 3862026663,
+            "tourism": "artwork",
+            "historic": "monument",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "historic": {
+          "type": "monument",
+          "artwork_type": "bust"
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51d3f02dac9b6356c0597740f2ab94fd2b40f00103f901a7d931e6000000009203184d6f6e756d656e746f2061204a6f73c3a9204b657373656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55637649999998,
+          13.995274899789576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maqueta en relieve de la Republica de El Salvador",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "San Salvador",
+        "municipality": "San Salvador Centro",
+        "postcode": "1011",
+        "district": "Distrito Municipal 5",
+        "neighbourhood": "Centro Urbano Candelaria",
+        "suburb": "Barrio San Jacinto",
+        "street": "10a Avenida Sur",
+        "iso3166_2": "SV-SS",
+        "lon": -89.1923875,
+        "lat": 13.6817311,
+        "state_code": "SS",
+        "formatted": "Relief Model of the Republic of El Salvador, 10a Avenida Sur, 1011 - San Salvador, San Salvador, El Salvador",
+        "address_line1": "Relief Model of the Republic of El Salvador",
+        "address_line2": "10a Avenida Sur, 1011 - San Salvador, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maqueta en relieve de la Republica de El Salvador",
+            "osm_id": 3865037958,
+            "name:en": "Relief Model of the Republic of El Salvador",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "board_type": "history",
+            "artwork_type": "sculpture"
+          }
+        },
+        "name_international": {
+          "en": "Relief Model of the Republic of El Salvador"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "512f2aa913504c56c059c137d4db0b5d2b40f00103f90186cc5fe6000000009203314d61717565746120656e2072656c69657665206465206c612052657075626c69636120646520456c2053616c7661646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.19238749999998,
+          13.681731099753849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento de José Martí",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "San Salvador",
+        "municipality": "San Salvador Centro",
+        "postcode": "1102",
+        "district": "Distrito Municipal 1",
+        "neighbourhood": "Urbanización Santa Adela",
+        "suburb": "Barrio San Miguelito",
+        "street": "Redondel Dueñas (Don Rua)",
+        "iso3166_2": "SV-SS",
+        "lon": -89.1933225,
+        "lat": 13.709065,
+        "state_code": "SS",
+        "formatted": "Monumento de José Martí, Redondel Dueñas (Don Rua), 1102 - San Salvador, San Salvador, El Salvador",
+        "address_line1": "Monumento de José Martí",
+        "address_line2": "Redondel Dueñas (Don Rua), 1102 - San Salvador, San Salvador, El Salvador",
+        "categories": [
+          "access",
+          "access.yes",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento de José Martí",
+            "access": "yes",
+            "osm_id": 3890457495,
+            "tourism": "artwork",
+            "material": "concrete",
+            "memorial": "statue",
+            "osm_type": "n",
+            "inscription": "Jose Martí \nApóstol de Cuba y de América \n1853... \nEl pueblo de Cuba al pueblo de El Salvador \n28 de enero de 1953 \n28 de enero de 2013",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "512ec555655f4c56c059796351910a6b2b40f00103f90197abe3e7000000009203194d6f6e756d656e746f206465204a6f73c3a9204d617274c3ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1933225,
+          13.709064999756935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montemilia",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Santa Tecla",
+        "village": "Canton Alvarez",
+        "municipality": "San Salvador Centro",
+        "postcode": "3970",
+        "street": "Calle al volcan",
+        "iso3166_2": "SV-LI",
+        "lon": -89.2716752,
+        "lat": 13.7229122,
+        "state_code": "LI",
+        "formatted": "Montemilia, Calle al volcan, 3970 - Santa Tecla, La Libertad, El Salvador",
+        "address_line1": "Montemilia",
+        "address_line2": "Calle al volcan, 3970 - Santa Tecla, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Montemilia",
+            "osm_id": 4108860589,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5198c86020635156c05933af3f8c21722b40f00103f901ad3ce8f40000000092030a4d6f6e74656d696c6961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2716752,
+          13.722912199758502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minerva",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Salvador",
+        "city": "San Salvador",
+        "municipality": "San Salvador Centro",
+        "postcode": "1101",
+        "district": "Distrito Municipal 1",
+        "neighbourhood": "Colonia El Refugio",
+        "suburb": "Residencial San Carlos",
+        "street": "Autopista Norte",
+        "iso3166_2": "SV-SS",
+        "lon": -89.2033808,
+        "lat": 13.7159119,
+        "state_code": "SS",
+        "formatted": "Minerva, Autopista Norte, 1101 - San Salvador, San Salvador, El Salvador",
+        "address_line1": "Minerva",
+        "address_line2": "Autopista Norte, 1101 - San Salvador, San Salvador, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Minerva",
+            "osm_id": 4166689879,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "519928e730044d56c059a68d28018c6e2b40f00103f90157a45af8000000009203074d696e65727661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2033808,
+          13.715911899757725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Santa Tecla",
+        "village": "Canton El Progreso",
+        "hamlet": "La Cascajera",
+        "street": "Calle a El Boquerón",
+        "iso3166_2": "SV-LI",
+        "lon": -89.2823687,
+        "lat": 13.7305019,
+        "state_code": "LI",
+        "formatted": "Mirador, Calle a El Boquerón, Santa Tecla, La Libertad, El Salvador",
+        "address_line1": "Mirador",
+        "address_line2": "Calle a El Boquerón, Santa Tecla, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 4261889955,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5180fa2a54125256c059c043525804762b40f00103f901a34707fe000000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2823687,
+          13.73050189975936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro Obrero del MTPS",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Puerto de La Libertad",
+        "hamlet": "Conchalío",
+        "postcode": "0000",
+        "street": "Bulevar Conchalio",
+        "iso3166_2": "SV-LI",
+        "lon": -89.3363375,
+        "lat": 13.4844665,
+        "state_code": "LI",
+        "formatted": "Centro Obrero del MTPS, Bulevar Conchalio, 0000 - Puerto de La Libertad, La Libertad, El Salvador",
+        "address_line1": "Centro Obrero del MTPS",
+        "address_line2": "Bulevar Conchalio, 0000 - Puerto de La Libertad, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centro Obrero del MTPS",
+            "osm_id": 4269191990,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c7bab88d865556c05910b638fe0bf82a40f00103f90136b376fe0000000092031643656e74726f204f627265726f2064656c204d545053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3363375,
+          13.48446649973178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Las 100 Gradas",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Usulután",
+        "city": "Alegría",
+        "street": "2a Avenida Norte",
+        "iso3166_2": "SV-US",
+        "lon": -88.4886202,
+        "lat": 13.5096374,
+        "state_code": "US",
+        "formatted": "Mirador Las 100 Gradas, 2a Avenida Norte, Alegría, Usulután, El Salvador",
+        "address_line1": "Mirador Las 100 Gradas",
+        "address_line2": "2a Avenida Norte, Alegría, Usulután, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Las 100 Gradas",
+            "osm_id": 4303300799,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518fcaa88d451f56c0596d5b7931ef042b40f00103f901bf287f00010000009203164d697261646f72204c61732031303020477261646173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4886202,
+          13.509637399734595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascada Los Tercios",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Cuscatlán",
+        "city": "Suchitoto",
+        "street": "CUS 18",
+        "iso3166_2": "SV-CU",
+        "lon": -89.0131488,
+        "lat": 13.9372615,
+        "state_code": "CU",
+        "formatted": "Cascada Los Tercios, CUS 18, Suchitoto, Cuscatlán, El Salvador",
+        "address_line1": "Cascada Los Tercios",
+        "address_line2": "CUS 18, Suchitoto, Cuscatlán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascada Los Tercios",
+            "osm_id": 4307549992,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d27e106ed74056c0592ebc42bde0df2b40f00103f90128ffbf000100000092031343617363616461204c6f732054657263696f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01314879999998,
+          13.937261499782917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Calera",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Sonsonate",
+        "city": "Juayúa",
+        "village": "Cantón Los Cañales",
+        "municipality": "Sonsonate Norte",
+        "postcode": "2307",
+        "district": "Barrio El Calvario",
+        "suburb": "Asentamiento Buena Vista",
+        "street": "Calle a los Chorros de la Calera",
+        "iso3166_2": "SV-SO",
+        "lon": -89.7313183,
+        "lat": 13.835721,
+        "state_code": "SO",
+        "formatted": "La Calera, Calle a los Chorros de la Calera, 2307 - Juayúa, Sonsonate, El Salvador",
+        "address_line1": "La Calera",
+        "address_line2": "Calle a los Chorros de la Calera, 2307 - Juayúa, Sonsonate, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Calera",
+            "osm_id": 4311731896,
+            "tourism": "attraction",
+            "alt_name": "Chorros de La Calera",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "Chorros de La Calera"
+        },
+        "place_id": "51d95d45ebcd6e56c0594832759fe3ab2b40f00103f901b8ceff00010000009203094c612043616c657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.73131830000001,
+          13.835720999771311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cruzadia",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Usulután",
+        "city": "San Marcos Lempa",
+        "hamlet": "Tierra Blanca",
+        "street": "Carretera del Litoral",
+        "iso3166_2": "SV-US",
+        "lon": -88.6154094,
+        "lat": 13.3532942,
+        "state_code": "US",
+        "formatted": "cruzadia, Carretera del Litoral, San Marcos Lempa, Usulután, El Salvador",
+        "address_line1": "cruzadia",
+        "address_line2": "Carretera del Litoral, San Marcos Lempa, Usulután, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "cruzadia",
+            "osm_id": 4342017589,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a9a91bde622756c059024e33fae2b42a40f00103f90135eecd02010000009203086372757a61646961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.61540939999999,
+          13.353294199717315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Observatorio Juvenil de Guaymango",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Guaymango",
+        "village": "San Andres",
+        "municipality": "Ahuachapán Sur",
+        "street": "1a Calle Oriente",
+        "iso3166_2": "SV-AH",
+        "lon": -89.8433241,
+        "lat": 13.7497658,
+        "state_code": "AH",
+        "formatted": "Observatorio Juvenil de Guaymango, 1a Calle Oriente, Guaymango, Ahuachapán, El Salvador",
+        "address_line1": "Observatorio Juvenil de Guaymango",
+        "address_line2": "1a Calle Oriente, Guaymango, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Observatorio Juvenil de Guaymango",
+            "osm_id": 4360182889,
+            "name:es": "Observatorio Juvenil de Guaymango",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Observatorio Juvenil de Guaymango"
+        },
+        "place_id": "516f5ba505f97556c05933458b4de17f2b40f00103f901691ce303010000009203214f627365727661746f72696f204a7576656e696c20646520477561796d616e676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8433241,
+          13.749765799761553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deslave de las Colinas 2001",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Santa Tecla",
+        "hamlet": "Altos del Matazano",
+        "postcode": "0511",
+        "district": "Urbanización La Colina II",
+        "street": "Senda Las Araucarias",
+        "iso3166_2": "SV-LI",
+        "lon": -89.28695,
+        "lat": 13.6658372,
+        "state_code": "LI",
+        "formatted": "Deslave de las Colinas 2001, Senda Las Araucarias, 0511 - Santa Tecla, La Libertad, El Salvador",
+        "address_line1": "Deslave de las Colinas 2001",
+        "address_line2": "Senda Las Araucarias, 0511 - Santa Tecla, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Deslave de las Colinas 2001",
+            "osm_id": 4388616315,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51946588635d5256c0596cca0a9de8542b40f00103f9017bf894050100000092031b4465736c617665206465206c617320436f6c696e61732032303031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.28694999999999,
+          13.665837199752069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Letrero de Sonsonate",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Sonsonate",
+        "city": "Izalco",
+        "village": "Cantón y Crío. Huiscoyolate",
+        "municipality": "Sonsonate Este",
+        "postcode": "9601",
+        "street": "Carretera a Sonsonate",
+        "iso3166_2": "SV-SO",
+        "lon": -89.6953447,
+        "lat": 13.7397353,
+        "state_code": "SO",
+        "formatted": "Letrero de Sonsonate, Carretera a Sonsonate, 9601 - Izalco, Sonsonate, El Salvador",
+        "address_line1": "Letrero de Sonsonate",
+        "address_line2": "Carretera a Sonsonate, 9601 - Izalco, Sonsonate, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Letrero de Sonsonate",
+            "osm_id": 4670231618,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519a7c0e87806c56c059db55d095be7a2b40f00103f90142145e16010000009203144c65747265726f20646520536f6e736f6e617465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69534469999999,
+          13.739735299760403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque El Imposible",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "San Francisco Menéndez",
+        "hamlet": "El Refugio",
+        "municipality": "Ahuachapán Sur",
+        "postcode": "2113",
+        "street": "AHU21N",
+        "iso3166_2": "SV-AH",
+        "lon": -89.948475,
+        "lat": 13.827971,
+        "state_code": "AH",
+        "formatted": "Parque El Imposible, AHU21N, 2113 - San Francisco Menéndez, Ahuachapán, El Salvador",
+        "address_line1": "Parque El Imposible",
+        "address_line2": "AHU21N, 2113 - San Francisco Menéndez, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque El Imposible",
+            "osm_id": 4705971689,
+            "name:es": "Parque El Imposible",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Parque El Imposible"
+        },
+        "place_id": "51b6847cd0b37c56c059ce199cd0eba72b40f00103f901e96d7f180100000092031350617271756520456c20496d706f7369626c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.948475,
+          13.827970999770425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isla Tasajera",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Paz",
+        "city": "San Luis La Herradura",
+        "street": "Blvd. Costa Del Sol",
+        "iso3166_2": "SV-PA",
+        "lon": -88.8766458,
+        "lat": 13.2836755,
+        "state_code": "PA",
+        "formatted": "Isla Tasajera, Blvd. Costa Del Sol, San Luis La Herradura, La Paz, El Salvador",
+        "address_line1": "Isla Tasajera",
+        "address_line2": "Blvd. Costa Del Sol, San Luis La Herradura, La Paz, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Isla Tasajera",
+            "osm_id": 4719517689,
+            "name:es": "Tasajera",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Tasajera"
+        },
+        "place_id": "513f4bfcf61a3856c059f5db43ea3d912a40f00103f901f91f4e190100000092030d49736c6120546173616a657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.87664579999999,
+          13.283675499709696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "0503",
+        "district": "Cantón Lomas de San Marcelino",
+        "street": "Santa Ana-Trail",
+        "iso3166_2": "SV-SA",
+        "lon": -89.6276943,
+        "lat": 13.846465,
+        "state_code": "SA",
+        "formatted": "Crater viewpoint, Santa Ana-Trail, 0503 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Crater viewpoint",
+        "address_line2": "Santa Ana-Trail, 0503 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 4761896731,
+            "name:en": "Crater viewpoint",
+            "name:es": "Mirador",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Crater viewpoint",
+          "es": "Mirador"
+        },
+        "place_id": "51ae98b6242c6856c0599f7646dc63b12b40f00103f9011bc7d41b010000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6276943,
+          13.846464999772534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apaneca Canopy Tour",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Apaneca",
+        "municipality": "Ahuachapán Centro",
+        "suburb": "Barrio Santiago",
+        "street": "Avenida 15 de Abril Norte",
+        "iso3166_2": "SV-AH",
+        "lon": -89.8033737,
+        "lat": 13.8587687,
+        "state_code": "AH",
+        "formatted": "Apaneca Canopy Tour, Avenida 15 de Abril Norte, Apaneca, Ahuachapán, El Salvador",
+        "address_line1": "Apaneca Canopy Tour",
+        "address_line2": "Avenida 15 de Abril Norte, Apaneca, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Apaneca Canopy Tour",
+            "osm_id": 4936122121,
+            "name:es": "Apaneca Canopy Tour",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Apaneca Canopy Tour"
+        },
+        "place_id": "51dbfd85796a7356c05906b7f087b0b72b40f00103f901093f3726010000009203134170616e6563612043616e6f707920546f7572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8033737,
+          13.858768699773929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xtreme tours buggy",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Apaneca",
+        "municipality": "Ahuachapán Centro",
+        "suburb": "Barrio Santiago",
+        "street": "Avenida 15 de Abril Norte",
+        "iso3166_2": "SV-AH",
+        "lon": -89.8028815,
+        "lat": 13.8606488,
+        "state_code": "AH",
+        "formatted": "Xtreme tours buggy, Avenida 15 de Abril Norte, Apaneca, Ahuachapán, El Salvador",
+        "address_line1": "Xtreme tours buggy",
+        "address_line2": "Avenida 15 de Abril Norte, Apaneca, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Xtreme tours buggy",
+            "osm_id": 4936122321,
+            "name:es": "Xtreme tours buggy",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Xtreme tours buggy"
+        },
+        "place_id": "510e441669627356c05944bea0f5a6b82b40f00103f901d13f372601000000920312587472656d6520746f757273206275676779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.80288149999998,
+          13.860648799774147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Caracol",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "2201",
+        "district": "Colonia 15 de Septiembre",
+        "street": "Avenida San Francisco",
+        "iso3166_2": "SV-SA",
+        "lon": -89.5375592,
+        "lat": 13.97819,
+        "state_code": "SA",
+        "formatted": "El Caracol, Avenida San Francisco, 2201 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "El Caracol",
+        "address_line2": "Avenida San Francisco, 2201 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Caracol",
+            "osm_id": 5043500823,
+            "name:es": "El Caracol",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "El Caracol"
+        },
+        "place_id": "517eeab35e676256c05959b9d451d5f42b40f00103f90117b79d2c0100000092030a456c2043617261636f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5375592,
+          13.978189999787604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Finca El Prado",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Santa Ana",
+        "postcode": "2201",
+        "district": "Urbanización Jardines del Molino",
+        "street": "Calle Antigua a San Salvador",
+        "iso3166_2": "SV-SA",
+        "lon": -89.5456708,
+        "lat": 13.9757785,
+        "state_code": "SA",
+        "formatted": "Finca El Prado, Calle Antigua a San Salvador, 2201 - Santa Ana, Santa Ana, El Salvador",
+        "address_line1": "Finca El Prado",
+        "address_line2": "Calle Antigua a San Salvador, 2201 - Santa Ana, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Finca El Prado",
+            "osm_id": 5043502921,
+            "name:es": "Finca El Prado",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Finca El Prado"
+        },
+        "place_id": "5174183845ec6256c059fb73513d99f32b40f00103f90149bf9d2c0100000092030e46696e636120456c20507261646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54567079999998,
+          13.97577849978733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuente - San Sebastian",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Paz",
+        "city": "Zacatecoluca",
+        "postcode": "0821",
+        "district": "Barrio El Centro",
+        "street": "Calle Rafael Osorio",
+        "iso3166_2": "SV-PA",
+        "lon": -88.8731978,
+        "lat": 13.5083481,
+        "state_code": "PA",
+        "formatted": "Fuente - San Sebastian, Calle Rafael Osorio, 0821 - Zacatecoluca, La Paz, El Salvador",
+        "address_line1": "Fuente - San Sebastian",
+        "address_line2": "Calle Rafael Osorio, 0821 - Zacatecoluca, La Paz, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fuente - San Sebastian",
+            "osm_id": 5268546839,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Zacatecoluca",
+            "addr:street": "Calle Rafael Osorio",
+            "description": "Patrimonio Cultural, Fuente San Sebastian",
+            "addr:postcode": "0821"
+          }
+        },
+        "description": "Patrimonio Cultural, Fuente San Sebastian",
+        "place_id": "511b7c0679e23756c059b4afbe3346042b40f00103f90117a5073a010000009203164675656e7465202d2053616e2053656261737469616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8731978,
+          13.508348099734441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiosko La Alameda",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Paz",
+        "city": "Zacatecoluca",
+        "postcode": "0821",
+        "district": "Barrio El Centro",
+        "street": "Calle Rafael Osorio",
+        "iso3166_2": "SV-PA",
+        "lon": -88.8732273,
+        "lat": 13.5085672,
+        "state_code": "PA",
+        "formatted": "Kiosko La Alameda, Calle Rafael Osorio, 0821 - Zacatecoluca, La Paz, El Salvador",
+        "address_line1": "Kiosko La Alameda",
+        "address_line2": "Calle Rafael Osorio, 0821 - Zacatecoluca, La Paz, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kiosko La Alameda",
+            "osm_id": 5268546840,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Zacatecoluca",
+            "addr:street": "Calle Rafael Osorio",
+            "description": "Patrimonio Cultural, Kiosko La Alameda",
+            "addr:postcode": "0821"
+          }
+        },
+        "description": "Patrimonio Cultural, Kiosko La Alameda",
+        "place_id": "515cdec1f4e23756c0590c5b85eb62042b40f00103f90118a5073a010000009203114b696f736b6f204c6120416c616d656461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8732273,
+          13.508567199734465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Infantil",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "San Vicente",
+        "city": "San Vicente",
+        "street": "2a Avenida Sur/Avenida Victoriano Rodríguez",
+        "iso3166_2": "SV-SV",
+        "lon": -88.7846103,
+        "lat": 13.6418486,
+        "state_code": "SV",
+        "formatted": "Parque Infantil, 2a Avenida Sur/Avenida Victoriano Rodríguez, San Vicente, El Salvador",
+        "address_line1": "Parque Infantil",
+        "address_line2": "2a Avenida Sur/Avenida Victoriano Rodríguez, San Vicente, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque Infantil",
+            "osm_id": 5305404421,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b3a61e0e373256c05959d03161a0482b40f00103f901050c3a3c0100000092030f50617271756520496e66616e74696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.78461029999998,
+          13.641848599749368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque ecológico Cartagena",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Usulután",
+        "city": "Alegría",
+        "street": "4a Calle Oriente",
+        "iso3166_2": "SV-US",
+        "lon": -88.4873754,
+        "lat": 13.5112331,
+        "state_code": "US",
+        "formatted": "Ecological park Cartagena, 4a Calle Oriente, Alegría, Usulután, El Salvador",
+        "address_line1": "Ecological park Cartagena",
+        "address_line2": "4a Calle Oriente, Alegría, Usulután, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque ecológico Cartagena",
+            "osm_id": 5338201221,
+            "name:en": "Ecological park Cartagena",
+            "name:fr": "Parc écologique Cartagena",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ecological park Cartagena",
+          "fr": "Parc écologique Cartagena"
+        },
+        "place_id": "51fff79628311f56c059b0fc4758c0052b40f00103f901857c2e3e0100000092031b5061727175652065636f6cc3b36769636f20436172746167656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4873754,
+          13.511233099734767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Cuscatlán",
+        "city": "Suchitoto",
+        "street": "3a Avenida Norte",
+        "iso3166_2": "SV-CU",
+        "lon": -89.0228251,
+        "lat": 13.9400621,
+        "state_code": "CU",
+        "formatted": "Parque, 3a Avenida Norte, Suchitoto, Cuscatlán, El Salvador",
+        "address_line1": "Parque",
+        "address_line2": "3a Avenida Norte, Suchitoto, Cuscatlán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque",
+            "osm_id": 5350059324,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ca8168f7754156c059638ecdd14fe12b40f00103f9013c6de33e01000000920306506172717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0228251,
+          13.940062099783239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salto El Cubo",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Cuscatlán",
+        "city": "Suchitoto",
+        "street": "Pasaje 2",
+        "iso3166_2": "SV-CU",
+        "lon": -89.0322597,
+        "lat": 13.9365214,
+        "state_code": "CU",
+        "formatted": "Waterfall El Cubo, Pasaje 2, Suchitoto, Cuscatlán, El Salvador",
+        "address_line1": "Waterfall El Cubo",
+        "address_line2": "Pasaje 2, Suchitoto, Cuscatlán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Salto El Cubo",
+            "osm_id": 5351447421,
+            "name:en": "Waterfall El Cubo",
+            "name:fr": "Cascade El Cubo",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Waterfall El Cubo",
+          "fr": "Cascade El Cubo"
+        },
+        "place_id": "51a41efd8a104256c0598724a0bb7fdf2b40f00103f9017d9bf83e0100000092030d53616c746f20456c204375626f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0322597,
+          13.936521399782817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Paz",
+        "city": "San Luis La Herradura",
+        "street": "Blvd. Costa Del Sol",
+        "iso3166_2": "SV-PA",
+        "lon": -88.8559987,
+        "lat": 13.2708131,
+        "state_code": "PA",
+        "formatted": "Beach, Blvd. Costa Del Sol, San Luis La Herradura, La Paz, El Salvador",
+        "address_line1": "Beach",
+        "address_line2": "Blvd. Costa Del Sol, San Luis La Herradura, La Paz, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Playa",
+            "osm_id": 5351831421,
+            "name:en": "Beach",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Beach"
+        },
+        "place_id": "51c97ac5aec83656c059ad26bd03a88a2a40f00103f9017d77fe3e01000000920305506c617961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8559987,
+          13.2708130997083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Petroglifos",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Metapán",
+        "street": "Vieja Vía del Ferrocarril Nacional Salvadorense",
+        "iso3166_2": "SV-SA",
+        "lon": -89.4850109,
+        "lat": 14.247624,
+        "state_code": "SA",
+        "formatted": "Petroglyphs, Vieja Vía del Ferrocarril Nacional Salvadorense, Metapán, Santa Ana, El Salvador",
+        "address_line1": "Petroglyphs",
+        "address_line2": "Vieja Vía del Ferrocarril Nacional Salvadorense, Metapán, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Petroglifos",
+            "osm_id": 5357557622,
+            "name:en": "Petroglyphs",
+            "name:fr": "Petroglyphss",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Petroglyphs",
+          "fr": "Petroglyphss"
+        },
+        "place_id": "51076d286b0a5f56c0594fdaa992c87e2c40f00103f90176d7553f0100000092030b506574726f676c69666f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4850109,
+          14.247623999818783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Figuras",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Santa Ana",
+        "city": "Metapán",
+        "street": "Vieja Vía del Ferrocarril Nacional Salvadorense",
+        "iso3166_2": "SV-SA",
+        "lon": -89.4853654,
+        "lat": 14.2475461,
+        "state_code": "SA",
+        "formatted": "Las Figuras, Vieja Vía del Ferrocarril Nacional Salvadorense, Metapán, Santa Ana, El Salvador",
+        "address_line1": "Las Figuras",
+        "address_line2": "Vieja Vía del Ferrocarril Nacional Salvadorense, Metapán, Santa Ana, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Las Figuras",
+            "osm_id": 5357606621,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510ae7093a105f56c059a9f2c55cbe7e2c40f00103f901dd96563f0100000092030b4c61732046696775726173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4853654,
+          14.247546099818765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Usulután",
+        "city": "Berlín",
+        "street": "5a Calle Poniente",
+        "iso3166_2": "SV-US",
+        "lon": -88.530001,
+        "lat": 13.5003185,
+        "state_code": "US",
+        "formatted": "Mirador, 5a Calle Poniente, Berlín, Usulután, El Salvador",
+        "address_line1": "Mirador",
+        "address_line2": "5a Calle Poniente, Berlín, Usulután, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 5357933824,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513b765089eb2156c059f4e013bf29002b40f00103f90100955b3f010000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.53000100000001,
+          13.500318499733545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascadas Tamanique",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "La Libertad",
+        "city": "Tamanique",
+        "street": "Calle a Centro de Tamanique",
+        "iso3166_2": "SV-LI",
+        "lon": -89.4229458,
+        "lat": 13.589372,
+        "state_code": "LI",
+        "formatted": "Tamanique Waterfalls, Calle a Centro de Tamanique, Tamanique, La Libertad, El Salvador",
+        "address_line1": "Tamanique Waterfalls",
+        "address_line2": "Calle a Centro de Tamanique, Tamanique, La Libertad, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascadas Tamanique",
+            "osm_id": 5364500221,
+            "name:en": "Tamanique Waterfalls",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tamanique Waterfalls"
+        },
+        "place_id": "51c0be428b115b56c0591d27b02ac22d2b40f00103f901fdc6bf3f0100000092031243617363616461732054616d616e69717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.42294579999998,
+          13.589371999743486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Ausoles - geotérmica",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Ahuachapán",
+        "hamlet": "Los Magueyes",
+        "municipality": "Ahuachapán Centro",
+        "postcode": "2101",
+        "street": "AHU33N",
+        "iso3166_2": "SV-AH",
+        "lon": -89.8186043,
+        "lat": 13.915537,
+        "state_code": "AH",
+        "formatted": "Los Ausoles - geotérmica, AHU33N, 2101 - Ahuachapán, Ahuachapán, El Salvador",
+        "address_line1": "Los Ausoles - geotérmica",
+        "address_line2": "AHU33N, 2101 - Ahuachapán, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Los Ausoles - geotérmica",
+            "osm_id": 5372646022,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515b374a03647456c05976ab0044c1d42b40f00103f90186123c40010000009203194c6f73204175736f6c6573202d2067656f74c3a9726d696361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81860429999999,
+          13.915536999780425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Apaneca",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Apaneca",
+        "hamlet": "Tizapa",
+        "municipality": "Ahuachapán Centro",
+        "postcode": "2307",
+        "street": "Ruta de Las Flores",
+        "iso3166_2": "SV-AH",
+        "lon": -89.7883545,
+        "lat": 13.8588888,
+        "state_code": "AH",
+        "formatted": "Mirador de Apaneca, Ruta de Las Flores, 2307 - Apaneca, Ahuachapán, El Salvador",
+        "address_line1": "Mirador de Apaneca",
+        "address_line2": "Ruta de Las Flores, 2307 - Apaneca, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Apaneca",
+            "osm_id": 5372646024,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e2c96e66747256c05913dcd345c0b72b40f00103f90188123c40010000009203124d697261646f72206465204170616e656361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7883545,
+          13.858888799773956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruinas de la iglesia vieja",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "Tacuba",
+        "municipality": "Ahuachapán Centro",
+        "postcode": "2117",
+        "street": "2ª Avenida Norte",
+        "iso3166_2": "SV-AH",
+        "lon": -89.9317699,
+        "lat": 13.9025853,
+        "state_code": "AH",
+        "formatted": "Ruinas de la iglesia vieja, 2ª Avenida Norte, 2117 - Tacuba, Ahuachapán, El Salvador",
+        "address_line1": "Ruinas de la iglesia vieja",
+        "address_line2": "2ª Avenida Norte, 2117 - Tacuba, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ruinas de la iglesia vieja",
+            "osm_id": 5397065537,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516cf9371ea27b56c05949cd10a91fce2b40f00103f90141afb0410100000092031a5275696e6173206465206c612069676c65736961207669656a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9317699,
+          13.90258529977895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paty (make and view artisian handicrafts)",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Chalatenango",
+        "city": "La Palma",
+        "street": "1a Calle",
+        "iso3166_2": "SV-CH",
+        "lon": -89.1720506,
+        "lat": 14.3166183,
+        "state_code": "CH",
+        "formatted": "Paty (make and view artisian handicrafts), 1a Calle, La Palma, Chalatenango, El Salvador",
+        "address_line1": "Paty (make and view artisian handicrafts)",
+        "address_line2": "1a Calle, La Palma, Chalatenango, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paty (make and view artisian handicrafts)",
+            "osm_id": 5399534623,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51761085e0024b56c059892436cb1ba22c40f00103f9011f5cd641010000009203295061747920286d616b6520616e64207669657720617274697369616e2068616e646963726166747329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1720506,
+          14.31661829982683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Market",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Chalatenango",
+        "city": "La Palma",
+        "street": "Calle Independencia",
+        "iso3166_2": "SV-CH",
+        "lon": -89.1702349,
+        "lat": 14.3167917,
+        "state_code": "CH",
+        "formatted": "Market, Calle Independencia, La Palma, Chalatenango, El Salvador",
+        "address_line1": "Market",
+        "address_line2": "Calle Independencia, La Palma, Chalatenango, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Market",
+            "osm_id": 5399600321,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d208ec20e54a56c05914cd8c8532a22c40f00103f901c15cd741010000009203064d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1702349,
+          14.316791699826844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscina",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "San Francisco Menéndez",
+        "hamlet": "El Refugio",
+        "municipality": "Ahuachapán Sur",
+        "postcode": "2113",
+        "street": "AHU21N",
+        "iso3166_2": "SV-AH",
+        "lon": -89.9521083,
+        "lat": 13.8563815,
+        "state_code": "AH",
+        "formatted": "Piscina, AHU21N, 2113 - San Francisco Menéndez, Ahuachapán, El Salvador",
+        "address_line1": "Piscina",
+        "address_line2": "AHU21N, 2113 - San Francisco Menéndez, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Piscina",
+            "osm_id": 5399773021,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5102b0a657ef7c56c059cbdacca277b62b40f00103f9015dffd9410100000092030750697363696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95210829999999,
+          13.856381499773667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Managuita",
+        "country": "El Salvador",
+        "country_code": "sv",
+        "state": "Ahuachapán",
+        "city": "San Francisco Menéndez",
+        "hamlet": "El Refugio",
+        "municipality": "Ahuachapán Sur",
+        "postcode": "2113",
+        "street": "AHU21N",
+        "iso3166_2": "SV-AH",
+        "lon": -89.9486829,
+        "lat": 13.8472269,
+        "state_code": "AH",
+        "formatted": "Rio Managuita, AHU21N, 2113 - San Francisco Menéndez, Ahuachapán, El Salvador",
+        "address_line1": "Rio Managuita",
+        "address_line2": "AHU21N, 2113 - San Francisco Menéndez, Ahuachapán, El Salvador",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rio Managuita",
+            "osm_id": 5399773022,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5190717b38b77c56c05939a165b9c7b12b40f00103f9015effd9410100000092030d52696f204d616e616775697461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9486829,
+          13.847226899772624
+        ]
+      }
+    }
+  ]
+}

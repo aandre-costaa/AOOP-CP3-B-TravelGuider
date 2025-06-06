@@ -1,0 +1,5624 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karaweik Palace Restaurant",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11000",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Bahan",
+        "street": "Kan Yeiktha Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1679886788039,
+        "lat": 16.79523085,
+        "formatted": "Karaweik Palace Restaurant, Kan Yeiktha Road, Yangon, 11000, Myanmar",
+        "address_line1": "Karaweik Palace Restaurant",
+        "address_line2": "Kan Yeiktha Road, Yangon, 11000, Myanmar",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.regional",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Karaweik Palace Restaurant",
+            "email": "karaweikpalace@gmail.com",
+            "layer": 1,
+            "phone": "+951 295744",
+            "osm_id": 117381678,
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name:en": "Karaweik Palace Restaurant",
+            "tourism": "attraction",
+            "website": "https://karaweikpalace.com/",
+            "osm_type": "w",
+            "wikipedia": "en:Karaweik",
+            "start_date": 1974
+          }
+        },
+        "website": "https://karaweikpalace.com/",
+        "name_international": {
+          "en": "Karaweik Palace Restaurant"
+        },
+        "contact": {
+          "phone": "+951 295744",
+          "email": "karaweikpalace@gmail.com"
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Karaweik"
+        },
+        "catering": {
+          "cuisine": "regional"
+        },
+        "place_id": "51e6639653c00a584059fe01be3f94cb3040f00102f9012e1aff060000000092031a4b6172617765696b2050616c6163652052657374617572616e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16798867880388,
+          16.795230850113505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myanm/Art",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "16111",
+        "district": "Yangon East",
+        "neighbourhood": "52nd Street Makami Area",
+        "suburb": "Botahtaung",
+        "street": "Bogalay Zay Street",
+        "housenumber": "98",
+        "iso3166_2": "MM-06",
+        "lon": 96.1658027,
+        "lat": 16.7723708,
+        "formatted": "Myanm/Art, 98 Bogalay Zay Street, Yangon, 16111, Myanmar",
+        "address_line1": "Myanm/Art",
+        "address_line2": "98 Bogalay Zay Street, Yangon, 16111, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Myanm/Art",
+            "level": 3,
+            "phone": "+95 9421161755",
+            "osm_id": 5106560625,
+            "tourism": "artwork",
+            "twitter": "@Myanmart",
+            "website": "https://myanmartevolution.com/",
+            "facebook": "https://www.facebook.com/MyanmarArtEvolution/",
+            "osm_type": "n",
+            "addr:city": "Yangon",
+            "addr:street": "Bo Galay Zay Street",
+            "addr:country": "MM",
+            "opening_hours": "Tu-Sa 11:00-19:00; Su 11:00-17:00",
+            "addr:housenumber": 98
+          }
+        },
+        "website": "https://myanmartevolution.com/",
+        "opening_hours": "Tu-Sa 11:00-19:00; Su 11:00-17:00",
+        "contact": {
+          "phone": "+95 9421161755"
+        },
+        "place_id": "51a985ed829c0a584059bbdcbe17bac53040f00103f90171ee5f30010000009203094d79616e6d2f417274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16580269999999,
+          16.77237080011103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nourish Cafe",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11222",
+        "district": "Southern District",
+        "neighbourhood": "Western District",
+        "suburb": "Mingala Taungnyunt",
+        "street": "Alan Pya Pagoda Road",
+        "housenumber": "36B",
+        "iso3166_2": "MM-06",
+        "lon": 96.1587675,
+        "lat": 16.7841943,
+        "formatted": "Nourish Cafe, 36B Alan Pya Pagoda Road, Yangon, 11222, Myanmar",
+        "address_line1": "Nourish Cafe",
+        "address_line2": "36B Alan Pya Pagoda Road, Yangon, 11222, Myanmar",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "internet_access",
+          "tourism",
+          "tourism.attraction",
+          "vegan",
+          "vegetarian",
+          "vegetarian.only"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nourish Cafe",
+            "email": "nourishyangon@gmail.com",
+            "phone": "+959973802714",
+            "osm_id": 5144998121,
+            "amenity": "restaurant",
+            "cuisine": "burger;sandwich;soba;international;breakfast;cake;tea;mediterranean;local;coffee_shop;lebanese;healthy",
+            "name:en": "Nourish Cafe",
+            "smoking": "no",
+            "tourism": "attraction",
+            "website": "https://www.yangonyogahouse.com/nourish",
+            "capacity": 30,
+            "delivery": "yes",
+            "operator": "Tammi, Jojo, Regie, Jerome",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "diet:vegan": "yes",
+            "addr:street": "Alan pya pagoda",
+            "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-15:00; Su 10:00-19:00",
+            "diet:vegetarian": "only",
+            "internet_access": "wlan",
+            "addr:housenumber": "36B"
+          }
+        },
+        "website": "https://www.yangonyogahouse.com/nourish",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr-Sa 10:00-15:00; Su 10:00-19:00",
+        "operator": "Tammi, Jojo, Regie, Jerome",
+        "name_international": {
+          "en": "Nourish Cafe"
+        },
+        "contact": {
+          "phone": "+959973802714",
+          "email": "nourishyangon@gmail.com"
+        },
+        "facilities": {
+          "internet_access": true,
+          "smoking": false,
+          "takeaway": true,
+          "delivery": true
+        },
+        "catering": {
+          "cuisine": "burger;sandwich;soba;international;breakfast;cake;tea;mediterranean;local;coffee_shop;lebanese;healthy",
+          "diet": {
+            "vegan": true,
+            "vegetarian": true
+          },
+          "capacity": 30
+        },
+        "place_id": "51ba0a293f290a58405926b128f5c0c83040f00103f901e970aa320100000092030c4e6f75726973682043616665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15876749999998,
+          16.78419430011231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ရွှေတိဂုံစေတီ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Southern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.14960055579184,
+        "lat": 16.7983431,
+        "formatted": "Shwedagon Paya, Southern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Shwedagon Paya",
+        "address_line2": "Southern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.place_of_worship",
+          "building.tourism",
+          "man_made",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument",
+          "tourism.sights.place_of_worship",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.facilities",
+          "details.historic",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ရွှေတိဂုံစေတီ",
+            "osm_id": 117379705,
+            "amenity": "place_of_worship",
+            "name:de": "Shwedagon Pagode",
+            "name:en": "Shwedagon Paya",
+            "name:fr": "Pagode Shwedagon",
+            "name:ja": "シュエダゴン・パゴダ",
+            "name:my": "ရွှေတိဂုံစေတီ",
+            "name:pl": "Pagoda Szwegadon",
+            "name:ru": "Шведагон пагода",
+            "name:th": "เจดีย์ชเวดากอง",
+            "name:zh": "大金塔",
+            "tourism": "attraction",
+            "website": "https://www.shwedagonpagoda.com.mm/",
+            "building": "yes",
+            "historic": "monument",
+            "man_made": "stupa",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "wikidata": "Q464535",
+            "addr:city": "Yangon",
+            "ele:local": 105,
+            "wikipedia": "en:Shwedagon Pagoda",
+            "dress_code": "decent",
+            "wheelchair": "yes",
+            "addr:country": "MM"
+          }
+        },
+        "website": "https://www.shwedagonpagoda.com.mm/",
+        "name_international": {
+          "de": "Shwedagon Pagode",
+          "en": "Shwedagon Paya",
+          "fr": "Pagode Shwedagon",
+          "ja": "シュエダゴン・パゴダ",
+          "my": "ရွှေတိဂုံစေတီ",
+          "pl": "Pagoda Szwegadon",
+          "ru": "Шведагон пагода",
+          "th": "เจดีย์ชเวดากอง",
+          "zh": "大金塔"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q464535",
+          "wikipedia": "en:Shwedagon Pagoda"
+        },
+        "historic": {
+          "type": "monument",
+          "object_type": "stupa"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51b8a5350e9309584059eaf9a13660cc3040f00102f9017912ff0600000000920327e1809be180bde180bee180b1e18090e180ade18082e180afe180b6e18085e180b1e18090e180ae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14960055579184,
+          16.798343100113847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ခြောက်ထပ်ကြီး စေတီ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11201",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Bahan",
+        "street": "Shwe Gone Dine Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.16387200903748,
+        "lat": 16.811681049999997,
+        "formatted": "Paya Chaukhtatgyi, Shwe Gone Dine Road, Yangon, 11201, Myanmar",
+        "address_line1": "Paya Chaukhtatgyi",
+        "address_line2": "Shwe Gone Dine Road, Yangon, 11201, Myanmar",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ခြောက်ထပ်ကြီး စေတီ",
+            "osm_id": 117384553,
+            "amenity": "place_of_worship",
+            "name:en": "Paya Chaukhtatgyi",
+            "name:es": "buda tumbado",
+            "name:fr": "Chok Htat Gyi Pagoda (Bouddha couché)",
+            "name:my": "ခြောက်ထပ်ကြီး စေတီ",
+            "name:th": "วัดเชาตาจี",
+            "name:zh": "乔达基卧佛",
+            "tourism": "attraction",
+            "alt_name": "Chauk Htat Gyi (Giant) Buddha Pagoda",
+            "building": "yes",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "wikidata": "Q20683398",
+            "wikipedia": "en:Chaukhtatgyi Buddha Temple",
+            "alt_name_1": "Chauk Htat Gyi",
+            "alt_name:en": "Chaukhtatgyi",
+            "opening_hours": "Mo-Su 06:00-20:00"
+          }
+        },
+        "opening_hours": "Mo-Su 06:00-20:00",
+        "name_other": {
+          "alt_name": "Chauk Htat Gyi (Giant) Buddha Pagoda"
+        },
+        "name_international": {
+          "en": "Paya Chaukhtatgyi",
+          "es": "buda tumbado",
+          "fr": "Chok Htat Gyi Pagoda (Bouddha couché)",
+          "my": "ခြောက်ထပ်ကြီး စေတီ",
+          "th": "วัดเชาตาจี",
+          "zh": "乔达基卧佛"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q20683398",
+          "wikipedia": "en:Chaukhtatgyi Buddha Temple"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51ece205e17c0a58405930074d54cacf3040f00102f9016925ff0600000000920334e18081e180bce180b1e180ace18080e180bae18091e18095e180bae18080e180bce180aee180b820e18085e180b1e18090e180ae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16387200903745,
+          16.811681050115283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakura Tower",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "12112",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Kyauktada",
+        "street": "Bogyoke Aung San Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.15938089629987,
+        "lat": 16.779044149999997,
+        "formatted": "Sakura Tower, Bogyoke Aung San Road, Yangon, 12112, Myanmar",
+        "address_line1": "Sakura Tower",
+        "address_line2": "Bogyoke Aung San Road, Yangon, 12112, Myanmar",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.office",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sakura Tower",
+            "osm_id": 129485357,
+            "name:ja": "さくらタワー",
+            "tourism": "viewpoint",
+            "building": "commercial",
+            "osm_type": "w",
+            "wikidata": "Q20992069",
+            "addr:street": "ဗိုလ်ချုပ်အောင်ဆန်းလမ်း",
+            "description": "schöner Ausblick vom 20. Stock",
+            "building:levels": 23
+          }
+        },
+        "description": "schöner Ausblick vom 20. Stock",
+        "name_international": {
+          "ja": "さくらタワー"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q20992069"
+        },
+        "building": {
+          "levels": 23,
+          "type": "commercial"
+        },
+        "place_id": "51c34dee4b330a584059c0defa6f6fc73040f00102f9012dcab7070000000092030c53616b75726120546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15938089629985,
+          16.77904415011176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "เจดีย์โบตะตอง",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11161",
+        "district": "Yangon East",
+        "neighbourhood": "Eastern District",
+        "suburb": "Botahtaung",
+        "street": "Botahtaung Pagoda Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.17184130302425,
+        "lat": 16.76783075,
+        "formatted": "Botahtaung Pagoda the bus 57 in front of the pagoda goes beside the river, Botahtaung Pagoda Road, Yangon, 11161, Myanmar",
+        "address_line1": "Botahtaung Pagoda the bus 57 in front of the pagoda goes beside the river",
+        "address_line2": "Botahtaung Pagoda Road, Yangon, 11161, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "เจดีย์โบตะตอง",
+            "osm_id": 314136068,
+            "amenity": "place_of_worship",
+            "landuse": "religious",
+            "name:en": "Botahtaung Pagoda the bus 57 in front of the pagoda goes beside the river",
+            "name:fr": "Paya Botataung",
+            "name:my": "ဗိုလ်တထောင်ဘုရား",
+            "name:ru": "Пагода Ботатаунг",
+            "name:th": "เจดีย์โบตะตอง",
+            "name:zh": "波达通佛塔",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "wikipedia": "my:ဗိုလ်တစ်ထောင်ဘုရား"
+          }
+        },
+        "name_international": {
+          "en": "Botahtaung Pagoda the bus 57 in front of the pagoda goes beside the river",
+          "fr": "Paya Botataung",
+          "my": "ဗိုလ်တထောင်ဘုရား",
+          "ru": "Пагода Ботатаунг",
+          "th": "เจดีย์โบตะตอง",
+          "zh": "波达通佛塔"
+        },
+        "wiki_and_media": {
+          "wikipedia": "my:ဗိုလ်တစ်ထောင်ဘုရား"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51d525aa72ff0a5840598296588e90c43040f00102f9010456b91200000000920327e0b980e0b888e0b894e0b8b5e0b8a2e0b98ce0b982e0b89ae0b895e0b8b0e0b895e0b8ade0b887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17184130302424,
+          16.76783075011054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fokker F27",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Ahlone Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1443736,
+        "lat": 16.7946406,
+        "formatted": "Fokker F27, Ahlone Road, Yangon, 11191, Myanmar",
+        "address_line1": "Fokker F27",
+        "address_line2": "Ahlone Road, Yangon, 11191, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fokker F27",
+            "osm_id": 3793702568,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n",
+            "wikidata": "Q506736",
+            "wikipedia": "en:Fokker F27 Friendship"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q506736",
+          "wikipedia": "en:Fokker F27 Friendship"
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51f899c46a3d09584059a18ffd906dcb3040f00103f901a84e1fe20000000092030a466f6b6b657220463237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1443736,
+          16.794640600113443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wealth Ocean International",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "00923",
+        "district": "Southern District",
+        "suburb": "Thaketa",
+        "industrial": "Thaketa Industrial Zone",
+        "street": "Myaing Hay Wun St",
+        "housenumber": "2A",
+        "iso3166_2": "MM-06",
+        "lon": 96.1948285,
+        "lat": 16.8063999,
+        "formatted": "Wealth Ocean International, 2A Myaing Hay Wun St, Yangon, 00923, Myanmar",
+        "address_line1": "Wealth Ocean International",
+        "address_line2": "2A Myaing Hay Wun St, Yangon, 00923, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wealth Ocean International",
+            "osm_id": 4208591289,
+            "name:en": "Wealth Ocean International",
+            "tourism": "attraction",
+            "website": "www.facebook.com/wealthoceanmmygn",
+            "osm_type": "n",
+            "addr:street": "Minnandar Housing, Ayarwon street",
+            "addr:housenumber": "2A"
+          }
+        },
+        "website": "www.facebook.com/wealthoceanmmygn",
+        "name_international": {
+          "en": "Wealth Ocean International"
+        },
+        "place_id": "510af5f411780c5840598a7d4e3970ce3040f00103f901b901dafa0000000092031a5765616c7468204f6365616e20496e7465726e6174696f6e616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1948285,
+          16.80639990011472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Revolution Park (Taw Hlan Yayy Park)",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11111",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "U Wisara Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1428592,
+        "lat": 16.8031096,
+        "formatted": "Revolution Park, U Wisara Road, Yangon, 11111, Myanmar",
+        "address_line1": "Revolution Park",
+        "address_line2": "U Wisara Road, Yangon, 11111, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Revolution Park (Taw Hlan Yayy Park)",
+            "osm_id": 4515209289,
+            "name:en": "Revolution Park",
+            "name:my": "တော်လှန်ရေး ပန်းခြံ",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "ဦးဝီစာရလမ်း - U Wisara Rd",
+            "addr:postcode": 11111,
+            "opening_hours": "Mo-Su 07:00-18:00"
+          }
+        },
+        "opening_hours": "Mo-Su 07:00-18:00",
+        "name_international": {
+          "en": "Revolution Park",
+          "my": "တော်လှန်ရေး ပန်းခြံ"
+        },
+        "place_id": "51b2fbe99a240958405946983b9798cd3040f00103f90149a0200d010000009203245265766f6c7574696f6e205061726b202854617720486c616e2059617979205061726b29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1428592,
+          16.80310960011436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meeting Point Free Yangon Walks",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11182",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Kyauktada",
+        "street": "Sule Roundabout",
+        "iso3166_2": "MM-06",
+        "lon": 96.1595203,
+        "lat": 16.7738976,
+        "formatted": "Meeting Point Free Yangon Walks, Sule Roundabout, Yangon, 11182, Myanmar",
+        "address_line1": "Meeting Point Free Yangon Walks",
+        "address_line2": "Sule Roundabout, Yangon, 11182, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Meeting Point Free Yangon Walks",
+            "osm_id": 7021192285,
+            "name:de": "Treffpunkt Free Yangon Walks",
+            "name:en": "Meeting Point Free Yangon Walks",
+            "tourism": "attraction",
+            "website": "https://www.freeyangonwalks.com/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.freeyangonwalks.com/",
+        "name_international": {
+          "de": "Treffpunkt Free Yangon Walks",
+          "en": "Meeting Point Free Yangon Walks"
+        },
+        "place_id": "5114e3a194350a58405933ee32271ec63040f00103f9015de47ea20100000092031f4d656574696e6720506f696e7420467265652059616e676f6e2057616c6b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1595203,
+          16.773897600111194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naung Taw Gyi Pagoda",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Northern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.14980570512091,
+        "lat": 16.79960695,
+        "formatted": "Naung Taw Gyi Pagoda, Northern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Naung Taw Gyi Pagoda",
+        "address_line2": "Northern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "man_made",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Naung Taw Gyi Pagoda",
+            "osm_id": 117389465,
+            "amenity": "place_of_worship",
+            "name:en": "Naung Taw Gyi Pagoda",
+            "name:fr": "Pagode du grand frère",
+            "tourism": "attraction",
+            "building": "yes",
+            "man_made": "stupa",
+            "osm_type": "w",
+            "religion": "buddhist"
+          }
+        },
+        "name_international": {
+          "en": "Naung Taw Gyi Pagoda",
+          "fr": "Pagode du grand frère"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51e80fab6a9609584059d464840ab3cc3040f00102f9019938ff06000000009203144e61756e672054617720477969205061676f6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14980570512091,
+          16.799606950113983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utopia Tower",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "00000",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Bahan",
+        "street": "Natmauk Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1669273,
+        "lat": 16.799239649999997,
+        "formatted": "Utopia Tower, Natmauk Road, Yangon, 00000, Myanmar",
+        "address_line1": "Utopia Tower",
+        "address_line2": "Natmauk Road, Yangon, 00000, Myanmar",
+        "categories": [
+          "building",
+          "building.catering",
+          "building.tourism",
+          "catering",
+          "catering.restaurant",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Utopia Tower",
+            "osm_id": 131996305,
+            "amenity": "restaurant",
+            "tourism": "viewpoint",
+            "building": "tower",
+            "osm_type": "w",
+            "building:levels": 4
+          }
+        },
+        "building": {
+          "levels": 4,
+          "type": "tower"
+        },
+        "place_id": "51d093d7efae0a584059e5e73ef89acc3040f00102f901911ade070000000092030c55746f70696120546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1669273,
+          16.799239650113936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferris Wheel",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "town": "Mayangone",
+        "postcode": "11081",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "street": "Kabar Aye Pagoda Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.15392352269012,
+        "lat": 16.8323338,
+        "formatted": "Ferris Wheel, Kabar Aye Pagoda Road, Yangon, 11081, Myanmar",
+        "address_line1": "Ferris Wheel",
+        "address_line2": "Kabar Aye Pagoda Road, Yangon, 11081, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ferris Wheel",
+            "osm_id": 180605243,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5180020ce2d90958405931dcf2d313d53040f00102f9013bd1c30a0000000092030c46657272697320576865656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15392352269009,
+          16.832333800117514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peoples Park",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Ahlone Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1426506,
+        "lat": 16.7963323,
+        "formatted": "Peoples Park, Ahlone Road, Yangon, 11191, Myanmar",
+        "address_line1": "Peoples Park",
+        "address_line2": "Ahlone Road, Yangon, 11191, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Peoples Park",
+            "osm_id": 265774242,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514e70fb2f21095840598abc016fdccb3040f00103f901a264d70f0000000092030c50656f706c6573205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1426506,
+          16.796332300113626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Edward VII Carnivira House",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11222",
+        "district": "Yangon East",
+        "suburb": "Mingala Taungnyunt",
+        "street": "Zoological Garden Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1578022925579,
+        "lat": 16.793235699999997,
+        "formatted": "King Edward VII Carnivira House, Zoological Garden Road, Yangon, 11222, Myanmar",
+        "address_line1": "King Edward VII Carnivira House",
+        "address_line2": "Zoological Garden Road, Yangon, 11222, Myanmar",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.building",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "King Edward VII Carnivira House",
+            "osm_id": 380344691,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "yes",
+            "osm_type": "w",
+            "attraction": "animal",
+            "start_date": 1915
+          }
+        },
+        "historic": {
+          "start_date": 1915
+        },
+        "building": {
+          "start_date": 1915
+        },
+        "place_id": "514871c96e190a5840599a01ae7e11cb3040f00102f9017399ab160000000092031f4b696e672045647761726420564949204361726e697669726120486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1578022925579,
+          16.793235700113293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elephants",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11222",
+        "district": "Yangon East",
+        "suburb": "Mingala Taungnyunt",
+        "street": "Zoological Garden Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.15738160000001,
+        "lat": 16.792286750000002,
+        "formatted": "Elephants, Zoological Garden Road, Yangon, 11222, Myanmar",
+        "address_line1": "Elephants",
+        "address_line2": "Zoological Garden Road, Yangon, 11222, Myanmar",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Elephants",
+            "osm_id": 380344693,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "517f3f468a120a58405950caf04dd3ca3040f00102f9017599ab1600000000920309456c657068616e7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1573816,
+          16.792286750113192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiger Exhibit",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11000",
+        "district": "Yangon East",
+        "suburb": "Mingala Taungnyunt",
+        "street": "Upper Pansodan Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.16099344140581,
+        "lat": 16.791712949999997,
+        "formatted": "Tiger Exhibit, Upper Pansodan Road, Yangon, 11000, Myanmar",
+        "address_line1": "Tiger Exhibit",
+        "address_line2": "Upper Pansodan Road, Yangon, 11000, Myanmar",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tiger Exhibit",
+            "osm_id": 380344695,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51576d6fb74d0a584059388e2cb3adca3040f00102f9017799ab160000000092030d54696765722045786869626974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16099344140581,
+          16.791712950113123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reptile House",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11000",
+        "district": "Yangon East",
+        "suburb": "Mingala Taungnyunt",
+        "street": "Kan Yeiktha",
+        "iso3166_2": "MM-06",
+        "lon": 96.15986782583565,
+        "lat": 16.79252485,
+        "formatted": "Reptile House, Kan Yeiktha, Yangon, 11000, Myanmar",
+        "address_line1": "Reptile House",
+        "address_line2": "Kan Yeiktha, Yangon, 11000, Myanmar",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "reptile",
+            "name": "Reptile House",
+            "osm_id": 380344698,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "5164e942463b0a584059e98098e8e2ca3040f00102f9017a99ab160000000092030d52657074696c6520486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15986782583565,
+          16.792524850113214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monkeys & Gibbons",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11222",
+        "district": "Yangon East",
+        "suburb": "Mingala Taungnyunt",
+        "street": "Zoological Garden Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1575913,
+        "lat": 16.78960555,
+        "formatted": "Monkeys & Gibbons, Zoological Garden Road, Yangon, 11222, Myanmar",
+        "address_line1": "Monkeys & Gibbons",
+        "address_line2": "Zoological Garden Road, Yangon, 11222, Myanmar",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monkeys & Gibbons",
+            "osm_id": 380344780,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "5196e8d1f9150a5840599a79de9623ca3040f00102f901cc99ab16000000009203114d6f6e6b657973202620476962626f6e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1575913,
+          16.789605550112903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birds",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11222",
+        "district": "Yangon East",
+        "suburb": "Mingala Taungnyunt",
+        "street": "Zoological Garden Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.15793464935427,
+        "lat": 16.7896353,
+        "formatted": "Birds, Zoological Garden Road, Yangon, 11222, Myanmar",
+        "address_line1": "Birds",
+        "address_line2": "Zoological Garden Road, Yangon, 11222, Myanmar",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Birds",
+            "osm_id": 380344948,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "516f78ee991b0a58405986c0fd8925ca3040f00102f901749aab16000000009203054269726473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15793464935426,
+          16.7896353001129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porcupine",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11222",
+        "district": "Yangon East",
+        "suburb": "Mingala Taungnyunt",
+        "street": "Bo Min Gaung Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.16056574053849,
+        "lat": 16.7909606,
+        "formatted": "Porcupine, Bo Min Gaung Street, Yangon, 11222, Myanmar",
+        "address_line1": "Porcupine",
+        "address_line2": "Bo Min Gaung Street, Yangon, 11222, Myanmar",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Porcupine",
+            "osm_id": 380345765,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51221e87b5460a584059fae8d5647cca3040f00102f901a59dab1600000000920309506f72637570696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16056574053849,
+          16.790960600113046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ဆူးလေစေတီတော်",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11143",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Pabedan",
+        "street": "Sule Roundabout",
+        "iso3166_2": "MM-06",
+        "lon": 96.1587667,
+        "lat": 16.7743702,
+        "formatted": "Sule Pagoda, Sule Roundabout, Yangon, 11143, Myanmar",
+        "address_line1": "Sule Pagoda",
+        "address_line2": "Sule Roundabout, Yangon, 11143, Myanmar",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.historic",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ဆူးလေစေတီတော်",
+            "osm_id": 477836654,
+            "name:en": "Sule Pagoda",
+            "name:ru": "Пагода Суле",
+            "name:zh": "司雷寶塔",
+            "tourism": "attraction",
+            "alt_name": "ဆူးလေဘုရား",
+            "building": "yes",
+            "historic": "heritage",
+            "man_made": "stupa",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "building:levels": 1
+          }
+        },
+        "name_other": {
+          "alt_name": "ဆူးလေဘုရား"
+        },
+        "name_international": {
+          "en": "Sule Pagoda",
+          "ru": "Пагода Суле",
+          "zh": "司雷寶塔"
+        },
+        "historic": {
+          "type": "heritage",
+          "object_type": "stupa"
+        },
+        "building": {
+          "levels": 1
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51680cce3b290a5840598d791c203dc63040f00102f9016e357b1c00000000920327e18086e180b0e180b8e1809ce180b1e18085e180b1e18090e180aee18090e180b1e180ace180ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1587667,
+          16.774370200111253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1000 Buddhas",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Twantay Township",
+        "village": "Aphyauk",
+        "municipality": "Yangon South",
+        "street": "Kanbe Road",
+        "iso3166_2": "MM-06",
+        "lon": 95.99219775918255,
+        "lat": 16.6802837,
+        "formatted": "1000 Buddhas, Kanbe Road, Twantay Township, Myanmar",
+        "address_line1": "1000 Buddhas",
+        "address_line2": "Kanbe Road, Twantay Township, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "1000 Buddhas",
+            "osm_id": 649846026,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51a0b6072b80ff5740598aef931227ae3040f00102f9010addbb260000000092030c313030302042756464686173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.99219775918255,
+          16.680283700101008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ခမတ္ရြာ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Kayan Township",
+        "municipality": "Yangon South",
+        "iso3166_2": "MM-06",
+        "lon": 96.5743427,
+        "lat": 16.9421351,
+        "formatted": "KhaMut village, Kayan Township, Yangon, Myanmar",
+        "address_line1": "KhaMut village",
+        "address_line2": "Kayan Township, Yangon, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ခမတ္ရြာ",
+            "osm_id": 1263837915,
+            "name:en": "KhaMut village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "KhaMut village"
+        },
+        "place_id": "51914ce207c224584059087813c42ff13040f00103f901dba2544b00000000920315e18081e18099e18090e180b9e1809be180bce180ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.5743427,
+          16.942135100129263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clock Tower",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Bago Region",
+        "county": "East Bago Region",
+        "city": "Bago",
+        "municipality": "Bago District",
+        "postcode": "08011",
+        "district": "Lake Pyar Kan Quarter",
+        "street": "Thanatpin Road",
+        "iso3166_2": "MM-02",
+        "lon": 96.4840381,
+        "lat": 17.335249,
+        "formatted": "Clock Tower, Thanatpin Road, Bago, 08011, Myanmar",
+        "address_line1": "Clock Tower",
+        "address_line2": "Thanatpin Road, Bago, 08011, Myanmar",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Clock Tower",
+            "osm_id": 1727769675,
+            "tourism": "attraction",
+            "man_made": "tower",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512761f07afa1e5840594fbfe3e0d2553140f00103f9014bacfb660000000092030b436c6f636b20546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.4840381,
+          17.335249000170105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snake Monastery ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Bago Region",
+        "county": "East Bago Region",
+        "city": "Bago Township",
+        "village": "Sai De",
+        "municipality": "Bago District",
+        "postcode": "08011",
+        "street": "San Taw Tywin street",
+        "iso3166_2": "MM-02",
+        "lon": 96.5057755,
+        "lat": 17.3250561,
+        "formatted": "Snake Monastery , San Taw Tywin street, Bago Township, 08011, Myanmar",
+        "address_line1": "Snake Monastery ",
+        "address_line2": "San Taw Tywin street, Bago Township, 08011, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Snake Monastery ",
+            "osm_id": 2116077252,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518de733a05e20584059679767e036533140f00103f901c4c6207e00000000920310536e616b65204d6f6e61737465727920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.50577549999998,
+          17.32505610016906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glass Factory",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11051",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "suburb": "Hlaing",
+        "street": "Yogi Kyaung Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.1277694,
+        "lat": 16.8457796,
+        "formatted": "Nagar Glass Factory, Yogi Kyaung Street, Yangon, 11051, Myanmar",
+        "address_line1": "Nagar Glass Factory",
+        "address_line2": "Yogi Kyaung Street, Yangon, 11051, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Glass Factory",
+            "osm_id": 2583710511,
+            "name:en": "Nagar Glass Factory",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Nagar Glass Factory"
+        },
+        "place_id": "517e9bb45f2d0858405989220a0385d83040f00103f9012f4b009a0000000092030d476c61737320466163746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1277694,
+          16.845779600118963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TS-1",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Pyay Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1428399,
+        "lat": 16.7845641,
+        "formatted": "TS-1, Pyay Road, Yangon, 11191, Myanmar",
+        "address_line1": "TS-1",
+        "address_line2": "Pyay Road, Yangon, 11191, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "TS-1",
+            "osm_id": 2952168990,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5117c4f649240958405925995f31d9c83040f00103f9011e86f6af0000000092030454532d31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1428399,
+          16.784564100112352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "အနုပညာသင်တန်းကျောင်း",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11201",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Bahan",
+        "street": "Kabar Aye Pagoda Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1548205,
+        "lat": 16.8221511,
+        "formatted": "အနုပညာသင်တန်းကျောင်း, Kabar Aye Pagoda Road, Yangon, 11201, Myanmar",
+        "address_line1": "အနုပညာသင်တန်းကျောင်း",
+        "address_line2": "Kabar Aye Pagoda Road, Yangon, 11201, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "အနုပညာသင်တန်းကျောင်း",
+            "osm_id": 2956787438,
+            "tourism": "artwork",
+            "historic": "heritage",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "heritage"
+        },
+        "place_id": "5106103e94e809584059d65e977e78d23040f00103f901eefe3cb00000000092033ce180a1e18094e180afe18095e1808ae180ace1809ee18084e180bae18090e18094e180bae180b8e18080e180bbe180b1e180ace18084e180bae180b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1548205,
+          16.82215110011642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherman M4",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "00000",
+        "district": "Yangon East",
+        "suburb": "Tamwe",
+        "street": "Kan Yeiktha Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1703025,
+        "lat": 16.7933094,
+        "formatted": "Sherman M4, Kan Yeiktha Road, Yangon, 00000, Myanmar",
+        "address_line1": "Sherman M4",
+        "address_line2": "Kan Yeiktha Road, Yangon, 00000, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tank"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sherman M4",
+            "osm_id": 3833646232,
+            "tourism": "attraction",
+            "historic": "tank",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "tank"
+        },
+        "place_id": "5155fb743ce60a5840599418295316cb3040f00103f90198cc80e40000000092030a536865726d616e204d34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1703025,
+          16.7933094001133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M351",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Ahlone Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.140662,
+        "lat": 16.793512,
+        "formatted": "M351, Ahlone Road, Yangon, 11191, Myanmar",
+        "address_line1": "M351",
+        "address_line2": "Ahlone Road, Yangon, 11191, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "M351",
+            "osm_id": 3903932957,
+            "tourism": "attraction",
+            "historic": "train",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "train"
+        },
+        "place_id": "518e72309b00095840596378399a23cb3040f00103f9011d4ab1e8000000009203044d333531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14066199999999,
+          16.79351200011332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "historic airplanes",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "22222",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Dhamma Seti Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1397893,
+        "lat": 16.8023793,
+        "formatted": "historic airplanes, Dhamma Seti Road, Yangon, 22222, Myanmar",
+        "address_line1": "historic airplanes",
+        "address_line2": "Dhamma Seti Road, Yangon, 22222, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "historic airplanes",
+            "osm_id": 3978265084,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "512cf5d14ef2085840596cfad4ba68cd3040f00103f901fc811fed00000000920312686973746f72696320616972706c616e6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.13978930000002,
+          16.802379300114282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun-Moon Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Southern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.149346,
+        "lat": 16.797588,
+        "formatted": "Sun-Moon Buddha Image, Southern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Sun-Moon Buddha Image",
+        "address_line2": "Southern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sun-Moon Buddha Image",
+            "osm_id": 3978302108,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51757286e28e09584059b12b28ba2ecc3040f00103f9019c1220ed0000000092031553756e2d4d6f6f6e2042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.149346,
+          16.797588000113766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gautama Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Northern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1494322,
+        "lat": 16.7988956,
+        "formatted": "Gautama Buddha Image, Northern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Gautama Buddha Image",
+        "address_line2": "Northern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gautama Buddha Image",
+            "osm_id": 3978307762,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "510afe124c900958405954680b6c84cc3040f00103f901b22820ed0000000092031447617574616d612042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1494322,
+          16.79889560011391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kassapa Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Western stairway and escalator",
+        "iso3166_2": "MM-06",
+        "lon": 96.1490029,
+        "lat": 16.7981824,
+        "formatted": "Kassapa Buddha Image, Western stairway and escalator, Yangon, 11191, Myanmar",
+        "address_line1": "Kassapa Buddha Image",
+        "address_line2": "Western stairway and escalator, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kassapa Buddha Image",
+            "osm_id": 3978310139,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "5196a0754389095840594fbb88ae55cc3040f00103f901fb3120ed000000009203144b6173736170612042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1490029,
+          16.798182400113827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kawnagammana Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Southern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1497776,
+        "lat": 16.797789,
+        "formatted": "Kawnagammana Buddha Image, Southern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Kawnagammana Buddha Image",
+        "address_line2": "Southern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kawnagammana Buddha Image",
+            "osm_id": 3978312130,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51186bc9f49509584059e89860e63bcc3040f00103f901c23920ed000000009203194b61776e6167616d6d616e612042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1497776,
+          16.797789000113795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jade Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Southern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1491584,
+        "lat": 16.7974374,
+        "formatted": "Jade Buddha Image, Southern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Jade Buddha Image",
+        "address_line2": "Southern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jade Buddha Image",
+            "osm_id": 3978313507,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "511e7baccf8b09584059861882db24cc3040f00103f901233f20ed000000009203114a6164652042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1491584,
+          16.797437400113743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kakusanda Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Eastern stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1501636,
+        "lat": 16.7985041,
+        "formatted": "Kakusanda Buddha Image, Eastern stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Kakusanda Buddha Image",
+        "address_line2": "Eastern stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kakusanda Buddha Image",
+            "osm_id": 3978314059,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "512dc3c9479c0958405900b6c3c36acc3040f00103f9014b4120ed000000009203164b616b7573616e64612042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1501636,
+          16.79850410011386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset view",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11131",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Lanmadaw",
+        "street": "Heavy-Duty Vehicle Commercial Bypass Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1483093,
+        "lat": 16.7711822,
+        "formatted": "Sunset view, Heavy-Duty Vehicle Commercial Bypass Road, Yangon, 11131, Myanmar",
+        "address_line1": "Sunset view",
+        "address_line2": "Heavy-Duty Vehicle Commercial Bypass Road, Yangon, 11131, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sunset view",
+            "osm_id": 4133873067,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51534c4ae67d09584059d0bb58326cc53040f00103f901abe565f60000000092030b53756e7365742076696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14830929999998,
+          16.7711822001109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "301 Ancient Statue of Buddha",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Hmawbi Township",
+        "village": "ညောင်နှစ်လမ်းခွဲ",
+        "municipality": "Yangon North",
+        "postcode": "11361",
+        "district": "Northern District",
+        "suburb": "Mingaladon",
+        "street": "Yangon - Pyay Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.08267,
+        "lat": 17.0783788,
+        "formatted": "301 Ancient Statue of Buddha, Yangon - Pyay Road, Hmawbi Township, 11361, Myanmar",
+        "address_line1": "301 Ancient Statue of Buddha",
+        "address_line2": "Yangon - Pyay Road, Hmawbi Township, 11361, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "301 Ancient Statue of Buddha",
+            "osm_id": 4146152726,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510f971c774a0558405912510fa210143140f00103f901164521f70000000092031c33303120416e6369656e7420537461747565206f6620427564646861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.08267,
+          17.078378800143646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UD Work Shop",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "11401",
+        "district": "Northern District",
+        "suburb": "Hlaingtharya (East)",
+        "street": "Min Gyi Mahar Min Gaung",
+        "iso3166_2": "MM-06",
+        "lon": 96.0403747,
+        "lat": 16.8686848,
+        "formatted": "UD Work Shop, Min Gyi Mahar Min Gaung, Yangon, 11401, Myanmar",
+        "address_line1": "UD Work Shop",
+        "address_line2": "Min Gyi Mahar Min Gaung, Yangon, 11401, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "UD Work Shop",
+            "osm_id": 4218594715,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517d05c47f9502584059c60d872062de3040f00103f9019ba572fb0000000092030c554420576f726b2053686f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.04037469999999,
+          16.86868480012142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ဟံသာဝတီအဝိုင်း ပန်းဆွမ်းအုပ်",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "22222",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "suburb": "Kamaryut",
+        "street": "Pyay Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1345238,
+        "lat": 16.8133922,
+        "formatted": "Hantharwaddy Hcwam Up Floral Scupture, Pyay Road, Yangon, 22222, Myanmar",
+        "address_line1": "Hantharwaddy Hcwam Up Floral Scupture",
+        "address_line2": "Pyay Road, Yangon, 22222, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ဟံသာဝတီအဝိုင်း ပန်းဆွမ်းအုပ်",
+            "osm_id": 4247042493,
+            "name:en": "Hantharwaddy Hcwam Up Floral Scupture",
+            "name:my": "ဟံသာဝတီအဝိုင်း ပန်းဆွမ်းအုပ်",
+            "tourism": "artwork",
+            "material": "Flowers",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "name_international": {
+          "en": "Hantharwaddy Hcwam Up Floral Scupture",
+          "my": "ဟံသာဝတီအဝိုင်း ပန်းဆွမ်းအုပ်"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "512662b6099c085840594151a2783ad03040f00103f901bdb924fd00000000920352e1809fe180b6e1809ee180ace1809de18090e180aee180a1e1809de180ade180afe18084e180bae180b820e18095e18094e180bae180b8e18086e180bde18099e180bae180b8e180a1e180afe18095e180ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.13452379999998,
+          16.813392200115462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fk",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "11411",
+        "district": "Northern District",
+        "suburb": "Shwepyithar",
+        "street": "Number 4 Main Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.0954565,
+        "lat": 16.9710539,
+        "formatted": "Fk, Number 4 Main Road, Yangon, 11411, Myanmar",
+        "address_line1": "Fk",
+        "address_line2": "Number 4 Main Road, Yangon, 11411, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fk",
+            "osm_id": 4258679291,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51326c94f51b06584059c0b807fd96f83040f00103f901fb49d6fd00000000920302466b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.09545649999998,
+          16.971053900132347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digital Art Studio",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11071",
+        "district": "Yangon East",
+        "neighbourhood": "Shwe Kainayee Housing",
+        "suburb": "Thingangyun",
+        "street": "Ywar Lae Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.1940974,
+        "lat": 16.8385119,
+        "formatted": "Digital Art Studio, Ywar Lae Street, Yangon, 11071, Myanmar",
+        "address_line1": "Digital Art Studio",
+        "address_line2": "Ywar Lae Street, Yangon, 11071, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Digital Art Studio",
+            "osm_id": 4276031191,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51454f80176c0c5840597d5044b7a8d63040f00103f901d70edffe000000009203124469676974616c204172742053747564696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.19409739999999,
+          16.83851190011818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "သန္လွ်င္ေတာရ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Thanlyin",
+        "municipality": "Yangon South",
+        "postcode": "11291",
+        "street": "Bayint Naung Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.2485894,
+        "lat": 16.7504161,
+        "formatted": "သန္လွ်င္ေတာရ, Bayint Naung Road, Thanlyin, 11291, Myanmar",
+        "address_line1": "သန္လွ်င္ေတာရ",
+        "address_line2": "Bayint Naung Road, Thanlyin, 11291, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "သန္လွ်င္ေတာရ",
+            "osm_id": 4317790689,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5176c883e3e80f584059c85b00451bc03040f00103f901e1415c0101000000920324e1809ee18094e180b9e1809ce180bde180bae18084e180b9e180b1e18090e180ace1809b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.24858939999999,
+          16.75041610010865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8 Ward Lake",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11072",
+        "district": "Southern District",
+        "suburb": "Thaketa",
+        "street": "Nawarat Pat Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.2127904,
+        "lat": 16.8073311,
+        "formatted": "8 Ward Lake, Nawarat Pat Street, Yangon, 11072, Myanmar",
+        "address_line1": "8 Ward Lake",
+        "address_line2": "Nawarat Pat Street, Yangon, 11072, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "8 Ward Lake",
+            "osm_id": 4323529300,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c639a05b9e0d5840596f094040adce3040f00103f90154d2b3010100000092030b382057617264204c616b65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.21279039999999,
+          16.80733110011482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ကျောက်မဲယူနန်",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11201",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Bahan",
+        "street": "Kokkine Swimming Pool Lane",
+        "iso3166_2": "MM-06",
+        "lon": 96.1583333,
+        "lat": 16.8163062,
+        "formatted": "ကျောက်မဲယူနန်, Kokkine Swimming Pool Lane, Yangon, 11201, Myanmar",
+        "address_line1": "ကျောက်မဲယူနန်",
+        "address_line2": "Kokkine Swimming Pool Lane, Yangon, 11201, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ကျောက်မဲယူနန်",
+            "osm_id": 4346143694,
+            "name:my": "ကျောက်မဲယူနန်",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "my": "ကျောက်မဲယူနန်"
+        },
+        "place_id": "518957fe21220a584059f0047171f9d03040f00103f901cee30c0301000000920327e18080e180bbe180b1e180ace18080e180bae18099e180b2e1809ae180b0e18094e18094e180ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1583333,
+          16.816306200115775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabah",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11062",
+        "district": "Yangon East",
+        "neighbourhood": "Eastern District",
+        "suburb": "South Okkalapa",
+        "street": "4/6 Byamaso Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1701287,
+        "lat": 16.8469471,
+        "formatted": "Sabah, 4/6 Byamaso Road, Yangon, 11062, Myanmar",
+        "address_line1": "Sabah",
+        "address_line2": "4/6 Byamaso Road, Yangon, 11062, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sabah",
+            "osm_id": 4350455498,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511ba77c63e30a5840591a747086d1d83040f00103f901caae4e03010000009203055361626168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1701287,
+          16.84694710011909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UMG Myanmar",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "11401",
+        "district": "Northern District",
+        "suburb": "Hlaingtharya (East)",
+        "street": "Yangon-Pathein Highway Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.0518765,
+        "lat": 16.8657431,
+        "formatted": "UMG Myanmar, Yangon-Pathein Highway Road, Yangon, 11401, Myanmar",
+        "address_line1": "UMG Myanmar",
+        "address_line2": "Yangon-Pathein Highway Road, Yangon, 11401, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "UMG Myanmar",
+            "osm_id": 4365693689,
+            "name:en": "UMG Myanmar",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "UMG Myanmar"
+        },
+        "place_id": "5194bbcff15103584059fcc1fd56a1dd3040f00103f901f93237040100000092030b554d47204d79616e6d6172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.05187649999999,
+          16.865743100121094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FSO Traning office",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "22222",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Sanchaung",
+        "street": "Mahar Myaing Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.1343962,
+        "lat": 16.8072037,
+        "formatted": "FSO Traning office, Mahar Myaing Street, Yangon, 22222, Myanmar",
+        "address_line1": "FSO Traning office",
+        "address_line2": "Mahar Myaing Street, Yangon, 22222, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "FSO Traning office",
+            "osm_id": 4394291289,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5139ed84f299085840590834d5e6a4ce3040f00103f9015990eb050100000092031246534f205472616e696e67206f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.13439619999998,
+          16.807203700114798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saedawmu Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Southern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1502557,
+        "lat": 16.7976554,
+        "formatted": "Saedawmu Buddha Image, Southern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Saedawmu Buddha Image",
+        "address_line2": "Southern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Saedawmu Buddha Image",
+            "osm_id": 4419412848,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51686215ca9d0958405968f7f02433cc3040f00103f90170e36a07010000009203155361656461776d752042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1502557,
+          16.79765540011377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Child Clutching Brahma",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Southern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1500636,
+        "lat": 16.7979604,
+        "formatted": "Child Clutching Brahma, Southern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Child Clutching Brahma",
+        "address_line2": "Southern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Child Clutching Brahma",
+            "osm_id": 4419447862,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "517b945ba49a09584059eafdfd2147cc3040f00103f901366c6b07010000009203164368696c6420436c75746368696e6720427261686d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1500636,
+          16.7979604001138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Padashin Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Eastern stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1505841,
+        "lat": 16.7980812,
+        "formatted": "Padashin Buddha Image, Eastern stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Padashin Buddha Image",
+        "address_line2": "Eastern stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Padashin Buddha Image",
+            "osm_id": 4419520498,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "510b337e2ba309584059900aae0c4fcc3040f00103f901f2876c0701000000920315506164617368696e2042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15058409999999,
+          16.798081200113813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buddha's Sacred Tooth Relic Replica",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Western stairway and escalator",
+        "iso3166_2": "MM-06",
+        "lon": 96.1487595,
+        "lat": 16.7983508,
+        "formatted": "Buddha's Sacred Tooth Relic Replica, Western stairway and escalator, Yangon, 11191, Myanmar",
+        "address_line1": "Buddha's Sacred Tooth Relic Replica",
+        "address_line2": "Western stairway and escalator, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buddha's Sacred Tooth Relic Replica",
+            "osm_id": 4419547587,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "5109de904685095840597339d1b760cc3040f00103f901c3f16c070100000092032342756464686127732053616372656420546f6f74682052656c6963205265706c696361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1487595,
+          16.798350800113848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The padamya Myetshin Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Eastern stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1499786,
+        "lat": 16.7984534,
+        "formatted": "The padamya Myetshin Image, Eastern stairway, Yangon, 11191, Myanmar",
+        "address_line1": "The padamya Myetshin Image",
+        "address_line2": "Eastern stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The padamya Myetshin Image",
+            "osm_id": 4419547589,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "516486d73f990958405978de287167cc3040f00103f901c5f16c070100000092031a54686520706164616d7961204d7965747368696e20496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1499786,
+          16.798453400113857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buddha's Foot Print",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Northern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1492966,
+        "lat": 16.799447,
+        "formatted": "Buddha's Foot Print, Northern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Buddha's Foot Print",
+        "address_line2": "Northern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buddha's Foot Print",
+            "osm_id": 4419552356,
+            "name:fr": "Temple de l'empreinte du pied de Buddha",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Temple de l'empreinte du pied de Buddha"
+        },
+        "place_id": "51db9953138e09584059f25f008fa8cc3040f00103f90164046d0701000000920313427564646861277320466f6f74205072696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1492966,
+          16.799447000113965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ချမ်းသာကြီး တန်ဆောင်း",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Northern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1488143,
+        "lat": 16.7992968,
+        "formatted": "Chanthargyi Buddha Image, Northern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Chanthargyi Buddha Image",
+        "address_line2": "Northern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ချမ်းသာကြီး တန်ဆောင်း",
+            "osm_id": 4419552357,
+            "amenity": "place_of_worship",
+            "name:en": "Chanthargyi Buddha Image",
+            "name:my": "ချမ်းသာကြီး တန်ဆောင်း",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "Chanthargyi Buddha Image",
+          "my": "ချမ်းသာကြီး တန်ဆောင်း"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "5156eb692c86095840596c4910b79ecc3040f00103f90165046d070100000092033de18081e180bbe18099e180bae180b8e1809ee180ace18080e180bce180aee180b820e18090e18094e180bae18086e180b1e180ace18084e180bae180b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1488143,
+          16.799296800113936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shin Saw Pu's Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Northern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1487004,
+        "lat": 16.799239,
+        "formatted": "Shin Saw Pu's Buddha Image, Northern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Shin Saw Pu's Buddha Image",
+        "address_line2": "Northern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shin Saw Pu's Buddha Image",
+            "osm_id": 4419552359,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51bcb9ae4e8409584059592d57ed9acc3040f00103f90167046d070100000092031a5368696e2053617720507527732042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1487004,
+          16.799239000113946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ဘိုးဘိုးအောင် ဆုတောင်းပြည့်ဘုရား",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Northern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1498415,
+        "lat": 16.7991254,
+        "formatted": "Boe Boe Aung's Buddha Image, Northern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Boe Boe Aung's Buddha Image",
+        "address_line2": "Northern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ဘိုးဘိုးအောင် ဆုတောင်းပြည့်ဘုရား",
+            "osm_id": 4419569936,
+            "amenity": "place_of_worship",
+            "name:en": "Boe Boe Aung's Buddha Image",
+            "name:my": "ဘိုးဘိုးအောင် ဆုတောင်းပြည့်ဘုရား",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "Boe Boe Aung's Buddha Image",
+          "my": "ဘိုးဘိုးအောင် ဆုတောင်းပြည့်ဘုရား"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "515885cd0097095840596ae4727b93cc3040f00103f90110496d070100000092035ee18098e180ade180afe180b8e18098e180ade180afe180b8e180a1e180b1e180ace18084e180ba20e18086e180afe18090e180b1e180ace18084e180bae180b8e18095e180bce1808ae180b7e180bae18098e180afe1809be180ace180b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14984149999998,
+          16.79912540011393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ပြည်တော်ပြန်ဘုရား",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Northern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1498709,
+        "lat": 16.7993413,
+        "formatted": "Pyidawpyan Buddha Image, Northern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Pyidawpyan Buddha Image",
+        "address_line2": "Northern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ပြည်တော်ပြန်ဘုရား",
+            "osm_id": 4419569940,
+            "amenity": "place_of_worship",
+            "name:en": "Pyidawpyan Buddha Image",
+            "name:my": "ပြည်တော်ပြန်ဘုရား",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "Pyidawpyan Buddha Image",
+          "my": "ပြည်တော်ပြန်ဘုရား"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51d0871d7c9709584059e254a6a1a1cc3040f00103f90114496d0701000000920333e18095e180bce1808ae180bae18090e180b1e180ace180bae18095e180bce18094e180bae18098e180afe1809be180ace180b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1498709,
+          16.79934130011396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shin Izzagona's Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Eastern stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1499729,
+        "lat": 16.7992114,
+        "formatted": "Shin Izzagona's Buddha Image, Eastern stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Shin Izzagona's Buddha Image",
+        "address_line2": "Eastern stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shin Izzagona's Buddha Image",
+            "osm_id": 4419569941,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "515132ef2799095840596a144a1e99cc3040f00103f90115496d070100000092031c5368696e20497a7a61676f6e6127732042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14997289999998,
+          16.79921140011394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shin Ma Htee's Buddha Image",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Dagon",
+        "street": "Northern Stairway",
+        "iso3166_2": "MM-06",
+        "lon": 96.1497194,
+        "lat": 16.7998689,
+        "formatted": "Shin Ma Htee's Buddha Image, Northern Stairway, Yangon, 11191, Myanmar",
+        "address_line1": "Shin Ma Htee's Buddha Image",
+        "address_line2": "Northern Stairway, Yangon, 11191, Myanmar",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shin Ma Htee's Buddha Image",
+            "osm_id": 4419569942,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "buddhist",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51e8a4ad009509584059c0134f35c4cc3040f00103f90116496d070100000092031b5368696e204d61204874656527732042756464686120496d616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14971939999998,
+          16.799868900114006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "k t nt",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "town": "Mayangone",
+        "postcode": "11062",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "street": "1st Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.1623637,
+        "lat": 16.8516034,
+        "formatted": "k t nt, 1st Street, Yangon, 11062, Myanmar",
+        "address_line1": "k t nt",
+        "address_line2": "1st Street, Yangon, 11062, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "k t nt",
+            "osm_id": 4505370390,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ae63b72a640a5840590ead30ae02da3040f00103f901167f8a0c010000009203066b2074206e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16236369999999,
+          16.85160340011958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mizzima",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11171",
+        "district": "Yangon East",
+        "neighbourhood": "Eastern District",
+        "suburb": "Pazundaung",
+        "street": "Upper Pazundaung Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1746859,
+        "lat": 16.7802483,
+        "formatted": "Mizzima, Upper Pazundaung Road, Yangon, 11171, Myanmar",
+        "address_line1": "Mizzima",
+        "address_line2": "Upper Pazundaung Road, Yangon, 11171, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mizzima",
+            "osm_id": 4538160892,
+            "name:en": "Mizzima",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mizzima"
+        },
+        "place_id": "51a0e4c40d2e0b5840597abd435abec73040f00103f901fcd67e0e010000009203074d697a7a696d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17468589999999,
+          16.780248300111886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Bear",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "11022",
+        "district": "Northern District",
+        "suburb": "Mingaladon",
+        "iso3166_2": "MM-06",
+        "lon": 96.1149174,
+        "lat": 17.0445702,
+        "formatted": "Sun Bear, Yangon, 11022, Myanmar",
+        "address_line1": "Sun Bear",
+        "address_line2": "Yangon, 11022, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sun Bear",
+            "osm_id": 4573356919,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "5171af82ce5a075840595afadff3680b3140f00103f90177e397100100000092030853756e2042656172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.11491739999998,
+          17.044570200140107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Than Lan",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11051",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "suburb": "Hlaing",
+        "street": "Kyaung Kone 1st Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.1230273,
+        "lat": 16.8452558,
+        "formatted": "Than Lan, Kyaung Kone 1st Street, Yangon, 11051, Myanmar",
+        "address_line1": "Than Lan",
+        "address_line2": "Kyaung Kone 1st Street, Yangon, 11051, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Than Lan",
+            "osm_id": 4580533290,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f980e5addf07584059d94322af62d83040f00103f9012a640511010000009203085468616e204c616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1230273,
+          16.84525580011891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MyaSeinTung_TawYa-2",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Taikkyi Township",
+        "municipality": "Yangon North",
+        "iso3166_2": "MM-06",
+        "lon": 96.0190422,
+        "lat": 17.3329576,
+        "formatted": "MyaSeinTung_TawYa-2, Taikkyi Township, Yangon, Myanmar",
+        "address_line1": "MyaSeinTung_TawYa-2",
+        "address_line2": "Taikkyi Township, Yangon, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "MyaSeinTung_TawYa-2",
+            "osm_id": 4580554689,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519b8fc6fc37015840592aaf93b53c553140f00103f901c1b70511010000009203134d79615365696e54756e675f54617759612d32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.01904219999999,
+          17.33295760016987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MyaKyaukPyar",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Taikkyi Township",
+        "town": "Taik Kyi",
+        "municipality": "Yangon North",
+        "street": "Yangon - Pyay Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.0197545,
+        "lat": 17.3115549,
+        "formatted": "MyaKyaukPyar, Yangon - Pyay Road, Taikkyi Township, Myanmar",
+        "address_line1": "MyaKyaukPyar",
+        "address_line2": "Yangon - Pyay Road, Taikkyi Township, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "MyaKyaukPyar",
+            "osm_id": 4580554690,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b9dc60a84301584059fb20db0fc24f3140f00103f901c2b705110100000092030c4d79614b7961756b50796172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.01975449999999,
+          17.311554900167703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GAME4U",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11182",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Kyauktada",
+        "street": "39th Street",
+        "housenumber": "250",
+        "iso3166_2": "MM-06",
+        "lon": 96.1636792,
+        "lat": 16.7776691,
+        "formatted": "GAME4U, 250 39th Street, Yangon, 11182, Myanmar",
+        "address_line1": "GAME4U",
+        "address_line2": "250 39th Street, Yangon, 11182, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "phone": "+959259288811",
+            "osm_id": 4690032696,
+            "name:en": "GAME4U",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "39th St.",
+            "addr:postcode": 11182,
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "addr:housenumber": 250
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "name_international": {
+          "en": "GAME4U"
+        },
+        "contact": {
+          "phone": "+959259288811"
+        },
+        "place_id": "5146c252b8790a584059ce16785215c73040f00103f90138388c1701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16367920000002,
+          16.777669100111602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thiri Mon Betel shop",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Hlegu Township",
+        "village": "Zayatkwin Village",
+        "municipality": "Yangon North",
+        "postcode": "11371",
+        "street": "No. 1 Yangon-Mandalay Highway Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.320841,
+        "lat": 17.1494335,
+        "formatted": "Thiri Mon Betel shop, No. 1 Yangon-Mandalay Highway Road, Hlegu Township, 11371, Myanmar",
+        "address_line1": "Thiri Mon Betel shop",
+        "address_line2": "No. 1 Yangon-Mandalay Highway Road, Hlegu Township, 11371, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thiri Mon Betel shop",
+            "osm_id": 4693248994,
+            "name:en": "Thiri Mon Betel shop",
+            "name:my": "သီရိမြန္ ကြမ္းယာ",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Thiri Mon Betel shop",
+          "my": "သီရိမြန္ ကြမ္းယာ"
+        },
+        "place_id": "51d18db0a8881458405959131c4641263140f00103f901e24bbd17010000009203145468697269204d6f6e20426574656c2073686f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.32084099999999,
+          17.14943350015105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Elephant Statue",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11000",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Bahan",
+        "street": "Natmauk Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1589236,
+        "lat": 16.8001681,
+        "formatted": "White Elephant Statue, Natmauk Road, Yangon, 11000, Myanmar",
+        "address_line1": "White Elephant Statue",
+        "address_line2": "Natmauk Road, Yangon, 11000, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "White Elephant Statue",
+            "osm_id": 4739164081,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510124e4cd2b0a584059d14a0dd1d7cc3040f00103f901b1e7791a01000000920315576869746520456c657068616e7420537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1589236,
+          16.80016810011404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ထိန်နှစ်ပင်ကျေးရွာ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Htantabin Township",
+        "municipality": "Yangon North",
+        "street": "West University",
+        "iso3166_2": "MM-06",
+        "lon": 95.9941411,
+        "lat": 16.9611844,
+        "formatted": "Htain Nhapin Village, West University, Htantabin Township, Myanmar",
+        "address_line1": "Htain Nhapin Village",
+        "address_line2": "West University, Htantabin Township, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ထိန်နှစ်ပင်ကျေးရွာ",
+            "osm_id": 4740900223,
+            "name:en": "Htain Nhapin Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Htain Nhapin Village"
+        },
+        "place_id": "510107fe01a0ff57405943fd4b2e10f63040f00103f9017f65941a01000000920336e18091e180ade18094e180bae18094e180bee18085e180bae18095e18084e180bae18080e180bbe180b1e180b8e1809be180bde180ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.9941411,
+          16.961184400131298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "77 ရပ္ကြက္၊ ဒဂုံဆိပ္ကမ္း။",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11441",
+        "district": "Yangon East",
+        "neighbourhood": "Eastern District",
+        "suburb": "Dagon Seikkan",
+        "street": "Thiri Myaing Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.2566586,
+        "lat": 16.826934,
+        "formatted": "77 ရပ္ကြက္၊ ဒဂုံဆိပ္ကမ္း။, Thiri Myaing Street, Yangon, 11441, Myanmar",
+        "address_line1": "77 ရပ္ကြက္၊ ဒဂုံဆိပ္ကမ္း။",
+        "address_line2": "Thiri Myaing Street, Yangon, 11441, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "77 ရပ္ကြက္၊ ဒဂုံဆိပ္ကမ္း။",
+            "osm_id": 4823318722,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512c4f31186d10584059e27356f2b1d33040f00103f901c2007e1f01000000920343373720e1809be18095e180b9e18080e180bce18080e180b9e1818a20e18092e18082e180afe180b6e18086e180ade18095e180b9e18080e18099e180b9e180b8e1818b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.25665859999998,
+          16.82693400011693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tha Ma",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "town": "Mayangone",
+        "postcode": "00951",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "street": "Radio Station Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1518206,
+        "lat": 16.888263,
+        "formatted": "Tha Ma, Radio Station Road, Yangon, 00951, Myanmar",
+        "address_line1": "Tha Ma",
+        "address_line2": "Radio Station Road, Yangon, 00951, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tha Ma",
+            "osm_id": 4925503822,
+            "name:en": "Tha Ma",
+            "name:my": "သမ",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tha Ma",
+          "my": "သမ"
+        },
+        "place_id": "51faf6bf6db70958405900c7373465e33040f00103f9014e39952501000000920306546861204d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15182059999998,
+          16.888263000123516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ထိန်ပင်သုသာန်",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "11401",
+        "district": "Northern District",
+        "street": "Htein Pin Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.024749,
+        "lat": 16.8888112,
+        "formatted": "Htein Pin Cemetery, Htein Pin Road, Yangon, 11401, Myanmar",
+        "address_line1": "Htein Pin Cemetery",
+        "address_line2": "Htein Pin Road, Yangon, 11401, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ထိန်ပင်သုသာန်",
+            "osm_id": 4931782821,
+            "name:en": "Htein Pin Cemetery",
+            "name:my": "ထိန်ပင်သုသာန်",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Htein Pin Cemetery",
+          "my": "ထိန်ပင်သုသာန်"
+        },
+        "place_id": "51f566d47c95015840596ad97c2189e33040f00103f901a508f52501000000920327e18091e180ade18094e180bae18095e18084e180bae1809ee180afe1809ee180ace18094e180ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.024749,
+          16.888811200123577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "68ရပ္ကြက္ ဒဂံုဆိပ္ကမ္း",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11431",
+        "district": "Yangon East",
+        "neighbourhood": "Eastern District",
+        "suburb": "Dagon Seikkan",
+        "street": "Sayar San Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.2535495,
+        "lat": 16.8502319,
+        "formatted": "68ရပ္ကြက္ ဒဂံုဆိပ္ကမ္း, Sayar San Street, Yangon, 11431, Myanmar",
+        "address_line1": "68ရပ္ကြက္ ဒဂံုဆိပ္ကမ္း",
+        "address_line2": "Sayar San Street, Yangon, 11431, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "68ရပ္ကြက္ ဒဂံုဆိပ္ကမ္း",
+            "osm_id": 4967128822,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b39aae273a1058405967073dcca8d93040f00103f901f65e10280100000092033c3638e1809be18095e180b9e18080e180bce18080e180b920e18092e18082e180b6e180afe18086e180ade18095e180b9e18080e18099e180b9e180b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2535495,
+          16.850231900119436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "93ရပ္ကြပ္ ယုဇနဥယာဥ္ၿမိဳ႕ေတာ္",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11441",
+        "district": "Yangon East",
+        "neighbourhood": "Eastern District",
+        "suburb": "Dagon Seikkan",
+        "street": "Kyun Shwe War Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.2690461,
+        "lat": 16.8260714,
+        "formatted": "93ရပ္ကြပ္ ယုဇနဥယာဥ္ၿမိဳ႕ေတာ္, Kyun Shwe War Street, Yangon, 11441, Myanmar",
+        "address_line1": "93ရပ္ကြပ္ ယုဇနဥယာဥ္ၿမိဳ႕ေတာ္",
+        "address_line2": "Kyun Shwe War Street, Yangon, 11441, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "93ရပ္ကြပ္ ယုဇနဥယာဥ္ၿမိဳ႕ေတာ္",
+            "osm_id": 4967129021,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517127220d3811584059aba94f6a79d33040f00103f901bd5f10280100000092034e3933e1809be18095e180b9e18080e180bce18095e180b920e1809ae180afe18087e18094e180a5e1809ae180ace180a5e180b9e181bfe18099e180ade180b3e18295e180b1e18090e180ace180b9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.26904609999998,
+          16.82607140011684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ေရကန္;Pai's Bar",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "town": "Mayangone",
+        "postcode": "11061",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "street": "Pyay Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.140764,
+        "lat": 16.8687019,
+        "formatted": "ေရကန္;Pai's Bar, Pyay Road, Yangon, 11061, Myanmar",
+        "address_line1": "ေရကန္;Pai's Bar",
+        "address_line2": "Pyay Road, Yangon, 11061, Myanmar",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "email": "omg.paibar@gmail.com",
+            "phone": "09979784966",
+            "osm_id": 4997423721,
+            "amenity": "restaurant",
+            "name:en": "ေရကန္;Pai's Bar",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "ပြည်လမ်း",
+            "opening_hours": "Mo-Su 09:00-18:00"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "name_international": {
+          "en": "ေရကန္;Pai's Bar"
+        },
+        "contact": {
+          "phone": "09979784966",
+          "email": "omg.paibar@gmail.com"
+        },
+        "place_id": "51101d024702095840599dfe6a3f63de3040f00103f90169a2de2901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.14076399999999,
+          16.868701900121426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "မေနာ္ဟရီရိပ္သာ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Ahlone",
+        "street": "Manawhari Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1324715,
+        "lat": 16.7896773,
+        "formatted": "မေနာ္ဟရီရိပ္သာ, Manawhari Road, Yangon, 11191, Myanmar",
+        "address_line1": "မေနာ္ဟရီရိပ္သာ",
+        "address_line2": "Manawhari Road, Yangon, 11191, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "မေနာ္ဟရီရိပ္သာ",
+            "osm_id": 5136988126,
+            "name:my": "မေနာ္ဟရီရိပ္သာ",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "my": "မေနာ္ဟရီရိပ္သာ"
+        },
+        "place_id": "51bb09be697a08584059e760a24a28ca3040f00103f901de3730320100000092032ae18099e180b1e18094e180ace180b9e1809fe1809be180aee1809be180ade18095e180b9e1809ee180ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1324715,
+          16.78967730011291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "မေနာ္ဟရီ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11191",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Ahlone",
+        "street": "Manawhari Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1324283,
+        "lat": 16.7897693,
+        "formatted": "မေနာ္ဟရီ, Manawhari Road, Yangon, 11191, Myanmar",
+        "address_line1": "မေနာ္ဟရီ",
+        "address_line2": "Manawhari Road, Yangon, 11191, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "မေနာ္ဟရီ",
+            "osm_id": 5136990723,
+            "name:my": "မေနာ္ဟရီ",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "my": "မေနာ္ဟရီ"
+        },
+        "place_id": "5126648cb47908584059ab5e23522eca3040f00103f9010342303201000000920318e18099e180b1e18094e180ace180b9e1809fe1809be180ae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.13242829999999,
+          16.78976930011292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Home co u",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11422",
+        "district": "Yangon East",
+        "neighbourhood": "Eastern District",
+        "suburb": "East Dagon",
+        "street": "Bo chain Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.1991083,
+        "lat": 16.9043942,
+        "formatted": "Home co u, Bo chain Street, Yangon, 11422, Myanmar",
+        "address_line1": "Home co u",
+        "address_line2": "Bo chain Street, Yangon, 11422, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Home co u",
+            "osm_id": 5173980621,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512e37bd30be0c584059e23ad86086e73040f00103f901cdad643401000000920309486f6d6520636f2075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1991083,
+          16.904394200125246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Bago Region",
+        "county": "East Bago Region",
+        "city": "Bago",
+        "municipality": "Bago District",
+        "postcode": "08011",
+        "district": "Lake Pyar Kan Quarter",
+        "street": "socialist (2) Street",
+        "iso3166_2": "MM-02",
+        "lon": 96.4909982,
+        "lat": 17.3318225,
+        "formatted": "socialist (2) Street, Bago, 08011, Myanmar",
+        "address_line1": "socialist (2) Street",
+        "address_line2": "Bago, 08011, Myanmar",
+        "name": "socialist (2) Street",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "socialist (2) Street",
+            "osm_id": 5208387821,
+            "name:en": "socialist (2) Street",
+            "name:my": "ဆိုရှယ်လစ်(၂)လမ်း",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "socialist (2) Street",
+          "my": "ဆိုရှယ်လစ်(၂)လမ်း"
+        },
+        "place_id": "5146d9b6836c1f5840595b4ec251f2543140f00103f901edb0713601000000920314736f6369616c6973742028322920537472656574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.4909982,
+          17.33182250016976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogyoke Aung San Statue",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "00000",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Bahan",
+        "street": "Natmauk Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1643077,
+        "lat": 16.7997344,
+        "formatted": "Bogyoke Aung San Statue, Natmauk Road, Yangon, 00000, Myanmar",
+        "address_line1": "Bogyoke Aung San Statue",
+        "address_line2": "Natmauk Road, Yangon, 00000, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bogyoke Aung San Statue",
+            "osm_id": 5269602192,
+            "name:my": "ဗိုလ်ချုပ်အောင်ဆန်းကြေးရုပ်",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "my": "ဗိုလ်ချုပ်အောင်ဆန်းကြေးရုပ်"
+        },
+        "place_id": "51c77e7104840a584059caf9c564bbcc3040f00103f90190bf173a01000000920317426f67796f6b652041756e672053616e20537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16430769999998,
+          16.799734400113984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wired on 39",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11183",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Kyauktada",
+        "street": "39th Street",
+        "housenumber": "N°200",
+        "iso3166_2": "MM-06",
+        "lon": 96.16359,
+        "lat": 16.7760165,
+        "formatted": "Wired on 39, N°200 39th Street, Yangon, 11183, Myanmar",
+        "address_line1": "Wired on 39",
+        "address_line2": "N°200 39th Street, Yangon, 11183, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "email": "donwright@live.com.au",
+            "phone": "09254377278",
+            "osm_id": 5336423322,
+            "name:en": "Wired on 39",
+            "tourism": "attraction",
+            "website": "https://www.donwrightimages.com/",
+            "osm_type": "n",
+            "addr:street": "39th Street",
+            "addr:housenumber": "N°200"
+          }
+        },
+        "website": "https://www.donwrightimages.com/",
+        "name_international": {
+          "en": "Wired on 39"
+        },
+        "contact": {
+          "phone": "09254377278",
+          "email": "donwright@live.com.au"
+        },
+        "place_id": "51f8fc3042780a5840598e227104a9c63040f00103f9019a5b133e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.16359,
+          16.77601650011143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAN Art Studio",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "11011",
+        "district": "Lann Thit Group",
+        "suburb": "Insein",
+        "street": "NANTHARKHONE Street.",
+        "iso3166_2": "MM-06",
+        "lon": 96.1094098,
+        "lat": 16.8907198,
+        "formatted": "PAN Art Studio, NANTHARKHONE Street., Yangon, 11011, Myanmar",
+        "address_line1": "PAN Art Studio",
+        "address_line2": "NANTHARKHONE Street., Yangon, 11011, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PAN Art Studio",
+            "osm_id": 5445811529,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "painting"
+          }
+        },
+        "artwork": {
+          "artwork_type": "painting"
+        },
+        "place_id": "512937f6910007584059696e7b3606e43040f00103f901497d98440100000092030e50414e204172742053747564696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1094098,
+          16.89071980012378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pottery workshops",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Twantay Township",
+        "town": "Twante",
+        "municipality": "Yangon South",
+        "postcode": "11331",
+        "iso3166_2": "MM-06",
+        "lon": 95.9238298,
+        "lat": 16.7055666,
+        "formatted": "Pottery workshops, Twantay Township, 11331, Myanmar",
+        "address_line1": "Pottery workshops",
+        "address_line2": "Twantay Township, 11331, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pottery workshops",
+            "osm_id": 5542194922,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517d84060720fb5740597c984003a0b43040f00103f901ea2e574a01000000920311506f747465727920776f726b73686f7073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.92382979999998,
+          16.70556660010378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mo's Home",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11091",
+        "district": "Yangon East",
+        "neighbourhood": "Cherry Garden Housing",
+        "suburb": "South Okkalapa",
+        "street": "Thitsa Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.1810838,
+        "lat": 16.8482315,
+        "formatted": "Mo's Home, Thitsa Road, Yangon, 11091, Myanmar",
+        "address_line1": "Mo's Home",
+        "address_line2": "Thitsa Road, Yangon, 11091, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mo's Home",
+            "osm_id": 5598400621,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5177b581e0960b584059f67218b325d93040f00103f9016dd0b04d010000009203094d6f277320486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1810838,
+          16.84823150011922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cafe 20",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11201",
+        "district": "Yangon West",
+        "neighbourhood": "Western District",
+        "suburb": "Bahan",
+        "street": "Shwe Min Wun Sasana Yeik Thar Lane",
+        "iso3166_2": "MM-06",
+        "lon": 96.1628436,
+        "lat": 16.8108432,
+        "formatted": "cafe 20, Shwe Min Wun Sasana Yeik Thar Lane, Yangon, 11201, Myanmar",
+        "address_line1": "cafe 20",
+        "address_line2": "Shwe Min Wun Sasana Yeik Thar Lane, Yangon, 11201, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "cafe 20",
+            "osm_id": 5652867321,
+            "name:en": "cafe 20",
+            "name:my": "cafe 20",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "cafe 20",
+          "my": "cafe 20"
+        },
+        "place_id": "513a1790076c0a584059c2ad826b93cf3040f00103f901f9e8ef500100000092030763616665203230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1628436,
+          16.810843200115194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anger Management",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11091",
+        "district": "Yangon East",
+        "neighbourhood": "Eastern District",
+        "suburb": "South Okkalapa",
+        "street": "Myin Thar 10 Street",
+        "housenumber": "No. 154-1,155-2",
+        "iso3166_2": "MM-06",
+        "lon": 96.1966342,
+        "lat": 16.8492599,
+        "formatted": "Anger Management, No. 154-1,155-2 Myin Thar 10 Street, Yangon, 11091, Myanmar",
+        "address_line1": "Anger Management",
+        "address_line2": "No. 154-1,155-2 Myin Thar 10 Street, Yangon, 11091, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "email": "kosoezarshein@gmail.com",
+            "osm_id": 5670448723,
+            "name:en": "Anger Management",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Myin Thar 10 Street",
+            "addr:postcode": 11091,
+            "opening_hours": "24/7",
+            "addr:housenumber": "No. 154-1,155-2"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "Anger Management"
+        },
+        "contact": {
+          "email": "kosoezarshein@gmail.com"
+        },
+        "place_id": "519b919ca7950c58405917d1c81869d93040f00103f901532efc5101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.19663419999999,
+          16.849259900119332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "20202",
+        "district": "Northern District",
+        "suburb": "Hlaingtharya (East)",
+        "street": "Min Gyi Mahar Min Gaung Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.0548122,
+        "lat": 16.8638068,
+        "formatted": "Min Gyi Mahar Min Gaung Street, Yangon, 20202, Myanmar",
+        "address_line1": "Min Gyi Mahar Min Gaung Street",
+        "address_line2": "Yangon, 20202, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "email": "heinlinkyaw@owaytrip.com",
+            "phone": "09425750094",
+            "osm_id": 5763508854,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Junction Myawaddy Mingyi street and Mahar MinKhaung street",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "contact": {
+          "phone": "09425750094",
+          "email": "heinlinkyaw@owaytrip.com"
+        },
+        "place_id": "51ff9a070b8203584059e994447122dd3040f00103f901762a885701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0548122,
+          16.8638068001209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "သီရိမဂၤလာလမ္‌း",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11071",
+        "district": "Yangon East",
+        "neighbourhood": "May Kha Housing",
+        "suburb": "Thingangyun",
+        "iso3166_2": "MM-06",
+        "lon": 96.1918092,
+        "lat": 16.8373272,
+        "formatted": "Thiri Mingalar street, Yangon, 11071, Myanmar",
+        "address_line1": "Thiri Mingalar street",
+        "address_line2": "Yangon, 11071, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "သီရိမဂၤလာလမ္‌း",
+            "osm_id": 5977447987,
+            "name:en": "Thiri Mingalar street",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Thiri Mingalar street"
+        },
+        "place_id": "519944189a460c584059ed8e4c135bd63040f00103f901339e48640100000092032ae1809ee180aee1809be180ade18099e18082e181a4e1809ce180ace1809ce18099e180b9e2808ce180b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.19180919999998,
+          16.837327200118057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "add friend",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "town": "Mayangone",
+        "postcode": "11013",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "street": "Pyay Road",
+        "housenumber": "+959427858279",
+        "iso3166_2": "MM-06",
+        "lon": 96.135029,
+        "lat": 16.881334,
+        "formatted": "add friend, +959427858279 Pyay Road, Yangon, 11013, Myanmar",
+        "address_line1": "add friend",
+        "address_line2": "+959427858279 Pyay Road, Yangon, 11013, Myanmar",
+        "categories": [
+          "commercial",
+          "commercial.books",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "add friend",
+            "shop": "books",
+            "osm_id": 5982497885,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:street": "ပြည်လမ်း",
+            "addr:postcode": 1979,
+            "addr:housenumber": "+959427858279"
+          }
+        },
+        "commercial": {
+          "type": "books"
+        },
+        "place_id": "51bdc0ac50a4085840595261e31a9fe13040f00103f9015dac95640100000092030a61646420667269656e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.13502899999999,
+          16.88133400012277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ရတနာေအာင္ေျမေက်ာင္း",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "postcode": "11052",
+        "district": "Yangon West",
+        "neighbourhood": "Northern District",
+        "suburb": "Hlaing",
+        "street": "Shwe Hintha Street",
+        "iso3166_2": "MM-06",
+        "lon": 96.1324888,
+        "lat": 16.8449498,
+        "formatted": "Yadanar Aung Myay School, Shwe Hintha Street, Yangon, 11052, Myanmar",
+        "address_line1": "Yadanar Aung Myay School",
+        "address_line2": "Shwe Hintha Street, Yangon, 11052, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ရတနာေအာင္ေျမေက်ာင္း",
+            "osm_id": 6091628685,
+            "name:en": "Yadanar Aung Myay School",
+            "name:my": "ရတနာေအာင္ေျမေက်ာင္း",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Yadanar Aung Myay School",
+          "my": "ရတနာေအာင္ေျမေက်ာင္း"
+        },
+        "place_id": "5186c54db27a08584059b4454ea14ed83040f00103f9018de0166b01000000920339e1809be18090e18094e180ace180b1e180a1e180ace18084e180b9e180b1e180bbe18099e180b1e18080e180bae180ace18084e180b9e180b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1324888,
+          16.84494980011887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ဆယ္အိမ္တန္း ကမ္းေျခ",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Kungyangon",
+        "village": "Ah Lel Ywa",
+        "municipality": "Yangon South",
+        "iso3166_2": "MM-06",
+        "lon": 96.1201979,
+        "lat": 16.3224628,
+        "formatted": "ဆယ္အိမ္တန္း ကမ္းေျခ, Kungyangon, Yangon, Myanmar",
+        "address_line1": "ဆယ္အိမ္တန္း ကမ္းေျခ",
+        "address_line2": "Kungyangon, Yangon, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ဆယ္အိမ္တန္း ကမ္းေျခ",
+            "osm_id": 6112210085,
+            "name:my": "ဆယ္အိမ္တန္း ကမ္းေျခ",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "my": "ဆယ္အိမ္တန္း ကမ္းေျခ"
+        },
+        "place_id": "510f638852b1075840598c700cec8c523040f00103f901a5ec506c01000000920337e18086e1809ae180b9e180a1e180ade18099e180b9e18090e18094e180b9e180b820e18080e18099e180b9e180b8e180b1e180bbe18081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.12019789999998,
+          16.322462800061246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ခြင်္သေ့",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "11023",
+        "district": "Northern District",
+        "suburb": "Shwepyithar",
+        "street": "Number 4 Main Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.095143,
+        "lat": 17.0255251,
+        "formatted": "ခြင်္သေ့, Number 4 Main Road, Yangon, 11023, Myanmar",
+        "address_line1": "ခြင်္သေ့",
+        "address_line2": "Number 4 Main Road, Yangon, 11023, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ခြင်္သေ့",
+            "osm_id": 6178464269,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "artist_name": "ဦးပန်းရံဆရာကြီး",
+            "artwork_type": "sculpture",
+            "artwork_subject": "masonary"
+          }
+        },
+        "artwork": {
+          "artist_name": "ဦးပန်းရံဆရာကြီး",
+          "artwork_subject": "masonary",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "515f5caad21606584059fc511ed088063140f00103f9010de2437001000000920318e18081e180bce18084e180bae180b9e1809ee180b1e180b7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.095143,
+          17.025525100138097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ခြင်္သေ့",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Yangon",
+        "municipality": "Yangon North",
+        "postcode": "11023",
+        "district": "Northern District",
+        "suburb": "Shwepyithar",
+        "street": "Number 4 Main Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.095133,
+        "lat": 17.0256045,
+        "formatted": "ခြင်္သေ့, Number 4 Main Road, Yangon, 11023, Myanmar",
+        "address_line1": "ခြင်္သေ့",
+        "address_line2": "Number 4 Main Road, Yangon, 11023, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ခြင်္သေ့",
+            "osm_id": 6178464279,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "artist_name": "ဦးပန်းရံဆရာကြီး",
+            "artwork_type": "sculpture",
+            "artwork_subject": "masonary"
+          }
+        },
+        "artwork": {
+          "artist_name": "ဦးပန်းရံဆရာကြီး",
+          "artwork_subject": "masonary",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "514df1b8a816065840593eb93a048e063140f00103f90117e2437001000000920318e18081e180bce18084e180bae180b9e1809ee180b1e180b7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.09513299999999,
+          17.025604500138108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ေရခဲဆိပ္ကမ္း",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Ayeyarwady",
+        "city": "Pyapon",
+        "street": "Phyae Pone Bridge",
+        "iso3166_2": "MM-07",
+        "lon": 95.6826367,
+        "lat": 16.290805,
+        "formatted": "ေရခဲဆိပ္ကမ္း, Phyae Pone Bridge, Pyapon, Myanmar",
+        "address_line1": "ေရခဲဆိပ္ကမ္း",
+        "address_line2": "Phyae Pone Bridge, Pyapon, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ေရခဲဆိပ္ကမ္း",
+            "osm_id": 6275682285,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512863d751b0eb574059d1c24c32724a3040f00103f901ed4f0f7601000000920324e180b1e1809be18081e180b2e18086e180ade18095e180b9e18080e18099e180b9e180b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.68263669999999,
+          16.290805000057677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rysr",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Thanlyin",
+        "municipality": "Yangon South",
+        "postcode": "11291",
+        "street": "Myo Pat Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.2391867,
+        "lat": 16.7457067,
+        "formatted": "rysr, Myo Pat Road, Thanlyin, 11291, Myanmar",
+        "address_line1": "rysr",
+        "address_line2": "Myo Pat Road, Thanlyin, 11291, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "rysr",
+            "osm_id": 6598330096,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d788bbd54e0f584059605f61a2e6be3040f00103f901f0864a890100000092030472797372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.23918669999999,
+          16.745706700108144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fugi",
+        "country": "Myanmar",
+        "country_code": "mm",
+        "state": "Yangon",
+        "city": "Thanlyin",
+        "municipality": "Yangon South",
+        "postcode": "11291",
+        "street": "Kyikekhauk Pagoda Road",
+        "iso3166_2": "MM-06",
+        "lon": 96.2657017,
+        "lat": 16.7444033,
+        "formatted": "fugi, Kyikekhauk Pagoda Road, Thanlyin, 11291, Myanmar",
+        "address_line1": "fugi",
+        "address_line2": "Kyikekhauk Pagoda Road, Thanlyin, 11291, Myanmar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "fugi",
+            "osm_id": 6598330097,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5176ffb341011158405993fff43691be3040f00103f901f1864a890100000092030466756769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.2657017,
+          16.744403300108
+        ]
+      }
+    }
+  ]
+}

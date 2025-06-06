@@ -1,0 +1,5070 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "វត្ដភ្នំ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Wat Phnom",
+        "postcode": "120211",
+        "street": "Wat Phnom Roundabout",
+        "iso3166_2": "KH-12",
+        "lon": 104.92321220084436,
+        "lat": 11.57610145,
+        "formatted": "Wat Phnom Pagoda, Wat Phnom Roundabout, Khan Daun Penh 120211, Cambodia",
+        "address_line1": "Wat Phnom Pagoda",
+        "address_line2": "Wat Phnom Roundabout, Khan Daun Penh 120211, Cambodia",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.buddhism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "វត្ដភ្នំ",
+            "osm_id": 175005909,
+            "amenity": "place_of_worship",
+            "name:en": "Wat Phnom Pagoda",
+            "name:km": "វត្តភ្នំ",
+            "name:vi": "Wat Phnom",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "wikidata": "Q1818101",
+            "wikipedia": "en:Wat Phnom",
+            "opening_hours": "Mo-Su 07:00-18:30",
+            "wikimedia_commons": "Category:Wat Phnom"
+          }
+        },
+        "opening_hours": "Mo-Su 07:00-18:30",
+        "name_international": {
+          "en": "Wat Phnom Pagoda",
+          "km": "វត្តភ្នំ",
+          "vi": "Wat Phnom"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1818101",
+          "wikipedia": "en:Wat Phnom",
+          "wikimedia_commons": "Category:Wat Phnom"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "514279a0e8153b5a405918efe9c4f6262740f00102f901d5606e0a00000000920318e19e9ce19e8fe19f92e19e8ae19e97e19f92e19e93e19f86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.92321220084435,
+          11.576101449543373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ព្រះបរមរាជវាំង​នៃរាជាណាចក្រ​កម្ពុជា",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Phsar Kandal Ti Muoy",
+        "postcode": "120205",
+        "street": "Preah Sisowath Quay (Street 1)",
+        "iso3166_2": "KH-12",
+        "lon": 104.93014706395013,
+        "lat": 11.563772499999999,
+        "formatted": "Royal Palace, Preah Sisowath Quay (Street 1), Khan Daun Penh 120205, Cambodia",
+        "address_line1": "Royal Palace",
+        "address_line2": "Preah Sisowath Quay (Street 1), Khan Daun Penh 120205, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "ព្រះបរមរាជវាំង​នៃរាជាណាចក្រ​កម្ពុជា",
+            "osm_id": 1315431760,
+            "barrier": "wall",
+            "name:de": "Königspalast",
+            "name:en": "Royal Palace",
+            "name:fr": "Palais Royale",
+            "name:vi": "Cung điện Hoàng Gia",
+            "name:zh": "皇宫",
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "w",
+            "wikidata": "Q420618",
+            "wikipedia": "en:Royal Palace, Phnom Penh",
+            "castle_type": "palace",
+            "opening_hours": "08:00-11:00, 14:00-17:00"
+          }
+        },
+        "opening_hours": "08:00-11:00, 14:00-17:00",
+        "name_international": {
+          "de": "Königspalast",
+          "en": "Royal Palace",
+          "fr": "Palais Royale",
+          "vi": "Cung điện Hoàng Gia",
+          "zh": "皇宫"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q420618",
+          "wikipedia": "en:Royal Palace, Phnom Penh"
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "palace"
+        },
+        "place_id": "51b7088d87873b5a40594ed6ffc9a6202740f00102f90150e5674e00000000920369e19e96e19f92e19e9ae19f87e19e94e19e9ae19e98e19e9ae19eb6e19e87e19e9ce19eb6e19f86e19e84e2808be19e93e19f83e19e9ae19eb6e19e87e19eb6e19e8ee19eb6e19e85e19e80e19f92e19e9ae2808be19e80e19e98e19f92e19e96e19ebbe19e87e19eb6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.93014706395012,
+          11.563772499542349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silver Pagoda",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Chey Chumneah",
+        "postcode": "120208",
+        "street": "Oknha Chhun (Street 240)",
+        "iso3166_2": "KH-12",
+        "lon": 104.93170659253715,
+        "lat": 11.562495850000001,
+        "formatted": "Silver Pagoda, Oknha Chhun (Street 240), Khan Daun Penh 120208, Cambodia",
+        "address_line1": "Silver Pagoda",
+        "address_line2": "Oknha Chhun (Street 240), Khan Daun Penh 120208, Cambodia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Silver Pagoda",
+            "osm_id": 172268277,
+            "name:de": "Silberpagode",
+            "name:pl": "Srebrna Pagoda",
+            "name:vi": "Chùa Bạc",
+            "name:zh": "银宝塔",
+            "tourism": "attraction",
+            "alt_name": "Preah Vihear Preah Keo Morakot",
+            "building": "yes",
+            "historic": "yes",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "wikidata": "Q2641555",
+            "wikipedia": "en:Silver Pagoda, Phnom Penh",
+            "addr:street": "វិថី ឧកញ៉ា ឈុន (២៤០)",
+            "alt_name:en": "Preah Vihear Preah Keo Morakot",
+            "official_name": "ព្រះវិហារព្រះកែវមរកត",
+            "abandoned:amenity": "place_of_worship",
+            "wikimedia_commons": "Category:Silver pagoda, Phnom Penh"
+          }
+        },
+        "name_other": {
+          "alt_name": "Preah Vihear Preah Keo Morakot",
+          "official_name": "ព្រះវិហារព្រះកែវមរកត"
+        },
+        "name_international": {
+          "de": "Silberpagode",
+          "pl": "Srebrna Pagoda",
+          "vi": "Chùa Bạc",
+          "zh": "银宝塔"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2641555",
+          "wikipedia": "en:Silver Pagoda, Phnom Penh",
+          "wikimedia_commons": "Category:Silver pagoda, Phnom Penh"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51891ab014a13b5a4059ded6bb74ff1f2740f00102f901f59a440a0000000092030d53696c766572205061676f6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.93170659253714,
+          11.562495849542241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "មជ្ឈមណ្ឌល ប្រល័យពូជសាសន៍ ជើងឯក",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Dangkao",
+        "village": "Sangkat Cheung Aek",
+        "hamlet": "Phum Kandal",
+        "postcode": "120508",
+        "street": "Chung Kong Boulevard",
+        "iso3166_2": "KH-12",
+        "lon": 104.90230723647295,
+        "lat": 11.48398205,
+        "formatted": "Choeung Ek Genocidal Center, Chung Kong Boulevard, Khan Dangkao 120508, Cambodia",
+        "address_line1": "Choeung Ek Genocidal Center",
+        "address_line2": "Chung Kong Boulevard, Khan Dangkao 120508, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "មជ្ឈមណ្ឌល ប្រល័យពូជសាសន៍ ជើងឯក",
+            "osm_id": 182972997,
+            "barrier": "fence",
+            "name:de": "Choeung Ek Völkermord-Gedenkzentrum",
+            "name:en": "Choeung Ek Genocidal Center",
+            "name:km": "មជ្ឈមណ្ឌល ប្រល័យពូជសាសន៍ ជើងឯក",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q1075734",
+            "wikipedia": "en:Choeung Ek",
+            "alt_name:en": "Killing Fields",
+            "alt_name_1:en": "Killing Fields of Choeung Ek"
+          }
+        },
+        "name_international": {
+          "de": "Choeung Ek Völkermord-Gedenkzentrum",
+          "en": "Choeung Ek Genocidal Center",
+          "km": "មជ្ឈមណ្ឌល ប្រល័យពូជសាសន៍ ជើងឯក"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1075734",
+          "wikipedia": "en:Choeung Ek"
+        },
+        "place_id": "511ce6d966bf395a4059e536c57eccf72640f00102f90145f2e70a00000000920356e19e98e19e87e19f92e19e88e19e98e19e8ee19f92e19e8ce19e9b20e19e94e19f92e19e9ae19e9be19f90e19e99e19e96e19ebce19e87e19e9fe19eb6e19e9fe19e93e19f8d20e19e87e19ebee19e84e19eafe19e80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.90230723647295,
+          11.483982049535777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambodia-Vietnam Friendship Monument",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Chey Chumneah",
+        "postcode": "120208",
+        "street": "Samdech Sothea Ros Boulevard (Street 3)",
+        "iso3166_2": "KH-12",
+        "lon": 104.93277180622985,
+        "lat": 11.5586996,
+        "formatted": "Cambodia-Vietnam Friendship Monument, Samdech Sothea Ros Boulevard (Street 3), Khan Daun Penh 120208, Cambodia",
+        "address_line1": "Cambodia-Vietnam Friendship Monument",
+        "address_line2": "Samdech Sothea Ros Boulevard (Street 3), Khan Daun Penh 120208, Cambodia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cambodia-Vietnam Friendship Monument",
+            "osm_id": 311065474,
+            "name:vi": "Tượng đài Hữu nghị Việt Nam Campuchia",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "monument",
+            "osm_type": "w",
+            "wikidata": "Q5025211",
+            "wikipedia": "en:Cambodia–Vietnam Friendship Monument",
+            "wikimedia_commons": "Category:Cambodia–Vietnam Friendship Monument"
+          }
+        },
+        "name_international": {
+          "vi": "Tượng đài Hữu nghị Việt Nam Campuchia"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5025211",
+          "wikipedia": "en:Cambodia–Vietnam Friendship Monument",
+          "wikimedia_commons": "Category:Cambodia–Vietnam Friendship Monument"
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "51d6988488b23b5a405948a4b8df0d1e2740f00102f901827b8a120000000092032443616d626f6469612d566965746e616d20467269656e6473686970204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.93277180622985,
+          11.558699599541924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "វិមានឯករាជ្យ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Boeng Keng Kang",
+        "village": "Sangkat Boeng Keng Kang Ti Muoy",
+        "postcode": "120102",
+        "street": "Independence Monument Roundabout",
+        "iso3166_2": "KH-12",
+        "lon": 104.92818978905387,
+        "lat": 11.5564351,
+        "formatted": "Independence Monument Roundabout, Khan Boeng Keng Kang 120102, Cambodia",
+        "address_line1": "Independence Monument Roundabout",
+        "address_line2": "Khan Boeng Keng Kang 120102, Cambodia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "វិមានឯករាជ្យ",
+            "osm_id": 311065501,
+            "name:de": "Unabhängigkeitsdenkmal",
+            "name:en": "Independence Monument",
+            "name:km": "វិមានឯករាជ",
+            "name:vi": "Đài Độc Lập",
+            "name:zh": "独立台",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "monument",
+            "osm_type": "w",
+            "wikidata": "Q1108673",
+            "wikipedia": "en:Independence Monument, Phnom Penh",
+            "building:levels": 9,
+            "wikimedia_commons": "Category:Independence Monument (Phnom Penh)"
+          }
+        },
+        "name_international": {
+          "de": "Unabhängigkeitsdenkmal",
+          "en": "Independence Monument",
+          "km": "វិមានឯករាជ",
+          "vi": "Đài Độc Lập",
+          "zh": "独立台"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1108673",
+          "wikipedia": "en:Independence Monument, Phnom Penh",
+          "wikimedia_commons": "Category:Independence Monument (Phnom Penh)"
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "building": {
+          "levels": 9
+        },
+        "place_id": "51ec1d2576673b5a4059acc1b50fe51c2740f00102f9019d7b8a1200000000920324e19e9ce19eb7e19e98e19eb6e19e93e19eafe19e80e19e9ae19eb6e19e87e19f92e19e99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.92818978905387,
+          11.556435099541737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escape60",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chamkar Mon",
+        "village": "Sangkat Phsar Daeum Thkov",
+        "hamlet": "Boeung Trabek",
+        "postcode": "120112",
+        "street": "Street 147",
+        "housenumber": "9C",
+        "iso3166_2": "KH-12",
+        "lon": 104.9159005,
+        "lat": 11.5336578,
+        "formatted": "Escape60, 9C Street 147, Khan Chamkar Mon 120112, Cambodia",
+        "address_line1": "Escape60",
+        "address_line2": "9C Street 147, Khan Chamkar Mon 120112, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "email": "info@escape60pp.com",
+            "phone": "+85598481210",
+            "osm_id": 4563978295,
+            "name:en": "Escape60",
+            "tourism": "attraction",
+            "website": "https://escape60pp.com",
+            "osm_type": "n",
+            "addr:street": "ផ្លូវ ១៤៧",
+            "opening_hours": "Mo-Su 09:00-20:00",
+            "addr:housenumber": "9C"
+          }
+        },
+        "website": "https://escape60pp.com",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "name_international": {
+          "en": "Escape60"
+        },
+        "contact": {
+          "phone": "+85598481210",
+          "email": "info@escape60pp.com"
+        },
+        "place_id": "51f778211d9e3a5a4059dd8e58983b112740f00103f90137c8081001000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9159005,
+          11.533657799539862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ឆឹងកក ភូមិអេកូ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Cham",
+        "city": "Prey Chor",
+        "district": "Khum Soutip",
+        "street": "National Highway 7",
+        "iso3166_2": "KH-3",
+        "lon": 105.4077709,
+        "lat": 12.0176289,
+        "formatted": "Cheung Kok Eco Village, National Highway 7, Prey Chor, Cambodia",
+        "address_line1": "Cheung Kok Eco Village",
+        "address_line2": "National Highway 7, Prey Chor, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ឆឹងកក ភូមិអេកូ",
+            "phone": "(069) 555 115",
+            "osm_id": 4723490789,
+            "name:en": "Cheung Kok Eco Village",
+            "name:km": "ឆឹងកក ភូមិអេកូ",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Cheung Kok Eco Village",
+          "km": "ឆឹងកក ភូមិអេកូ"
+        },
+        "contact": {
+          "phone": "(069) 555 115"
+        },
+        "place_id": "51abf01deb185a5a40599856b6a706092840f00103f901e5bf8a1901000000920328e19e86e19eb9e19e84e19e80e19e8020e19e97e19ebce19e98e19eb7e19ea2e19f81e19e80e19ebc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.40777089999999,
+          12.017628899581993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Tower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Kampong Chhnang",
+        "street": "Old Taxiway to the bunker",
+        "iso3166_2": "KH-4",
+        "lon": 104.5828579,
+        "lat": 12.2414674,
+        "formatted": "Water Tower, Old Taxiway to the bunker, Kampong Chhnang, Cambodia",
+        "address_line1": "Water Tower",
+        "address_line2": "Old Taxiway to the bunker, Kampong Chhnang, Cambodia",
+        "categories": [
+          "man_made",
+          "man_made.water_tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Water Tower",
+            "osm_id": 4982789530,
+            "tourism": "attraction",
+            "website": "https://asia.nikkei.com/Politics-Economy/International-Relations/China-stirs-up-ghosts-of-Khmer-Rouge-airport-project",
+            "man_made": "water_tower",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://asia.nikkei.com/Politics-Economy/International-Relations/China-stirs-up-ghosts-of-Khmer-Rouge-airport-project",
+        "place_id": "51c7ad388b4d255a405959b0709da17b2840f00103f9019a55ff280100000092030b576174657220546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.58285790000001,
+          12.241467399602856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Tower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Kampong Chhnang",
+        "street": "Old Taxiway to the bunker",
+        "iso3166_2": "KH-4",
+        "lon": 104.5826696,
+        "lat": 12.2420335,
+        "formatted": "Water Tower, Old Taxiway to the bunker, Kampong Chhnang, Cambodia",
+        "address_line1": "Water Tower",
+        "address_line2": "Old Taxiway to the bunker, Kampong Chhnang, Cambodia",
+        "categories": [
+          "man_made",
+          "man_made.water_tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Water Tower",
+            "osm_id": 4983461923,
+            "tourism": "attraction",
+            "website": "https://asia.nikkei.com/Politics-Economy/International-Relations/China-stirs-up-ghosts-of-Khmer-Rouge-airport-project",
+            "man_made": "water_tower",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://asia.nikkei.com/Politics-Economy/International-Relations/China-stirs-up-ghosts-of-Khmer-Rouge-airport-project",
+        "place_id": "51e5176f754a255a405973a99ad0eb7b2840f00103f901239809290100000092030b576174657220546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.58266959999999,
+          12.242033499602917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Tower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Kampong Chhnang",
+        "street": "Old Taxiway to the bunker",
+        "iso3166_2": "KH-4",
+        "lon": 104.5822351,
+        "lat": 12.2431239,
+        "formatted": "Water Tower, Old Taxiway to the bunker, Kampong Chhnang, Cambodia",
+        "address_line1": "Water Tower",
+        "address_line2": "Old Taxiway to the bunker, Kampong Chhnang, Cambodia",
+        "categories": [
+          "man_made",
+          "man_made.water_tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Water Tower",
+            "osm_id": 4983461926,
+            "tourism": "attraction",
+            "website": "https://asia.nikkei.com/Politics-Economy/International-Relations/China-stirs-up-ghosts-of-Khmer-Rouge-airport-project",
+            "man_made": "water_tower",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://asia.nikkei.com/Politics-Economy/International-Relations/China-stirs-up-ghosts-of-Khmer-Rouge-airport-project",
+        "place_id": "515445025743255a405987575bbc7a7c2840f00103f901269809290100000092030b576174657220546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.58223509999999,
+          12.243123899603019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Tower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Kampong Chhnang",
+        "street": "Old Taxiway to the bunker",
+        "iso3166_2": "KH-4",
+        "lon": 104.5826106,
+        "lat": 12.2426204,
+        "formatted": "Water Tower, Old Taxiway to the bunker, Kampong Chhnang, Cambodia",
+        "address_line1": "Water Tower",
+        "address_line2": "Old Taxiway to the bunker, Kampong Chhnang, Cambodia",
+        "categories": [
+          "man_made",
+          "man_made.water_tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Water Tower",
+            "osm_id": 4983461942,
+            "tourism": "attraction",
+            "website": "https://asia.nikkei.com/Politics-Economy/International-Relations/China-stirs-up-ghosts-of-Khmer-Rouge-airport-project",
+            "man_made": "water_tower",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://asia.nikkei.com/Politics-Economy/International-Relations/China-stirs-up-ghosts-of-Khmer-Rouge-airport-project",
+        "place_id": "516353f87d49255a40593c46b3bd387c2840f00103f901369809290100000092030b576174657220546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5826106,
+          12.242620399602963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chambok eco tourism",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Speu",
+        "county": "Phnum Sruoch",
+        "street": "path to Chambok Waterfall",
+        "iso3166_2": "KH-5",
+        "lon": 104.1144182,
+        "lat": 11.3811117,
+        "formatted": "Chambok eco tourism, path to Chambok Waterfall, Cambodia",
+        "address_line1": "Chambok eco tourism",
+        "address_line2": "path to Chambok Waterfall, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chambok eco tourism",
+            "osm_id": 5348532177,
+            "tourism": "attraction",
+            "website": "https://chambok.org/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://chambok.org/",
+        "place_id": "514dc4b6a052075a4059e62f9b1221c32640f00103f901d11fcc3e010000009203134368616d626f6b2065636f20746f757269736d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1144182,
+          11.38111169952749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ឱរ៉ាល់រីសត-កំពង់ស្ពឺ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Speu",
+        "county": "Aoral",
+        "city": "Aoral",
+        "street": "National Road 52",
+        "iso3166_2": "KH-5",
+        "lon": 104.1296576,
+        "lat": 11.7432791,
+        "formatted": "ឱរ៉ាល់រីសត-កំពង់ស្ពឺ, National Road 52, Aoral, Cambodia",
+        "address_line1": "ឱរ៉ាល់រីសត-កំពង់ស្ពឺ",
+        "address_line2": "National Road 52, Aoral, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ឱរ៉ាល់រីសត-កំពង់ស្ពឺ",
+            "osm_id": 6371804994,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "place_id": "5162eb634f4c085a4059decc00148f7c2740f00103f9014207ca7b0100000092033ae19eb1e19e9ae19f89e19eb6e19e9be19f8be19e9ae19eb8e19e9fe19e8f2de19e80e19f86e19e96e19e84e19f8be19e9fe19f92e19e96e19eba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1296576,
+          11.74327909955758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Touleap Scenic Train",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Phsar Thmey Ti Pir",
+        "postcode": "120202",
+        "street": "Ayasmayan South Street (102)",
+        "iso3166_2": "KH-12",
+        "lon": 104.9162704,
+        "lat": 11.5724294,
+        "formatted": "Touleap Scenic Train, Ayasmayan South Street (102), Khan Daun Penh 120202, Cambodia",
+        "address_line1": "Touleap Scenic Train",
+        "address_line2": "Ayasmayan South Street (102), Khan Daun Penh 120202, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Touleap Scenic Train",
+            "osm_id": 11448932637,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Sa & Su 09:00-17:00, 5,200 riel",
+            "opening_hours": "Sa, Su 09:00-17:00",
+            "public_transport": "platform"
+          }
+        },
+        "opening_hours": "Sa, Su 09:00-17:00",
+        "description": "Sa & Su 09:00-17:00, 5,200 riel",
+        "place_id": "51bd929a2ca43a5a4059e59c5c7715252740f00103f9011dd968aa02000000920314546f756c656170205363656e696320547261696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.91627039999999,
+          11.572429399543077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tei Teuk Pous (Hot Spring)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Speu",
+        "county": "Aoral",
+        "iso3166_2": "KH-5",
+        "lon": 104.0552949513032,
+        "lat": 11.723858700000001,
+        "formatted": "Tei Teuk Pous (Hot Spring), Aoral, Cambodia",
+        "address_line1": "Tei Teuk Pous (Hot Spring)",
+        "address_line2": "Aoral, Cambodia",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tei Teuk Pous (Hot Spring)",
+            "image": "http://farm4.staticflickr.com/3014/2297511122_48ba78d76d_z.jpg",
+            "water": "pond",
+            "osm_id": 252446499,
+            "natural": "water",
+            "tourism": "attraction",
+            "alt_name": "Te Teuk Pus",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Te Teuk Pus"
+        },
+        "wiki_and_media": {
+          "image": "http://farm4.staticflickr.com/3014/2297511122_48ba78d76d_z.jpg"
+        },
+        "place_id": "51cbded5f389035a40591109839b9d722740f00102f90123070c0f0000000092031a546569205465756b20506f75732028486f7420537072696e6729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0552949513032,
+          11.723858699555906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Cham",
+        "city": "Kampong Cham",
+        "street": "Koh Pen Bamboo Bridge (temporary)",
+        "iso3166_2": "KH-3",
+        "lon": 105.4627355,
+        "lat": 11.9727437,
+        "formatted": "ស្ពានឫស្សីកោះប៉ែន, Koh Pen Bamboo Bridge (temporary), Kampong Cham, Cambodia",
+        "address_line1": "ស្ពានឫស្សីកោះប៉ែន",
+        "address_line2": "Koh Pen Bamboo Bridge (temporary), Kampong Cham, Cambodia",
+        "name": "ស្ពានឫស្សីកោះប៉ែន",
+        "categories": [
+          "fee",
+          "highway",
+          "highway.track",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details",
+          "details.way",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "1 USD",
+            "name": "ស្ពានឫស្សីកោះប៉ែន",
+            "image": "https://drive.google.com/file/d/1xMwXtuLJkDbE9H2ZqJGKutEHdRRkWRC1/view?usp=sharing",
+            "layer": 1,
+            "bridge": "yes",
+            "charge": "yes",
+            "osm_id": 676323971,
+            "highway": "track",
+            "name:en": "Koh Pen Bamboo Bridge (temporary)",
+            "tourism": "attraction",
+            "z_order": 110,
+            "motorcar": "no",
+            "osm_type": "w",
+            "seasonal": "dry_season",
+            "description": "Traditional bamboo bridge across Mekong river (dry season only)"
+          }
+        },
+        "description": "Traditional bamboo bridge across Mekong river (dry season only)",
+        "name_international": {
+          "en": "Koh Pen Bamboo Bridge (temporary)"
+        },
+        "wiki_and_media": {
+          "image": "https://drive.google.com/file/d/1xMwXtuLJkDbE9H2ZqJGKutEHdRRkWRC1/view?usp=sharing"
+        },
+        "way": {
+          "bridge": true
+        },
+        "place_id": "51aecc5b759d5d5a40597d2752760bf22740f00102f90183e24f2800000000920333e19e9fe19f92e19e96e19eb6e19e93e19eabe19e9fe19f92e19e9fe19eb8e19e80e19f84e19f87e19e94e19f89e19f82e19e93"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.46273549999998,
+          11.972743699577899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khmer Rouge Prison Cave",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Kampong Chhnang",
+        "street": "Road 145",
+        "iso3166_2": "KH-4",
+        "lon": 104.5977656,
+        "lat": 12.2525784,
+        "formatted": "Khmer Rouge Prison Cave, Road 145, Kampong Chhnang, Cambodia",
+        "address_line1": "Khmer Rouge Prison Cave",
+        "address_line2": "Road 145, Kampong Chhnang, Cambodia",
+        "categories": [
+          "natural",
+          "natural.mountain",
+          "natural.mountain.cave_entrance",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khmer Rouge Prison Cave",
+            "image": "https://drive.google.com/file/d/1Borwk2Km6dj9kow5dkIAhW8lyZfWPPnb/view?usp=drivesdk",
+            "image1": "https://drive.google.com/file/d/1Yo60SaqbXoVvThJxl8L-Pp6nbHd1mHaw/view?usp=drivesdk",
+            "osm_id": 5598946267,
+            "natural": "cave_entrance",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description:de": "Exakte Lage. Gleicht im Eingangsbereich eher einem Stollen, wie es weiter hinten aussieht konnte man nicht sehen da zum begehen wegen Wasser Gummistiefel erforderlich sind."
+          }
+        },
+        "description_international": {
+          "de": "Exakte Lage. Gleicht im Eingangsbereich eher einem Stollen, wie es weiter hinten aussieht konnte man nicht sehen da zum begehen wegen Wasser Gummistiefel erforderlich sind."
+        },
+        "wiki_and_media": {
+          "image": "https://drive.google.com/file/d/1Borwk2Km6dj9kow5dkIAhW8lyZfWPPnb/view?usp=drivesdk"
+        },
+        "place_id": "5120aba5ca41265a405925f3bbf451812840f00103f901db23b94d010000009203174b686d657220526f75676520507269736f6e2043617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5977656,
+          12.252578399603928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ផ្សារ​រាត្រី",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Phsar Chas",
+        "postcode": "120209",
+        "street": "Preah Ang Eng (Street 13)",
+        "iso3166_2": "KH-12",
+        "lon": 104.92723023308892,
+        "lat": 11.57405155,
+        "formatted": "Phsar Reatrey Night Market, Preah Ang Eng (Street 13), Khan Daun Penh 120209, Cambodia",
+        "address_line1": "Phsar Reatrey Night Market",
+        "address_line2": "Preah Ang Eng (Street 13), Khan Daun Penh 120209, Cambodia",
+        "categories": [
+          "commercial.marketplace",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ផ្សារ​រាត្រី",
+            "osm_id": 62219866,
+            "amenity": "marketplace",
+            "landuse": "retail",
+            "name:en": "Phsar Reatrey Night Market",
+            "name:vi": "Chợ Đêm",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Phsar Reatrey Night Market",
+          "vi": "Chợ Đêm"
+        },
+        "place_id": "51aebe79bd573b5a40592e03af15ea252740f00102f9015a66b50300000000920324e19e95e19f92e19e9fe19eb6e19e9ae2808be19e9ae19eb6e19e8fe19f92e19e9ae19eb8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.92723023308892,
+          11.57405154954321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ព្រះទីនាំងច័ន្ទឆាយា",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Chey Chumneah",
+        "postcode": "120208",
+        "street": "Samdech Preah Thoamak Lekhet Uk (Street 184)",
+        "iso3166_2": "KH-12",
+        "lon": 104.93142548949143,
+        "lat": 11.56485525,
+        "formatted": "Moonlight Pavilion, Samdech Preah Thoamak Lekhet Uk (Street 184), Khan Daun Penh 120208, Cambodia",
+        "address_line1": "Moonlight Pavilion",
+        "address_line2": "Samdech Preah Thoamak Lekhet Uk (Street 184), Khan Daun Penh 120208, Cambodia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ព្រះទីនាំងច័ន្ទឆាយា",
+            "layer": 1,
+            "osm_id": 172268264,
+            "name:de": "Chan Chhaya Pavillon",
+            "name:en": "Moonlight Pavilion",
+            "name:vi": "Lầu Chanchhaya",
+            "tourism": "attraction",
+            "alt_name": "Preah Tineang Chan Chhaya",
+            "building": "yes",
+            "historic": "building",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Preah Tineang Chan Chhaya"
+        },
+        "name_international": {
+          "de": "Chan Chhaya Pavillon",
+          "en": "Moonlight Pavilion",
+          "vi": "Lầu Chanchhaya"
+        },
+        "historic": {
+          "type": "building"
+        },
+        "place_id": "51b201a8799c3b5a405970840fb534212740f00102f901e89a440a00000000920339e19e96e19f92e19e9ae19f87e19e91e19eb8e19e93e19eb6e19f86e19e84e19e85e19f90e19e93e19f92e19e91e19e86e19eb6e19e99e19eb6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.93142548949143,
+          11.564855249542433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teuk Chha Resort",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Cham",
+        "city": "Prey Chor",
+        "street": "National Road 60",
+        "iso3166_2": "KH-3",
+        "lon": 105.19342244943113,
+        "lat": 12.189530900000001,
+        "formatted": "Teuk Chha Resort, National Road 60, Prey Chor, Cambodia",
+        "address_line1": "Teuk Chha Resort",
+        "address_line2": "National Road 60, Prey Chor, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Teuk Chha Resort",
+            "osm_id": 240746749,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "519ca78d08614c5a405992b5ae310a612840f00102f901fd80590e000000009203105465756b2043686861205265736f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.19342244943113,
+          12.189530899597944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Giant Clock of Phnom Penh",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Wat Phnom",
+        "postcode": "120211",
+        "street": "Wat Phnom Roundabout",
+        "iso3166_2": "KH-12",
+        "lon": 104.92313901692981,
+        "lat": 11.5756174,
+        "formatted": "The Giant Clock of Phnom Penh, Wat Phnom Roundabout, Khan Daun Penh 120211, Cambodia",
+        "address_line1": "The Giant Clock of Phnom Penh",
+        "address_line2": "Wat Phnom Roundabout, Khan Daun Penh 120211, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Giant Clock of Phnom Penh",
+            "osm_id": 367144297,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5102d8abb5143b5a40592a18e452b7262740f00102f901692de2150000000092031d546865204769616e7420436c6f636b206f662050686e6f6d2050656e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.92313901692981,
+          11.575617399543336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "French Colonial Watchtower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Tbong Khmum",
+        "city": "Chirou Kraom Ti Muoy",
+        "street": "308",
+        "iso3166_2": "KH-25",
+        "lon": 105.4754535,
+        "lat": 11.98560115,
+        "formatted": "French Colonial Watchtower, 308, Chirou Kraom Ti Muoy, Cambodia",
+        "address_line1": "French Colonial Watchtower",
+        "address_line2": "308, Chirou Kraom Ti Muoy, Cambodia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "French Colonial Watchtower",
+            "osm_id": 445943676,
+            "tourism": "attraction",
+            "building": "tower",
+            "historic": "yes",
+            "osm_type": "w",
+            "tower:type": "monument"
+          }
+        },
+        "historic": {
+          "tower_type": "monument"
+        },
+        "building": {
+          "type": "tower"
+        },
+        "place_id": "51335184d46d5e5a405926afc0b6a0f82740f00102f9017c8f941a0000000092031a4672656e636820436f6c6f6e69616c205761746368746f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4754535,
+          11.985601149579065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silk Island Garden",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chroy Changvar",
+        "village": "Sangkat Koh Dach",
+        "postcode": "121004",
+        "street": "Koh Dach Island Road",
+        "iso3166_2": "KH-12",
+        "lon": 104.93827824577545,
+        "lat": 11.640052449999999,
+        "formatted": "Silk Island Garden, Koh Dach Island Road, Khan Chroy Changvar 121004, Cambodia",
+        "address_line1": "Silk Island Garden",
+        "address_line2": "Koh Dach Island Road, Khan Chroy Changvar 121004, Cambodia",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Silk Island Garden",
+            "osm_id": 454317471,
+            "leisure": "garden",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51d80933c00c3c5a4059b61265f4b4472740f00102f9019f55141b0000000092031253696c6b2049736c616e642047617264656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.93827824577545,
+          11.640052449548744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arc de Triomphe",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chamkar Mon",
+        "village": "Sangkat Tonle Bassac",
+        "postcode": "120101",
+        "suburb": "Koh Pich",
+        "street": "Promenade De La Grande Allée",
+        "iso3166_2": "KH-12",
+        "lon": 104.94033083532315,
+        "lat": 11.54475495,
+        "formatted": "Arc de Triomphe, Promenade De La Grande Allée, Koh Pich, Khan Chamkar Mon 120101, Cambodia",
+        "address_line1": "Arc de Triomphe",
+        "address_line2": "Promenade De La Grande Allée, Koh Pich, Khan Chamkar Mon 120101, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arc de Triomphe",
+            "osm_id": 478547486,
+            "tourism": "attraction",
+            "building": "arch",
+            "osm_type": "w"
+          }
+        },
+        "building": {
+          "type": "arch"
+        },
+        "place_id": "51874862612e3c5a40593739e91eea162740f00102f9011e0e861c0000000092030f417263206465205472696f6d706865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.94033083532314,
+          11.544754949540772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pottery factories",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Phum Andoung Russey",
+        "street": "National Highway 5",
+        "iso3166_2": "KH-4",
+        "lon": 104.6315047,
+        "lat": 12.246057,
+        "formatted": "Pottery factories, National Highway 5, Phum Andoung Russey, Cambodia",
+        "address_line1": "Pottery factories",
+        "address_line2": "National Highway 5, Phum Andoung Russey, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pottery factories",
+            "osm_id": 678826997,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514c71b0926a285a4059fd7edc2efb7d2840f00103f901f513762800000000920311506f747465727920666163746f72696573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6315047,
+          12.246056999603292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Seine Clock Tower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chamkar Mon",
+        "village": "Sangkat Tonle Bassac",
+        "postcode": "120101",
+        "suburb": "Koh Pich",
+        "street": "La Seine",
+        "iso3166_2": "KH-12",
+        "lon": 104.9390406,
+        "lat": 11.5503748,
+        "formatted": "La Seine Clock Tower, La Seine, Koh Pich, Khan Chamkar Mon 120101, Cambodia",
+        "address_line1": "La Seine Clock Tower",
+        "address_line2": "La Seine, Koh Pich, Khan Chamkar Mon 120101, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Seine Clock Tower",
+            "osm_id": 764330236,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5170a7be3d193c5a4059f224c9b9ca192740f00102f901fcc08e2d000000009203144c61205365696e6520436c6f636b20546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9390406,
+          11.550374799541235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ឆាយ រីវណ្ណ គង្គា អម្រិត រីស៊ត",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kandal",
+        "city": "Ponhea Lueu District",
+        "hamlet": "Phum Chhveang",
+        "postcode": "121102",
+        "street": "Udong Mountain Road",
+        "iso3166_2": "KH-8",
+        "lon": 104.79071672396293,
+        "lat": 11.676393399999998,
+        "formatted": "Chhay Ryvanh Resort Kong Kea Amrit, Udong Mountain Road, Ponhea Lueu District 121102, Cambodia",
+        "address_line1": "Chhay Ryvanh Resort Kong Kea Amrit",
+        "address_line2": "Udong Mountain Road, Ponhea Lueu District 121102, Cambodia",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ឆាយ រីវណ្ណ គង្គា អម្រិត រីស៊ត",
+            "osm_id": 797046491,
+            "leisure": "garden",
+            "name:en": "Chhay Ryvanh Resort Kong Kea Amrit",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Chhay Ryvanh Resort Kong Kea Amrit"
+        },
+        "place_id": "518c74511a9b325a40595e9c543c505a2740f00102f901dbf6812f0000000092034fe19e86e19eb6e19e9920e19e9ae19eb8e19e9ce19e8ee19f92e19e8e20e19e82e19e84e19f92e19e82e19eb620e19ea2e19e98e19f92e19e9ae19eb7e19e8f20e19e9ae19eb8e19e9fe19f8ae19e8f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.79071672396293,
+          11.676393399551838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney Opera",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Ta Ngov Kandal",
+        "postcode": "121203",
+        "street": "Brick bridge",
+        "iso3166_2": "KH-12",
+        "lon": 104.9565159618289,
+        "lat": 11.5168638,
+        "formatted": "Sydney Opera, Brick bridge, Khan Chbar Ampov 121203, Cambodia",
+        "address_line1": "Sydney Opera",
+        "address_line2": "Brick bridge, Khan Chbar Ampov 121203, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sydney Opera",
+            "osm_id": 958713298,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "description": "shelter"
+          }
+        },
+        "description": "shelter",
+        "place_id": "510e8ab98e373d5a40591202375fa2082740f00102f901d2cd24390000000092030c5379646e6579204f70657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9565159618289,
+          11.516863799538474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lighthouse",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Ta Ngov Kandal",
+        "postcode": "121203",
+        "street": "White bridge",
+        "iso3166_2": "KH-12",
+        "lon": 104.95542333484849,
+        "lat": 11.5161102,
+        "formatted": "Lighthouse, White bridge, Khan Chbar Ampov 121203, Cambodia",
+        "address_line1": "Lighthouse",
+        "address_line2": "White bridge, Khan Chbar Ampov 121203, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lighthouse",
+            "osm_id": 958714564,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "519c40eaa7253d5a40598c4c98983f082740f00102f901c4d224390000000092030a4c69676874686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.95542333484849,
+          11.51611019953841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windmill",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Ta Ngov Kandal",
+        "postcode": "121203",
+        "street": "Draw bridge",
+        "iso3166_2": "KH-12",
+        "lon": 104.95460572747919,
+        "lat": 11.5163449,
+        "formatted": "Windmill, Draw bridge, Khan Chbar Ampov 121203, Cambodia",
+        "address_line1": "Windmill",
+        "address_line2": "Draw bridge, Khan Chbar Ampov 121203, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Windmill",
+            "osm_id": 958714848,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513c069f42183d5a4059acf2d15b5e082740f00102f901e0d324390000000092030857696e646d696c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.95460572747919,
+          11.516344899538431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elizabeth Tower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Ta Ngov Kandal",
+        "postcode": "121203",
+        "street": "Brick bridge",
+        "iso3166_2": "KH-12",
+        "lon": 104.95604359999999,
+        "lat": 11.51654375,
+        "formatted": "Elizabeth Tower, Brick bridge, Khan Chbar Ampov 121203, Cambodia",
+        "address_line1": "Elizabeth Tower",
+        "address_line2": "Brick bridge, Khan Chbar Ampov 121203, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Elizabeth Tower",
+            "osm_id": 958715568,
+            "tourism": "attraction",
+            "alt_name": "Big Ben",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Big Ben"
+        },
+        "place_id": "5134e37ed12f3d5a405911711e6c78082740f00102f901b0d624390000000092030f456c697a616265746820546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.95604359999999,
+          11.516543749538444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eiffel Tower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Ta Ngov Kandal",
+        "postcode": "121203",
+        "street": "White bridge",
+        "iso3166_2": "KH-12",
+        "lon": 104.95495644739196,
+        "lat": 11.51651965,
+        "formatted": "Eiffel Tower, White bridge, Khan Chbar Ampov 121203, Cambodia",
+        "address_line1": "Eiffel Tower",
+        "address_line2": "White bridge, Khan Chbar Ampov 121203, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Eiffel Tower",
+            "osm_id": 958716734,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51c8a9a5011e3d5a40599a04754375082740f00102f9013edb24390000000092030c45696666656c20546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.95495644739196,
+          11.516519649538441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterwheel",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Ta Ngov Kandal",
+        "postcode": "121203",
+        "street": "Draw bridge",
+        "iso3166_2": "KH-12",
+        "lon": 104.95412482304604,
+        "lat": 11.51711655,
+        "formatted": "Waterwheel, Draw bridge, Khan Chbar Ampov 121203, Cambodia",
+        "address_line1": "Waterwheel",
+        "address_line2": "Draw bridge, Khan Chbar Ampov 121203, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Waterwheel",
+            "osm_id": 958722908,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "building:min_level": 1
+          }
+        },
+        "place_id": "5136d28f61103d5a4059f5f91880c3082740f00102f9015cf324390000000092030a5761746572776865656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.95412482304604,
+          11.517116549538494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watch- Belltower",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Ta Ngov Kandal",
+        "postcode": "121203",
+        "street": "Brick bridge",
+        "iso3166_2": "KH-12",
+        "lon": 104.9565540515664,
+        "lat": 11.51657385,
+        "formatted": "Watch- Belltower, Brick bridge, Khan Chbar Ampov 121203, Cambodia",
+        "address_line1": "Watch- Belltower",
+        "address_line2": "Brick bridge, Khan Chbar Ampov 121203, Cambodia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Watch- Belltower",
+            "osm_id": 958725596,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5160157c2e383d5a405914791b5e7c082740f00102f901dcfd24390000000092031057617463682d2042656c6c746f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9565540515664,
+          11.516573849538453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reclining Buddha",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Cham",
+        "street": "223",
+        "iso3166_2": "KH-3",
+        "lon": 105.21242047473405,
+        "lat": 11.954263000000001,
+        "formatted": "Reclining Buddha, 223, Cambodia",
+        "address_line1": "Reclining Buddha",
+        "address_line2": "223, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Reclining Buddha",
+            "osm_id": 998293020,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51f2fe0b4c984d5a4059f0eced2895e82740f00102f9011cbe803b000000009203105265636c696e696e6720427564646861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.21242047473405,
+          11.95426299957623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pottery factory",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Phum Andoung Russey",
+        "street": "National Highway 5",
+        "iso3166_2": "KH-4",
+        "lon": 104.6344216,
+        "lat": 12.2526027,
+        "formatted": "Pottery factory, National Highway 5, Phum Andoung Russey, Cambodia",
+        "address_line1": "Pottery factory",
+        "address_line2": "National Highway 5, Phum Andoung Russey, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pottery factory",
+            "osm_id": 1060217951,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510ff80d5d9a285a4059405c1b2455812840f00103f9015fa4313f0000000092030f506f747465727920666163746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.63442159999998,
+          12.252602699603926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norea Garden",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Sangkat Chbar Ampov Ti Pir",
+        "postcode": "121202",
+        "iso3166_2": "KH-12",
+        "lon": 104.94334524147467,
+        "lat": 11.541941999999999,
+        "formatted": "Norea Garden, Khan Chbar Ampov 121202, Cambodia",
+        "address_line1": "Norea Garden",
+        "address_line2": "Khan Chbar Ampov 121202, Cambodia",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Norea Garden",
+            "osm_id": 1124088487,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51243eb8c45f3c5a4059ffb5f86b79152740f00102f901a73a00430000000092030c4e6f7265612047617264656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.94334524147467,
+          11.541941999540539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elephant Terrace",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Chbar Ampov",
+        "village": "Sangkat Prek Thmei",
+        "hamlet": "Phum Koh Krabei",
+        "postcode": "121208",
+        "street": "National Road 21B",
+        "iso3166_2": "KH-12",
+        "lon": 105.01199094049912,
+        "lat": 11.4842275,
+        "formatted": "Elephant Terrace, National Road 21B, Khan Chbar Ampov 121208, Cambodia",
+        "address_line1": "Elephant Terrace",
+        "address_line2": "National Road 21B, Khan Chbar Ampov 121208, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Elephant Terrace",
+            "osm_id": 1221212044,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51ae52a675c4405a405902a9b4aaecf72640f00102f9018c37ca4800000000920310456c657068616e742054657272616365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.01199094049909,
+          11.484227499535795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dei Chros Kirirom",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Speu",
+        "county": "Phnum Sruoch",
+        "street": "path to Chambok Waterfall",
+        "iso3166_2": "KH-5",
+        "lon": 104.14359475081494,
+        "lat": 11.410614800000001,
+        "formatted": "Dei Chros Kirirom, path to Chambok Waterfall, Cambodia",
+        "address_line1": "Dei Chros Kirirom",
+        "address_line2": "path to Chambok Waterfall, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Dei Chros Kirirom",
+            "osm_id": 1270874773,
+            "name:km": "ដីច្រោះ គីរីរម្យ",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "km": "ដីច្រោះ គីរីរម្យ"
+        },
+        "place_id": "5127a809a830095a4059f1775e1a3cd22640f00102f9019502c04b00000000920311446569204368726f73204b697269726f6d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.14359475081493,
+          11.41061479952984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ta Mok's Former House",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Takeo",
+        "city": "Doun Kaev",
+        "street": "National Highway 2",
+        "iso3166_2": "KH-21",
+        "lon": 104.7799209,
+        "lat": 11.0012416,
+        "formatted": "Ta Mok's Former House, National Highway 2, Doun Kaev, Cambodia",
+        "address_line1": "Ta Mok's Former House",
+        "address_line2": "National Highway 2, Doun Kaev, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ta Mok's Former House",
+            "osm_id": 1287006068,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e1bd5939ea315a4059bc7b2abda2002640f00103f9017427b64c000000009203155461204d6f6b277320466f726d657220486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7799209,
+          11.001241599498705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "រូបសំណាក ក្រមង៉ុយ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Chaktomuk",
+        "postcode": "120207",
+        "street": "Preah Sisowath Quay (Street 1)",
+        "iso3166_2": "KH-12",
+        "lon": 104.9347847,
+        "lat": 11.5589529,
+        "formatted": "Krom Ngoy statue, Preah Sisowath Quay (Street 1), Khan Daun Penh 120207, Cambodia",
+        "address_line1": "Krom Ngoy statue",
+        "address_line2": "Preah Sisowath Quay (Street 1), Khan Daun Penh 120207, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "រូបសំណាក ក្រមង៉ុយ",
+            "osm_id": 2807782846,
+            "name:en": "Krom Ngoy statue",
+            "tourism": "artwork",
+            "memorial": "statue",
+            "osm_type": "n",
+            "artwork_type": "statue",
+            "subject:wikidata": "Q4929923",
+            "subject:wikipedia": "en:Krom Ngoy"
+          }
+        },
+        "name_international": {
+          "en": "Krom Ngoy statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5145d33483d33b5a4059f2120f132f1e2740f00103f901be5d5ba700000000920331e19e9ae19ebce19e94e19e9fe19f86e19e8ee19eb6e19e8020e19e80e19f92e19e9ae19e98e19e84e19f89e19ebbe19e99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.93478469999998,
+          11.55895289954194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "រូបសំណាកដូនពេញ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Wat Phnom",
+        "postcode": "120211",
+        "street": "Preah Ang Non (Street 102)",
+        "iso3166_2": "KH-12",
+        "lon": 104.9225731,
+        "lat": 11.5747016,
+        "formatted": "Statue of Daun Penh, Preah Ang Non (Street 102), Khan Daun Penh 120211, Cambodia",
+        "address_line1": "Statue of Daun Penh",
+        "address_line2": "Preah Ang Non (Street 102), Khan Daun Penh 120211, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "រូបសំណាកដូនពេញ",
+            "osm_id": 2807798611,
+            "name:en": "Statue of Daun Penh",
+            "name:km": "រូបសំណាកដូនពេញ",
+            "name:vi": "Tượng Bà Pênh",
+            "tourism": "artwork",
+            "historic": "memorial",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "Statue of Daun Penh",
+          "km": "រូបសំណាកដូនពេញ",
+          "vi": "Tượng Bà Pênh"
+        },
+        "historic": {
+          "type": "memorial",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51d62a0b700b3b5a40598cfebd493f262740f00103f901539b5ba70000000092032ae19e9ae19ebce19e94e19e9fe19f86e19e8ee19eb6e19e80e19e8ae19ebce19e93e19e96e19f81e19e89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9225731,
+          11.574701599543253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge view",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Peam Ro District",
+        "city": "Peam Ro",
+        "street": "National Road 11",
+        "iso3166_2": "KH-14",
+        "lon": 105.2822282,
+        "lat": 11.2774278,
+        "formatted": "Bridge view, National Road 11, Peam Ro, Cambodia",
+        "address_line1": "Bridge view",
+        "address_line2": "National Road 11, Peam Ro, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bridge view",
+            "osm_id": 3266348267,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519240de0610525a4059a5df3b040b8e2640f00103f901eb84b0c20000000092030b4272696467652076696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.28222819999999,
+          11.277427799519339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thmea Village Bridge",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Takeo",
+        "city": "Thmea",
+        "street": "Tnaot Te Terrace Bridge",
+        "iso3166_2": "KH-21",
+        "lon": 104.8125687,
+        "lat": 11.0899824,
+        "formatted": "Thmea Village Bridge, Tnaot Te Terrace Bridge, Thmea, Cambodia",
+        "address_line1": "Thmea Village Bridge",
+        "address_line2": "Tnaot Te Terrace Bridge, Thmea, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thmea Village Bridge",
+            "osm_id": 3626842664,
+            "name:km": "ស្ពានភូមិធ្មា",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "km": "ស្ពានភូមិធ្មា"
+        },
+        "place_id": "513510262001345a4059392e4e2c122e2640f00103f901283a2dd80000000092031454686d65612056696c6c61676520427269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8125687,
+          11.089982399505162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Takeo",
+        "city": "Thmea",
+        "street": "Tnaot Te Terrace Bridge",
+        "iso3166_2": "KH-21",
+        "lon": 104.8042261,
+        "lat": 11.0652517,
+        "formatted": "Tnaot Te Terrace Bridge, Thmea, Cambodia",
+        "address_line1": "Tnaot Te Terrace Bridge",
+        "address_line2": "Thmea, Cambodia",
+        "name": "Tnaot Te Terrace Bridge",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tnaot Te Terrace Bridge",
+            "osm_id": 3626846896,
+            "name:km": "ទំនប់បង្ហៀរទឹកត្នោតទេ",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "km": "ទំនប់បង្ហៀរទឹកត្នោតទេ"
+        },
+        "place_id": "51bb85bf7078335a405926c0b6ab68212640f00103f901b04a2dd800000000920317546e616f74205465205465727261636520427269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.80422609999998,
+          11.065251699503346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "កាំភ្លើងចគួចកានុង",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Srah Chak",
+        "hamlet": "Boeung Kak Community",
+        "postcode": "120210",
+        "street": "Old Stadium Roundabout",
+        "iso3166_2": "KH-12",
+        "lon": 104.916375,
+        "lat": 11.5852139,
+        "formatted": "Knotted Gun, Old Stadium Roundabout, Khan Daun Penh 120210, Cambodia",
+        "address_line1": "Knotted Gun",
+        "address_line2": "Old Stadium Roundabout, Khan Daun Penh 120210, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "កាំភ្លើងចគួចកានុង",
+            "osm_id": 3760198332,
+            "name:en": "Knotted Gun",
+            "name:km": "កាំភ្លើងចគួចកានុង",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Knotted Gun",
+          "km": "កាំភ្លើងចគួចកានុង"
+        },
+        "place_id": "51cef753e3a53a5a4059d569ff27a12b2740f00103f901bc1220e000000000920333e19e80e19eb6e19f86e19e97e19f92e19e9be19ebee19e84e19e85e19e82e19ebde19e85e19e80e19eb6e19e93e19ebbe19e84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.91637499999999,
+          11.585213899544138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phumi Svay At view",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kandal",
+        "city": "Mukh Kampul District",
+        "village": "Preaek Anhchan",
+        "street": "National Highway 6",
+        "iso3166_2": "KH-8",
+        "lon": 104.9917988,
+        "lat": 11.7452901,
+        "formatted": "Phumi Svay At view, National Highway 6, Mukh Kampul District, Cambodia",
+        "address_line1": "Phumi Svay At view",
+        "address_line2": "National Highway 6, Mukh Kampul District, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Phumi Svay At view",
+            "osm_id": 4100992790,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51918daca1793f5a40592c44f7a9967d2740f00103f901162f70f4000000009203125068756d6920537661792041742076696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.99179879999998,
+          11.745290099557756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Babaong",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Peam Ro District",
+        "city": "Peam Ro",
+        "street": "National Road 11",
+        "iso3166_2": "KH-14",
+        "lon": 105.3287604,
+        "lat": 11.3778908,
+        "formatted": "Babaong, National Road 11, Peam Ro, Cambodia",
+        "address_line1": "Babaong",
+        "address_line2": "National Road 11, Peam Ro, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Babaong",
+            "osm_id": 4104435190,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51128e0f690a555a40597fdb22e77ac12640f00103f901f6b5a4f400000000920307426162616f6e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3287604,
+          11.37789079952722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khsach Sar Lake",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Peam Ro District",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.3598818,
+        "lat": 11.3726855,
+        "formatted": "Khsach Sar Lake, Road 317, Cambodia",
+        "address_line1": "Khsach Sar Lake",
+        "address_line2": "Road 317, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khsach Sar Lake",
+            "osm_id": 4104439991,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513c5bac4d08575a4059785240a2d0be2640f00103f901b7c8a4f40000000092030f4b687361636820536172204c616b65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.35988179999998,
+          11.37268549952681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boeng Preah",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "iso3166_2": "KH-14",
+        "lon": 105.4484354,
+        "lat": 11.3274506,
+        "formatted": "Boeng Preah, Ba Phnum District, Cambodia",
+        "address_line1": "Boeng Preah",
+        "address_line2": "Ba Phnum District, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boeng Preah",
+            "osm_id": 4104440297,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519857642ab35c5a40590a04e09aa7a72640f00103f901e9c9a4f40000000092030b426f656e67205072656168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4484354,
+          11.327450599523235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sdau Kaong",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.4610578,
+        "lat": 11.2234544,
+        "formatted": "Sdau Kaong, Road 317, Cambodia",
+        "address_line1": "Sdau Kaong",
+        "address_line2": "Road 317, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sdau Kaong",
+            "osm_id": 4104459791,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51342493f8815d5a40594a21749d68722640f00103f9010f16a5f40000000092030a53646175204b616f6e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.46105779999999,
+          11.22345439951518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svay Angk",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Svay Rieng",
+        "county": "Svay Chrum District",
+        "city": "Kraol Kou Commune",
+        "street": "National Highway 1",
+        "iso3166_2": "KH-20",
+        "lon": 105.6439637,
+        "lat": 11.1813086,
+        "formatted": "Svay Angk, National Highway 1, Kraol Kou Commune, Cambodia",
+        "address_line1": "Svay Angk",
+        "address_line2": "National Highway 1, Kraol Kou Commune, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Svay Angk",
+            "osm_id": 4104476793,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ead385b336695a405965c6127bd45c2640f00103f9017958a5f4000000009203095376617920416e676b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6439637,
+          11.181308599511974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kor Andoek",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Kampong Trabaek District",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.5425556,
+        "lat": 11.1526259,
+        "formatted": "Kor Andoek, Road 317, Cambodia",
+        "address_line1": "Kor Andoek",
+        "address_line2": "Road 317, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kor Andoek",
+            "osm_id": 4104489289,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bf901f3bb9625a4059a5d55dfb244e2640f00103f9014989a5f40000000092030a4b6f7220416e646f656b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5425556,
+          11.152625899509824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chor Chork",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "city": "Svay Antor",
+        "street": "National Road 11",
+        "iso3166_2": "KH-14",
+        "lon": 105.4012395,
+        "lat": 11.5463271,
+        "formatted": "Chor Chork, National Road 11, Svay Antor, Cambodia",
+        "address_line1": "Chor Chork",
+        "address_line2": "National Road 11, Svay Antor, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chor Chork",
+            "osm_id": 4107003590,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51429770e8ad595a4059b8e4822fb8172740f00103f901c6e6cbf40000000092030a43686f722043686f726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4012395,
+          11.546327099540903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cầu kênh long an",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "Đồng Tháp Province",
+        "city": "Hồng Ngự",
+        "suburb": "An Loc",
+        "street": "Cầu Hồng Ngự",
+        "iso3166_2": "VN-45",
+        "lon": 105.3412467,
+        "lat": 10.803749,
+        "formatted": "cầu kênh long an, Cầu Hồng Ngự, An Loc, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "address_line1": "cầu kênh long an",
+        "address_line2": "Cầu Hồng Ngự, An Loc, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "cầu kênh long an",
+            "osm_id": 4536002199,
+            "name:vi": "cầu kênh long an",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "vi": "cầu kênh long an"
+        },
+        "place_id": "518b1766fcd6555a40590cf625fd849b2540f00103f90197e65d0e0100000092031363e1baa775206bc3aa6e68206c6f6e6720616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.34124669999999,
+          10.803748999484945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "khu du lịch bãi tắm sông cồn nổi 2",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "Đồng Tháp Province",
+        "county": "Hồng Ngự District",
+        "city": "Thường Thới Tiền",
+        "street": "Cách Mạng Tháng Tám",
+        "iso3166_2": "VN-45",
+        "lon": 105.2785993,
+        "lat": 10.8119703,
+        "formatted": "khu du lịch bãi tắm sông cồn nổi 2, Cách Mạng Tháng Tám, Thường Thới Tiền, Đồng Tháp Province, Vietnam",
+        "address_line1": "khu du lịch bãi tắm sông cồn nổi 2",
+        "address_line2": "Cách Mạng Tháng Tám, Thường Thới Tiền, Đồng Tháp Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "khu du lịch bãi tắm sông cồn nổi 2",
+            "osm_id": 4536056693,
+            "name:vi": "khu du lịch bãi tắm sông cồn nổi 2",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "vi": "khu du lịch bãi tắm sông cồn nổi 2"
+        },
+        "place_id": "51108c2892d4515a4059233a3392ba9f2540f00103f90175bb5e0e0100000092032c6b6875206475206ce1bb8b63682062c3a3692074e1baaf6d2073c3b46e672063e1bb936e206ee1bb95692032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2785993,
+          10.8119702994855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cầu đèo gió hú",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "Đồng Tháp Province",
+        "city": "Hồng Ngự",
+        "suburb": "Phường An Thạnh",
+        "street": "30 Tháng 4",
+        "iso3166_2": "VN-45",
+        "lon": 105.3440234,
+        "lat": 10.8143828,
+        "formatted": "cầu đèo gió hú, 30 Tháng 4, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "address_line1": "cầu đèo gió hú",
+        "address_line2": "30 Tháng 4, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "cầu đèo gió hú",
+            "osm_id": 4536077590,
+            "name:vi": "cầu đèo gió hú",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "vi": "cầu đèo gió hú"
+        },
+        "place_id": "51c103b97a04565a4059836e44c8f6a02540f00103f901160d5f0e0100000092031463e1baa77520c491c3a86f206769c3b32068c3ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.34402339999998,
+          10.814382799485662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cầu mương nhà máy bê tông",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "Đồng Tháp Province",
+        "city": "Hồng Ngự",
+        "suburb": "Phường An Thạnh",
+        "street": "30 Tháng 4",
+        "iso3166_2": "VN-45",
+        "lon": 105.340082,
+        "lat": 10.8146786,
+        "formatted": "cầu mương nhà máy bê tông, 30 Tháng 4, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "address_line1": "cầu mương nhà máy bê tông",
+        "address_line2": "30 Tháng 4, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "cầu mương nhà máy bê tông",
+            "osm_id": 4536087089,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5153fd4ae7c3555a40599215ab8d1da12540f00103f90131325f0e0100000092032163e1baa775206dc6b0c6a16e67206e68c3a0206dc3a1792062c3aa2074c3b46e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.34008199999998,
+          10.814678599485692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "khu du lịch mekong, thị xã hồng ngự",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "Đồng Tháp Province",
+        "city": "Hồng Ngự",
+        "suburb": "Phường An Thạnh",
+        "street": "Lý Thường Kiệt",
+        "iso3166_2": "VN-45",
+        "lon": 105.3384599,
+        "lat": 10.8060297,
+        "formatted": "khu du lịch mekong, thị xã hồng ngự, Lý Thường Kiệt, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "address_line1": "khu du lịch mekong, thị xã hồng ngự",
+        "address_line2": "Lý Thường Kiệt, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "khu du lịch mekong, thị xã hồng ngự",
+            "osm_id": 4536087189,
+            "name:vi": "khu du lịch mekong, thị xã hồng ngự",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "vi": "khu du lịch mekong, thị xã hồng ngự"
+        },
+        "place_id": "517960b653a9555a405955c9bdecaf9c2540f00103f90195325f0e0100000092032c6b6875206475206ce1bb8b6368206d656b6f6e672c207468e1bb8b2078c3a32068e1bb936e67206e67e1bbb1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.33845989999999,
+          10.806029699485103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "xe khách Quang Tỷ",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "Đồng Tháp Province",
+        "city": "Hồng Ngự",
+        "suburb": "Phường An Thạnh",
+        "street": "Hùng Vương",
+        "iso3166_2": "VN-45",
+        "lon": 105.3416133,
+        "lat": 10.809277,
+        "formatted": "xe khách Quang Tỷ, Hùng Vương, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "address_line1": "xe khách Quang Tỷ",
+        "address_line2": "Hùng Vương, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "xe khách Quang Tỷ",
+            "osm_id": 4539455291,
+            "name:vi": "xe khách Quang Tỷ",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "vi": "xe khách Quang Tỷ"
+        },
+        "place_id": "513bd807fedc555a405995630c8e599e2540f00103f9013b97920e010000009203147865206b68c3a16368205175616e672054e1bbb7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.34161329999999,
+          10.809276999485329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cầm đồ đúng",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "Đồng Tháp Province",
+        "city": "Hồng Ngự",
+        "suburb": "Phường An Thạnh",
+        "street": "Chu Văn An",
+        "iso3166_2": "VN-45",
+        "lon": 105.3396502,
+        "lat": 10.8074489,
+        "formatted": "cầm đồ đúng, Chu Văn An, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "address_line1": "cầm đồ đúng",
+        "address_line2": "Chu Văn An, Phường An Thạnh, Hồng Ngự, Đồng Tháp Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "cầm đồ đúng",
+            "osm_id": 4539596489,
+            "name:vi": "cầm đồ đúng",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "vi": "cầm đồ đúng"
+        },
+        "place_id": "511b4531d4bc555a4059d4f530f1699d2540f00103f901c9be940e0100000092031263e1baa76d20c491e1bb9320c491c3ba6e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.33965019999998,
+          10.807448899485202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Út xìtrum",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "An Giang Province",
+        "city": "Tân Châu",
+        "village": "Xã Vĩnh Xương",
+        "street": "QL. 80B",
+        "iso3166_2": "VN-44",
+        "lon": 105.1812283,
+        "lat": 10.8977089,
+        "formatted": "Ut xitrum, QL. 80B, Tân Châu, An Giang Province, Vietnam",
+        "address_line1": "Ut xitrum",
+        "address_line2": "QL. 80B, Tân Châu, An Giang Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Út xìtrum",
+            "osm_id": 4547564790,
+            "name:en": "Ut xitrum",
+            "name:vi": "Út xìtrum",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ut xitrum",
+          "vi": "Út xìtrum"
+        },
+        "place_id": "510467953e994b5a40598f493980a0cb2540f00103f901f6540e0f0100000092030bc39a742078c3ac7472756d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.18122829999999,
+          10.89770889949139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Romleach Lake",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampot",
+        "city": "Don Tuot",
+        "street": "National Highway 3",
+        "iso3166_2": "KH-7",
+        "lon": 104.5017814,
+        "lat": 10.9137413,
+        "formatted": "Romleach Lake, National Highway 3, Don Tuot, Cambodia",
+        "address_line1": "Romleach Lake",
+        "address_line2": "National Highway 3, Don Tuot, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Romleach Lake",
+            "osm_id": 4682865651,
+            "name:km": "រមណីយដ្ឋាន បឹងរំលាច",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "km": "រមណីយដ្ឋាន បឹងរំលាច"
+        },
+        "place_id": "516dafbb2f1d205a405955a64ce6d5d32540f00103f901f3db1e170100000092030d526f6d6c65616368204c616b65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50178139999998,
+          10.913741299492509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ទួលអំពិល-កំពង់ឆ្នាំង",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Kampong Chhnang",
+        "street": "Chansary Road",
+        "iso3166_2": "KH-4",
+        "lon": 104.6905709,
+        "lat": 12.2359235,
+        "formatted": "Toul Ampil Kompong Chhnang, Chansary Road, Kampong Chhnang, Cambodia",
+        "address_line1": "Toul Ampil Kompong Chhnang",
+        "address_line2": "Chansary Road, Kampong Chhnang, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ទួលអំពិល-កំពង់ឆ្នាំង",
+            "osm_id": 4692025390,
+            "name:en": "Toul Ampil Kompong Chhnang",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Toul Ampil Kompong Chhnang"
+        },
+        "place_id": "516ec44950322c5a4059bd4c06f7ca782840f00103f9012ea0aa170100000092033ae19e91e19ebde19e9be19ea2e19f86e19e96e19eb7e19e9b2de19e80e19f86e19e96e19e84e19f8be19e86e19f92e19e93e19eb6e19f86e19e84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.69057089999998,
+          12.23592349960233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "រមណីយដ្ឋានស្ទឹងធម្មជាតិដូនកុក",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Kamboul",
+        "hamlet": "Phum Kul",
+        "postcode": "120095",
+        "street": "Street 12m",
+        "iso3166_2": "KH-12",
+        "lon": 104.7652742,
+        "lat": 11.4638914,
+        "formatted": "Doun Kok Floating Huts, Street 12m, Khan Kamboul 120095, Cambodia",
+        "address_line1": "Doun Kok Floating Huts",
+        "address_line2": "Street 12m, Khan Kamboul 120095, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "រមណីយដ្ឋានស្ទឹងធម្មជាតិដូនកុក",
+            "osm_id": 4724359290,
+            "name:en": "Doun Kok Floating Huts",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Doun Kok Floating Huts"
+        },
+        "place_id": "513d5ea340fa305a40591fca6b2c83ed2640f00103f9017a00981901000000920357e19e9ae19e98e19e8ee19eb8e19e99e19e8ae19f92e19e8be19eb6e19e93e19e9fe19f92e19e91e19eb9e19e84e19e92e19e98e19f92e19e98e19e87e19eb6e19e8fe19eb7e19e8ae19ebce19e93e19e80e19ebbe19e80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.76527419999998,
+          11.463891399534132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "សួន​ចំការ​ព្រីង",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Sen Sok",
+        "village": "Sangkat Kouk Khleang",
+        "hamlet": "Phum Kouk Khleang",
+        "postcode": "120806",
+        "street": "St Betong",
+        "iso3166_2": "KH-12",
+        "lon": 104.8560291,
+        "lat": 11.5843667,
+        "formatted": "Chamkar Pring Park, St Betong, Khan Sen Sok 120806, Cambodia",
+        "address_line1": "Chamkar Pring Park",
+        "address_line2": "St Betong, Khan Sen Sok 120806, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "សួន​ចំការ​ព្រីង",
+            "osm_id": 4833854122,
+            "name:en": "Chamkar Pring Park",
+            "name:km": "សួន​ចំការ​ព្រីង",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Chamkar Pring Park",
+          "km": "សួន​ចំការ​ព្រីង"
+        },
+        "place_id": "51273b472ec9365a405990d3ae1c322b2740f00103f901aac21e200100000092032de19e9fe19ebde19e93e2808be19e85e19f86e19e80e19eb6e19e9ae2808be19e96e19f92e19e9ae19eb8e19e84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.85602909999999,
+          11.584366699544063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pottery factory",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Phum Andoung Russey",
+        "street": "National Highway 5",
+        "iso3166_2": "KH-4",
+        "lon": 104.6341518,
+        "lat": 12.2495411,
+        "formatted": "Pottery factory, National Highway 5, Phum Andoung Russey, Cambodia",
+        "address_line1": "Pottery factory",
+        "address_line2": "National Highway 5, Phum Andoung Russey, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pottery factory",
+            "osm_id": 4962957134,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c46c6ef195285a4059679cdbd9c37f2840f00103f9014eb7d0270100000092030f506f747465727920666163746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.63415179999998,
+          12.249541099603631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statues of Decho Meas and Decho Yat on horseback",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Daun Penh",
+        "village": "Sangkat Phsar Kandal Ti Muoy",
+        "postcode": "120205",
+        "street": "Preah Sisowath Quay (Street 1)",
+        "iso3166_2": "KH-12",
+        "lon": 104.9307465,
+        "lat": 11.5685441,
+        "formatted": "Statues of Decho Meas and Decho Yat on horseback, Preah Sisowath Quay (Street 1), Khan Daun Penh 120205, Cambodia",
+        "address_line1": "Statues of Decho Meas and Decho Yat on horseback",
+        "address_line2": "Preah Sisowath Quay (Street 1), Khan Daun Penh 120205, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statues of Decho Meas and Decho Yat on horseback",
+            "osm_id": 5018101351,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "517397c459913b5a40595fbd533618232740f00103f90167261a2b0100000092033053746174756573206f6620446563686f204d65617320616e6420446563686f20596174206f6e20686f7273656261636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.93074649999998,
+          11.568544099542747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coloso KTV",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Phnom Penh",
+        "city": "Khan Boeng Keng Kang",
+        "village": "Sangkat Boeng Keng Kang Ti Bei",
+        "postcode": "120104",
+        "street": "Street 360",
+        "iso3166_2": "KH-12",
+        "lon": 104.9197374,
+        "lat": 11.5490883,
+        "formatted": "Coloso KTV, Street 360, Khan Boeng Keng Kang 120104, Cambodia",
+        "address_line1": "Coloso KTV",
+        "address_line2": "Street 360, Khan Boeng Keng Kang 120104, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Coloso KTV",
+            "osm_id": 5031436422,
+            "name:en": "Coloso KTV",
+            "name:km": "កូឡូសូខេធីវី",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "ផ្លូវ ៣៦០"
+          }
+        },
+        "name_international": {
+          "en": "Coloso KTV",
+          "km": "កូឡូសូខេធីវី"
+        },
+        "place_id": "511d7a41fadc3a5a4059724a021a22192740f00103f90186a0e52b0100000092030a436f6c6f736f204b5456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.91973739999999,
+          11.549088299541129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "រមណីយដ្ឋានអន្លង់ភ្ញៀវ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampot",
+        "iso3166_2": "KH-7",
+        "lon": 104.3209636,
+        "lat": 11.0735512,
+        "formatted": "Anlong Phnhiev Resort, Kampot, Cambodia",
+        "address_line1": "Anlong Phnhiev Resort",
+        "address_line2": "Kampot, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "រមណីយដ្ឋានអន្លង់ភ្ញៀវ",
+            "osm_id": 5508749388,
+            "name:en": "Anlong Phnhiev Resort",
+            "name:km": "រមណីយដ្ឋានអន្លង់ភ្ញៀវ",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Anlong Phnhiev Resort",
+          "km": "រមណីយដ្ឋានអន្លង់ភ្ញៀវ"
+        },
+        "place_id": "51364de9aa8a145a4059f6e6b880a8252640f00103f9014cd858480100000092033fe19e9ae19e98e19e8ee19eb8e19e99e19e8ae19f92e19e8be19eb6e19e93e19ea2e19e93e19f92e19e9be19e84e19f8be19e97e19f92e19e89e19f80e19e9c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3209636,
+          11.073551199503964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "វត្តគិរីកម្ពុជា",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampot",
+        "iso3166_2": "KH-7",
+        "lon": 104.3985028,
+        "lat": 11.1353801,
+        "formatted": "វត្តពុទ្ធិគីរីកម្ពុជា, Kampot, Cambodia",
+        "address_line1": "វត្តពុទ្ធិគីរីកម្ពុជា",
+        "address_line2": "Kampot, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "វត្តគិរីកម្ពុជា",
+            "osm_id": 5630098621,
+            "name:en": "វត្តពុទ្ធិគីរីកម្ពុជា",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "វត្តពុទ្ធិគីរីកម្ពុជា"
+        },
+        "place_id": "515357e31181195a405936d6578a50452640f00103f901bd7c944f0100000092032de19e9ce19e8fe19f92e19e8fe19e82e19eb7e19e9ae19eb8e19e80e19e98e19f92e19e96e19ebbe19e87e19eb6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3985028,
+          11.135380099508534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ផ្ទះបងអូក",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampot",
+        "street": "Road 115",
+        "iso3166_2": "KH-7",
+        "lon": 104.5772374,
+        "lat": 10.8135654,
+        "formatted": "Home Land, Road 115, Cambodia",
+        "address_line1": "Home Land",
+        "address_line2": "Road 115, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ផ្ទះបងអូក",
+            "osm_id": 6081094286,
+            "name:en": "Home Land",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Home Land"
+        },
+        "place_id": "51cbc12275f1245a405955e5dfa48ba02540f00103f9018e22766a0100000092031be19e95e19f92e19e91e19f87e19e94e19e84e19ea2e19ebce19e80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.57723739999999,
+          10.81356539948562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ច្រកចូលឱរ៉ាល់រីសត",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Speu",
+        "county": "Aoral",
+        "city": "Aoral",
+        "street": "National Road 52",
+        "iso3166_2": "KH-5",
+        "lon": 104.12712,
+        "lat": 11.7433237,
+        "formatted": "ច្រកចូលឱរ៉ាល់រីសត, National Road 52, Aoral, Cambodia",
+        "address_line1": "ច្រកចូលឱរ៉ាល់រីសត",
+        "address_line2": "National Road 52, Aoral, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ច្រកចូលឱរ៉ាល់រីសត",
+            "osm_id": 6371805086,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b8aaecbb22085a405915e287ec947c2740f00103f9019e07ca7b01000000920333e19e85e19f92e19e9ae19e80e19e85e19ebce19e9be19eb1e19e9ae19f89e19eb6e19e9be19f8be19e9ae19eb8e19e9fe19e8f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.12711999999999,
+          11.743323699557587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ច្រកចូលដីលក់ដំបងវិញ ឱរ៉ាល់",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Speu",
+        "county": "Aoral",
+        "city": "Aoral",
+        "street": "National Road 52",
+        "iso3166_2": "KH-5",
+        "lon": 104.1250442,
+        "lat": 11.7475226,
+        "formatted": "ច្រកចូលដីលក់ដំបងវិញ ឱរ៉ាល់, National Road 52, Aoral, Cambodia",
+        "address_line1": "ច្រកចូលដីលក់ដំបងវិញ ឱរ៉ាល់",
+        "address_line2": "National Road 52, Aoral, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ច្រកចូលដីលក់ដំបងវិញ ឱរ៉ាល់",
+            "osm_id": 6371821286,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517d6363b900085a40599c3e3c48bb7e2740f00103f901e646ca7b0100000092034ce19e85e19f92e19e9ae19e80e19e85e19ebce19e9be19e8ae19eb8e19e9be19e80e19f8be19e8ae19f86e19e94e19e84e19e9ce19eb7e19e8920e19eb1e19e9ae19f89e19eb6e19e9be19f8b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1250442,
+          11.747522599557946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ដីលក់ដំបងវិញ ឱរ៉ាល់",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Speu",
+        "county": "Aoral",
+        "city": "Aoral",
+        "street": "National Road 52",
+        "iso3166_2": "KH-5",
+        "lon": 104.1291053,
+        "lat": 11.7488794,
+        "formatted": "ដីលក់ដំបងវិញ ឱរ៉ាល់, National Road 52, Aoral, Cambodia",
+        "address_line1": "ដីលក់ដំបងវិញ ឱរ៉ាល់",
+        "address_line2": "National Road 52, Aoral, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ដីលក់ដំបងវិញ ឱរ៉ាល់",
+            "osm_id": 6371822885,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51614fe04243085a4059ff7fe31e6d7f2740f00103f901254dca7b01000000920337e19e8ae19eb8e19e9be19e80e19f8be19e8ae19f86e19e94e19e84e19e9ce19eb7e19e8920e19eb1e19e9ae19f89e19eb6e19e9be19f8b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1291053,
+          11.748879399558062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ផ្ទះបងផល្លា",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kandal",
+        "city": "Kien Svay District",
+        "street": "National Highway 1",
+        "iso3166_2": "KH-8",
+        "lon": 105.2478675,
+        "lat": 11.4190303,
+        "formatted": "ផ្ទះបងផល្លា, National Highway 1, Kien Svay District, Cambodia",
+        "address_line1": "ផ្ទះបងផល្លា",
+        "address_line2": "National Highway 1, Kien Svay District, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ផ្ទះបងផល្លា",
+            "osm_id": 6408261686,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51718fa50fdd4f5a40598508b1238bd62640f00103f9013650f67d01000000920321e19e95e19f92e19e91e19f87e19e94e19e84e19e95e19e9be19f92e19e9be19eb6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2478675,
+          11.419030299530514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "អូរព្រែកសំបួរ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Kampong Chhnang",
+        "street": "Road 145",
+        "iso3166_2": "KH-4",
+        "lon": 104.4720059,
+        "lat": 12.1243378,
+        "formatted": "O Prek Sambour, Road 145, Kampong Chhnang, Cambodia",
+        "address_line1": "O Prek Sambour",
+        "address_line2": "Road 145, Kampong Chhnang, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "អូរព្រែកសំបួរ",
+            "osm_id": 6427475785,
+            "name:en": "O Prek Sambour",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "O Prek Sambour"
+        },
+        "place_id": "5137013c58351e5a40599dce3d34a93f2840f00103f901497f1b7f01000000920327e19ea2e19ebce19e9ae19e96e19f92e19e9ae19f82e19e80e19e9fe19f86e19e94e19ebde19e9a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.47200589999998,
+          12.124337799591837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ទំនប់ខ្ដុល",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "iso3166_2": "KH-4",
+        "lon": 104.5214107,
+        "lat": 11.8041947,
+        "formatted": "ទំនប់ខ្ដុល, Kampong Chhnang, Cambodia",
+        "address_line1": "ទំនប់ខ្ដុល",
+        "address_line2": "Kampong Chhnang, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ទំនប់ខ្ដុល",
+            "osm_id": 6440119286,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513412fcca5e215a4059707a5c68bf9b2740f00103f901f66bdc7f0100000092031ee19e91e19f86e19e93e19e94e19f8be19e81e19f92e19e8ae19ebbe19e9b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52141069999999,
+          11.804194699562885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Làng dệt ấp Long tả",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "state": "Đồng Tháp Province",
+        "county": "Hồng Ngự District",
+        "city": "Xã Thường Lạc",
+        "street": "ĐT. 841",
+        "iso3166_2": "VN-45",
+        "lon": 105.3100087,
+        "lat": 10.8144691,
+        "formatted": "Làng dệt ấp Long tả, ĐT. 841, Xã Thường Lạc, Đồng Tháp Province, Vietnam",
+        "address_line1": "Làng dệt ấp Long tả",
+        "address_line2": "ĐT. 841, Xã Thường Lạc, Đồng Tháp Province, Vietnam",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Làng dệt ấp Long tả",
+            "osm_id": 6741739385,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516efeba2ed7535a405980c9031802a12540f00103f90179c7d6910100000092031a4cc3a06e672064e1bb877420e1baa570204c6f6e672074e1baa3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3100087,
+          10.814469099485677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "កោះចម្រើន",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kandal",
+        "city": "Leuk Daek District",
+        "street": "National Highway 1",
+        "iso3166_2": "KH-8",
+        "lon": 105.269879,
+        "lat": 11.284062,
+        "formatted": "Koh Choamreun, National Highway 1, Leuk Daek District, Cambodia",
+        "address_line1": "Koh Choamreun",
+        "address_line2": "National Highway 1, Leuk Daek District, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "កោះចម្រើន",
+            "osm_id": 7340307886,
+            "name:en": "Koh Choamreun",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Koh Choamreun"
+        },
+        "place_id": "5124b891b245515a4059c3f20b9370912640f00103f901ae3584b50100000092031be19e80e19f84e19f87e19e85e19e98e19f92e19e9ae19ebee19e93"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.269879,
+          11.284061999519855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ជួរផ្អៅ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "iso3166_2": "KH-14",
+        "lon": 105.5509475,
+        "lat": 11.5176498,
+        "formatted": "Chuo p'av, Prey Veng, Cambodia",
+        "address_line1": "Chuo p'av",
+        "address_line2": "Prey Veng, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ជួរផ្អៅ",
+            "osm_id": 8096077119,
+            "name:en": "Chuo p'av",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Chuo p'av"
+        },
+        "place_id": "5108944db942635a40591299ff6409092740f00103f9013f5590e201000000920315e19e87e19ebde19e9ae19e95e19f92e19ea2e19f85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5509475,
+          11.517649799538535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ដីថុយ",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "city": "Ba Phnom",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.4252455,
+        "lat": 11.3007921,
+        "formatted": "Deithoy village, Road 317, Ba Phnom, Cambodia",
+        "address_line1": "Deithoy village",
+        "address_line2": "Road 317, Ba Phnom, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ដីថុយ",
+            "osm_id": 8195833117,
+            "name:en": "Deithoy village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Deithoy village"
+        },
+        "place_id": "515ad1e638375b5a405956ad0c6c019a2640f00103f9011d7d82e80100000092030fe19e8ae19eb8e19e90e19ebbe19e99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.42524549999999,
+          11.300792099521157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "សំអុល សោភា",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Peam Ro District",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.3690377,
+        "lat": 11.3936843,
+        "formatted": "Samol Sophea Shop house, Road 317, Cambodia",
+        "address_line1": "Samol Sophea Shop house",
+        "address_line2": "Road 317, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "សំអុល សោភា",
+            "osm_id": 8197805222,
+            "name:en": "Samol Sophea Shop house",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Samol Sophea Shop house"
+        },
+        "place_id": "516d1f4d509e575a4059d7d80efd90c92640f00103f901a694a0e80100000092031ce19e9fe19f86e19ea2e19ebbe19e9b20e19e9fe19f84e19e97e19eb6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.36903769999999,
+          11.393684299528486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "កំពង់ស្នេហ៍ (ស្ពាន)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.3848373,
+        "lat": 11.3790131,
+        "formatted": "Kampong Sneh (Bridge), Road 317, Cambodia",
+        "address_line1": "Kampong Sneh (Bridge)",
+        "address_line2": "Road 317, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "កំពង់ស្នេហ៍ (ស្ពាន)",
+            "osm_id": 8197806620,
+            "name:en": "Kampong Sneh (Bridge)",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Kampong Sneh (Bridge)"
+        },
+        "place_id": "51fb71a02ca1585a4059677346010ec22640f00103f9011c9aa0e801000000920333e19e80e19f86e19e96e19e84e19f8be19e9fe19f92e19e93e19f81e19ea0e19f8d2028e19e9fe19f92e19e96e19eb6e19e9329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3848373,
+          11.379013099527311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ធារី (ហាងកាហ្វេ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.4675749,
+        "lat": 11.2337769,
+        "formatted": "Theary (coffee shop), Road 317, Cambodia",
+        "address_line1": "Theary (coffee shop)",
+        "address_line2": "Road 317, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ធារី (ហាងកាហ្វេ)",
+            "osm_id": 8200247251,
+            "name:en": "Theary (coffee shop)",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Theary (coffee shop)"
+        },
+        "place_id": "518efb45bfec5d5a405977f6139bb1772640f00103f901d3d7c5e80100000092032ae19e92e19eb6e19e9ae19eb82028e19ea0e19eb6e19e84e19e80e19eb6e19ea0e19f92e19e9ce19f8129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.46757490000002,
+          11.233776899515972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "អង្ក្រង (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Kampong Trabaek District",
+        "iso3166_2": "KH-14",
+        "lon": 105.5278366,
+        "lat": 11.0173972,
+        "formatted": "Angkrong Village, Kampong Trabaek District, Cambodia",
+        "address_line1": "Angkrong Village",
+        "address_line2": "Kampong Trabaek District, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "អង្ក្រង (ភូមិ)",
+            "osm_id": 8210192717,
+            "name:en": "Angkrong Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Angkrong Village"
+        },
+        "place_id": "516fa82913c8615a4059b3c92549e8082640f00103f9014d995de901000000920324e19ea2e19e84e19f92e19e80e19f92e19e9ae19e842028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.52783659999999,
+          11.017397199499873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "កណ្ដាល (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Kampong Chhnang",
+        "city": "Kampong Chhnang",
+        "street": "Norodom Street",
+        "iso3166_2": "KH-4",
+        "lon": 104.6836438,
+        "lat": 12.266286,
+        "formatted": "Kandal Village, Norodom Street, Kampong Chhnang, Cambodia",
+        "address_line1": "Kandal Village",
+        "address_line2": "Norodom Street, Kampong Chhnang, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "កណ្ដាល (ភូមិ)",
+            "osm_id": 8211275817,
+            "name:en": "Kandal Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Kandal Village"
+        },
+        "place_id": "513ec7ecd1c02b5a4059cd5f77a356882840f00103f90129206ee901000000920321e19e80e19e8ee19f92e19e8ae19eb6e19e9b2028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6836438,
+          12.266285999605225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ជើងភ្នំ (ឃុំ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "city": "Ba Phnom",
+        "street": "Ancient stairs",
+        "iso3166_2": "KH-14",
+        "lon": 105.3674227,
+        "lat": 11.2454459,
+        "formatted": "Cheung Phnum Commune, Ancient stairs, Ba Phnom, Cambodia",
+        "address_line1": "Cheung Phnum Commune",
+        "address_line2": "Ancient stairs, Ba Phnom, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ជើងភ្នំ (ឃុំ)",
+            "osm_id": 8211293217,
+            "name:en": "Cheung Phnum Commune",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Cheung Phnum Commune"
+        },
+        "place_id": "51b61380da83575a40597bb9be15ab7d2640f00103f90121646ee901000000920321e19e87e19ebee19e84e19e97e19f92e19e93e19f862028e19e83e19ebbe19f8629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.36742269999999,
+          11.245445899516872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ស្វាយសាមសិប (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Preah Sdach District",
+        "city": "Kompung Soeng",
+        "street": "National Highway 1",
+        "iso3166_2": "KH-14",
+        "lon": 105.3621063,
+        "lat": 11.2414394,
+        "formatted": "Svay Sam Sep Village, National Highway 1, Kompung Soeng, Cambodia",
+        "address_line1": "Svay Sam Sep Village",
+        "address_line2": "National Highway 1, Kompung Soeng, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ស្វាយសាមសិប (ភូមិ)",
+            "osm_id": 8211297217,
+            "name:en": "Svay Sam Sep Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Svay Sam Sep Village"
+        },
+        "place_id": "513c0be7bf2c575a40596fc7e9f19d7b2640f00103f901c1736ee901000000920330e19e9fe19f92e19e9ce19eb6e19e99e19e9fe19eb6e19e98e19e9fe19eb7e19e942028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3621063,
+          11.241439399516564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "បឹងប្រស្រែ (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "city": "Ba Phnom",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.4169479,
+        "lat": 11.2173106,
+        "formatted": "Boeng Prasre (Village), Road 317, Ba Phnom, Cambodia",
+        "address_line1": "Boeng Prasre (Village)",
+        "address_line2": "Road 317, Ba Phnom, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "បឹងប្រស្រែ (ភូមិ)",
+            "osm_id": 8211323217,
+            "name:en": "Boeng Prasre (Village)",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Boeng Prasre (Village)"
+        },
+        "place_id": "51b2a83e46af5a5a4059cdfabb55436f2640f00103f90151d96ee90100000092032de19e94e19eb9e19e84e19e94e19f92e19e9ae19e9fe19f92e19e9ae19f822028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4169479,
+          11.217310599514713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ឈើកាច់ (ផ្សា)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "city": "Ba Phnom",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.4005013,
+        "lat": 11.2592887,
+        "formatted": "Cheukach Market, Road 317, Ba Phnom, Cambodia",
+        "address_line1": "Cheukach Market",
+        "address_line2": "Road 317, Ba Phnom, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ឈើកាច់ (ផ្សា)",
+            "osm_id": 8211333721,
+            "name:en": "Cheukach Market",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Cheukach Market"
+        },
+        "place_id": "515a6034d0a1595a4059c74d097dc1842640f00103f90159026fe901000000920321e19e88e19ebee19e80e19eb6e19e85e19f8b2028e19e95e19f92e19e9fe19eb629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4005013,
+          11.259288699517937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ស្ដៅកោង (ឃុំ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "county": "Ba Phnum District",
+        "street": "Road 317",
+        "iso3166_2": "KH-14",
+        "lon": 105.4521608,
+        "lat": 11.2031569,
+        "formatted": "Sdav Koang Commune, Road 317, Cambodia",
+        "address_line1": "Sdav Koang Commune",
+        "address_line2": "Road 317, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ស្ដៅកោង (ឃុំ)",
+            "osm_id": 8214415517,
+            "name:en": "Sdav Koang Commune",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Sdav Koang Commune"
+        },
+        "place_id": "511f22da33f05c5a405954bc5e2e04682640f00103f9019d089ee901000000920321e19e9fe19f92e19e8ae19f85e19e80e19f84e19e842028e19e83e19ebbe19f8629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.45216079999999,
+          11.203156899513637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ព្រែកតាដុក",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "street": "National Highway 8",
+        "iso3166_2": "KH-14",
+        "lon": 105.6095002,
+        "lat": 11.5959598,
+        "formatted": "Prek Taduk, National Highway 8, Cambodia",
+        "address_line1": "Prek Taduk",
+        "address_line2": "National Highway 8, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ព្រែកតាដុក",
+            "osm_id": 8214590318,
+            "name:en": "Prek Taduk",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Prek Taduk"
+        },
+        "place_id": "51f379200d02675a4059a08d91a421312740f00103f9016eb3a0e90100000092031ee19e96e19f92e19e9ae19f82e19e80e19e8fe19eb6e19e8ae19ebbe19e80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6095002,
+          11.595959799545028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "វាលស្មាច់ (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "city": "Kamchay Mear Cheung",
+        "postcode": "200403",
+        "street": "National Highway 8",
+        "iso3166_2": "KH-14",
+        "lon": 105.7536005,
+        "lat": 11.60145,
+        "formatted": "Veal Smach Village, National Highway 8, Kamchay Mear Cheung 200403, Cambodia",
+        "address_line1": "Veal Smach Village",
+        "address_line2": "National Highway 8, Kamchay Mear Cheung 200403, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "វាលស្មាច់ (ភូមិ)",
+            "osm_id": 8221643318,
+            "name:en": "Veal Smach Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Veal Smach Village"
+        },
+        "place_id": "51f56f97fd3a705a40594a741c41f1332740f00103f90136520cea0100000092032ae19e9ce19eb6e19e9be19e9fe19f92e19e98e19eb6e19e85e19f8b2028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.75360050000002,
+          11.601449999545498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ពោធិ៍ (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "city": "Kamchay Mear Cheung",
+        "postcode": "200403",
+        "street": "National Highway 8",
+        "iso3166_2": "KH-14",
+        "lon": 105.7484636,
+        "lat": 11.6136859,
+        "formatted": "Pou Village, National Highway 8, Kamchay Mear Cheung 200403, Cambodia",
+        "address_line1": "Pou Village",
+        "address_line2": "National Highway 8, Kamchay Mear Cheung 200403, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ពោធិ៍ (ភូមិ)",
+            "osm_id": 8221649117,
+            "name:en": "Pou Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Pou Village"
+        },
+        "place_id": "51c40fdfd3e66f5a40592323c909353a2740f00103f901dd680cea0100000092031ee19e96e19f84e19e92e19eb7e19f8d2028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.74846359999998,
+          11.613685899546516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ត្បូងវត្ត (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "city": "Kamchay Mear Cheung",
+        "street": "National Highway 8",
+        "iso3166_2": "KH-14",
+        "lon": 105.761887,
+        "lat": 11.6224086,
+        "formatted": "Tboung Wat Village, National Highway 8, Kamchay Mear Cheung, Cambodia",
+        "address_line1": "Tboung Wat Village",
+        "address_line2": "National Highway 8, Kamchay Mear Cheung, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ត្បូងវត្ត (ភូមិ)",
+            "osm_id": 8221650217,
+            "name:en": "Tboung Wat Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tboung Wat Village"
+        },
+        "place_id": "51d70fb1c1c2705a4059f49b0757ac3e2740f00103f901296d0cea0100000092032ae19e8fe19f92e19e94e19ebce19e84e19e9ce19e8fe19f92e19e8f2028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.76188699999999,
+          11.62240859954725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "កន្លែងជ្រៅ (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "city": "Kamchay Mear Cheung",
+        "street": "National Highway 8",
+        "iso3166_2": "KH-14",
+        "lon": 105.7624724,
+        "lat": 11.6446513,
+        "formatted": "Kanleng Chuv Village, National Highway 8, Kamchay Mear Cheung, Cambodia",
+        "address_line1": "Kanleng Chuv Village",
+        "address_line2": "National Highway 8, Kamchay Mear Cheung, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "កន្លែងជ្រៅ (ភូមិ)",
+            "osm_id": 8221692317,
+            "name:en": "Kanleng Chuv Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Kanleng Chuv Village"
+        },
+        "place_id": "5190860959cc705a405960c631bc0f4a2740f00103f9019d110dea0100000092032de19e80e19e93e19f92e19e9be19f82e19e84e19e87e19f92e19e9ae19f852028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.76247239999998,
+          11.644651299549139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "អណ្ដូងស្អាត (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "city": "Kamchay Mear Cheung",
+        "street": "National Highway 8",
+        "iso3166_2": "KH-14",
+        "lon": 105.7357004,
+        "lat": 11.6257585,
+        "formatted": "Andoung S'at Village, National Highway 8, Kamchay Mear Cheung, Cambodia",
+        "address_line1": "Andoung S'at Village",
+        "address_line2": "National Highway 8, Kamchay Mear Cheung, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "អណ្ដូងស្អាត (ភូមិ)",
+            "osm_id": 8221697218,
+            "name:en": "Andoung S'at Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Andoung S'at Village"
+        },
+        "place_id": "51dd6921b7156f5a40596180056b63402740f00103f901c2240dea01000000920330e19ea2e19e8ee19f92e19e8ae19ebce19e84e19e9fe19f92e19ea2e19eb6e19e8f2028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7357004,
+          11.625758499547546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ក្របៅជួរ (ភូមិ)",
+        "country": "Cambodia",
+        "country_code": "kh",
+        "state": "Prey Veng",
+        "city": "Kamchay Mear Cheung",
+        "street": "National Highway 8",
+        "iso3166_2": "KH-14",
+        "lon": 105.7433542,
+        "lat": 11.6295203,
+        "formatted": "Krabao Chuor Village, National Highway 8, Kamchay Mear Cheung, Cambodia",
+        "address_line1": "Krabao Chuor Village",
+        "address_line2": "National Highway 8, Kamchay Mear Cheung, Cambodia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ក្របៅជួរ (ភូមិ)",
+            "osm_id": 8221702117,
+            "name:en": "Krabao Chuor Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Krabao Chuor Village"
+        },
+        "place_id": "5107967e1d936f5a4059cd73157c50422740f00103f901e5370dea01000000920327e19e80e19f92e19e9ae19e94e19f85e19e87e19ebde19e9a2028e19e97e19ebce19e98e19eb729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.74335419999998,
+          11.629520299547858
+        ]
+      }
+    }
+  ]
+}

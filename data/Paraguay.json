@@ -1,0 +1,5011 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Don Papalo",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "San Bernardino",
+        "postcode": "031602",
+        "street": "Callejón Zorrilla",
+        "iso3166_2": "PY-3",
+        "lon": -57.2412502,
+        "lat": -25.3016538,
+        "formatted": "Don Papalo, Callejón Zorrilla, 031602 San Bernardino, Paraguay",
+        "address_line1": "Don Papalo",
+        "address_line2": "Callejón Zorrilla, 031602 San Bernardino, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Don Papalo",
+            "phone": "0986193000",
+            "osm_id": 4537693593,
+            "name:es": "Don Papalo",
+            "tourism": "attraction",
+            "website": "http://www.granjadonpapalo.com.py",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "website": "http://www.granjadonpapalo.com.py",
+        "opening_hours": "24/7",
+        "name_international": {
+          "es": "Don Papalo"
+        },
+        "contact": {
+          "phone": "0986193000"
+        },
+        "place_id": "51a5935b49e19e4cc0594a94f42e394d39c0f00103f90199b5770e0100000092030a446f6e20506170616c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.2412502,
+          -25.301653799735767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Casita del Cerro",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Department of Paraguari",
+        "city": "Paraguarí",
+        "postcode": "090103",
+        "street": "Ruta General Rogelio Benítez",
+        "iso3166_2": "PY-9",
+        "lon": -57.133313,
+        "lat": -25.6030216,
+        "formatted": "La Casita del Cerro, Ruta General Rogelio Benítez, 090103 Paraguarí, Paraguay",
+        "address_line1": "La Casita del Cerro",
+        "address_line2": "Ruta General Rogelio Benítez, 090103 Paraguarí, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Casita del Cerro",
+            "phone": "+595981331256",
+            "osm_id": 4990615122,
+            "name:es": "La Casita del Cerro Posada Cerro Hu",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Ruta General Rogelio Benitez",
+            "opening_hours": "Th-Su 00:00-24:00"
+          }
+        },
+        "opening_hours": "Th-Su 00:00-24:00",
+        "name_international": {
+          "es": "La Casita del Cerro Posada Cerro Hu"
+        },
+        "contact": {
+          "phone": "+595981331256"
+        },
+        "place_id": "51da907f6610914cc059ad76a19f5f9a39c0f00103f90152be7629010000009203134c61204361736974612064656c20436572726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.133313,
+          -25.603021599693125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pecarí de Collar",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57238061596384,
+        "lat": -25.2502021,
+        "formatted": "Pecarí de Collar, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Pecarí de Collar",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pecarí de Collar",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pecari_Collar_zoo.jpg",
+            "osm_id": 395004165,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikipedia": "es:Pecari tajacu",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "wikipedia": "es:Pecari tajacu",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pecari_Collar_zoo.jpg"
+        },
+        "place_id": "51e9369dc443c94cc0598ac9ab3e0d4039c0f00102f90105498b17000000009203115065636172c3ad20646520436f6c6c6172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57238061596383,
+          -25.250202099743127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ecclesiæ catholicæ de Immaculata Conceptione",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "Tobatí",
+        "postcode": "031802",
+        "district": "Centro",
+        "street": "Capitan Pedro Juan Caballero",
+        "iso3166_2": "PY-3",
+        "lon": -57.08205056378548,
+        "lat": -25.2607956,
+        "formatted": "Catholic Church of the Immaculate Conception, Capitan Pedro Juan Caballero, 031802 Tobatí, Paraguay",
+        "address_line1": "Catholic Church of the Immaculate Conception",
+        "address_line2": "Capitan Pedro Juan Caballero, 031802 Tobatí, Paraguay",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.contact",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ecclesiæ catholicæ de Immaculata Conceptione",
+            "phone": "0516 262 300",
+            "osm_id": 164592584,
+            "amenity": "place_of_worship",
+            "name:de": "Katholische Kirche der Unbefleckten Empfängnis",
+            "name:en": "Catholic Church of the Immaculate Conception",
+            "name:es": "Iglesia Católica de la Inmaculada Concepción",
+            "name:fr": "Église catholique de l'Immaculée Conception",
+            "name:it": "Chiesa cattolica dell'Immacolata Concezione",
+            "name:ja": "カトリック教会。 無原罪懐胎の",
+            "name:ko": "카톨릭 교회. 원죄 없으신 잉태의",
+            "name:la": "Ecclesiæ catholicæ de Immaculata Conceptione",
+            "name:pt": "Igreja Católica da Imaculada Conceição",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "religion": "christian",
+            "addr:city": "Inmaculada Concepción",
+            "addr:street": "Capitan Pedro Juan Caballero",
+            "building:use": "church",
+            "denomination": "roman_catholic",
+            "addr:postcode": "031802"
+          }
+        },
+        "name_international": {
+          "de": "Katholische Kirche der Unbefleckten Empfängnis",
+          "en": "Catholic Church of the Immaculate Conception",
+          "es": "Iglesia Católica de la Inmaculada Concepción",
+          "fr": "Église catholique de l'Immaculée Conception",
+          "it": "Chiesa cattolica dell'Immacolata Concezione",
+          "ja": "カトリック教会。 無原罪懐胎の",
+          "ko": "카톨릭 교회. 원죄 없으신 잉태의",
+          "la": "Ecclesiæ catholicæ de Immaculata Conceptione",
+          "pt": "Igreja Católica da Imaculada Conceição"
+        },
+        "contact": {
+          "phone": "0516 262 300"
+        },
+        "building": {
+          "use": "church"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "roman_catholic"
+        },
+        "place_id": "51da0904a2808a4cc059b6d41b80c34239c0f00102f901c87bcf090000000092032e4563636c657369c3a620636174686f6c6963c3a620646520496d6d6163756c61746120436f6e63657074696f6e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.08205056378547,
+          -25.260795599741606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viboras",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57154026177686,
+        "lat": -25.250836749999998,
+        "formatted": "Viboras, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Viboras",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Viboras",
+            "osm_id": 393067966,
+            "barrier": "wall",
+            "natural": "water",
+            "tourism": "attraction",
+            "website": "http://www.mca.gov.py/i_zoo/Imagenes/cuidado10.jpg",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "website": "http://www.mca.gov.py/i_zoo/Imagenes/cuidado10.jpg",
+        "place_id": "51e656363b28c94cc05902c854d6364039c0f00102f901bebd6d17000000009203075669626f726173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57154026177686,
+          -25.250836749743037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gato montés",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57129399566378,
+        "lat": -25.2518984,
+        "formatted": "Gato montés, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Gato montés",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "small_animal",
+            "name": "Gato montés",
+            "osm_id": 393071199,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "website": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Descripci%C3%B3n_de_Gato_Montes.jpg",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "website": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Descripci%C3%B3n_de_Gato_Montes.jpg",
+        "place_id": "5179e3612920c94cc05977cfdc697c4039c0f00102f9015fca6d170000000092030c4761746f206d6f6e74c3a973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57129399566379,
+          -25.25189839974288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chahã",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57065605064645,
+        "lat": -25.250972400000002,
+        "formatted": "Chahã, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Chahã",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "aviary",
+            "name": "Chahã",
+            "osm_id": 393077140,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "website": "https://upload.wikimedia.org/wikipedia/commons/7/75/Chah%C3%A3_Zoo.jpg",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "website": "https://upload.wikimedia.org/wikipedia/commons/7/75/Chah%C3%A3_Zoo.jpg",
+        "place_id": "514065e9410bc94cc0594d1829ba3f4039c0f00102f90194e16d170000000092030643686168c3a3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57065605064645,
+          -25.250972399743024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mono",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57069959481685,
+        "lat": -25.2506515,
+        "formatted": "Mono, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Mono",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mono",
+            "osm_id": 393470224,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "website": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mono_C._Zoo.jpg",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "website": "https://upload.wikimedia.org/wikipedia/commons/3/34/Mono_C._Zoo.jpg",
+        "place_id": "5116ca2faf0cc94cc059fe165ab22a4039c0f00102f90110e17317000000009203044d6f6e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.570699594816844,
+          -25.250651499743064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venado",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57239386419586,
+        "lat": -25.250396199999997,
+        "formatted": "Venado, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Venado",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "small_animal",
+            "name": "Venado",
+            "osm_id": 395004125,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "website": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Guazu_Vira_zoo.jpg",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Guazu_Vira_zoo.jpg",
+        "place_id": "517c93bf3344c94cc05974f020f7194039c0f00102f901dd488b170000000092030656656e61646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.572393864195845,
+          -25.250396199743093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kure ka'aguy",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57203357390367,
+        "lat": -25.24977385,
+        "formatted": "Kure ka'aguy, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Kure ka'aguy",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "small",
+            "name": "Kure ka'aguy",
+            "osm_id": 395004592,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "website": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kure_ka%27aguy_zoo.jpg",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "website": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kure_ka%27aguy_zoo.jpg",
+        "place_id": "51ac106a6538c94cc059020bd42df13f39c0f00102f901b04a8b170000000092030c4b757265206b612761677579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57203357390367,
+          -25.249773849743185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papagayo azul",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.570838702770835,
+        "lat": -25.25042025,
+        "formatted": "Papagayo azul, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Papagayo azul",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Papagayo azul",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Coati_del_Zool%C3%B3gico_de_Asunci%C3%B3n.jpg",
+            "osm_id": 391970437,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Coati_del_Zool%C3%B3gico_de_Asunci%C3%B3n.jpg"
+        },
+        "place_id": "518cd81b3e11c94cc0591ae79e8a1b4039c0f00102f90185fe5c170000000092030d506170616761796f20617a756c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57083870277083,
+          -25.250420249743094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herbívoros",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.571376599976944,
+        "lat": -25.25122865,
+        "formatted": "Herbívoros, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Herbívoros",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "wildlife_park",
+            "name": "Herbívoros",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tapir_zooasuncion.JPG",
+            "osm_id": 393068992,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tapir_zooasuncion.JPG"
+        },
+        "place_id": "51e24c51de22c94cc059de765285504039c0f00102f901c0c16d170000000092030b48657262c3ad766f726f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.571376599976944,
+          -25.251228649742977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hipopótamo",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57165786741255,
+        "lat": -25.2514282,
+        "formatted": "Hipopótamo, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Hipopótamo",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "wildlife_park",
+            "name": "Hipopótamo",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hipotamo1.JPG",
+            "osm_id": 393069672,
+            "barrier": "fence",
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "water_slide"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hipotamo1.JPG"
+        },
+        "place_id": "51dd84c2152cc94cc059283037995d4039c0f00102f90168c46d170000000092030b4869706f70c3b374616d6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57165786741255,
+          -25.251428199742946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocelote",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57140560115581,
+        "lat": -25.2518635,
+        "formatted": "Ocelote, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Ocelote",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "small_animal",
+            "name": "Ocelote",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ocelote_del_Zoo_Asunci%C3%B3n.JPG",
+            "osm_id": 393072226,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ocelote_del_Zoo_Asunci%C3%B3n.JPG"
+        },
+        "place_id": "5194db98d123c94cc059ac7356207a4039c0f00102f90162ce6d17000000009203074f63656c6f7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57140560115582,
+          -25.251863499742896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yaguarundi",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57120140252288,
+        "lat": -25.251766349999997,
+        "formatted": "Yaguarundi, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Yaguarundi",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "small_animal",
+            "name": "Yaguarundi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Descripci%C3%B3n_del_Jaguarundi.jpg",
+            "osm_id": 393072697,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Descripci%C3%B3n_del_Jaguarundi.jpg"
+        },
+        "place_id": "51f0a1a7201dc94cc0590c616ec2734039c0f00102f90139d06d170000000092030a596167756172756e6469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57120140252289,
+          -25.25176634974291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karaja",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57085304676349,
+        "lat": -25.2512636,
+        "formatted": "Karaja, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Karaja",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "small_animal",
+            "name": "Karaja",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Karaja_del_Zool%C3%B3gico_de_Asunci%C3%B3n.JPG",
+            "osm_id": 393076527,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Karaja_del_Zool%C3%B3gico_de_Asunci%C3%B3n.JPG"
+        },
+        "place_id": "51e8556fb611c94cc0593e92afcf524039c0f00102f9012fdf6d17000000009203064b6172616a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57085304676349,
+          -25.251263599742963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buitres negros y de Cabeza Amarilla",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57060690776021,
+        "lat": -25.250895999999997,
+        "formatted": "Buitres negros y de Cabeza Amarilla, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Buitres negros y de Cabeza Amarilla",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "aviary",
+            "name": "Buitres negros y de Cabeza Amarilla",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Buitre_Negro_y_de_Cabeza_Amarrilla.jpg",
+            "osm_id": 393077366,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Buitre_Negro_y_de_Cabeza_Amarrilla.jpg"
+        },
+        "place_id": "51d3d9aba509c94cc059ed9761b83a4039c0f00102f90176e26d170000000092032342756974726573206e6567726f73207920646520436162657a6120416d6172696c6c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5706069077602,
+          -25.250895999743012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venado y Avestrúz",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57040938069427,
+        "lat": -25.250993049999998,
+        "formatted": "Venado y Avestrúz, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Venado y Avestrúz",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Venado y Avestrúz",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Avestruz2.jpg",
+            "osm_id": 393088927,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Avestruz2.jpg"
+        },
+        "place_id": "51eeb4b12c03c94cc059672b9c14414039c0f00102f9019f0f6e170000000092031256656e61646f207920417665737472c3ba7a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57040938069427,
+          -25.250993049743013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tigres",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.56951465413597,
+        "lat": -25.24899155,
+        "formatted": "Tigres, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Tigres",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "Tigres",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Puma_Zoo.jpg",
+            "osm_id": 393091619,
+            "barrier": "wall",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Puma_Zoo.jpg"
+        },
+        "place_id": "51a90d2fdbe5c84cc059b72003e9bd3f39c0f00102f901231a6e1700000000920306546967726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.569514654135965,
+          -25.24899154974329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elefante Asiático",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "district": "Botánico",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.571054653945666,
+        "lat": -25.24847345,
+        "formatted": "Elefante Asiático, Botánico, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Elefante Asiático",
+        "address_line2": "Botánico, Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "Elefante Asiático",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Elefante_Zoologico_Asunci%C3%B3n.JPG",
+            "osm_id": 393300039,
+            "barrier": "wall",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Elefante_Zoologico_Asunci%C3%B3n.JPG"
+        },
+        "place_id": "516e76a35118c94cc0597392bcf49b3f39c0f00102f9014748711700000000920312456c6566616e746520417369c3a17469636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.571054653945666,
+          -25.24847344974337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "León africano",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.56940132271225,
+        "lat": -25.248583,
+        "formatted": "León africano, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "León africano",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "León africano",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Rey_Le%C3%B3n_Zoo.jpg",
+            "osm_id": 393301913,
+            "barrier": "wall",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Rey_Le%C3%B3n_Zoo.jpg"
+        },
+        "place_id": "5194ac7d24e2c84cc059423dae22a33f39c0f00102f901994f71170000000092030e4c65c3b36e206166726963616e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.56940132271225,
+          -25.248582999743356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tortuga",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.570834550984294,
+        "lat": -25.25085915,
+        "formatted": "Tortuga, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Tortuga",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tortuga",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tortuga_del_zool%C3%B3gico_de_Asunci%C3%B3n.JPG",
+            "osm_id": 393471543,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tortuga_del_zool%C3%B3gico_de_Asunci%C3%B3n.JPG"
+        },
+        "place_id": "51c4f3471b11c94cc059760c244e384039c0f00102f90137e6731700000000920307546f7274756761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5708345509843,
+          -25.25085914974303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucan y Faisán",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57098923839682,
+        "lat": -25.25070845,
+        "formatted": "Tucan y Faisán, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Tucan y Faisán",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tucan y Faisán",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tucan_zoo.jpg",
+            "osm_id": 393472226,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tucan_zoo.jpg"
+        },
+        "place_id": "5122a4e42c16c94cc0592d7ad06d2e4039c0f00102f901e2e873170000000092030f547563616e20792046616973c3a16e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57098923839682,
+          -25.250708449743048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hipopótamo asiático",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "district": "Botánico",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.5705129708671,
+        "lat": -25.24852155,
+        "formatted": "Hipopótamo asiático, Botánico, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Hipopótamo asiático",
+        "address_line2": "Botánico, Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "Hipopótamo asiático",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hipotamo1.JPG",
+            "osm_id": 395000461,
+            "barrier": "fence",
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hipotamo1.JPG"
+        },
+        "place_id": "51b4e8ab9106c94cc059be7fb81b9f3f39c0f00102f9018d3a8b17000000009203154869706f70c3b374616d6f20617369c3a17469636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5705129708671,
+          -25.248521549743366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coati",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.571076421709584,
+        "lat": -25.2504365,
+        "formatted": "Coati, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Coati",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Coati",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Coati_del_Zool%C3%B3gico_de_Asunci%C3%B3n.jpg",
+            "osm_id": 395001968,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Coati_del_Zool%C3%B3gico_de_Asunci%C3%B3n.jpg"
+        },
+        "place_id": "5133613d0819c94cc059091f409b1c4039c0f00102f90170408b1700000000920305436f617469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.571076421709584,
+          -25.250436499743078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pavos, Gallinas y Patos",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57235529620097,
+        "lat": -25.2505487,
+        "formatted": "Pavos, Gallinas y Patos, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Pavos, Gallinas y Patos",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "aviary",
+            "name": "Pavos, Gallinas y Patos",
+            "image": "https://commons.wikimedia.org/wiki/File:Pavo_real_zoo_Asunci%C3%B3n.JPG",
+            "osm_id": 395004023,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "water_slide"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://commons.wikimedia.org/wiki/File:Pavo_real_zoo_Asunci%C3%B3n.JPG"
+        },
+        "place_id": "51127037f042c94cc059aa73a7f5234039c0f00102f90177488b17000000009203175061766f732c2047616c6c696e61732079205061746f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57235529620097,
+          -25.25054869974307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pecarí de Barba blanca",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57214333509203,
+        "lat": -25.24988475,
+        "formatted": "Pecarí de Barba blanca, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Pecarí de Barba blanca",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pecarí de Barba blanca",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PecariBarbablanca.jpg",
+            "osm_id": 395004516,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PecariBarbablanca.jpg"
+        },
+        "place_id": "511b6c28fe3bc94cc05982ea6b72f83f39c0f00102f901644a8b17000000009203175065636172c3ad20646520426172626120626c616e6361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.572143335092015,
+          -25.249884749743167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saria de patas rojas",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.571541002726875,
+        "lat": -25.24967195,
+        "formatted": "Saria de patas rojas, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Saria de patas rojas",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "aviary",
+            "name": "Saria de patas rojas",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Saria_Patas_Rojas_zoo.jpg",
+            "osm_id": 395906184,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Saria_Patas_Rojas_zoo.jpg"
+        },
+        "place_id": "5179846d4128c94cc05926e03a80ea3f39c0f00102f901880c991700000000920314536172696120646520706174617320726f6a6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57154100272687,
+          -25.249671949743195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papagayo rojo",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57098068655869,
+        "lat": -25.25012185,
+        "formatted": "Papagayo rojo, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Papagayo rojo",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Papagayo rojo",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Papagayo_Rojo.JPG",
+            "osm_id": 395908731,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Papagayo_Rojo.JPG"
+        },
+        "place_id": "5167b527e515c94cc05968a94cfc074039c0f00102f9017b1699170000000092030d506170616761796f20726f6a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57098068655869,
+          -25.250121849743124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pumas",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.56921296825169,
+        "lat": -25.24937395,
+        "formatted": "Pumas, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Pumas",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "Pumas",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Puma_Zoo.jpg",
+            "osm_id": 398433929,
+            "barrier": "wall",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Puma_Zoo.jpg"
+        },
+        "place_id": "51d08c75f8dbc84cc0591f9f9ef8d63f39c0f00102f901899ebf170000000092030550756d6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.56921296825169,
+          -25.24937394974324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highway Cycleway",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001415",
+        "district": "Mariscal Estigarribia",
+        "street": "Doctor Benigno Ferreira",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.5694334,
+        "lat": -25.3062256,
+        "formatted": "Highway Cycleway, Doctor Benigno Ferreira, 001415 Asuncion, Paraguay",
+        "address_line1": "Highway Cycleway",
+        "address_line2": "Doctor Benigno Ferreira, 001415 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Highway Cycleway",
+            "image": "https://imgur.com/SkTC57C",
+            "osm_id": 11070374929,
+            "name:en": "Highway Cycleway",
+            "name:es": "Carril bici de la autopista",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "start_date": "2023-07-26",
+            "artwork_type": "graffiti"
+          }
+        },
+        "name_international": {
+          "en": "Highway Cycleway",
+          "es": "Carril bici de la autopista"
+        },
+        "wiki_and_media": {
+          "image": "https://imgur.com/SkTC57C"
+        },
+        "artwork": {
+          "artwork_type": "graffiti",
+          "start_date": "2023-07-26"
+        },
+        "place_id": "5104209331e3c84cc0596b0f08cd644e39c0f00103f9011184d8930200000092031048696768776179204379636c65776179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.56943340000001,
+          -25.306225599735097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highway Cycleway",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001415",
+        "district": "Mariscal Estigarribia",
+        "street": "Doctor Benigno Ferreira",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.5666945,
+        "lat": -25.3073321,
+        "formatted": "Highway Cycleway, Doctor Benigno Ferreira, 001415 Asuncion, Paraguay",
+        "address_line1": "Highway Cycleway",
+        "address_line2": "Doctor Benigno Ferreira, 001415 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Highway Cycleway",
+            "image": "https://imgur.com/IZDJnDO",
+            "osm_id": 11070374930,
+            "name:en": "Highway Cycleway",
+            "name:es": "Carril bici de la autopista",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "start_date": "2023-07-26",
+            "artwork_type": "graffiti"
+          }
+        },
+        "name_international": {
+          "en": "Highway Cycleway",
+          "es": "Carril bici de la autopista"
+        },
+        "wiki_and_media": {
+          "image": "https://imgur.com/IZDJnDO"
+        },
+        "artwork": {
+          "artwork_type": "graffiti",
+          "start_date": "2023-07-26"
+        },
+        "place_id": "515b29047289c84cc059665f0551ad4e39c0f00103f9011284d8930200000092031048696768776179204379636c65776179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.566694500000004,
+          -25.307332099734957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Highway Cycleway",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001414",
+        "district": "Recoleta",
+        "street": "Monseñor Juan Bogarin",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.5862472,
+        "lat": -25.2987391,
+        "formatted": "Highway Cycleway, Monseñor Juan Bogarin, 001414 Asuncion, Paraguay",
+        "address_line1": "Highway Cycleway",
+        "address_line2": "Monseñor Juan Bogarin, 001414 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Highway Cycleway",
+            "image": "https://imgur.com/39JN3Rc",
+            "osm_id": 11070374931,
+            "name:en": "Highway Cycleway",
+            "name:es": "Carril bici de la autopista",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "start_date": "2023-07-26",
+            "artwork_type": "graffiti"
+          }
+        },
+        "name_international": {
+          "en": "Highway Cycleway",
+          "es": "Carril bici de la autopista"
+        },
+        "wiki_and_media": {
+          "image": "https://imgur.com/39JN3Rc"
+        },
+        "artwork": {
+          "artwork_type": "graffiti",
+          "start_date": "2023-07-26"
+        },
+        "place_id": "5191aff3250acb4cc0594167672a7a4c39c0f00103f9011384d8930200000092031048696768776179204379636c65776179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.58624720000001,
+          -25.29873909973617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playa Municipal",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "street": "Panchito López",
+        "iso3166_2": "PY-11",
+        "lon": -57.374587770088596,
+        "lat": -25.30161555,
+        "formatted": "Playa Municipal, Panchito López, Areguá, Paraguay",
+        "address_line1": "Playa Municipal",
+        "address_line2": "Panchito López, Areguá, Paraguay",
+        "categories": [
+          "sport",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Playa Municipal",
+            "osm_id": -13872234,
+            "landuse": "recreation_ground",
+            "tourism": "attraction",
+            "osm_type": "r"
+          }
+        },
+        "place_id": "518b01f77df2af4cc05986143aad364d39c0f00101f9016aacd3000000000092030f506c617961204d756e69636970616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.37458777008859,
+          -25.301615549735764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Mariano Roque Alonso",
+        "postcode": "111018",
+        "suburb": "San Blas",
+        "street": "Hernandarias",
+        "iso3166_2": "PY-11",
+        "lon": -57.532173359260184,
+        "lat": -25.2296768,
+        "formatted": "Asociación Rural del Paraguay - EXPO - Rodeo Central, Hernandarias, 111018 Mariano Roque Alonso, Paraguay",
+        "address_line1": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
+        "address_line2": "Hernandarias, 111018 Mariano Roque Alonso, Paraguay",
+        "categories": [
+          "sport",
+          "sport.stadium",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
+            "osm_id": 130871574,
+            "leisure": "stadium",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5198e9b2411ec44cc059308f4719cc3a39c0f00102f90116f1cc070000000092033541736f6369616369c3b36e20527572616c2064656c205061726167756179202d204558504f202d20526f64656f2043656e7472616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.532173359260184,
+          -25.229676799746073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catedral de Areguá",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "San Roque",
+        "street": "Froilán Zárate",
+        "iso3166_2": "PY-11",
+        "lon": -57.385733242365404,
+        "lat": -25.313479,
+        "formatted": "Catedral de Areguá, Froilán Zárate, Areguá, Paraguay",
+        "address_line1": "Catedral de Areguá",
+        "address_line2": "Froilán Zárate, Areguá, Paraguay",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Catedral de Areguá",
+            "osm_id": 164694504,
+            "amenity": "place_of_worship",
+            "name:es": "Catedral de Areguá - Nuestra señora de la Candelaria",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "religion": "christian",
+            "building:use": "church",
+            "denomination": "roman_catholic"
+          }
+        },
+        "name_international": {
+          "es": "Catedral de Areguá - Nuestra señora de la Candelaria"
+        },
+        "building": {
+          "use": "church"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "roman_catholic"
+        },
+        "place_id": "513e78f6b45fb14cc05934d7e328405039c0f00102f901e809d10900000000920313436174656472616c206465204172656775c3a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.38573324236539,
+          -25.313478999734073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monos",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57080742450586,
+        "lat": -25.251198350000003,
+        "formatted": "Monos, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Monos",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monos",
+            "osm_id": 393076680,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "518748ba3710c94cc0598cf4f8884e4039c0f00102f901c8df6d17000000009203054d6f6e6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57080742450585,
+          -25.251198349742978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerco espín",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.570717389083825,
+        "lat": -25.251111899999998,
+        "formatted": "Puerco espín, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Puerco espín",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "small_animal",
+            "name": "Puerco espín",
+            "osm_id": 393076965,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51ceaf74440dc94cc0595a0895de484039c0f00102f901e5e06d170000000092030d50756572636f20657370c3ad6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57071738908381,
+          -25.251111899743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hurón Mayor Eira",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57055316650099,
+        "lat": -25.250815850000002,
+        "formatted": "Hurón Mayor Eira, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Hurón Mayor Eira",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hurón Mayor Eira",
+            "osm_id": 393078206,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "512060dbe207c94cc059fef6af77354039c0f00102f901bee56d1700000000920311487572c3b36e204d61796f722045697261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.570553166500986,
+          -25.25081584974304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avestrúz y Cabras",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57332164951914,
+        "lat": -25.250224199999998,
+        "formatted": "Avestrúz y Cabras, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Avestrúz y Cabras",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "aviary",
+            "name": "Avestrúz y Cabras",
+            "osm_id": 393287779,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "510163939a62c94cc059829072b10e4039c0f00102f9016318711700000000920312417665737472c3ba7a207920436162726173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57332164951914,
+          -25.250224199743123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimpancés",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.571654397865274,
+        "lat": -25.250142,
+        "formatted": "Chimpancés, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Chimpancés",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "small_animal",
+            "name": "Chimpancés",
+            "osm_id": 393913117,
+            "barrier": "fence",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "5115b9a7f82bc94cc059b8405c4e094039c0f00102f9011da37a170000000092030b4368696d70616e63c3a973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57165439786528,
+          -25.250141999743136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Búhos Pequeños",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57146596089673,
+        "lat": -25.24971385,
+        "formatted": "Búhos Pequeños, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Búhos Pequeños",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Búhos Pequeños",
+            "osm_id": 395906463,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51126aeecb25c94cc0595801323fed3f39c0f00102f9019f0d99170000000092031042c3ba686f73205065717565c3b16f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57146596089673,
+          -25.249713849743188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucán",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57141571400176,
+        "lat": -25.2497422,
+        "formatted": "Tucán, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Tucán",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "aviary",
+            "name": "Tucán",
+            "osm_id": 395906566,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "516e076e2624c94cc059fe53d41aef3f39c0f00102f901060e991700000000920306547563c3a16e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57141571400176,
+          -25.24974219974319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asio Clamator",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57137287981225,
+        "lat": -25.249765500000002,
+        "formatted": "Asio Clamator, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Asio Clamator",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "aviary",
+            "name": "Asio Clamator",
+            "osm_id": 395906619,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51b64e1cbf22c94cc059ea10bda1f03f39c0f00102f9013b0e99170000000092030d4173696f20436c616d61746f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.571372879812245,
+          -25.249765499743184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hurón",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57128920543779,
+        "lat": -25.249815249999997,
+        "formatted": "Hurón, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Hurón",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hurón",
+            "osm_id": 395906717,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51e2f4320120c94cc05962b067e4f33f39c0f00102f9019d0e991700000000920306487572c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57128920543779,
+          -25.249815249743172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ñacurutu con tortuguitas",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57113718970352,
+        "lat": -25.24989805,
+        "formatted": "Ñacurutu con tortuguitas, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Ñacurutu con tortuguitas",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "aviary",
+            "name": "Ñacurutu con tortuguitas",
+            "osm_id": 395907316,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "512ba7ff051bc94cc05926fb8e51f93f39c0f00102f901f410991700000000920319c3916163757275747520636f6e20746f727475677569746173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57113718970353,
+          -25.24989804974316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loros",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "district": "Botánico",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.57076084197198,
+        "lat": -25.250203399999997,
+        "formatted": "Loros, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Loros",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Loros",
+            "osm_id": 395909110,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b40df7b00ec94cc059a43e7b540d4039c0f00102f901f6179917000000009203054c6f726f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.570760841971975,
+          -25.250203399743114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carancho y Águila Coronada",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.570511868863306,
+        "lat": -25.2503722,
+        "formatted": "Carancho y Águila Coronada, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Carancho y Águila Coronada",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Carancho y Águila Coronada",
+            "osm_id": 395909666,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51b65f6d8806c94cc05964b97964184039c0f00102f901221a99170000000092031b436172616e63686f207920c3816775696c6120436f726f6e616461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.570511868863306,
+          -25.250372199743097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clínica Veterinaria",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.568672964590526,
+        "lat": -25.24916395,
+        "formatted": "Clínica Veterinaria, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Clínica Veterinaria",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "building",
+          "building.healthcare",
+          "building.tourism",
+          "healthcare",
+          "healthcare.clinic_or_praxis",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Clínica Veterinaria",
+            "osm_id": 398065644,
+            "amenity": "clinic",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "healthcare": "clinic"
+          }
+        },
+        "place_id": "5191849446cac84cc059547d6735c93f39c0f00102f901ecffb91700000000920314436cc3ad6e696361205665746572696e61726961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.568672964590526,
+          -25.249163949743277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaguar",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.56933161669241,
+        "lat": -25.2493181,
+        "formatted": "Jaguar, Asuncion, Distrito Capital, Paraguay",
+        "address_line1": "Jaguar",
+        "address_line2": "Asuncion, Distrito Capital, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "Jaguar",
+            "osm_id": 398433844,
+            "barrier": "wall",
+            "natural": "grassland",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51e822c1dbdfc84cc059b7b29c4fd33f39c0f00102f901349ebf17000000009203064a6167756172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.56933161669241,
+          -25.249318099743245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Natural Cerro Chororî",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "iso3166_2": "PY-11",
+        "lon": -57.403039590449026,
+        "lat": -25.31371545,
+        "formatted": "Monumento Natural Cerro Chororî, Areguá, Central Department, Paraguay",
+        "address_line1": "Monumento Natural Cerro Chororî",
+        "address_line2": "Areguá, Central Department, Paraguay",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.nature_reserve",
+          "natural",
+          "natural.protected_area",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Natural Cerro Chororî",
+            "osm_id": 605280651,
+            "leisure": "nature_reserve",
+            "tourism": "attraction",
+            "boundary": "protected_area",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5164fc21cd96b34cc0598fdbdca74f5039c0f00102f9018bd91324000000009203204d6f6e756d656e746f204e61747572616c20436572726f2043686f726f72c3ae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.403039590449026,
+          -25.313715449734044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradas de Lanchas Chaco'i",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Occidental",
+        "state": "Presidente Hayes",
+        "city": "Nueva Asunción",
+        "village": "Chaco-i",
+        "postcode": "001011",
+        "street": "Ruta Nacional Vicepresidente Sánchez",
+        "iso3166_2": "PY-15",
+        "lon": -57.63916721141331,
+        "lat": -25.25593215,
+        "formatted": "Paradas de Lanchas Chaco'i, Ruta Nacional Vicepresidente Sánchez, 001011 Nueva Asunción, Paraguay",
+        "address_line1": "Paradas de Lanchas Chaco'i",
+        "address_line2": "Ruta Nacional Vicepresidente Sánchez, 001011 Nueva Asunción, Paraguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paradas de Lanchas Chaco'i",
+            "osm_id": 1108452839,
+            "mooring": "yes",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "boat_ride"
+          }
+        },
+        "place_id": "510dd92e3bd0d14cc0595e23f5c4844139c0f00102f901e7a511420000000092031a50617261646173206465204c616e6368617320436861636f2769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.639167211413316,
+          -25.2559321497423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Virgen Aparecida",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "San Bernardino",
+        "postcode": "031602",
+        "street": "Avenida Luis F. Vache",
+        "iso3166_2": "PY-3",
+        "lon": -57.3031109129547,
+        "lat": -25.3073322,
+        "formatted": "The Appearing Virgin, Avenida Luis F. Vache, 031602 San Bernardino, Paraguay",
+        "address_line1": "The Appearing Virgin",
+        "address_line2": "Avenida Luis F. Vache, 031602 San Bernardino, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "La Virgen Aparecida",
+            "osm_id": 1112801025,
+            "name:de": "Die erscheinende Jungfrau",
+            "name:en": "The Appearing Virgin",
+            "name:es": "La Virgen Aparecida",
+            "name:it": "La Vergine Apparente",
+            "name:la": "Virginis Apparitio",
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "de": "Die erscheinende Jungfrau",
+          "en": "The Appearing Virgin",
+          "es": "La Virgen Aparecida",
+          "it": "La Vergine Apparente",
+          "la": "Virginis Apparitio"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51c019a156cca64cc0598bdeb252ad4e39c0f00102f90101ff5342000000009203134c612056697267656e20417061726563696461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.30311091295471,
+          -25.30733219973494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro Lambaré",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "110725",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.6413928,
+        "lat": -25.3403872,
+        "formatted": "Cerro Lambaré, 110725 Asuncion, Paraguay",
+        "address_line1": "Cerro Lambaré",
+        "address_line2": "110725 Asuncion, Paraguay",
+        "categories": [
+          "natural",
+          "natural.mountain",
+          "natural.mountain.peak",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 156,
+            "name": "Cerro Lambaré",
+            "osm_id": 2647260927,
+            "natural": "peak",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "ele": 156,
+        "place_id": "51e6f1c52819d24cc0597bd1929d235739c0f00103f901fffec99d0000000092030e436572726f204c616d626172c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.64139279999999,
+          -25.340387199730213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro Cultural SGIPy",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001311",
+        "district": "Vista Alegre",
+        "street": "Avenida Pedro Bruno Guggiari",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.6102284,
+        "lat": -25.3113736,
+        "formatted": "Centro Cultural SGIPy, Avenida Pedro Bruno Guggiari, 001311 Asuncion, Paraguay",
+        "address_line1": "Centro Cultural SGIPy",
+        "address_line2": "Avenida Pedro Bruno Guggiari, 001311 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centro Cultural SGIPy",
+            "osm_id": 2682643767,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51928bd6f61bce4cc05966b2232eb64f39c0f00103f90137e5e59f0000000092031543656e74726f2043756c747572616c205347495079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6102284,
+          -25.31137359973436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cerro de la Gloria",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "Mompox",
+        "street": "Ruta Isla Pucú - Tobatí",
+        "iso3166_2": "PY-3",
+        "lon": -56.9650881,
+        "lat": -25.2499607,
+        "formatted": "Mirador Cerro de la Gloria, Ruta Isla Pucú - Tobatí, Mompox, Paraguay",
+        "address_line1": "Mirador Cerro de la Gloria",
+        "address_line2": "Ruta Isla Pucú - Tobatí, Mompox, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cerro de la Gloria",
+            "osm_id": 2726919355,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511fa1c101887b4cc0599eaea66cfd3f39c0f00103f901bb7c89a20000000092031a4d697261646f7220436572726f206465206c6120476c6f726961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.965088099999996,
+          -25.24996069974315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador del Cerro Peró",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Department of Paraguari",
+        "city": "Paraguarí",
+        "postcode": "090103",
+        "district": "Barrio Segundo",
+        "street": "Acceso al Cerro Peró",
+        "iso3166_2": "PY-9",
+        "lon": -57.1480891,
+        "lat": -25.6147849,
+        "formatted": "Mirador del Cerro Peró, Acceso al Cerro Peró, 090103 Paraguarí, Paraguay",
+        "address_line1": "Mirador del Cerro Peró",
+        "address_line2": "Acceso al Cerro Peró, 090103 Paraguarí, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 206,
+            "name": "Mirador del Cerro Peró",
+            "osm_id": 2731647576,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 206,
+        "place_id": "5170b26895f4924cc059e43f0e8b629d39c0f00103f90158a2d1a2000000009203174d697261646f722064656c20436572726f20506572c3b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.14808909999999,
+          -25.614784899691486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ita Pytã Punta",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001008",
+        "district": "Itá Pytã Punta",
+        "street": "Plaza Mirador Ita Pyta Punta",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.6655857,
+        "lat": -25.2819639,
+        "formatted": "Ita Pytã Punta, Plaza Mirador Ita Pyta Punta, 001008 Asuncion, Paraguay",
+        "address_line1": "Ita Pytã Punta",
+        "address_line2": "Plaza Mirador Ita Pyta Punta, 001008 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ita Pytã Punta",
+            "osm_id": 2777030702,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b61787e931d54cc059a70740c92e4839c0f00103f9012e2086a50000000092030f49746120507974c3a32050756e7461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.665585699999994,
+          -25.281963899738596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro Koi",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "street": "Sendero Cerro Koi",
+        "iso3166_2": "PY-11",
+        "lon": -57.3972943,
+        "lat": -25.3245118,
+        "formatted": "Sendero Cerro Koi, Areguá, Paraguay",
+        "address_line1": "Sendero Cerro Koi",
+        "address_line2": "Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro Koi",
+            "osm_id": 3435626470,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5190b1248adab24cc05963048f34135339c0f00103f901e67fc7cc00000000920309436572726f204b6f69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3972943,
+          -25.324511799732488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piedra Hexagonal",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "street": "Sendero Cerro Koi",
+        "iso3166_2": "PY-11",
+        "lon": -57.3979592,
+        "lat": -25.3236943,
+        "formatted": "Piedra Hexagonal, Sendero Cerro Koi, Areguá, Paraguay",
+        "address_line1": "Piedra Hexagonal",
+        "address_line2": "Sendero Cerro Koi, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Piedra Hexagonal",
+            "osm_id": 3435636041,
+            "natural": "stone",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513992ba53f0b24cc059d5402fa1dd5239c0f00103f90149a5c7cc000000009203105069656472612048657861676f6e616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.39795920000001,
+          -25.323694299732626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paseo de ilustres",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "San Bernardino",
+        "postcode": "031602",
+        "street": "Avenida Luis F. Vache",
+        "iso3166_2": "PY-3",
+        "lon": -57.2953343,
+        "lat": -25.3128659,
+        "formatted": "Paseo de ilustres, Avenida Luis F. Vache, 031602 San Bernardino, Paraguay",
+        "address_line1": "Paseo de ilustres",
+        "address_line2": "Avenida Luis F. Vache, 031602 San Bernardino, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paseo de ilustres",
+            "osm_id": 3440301089,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518af1ab83cda54cc0594b64c7fa175039c0f00103f90121d40ecd00000000920311506173656f20646520696c757374726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.29533429999999,
+          -25.312865899734145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mirador",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Department of Paraguari",
+        "city": "Acahay",
+        "street": "Ruta Quiindy - Acahay",
+        "iso3166_2": "PY-9",
+        "lon": -57.1174755,
+        "lat": -25.913085,
+        "formatted": "mirador, Ruta Quiindy - Acahay, Acahay, Paraguay",
+        "address_line1": "mirador",
+        "address_line2": "Ruta Quiindy - Acahay, Acahay, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "mirador",
+            "osm_id": 3688356578,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51664aeb6f098f4cc0595ff743f0bfe939c0f00103f901e2dad7db000000009203076d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1174755,
+          -25.91308499965032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mbigua",
+        "country": "Argentina",
+        "country_code": "ar",
+        "state": "Formosa",
+        "county": "Departamento Pilcomayo",
+        "city": "Municipio de Laguna Naick Neck",
+        "postcode": "P3611",
+        "street": "Paseo Laguna Blanca",
+        "iso3166_2": "AR-P",
+        "lon": -58.1320371,
+        "lat": -25.1716393,
+        "state_code": "P",
+        "formatted": "Mbigua, Paseo Laguna Blanca, P3611 Municipio de Laguna Naick Neck, Argentina",
+        "address_line1": "Mbigua",
+        "address_line2": "Paseo Laguna Blanca, P3611 Municipio de Laguna Naick Neck, Argentina",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mbigua",
+            "osm_id": 3761089451,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e92d7997e6104dc0594d279b8df02b39c0f00103f901abab2de0000000009203064d6269677561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.1320371,
+          -25.171639299754407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre Català",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001101",
+        "district": "La Catedral",
+        "street": "Cerro Corá",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.6332277,
+        "lat": -25.2848729,
+        "formatted": "Centre Català, Cerro Corá, 001101 Asuncion, Paraguay",
+        "address_line1": "Centre Català",
+        "address_line2": "Cerro Corá, 001101 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centre Català",
+            "osm_id": 4259471289,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ed35f39a0dd14cc05961e42b6eed4839c0f00103f901b95fe2fd0000000092030e43656e74726520436174616cc3a0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6332277,
+          -25.284872899738165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alligator, Capibara, Tapir",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001519",
+        "street": "Avenida Artigas",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.5701545,
+        "lat": -25.2516952,
+        "formatted": "Alligator, Capibara, Tapir, Avenida Artigas, 001519 Asuncion, Paraguay",
+        "address_line1": "Alligator, Capibara, Tapir",
+        "address_line2": "Avenida Artigas, 001519 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Alligator, Capibara, Tapir",
+            "osm_id": 4322595596,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51699599d2fac84cc059b874bb186f4039c0f00103f9010c93a5010100000092031a416c6c696761746f722c2043617069626172612c205461706972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.57015450000001,
+          -25.251695199742898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de Jorge Sosa",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Luque",
+        "postcode": "110901",
+        "suburb": "Ykua Karanda'y",
+        "street": "Sub Oficial Mayor Ignacio R. Vera",
+        "iso3166_2": "PY-11",
+        "lon": -57.4833639,
+        "lat": -25.2343705,
+        "formatted": "Casa de Jorge Sosa, Sub Oficial Mayor Ignacio R. Vera, 110901 Luque, Paraguay",
+        "address_line1": "Casa de Jorge Sosa",
+        "address_line2": "Sub Oficial Mayor Ignacio R. Vera, 110901 Luque, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa de Jorge Sosa",
+            "osm_id": 4406002992,
+            "name:es": "Casa de Jorge Sosa",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Casa de Jorge Sosa"
+        },
+        "place_id": "51924847dedebd4cc059be8d7fb4ff3b39c0f00103f90130459e060100000092031243617361206465204a6f72676520536f7361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.483363899999986,
+          -25.234370499745403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Club de aviación de Yvytu",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "Ypacarai District",
+        "street": "Avenida Rodolfo Guillermo Naumann Limprich",
+        "iso3166_2": "PY-3",
+        "lon": -57.2544282,
+        "lat": -25.3565256,
+        "formatted": "Club de aviación de Yvytu, Avenida Rodolfo Guillermo Naumann Limprich, Ypacarai District, Paraguay",
+        "address_line1": "Club de aviación de Yvytu",
+        "address_line2": "Avenida Rodolfo Guillermo Naumann Limprich, Ypacarai District, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Club de aviación de Yvytu",
+            "osm_id": 4501290391,
+            "name:es": "Club de aviación de Yvytu",
+            "name:fr": "Club d'aviation d'Yvytu",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Club de aviación de Yvytu",
+          "fr": "Club d'aviation d'Yvytu"
+        },
+        "place_id": "510e176f1a91a04cc059ad04ff42455b39c0f00103f901973d4c0c0100000092031a436c756220646520617669616369c3b36e206465205976797475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.25442819999999,
+          -25.356525599727934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "loma san jeronimo",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001011",
+        "district": "Doctor Francia",
+        "street": "paseo Bulgarelli",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.6455669,
+        "lat": -25.2773046,
+        "formatted": "loma san jeronimo, paseo Bulgarelli, 001011 Asuncion, Paraguay",
+        "address_line1": "loma san jeronimo",
+        "address_line2": "paseo Bulgarelli, 001011 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "loma san jeronimo",
+            "osm_id": 4508983090,
+            "name:es": "loma san jeronimo",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "loma san jeronimo"
+        },
+        "place_id": "51a570a9efa1d24cc05910e92a6ffd4639c0f00103f901329fc10c010000009203116c6f6d612073616e206a65726f6e696d6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.645566899999984,
+          -25.27730459973924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arte y Marcos",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001206",
+        "district": "Jara",
+        "street": "Amistad",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.6018417,
+        "lat": -25.2802095,
+        "formatted": "Arte y Marcos, Amistad, 001206 Asuncion, Paraguay",
+        "address_line1": "Arte y Marcos",
+        "address_line2": "Amistad, 001206 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arte y Marcos",
+            "osm_id": 4536779689,
+            "name:es": "Arte y Marcos",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Arte y Marcos"
+        },
+        "place_id": "513d6f192609cd4cc05921684dcfbb4739c0f00103f901a9c3690e0100000092030d417274652079204d6172636f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6018417,
+          -25.28020949973882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warrior",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Luque",
+        "postcode": "110930",
+        "suburb": "Primer Barrio",
+        "street": "Calle Rosario",
+        "iso3166_2": "PY-11",
+        "lon": -57.4895756,
+        "lat": -25.2572603,
+        "formatted": "Warrior, Calle Rosario, 110930 Luque, Paraguay",
+        "address_line1": "Warrior",
+        "address_line2": "Calle Rosario, 110930 Luque, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Warrior",
+            "osm_id": 4606683091,
+            "name:es": "Warrior",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Warrior"
+        },
+        "place_id": "51b475cb69aabe4cc0599bf39dcfdb4139c0f00103f901d36794120100000092030757617272696f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.489575599999995,
+          -25.257260299742125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro Acahay",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Department of Paraguari",
+        "street": "Ruta Nacional PY18",
+        "iso3166_2": "PY-9",
+        "lon": -57.1562212,
+        "lat": -25.8857245,
+        "formatted": "Cerro Acahay, Ruta Nacional PY18, Department of Paraguari, Paraguay",
+        "address_line1": "Cerro Acahay",
+        "address_line2": "Ruta Nacional PY18, Department of Paraguari, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro Acahay",
+            "osm_id": 4697126890,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518e78680eff934cc059b6473fd7bee239c0f00103f901ea77f8170100000092030c436572726f20416361686179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.15622119999999,
+          -25.885724499654053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parador Cerro Acahay",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Department of Paraguari",
+        "street": "Ruta Nacional PY18",
+        "iso3166_2": "PY-9",
+        "lon": -57.1607762,
+        "lat": -25.8833263,
+        "formatted": "Parador Cerro Acahay, Ruta Nacional PY18, Department of Paraguari, Paraguay",
+        "address_line1": "Parador Cerro Acahay",
+        "address_line2": "Ruta Nacional PY18, Department of Paraguari, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parador Cerro Acahay",
+            "osm_id": 4697154589,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d27c845094944cc05954b620ac21e239c0f00103f9011de4f8170100000092031450617261646f7220436572726f20416361686179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.1607762,
+          -25.88332629965437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castellano Taller",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Ita District",
+        "street": "Nanawa",
+        "iso3166_2": "PY-11",
+        "lon": -57.3598527,
+        "lat": -25.5144778,
+        "formatted": "Castellano Taller, Nanawa, Ita District, Paraguay",
+        "address_line1": "Castellano Taller",
+        "address_line2": "Nanawa, Ita District, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Castellano Taller",
+            "osm_id": 4697345189,
+            "name:es": "Castellano Taller",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Castellano Taller"
+        },
+        "place_id": "514cf03ca70fae4cc059dd402cd1b48339c0f00103f901a5ccfb170100000092031143617374656c6c616e6f2054616c6c6572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.359852700000005,
+          -25.51447779970555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de Tía Nina",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "Santa Elena",
+        "street": "Ruta Itacurubí de la Cordillera - Santa Elena",
+        "iso3166_2": "PY-3",
+        "lon": -56.7960222,
+        "lat": -25.4177787,
+        "formatted": "Casa de Tía Nina, Ruta Itacurubí de la Cordillera - Santa Elena, Santa Elena, Paraguay",
+        "address_line1": "Casa de Tía Nina",
+        "address_line2": "Ruta Itacurubí de la Cordillera - Santa Elena, Santa Elena, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa de Tía Nina",
+            "osm_id": 4837260824,
+            "name:es": "Casa de Tía Nina",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Casa de Tía Nina"
+        },
+        "place_id": "51eaf1310ee4654cc0596c427c8bf36a39c0f00103f90118be522001000000920311436173612064652054c3ad61204e696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.796022199999996,
+          -25.41777869971922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salto Ingles",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Department of Paraguari",
+        "city": "Sapúcai district",
+        "village": "City of Arroyo Pora-Sub Urbano",
+        "postcode": "091301",
+        "suburb": "Neighborhood of Arroyo Pora (Sapucái)",
+        "quarter": "Neighborhood of San Blas",
+        "street": "Ruta Nacional Las Residentas",
+        "iso3166_2": "PY-9",
+        "lon": -56.9688946,
+        "lat": -25.6478589,
+        "formatted": "Salto Ingles, Ruta Nacional Las Residentas, 091301 Sapúcai district, Paraguay",
+        "address_line1": "Salto Ingles",
+        "address_line2": "Ruta Nacional Las Residentas, 091301 Sapúcai district, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Salto Ingles",
+            "osm_id": 4868392421,
+            "name:es": "Salto Ingles",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Salto Ingles"
+        },
+        "place_id": "51b122febc047c4cc059da93b214daa539c0f00103f901e5c52d220100000092030c53616c746f20496e676c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.968894600000006,
+          -25.647858899686845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Represa Salto Ingles",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Department of Paraguari",
+        "city": "Sapúcai district",
+        "postcode": "091301",
+        "suburb": "Neighborhood of Cerro Roke",
+        "quarter": "Neighborhood of Loma Guasu",
+        "street": "Ruta Km 92 - Cerro Roké -Valenzuela",
+        "iso3166_2": "PY-9",
+        "lon": -56.9685155,
+        "lat": -25.6470133,
+        "formatted": "Represa Salto Ingles, Ruta Km 92 - Cerro Roké -Valenzuela, 091301 Sapúcai district, Paraguay",
+        "address_line1": "Represa Salto Ingles",
+        "address_line2": "Ruta Km 92 - Cerro Roké -Valenzuela, 091301 Sapúcai district, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Represa Salto Ingles",
+            "osm_id": 4868392521,
+            "name:es": "Represa Salto Ingles",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Represa Salto Ingles"
+        },
+        "place_id": "51a515df50f87b4cc0598d3be2a9a2a539c0f00103f90149c62d2201000000920314526570726573612053616c746f20496e676c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.9685155,
+          -25.64701329968698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Don Fariña",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "Piribebuy",
+        "postcode": "031408",
+        "district": "Virgen de Rosario II",
+        "street": "Ruta Piribebuy - Itacurubí de la Cordillera",
+        "iso3166_2": "PY-3",
+        "lon": -56.9732639,
+        "lat": -25.4606449,
+        "formatted": "Casa Don Fariña, Ruta Piribebuy - Itacurubí de la Cordillera, 031408 Piribebuy, Paraguay",
+        "address_line1": "Casa Don Fariña",
+        "address_line2": "Ruta Piribebuy - Itacurubí de la Cordillera, 031408 Piribebuy, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa Don Fariña",
+            "osm_id": 4987110021,
+            "name:es": "Casa Don Fariña",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Casa Don Fariña"
+        },
+        "place_id": "514e7056e9937c4cc0594f56fbd2ec7539c0f00103f90185424129010000009203104361736120446f6e2046617269c3b161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.97326389999999,
+          -25.46064489971314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powerline Shop",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001013",
+        "district": "La Encarnación",
+        "street": "Juan Emiliano O'Leary",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.6382683,
+        "lat": -25.2797051,
+        "formatted": "Powerline Shop, Juan Emiliano O'Leary, 001013 Asuncion, Paraguay",
+        "address_line1": "Powerline Shop",
+        "address_line2": "Juan Emiliano O'Leary, 001013 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Powerline Shop",
+            "osm_id": 5002192622,
+            "name:es": "Powerline Shop",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Powerline Shop"
+        },
+        "place_id": "516a4991c6b2d14cc0592ae7dfc09a4739c0f00103f901ee66272a0100000092030e506f7765726c696e652053686f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.63826830000001,
+          -25.279705099738898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reredos San Josd (en restauration).",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "Valenzuela",
+        "street": "Ruta Valenzuela - Itacurubí de la Cordillera",
+        "iso3166_2": "PY-3",
+        "lon": -56.8707105,
+        "lat": -25.5932826,
+        "formatted": "Reredos San Josd (en restauration)., Ruta Valenzuela - Itacurubí de la Cordillera, Valenzuela, Paraguay",
+        "address_line1": "Reredos San Josd (en restauration).",
+        "address_line2": "Ruta Valenzuela - Itacurubí de la Cordillera, Valenzuela, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Reredos San Josd (en restauration).",
+            "osm_id": 5200100136,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5154e41071736f4cc05943f9525ee19739c0f00103f901283bf3350100000092032352657265646f732053616e204a6f73642028656e20726573746175726174696f6e292e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.8707105,
+          -25.593282599694486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escalinata de Areguá",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "San Roque",
+        "street": "Estero Bellaco",
+        "iso3166_2": "PY-11",
+        "lon": -57.3872852,
+        "lat": -25.3125392,
+        "formatted": "Escalinata de Areguá, Estero Bellaco, Areguá, Paraguay",
+        "address_line1": "Escalinata de Areguá",
+        "address_line2": "Estero Bellaco, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escalinata de Areguá",
+            "osm_id": 5324485222,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c71cba8f92b14cc0598e93a991025039c0f00103f90166325d3d01000000920315457363616c696e617461206465204172656775c3a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3872852,
+          -25.312539199734196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Rocas de San Miguel",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "San Miguel",
+        "street": "Doctor Gaspar R. de Francia",
+        "iso3166_2": "PY-11",
+        "lon": -57.3884478,
+        "lat": -25.3086175,
+        "formatted": "La Rocas de San Miguel, Doctor Gaspar R. de Francia, Areguá, Paraguay",
+        "address_line1": "La Rocas de San Miguel",
+        "address_line2": "Doctor Gaspar R. de Francia, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Rocas de San Miguel",
+            "osm_id": 5324485242,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51009a52a8b8b14cc0598755748e014f39c0f00103f9017a325d3d010000009203164c6120526f6361732064652053616e204d696775656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.388447799999994,
+          -25.308617499734762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arroyito Cassacia",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "Santo Domingo",
+        "street": "Doctor Gaspar R. de Francia",
+        "iso3166_2": "PY-11",
+        "lon": -57.3846125,
+        "lat": -25.3057241,
+        "formatted": "Arroyito Cassacia, Doctor Gaspar R. de Francia, Areguá, Paraguay",
+        "address_line1": "Arroyito Cassacia",
+        "address_line2": "Doctor Gaspar R. de Francia, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arroyito Cassacia",
+            "osm_id": 5324488422,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fe907efb3ab14cc05930f641ef434e39c0f00103f901e63e5d3d010000009203114172726f7969746f204361737361636961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.38461249999999,
+          -25.305724099735187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ycua Santo Domingo",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "Santo Domingo",
+        "street": "Avenida Mariscal José Félix Estigarribia",
+        "iso3166_2": "PY-11",
+        "lon": -57.3835759,
+        "lat": -25.3118468,
+        "formatted": "Ycua Santo Domingo, Avenida Mariscal José Félix Estigarribia, Areguá, Paraguay",
+        "address_line1": "Ycua Santo Domingo",
+        "address_line2": "Avenida Mariscal José Félix Estigarribia, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ycua Santo Domingo",
+            "osm_id": 5324488423,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515104dd0319b14cc05996381e31d54f39c0f00103f901e73e5d3d01000000920312596375612053616e746f20446f6d696e676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.38357589999999,
+          -25.31184679973429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Bosque Escondido",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "San Miguel",
+        "street": "Fray Luis de Bolaños",
+        "iso3166_2": "PY-11",
+        "lon": -57.3915746,
+        "lat": -25.3079967,
+        "formatted": "El Bosque Escondido, Fray Luis de Bolaños, Areguá, Paraguay",
+        "address_line1": "El Bosque Escondido",
+        "address_line2": "Fray Luis de Bolaños, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Bosque Escondido",
+            "osm_id": 5324488621,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51dd78d21d1fb24cc05919a328dfd84e39c0f00103f901ad3f5d3d01000000920313456c20426f73717565204573636f6e6469646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.39157459999999,
+          -25.307996699734847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drakkar Gym",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "Santo Domingo",
+        "street": "Gabriel Casaccia",
+        "iso3166_2": "PY-11",
+        "lon": -57.3846767,
+        "lat": -25.3081329,
+        "formatted": "Drakkar Gym, Gabriel Casaccia, Areguá, Paraguay",
+        "address_line1": "Drakkar Gym",
+        "address_line2": "Gabriel Casaccia, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Drakkar Gym",
+            "osm_id": 5324488628,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5141040b163db14cc059cd2e37cce14e39c0f00103f901b43f5d3d0100000092030b4472616b6b61722047796d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.38467670000001,
+          -25.308132899734847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avenida de las artesanias en Areguá",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "Santo Domingo",
+        "street": "Nuestra Señora de la Candelaria",
+        "iso3166_2": "PY-11",
+        "lon": -57.3838446,
+        "lat": -25.3097597,
+        "formatted": "Avenida de las artesanias en Areguá, Nuestra Señora de la Candelaria, Areguá, Paraguay",
+        "address_line1": "Avenida de las artesanias en Areguá",
+        "address_line2": "Nuestra Señora de la Candelaria, Areguá, Paraguay",
+        "categories": [
+          "commercial",
+          "commercial.art",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Avenida de las artesanias en Areguá",
+            "shop": "art",
+            "osm_id": 5324488634,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "art"
+        },
+        "place_id": "5184dfe1d121b14cc05996fa63694c4f39c0f00103f901ba3f5d3d010000009203244176656e696461206465206c6173206172746573616e69617320656e204172656775c3a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3838446,
+          -25.30975969973459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La casa de los atrapasueños",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "Santo Domingo",
+        "street": "Hermanas Dominicas",
+        "iso3166_2": "PY-11",
+        "lon": -57.3767822,
+        "lat": -25.3027553,
+        "formatted": "La casa de los atrapasueños, Hermanas Dominicas, Areguá, Paraguay",
+        "address_line1": "La casa de los atrapasueños",
+        "address_line2": "Hermanas Dominicas, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La casa de los atrapasueños",
+            "osm_id": 5324489221,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51835b2d663ab04cc0591c0e0f5f814d39c0f00103f90105425d3d0100000092031c4c612063617361206465206c6f7320617472617061737565c3b16f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3767822,
+          -25.302755299735608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los vagones viejos",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "Santo Domingo",
+        "street": "Panchito López",
+        "iso3166_2": "PY-11",
+        "lon": -57.3810538,
+        "lat": -25.3068728,
+        "formatted": "Los vagones viejos, Panchito López, Areguá, Paraguay",
+        "address_line1": "Los vagones viejos",
+        "address_line2": "Panchito López, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Los vagones viejos",
+            "osm_id": 5324489222,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511c82f45ec6b04cc059d8e43e378f4e39c0f00103f90106425d3d010000009203124c6f73207661676f6e6573207669656a6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.38105379999999,
+          -25.306872799735032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paseos de los artesanos",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "Santo Domingo",
+        "street": "Avenida Mariscal Francisco Solano López",
+        "iso3166_2": "PY-11",
+        "lon": -57.3807942,
+        "lat": -25.3105389,
+        "formatted": "Paseos de los artesanos, Avenida Mariscal Francisco Solano López, Areguá, Paraguay",
+        "address_line1": "Paseos de los artesanos",
+        "address_line2": "Avenida Mariscal Francisco Solano López, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paseos de los artesanos",
+            "osm_id": 5324489224,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d4c045ddbdb04cc059d57e327a7f4f39c0f00103f90108425d3d01000000920317506173656f73206465206c6f73206172746573616e6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3807942,
+          -25.310538899734485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palacio de los gemes",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "district": "Las Mercedes",
+        "street": "Avenida Gobernador Irala",
+        "iso3166_2": "PY-11",
+        "lon": -57.4062037,
+        "lat": -25.3023893,
+        "formatted": "Palacio de los gemes, Avenida Gobernador Irala, Areguá, Paraguay",
+        "address_line1": "Palacio de los gemes",
+        "address_line2": "Avenida Gobernador Irala, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Palacio de los gemes",
+            "osm_id": 5324489521,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d1819b7bfeb34cc05967069962694d39c0f00103f90131435d3d0100000092031450616c6163696f206465206c6f732067656d6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4062037,
+          -25.302389299735662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El muelle del lago",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Areguá",
+        "street": "Panchito López",
+        "iso3166_2": "PY-11",
+        "lon": -57.3733979,
+        "lat": -25.3021011,
+        "formatted": "El muelle del lago, Panchito López, Areguá, Paraguay",
+        "address_line1": "El muelle del lago",
+        "address_line2": "Panchito López, Areguá, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El muelle del lago",
+            "osm_id": 5324490123,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5190729c80cbaf4cc0595173677f564d39c0f00103f9018b455d3d01000000920312456c206d75656c6c652064656c206c61676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.373397899999986,
+          -25.302101099735697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakare kua",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "postcode": "030902",
+        "suburb": "Sol Naciente",
+        "street": "Ruta Valenzuela - Itacurubí de la Cordillera",
+        "iso3166_2": "PY-3",
+        "lon": -56.8922442,
+        "lat": -25.4765344,
+        "formatted": "Jakare kua, Ruta Valenzuela - Itacurubí de la Cordillera, 030902 Cordillera Department, Paraguay",
+        "address_line1": "Jakare kua",
+        "address_line2": "Ruta Valenzuela - Itacurubí de la Cordillera, 030902 Cordillera Department, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jakare kua",
+            "osm_id": 5501969921,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d985d50e35724cc0596a2d8e28fe7939c0f00103f9010166f1470100000092030a4a616b617265206b7561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.8922442,
+          -25.47653439971092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escalinata",
+        "country": "Paraguay",
+        "country_code": "py",
+        "state": "Distrito Capital",
+        "city": "Asuncion",
+        "postcode": "001011",
+        "district": "Doctor Francia",
+        "street": "paseo Bulgarelli",
+        "iso3166_2": "PY-ASU",
+        "iso3166_2_sublevel": "PY-ASU",
+        "lon": -57.6458951,
+        "lat": -25.2766698,
+        "formatted": "Escalinata, paseo Bulgarelli, 001011 Asuncion, Paraguay",
+        "address_line1": "Escalinata",
+        "address_line2": "paseo Bulgarelli, 001011 Asuncion, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escalinata",
+            "osm_id": 5506783922,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c692cdb0acd24cc059deabfdd4d34639c0f00103f901b2da3a480100000092030a457363616c696e617461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.645895100000004,
+          -25.276669799739345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Del Sol",
+        "country": "Argentina",
+        "country_code": "ar",
+        "state": "Formosa",
+        "county": "Departamento Pilcomayo",
+        "city": "Municipio de Laguna Naick Neck",
+        "postcode": "P3611",
+        "street": "Paseo Laguna Blanca",
+        "iso3166_2": "AR-P",
+        "lon": -58.1308285,
+        "lat": -25.1710866,
+        "state_code": "P",
+        "formatted": "Del Sol, Paseo Laguna Blanca, P3611 Municipio de Laguna Naick Neck, Argentina",
+        "address_line1": "Del Sol",
+        "address_line2": "Paseo Laguna Blanca, P3611 Municipio de Laguna Naick Neck, Argentina",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Del Sol",
+            "osm_id": 5543795653,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51407100fdbe104dc059b5bad654cc2b39c0f00103f901c59b6f4a0100000092030744656c20536f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.13082850000001,
+          -25.171086599754478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Figuras de antiguas pirámides egipcias",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "Emboscada",
+        "district": "Barrio Sol Naciente",
+        "street": "Altos",
+        "iso3166_2": "PY-3",
+        "lon": -57.3520017,
+        "lat": -25.1319613,
+        "formatted": "Figuras de antiguas pirámides egipcias, Altos, Emboscada, Paraguay",
+        "address_line1": "Figuras de antiguas pirámides egipcias",
+        "address_line2": "Altos, Emboscada, Paraguay",
+        "categories": [
+          "no_fee",
+          "no_fee.no",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "Figuras de antiguas pirámides egipcias",
+            "osm_id": 5555144622,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5176d146640ead4cc059adce3a37c82139c0f00103f901aec71c4b010000009203274669677572617320646520616e74696775617320706972c3a16d69646573206567697063696173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3520017,
+          -25.13196129976011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castillo el Peñón",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Limpio",
+        "district": "Piquete Cué",
+        "suburb": "Piquete Cué",
+        "street": "MARIA AUXILIADORA",
+        "iso3166_2": "PY-11",
+        "lon": -57.4820848,
+        "lat": -25.0994798,
+        "formatted": "Castillo el Peñón, MARIA AUXILIADORA, Limpio, Paraguay",
+        "address_line1": "Castillo el Peñón",
+        "address_line2": "MARIA AUXILIADORA, Limpio, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Castillo el Peñón",
+            "osm_id": 5557221012,
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "n",
+            "addr:city": "Limpio"
+          }
+        },
+        "historic": {
+          "type": "castle"
+        },
+        "place_id": "5109f368f4b4bd4cc0593f9a1682771939c0f00103f90194763c4b0100000092031343617374696c6c6f20656c205065c3b1c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4820848,
+          -25.09947979976482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yakaré Yrupé",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Limpio",
+        "district": "Piquete Cué",
+        "suburb": "Piquete Cué",
+        "street": "Del Maestro",
+        "iso3166_2": "PY-11",
+        "lon": -57.4739792,
+        "lat": -25.1124529,
+        "formatted": "Yakaré Yrupé, Del Maestro, Limpio, Paraguay",
+        "address_line1": "Yakaré Yrupé",
+        "address_line2": "Del Maestro, Limpio, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Yakaré Yrupé",
+            "osm_id": 5578517423,
+            "name:fr": "Nénuphars géants",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Nénuphars géants"
+        },
+        "place_id": "51fc7db559abbc4cc05979d296b6c91c39c0f00103f901af6b814c0100000092030e59616b6172c3a92059727570c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4739792,
+          -25.112452899762932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baroque ecclesia",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Department of Paraguari",
+        "city": "Jaguar District",
+        "postcode": "091502",
+        "street": "Capitán Remigio Cabral",
+        "iso3166_2": "PY-9",
+        "lon": -57.2845699,
+        "lat": -25.561688,
+        "formatted": "Baroque church, Capitán Remigio Cabral, 091502 Jaguar District, Paraguay",
+        "address_line1": "Baroque church",
+        "address_line2": "Capitán Remigio Cabral, 091502 Jaguar District, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Baroque ecclesia",
+            "osm_id": 5651683471,
+            "name:en": "Baroque church",
+            "name:es": "Iglesia barroca",
+            "name:it": "Chiesa barocca",
+            "name:ja": "バロック様式の教会",
+            "name:la": "Baroque ecclesia",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Baroque church",
+          "es": "Iglesia barroca",
+          "it": "Chiesa barocca",
+          "ja": "バロック様式の教会",
+          "la": "Baroque ecclesia"
+        },
+        "place_id": "5187f656c96ca44cc0593243e5c8ca8f39c0f00103f9018fd8dd50010000009203104261726f717565206563636c65736961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.2845699,
+          -25.56168799969891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dilapidated railway",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Central Department",
+        "city": "Ypacarai District",
+        "postcode": "111702",
+        "district": "La Victoria",
+        "street": "Calle Yegros",
+        "iso3166_2": "PY-11",
+        "lon": -57.2875498,
+        "lat": -25.4032917,
+        "formatted": "Dilapidated railway, Calle Yegros, 111702 Ypacarai District, Paraguay",
+        "address_line1": "Dilapidated railway",
+        "address_line2": "Calle Yegros, 111702 Ypacarai District, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dilapidated railway",
+            "osm_id": 5651685134,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51557c8d6ecea44cc059170df51f3e6739c0f00103f9010edfdd500100000092031344696c6170696461746564207261696c776179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.2875498,
+          -25.403291699721276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Iglesia",
+        "country": "Paraguay",
+        "country_code": "py",
+        "region": "Región Oriental",
+        "state": "Cordillera Department",
+        "city": "Caacupé",
+        "postcode": "030103",
+        "street": "Concepción",
+        "iso3166_2": "PY-3",
+        "lon": -57.141139,
+        "lat": -25.3862301,
+        "formatted": "Mirador de Iglesia, Concepción, 030103 Caacupé, Paraguay",
+        "address_line1": "Mirador de Iglesia",
+        "address_line2": "Concepción, 030103 Caacupé, Paraguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Iglesia",
+            "osm_id": 5651685135,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "description:payment": "GS.2000"
+          }
+        },
+        "place_id": "515798bed710924cc0594a0bcff9df6239c0f00103f9010fdfdd50010000009203124d697261646f722064652049676c65736961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.141139,
+          -25.386230099723697
+        ]
+      }
+    }
+  ]
+}

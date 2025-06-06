@@ -1,0 +1,5031 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кибер арена",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16092",
+        "district": "Bayangol",
+        "suburb": "Gandan",
+        "street": "Dilav Khutagt Jamsranjav street",
+        "housenumber": "Cyber Arena #1",
+        "iso3166_2": "MN-1",
+        "lon": 106.8715179,
+        "lat": 47.9178261,
+        "formatted": "Cyber arena, Gandan, Dilav Khutagt Jamsranjav street, Cyber Arena #1, 16092, Ulaanbaatar, Mongolia",
+        "address_line1": "Cyber arena",
+        "address_line2": "Gandan, Dilav Khutagt Jamsranjav street, Cyber Arena #1, 16092, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Кибер арена",
+            "phone": 91911272,
+            "osm_id": 4784031421,
+            "name:en": "Cyber arena",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "Cyber arena"
+        },
+        "contact": {
+          "phone": 91911272
+        },
+        "place_id": "513a9803f3c6b75a4059a05d5d537bf54740f00103f901bd86261d01000000920315d09ad0b8d0b1d0b5d18020d0b0d180d0b5d0bdd0b0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87151789999999,
+          47.91782609995721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Манзушри Хийд",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Bayanzürkh",
+        "street": "Blue Dots",
+        "iso3166_2": "MN-1",
+        "lon": 106.99276944514436,
+        "lat": 47.7634027,
+        "formatted": "Manjusri Monastery, Blue Dots, Ulaanbaatar, Mongolia",
+        "address_line1": "Manjusri Monastery",
+        "address_line2": "Blue Dots, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Манзушри Хийд",
+            "ruins": "yes",
+            "osm_id": 271049504,
+            "name:en": "Manjusri Monastery",
+            "tourism": "attraction",
+            "historic": "monastery",
+            "int_name": "Manzushir Khiid",
+            "osm_type": "w",
+            "wikidata": "Q148612",
+            "wikipedia": "mn:Манзушри Хийд"
+          }
+        },
+        "name_international": {
+          "en": "Manjusri Monastery"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q148612",
+          "wikipedia": "mn:Манзушри Хийд"
+        },
+        "historic": {
+          "type": "monastery",
+          "ruins": true
+        },
+        "place_id": "513cd7da8889bf5a40593013ff2db7e14740f00102f90120e3271000000000920319d09cd0b0d0bdd0b7d183d188d180d0b820d0a5d0b8d0b9d0b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.99276944514435,
+          47.763402699993435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tonyukuk inscriptions",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Erdene",
+        "street": "Local path",
+        "iso3166_2": "MN-047",
+        "lon": 107.47595004613888,
+        "lat": 47.69445265,
+        "formatted": "Tonyukuk inscriptions, Local path, Mongolia",
+        "address_line1": "Tonyukuk inscriptions",
+        "address_line2": "Local path, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tonyukuk inscriptions",
+            "osm_id": 333292094,
+            "barrier": "fence",
+            "name:tr": "Tonyukuk Yazıtı",
+            "tourism": "attraction",
+            "alt_name": "Bain Tsokto inscriptions",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "wikipedia": "en:Bain Tsokto inscriptions"
+          }
+        },
+        "name_other": {
+          "alt_name": "Bain Tsokto inscriptions"
+        },
+        "name_international": {
+          "tr": "Tonyukuk Yazıtı"
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Bain Tsokto inscriptions"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "518eac2ef775de5a405996340ed3e3d84740f00102f9013ea2dd1300000000920315546f6e79756b756b20696e736372697074696f6e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.47595004613888,
+          47.69445265000938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chingis khaanii Moritoi kheshee",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Erdene",
+        "city": "Ulaanbaatar",
+        "district": "Nalaikh",
+        "street": "A0501",
+        "iso3166_2": "MN-047",
+        "lon": 107.5297992,
+        "lat": 47.8081273,
+        "formatted": "Chingis khaanii Moritoi kheshee, A0501, Ulaanbaatar, Mongolia",
+        "address_line1": "Chingis khaanii Moritoi kheshee",
+        "address_line2": "A0501, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chingis khaanii Moritoi kheshee",
+            "height": 30,
+            "osm_id": 1827584329,
+            "statue": "equestrian",
+            "name:mn": "Чингис хааны морьт хөшөө",
+            "name:ru": "Монумент Чингисхану",
+            "name:zh": "成吉思汗马术雕像",
+            "tourism": "artwork",
+            "historic": "memorial",
+            "material": "metal",
+            "memorial": "statue",
+            "osm_type": "n",
+            "wikidata": "Q1165021",
+            "wikipedia": "en:Genghis Khan Equestrian Statue",
+            "artwork_type": "statue",
+            "subject:wikidata": "Q720",
+            "subject:wikipedia": "en:Genghis Khan"
+          }
+        },
+        "name_international": {
+          "mn": "Чингис хааны морьт хөшөө",
+          "ru": "Монумент Чингисхану",
+          "zh": "成吉思汗马术雕像"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1165021",
+          "wikipedia": "en:Genghis Khan Equestrian Statue"
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "519b5ce73ae8e15a4059443722b770e74740f00103f90149b9ee6c0000000092031f4368696e676973206b6861616e6969204d6f7269746f69206b686573686565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5297992,
+          47.808127299983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Цэцээ Гүн",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "iso3166_2": "MN-1",
+        "lon": 107.0026939,
+        "lat": 47.8083794,
+        "formatted": "Tsetsee Gun, Ulaanbaatar, Mongolia",
+        "address_line1": "Tsetsee Gun",
+        "address_line2": "Ulaanbaatar, Mongolia",
+        "categories": [
+          "natural",
+          "natural.mountain",
+          "natural.mountain.peak",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 2256,
+            "name": "Цэцээ Гүн",
+            "osm_id": 2355050258,
+            "name:en": "Tsetsee Gun",
+            "name:mn": "Цэцээ Гүн",
+            "natural": "peak",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "wikidata": "Q25631254"
+          }
+        },
+        "name_international": {
+          "en": "Tsetsee Gun",
+          "mn": "Цэцээ Гүн"
+        },
+        "ele": 2256,
+        "wiki_and_media": {
+          "wikidata": "Q25631254"
+        },
+        "place_id": "51841909232cc05a4059ecd7e6f978e74740f00103f90112375f8c00000000920311d0a6d18dd186d18dd18d20d093d2afd0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0026939,
+          47.808379399982954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Maitreya Statue",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Sergelen",
+        "city": "Zuunmod",
+        "street": "Зуунмод - Налайх",
+        "iso3166_2": "MN-047",
+        "lon": 107.104018463068,
+        "lat": 47.6686405,
+        "formatted": "The Maitreya Statue, Зуунмод - Налайх, Zuunmod, Mongolia",
+        "address_line1": "The Maitreya Statue",
+        "address_line2": "Зуунмод - Налайх, Zuunmod, Mongolia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Maitreya Statue",
+            "image": "https://www.reddit.com/r/mongolia/comments/1d8q5rm/maidar_maitreya_city_is_still_under_construction/",
+            "osm_id": 1227463108,
+            "statue": "buddha",
+            "commons": "File:Maidar_City_Juni_2019.jpg",
+            "tourism": "artwork",
+            "building": "construction",
+            "osm_type": "w",
+            "religion": "buddhist",
+            "artwork_type": "statue",
+            "construction": "religious",
+            "construction:building": "religious"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://www.reddit.com/r/mongolia/comments/1d8q5rm/maidar_maitreya_city_is_still_under_construction/"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "building": {
+          "type": "construction"
+        },
+        "place_of_worship": {
+          "religion": "buddhist"
+        },
+        "place_id": "51aa430e3da8c65a40596a2c0c0396d54740f00102f901c499294900000000920313546865204d6169747265796120537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.104018463068,
+          47.66864050001534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portrait of Genghis Khan",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17012",
+        "district": "Khan-Uul",
+        "suburb": "Zaisan",
+        "street": "Дүнжингаравын гудамж",
+        "lon": 106.92641282726177,
+        "lat": 47.885664000000006,
+        "formatted": "Portrait of Genghis Khan, Zaisan, Дүнжингаравын гудамж, 17012, Ulaanbaatar, Mongolia",
+        "address_line1": "Portrait of Genghis Khan",
+        "address_line2": "Zaisan, Дүнжингаравын гудамж, 17012, Ulaanbaatar, Mongolia",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Portrait of Genghis Khan",
+            "osm_id": 165709696,
+            "tourism": "attraction",
+            "historic": "monument",
+            "man_made": "geoglyph",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "monument",
+          "object_type": "geoglyph"
+        },
+        "place_id": "51caeb06594abb5a4059f28b1d705df14740f00102f9018087e00900000000920318506f727472616974206f662047656e67686973204b68616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.92641282726177,
+          47.88566399996479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Dancer",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Erdene",
+        "iso3166_2": "MN-047",
+        "lon": 107.61440307352667,
+        "lat": 47.88483255,
+        "formatted": "White Dancer, Erdene, Mongolia",
+        "address_line1": "White Dancer",
+        "address_line2": "Erdene, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "White Dancer",
+            "osm_id": 413981323,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51f7d6446152e75a40599844683142f14740f00102f9018bdaac180000000092030c57686974652044616e636572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61440307352665,
+          47.88483254996498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Битлзийн хөшөө",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15710",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Б.Цэрэндоржийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9065775,
+        "lat": 47.9154519,
+        "formatted": "The Statue of Beatles, Baga Toirog, Б.Цэрэндоржийн гудамж, 15710, Ulaanbaatar, Mongolia",
+        "address_line1": "The Statue of Beatles",
+        "address_line2": "Baga Toirog, Б.Цэрэндоржийн гудамж, 15710, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Битлзийн хөшөө",
+            "osm_id": 1241687106,
+            "name:en": "The Statue of Beatles",
+            "tourism": "artwork",
+            "material": "metal",
+            "memorial": "statue",
+            "osm_type": "n",
+            "start_date": "2008-10-29",
+            "inscription": "The statue was erected on John Lennon’s birthday in 2008.",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "The Statue of Beatles"
+        },
+        "artwork": {
+          "artwork_type": "statue",
+          "start_date": "2008-10-29"
+        },
+        "place_id": "518572a25d05ba5a40599ab021872df54740f00103f90142a4024a0000000092031bd091d0b8d182d0bbd0b7d0b8d0b9d0bd20d185d3a9d188d3a9d3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90657749999998,
+          47.91545189995777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "façade mural",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "Chinggis Avenue",
+        "iso3166_2": "MN-1",
+        "lon": 106.9090108,
+        "lat": 47.9016188,
+        "formatted": "façade mural, Chinggis Avenue, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "façade mural",
+        "address_line2": "Chinggis Avenue, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "façade mural",
+            "osm_id": 1247498109,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517d6da23b2dba5a40594fa5ad3e68f34740f00103f9017d4f5b4a0000000092030d6661c3a7616465206d7572616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90901079999999,
+          47.90161879996105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "façade mural",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "D.Chimed-Osor street",
+        "housenumber": "1",
+        "iso3166_2": "MN-1",
+        "lon": 106.9100713,
+        "lat": 47.9043144,
+        "formatted": "façade mural, D.Chimed-Osor street, 1, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "façade mural",
+        "address_line2": "D.Chimed-Osor street, 1, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "façade mural",
+            "osm_id": 1273184986,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51cda1b19b3eba5a4059dd900293c0f34740f00103f901da42e34b0000000092030d6661c3a7616465206d7572616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91007129999998,
+          47.90431439996039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "football",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "Наадмын талбайн зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.9153334,
+        "lat": 47.9001829,
+        "formatted": "Mongolian Football Association, Наадмын талбайн зам, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "Mongolian Football Association",
+        "address_line2": "Наадмын талбайн зам, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "football",
+            "osm_id": 1338433724,
+            "name:en": "Mongolian Football Association",
+            "name:mn": "Монголын хөлбөмбөгийн холбоо",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mongolian Football Association",
+          "mn": "Монголын хөлбөмбөгийн холбоо"
+        },
+        "place_id": "51ef7b8ad294ba5a405953e0793139f34740f00103f901bce0c64f00000000920308666f6f7462616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9153334,
+          47.90018289996137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ю. Цэдэнбалын хөшөө",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14321",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Chinggis Avenue",
+        "iso3166_2": "MN-1",
+        "lon": 106.9152091,
+        "lat": 47.915319,
+        "formatted": "Ю. Цэдэнбалын хөшөө, Baga Toirog, Chinggis Avenue, 14321, Ulaanbaatar, Mongolia",
+        "address_line1": "Ю. Цэдэнбалын хөшөө",
+        "address_line2": "Baga Toirog, Chinggis Avenue, 14321, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details.artwork",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ю. Цэдэнбалын хөшөө",
+            "osm_id": 1477522566,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "Улаанбаатар",
+            "wheelchair": "limited",
+            "addr:street": "Чингисийн өргөн чөлөө",
+            "artwork_type": "statue",
+            "toilets:wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          },
+          "toilets": false
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51196030c992ba5a4059f31c492c29f54740f00103f9018634115800000000920323d0ae2e20d0a6d18dd0b4d18dd0bdd0b1d0b0d0bbd18bd0bd20d185d3a9d188d3a9d3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91520909999998,
+          47.9153189999578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Design Park",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16094",
+        "district": "Songino Khairkhan",
+        "suburb": "1-р хороолол",
+        "street": "AH3",
+        "iso3166_2": "MN-1",
+        "lon": 106.8240352,
+        "lat": 47.9116945,
+        "formatted": "Design Park, 1-р хороолол, AH3, 16094, Ulaanbaatar, Mongolia",
+        "address_line1": "Design Park",
+        "address_line2": "1-р хороолол, AH3, 16094, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Design Park",
+            "osm_id": 1692117702,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512db022febcb45a4059fda1c667b2f44740f00103f901c6aadb640000000092030b44657369676e205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82403519999998,
+          47.911694499958664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artwork Of Youngsters",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17010",
+        "district": "Khan-Uul",
+        "street": "Mahatma Gandhi Street",
+        "iso3166_2": "MN-1",
+        "lon": 106.9214327,
+        "lat": 47.9055358,
+        "formatted": "Artwork Of Youngsters, Mahatma Gandhi Street, 17010, Ulaanbaatar, Mongolia",
+        "address_line1": "Artwork Of Youngsters",
+        "address_line2": "Mahatma Gandhi Street, 17010, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Artwork Of Youngsters",
+            "osm_id": 1784384901,
+            "tourism": "artwork",
+            "alt_name": "Art of Youngsters",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "Art of Youngsters"
+        },
+        "place_id": "51c1fddbc0f8ba5a4059ca17db98e8f34740f00103f901858d5b6a00000000920315417274776f726b204f6620596f756e677374657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.92143269999998,
+          47.905535799960106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amar Agent-Oriflame-102",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16094",
+        "district": "Songino Khairkhan",
+        "suburb": "1-р хороолол",
+        "street": "Barilgachdyn street",
+        "iso3166_2": "MN-1",
+        "lon": 106.8373232,
+        "lat": 47.9139001,
+        "formatted": "Amar Agent-Oriflame-102, 1-р хороолол, Barilgachdyn street, 16094, Ulaanbaatar, Mongolia",
+        "address_line1": "Amar Agent-Oriflame-102",
+        "address_line2": "1-р хороолол, Barilgachdyn street, 16094, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Amar Agent-Oriflame-102",
+            "osm_id": 2284095931,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a70b0cb496b55a4059d090b0adfaf44740f00103f901bb89248800000000920317416d6172204167656e742d4f7269666c616d652d313032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8373232,
+          47.91390009995814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "УРЛАН студи",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13335",
+        "district": "Bayanzürkh",
+        "suburb": "Tsayz",
+        "street": "Peace Avenue",
+        "iso3166_2": "MN-1",
+        "lon": 106.962014,
+        "lat": 47.9162846,
+        "formatted": "УРЛАН студи, Tsayz, Peace Avenue, 13335, Ulaanbaatar, Mongolia",
+        "address_line1": "УРЛАН студи",
+        "address_line2": "Tsayz, Peace Avenue, 13335, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "УРЛАН студи",
+            "osm_id": 2292524468,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d2122ba391bd5a4059b85253d048f54740f00103f901b425a58800000000920315d0a3d0a0d09bd090d09d20d181d182d183d0b4d0b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.96201399999998,
+          47.91628459995758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Цайз зах",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13320",
+        "district": "Bayanzürkh",
+        "suburb": "Tsayz",
+        "street": "Да хүрээ гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9747268,
+        "lat": 47.9244238,
+        "formatted": "Цайз зах, Tsayz, Да хүрээ гудамж, 13320, Ulaanbaatar, Mongolia",
+        "address_line1": "Цайз зах",
+        "address_line2": "Tsayz, Да хүрээ гудамж, 13320, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Цайз зах",
+            "osm_id": 2293162050,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51392284ec61be5a40590e3ae28453f64740f00103f90142e0ae880000000092030fd0a6d0b0d0b9d0b720d0b7d0b0d185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9747268,
+          47.92442379995565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MONTSAME News Agency",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14200",
+        "district": "Chingeltei",
+        "street": "Ц.Жигжиджавын гудамж",
+        "lon": 106.9148661,
+        "lat": 47.9195922,
+        "formatted": "MONTSAME News Agency, Ц.Жигжиджавын гудамж, 14200, Ulaanbaatar, Mongolia",
+        "address_line1": "MONTSAME News Agency",
+        "address_line2": "Ц.Жигжиджавын гудамж, 14200, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "MONTSAME News Agency",
+            "osm_id": 2293325338,
+            "name:mn": "МОНЦАМЭ Агентлаг",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "МОНЦАМЭ Агентлаг"
+        },
+        "place_id": "5105ee8a2a8dba5a40594b3c7c32b5f54740f00103f9011a5eb188000000009203144d4f4e5453414d45204e657773204167656e6379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9148661,
+          47.919592199956774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airlink Mongolia LL",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14200",
+        "district": "Chingeltei",
+        "street": "Ц.Жигжиджавын гудамж",
+        "lon": 106.9149952,
+        "lat": 47.9195472,
+        "formatted": "Airlink Mongolia LL, Ц.Жигжиджавын гудамж, 14200, Ulaanbaatar, Mongolia",
+        "address_line1": "Airlink Mongolia LL",
+        "address_line2": "Ц.Жигжиджавын гудамж, 14200, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Airlink Mongolia LL",
+            "osm_id": 2293325340,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ceff06488fba5a4059af78ffb8b3f54740f00103f9011c5eb188000000009203134169726c696e6b204d6f6e676f6c6961204c4c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91499519999999,
+          47.9195471999568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Эн Ти Ви Телевиз",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "Чингисийн өргөн чөлөө",
+        "iso3166_2": "MN-1",
+        "lon": 106.9027616,
+        "lat": 47.8987248,
+        "formatted": "NTV Television, Чингисийн өргөн чөлөө, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "NTV Television",
+        "address_line2": "Чингисийн өргөн чөлөө, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Эн Ти Ви Телевиз",
+            "osm_id": 2299480423,
+            "name:en": "NTV Television",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "NTV Television"
+        },
+        "place_id": "516b0597d8c6b95a405949f80b6a09f34740f00103f90167490f890000000092031dd0add0bd20d0a2d0b820d092d0b820d0a2d0b5d0bbd0b5d0b2d0b8d0b7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9027616,
+          47.89872479996172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsog deed surguuli",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "Чингисийн өргөн чөлөө",
+        "iso3166_2": "MN-1",
+        "lon": 106.8976949,
+        "lat": 47.8982709,
+        "formatted": "Tsog deed surguuli, Чингисийн өргөн чөлөө, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "Tsog deed surguuli",
+        "address_line2": "Чингисийн өргөн чөлөө, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tsog deed surguuli",
+            "osm_id": 2306249800,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514d524fd573b95a40596c24758afaf24740f00103f901489476890000000092031254736f672064656564207375726775756c69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.89769489999999,
+          47.89827089996183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALS Minerals and Geochemistry - Mongolia",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "Чингисийн өргөн чөлөө",
+        "iso3166_2": "MN-1",
+        "lon": 106.8989019,
+        "lat": 47.8964528,
+        "formatted": "ALS Minerals and Geochemistry - Mongolia, Чингисийн өргөн чөлөө, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "ALS Minerals and Geochemistry - Mongolia",
+        "address_line2": "Чингисийн өргөн чөлөө, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ALS Minerals and Geochemistry - Mongolia",
+            "osm_id": 2306252783,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fcb3d59b87b95a40596e1f21f7bef24740f00103f901ef9f768900000000920328414c53204d696e6572616c7320616e642047656f6368656d6973747279202d204d6f6e676f6c6961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8989019,
+          47.89645279996226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khan-Uul Traffic Police Office",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17000",
+        "district": "Khan-Uul",
+        "street": "Чингисийн өргөн чөлөө",
+        "iso3166_2": "MN-1",
+        "lon": 106.8930172,
+        "lat": 47.8976127,
+        "formatted": "Khan-Uul Traffic Police Office, Чингисийн өргөн чөлөө, 17000, Ulaanbaatar, Mongolia",
+        "address_line1": "Khan-Uul Traffic Police Office",
+        "address_line2": "Чингисийн өргөн чөлөө, 17000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khan-Uul Traffic Police Office",
+            "osm_id": 2306263929,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fe309d3127b95a4059cf6713f9e4f24740f00103f90179cb76890000000092031e4b68616e2d55756c205472616666696320506f6c696365204f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8930172,
+          47.89761269996199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Sergelen",
+        "street": "Nogoon Doviin Davaa",
+        "iso3166_2": "MN-047",
+        "lon": 106.7205702,
+        "lat": 47.3983983,
+        "formatted": "Nogoon Doviin Davaa, Mongolia",
+        "address_line1": "Nogoon Doviin Davaa",
+        "address_line2": "Mongolia",
+        "name": "Nogoon Doviin Davaa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nogoon Doviin Davaa",
+            "osm_id": 2319073440,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5138de78d21dae5a405907ce2ab7feb24740f00103f901a0403a8a000000009203134e6f676f6f6e20446f7669696e204461766161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7205702,
+          47.39839830007627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шинжлэх ухааны академи",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13331",
+        "district": "Bayanzürkh",
+        "suburb": "Tsayz",
+        "street": "Peace Avenue",
+        "housenumber": "54B",
+        "iso3166_2": "MN-1",
+        "lon": 106.9714257,
+        "lat": 47.9154697,
+        "formatted": "Шинжлэх ухааны академи, Tsayz, Peace Avenue, 54B, 13331, Ulaanbaatar, Mongolia",
+        "address_line1": "Шинжлэх ухааны академи",
+        "address_line2": "Tsayz, Peace Avenue, 54B, 13331, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Шинжлэх ухааны академи",
+            "osm_id": 2320638245,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519bffb2d62bbe5a405917e6721c2ef54740f00103f9012521528a0000000092032ad0a8d0b8d0bdd0b6d0bbd18dd18520d183d185d0b0d0b0d0bdd18b20d0b0d0bad0b0d0b4d0b5d0bcd0b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.97142569999998,
+          47.915469699957775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongolia Travel Guide",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15020",
+        "district": "Chingeltei",
+        "street": "Д.Сүхбаатарын гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9142525,
+        "lat": 47.9275406,
+        "formatted": "Mongolia Travel Guide, Д.Сүхбаатарын гудамж, 15020, Ulaanbaatar, Mongolia",
+        "address_line1": "Mongolia Travel Guide",
+        "address_line2": "Д.Сүхбаатарын гудамж, 15020, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mongolia Travel Guide",
+            "osm_id": 2321489227,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5152f2ea1c83ba5a405961427fa6b9f64740f00103f9014b1d5f8a000000009203154d6f6e676f6c69612054726176656c204775696465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9142525,
+          47.927540599954916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Монголын Зохиолчдын Эвлэл",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15020",
+        "district": "Chingeltei",
+        "street": "Д.Сүхбаатарын гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9143115,
+        "lat": 47.9271524,
+        "formatted": "Union of Mongolian Writers, Д.Сүхбаатарын гудамж, 15020, Ulaanbaatar, Mongolia",
+        "address_line1": "Union of Mongolian Writers",
+        "address_line2": "Д.Сүхбаатарын гудамж, 15020, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Монголын Зохиолчдын Эвлэл",
+            "osm_id": 2321489229,
+            "name:en": "Union of Mongolian Writers",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Union of Mongolian Writers"
+        },
+        "place_id": "51d4b6611484ba5a4059781b0aeeacf64740f00103f9014d1d5f8a00000000920330d09cd0bed0bdd0b3d0bed0bbd18bd0bd20d097d0bed185d0b8d0bed0bbd187d0b4d18bd0bd20d0add0b2d0bbd18dd0bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9143115,
+          47.92715239995499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нийслэлийн онцгой байдлын газар",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15171",
+        "district": "Chingeltei",
+        "street": "Ж.Самбуугийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9086191,
+        "lat": 47.9223511,
+        "formatted": "Fire Station, Ж.Самбуугийн гудамж, 15171, Ulaanbaatar, Mongolia",
+        "address_line1": "Fire Station",
+        "address_line2": "Ж.Самбуугийн гудамж, 15171, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Нийслэлийн онцгой байдлын газар",
+            "osm_id": 2321491013,
+            "name:en": "Fire Station",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Fire Station"
+        },
+        "place_id": "5157c1b9d026ba5a4059e0ded0990ff64740f00103f90145245f8a0000000092033bd09dd0b8d0b9d181d0bbd18dd0bbd0b8d0b9d0bd20d0bed0bdd186d0b3d0bed0b920d0b1d0b0d0b9d0b4d0bbd18bd0bd20d0b3d0b0d0b7d0b0d180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9086191,
+          47.92235109995613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fresco Bayan Mongol",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13312",
+        "district": "Bayanzürkh",
+        "street": "Хүннүгийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9342575,
+        "lat": 47.9053529,
+        "formatted": "Fresco Bayan Mongol, Хүннүгийн гудамж, 13312, Ulaanbaatar, Mongolia",
+        "address_line1": "Fresco Bayan Mongol",
+        "address_line2": "Хүннүгийн гудамж, 13312, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fresco Bayan Mongol",
+            "osm_id": 2321612873,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bc22f8dfcabb5a40597455949ae2f34740f00103f9014900618a0000000092031346726573636f20426179616e204d6f6e676f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9342575,
+          47.90535289996015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gamma Photo Agency",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15141",
+        "district": "Chingeltei",
+        "street": "С.Данзангийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9123404,
+        "lat": 47.9237252,
+        "formatted": "Gamma Photo Agency, С.Данзангийн гудамж, 15141, Ulaanbaatar, Mongolia",
+        "address_line1": "Gamma Photo Agency",
+        "address_line2": "С.Данзангийн гудамж, 15141, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gamma Photo Agency",
+            "osm_id": 2321753378,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517434fdc863ba5a405991269aa03cf64740f00103f9012225638a0000000092031247616d6d612050686f746f204167656e6379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9123404,
+          47.92372519995582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art House Center",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "40000",
+        "district": "Chingeltei",
+        "street": "Juulchny Street",
+        "lon": 106.9071362,
+        "lat": 47.9202546,
+        "formatted": "Art House Center, Juulchny Street, 40000, Ulaanbaatar, Mongolia",
+        "address_line1": "Art House Center",
+        "address_line2": "Juulchny Street, 40000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Art House Center",
+            "osm_id": 2321808642,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wheelchair": "limited",
+            "toilets:wheelchair": "no",
+            "wheelchair:description": "Налуу шат 1:2, Цахилгаан шат шаардлага хангасан, Хаалга 100см, Жорлон шаардлага хангахгүй, Босго 2,5см"
+          }
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited",
+            "description": "Налуу шат 1:2, Цахилгаан шат шаардлага хангасан, Хаалга 100см, Жорлон шаардлага хангахгүй, Босго 2,5см"
+          },
+          "toilets": false
+        },
+        "place_id": "512101fe840eba5a4059556719e7caf54740f00103f90102fd638a0000000092031041727420486f7573652043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90713619999998,
+          47.92025459995663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нийслэлийн шүүх",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "40000",
+        "district": "Chingeltei",
+        "street": "Juulchny Street",
+        "lon": 106.9071811,
+        "lat": 47.9205589,
+        "formatted": "Нийслэлийн шүүх, Juulchny Street, 40000, Ulaanbaatar, Mongolia",
+        "address_line1": "Нийслэлийн шүүх",
+        "address_line2": "Juulchny Street, 40000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Нийслэлийн шүүх",
+            "osm_id": 2321808655,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "wheelchair": "limited",
+            "toilets:wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          },
+          "toilets": false
+        },
+        "place_id": "51270351410fba5a405978adc0dfd4f54740f00103f9010ffd638a0000000092031dd09dd0b8d0b9d181d0bbd18dd0bbd0b8d0b9d0bd20d188d2afd2afd185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90718109999999,
+          47.920558899956575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wagner Asia Automotive LLC",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14253",
+        "district": "Sükhbaatar",
+        "street": "Нарны зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.9030022,
+        "lat": 47.9089115,
+        "formatted": "Wagner Asia Automotive LLC, Нарны зам, 14253, Ulaanbaatar, Mongolia",
+        "address_line1": "Wagner Asia Automotive LLC",
+        "address_line2": "Нарны зам, 14253, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wagner Asia Automotive LLC",
+            "osm_id": 2321950631,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d34dbdc9cab95a40594ca4473657f44740f00103f901a727668a0000000092031a5761676e65722041736961204175746f6d6f74697665204c4c43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90300219999999,
+          47.908911499959316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\"Харгант Цамхаг\" Групп",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "25000",
+        "district": "Bayangol",
+        "street": "Peace Avenue",
+        "iso3166_2": "MN-1",
+        "lon": 106.8578217,
+        "lat": 47.9136636,
+        "formatted": "Supernova full body diognizis center, Peace Avenue, 25000, Ulaanbaatar, Mongolia",
+        "address_line1": "Supernova full body diognizis center",
+        "address_line2": "Peace Avenue, 25000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "\"Харгант Цамхаг\" Групп",
+            "osm_id": 2322020824,
+            "name:en": "Supernova full body diognizis center",
+            "name:mn": "Супернова бүтэн биеийн урьдчилсан сэргийлэх оношилгоо",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Supernova full body diognizis center",
+          "mn": "Супернова бүтэн биеийн урьдчилсан сэргийлэх оношилгоо"
+        },
+        "place_id": "5125d3fc8ce6b65a4059dcaec8edf2f44740f00103f901d839678a0000000092032822d0a5d0b0d180d0b3d0b0d0bdd18220d0a6d0b0d0bcd185d0b0d0b32220d093d180d183d0bfd0bf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8578217,
+          47.9136635999582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zuslan",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Sükhbaatar",
+        "suburb": "Шаргаморьт",
+        "street": "Шаргаморьтийн лагерийн зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.9423291,
+        "lat": 48.0703927,
+        "formatted": "Zuslan, Шаргаморьт, Шаргаморьтийн лагерийн зам, Ulaanbaatar, Mongolia",
+        "address_line1": "Zuslan",
+        "address_line2": "Шаргаморьт, Шаргаморьтийн лагерийн зам, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zuslan",
+            "osm_id": 2323033985,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516ca4b61e4fbc5a4059c404c4a002094840f00103f90181af768a000000009203065a75736c616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9423291,
+          48.07039269992086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayan Davaa",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Erdene",
+        "city": "Erdene",
+        "street": "A0501",
+        "iso3166_2": "MN-047",
+        "lon": 107.6492681,
+        "lat": 47.7788522,
+        "formatted": "Bayan Davaa, A0501, Erdene, Mongolia",
+        "address_line1": "Bayan Davaa",
+        "address_line2": "A0501, Erdene, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bayan Davaa",
+            "osm_id": 2343271021,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5182f5c99b8de95a4059dfafcb6db1e34740f00103f9016d7aab8b0000000092030b426179616e204461766161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6492681,
+          47.778852199989835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 point starts from Manzushir",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Bayanzürkh",
+        "street": "Blue Dots",
+        "iso3166_2": "MN-1",
+        "lon": 106.9956576,
+        "lat": 47.7656159,
+        "formatted": "1 point starts from Manzushir, Blue Dots, Ulaanbaatar, Mongolia",
+        "address_line1": "1 point starts from Manzushir",
+        "address_line2": "Blue Dots, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "1 point starts from Manzushir",
+            "osm_id": 2355049934,
+            "name:mn": "1 point starts from Manzushir",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "1 point starts from Manzushir"
+        },
+        "place_id": "51e380a7dab8bf5a405933e2a9b3ffe14740f00103f901ce355f8c0000000092031d3120706f696e74207374617274732066726f6d204d616e7a7573686972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9956576,
+          47.765615899992916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chingeltein Khot Tokhijuulakh",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15110",
+        "district": "Chingeltei",
+        "street": "Самбалхүндэвийн зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.9011534,
+        "lat": 47.9431985,
+        "formatted": "Chingeltein Khot Tokhijuulakh, Самбалхүндэвийн зам, 15110, Ulaanbaatar, Mongolia",
+        "address_line1": "Chingeltein Khot Tokhijuulakh",
+        "address_line2": "Самбалхүндэвийн зам, 15110, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chingeltein Khot Tokhijuulakh",
+            "osm_id": 2371627860,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51786b4f7facb95a405999767bbabaf84740f00103f901542b5c8d0000000092031d4368696e67656c7465696e204b686f7420546f6b68696a75756c616b68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9011534,
+          47.94319849995117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khuchit shonkhor zakh",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15110",
+        "district": "Chingeltei",
+        "street": "Самбалхүндэвийн зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.9029022,
+        "lat": 47.9426918,
+        "formatted": "Khuchit shonkhor zakh, Самбалхүндэвийн зам, 15110, Ulaanbaatar, Mongolia",
+        "address_line1": "Khuchit shonkhor zakh",
+        "address_line2": "Самбалхүндэвийн зам, 15110, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khuchit shonkhor zakh",
+            "osm_id": 2371627876,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51221f4f26c9b95a4059c77ff91faaf84740f00103f901642b5c8d000000009203154b6875636869742073686f6e6b686f72207a616b68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9029022,
+          47.94269179995131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M zogsool",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Argalant",
+        "city": "Ulaanbaatar",
+        "district": "Songino Khairkhan",
+        "street": "A0301",
+        "iso3166_2": "MN-047",
+        "lon": 106.4981662,
+        "lat": 47.9172446,
+        "formatted": "M zogsool, A0301, Ulaanbaatar, Mongolia",
+        "address_line1": "M zogsool",
+        "address_line2": "A0301, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "M zogsool",
+            "osm_id": 2389073290,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513f3e7cf4e19f5a4059eb9f634568f54740f00103f9018a5d668e000000009203094d207a6f67736f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4981662,
+          47.917244599957336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Их Эрч ХХК",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16094",
+        "district": "Bayangol",
+        "street": "Moscow street",
+        "iso3166_2": "MN-1",
+        "lon": 106.8339766,
+        "lat": 47.9106979,
+        "formatted": "Их Эрч ХХК, Moscow street, 16094, Ulaanbaatar, Mongolia",
+        "address_line1": "Их Эрч ХХК",
+        "address_line2": "Moscow street, 16094, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Их Эрч ХХК",
+            "osm_id": 2389170482,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5145a863df5fb55a4059fe6db0bf91f44740f00103f90132d9678e00000000920312d098d18520d0add180d18720d0a5d0a5d09a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83397659999999,
+          47.91069789995889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guntiin davaa",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Chingeltei",
+        "iso3166_2": "MN-1",
+        "lon": 106.8419718,
+        "lat": 48.0799454,
+        "formatted": "Guntiin davaa, Ulaanbaatar, Chingeltei, Mongolia",
+        "address_line1": "Guntiin davaa",
+        "address_line2": "Ulaanbaatar, Chingeltei, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Guntiin davaa",
+            "osm_id": 2400015156,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51df49b0dde2b55a4059d40e9fa63b0a4840f00103f90134530d8f0000000092030d47756e7469696e206461766161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8419718,
+          48.07994539991856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ж.Батмөнхийн хөшөө",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14192",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Baga Toiruu street",
+        "iso3166_2": "MN-1",
+        "lon": 106.9211077,
+        "lat": 47.9256531,
+        "formatted": "J.Batmönkh statue, Baga Toirog, Baga Toiruu street, 14192, Ulaanbaatar, Mongolia",
+        "address_line1": "J.Batmönkh statue",
+        "address_line2": "Baga Toirog, Baga Toiruu street, 14192, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ж.Батмөнхийн хөшөө",
+            "osm_id": 2498984639,
+            "name:en": "J.Batmönkh statue",
+            "tourism": "artwork",
+            "memorial": "statue",
+            "osm_type": "n",
+            "wheelchair": "no",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "J.Batmönkh statue"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5101e6b56df3ba5a4059e7dfffcc7bf64740f00103f901bf7af39400000000920322d0962ed091d0b0d182d0bcd3a9d0bdd185d0b8d0b9d0bd20d185d3a9d188d3a9d3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.92110770000001,
+          47.92565309995535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хонх",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14240",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Peace Avenue",
+        "lon": 106.91711,
+        "lat": 47.9172568,
+        "formatted": "World Peace Bell, Baga Toirog, Peace Avenue, 14240, Ulaanbaatar, Mongolia",
+        "address_line1": "World Peace Bell",
+        "address_line2": "Baga Toirog, Peace Avenue, 14240, Ulaanbaatar, Mongolia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Хонх",
+            "osm_id": 2513512817,
+            "amenity": "bell",
+            "name:en": "World Peace Bell",
+            "name:mn": "Хонх",
+            "tourism": "attraction",
+            "building": "roof",
+            "osm_type": "n",
+            "wheelchair": "yes",
+            "toilets:wheelchair": "no"
+          }
+        },
+        "name_international": {
+          "en": "World Peace Bell",
+          "mn": "Хонх"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "toilets": false
+        },
+        "building": {
+          "type": "roof"
+        },
+        "place_id": "51693524eeb1ba5a4059d9ecbaab68f54740f00103f9017129d19500000000920308d0a5d0bed0bdd185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91711,
+          47.917256799957336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongolian National Anthem Monument",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14240",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Peace Avenue",
+        "lon": 106.9186382,
+        "lat": 47.9173887,
+        "formatted": "Mongolian National Anthem Monument, Baga Toirog, Peace Avenue, 14240, Ulaanbaatar, Mongolia",
+        "address_line1": "Mongolian National Anthem Monument",
+        "address_line2": "Baga Toirog, Peace Avenue, 14240, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mongolian National Anthem Monument",
+            "osm_id": 2513512820,
+            "name:ja": "モンゴル国歌の碑",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wheelchair": "limited",
+            "toilets:wheelchair": "no"
+          }
+        },
+        "name_international": {
+          "ja": "モンゴル国歌の碑"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          },
+          "toilets": false
+        },
+        "place_id": "51cd76e0f7caba5a4059af0430fe6cf54740f00103f9017429d195000000009203224d6f6e676f6c69616e204e6174696f6e616c20416e7468656d204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91863819999999,
+          47.91738869995731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ататуркын хөшөө",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15141",
+        "district": "Chingeltei",
+        "street": "Ankara street",
+        "iso3166_2": "MN-1",
+        "lon": 106.9117207,
+        "lat": 47.9248287,
+        "formatted": "monument of the Ataturk, Ankara street, 15141, Ulaanbaatar, Mongolia",
+        "address_line1": "monument of the Ataturk",
+        "address_line2": "Ankara street, 15141, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ататуркын хөшөө",
+            "osm_id": 2513654046,
+            "name:en": "monument of the Ataturk",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "monument of the Ataturk"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "518465c7a159ba5a4059095b6ec960f64740f00103f9011e51d3950000000092031dd090d182d0b0d182d183d180d0bad18bd0bd20d185d3a9d188d3a9d3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91172069999999,
+          47.92482869995553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Эвтэй 4 амьтан",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13361",
+        "district": "Bayanzürkh",
+        "street": "Сансарын Тойрог",
+        "iso3166_2": "MN-1",
+        "lon": 106.9411162,
+        "lat": 47.927206,
+        "formatted": "Friendly 4 Animals Statue, Сансарын Тойрог, 13361, Ulaanbaatar, Mongolia",
+        "address_line1": "Friendly 4 Animals Statue",
+        "address_line2": "Сансарын Тойрог, 13361, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Эвтэй 4 амьтан",
+            "osm_id": 2693875863,
+            "name:en": "Friendly 4 Animals Statue",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Friendly 4 Animals Statue"
+        },
+        "place_id": "51162f713f3bbc5a4059153babafaef64740f00103f901974891a000000000920319d0add0b2d182d18dd0b9203420d0b0d0bcd18cd182d0b0d0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.94111619999998,
+          47.92720599995497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хүн чоно",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13312",
+        "district": "Bayanzürkh",
+        "street": "Нийслэл хүрээ өргөн чөлөө",
+        "iso3166_2": "MN-1",
+        "lon": 106.9423092,
+        "lat": 47.8978662,
+        "formatted": "Wolfman Statue, Нийслэл хүрээ өргөн чөлөө, 13312, Ulaanbaatar, Mongolia",
+        "address_line1": "Wolfman Statue",
+        "address_line2": "Нийслэл хүрээ өргөн чөлөө, 13312, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Хүн чоно",
+            "osm_id": 2948788118,
+            "name:en": "Wolfman Statue",
+            "tourism": "artwork",
+            "historic": "memorial",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "Wolfman Statue"
+        },
+        "historic": {
+          "type": "memorial",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51122e3fcb4ebc5a405998829647edf24740f00103f90196efc2af0000000092030fd0a5d2afd0bd20d187d0bed0bdd0be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.94230919999998,
+          47.897866199961925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мангасын ам",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14241",
+        "district": "Sükhbaatar",
+        "street": "Narny road",
+        "iso3166_2": "MN-1",
+        "lon": 106.9214939,
+        "lat": 47.9086184,
+        "formatted": "Мангасын ам, Narny road, 14241, Ulaanbaatar, Mongolia",
+        "address_line1": "Мангасын ам",
+        "address_line2": "Narny road, 14241, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Мангасын ам",
+            "osm_id": 3090708953,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "slide"
+          }
+        },
+        "place_id": "51aafd8cc1f9ba5a4059482f949b4df44740f00103f901d97938b800000000920315d09cd0b0d0bdd0b3d0b0d181d18bd0bd20d0b0d0bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9214939,
+          47.90861839995938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferris wheel",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16066",
+        "district": "Sükhbaatar",
+        "street": "Bicycle Rd",
+        "iso3166_2": "MN-1",
+        "lon": 106.9224089,
+        "lat": 47.910096,
+        "formatted": "Ferris wheel, Bicycle Rd, 16066, Ulaanbaatar, Mongolia",
+        "address_line1": "Ferris wheel",
+        "address_line2": "Bicycle Rd, 16066, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ferris wheel",
+            "osm_id": 3090790503,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "big_wheel"
+          }
+        },
+        "place_id": "5184c256bf08bb5a4059b00596067ef44740f00103f90167b839b80000000092030c46657272697320776865656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9224089,
+          47.910095999959026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Air Cycle",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16066",
+        "district": "Sükhbaatar",
+        "street": "Bicycle Rd",
+        "iso3166_2": "MN-1",
+        "lon": 106.9218631,
+        "lat": 47.9096934,
+        "formatted": "Air Cycle, Bicycle Rd, 16066, Ulaanbaatar, Mongolia",
+        "address_line1": "Air Cycle",
+        "address_line2": "Bicycle Rd, 16066, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Air Cycle",
+            "osm_id": 3090805820,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e77816ceffba5a4059141b55d570f44740f00103f9013cf439b800000000920309416972204379636c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.92186309999998,
+          47.90969339995914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Former Ger Camp with Dinosaurs",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Nalaikh",
+        "iso3166_2": "MN-1",
+        "lon": 107.4405762,
+        "lat": 47.9026365,
+        "formatted": "Former Ger Camp with Dinosaurs, Ulaanbaatar, Nalaikh, Mongolia",
+        "address_line1": "Former Ger Camp with Dinosaurs",
+        "address_line2": "Ulaanbaatar, Nalaikh, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Former Ger Camp with Dinosaurs",
+            "osm_id": 3279732939,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515799846632dc5a4059f5c0c39789f34740f00103f901cbc07cc30000000092031e466f726d6572204765722043616d7020776974682044696e6f7361757273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4405762,
+          47.902636499960785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Алтай угалзны баримал",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14201",
+        "district": "Chingeltei",
+        "street": "J. Sambuu Street",
+        "lon": 106.914948,
+        "lat": 47.921979,
+        "formatted": "Алтай угалзны баримал, J. Sambuu Street, 14201, Ulaanbaatar, Mongolia",
+        "address_line1": "Алтай угалзны баримал",
+        "address_line2": "J. Sambuu Street, 14201, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Алтай угалзны баримал",
+            "osm_id": 3668554127,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5199620e828eba5a405993346a6803f64740f00103f9018fb1a9da00000000920328d090d0bbd182d0b0d0b920d183d0b3d0b0d0bbd0b7d0bdd18b20d0b1d0b0d180d0b8d0bcd0b0d0bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.914948,
+          47.92197899995622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бичигтэй уул",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15110",
+        "district": "Sükhbaatar",
+        "suburb": "Dambadarjaa",
+        "street": "Бэлхийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9384782,
+        "lat": 47.9842668,
+        "formatted": "Bichigtei Uul, Dambadarjaa, Бэлхийн гудамж, 15110, Ulaanbaatar, Mongolia",
+        "address_line1": "Bichigtei Uul",
+        "address_line2": "Dambadarjaa, Бэлхийн гудамж, 15110, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Бичигтэй уул",
+            "osm_id": 3912851565,
+            "name:en": "Bichigtei Uul",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bichigtei Uul"
+        },
+        "place_id": "519240de0610bc5a4059bf245a74fcfd4740f00103f9016d6039e900000000920317d091d0b8d187d0b8d0b3d182d18dd0b920d183d183d0bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.93847819999999,
+          47.984266799941445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bubbling Springs",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13370",
+        "district": "Bayanzürkh",
+        "street": "Сангийн хорооны гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9377895,
+        "lat": 47.9144066,
+        "formatted": "Bubbling Springs, Сангийн хорооны гудамж, 13370, Ulaanbaatar, Mongolia",
+        "address_line1": "Bubbling Springs",
+        "address_line2": "Сангийн хорооны гудамж, 13370, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bubbling Springs",
+            "osm_id": 4102357093,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51104240be04bc5a40597a0885460bf54740f00103f901650085f400000000920310427562626c696e6720537072696e6773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.93778950000001,
+          47.91440659995801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Bowling",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "11000",
+        "district": "Khan-Uul",
+        "street": "Чингисийн өргөн чөлөө",
+        "iso3166_2": "MN-1",
+        "lon": 106.8852805,
+        "lat": 47.8922387,
+        "formatted": "Big Bowling, Чингисийн өргөн чөлөө, 11000, Ulaanbaatar, Mongolia",
+        "address_line1": "Big Bowling",
+        "address_line2": "Чингисийн өргөн чөлөө, 11000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Big Bowling",
+            "osm_id": 4119705443,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5155d28a6fa8b85a4059ab48b2e034f24740f00103f90163b78df50000000092030b42696720426f776c696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.88528049999998,
+          47.89223869996325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Их тэнгэрийн ам",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13312",
+        "district": "Khan-Uul",
+        "street": "Дүнжингаравын гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9413002,
+        "lat": 47.8807285,
+        "formatted": "Их тэнгэрийн ам, Дүнжингаравын гудамж, 13312, Ulaanbaatar, Mongolia",
+        "address_line1": "Их тэнгэрийн ам",
+        "address_line2": "Дүнжингаравын гудамж, 13312, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Их тэнгэрийн ам",
+            "osm_id": 4218403997,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f8ad31433ebc5a4059260124b6bbf04740f00103f9019dbc6ffb0000000092031cd098d18520d182d18dd0bdd0b3d18dd180d0b8d0b9d0bd20d0b0d0bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9413002,
+          47.88072849996597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "32/5",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17000",
+        "district": "Khan-Uul",
+        "street": "B.Sharav street",
+        "iso3166_2": "MN-1",
+        "lon": 106.895904,
+        "lat": 47.8978842,
+        "formatted": "32/5, B.Sharav street, 17000, Ulaanbaatar, Mongolia",
+        "address_line1": "32/5",
+        "address_line2": "B.Sharav street, 17000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "32/5",
+            "osm_id": 4235356593,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c216bb7d56b95a40593e3795deedf24740f00103f901b16972fc0000000092030433322f35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.895904,
+          47.89788419996192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "64-р байр",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15710",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Peace Avenue",
+        "lon": 106.9048889,
+        "lat": 47.9155013,
+        "formatted": "64-р байр, Baga Toirog, Peace Avenue, 15710, Ulaanbaatar, Mongolia",
+        "address_line1": "64-р байр",
+        "address_line2": "Baga Toirog, Peace Avenue, 15710, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "64-р байр",
+            "osm_id": 4264667603,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51dc0022b3e9b95a4059cd6187252ff54740f00103f901d3a931fe0000000092030e36342dd18020d0b1d0b0d0b9d180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9048889,
+          47.91550129995776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "amralt",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Erdene",
+        "iso3166_2": "MN-047",
+        "lon": 107.6196537,
+        "lat": 47.874258,
+        "formatted": "Kharztai - 1st bag of Erdene soum, Erdene, Mongolia",
+        "address_line1": "Kharztai - 1st bag of Erdene soum",
+        "address_line2": "Erdene, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "amralt",
+            "osm_id": 4304775363,
+            "name:en": "Kharztai - 1st bag of Erdene soum",
+            "name:mn": "Эрдэнэ сумын 1 дүгээр багийн төв (Харзтай)",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Kharztai - 1st bag of Erdene soum",
+          "mn": "Эрдэнэ сумын 1 дүгээр багийн төв (Харзтай)"
+        },
+        "place_id": "511b16fe67a8e75a40593910a7afe7ef4740f00103f901c3a8950001000000920306616d72616c74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6196537,
+          47.87425799996749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "한몽시범마을",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Songino Khairkhan",
+        "suburb": "Тахилт ᠲᠠᠬᠢᠯᠲᠤ",
+        "street": "Тахилт гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.6829823,
+        "lat": 47.931547,
+        "formatted": "한몽시범마을, Тахилт ᠲᠠᠬᠢᠯᠲᠤ, Тахилт гудамж, Ulaanbaatar, Mongolia",
+        "address_line1": "한몽시범마을",
+        "address_line2": "Тахилт ᠲᠠᠬᠢᠯᠲᠤ, Тахилт гудамж, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "한몽시범마을",
+            "osm_id": 4338384897,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cc8f64fbb5ab5a40599bbe9dee3cf74740f00103f9010180960201000000920312ed959cebaabdec8b9cebb294eba788ec9d84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68298229999999,
+          47.931546999953945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Си Студи",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13371",
+        "district": "Bayanzürkh",
+        "street": "Нарны зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.9423124,
+        "lat": 47.9090614,
+        "formatted": "Си Студи, Нарны зам, 13371, Ulaanbaatar, Mongolia",
+        "address_line1": "Си Студи",
+        "address_line2": "Нарны зам, 13371, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Си Студи",
+            "osm_id": 4358187910,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516127abd84ebc5a4059c770bb1f5cf44740f00103f90186abc4030100000092030fd0a1d0b820d0a1d182d183d0b4d0b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9423124,
+          47.90906139995928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ажил",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14321",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Chinggis Avenue",
+        "lon": 106.916067,
+        "lat": 47.9148342,
+        "formatted": "office, Baga Toirog, Chinggis Avenue, 14321, Ulaanbaatar, Mongolia",
+        "address_line1": "office",
+        "address_line2": "Baga Toirog, Chinggis Avenue, 14321, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ажил",
+            "osm_id": 4360946297,
+            "name:en": "office",
+            "name:mn": "ажил",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "office",
+          "mn": "ажил"
+        },
+        "place_id": "51787c7bd7a0ba5a4059720a7d4919f54740f00103f90179c2ee0301000000920308d0b0d0b6d0b8d0bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.916067,
+          47.91483419995792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ovoo",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Argalant",
+        "street": "A0301",
+        "iso3166_2": "MN-047",
+        "lon": 106.2366909,
+        "lat": 47.9071223,
+        "formatted": "Ovoo, A0301, Mongolia",
+        "address_line1": "Ovoo",
+        "address_line2": "A0301, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ovoo",
+            "osm_id": 4380078818,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b1b096f1258f5a405953e661951cf44740f00103f901e2b21205010000009203044f766f6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2366909,
+          47.907122299959745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нарны хороолол",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14253",
+        "district": "Bayangol",
+        "suburb": "Gandan",
+        "street": "Narny road",
+        "iso3166_2": "MN-1",
+        "lon": 106.9009513,
+        "lat": 47.9060099,
+        "formatted": "Нарны хороолол, Gandan, Narny road, 14253, Ulaanbaatar, Mongolia",
+        "address_line1": "Нарны хороолол",
+        "address_line2": "Gandan, Narny road, 14253, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Нарны хороолол",
+            "osm_id": 4388980090,
+            "name:mn": "Нарны хороолол",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Нарны хороолол"
+        },
+        "place_id": "517932a42fa9b95a40591b17e521f8f34740f00103f9017a859a050100000092031bd09dd0b0d180d0bdd18b20d185d0bed180d0bed0bed0bbd0bed0bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90095129999999,
+          47.90600989996002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enkhe's Place",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13370",
+        "district": "Bayanzürkh",
+        "street": "Сангийн хорооны гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9351564,
+        "lat": 47.9144376,
+        "formatted": "Enkhe's Place, Сангийн хорооны гудамж, 13370, Ulaanbaatar, Mongolia",
+        "address_line1": "Enkhe's Place",
+        "address_line2": "Сангийн хорооны гудамж, 13370, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Enkhe's Place",
+            "osm_id": 4393605789,
+            "name:en": "Enkhe's Place",
+            "name:mn": "Enkhe's Place",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Enkhe's Place",
+          "mn": "Enkhe's Place"
+        },
+        "place_id": "5148a93a9ad9bb5a4059b406914a0cf54740f00103f9019d1ae1050100000092030d456e6b6865277320506c616365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.93515639999998,
+          47.914437599958006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "89-р байр",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "11000",
+        "district": "Khan-Uul",
+        "street": "Чингисийн өргөн чөлөө",
+        "iso3166_2": "MN-1",
+        "lon": 106.8811382,
+        "lat": 47.8945957,
+        "formatted": "89-р байр, Чингисийн өргөн чөлөө, 11000, Ulaanbaatar, Mongolia",
+        "address_line1": "89-р байр",
+        "address_line2": "Чингисийн өргөн чөлөө, 11000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "89-р байр",
+            "osm_id": 4455051598,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5167107a9164b85a4059b23da51c82f24740f00103f9014eb18a090100000092030e38392dd18020d0b1d0b0d0b9d180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8811382,
+          47.89459569996269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chinggis Khan Portrait",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16103",
+        "district": "Khan-Uul",
+        "suburb": "Нисэх ᠨᠢᠰᠬᠦ",
+        "street": "Морингийн зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.7656119,
+        "lat": 47.8544065,
+        "formatted": "Chinggis Khan Portrait, Нисэх ᠨᠢᠰᠬᠦ, Морингийн зам, 16103, Ulaanbaatar, Mongolia",
+        "address_line1": "Chinggis Khan Portrait",
+        "address_line2": "Нисэх ᠨᠢᠰᠬᠦ, Морингийн зам, 16103, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chinggis Khan Portrait",
+            "osm_id": 4504627269,
+            "name:ja": "チンギスハーンの肖像画",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ja": "チンギスハーンの肖像画"
+        },
+        "place_id": "516afb0dc9ffb05a4059676f33315ded4740f00103f90145287f0c010000009203164368696e67676973204b68616e20506f727472616974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76561189999998,
+          47.85440649997218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хөгжил хотхон",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16092",
+        "district": "Bayangol",
+        "suburb": "Gandan",
+        "street": "Х.Чингүнжавын гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.8750294,
+        "lat": 47.9192278,
+        "formatted": "Хөгжил хотхон, Gandan, Х.Чингүнжавын гудамж, 16092, Ulaanbaatar, Mongolia",
+        "address_line1": "Хөгжил хотхон",
+        "address_line2": "Gandan, Х.Чингүнжавын гудамж, 16092, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Хөгжил хотхон",
+            "osm_id": 4656550291,
+            "name:mn": "Хөгжил хотхон",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Хөгжил хотхон"
+        },
+        "place_id": "517702507b00b85a4059c231ad41a9f54740f00103f90193518d1501000000920319d0a5d3a9d0b3d0b6d0b8d0bb20d185d0bed182d185d0bed0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8750294,
+          47.91922779995686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ахмадын хороолол",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13330",
+        "district": "Bayanzürkh",
+        "suburb": "Ulaankhuaran",
+        "street": "Нарны зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.9587819,
+        "lat": 47.9086649,
+        "formatted": "Ахмадын хороолол, Ulaankhuaran, Нарны зам, 13330, Ulaanbaatar, Mongolia",
+        "address_line1": "Ахмадын хороолол",
+        "address_line2": "Ulaankhuaran, Нарны зам, 13330, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ахмадын хороолол",
+            "osm_id": 4656568389,
+            "name:mn": "Ахмадын хороолол",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Ахмадын хороолол"
+        },
+        "place_id": "51ca1fc2ae5cbd5a4059a12ca6214ff44740f00103f90145988d150100000092031fd090d185d0bcd0b0d0b4d18bd0bd20d185d0bed180d0bed0bed0bbd0bed0bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.95878189999999,
+          47.90866489995938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Витафит",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "11000",
+        "district": "Khan-Uul",
+        "street": "Ноолуурын гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.8763287,
+        "lat": 47.9014558,
+        "formatted": "Витафит, Ноолуурын гудамж, 11000, Ulaanbaatar, Mongolia",
+        "address_line1": "Витафит",
+        "address_line2": "Ноолуурын гудамж, 11000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Витафит",
+            "osm_id": 4656568390,
+            "name:mn": "Витафит",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Витафит"
+        },
+        "place_id": "51f4c2f8c415b85a4059a9cf55e762f34740f00103f90146988d150100000092030ed092d0b8d182d0b0d184d0b8d182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87632869999999,
+          47.90145579996108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1р хороолол",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16094",
+        "district": "Songino Khairkhan",
+        "suburb": "1-р хороолол",
+        "street": "Өнөр хорооллын гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.8370505,
+        "lat": 47.9163773,
+        "formatted": "1р хороолол, 1-р хороолол, Өнөр хорооллын гудамж, 16094, Ulaanbaatar, Mongolia",
+        "address_line1": "1р хороолол",
+        "address_line2": "1-р хороолол, Өнөр хорооллын гудамж, 16094, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "1р хороолол",
+            "osm_id": 4656568489,
+            "name:mn": "1р хороолол",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "1р хороолол"
+        },
+        "place_id": "516da6423c92b55a4059a50ef3d94bf54740f00103f901a9988d150100000092031431d18020d185d0bed180d0bed0bed0bbd0bed0bb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83705049999999,
+          47.91637729995754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Комбинатт",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17000",
+        "district": "Khan-Uul",
+        "street": "Чингисийн өргөн чөлөө",
+        "iso3166_2": "MN-1",
+        "lon": 106.8893239,
+        "lat": 47.8954915,
+        "formatted": "Комбинатт, Чингисийн өргөн чөлөө, 17000, Ulaanbaatar, Mongolia",
+        "address_line1": "Комбинатт",
+        "address_line2": "Чингисийн өргөн чөлөө, 17000, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Комбинатт",
+            "osm_id": 4656568490,
+            "name:mn": "Комбинатт",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Комбинатт"
+        },
+        "place_id": "514683caaeeab85a4059aa1729779ff24740f00103f901aa988d1501000000920312d09ad0bed0bcd0b1d0b8d0bdd0b0d182d182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8893239,
+          47.89549149996249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дугуй цагаан",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17025",
+        "district": "Khan-Uul",
+        "street": "baruun_shireet",
+        "iso3166_2": "MN-1",
+        "lon": 106.9007137,
+        "lat": 47.8321168,
+        "formatted": "Dugui tsagaan, baruun_shireet, 17025, Ulaanbaatar, Mongolia",
+        "address_line1": "Dugui tsagaan",
+        "address_line2": "baruun_shireet, 17025, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Дугуй цагаан",
+            "osm_id": 4676539989,
+            "name:en": "Dugui tsagaan",
+            "name:mn": "Дугуй цагаан",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Dugui tsagaan",
+          "mn": "Дугуй цагаан"
+        },
+        "place_id": "51c823134ba5b95a4059722da5cd82ea4740f00103f9015556be1601000000920317d094d183d0b3d183d0b920d186d0b0d0b3d0b0d0b0d0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90071369999998,
+          47.832116799977385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Монголын Урчуудын Эвлэлийн Галерей",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14321",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Chinggis Avenue",
+        "lon": 106.9164246,
+        "lat": 47.9162442,
+        "formatted": "Art Gallery of the Union of Mongolian Artists, Baga Toirog, Chinggis Avenue, 14321, Ulaanbaatar, Mongolia",
+        "address_line1": "Art Gallery of the Union of Mongolian Artists",
+        "address_line2": "Baga Toirog, Chinggis Avenue, 14321, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Монголын Урчуудын Эвлэлийн Галерей",
+            "osm_id": 4693499490,
+            "name:en": "Art Gallery of the Union of Mongolian Artists",
+            "name:es": "Galería de arte de Unión de Artistas Mongolic",
+            "name:mn": "Монголын Урчуудын Эвлэлийн Галерей",
+            "name:ru": "Выставочная галерея Союза монгольских художников",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Art Gallery of the Union of Mongolian Artists",
+          "es": "Galería de arte de Unión de Artistas Mongolic",
+          "mn": "Монголын Урчуудын Эвлэлийн Галерей",
+          "ru": "Выставочная галерея Союза монгольских художников"
+        },
+        "place_id": "51fd8f5db3a6ba5a4059d7fb6c7d47f54740f00103f901621ec11701000000920341d09cd0bed0bdd0b3d0bed0bbd18bd0bd20d0a3d180d187d183d183d0b4d18bd0bd20d0add0b2d0bbd18dd0bbd0b8d0b9d0bd20d093d0b0d0bbd0b5d180d0b5d0b9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91642459999998,
+          47.91624419995758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Монголын урчуудын эвлэлийн байр",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14240",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Jamyan Gun Street",
+        "lon": 106.9164928,
+        "lat": 47.9158445,
+        "formatted": "Office of the Union of Mongolian Artists, Baga Toirog, Jamyan Gun Street, 14240, Ulaanbaatar, Mongolia",
+        "address_line1": "Office of the Union of Mongolian Artists",
+        "address_line2": "Baga Toirog, Jamyan Gun Street, 14240, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Монголын урчуудын эвлэлийн байр",
+            "osm_id": 4693514890,
+            "name:en": "Office of the Union of Mongolian Artists",
+            "name:es": "Oficina de Unión de Artistas Mongolic",
+            "name:mn": "Монголын урчуудын эвлэлийн байр",
+            "name:ru": "Офис Союза монгольских художников",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Office of the Union of Mongolian Artists",
+          "es": "Oficina de Unión de Artistas Mongolic",
+          "mn": "Монголын урчуудын эвлэлийн байр",
+          "ru": "Офис Союза монгольских художников"
+        },
+        "place_id": "513fc16ad1a7ba5a405912c57f643af54740f00103f9018a5ac1170100000092033bd09cd0bed0bdd0b3d0bed0bbd18bd0bd20d183d180d187d183d183d0b4d18bd0bd20d18dd0b2d0bbd18dd0bbd0b8d0b9d0bd20d0b1d0b0d0b9d180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9164928,
+          47.91584449995766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нэйшнл нэтворкинг трэйнинг ХХК",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14240",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Jamyan Gun Street",
+        "lon": 106.9198074,
+        "lat": 47.9163928,
+        "formatted": "National Networking Training LLC, Baga Toirog, Jamyan Gun Street, 14240, Ulaanbaatar, Mongolia",
+        "address_line1": "National Networking Training LLC",
+        "address_line2": "Baga Toirog, Jamyan Gun Street, 14240, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Нэйшнл нэтворкинг трэйнинг ХХК",
+            "osm_id": 4698487389,
+            "name:en": "National Networking Training LLC",
+            "name:mn": "Нэйшнл нэтворкинг трэйнинг ХХК",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "National Networking Training LLC",
+          "mn": "Нэйшнл нэтворкинг трэйнинг ХХК"
+        },
+        "place_id": "519967db1fdeba5a4059c20df95b4cf54740f00103f9015d3a0d1801000000920339d09dd18dd0b9d188d0bdd0bb20d0bdd18dd182d0b2d0bed180d0bad0b8d0bdd0b320d182d180d18dd0b9d0bdd0b8d0bdd0b320d0a5d0a5d09a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91980739999998,
+          47.916392799957535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batbold home",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14060",
+        "district": "Sükhbaatar",
+        "street": "Сэлхийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9529901,
+        "lat": 48.034944,
+        "formatted": "Batbold home, Сэлхийн гудамж, 14060, Ulaanbaatar, Mongolia",
+        "address_line1": "Batbold home",
+        "address_line2": "Сэлхийн гудамж, 14060, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Batbold home",
+            "osm_id": 4714454790,
+            "name:mn": "Batbold home",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Batbold home"
+        },
+        "place_id": "51593a30cafdbc5a4059a871840b79044840f00103f90106df00190100000092030c426174626f6c6420686f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.95299009999998,
+          48.03494399992934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batbold home",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14060",
+        "district": "Sükhbaatar",
+        "street": "Сэлхийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9663774,
+        "lat": 48.0545908,
+        "formatted": "Batbold home, Сэлхийн гудамж, 14060, Ulaanbaatar, Mongolia",
+        "address_line1": "Batbold home",
+        "address_line2": "Сэлхийн гудамж, 14060, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Batbold home",
+            "osm_id": 4714479490,
+            "name:mn": "Batbold home",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Batbold home"
+        },
+        "place_id": "51fc259820d9bd5a40595d2bd2d4fc064840f00103f901823f01190100000092030c426174626f6c6420686f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9663774,
+          48.05459079992463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "084 полигон",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Bayanzürkh",
+        "street": "Гачууртын зам",
+        "iso3166_2": "MN-1",
+        "lon": 107.0789157,
+        "lat": 47.9545365,
+        "formatted": "084 полигон, Гачууртын зам, Ulaanbaatar, Mongolia",
+        "address_line1": "084 полигон",
+        "address_line2": "Гачууртын зам, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "084 полигон",
+            "osm_id": 4716567792,
+            "name:mn": "084 полигон",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "084 полигон"
+        },
+        "place_id": "5105a96ff40cc55a4059ff0e85402efa4740f00103f901f01c21190100000092031230383420d0bfd0bed0bbd0b8d0b3d0bed0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0789157,
+          47.95453649994851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoome",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16052",
+        "district": "Bayangol",
+        "suburb": "Gandan",
+        "street": "Peace Avenue",
+        "housenumber": "12",
+        "iso3166_2": "MN-1",
+        "lon": 106.8816423,
+        "lat": 47.9124362,
+        "formatted": "Hoome, Gandan, Peace Avenue, 12, 16052, Ulaanbaatar, Mongolia",
+        "address_line1": "Hoome",
+        "address_line2": "Gandan, Peace Avenue, 12, 16052, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hoome",
+            "osm_id": 4739995825,
+            "name:mn": "Hoome",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Энх тайваны өргөн чөлөө",
+            "addr:housenumber": 12
+          }
+        },
+        "name_international": {
+          "mn": "Hoome"
+        },
+        "place_id": "514c51d3d36cb85a40590c419bb5caf44740f00103f901b198861a01000000920305486f6f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.88164230000001,
+          47.91243619995848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bae's home",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16050",
+        "district": "Bayangol",
+        "suburb": "Gandan",
+        "street": "ЭБО зам",
+        "housenumber": "70/2",
+        "iso3166_2": "MN-1",
+        "lon": 106.8866521,
+        "lat": 47.9170121,
+        "formatted": "Bae's home, Gandan, ЭБО зам, 70/2, 16050, Ulaanbaatar, Mongolia",
+        "address_line1": "Bae's home",
+        "address_line2": "Gandan, ЭБО зам, 70/2, 16050, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bae's home",
+            "osm_id": 4739995826,
+            "name:mn": "Bae's home",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:housenumber": "70/2"
+          }
+        },
+        "name_international": {
+          "mn": "Bae's home"
+        },
+        "place_id": "51801b73e8beb85a405939ad09a760f54740f00103f901b298861a0100000092030a426165277320686f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.88665209999999,
+          47.9170120999574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Тэмээн жингийн цуваа",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "Chinggis Avenue",
+        "iso3166_2": "MN-1",
+        "lon": 106.9087189,
+        "lat": 47.8995087,
+        "formatted": "Camels, Chinggis Avenue, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "Camels",
+        "address_line2": "Chinggis Avenue, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Тэмээн жингийн цуваа",
+            "osm_id": 4760885421,
+            "name:en": "Camels",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Camels"
+        },
+        "place_id": "517430517328ba5a4059b266e01923f34740f00103f901ad58c51b01000000920326d0a2d18dd0bcd18dd18dd0bd20d0b6d0b8d0bdd0b3d0b8d0b9d0bd20d186d183d0b2d0b0d0b0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9087189,
+          47.899508699961544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Хавай спорт цогцолбор",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16103",
+        "district": "Bayangol",
+        "street": "Эрчим хүчний гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.7987176,
+        "lat": 47.8846144,
+        "formatted": "Hawaii centre, Эрчим хүчний гудамж, 16103, Ulaanbaatar, Mongolia",
+        "address_line1": "Hawaii centre",
+        "address_line2": "Эрчим хүчний гудамж, 16103, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Хавай спорт цогцолбор",
+            "osm_id": 4825383923,
+            "name:en": "Hawaii centre",
+            "name:mn": "Хавай спорт цогцолбор",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Hawaii centre",
+          "mn": "Хавай спорт цогцолбор"
+        },
+        "place_id": "5155af6c301eb35a4059d5b56e0b3bf14740f00103f901f3839d1f01000000920328d0a5d0b0d0b2d0b0d0b920d181d0bfd0bed180d18220d186d0bed0b3d186d0bed0bbd0b1d0bed180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79871759999999,
+          47.88461439996505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mongol sky guest house",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "13110",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Paris Street",
+        "iso3166_2": "MN-1",
+        "lon": 106.9301441,
+        "lat": 47.9157033,
+        "formatted": "Mongol sky guest house, Baga Toirog, Paris Street, 13110, Ulaanbaatar, Mongolia",
+        "address_line1": "Mongol sky guest house",
+        "address_line2": "Baga Toirog, Paris Street, 13110, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mongol sky guest house",
+            "osm_id": 4872296222,
+            "name:ko": "몽골스카이게스트하우스",
+            "name:mn": "Mongol sky guest house",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ko": "몽골스카이게스트하우스",
+          "mn": "Mongol sky guest house"
+        },
+        "place_id": "5150841e7b87bb5a40592c1407c435f54740f00103f9011e576922010000009203164d6f6e676f6c20736b7920677565737420686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9301441,
+          47.9157032999577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АНЭГ",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15171",
+        "district": "Chingeltei",
+        "street": "Ж.Самбуугийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9029386,
+        "lat": 47.9224491,
+        "formatted": "A1 office, Ж.Самбуугийн гудамж, 15171, Ulaanbaatar, Mongolia",
+        "address_line1": "A1 office",
+        "address_line2": "Ж.Самбуугийн гудамж, 15171, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "АНЭГ",
+            "osm_id": 4882958221,
+            "name:en": "A1 office",
+            "name:mn": "АНЭГ",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "A1 office",
+          "mn": "АНЭГ"
+        },
+        "place_id": "51f252fbbec9b95a4059a044e6cf12f64740f00103f9018d070c2301000000920308d090d09dd0add093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9029386,
+          47.92244909995611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A1/АНЭГ/",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "15171",
+        "district": "Chingeltei",
+        "street": "Ж.Самбуугийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9029914,
+        "lat": 47.9224643,
+        "formatted": "A1 Office, Ж.Самбуугийн гудамж, 15171, Ulaanbaatar, Mongolia",
+        "address_line1": "A1 Office",
+        "address_line2": "Ж.Самбуугийн гудамж, 15171, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "A1/АНЭГ/",
+            "osm_id": 4883025221,
+            "name:en": "A1 Office",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "A1 Office"
+        },
+        "place_id": "516fe4709ccab95a4059ff04684f13f64740f00103f901450d0d230100000092030c41312fd090d09dd0add0932f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9029914,
+          47.92246429995611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Цагдаа-2 хотхон",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "Dund River Street",
+        "iso3166_2": "MN-1",
+        "lon": 106.9006084,
+        "lat": 47.9039059,
+        "formatted": "Tsagdaa-2 khotkhon, Dund River Street, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "Tsagdaa-2 khotkhon",
+        "address_line2": "Dund River Street, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Цагдаа-2 хотхон",
+            "osm_id": 4895057221,
+            "name:en": "Tsagdaa-2 khotkhon",
+            "name:mn": "Цагдаа-2 хотхон",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tsagdaa-2 khotkhon",
+          "mn": "Цагдаа-2 хотхон"
+        },
+        "place_id": "512e206a91a3b95a4059f27e4330b3f34740f00103f90145a5c4230100000092031bd0a6d0b0d0b3d0b4d0b0d0b02d3220d185d0bed182d185d0bed0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90060839999998,
+          47.90390589996049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Дангаа зуслан",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Chingeltei",
+        "street": "Санзайн зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.9088434,
+        "lat": 48.0402747,
+        "formatted": "Dangaa zuslan, Санзайн зам, Ulaanbaatar, Mongolia",
+        "address_line1": "Dangaa zuslan",
+        "address_line2": "Санзайн зам, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Дангаа зуслан",
+            "osm_id": 4924087121,
+            "name:en": "Dangaa zuslan",
+            "name:mn": "Дангаа зуслан",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Dangaa zuslan",
+          "mn": "Дангаа зуслан"
+        },
+        "place_id": "51dd0b827d2aba5a40590c86abb827054840f00103f901519b7f2501000000920319d094d0b0d0bdd0b3d0b0d0b020d0b7d183d181d0bbd0b0d0bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90884339999998,
+          48.04027469992806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шарав 43 байр",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "17040",
+        "district": "Khan-Uul",
+        "street": "Чингисийн өргөн чөлөө",
+        "housenumber": "43",
+        "iso3166_2": "MN-1",
+        "lon": 106.8950039,
+        "lat": 47.8964512,
+        "formatted": "Sharav 43 apartment, Чингисийн өргөн чөлөө, 43, 17040, Ulaanbaatar, Mongolia",
+        "address_line1": "Sharav 43 apartment",
+        "address_line2": "Чингисийн өргөн чөлөө, 43, 17040, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Шарав 43 байр",
+            "osm_id": 4924087122,
+            "name:en": "Sharav 43 apartment",
+            "name:mn": "Миний гэр",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Sharav 43 apartment",
+          "mn": "Миний гэр"
+        },
+        "place_id": "51b71270be47b95a40592026b5e9bef24740f00103f901529b7f2501000000920316d0a8d0b0d180d0b0d0b220343320d0b1d0b0d0b9d180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.89500389999999,
+          47.89645119996226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lager",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Sükhbaatar",
+        "street": "Санзайн зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.8987616,
+        "lat": 48.0744026,
+        "formatted": "lager, Санзайн зам, Ulaanbaatar, Mongolia",
+        "address_line1": "lager",
+        "address_line2": "Санзайн зам, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "lager",
+            "osm_id": 4934339621,
+            "name:mn": "lager",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "lager"
+        },
+        "place_id": "51a3b95f4f85b95a405956b23e0686094840f00103f901250c1c26010000009203056c61676572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.89876159999999,
+          48.07440259991988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ой",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "district": "Songino Khairkhan",
+        "street": "Shijiriin bag",
+        "iso3166_2": "MN-1",
+        "lon": 106.7659227,
+        "lat": 48.0516657,
+        "formatted": "Forest, Shijiriin bag, Ulaanbaatar, Mongolia",
+        "address_line1": "Forest",
+        "address_line2": "Shijiriin bag, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ой",
+            "osm_id": 4936511522,
+            "name:en": "Forest",
+            "name:mn": "Ой",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Forest",
+          "mn": "Ой"
+        },
+        "place_id": "51e5f0a4e004b15a405990c04dfb9c064840f00103f90122303d2601000000920304d09ed0b9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76592269999999,
+          48.051665699925366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Инженер геодези ХХК",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16092",
+        "district": "Bayangol",
+        "street": "Дунд зам",
+        "iso3166_2": "MN-1",
+        "lon": 106.8707511,
+        "lat": 47.9159217,
+        "formatted": "Engineering geodesy LLC, Дунд зам, 16092, Ulaanbaatar, Mongolia",
+        "address_line1": "Engineering geodesy LLC",
+        "address_line2": "Дунд зам, 16092, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Инженер геодези ХХК",
+            "osm_id": 4940424221,
+            "name:en": "Engineering geodesy LLC",
+            "name:mn": "Инженер геодези ХХК",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Engineering geodesy LLC",
+          "mn": "Инженер геодези ХХК"
+        },
+        "place_id": "512f5dd262bab75a4059e78119ec3cf54740f00103f9011de4782601000000920324d098d0bdd0b6d0b5d0bdd0b5d18020d0b3d0b5d0bed0b4d0b5d0b7d0b820d0a5d0a5d09a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87075109999999,
+          47.91592169995766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гүнгэрваа Оффис",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "18130",
+        "district": "Bayangol",
+        "street": "Нөхөрлөлийн гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.8051804,
+        "lat": 47.9030932,
+        "formatted": "Gungervaa Office, Нөхөрлөлийн гудамж, 18130, Ulaanbaatar, Mongolia",
+        "address_line1": "Gungervaa Office",
+        "address_line2": "Нөхөрлөлийн гудамж, 18130, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Гүнгэрваа Оффис",
+            "osm_id": 4957748121,
+            "name:en": "Gungervaa Office",
+            "name:mn": "Гүнгэрваа Оффис",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Gungervaa Office",
+          "mn": "Гүнгэрваа Оффис"
+        },
+        "place_id": "5155585f1388b35a40591a89d78e98f34740f00103f901993b81270100000092031dd093d2afd0bdd0b3d18dd180d0b2d0b0d0b020d09ed184d184d0b8d181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8051804,
+          47.90309319996068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Наадам",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "state": "Töv",
+        "county": "Argalant",
+        "city": "Ulaanbaatar",
+        "district": "Songino Khairkhan",
+        "street": "A0301",
+        "iso3166_2": "MN-047",
+        "lon": 106.5019246,
+        "lat": 47.9006558,
+        "formatted": "Наадам, A0301, Ulaanbaatar, Mongolia",
+        "address_line1": "Наадам",
+        "address_line2": "A0301, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Наадам",
+            "osm_id": 4960910321,
+            "name:mn": "Наадам",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Наадам"
+        },
+        "place_id": "51b5835b881fa05a4059a8e472b048f34740f00103f901f17bb1270100000092030cd09dd0b0d0b0d0b4d0b0d0bc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.50192460000001,
+          47.90065579996127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Тэнгэрийн өрх хөшөө",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14240",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Peace Avenue",
+        "lon": 106.9179179,
+        "lat": 47.917327,
+        "formatted": "Тэнгэрийн өрх хөшөө, Baga Toirog, Peace Avenue, 14240, Ulaanbaatar, Mongolia",
+        "address_line1": "Тэнгэрийн өрх хөшөө",
+        "address_line2": "Baga Toirog, Peace Avenue, 14240, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Тэнгэрийн өрх хөшөө",
+            "osm_id": 4965854138,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "A.Chadraabal",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artist_name": "A.Chadraabal",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "516e3ab82abfba5a4059f8469cf86af54740f00103f901baebfc2701000000920324d0a2d18dd0bdd0b3d18dd180d0b8d0b9d0bd20d3a9d180d18520d185d3a9d188d3a9d3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91791789999999,
+          47.91732699995731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Star студи",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14251",
+        "district": "Khan-Uul",
+        "street": "Yйлдвэрийн Гудамж",
+        "iso3166_2": "MN-1",
+        "lon": 106.9112035,
+        "lat": 47.9055538,
+        "formatted": "New Star Studio, Yйлдвэрийн Гудамж, 14251, Ulaanbaatar, Mongolia",
+        "address_line1": "New Star Studio",
+        "address_line2": "Yйлдвэрийн Гудамж, 14251, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "New Star студи",
+            "osm_id": 4984367649,
+            "name:en": "New Star Studio",
+            "name:mn": "New Star студи",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "New Star Studio",
+          "mn": "New Star студи"
+        },
+        "place_id": "510c207c2851ba5a40596fccd92fe9f34740f00103f901216a1729010000009203134e6577205374617220d181d182d183d0b4d0b8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9112035,
+          47.905553799960096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orhon home",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "16094",
+        "district": "Songino Khairkhan",
+        "suburb": "Bayankhoshuu",
+        "street": "Зүүн баян уул 19",
+        "iso3166_2": "MN-1",
+        "lon": 106.8478023,
+        "lat": 47.9652807,
+        "formatted": "Orhon home, Bayankhoshuu, Зүүн баян уул 19, 16094, Ulaanbaatar, Mongolia",
+        "address_line1": "Orhon home",
+        "address_line2": "Bayankhoshuu, Зүүн баян уул 19, 16094, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Orhon home",
+            "osm_id": 5009140221,
+            "name:mn": "Orhon home",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "mn": "Orhon home"
+        },
+        "place_id": "514ffe936442b65a40592add66518efb4740f00103f901fd69912a0100000092030a4f72686f6e20686f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8478023,
+          47.96528069994595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Улаанбаатар хотын төв тэг цэг",
+        "country": "Mongolia",
+        "country_code": "mn",
+        "city": "Ulaanbaatar",
+        "postcode": "14200",
+        "district": "Sükhbaatar",
+        "suburb": "Baga Toirog",
+        "street": "Ikh Surguulyn street",
+        "lon": 106.9176869,
+        "lat": 47.9185372,
+        "formatted": "The Zero point of the Ulaanbaatar city, Baga Toirog, Ikh Surguulyn street, 14200, Ulaanbaatar, Mongolia",
+        "address_line1": "The Zero point of the Ulaanbaatar city",
+        "address_line2": "Baga Toirog, Ikh Surguulyn street, 14200, Ulaanbaatar, Mongolia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Улаанбаатар хотын төв тэг цэг",
+            "osm_id": 5043212620,
+            "name:en": "The Zero point of the Ulaanbaatar city",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "The Zero point of the Ulaanbaatar city"
+        },
+        "place_id": "51edddd561bbba5a4059c9fc80a092f54740f00103f9014c51992c01000000920336d0a3d0bbd0b0d0b0d0bdd0b1d0b0d0b0d182d0b0d18020d185d0bed182d18bd0bd20d182d3a9d0b220d182d18dd0b320d186d18dd0b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91768689999999,
+          47.918537199957036
+        ]
+      }
+    }
+  ]
+}

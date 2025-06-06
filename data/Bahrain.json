@@ -1,0 +1,5340 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elite Medical Center",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "324",
+        "suburb": "Al Fatih",
+        "street": "Road 2421",
+        "housenumber": "18th floor",
+        "iso3166_2": "BH-13",
+        "lon": 50.60899745519065,
+        "lat": 26.21717745,
+        "formatted": "Elite Medical Center, 18th floor Road 2421, Manama 324, Bahrain",
+        "address_line1": "Elite Medical Center",
+        "address_line2": "18th floor Road 2421, Manama 324, Bahrain",
+        "categories": [
+          "building",
+          "building.healthcare",
+          "building.tourism",
+          "healthcare",
+          "healthcare.clinic_or_praxis",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Elite Medical Center",
+            "email": "elitemed2030@gmail.com",
+            "level": 18,
+            "phone": "+97334349282",
+            "osm_id": 485941190,
+            "amenity": "clinic",
+            "name:en": "Elite Medical Center",
+            "tourism": "viewpoint",
+            "website": "https://emcbahrain.business.site",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "manama",
+            "healthcare": "clinic",
+            "wheelchair": "yes",
+            "addr:street": 2421,
+            "description": "A Multi Speciality modern Medical Center.Located in al Manama, Al Juffair.Get treated in a comfortable atmosphere by a highly qualified staff.",
+            "addr:postcode": 324,
+            "opening_hours": "Sa-Th 09:00-22:00",
+            "addr:housenumber": "18th floor",
+            "healthcare:speciality": "general;dentistry;dermatology;gynaecology;pharmacy"
+          }
+        },
+        "website": "https://emcbahrain.business.site",
+        "opening_hours": "Sa-Th 09:00-22:00",
+        "description": "A Multi Speciality modern Medical Center.Located in al Manama, Al Juffair.Get treated in a comfortable atmosphere by a highly qualified staff.",
+        "name_international": {
+          "en": "Elite Medical Center"
+        },
+        "contact": {
+          "phone": "+97334349282",
+          "email": "elitemed2030@gmail.com"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "place_id": "510eb2eca0f34d494059d6c9fdf098373a40f00102f901c6dff61c00000000920314456c697465204d65646963616c2043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.60899745519065,
+          26.217177450141968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TerraFirma Spc office",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Al-Hidd",
+        "postcode": "0510",
+        "suburb": "Salman Industrial City",
+        "street": "Road 1510",
+        "housenumber": "33",
+        "iso3166_2": "BH-15",
+        "lon": 50.6748182,
+        "lat": 26.2230423,
+        "formatted": "TerraFirma Spc office, 33 Road 1510, Al-Hidd 0510, Bahrain",
+        "address_line1": "TerraFirma Spc office",
+        "address_line2": "33 Road 1510, Al-Hidd 0510, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "TerraFirma Spc office",
+            "email": "info@terrafirma.biz",
+            "osm_id": 4353442791,
+            "name:en": "TerraFirma Spc office",
+            "tourism": "attraction",
+            "website": "https://terrafirma.biz/",
+            "osm_type": "n",
+            "addr:street": 1510,
+            "addr:postcode": "0510",
+            "opening_hours": "Su-Th 08:30-16:30",
+            "addr:housenumber": 33
+          }
+        },
+        "website": "https://terrafirma.biz/",
+        "opening_hours": "Su-Th 08:30-16:30",
+        "name_international": {
+          "en": "TerraFirma Spc office"
+        },
+        "contact": {
+          "email": "info@terrafirma.biz"
+        },
+        "place_id": "516fdf5971605649405956bbd84c19393a40f00103f901e7437c030100000092031554657272614669726d6120537063206f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6748182,
+          26.223042300141366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حلبة البحرين الدولية",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "city": "Zallaq",
+        "postcode": "902",
+        "street": "Gulf of Bahrain Avenue",
+        "iso3166_2": "BH-14",
+        "lon": 50.51452074628078,
+        "lat": 26.03169845,
+        "formatted": "Bahrain International Circuit, Gulf of Bahrain Avenue, Zallaq 902, Bahrain",
+        "address_line1": "Bahrain International Circuit",
+        "address_line2": "Gulf of Bahrain Avenue, Zallaq 902, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "حلبة البحرين الدولية",
+            "phone": "+973 17450000",
+            "sport": "motor",
+            "osm_id": 156351878,
+            "name:ar": "حلبة البحرين الدولية",
+            "name:en": "Bahrain International Circuit",
+            "name:it": "Circuito Sakhir di Manama",
+            "name:ru": "Международный автодром Бахрейна",
+            "tourism": "attraction",
+            "int_name": "Bahrain International Circuit",
+            "osm_type": "w",
+            "wikidata": "Q171332",
+            "addr:city": "صخير",
+            "wikipedia": "en:Bahrain International Circuit",
+            "start_date": 2004,
+            "wheelchair": "yes",
+            "toilets:wheelchair": "yes"
+          }
+        },
+        "name_international": {
+          "ar": "حلبة البحرين الدولية",
+          "en": "Bahrain International Circuit",
+          "it": "Circuito Sakhir di Manama",
+          "ru": "Международный автодром Бахрейна"
+        },
+        "contact": {
+          "phone": "+973 17450000"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "toilets": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q171332",
+          "wikipedia": "en:Bahrain International Circuit"
+        },
+        "place_id": "51d931d9d0db4149405988c6be631d083a40f00102f90186bd510900000000920326d8add984d8a8d8a920d8a7d984d8a8d8add8b1d98ad98620d8a7d984d8afd988d984d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51452074628077,
+          26.03169845016103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ورش",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Qatif Governorate",
+        "city": "Tarout",
+        "postcode": "32617",
+        "street": "Ammar Ibn Yasir St.",
+        "iso3166_2": "SA-04",
+        "lon": 50.0422203,
+        "lat": 26.5877188,
+        "formatted": "workshop Qatif Aluminum and metal work, Ammar Ibn Yasir St., Tarout 32617, Saudi Arabia",
+        "address_line1": "workshop Qatif Aluminum and metal work",
+        "address_line2": "Ammar Ibn Yasir St., Tarout 32617, Saudi Arabia",
+        "categories": [
+          "office",
+          "office.company",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ورش",
+            "phone": "+966 533 939312",
+            "office": "company",
+            "osm_id": 5368779822,
+            "name:en": "workshop Qatif Aluminum and metal work",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:street": "تركيا الصناعية",
+            "opening_hours": "Mo-Su 07:30-12:00, 15:00-19:00"
+          }
+        },
+        "opening_hours": "Mo-Su 07:30-12:00, 15:00-19:00",
+        "name_international": {
+          "en": "workshop Qatif Aluminum and metal work"
+        },
+        "contact": {
+          "phone": "+966 533 939312"
+        },
+        "place_id": "5117dd8b79670549405997af41bd74963a40f00103f9012e14014001000000920306d988d8b1d8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.04222029999999,
+          26.587718800102802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arad Fort",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Arad",
+        "postcode": "210",
+        "suburb": "Halat Al-Sletah",
+        "street": "Road 4229",
+        "iso3166_2": "BH-15",
+        "lon": 50.627166940752645,
+        "lat": 26.2524798,
+        "formatted": "Arad Fort, Road 4229, Arad 210, Bahrain",
+        "address_line1": "Arad Fort",
+        "address_line2": "Road 4229, Arad 210, Bahrain",
+        "categories": [
+          "access",
+          "access.yes",
+          "fee",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Arad Fort",
+            "access": "yes",
+            "charge": "1 BHD",
+            "osm_id": 28657641,
+            "name:ar": "قلعة عراد",
+            "name:de": "Arad Fort",
+            "name:en": "Arad Fort",
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "w",
+            "wikidata": "Q3078134",
+            "fee:price": "1 BHD",
+            "wikipedia": "en:Arad Fort",
+            "fee:amount": "1 BHD",
+            "description": "15th-century fort. Access permitted, fee payable"
+          }
+        },
+        "description": "15th-century fort. Access permitted, fee payable",
+        "name_international": {
+          "ar": "قلعة عراد",
+          "de": "Arad Fort",
+          "en": "Arad Fort"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3078134",
+          "wikipedia": "en:Arad Fort"
+        },
+        "historic": {
+          "type": "castle"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "511ed59d0147504940599e7e2484a2403a40f00102f901e947b501000000009203094172616420466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.627166940752645,
+          26.252479800138296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مسجد أحمد الفاتح",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "321",
+        "suburb": "Al-Qudaibiya",
+        "street": "Al Fatih Highway",
+        "iso3166_2": "BH-13",
+        "lon": 50.5983461050795,
+        "lat": 26.21897245,
+        "formatted": "Al Fateh Grand Mosque, Al Fatih Highway, Manama 321, Bahrain",
+        "address_line1": "Al Fateh Grand Mosque",
+        "address_line2": "Al Fatih Highway, Manama 321, Bahrain",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.islam",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.mosque"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مسجد أحمد الفاتح",
+            "osm_id": 29253447,
+            "amenity": "place_of_worship",
+            "name:ar": "مسجد أحمد الفاتح",
+            "name:en": "Al Fateh Grand Mosque",
+            "name:ru": "Мечеть Аль-Фатиха",
+            "tourism": "attraction",
+            "building": "mosque",
+            "osm_type": "w",
+            "religion": "muslim",
+            "wikidata": "Q2086076",
+            "wikipedia": "ar:جامع أحمد الفاتح (البحرين)",
+            "start_date": 1988,
+            "addr:country": "BH",
+            "denomination": "sunni",
+            "service_times": "09:00-16:00"
+          }
+        },
+        "name_international": {
+          "ar": "مسجد أحمد الفاتح",
+          "en": "Al Fateh Grand Mosque",
+          "ru": "Мечеть Аль-Фатиха"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2086076",
+          "wikipedia": "ar:جامع أحمد الفاتح (البحرين)"
+        },
+        "building": {
+          "type": "mosque",
+          "start_date": 1988
+        },
+        "place_of_worship": {
+          "religion": "muslim",
+          "denomination": "sunni"
+        },
+        "place_id": "51b280ec9a964c4940597e1518940e383a40f00102f901475fbe010000000092031ed985d8b3d8acd8af20d8a3d8add985d8af20d8a7d984d981d8a7d8aad8ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5983461050795,
+          26.218972450141784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbar Temple",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "A'ali",
+        "postcode": "509",
+        "street": "Road 1803",
+        "iso3166_2": "BH-17",
+        "lon": 50.48416050359492,
+        "lat": 26.226195099999998,
+        "formatted": "Barbar Temple, Road 1803, A'ali 509, Bahrain",
+        "address_line1": "Barbar Temple",
+        "address_line2": "Road 1803, A'ali 509, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Barbar Temple",
+            "osm_id": 174275472,
+            "name:ar": "معبد باربار",
+            "name:de": "Barbar-Tempel",
+            "name:en": "Barbar Temple",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "wikidata": "Q807317",
+            "wikipedia": "en:Barbar Temple"
+          }
+        },
+        "name_international": {
+          "ar": "معبد باربار",
+          "de": "Barbar-Tempel",
+          "en": "Barbar Temple"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q807317",
+          "wikipedia": "en:Barbar Temple"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "513f7aacf8f83d494059079f0dece7393a40f00102f901903b630a0000000092030d4261726261722054656d706c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.484160503594914,
+          26.226195100141037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rifa Fort",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "city": "Riffa",
+        "postcode": "913",
+        "street": "Shaikh Humood Bin Subah Avenue",
+        "iso3166_2": "BH-14",
+        "lon": 50.56296809247546,
+        "lat": 26.11769885,
+        "formatted": "Rifa Fort, Shaikh Humood Bin Subah Avenue, Riffa 913, Bahrain",
+        "address_line1": "Rifa Fort",
+        "address_line2": "Shaikh Humood Bin Subah Avenue, Riffa 913, Bahrain",
+        "categories": [
+          "access",
+          "access.yes",
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.fort"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rifa Fort",
+            "access": "yes",
+            "osm_id": 174275928,
+            "name:ar": "قلعة الرفاع",
+            "name:de": "Rifa Fort",
+            "name:en": "Rifa Fort",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "fort",
+            "osm_type": "w",
+            "wikidata": "Q2189330",
+            "wikipedia": "en:Riffa Fort"
+          }
+        },
+        "name_international": {
+          "ar": "قلعة الرفاع",
+          "de": "Rifa Fort",
+          "en": "Rifa Fort"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2189330",
+          "wikipedia": "en:Riffa Fort"
+        },
+        "historic": {
+          "type": "fort"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "51d2efa4560f48494059422e0883211e3a40f00102f901583d630a000000009203095269666120466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.56296809247546,
+          26.117698850152244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gudaibiya Palace",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "338",
+        "suburb": "Al-Qudaibiya",
+        "street": "Bani Otbah Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.59267088166666,
+        "lat": 26.218554849999997,
+        "formatted": "Gudaibiya Palace, Bani Otbah Avenue, Manama 338, Bahrain",
+        "address_line1": "Gudaibiya Palace",
+        "address_line2": "Bani Otbah Avenue, Manama 338, Bahrain",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gudaibiya Palace",
+            "osm_id": 175309894,
+            "name:en": "Gudaibiya Palace",
+            "tourism": "attraction",
+            "alt_name": "Al-Qudaibiya Palace",
+            "building": "yes",
+            "osm_type": "w",
+            "wikipedia": "en:Al-Qudaibiya Palace"
+          }
+        },
+        "name_other": {
+          "alt_name": "Al-Qudaibiya Palace"
+        },
+        "name_international": {
+          "en": "Gudaibiya Palace"
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Al-Qudaibiya Palace"
+        },
+        "place_id": "516006b3a3dc4b494059c8bded35f3373a40f00102f9014604730a000000009203104775646169626979612050616c616365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.59267088166666,
+          26.218554850141828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bab Al Bahrain",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "301",
+        "district": "Bahrain Financial Harbor",
+        "suburb": "Al Hoora",
+        "street": "Bab Al-Bahrain Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.57563198968816,
+        "lat": 26.23400845,
+        "formatted": "Bab Al Bahrain, Bab Al-Bahrain Avenue, Manama 301, Bahrain",
+        "address_line1": "Bab Al Bahrain",
+        "address_line2": "Bab Al-Bahrain Avenue, Manama 301, Bahrain",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bab Al Bahrain",
+            "osm_id": 199998746,
+            "name:en": "Bab Al Bahrain",
+            "tourism": "attraction",
+            "building": "yes",
+            "int_name": "Gateway of Bahrain",
+            "osm_type": "w",
+            "wikidata": "Q2877666"
+          }
+        },
+        "name_international": {
+          "en": "Bab Al Bahrain"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2877666"
+        },
+        "place_id": "51fb1e1d4fae49494059035750fae73b3a40f00102f9011abdeb0b0000000092030e42616220416c204261687261696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.575631989688155,
+          26.23400845014022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شجرة الحياة",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "street": "Road 5926",
+        "iso3166_2": "BH-14",
+        "lon": 50.5829469,
+        "lat": 25.9941208,
+        "formatted": "Tree of Life, Road 5926, Bahrain",
+        "address_line1": "Tree of Life",
+        "address_line2": "Road 5926, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "age": "mature",
+            "name": "شجرة الحياة",
+            "genus": "Prosopis",
+            "height": 9.8,
+            "osm_id": 324465586,
+            "name:ar": "شجرة الحياة",
+            "name:de": "Schadscharat al-Haya",
+            "name:en": "Tree of Life",
+            "name:es": "Árbol de la Vida",
+            "name:ru": "Древо жизни",
+            "natural": "tree",
+            "species": "Prosopis cineraria",
+            "tourism": "attraction",
+            "monument": "tree",
+            "osm_type": "n",
+            "wikidata": "Q1542275",
+            "leaf_type": "broadleaved",
+            "wikipedia": "ar:شجرة الحياة (البحرين)",
+            "denotation": "natural_monument",
+            "species:ar": "غاف رمادي",
+            "start_date": 1582,
+            "wheelchair": "no",
+            "diameter_crown": 26,
+            "wikimedia_commons": "File:Tree_of_Life_Bahrain.jpg"
+          }
+        },
+        "name_international": {
+          "ar": "شجرة الحياة",
+          "de": "Schadscharat al-Haya",
+          "en": "Tree of Life",
+          "es": "Árbol de la Vida",
+          "ru": "Древо жизни"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1542275",
+          "wikipedia": "ar:شجرة الحياة (البحرين)",
+          "wikimedia_commons": "File:Tree_of_Life_Bahrain.jpg"
+        },
+        "place_id": "51fc6607019e4a4940593afb64b37efe3940f00103f901b2f3561300000000920315d8b4d8acd8b1d8a920d8a7d984d8add98ad8a7d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.582946899999996,
+          25.994120800164843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adhari Theme Park",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "701",
+        "street": "Shaikh Isa Bin Salman Highway",
+        "iso3166_2": "BH-13",
+        "lon": 50.5443427,
+        "lat": 26.1976612,
+        "formatted": "Adhari Theme Park, Shaikh Isa Bin Salman Highway, Manama 701, Bahrain",
+        "address_line1": "Adhari Theme Park",
+        "address_line2": "Shaikh Isa Bin Salman Highway, Manama 701, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Adhari Theme Park",
+            "osm_id": 4194147990,
+            "name:en": "Adhari Theme Park",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Sheikh Salman Highway",
+            "opening_hours": "Mo-Su 16:00-00:00"
+          }
+        },
+        "opening_hours": "Mo-Su 16:00-00:00",
+        "name_international": {
+          "en": "Adhari Theme Park"
+        },
+        "place_id": "517e288705ad45494059794ea6ec99323a40f00103f901969efdf900000000920311416468617269205468656d65205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5443427,
+          26.197661200143987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سوق جدحفص الشعبي",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "406",
+        "street": "Road 2143",
+        "housenumber": "11",
+        "iso3166_2": "BH-13",
+        "lon": 50.5395604,
+        "lat": 26.2197995,
+        "formatted": "سوق جدحفص الشعبي, 11 Road 2143, Jid Hafs 406, Bahrain",
+        "address_line1": "سوق جدحفص الشعبي",
+        "address_line2": "11 Road 2143, Jid Hafs 406, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سوق جدحفص الشعبي",
+            "osm_id": 4210201294,
+            "name:ar": "سوق جدحفص الشعبي",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 05:00-20:00",
+            "addr:housenumber": 11
+          }
+        },
+        "opening_hours": "Mo-Su 05:00-20:00",
+        "name_international": {
+          "ar": "سوق جدحفص الشعبي"
+        },
+        "place_id": "51bc1bb050104549405929c9b0c744383a40f00103f901ce92f2fa0000000092031ed8b3d988d98220d8acd8afd8add981d8b520d8a7d984d8b4d8b9d8a8d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5395604,
+          26.219799500141708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "محميه العرين المحافضه الجنوبيه البحرين",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "street": "Avenue 60",
+        "iso3166_2": "BH-14",
+        "lon": 50.5085751,
+        "lat": 25.9893127,
+        "formatted": "محميه العرين المحافضه الجنوبيه البحرين, Avenue 60, Bahrain",
+        "address_line1": "محميه العرين المحافضه الجنوبيه البحرين",
+        "address_line2": "Avenue 60, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "محميه العرين المحافضه الجنوبيه البحرين",
+            "osm_id": 4286883989,
+            "name:ar": "محميه العرين المحافضه الجنوبيه البحرين",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 07:00-18:00"
+          }
+        },
+        "opening_hours": "Mo-Su 07:00-18:00",
+        "name_international": {
+          "ar": "محميه العرين المحافضه الجنوبيه البحرين"
+        },
+        "place_id": "51ab0727fd18414940593fbadc9843fd3940f00103f90195a884ff00000000920348d985d8add985d98ad98720d8a7d984d8b9d8b1d98ad98620d8a7d984d985d8add8a7d981d8b6d98720d8a7d984d8acd986d988d8a8d98ad98720d8a7d984d8a8d8add8b1d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.508575099999995,
+          25.989312700165325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khobar Water Tower",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Khobar Governorate",
+        "city": "Al Khobar",
+        "postcode": "34413",
+        "street": "شارع الحافظ الاموي",
+        "iso3166_2": "SA-04",
+        "lon": 50.2316613,
+        "lat": 26.3076042,
+        "formatted": "Khobar Water Tower, شارع الحافظ الاموي, Al Khobar 34413, Saudi Arabia",
+        "address_line1": "Khobar Water Tower",
+        "address_line2": "شارع الحافظ الاموي, Al Khobar 34413, Saudi Arabia",
+        "categories": [
+          "man_made",
+          "man_made.water_tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khobar Water Tower",
+            "osm_id": 8753187763,
+            "tourism": "attraction",
+            "man_made": "water_tower",
+            "osm_type": "n",
+            "addr:city": "Al Khobar",
+            "addr:street": "Al Corniche",
+            "addr:postcode": 34413,
+            "wikimedia_commons": "File:Al khobar water tower.JPG"
+          }
+        },
+        "wiki_and_media": {
+          "wikimedia_commons": "File:Al khobar water tower.JPG"
+        },
+        "place_id": "51da9fd513a71d49405978ae1b26bf4e3a40f00103f901b30bbb09020000009203124b686f62617220576174657220546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2316613,
+          26.307604200132545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shadows Travelling on the Sea of the Day",
+        "country": "Qatar",
+        "country_code": "qa",
+        "state": "Ash Shamal",
+        "street": "Al Areesh Road",
+        "iso3166_2": "QA-MS",
+        "lon": 51.0548642,
+        "lat": 26.0203973,
+        "formatted": "Shadows Travelling on the Sea of the Day, Al Areesh Road, Ash Shamal, Qatar",
+        "address_line1": "Shadows Travelling on the Sea of the Day",
+        "address_line2": "Al Areesh Road, Ash Shamal, Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shadows Travelling on the Sea of the Day",
+            "osm_id": -17317146,
+            "tourism": "artwork",
+            "osm_type": "r",
+            "artist_name": "Olafur Eliasson",
+            "artwork_type": "installation"
+          }
+        },
+        "artwork": {
+          "artist_name": "Olafur Eliasson",
+          "artwork_type": "installation"
+        },
+        "place_id": "516e14596b2887494059de5171766b053a40f00101f9011a3d080100000000920328536861646f77732054726176656c6c696e67206f6e2074686520536561206f662074686520446179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.055921,
+          26.02117100016209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صرح الميثاق الوطني",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "city": "Awali",
+        "postcode": "902",
+        "street": "Zallaq Highway",
+        "iso3166_2": "BH-14",
+        "lon": 50.526662961956845,
+        "lat": 26.07127215,
+        "formatted": "Bahrain National Monument, Zallaq Highway, Awali 902, Bahrain",
+        "address_line1": "Bahrain National Monument",
+        "address_line2": "Zallaq Highway, Awali 902, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صرح الميثاق الوطني",
+            "osm_id": 176060897,
+            "name:ar": "صرح الميثاق الوطني",
+            "name:en": "Bahrain National Monument",
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "ar": "صرح الميثاق الوطني",
+          "en": "Bahrain National Monument"
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "5140cf22b16943494059380a42e43e123a40f00102f901e1797e0a00000000920322d8b5d8b1d8ad20d8a7d984d985d98ad8abd8a7d98220d8a7d984d988d8b7d986d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.526662961956845,
+          26.071272150157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Film City",
+        "country": "Qatar",
+        "country_code": "qa",
+        "state": "Al Shahaniya",
+        "iso3166_2": "QA-SH",
+        "lon": 50.84629165299531,
+        "lat": 25.57826145,
+        "formatted": "Film City, Al Shahaniya, Qatar",
+        "address_line1": "Film City",
+        "address_line2": "Al Shahaniya, Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Film City",
+            "place": "locality",
+            "osm_id": 212473103,
+            "name:en": "Film City",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Film City"
+        },
+        "place_id": "510f3fee48536c494059ca2b41f108943940f00102f9010f15aa0c0000000092030946696c6d2043697479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.84629165299531,
+          25.57826145020571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaik Isa Bin Ali House",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Muharraq",
+        "postcode": "210",
+        "street": "Shaik Abdulla Bin Isa Avenue",
+        "iso3166_2": "BH-15",
+        "lon": 50.61287622830371,
+        "lat": 26.25385765,
+        "formatted": "Shaik Isa Bin Ali House, Shaik Abdulla Bin Isa Avenue, Muharraq 210, Bahrain",
+        "address_line1": "Shaik Isa Bin Ali House",
+        "address_line2": "Shaik Abdulla Bin Isa Avenue, Muharraq 210, Bahrain",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shaik Isa Bin Ali House",
+            "osm_id": 255874515,
+            "name:en": "Shaik Isa Bin Ali House",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Shaik Isa Bin Ali House"
+        },
+        "place_id": "51b7876eba724e494059cc2ea1d0fc403a40f00102f901d355400f00000000920317536861696b204973612042696e20416c6920486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61287622830371,
+          26.25385765013816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harris",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "iso3166_2": "BH-13",
+        "lon": 50.52422270911805,
+        "lat": 26.220630149999998,
+        "formatted": "Harris, Jid Hafs 426, Bahrain",
+        "address_line1": "Harris",
+        "address_line2": "Jid Hafs 426, Bahrain",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harris",
+            "osm_id": 549384027,
+            "leisure": "park",
+            "name:en": "Harris",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Harris"
+        },
+        "place_id": "51c4bdcfba1943494059ac5eaf377b383a40f00102f9015befbe2000000000920306486172726973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.52422270911805,
+          26.220630150141616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "postcode": "902",
+        "street": "Avenue 60",
+        "iso3166_2": "BH-14",
+        "lon": 50.51011389546656,
+        "lat": 26.0263598,
+        "formatted": "Avenue 60, 902, Bahrain",
+        "address_line1": "Avenue 60",
+        "address_line2": "902, Bahrain",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Bahrain",
+            "osm_id": 961316154,
+            "tourism": "artwork",
+            "man_made": "geoglyph",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51ca2181694b414940597e9f0f84bf063a40f00102f9013a854c39000000009203074261687261696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.510113895466546,
+          26.026359800161565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Ghariya Beach",
+        "country": "Qatar",
+        "country_code": "qa",
+        "state": "Ash Shamal",
+        "street": "Al Gharia Street",
+        "iso3166_2": "QA-MS",
+        "lon": 51.3593727,
+        "lat": 26.0718948,
+        "formatted": "Al Ghariya Beach, Al Gharia Street, Ash Shamal, Qatar",
+        "address_line1": "Al Ghariya Beach",
+        "address_line2": "Al Gharia Street, Ash Shamal, Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al Ghariya Beach",
+            "osm_id": 1677642893,
+            "name:ar": "شاطىء الغارية المفتوح",
+            "name:en": "Al Ghariya Beach",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "شاطىء الغارية المفتوح",
+          "en": "Al Ghariya Beach"
+        },
+        "place_id": "51a1c9b4ecffad4940592c6d97b267123a40f00103f9018dccfe6300000000920310416c2047686172697961204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3593727,
+          26.071894800156926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Falcon",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Muharraq",
+        "postcode": "210",
+        "suburb": "Halat Al-Sletah",
+        "street": "Khalifa Al-Kabeer Highway",
+        "iso3166_2": "BH-15",
+        "lon": 50.6217237,
+        "lat": 26.2585561,
+        "formatted": "The Falcon, Khalifa Al-Kabeer Highway, Muharraq 210, Bahrain",
+        "address_line1": "The Falcon",
+        "address_line2": "Khalifa Al-Kabeer Highway, Muharraq 210, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Falcon",
+            "osm_id": 2099813969,
+            "name:en": "The Falcon",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "The Falcon"
+        },
+        "place_id": "51f45267a4944f494059c7458abb30423a40f00103f901519e287d0000000092030a5468652046616c636f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.62172369999999,
+          26.258556100137664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Rahman Yusuf Bin Jalal House",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Muharraq",
+        "postcode": "210",
+        "street": "Lane 917",
+        "iso3166_2": "BH-15",
+        "lon": 50.6117883,
+        "lat": 26.2541203,
+        "formatted": "A Rahman Yusuf Bin Jalal House, Lane 917, Muharraq 210, Bahrain",
+        "address_line1": "A Rahman Yusuf Bin Jalal House",
+        "address_line2": "Lane 917, Muharraq 210, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "A Rahman Yusuf Bin Jalal House",
+            "osm_id": 2615894495,
+            "name:en": "A Rahman Yusuf Bin Jalal House",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "A Rahman Yusuf Bin Jalal House"
+        },
+        "place_id": "51a7493a144f4e494059ca572a070e413a40f00103f901df61eb9b0000000092031e41205261686d616e2059757375662042696e204a616c616c20486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61178829999999,
+          26.25412030013812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siyadi House",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Muharraq",
+        "postcode": "210",
+        "street": "Lane 905",
+        "iso3166_2": "BH-15",
+        "lon": 50.6126769,
+        "lat": 26.2552141,
+        "formatted": "Siyadi House, Lane 905, Muharraq 210, Bahrain",
+        "address_line1": "Siyadi House",
+        "address_line2": "Lane 905, Muharraq 210, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siyadi House",
+            "osm_id": 2615894502,
+            "name:en": "Siyadi House",
+            "tourism": "attraction",
+            "historic": "house",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Siyadi House"
+        },
+        "historic": {
+          "type": "house"
+        },
+        "place_id": "51df4158326c4e494059259215b655413a40f00103f901e661eb9b0000000092030c53697961646920486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61267689999999,
+          26.255214100138023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East-West/West-East",
+        "country": "Qatar",
+        "country_code": "qa",
+        "state": "Al Shahaniya",
+        "city": "Zekreet",
+        "street": "Street 101",
+        "iso3166_2": "QA-SH",
+        "lon": 50.8625113,
+        "lat": 25.5165411,
+        "formatted": "east-west/west-east, Street 101, Zekreet, Qatar",
+        "address_line1": "east-west/west-east",
+        "address_line2": "Street 101, Zekreet, Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "East-West/West-East",
+            "osm_id": 3315229310,
+            "name:en": "east-west/west-east",
+            "tourism": "artwork",
+            "material": "steel",
+            "osm_type": "n",
+            "artist_name": "Richard Serra",
+            "artwork_type": "installation"
+          }
+        },
+        "name_international": {
+          "en": "east-west/west-east"
+        },
+        "artwork": {
+          "artist_name": "Richard Serra",
+          "artwork_type": "installation"
+        },
+        "place_id": "5118f730c5666e494059d1729c093c843940f00103f9017e629ac500000000920313456173742d576573742f576573742d45617374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.862511299999994,
+          25.51654110021156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East-West/West-East",
+        "country": "Qatar",
+        "country_code": "qa",
+        "state": "Al Shahaniya",
+        "city": "Zekreet",
+        "street": "Street 101",
+        "iso3166_2": "QA-SH",
+        "lon": 50.8652665,
+        "lat": 25.5167515,
+        "formatted": "East-West/West-East, Street 101, Zekreet, Qatar",
+        "address_line1": "East-West/West-East",
+        "address_line2": "Street 101, Zekreet, Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "East-West/West-East",
+            "osm_id": 3315234309,
+            "tourism": "artwork",
+            "material": "steel",
+            "osm_type": "n",
+            "artist_name": "Richard Serra",
+            "artwork_type": "installation"
+          }
+        },
+        "artwork": {
+          "artist_name": "Richard Serra",
+          "artwork_type": "installation"
+        },
+        "place_id": "5184e97b0dc16e494059449189d349843940f00103f90105769ac500000000920313456173742d576573742f576573742d45617374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.86526649999999,
+          25.516751500211527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East-West/West-East",
+        "country": "Qatar",
+        "country_code": "qa",
+        "state": "Al Shahaniya",
+        "city": "Zekreet",
+        "street": "Street 101",
+        "iso3166_2": "QA-SH",
+        "lon": 50.8693874,
+        "lat": 25.5170662,
+        "formatted": "East-West/West-East, Street 101, Zekreet, Qatar",
+        "address_line1": "East-West/West-East",
+        "address_line2": "Street 101, Zekreet, Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "East-West/West-East",
+            "osm_id": 3315237534,
+            "tourism": "artwork",
+            "material": "steel",
+            "osm_type": "n",
+            "artist_name": "Richard Serra",
+            "artwork_type": "installation"
+          }
+        },
+        "artwork": {
+          "artist_name": "Richard Serra",
+          "artwork_type": "installation"
+        },
+        "place_id": "51f8461916486f49405981c653735e843940f00103f9019e829ac500000000920313456173742d576573742f576573742d45617374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.869387399999994,
+          25.517066200211506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East-West/West-East",
+        "country": "Qatar",
+        "country_code": "qa",
+        "state": "Al Shahaniya",
+        "city": "Zekreet",
+        "street": "Street 101",
+        "iso3166_2": "QA-SH",
+        "lon": 50.8709744,
+        "lat": 25.5171874,
+        "formatted": "east-west/west-east, Street 101, Zekreet, Qatar",
+        "address_line1": "east-west/west-east",
+        "address_line2": "Street 101, Zekreet, Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "East-West/West-East",
+            "osm_id": 3315246263,
+            "name:en": "east-west/west-east",
+            "tourism": "artwork",
+            "material": "steel",
+            "osm_type": "n",
+            "start_date": 2014,
+            "artist_name": "Richard Serra",
+            "artwork_type": "installation"
+          }
+        },
+        "name_international": {
+          "en": "east-west/west-east"
+        },
+        "artwork": {
+          "artist_name": "Richard Serra",
+          "artwork_type": "installation",
+          "start_date": 2014
+        },
+        "place_id": "519cd3d1167c6f494059c8cfb96466843940f00103f901b7a49ac500000000920313456173742d576573742f576573742d45617374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.870974399999994,
+          25.517187400211498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "al shalawi dammam",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "32273",
+        "street": "King Abdulaziz Rd",
+        "iso3166_2": "SA-04",
+        "lon": 50.0742649,
+        "lat": 26.3357566,
+        "formatted": "al shalawi dammam, King Abdulaziz Rd, Dhahran 32273, Saudi Arabia",
+        "address_line1": "al shalawi dammam",
+        "address_line2": "King Abdulaziz Rd, Dhahran 32273, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "al shalawi dammam",
+            "osm_id": 4165511091,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d05e2283810949405902f90025f4553a40f00103f901b3a748f800000000920311616c207368616c6177692064616d6d616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0742649,
+          26.335756600129578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "طيران الخليج",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "city": "Zallaq",
+        "postcode": "902",
+        "street": "Gulf of Bahrain Avenue",
+        "iso3166_2": "BH-14",
+        "lon": 50.5107505,
+        "lat": 26.0371881,
+        "formatted": "Gulf Air, Gulf of Bahrain Avenue, Zallaq 902, Bahrain",
+        "address_line1": "Gulf Air",
+        "address_line2": "Gulf of Bahrain Avenue, Zallaq 902, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "طيران الخليج",
+            "osm_id": 4166632699,
+            "name:ar": "طيران الخليج",
+            "name:en": "Gulf Air",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "طيران الخليج",
+          "en": "Gulf Air"
+        },
+        "place_id": "5134f5ba45604149405957fdc92885093a40f00103f901fbc459f800000000920317d8b7d98ad8b1d8a7d98620d8a7d984d8aed984d98ad8ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5107505,
+          26.037188100160474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مسجد الشيخ عزيز البحرين",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Salmabad",
+        "postcode": "431",
+        "street": "Shela Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5345787,
+        "lat": 26.2040781,
+        "formatted": "مسجد الشيخ عزيز البحرين, Shela Avenue, Salmabad 431, Bahrain",
+        "address_line1": "مسجد الشيخ عزيز البحرين",
+        "address_line2": "Shela Avenue, Salmabad 431, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مسجد الشيخ عزيز البحرين",
+            "osm_id": 4178725363,
+            "name:ar": "مسجد الشيخ عزيز البحرين",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مسجد الشيخ عزيز البحرين"
+        },
+        "place_id": "51b1d128136d4449405907f25d763e343a40f00103f901f34912f90000000092032bd985d8b3d8acd8af20d8a7d984d8b4d98ad8ae20d8b9d8b2d98ad8b220d8a7d984d8a8d8add8b1d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.534578700000004,
+          26.20407810014333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reef Is.",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "346",
+        "district": "Bahrain Financial Harbor",
+        "suburb": "Sea Front",
+        "street": "Road 4652",
+        "iso3166_2": "BH-13",
+        "lon": 50.5633831,
+        "lat": 26.244674,
+        "formatted": "Reef Is., Road 4652, Manama 346, Bahrain",
+        "address_line1": "Reef Is.",
+        "address_line2": "Road 4652, Manama 346, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Reef Is.",
+            "osm_id": 4192147090,
+            "name:ar": "جزيرة الريف",
+            "name:en": "Reef Is.",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "جزيرة الريف",
+          "en": "Reef Is."
+        },
+        "place_id": "513fcffaef1c484940596bc78cf4a23e3a40f00103f9019216dff900000000920308526565662049732e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5633831,
+          26.24467400013911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My combani",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Qatif Governorate",
+        "city": "Sayhat",
+        "postcode": "31483",
+        "street": "613",
+        "iso3166_2": "SA-04",
+        "lon": 50.0385813,
+        "lat": 26.4529622,
+        "formatted": "My combani, 613, Sayhat 31483, Saudi Arabia",
+        "address_line1": "My combani",
+        "address_line2": "613, Sayhat 31483, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "My combani",
+            "osm_id": 4227923889,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515bde663bf004494059dfd3ab54f5733a40f00103f901b1ff00fc0000000092030a4d7920636f6d62616e69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0385813,
+          26.45296220011721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wahooo Water park",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "404",
+        "suburb": "Al-Burhama",
+        "street": "Highway 68",
+        "iso3166_2": "BH-13",
+        "lon": 50.5519589,
+        "lat": 26.2342568,
+        "formatted": "Wahooo Water park, Highway 68, Manama 404, Bahrain",
+        "address_line1": "Wahooo Water park",
+        "address_line2": "Highway 68, Manama 404, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wahooo Water park",
+            "osm_id": 4231620689,
+            "name:en": "Wahooo Water park",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Wahooo Water park"
+        },
+        "place_id": "513a1ed896a646494059c077ef40f83b3a40f00103f901516839fc000000009203115761686f6f6f205761746572207061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5519589,
+          26.2342568001402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "doha",
+        "country": "Qatar",
+        "country_code": "qa",
+        "lon": 50.9428716,
+        "lat": 26.0732324,
+        "formatted": "doha, Qatar",
+        "address_line1": "doha",
+        "address_line2": "Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "doha",
+            "osm_id": 4239043116,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e0293f04b07849405957aecb5bbf123a40f00103f9012caaaafc00000000920304646f6861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.94287159999999,
+          26.073232400156794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "تجربة",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "city": "Riffa",
+        "postcode": "912",
+        "street": "Shaikh Salman Highway",
+        "iso3166_2": "BH-14",
+        "lon": 50.5355954,
+        "lat": 26.1217391,
+        "formatted": "تجربة, Shaikh Salman Highway, Riffa 912, Bahrain",
+        "address_line1": "تجربة",
+        "address_line2": "Shaikh Salman Highway, Riffa 912, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "تجربة",
+            "osm_id": 4245894590,
+            "name:ar": "تجربة",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "تجربة"
+        },
+        "place_id": "51ac71db638e44494059eecb2d4b2a1f3a40f00103f901be3513fd0000000092030ad8aad8acd8b1d8a8d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.535595400000005,
+          26.121739100151835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nukhbat Office",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Khobar Governorate",
+        "city": "Ath Thuqbah",
+        "postcode": "34612",
+        "street": "Southern Street",
+        "iso3166_2": "SA-04",
+        "lon": 50.2006869,
+        "lat": 26.250893,
+        "formatted": "Nukhbat Office, Southern Street, Ath Thuqbah 34612, Saudi Arabia",
+        "address_line1": "Nukhbat Office",
+        "address_line2": "Southern Street, Ath Thuqbah 34612, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nukhbat Office",
+            "osm_id": 4246883914,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51281ebc1bb019494059db630e863a403a40f00103f9014a4e22fd0000000092030e4e756b68626174204f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.200686899999994,
+          26.250893000138472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حنان البحرين امواج",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Amwaj Islands",
+        "postcode": "257",
+        "suburb": "The International school of Choueifat",
+        "street": "Road 5718",
+        "iso3166_2": "BH-15",
+        "lon": 50.6683381,
+        "lat": 26.2876898,
+        "formatted": "حنان البحرين امواج, Road 5718, Amwaj Islands 257, Bahrain",
+        "address_line1": "حنان البحرين امواج",
+        "address_line2": "Road 5718, Amwaj Islands 257, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "حنان البحرين امواج",
+            "osm_id": 4248954394,
+            "name:ar": "حنان البحرين امواج",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "حنان البحرين امواج"
+        },
+        "place_id": "51db15551a8c5549405993f8ea09a6493a40f00103f9011ae641fd00000000920322d8add986d8a7d98620d8a7d984d8a8d8add8b1d98ad98620d8a7d985d988d8a7d8ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.66833809999999,
+          26.287689800134626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الجزيرة البحرين",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "1859",
+        "suburb": "Bu Ashira",
+        "street": "Abdulrahman Jassim Kanoo Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5759145,
+        "lat": 26.2067322,
+        "formatted": "الجزيرة البحرين, Abdulrahman Jassim Kanoo Avenue, Manama 1859, Bahrain",
+        "address_line1": "الجزيرة البحرين",
+        "address_line2": "Abdulrahman Jassim Kanoo Avenue, Manama 1859, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الجزيرة البحرين",
+            "osm_id": 4250581592,
+            "name:ar": "الجزيرة البحرين",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الجزيرة البحرين"
+        },
+        "place_id": "516665fb90b74949405902a5c666ec343a40f00103f90158ba5afd0000000092031dd8a7d984d8acd8b2d98ad8b1d8a920d8a7d984d8a8d8add8b1d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.575914499999996,
+          26.20673220014306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ناندوز البحرين الجفير",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "338",
+        "suburb": "Al-Juffair",
+        "street": "Road 4005",
+        "iso3166_2": "BH-13",
+        "lon": 50.6001947,
+        "lat": 26.2140872,
+        "formatted": "ناندوز البحرين الجفير, Road 4005, Manama 338, Bahrain",
+        "address_line1": "ناندوز البحرين الجفير",
+        "address_line2": "Road 4005, Manama 338, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ناندوز البحرين الجفير",
+            "osm_id": 4250585891,
+            "name:ar": "ناندوز البحرين الجفير",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "ناندوز البحرين الجفير"
+        },
+        "place_id": "51c3dd0f2ed34c494059761a336bce363a40f00103f90123cb5afd00000000920328d986d8a7d986d8afd988d8b220d8a7d984d8a8d8add8b1d98ad98620d8a7d984d8acd981d98ad8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.600194699999996,
+          26.214087200142295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bait shawaya dammam",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "31451",
+        "district": "Al Badiyah",
+        "suburb": "Ibn Khaldun",
+        "street": "King Fahd Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.0966168,
+        "lat": 26.4283241,
+        "formatted": "Bait shawaya dammam, King Fahd Road, Ibn Khaldun, Dammam 31451, Saudi Arabia",
+        "address_line1": "Bait shawaya dammam",
+        "address_line2": "King Fahd Road, Ibn Khaldun, Dammam 31451, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bait shawaya dammam",
+            "osm_id": 4257607994,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51411f76f05d0c4940596d1af2a5a66d3a40f00103f9013af1c5fd000000009203134261697420736861776179612064616d6d616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0966168,
+          26.428324100119813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ساحل البديع",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "Budaiya",
+        "postcode": "533",
+        "street": "Avenue 59",
+        "iso3166_2": "BH-17",
+        "lon": 50.446364,
+        "lat": 26.2059558,
+        "formatted": "ساحل البديع, Avenue 59, Budaiya 533, Bahrain",
+        "address_line1": "ساحل البديع",
+        "address_line2": "Avenue 59, Budaiya 533, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ساحل البديع",
+            "osm_id": 4261892091,
+            "name:ar": "ساحل البديع",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "ساحل البديع"
+        },
+        "place_id": "514e0e9f7422394940594b09f284b9343a40f00103f901fb4f07fe00000000920315d8b3d8a7d8add98420d8a7d984d8a8d8afd98ad8b9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.446364,
+          26.20595580014314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khalid sahb",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "32233",
+        "suburb": "Ibn Khaldun",
+        "street": "Prince Mohammed Bin Fahd Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.1093852,
+        "lat": 26.420967,
+        "formatted": "Khalid sahb, Prince Mohammed Bin Fahd Road, Ibn Khaldun, Dammam 32233, Saudi Arabia",
+        "address_line1": "Khalid sahb",
+        "address_line2": "Prince Mohammed Bin Fahd Road, Ibn Khaldun, Dammam 32233, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khalid sahb",
+            "osm_id": 4263082289,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514c559055000e49405994364a7ec46b3a40f00103f901317919fe0000000092030b4b68616c69642073616862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.10938519999999,
+          26.420967000120598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كورنيش القطيف",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Qatif Governorate",
+        "city": "`Inak",
+        "postcode": "31911",
+        "street": "Al Khaleej Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.027713,
+        "lat": 26.542592,
+        "formatted": "كورنيش القطيف, Al Khaleej Road, `Inak 31911, Saudi Arabia",
+        "address_line1": "كورنيش القطيف",
+        "address_line2": "Al Khaleej Road, `Inak 31911, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كورنيش القطيف",
+            "osm_id": 4275785490,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5147567e198c0349405996882f4fe78a3a40f00103f901124fdbfe00000000920319d983d988d8b1d986d98ad8b420d8a7d984d982d8b7d98ad981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.027713,
+          26.54259200010764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الواجهة البحريه",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "32411",
+        "suburb": "Ash Shati Ash Sharqi",
+        "street": "King Abdullah Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.1174227,
+        "lat": 26.4877011,
+        "formatted": "الواجهة البحريه, King Abdullah Road, Ash Shati Ash Sharqi, Dammam 32411, Saudi Arabia",
+        "address_line1": "الواجهة البحريه",
+        "address_line2": "King Abdullah Road, Ash Shati Ash Sharqi, Dammam 32411, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الواجهة البحريه",
+            "osm_id": 4275832091,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516c2700b5070f494059f235b3fad97c3a40f00103f9011b05dcfe0000000092031dd8a7d984d988d8a7d8acd987d8a920d8a7d984d8a8d8add8b1d98ad987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11742269999999,
+          26.487701100113505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaffar bhai",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "32243",
+        "street": "Prince Naif Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.0688392,
+        "lat": 26.4285632,
+        "formatted": "Jaffar bhai, Prince Naif Road, Dammam 32243, Saudi Arabia",
+        "address_line1": "Jaffar bhai",
+        "address_line2": "Prince Naif Road, Dammam 32243, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jaffar bhai",
+            "osm_id": 4280647189,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51665710b9cf084940599ac86051b66d3a40f00103f901157e25ff0000000092030b4a61666661722062686169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0688392,
+          26.42856320011979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al ghariya exit",
+        "country": "Qatar",
+        "country_code": "qa",
+        "state": "Ash Shamal",
+        "street": "Al Shamal Road",
+        "iso3166_2": "QA-MS",
+        "lon": 51.3329727,
+        "lat": 26.0407764,
+        "formatted": "Al ghariya exit, Al Shamal Road, Ash Shamal, Qatar",
+        "address_line1": "Al ghariya exit",
+        "address_line2": "Al Shamal Road, Ash Shamal, Qatar",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al ghariya exit",
+            "osm_id": 4291023492,
+            "name:en": "Al ghariya exit",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Al ghariya exit"
+        },
+        "place_id": "51fb7a74d99eaa494059e4227952700a3a40f00103f90184d2c3ff0000000092030f416c20676861726979612065786974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.33297269999999,
+          26.040776400160112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مطار البحرين الدولي",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Muharraq",
+        "postcode": "204",
+        "suburb": "Arad",
+        "street": "Road 2403",
+        "iso3166_2": "BH-15",
+        "lon": 50.6268579,
+        "lat": 26.2696169,
+        "formatted": "Bahrain International Airport, Road 2403, Muharraq 204, Bahrain",
+        "address_line1": "Bahrain International Airport",
+        "address_line2": "Road 2403, Muharraq 204, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مطار البحرين الدولي",
+            "osm_id": 4322718790,
+            "name:ar": "مطار البحرين الدولي",
+            "name:en": "Bahrain International Airport",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مطار البحرين الدولي",
+          "en": "Bahrain International Airport"
+        },
+        "place_id": "519fde31e13c504940590289f89c05453a40f00103f9014674a70101000000920324d985d8b7d8a7d8b120d8a7d984d8a8d8add8b1d98ad98620d8a7d984d8afd988d984d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6268579,
+          26.269616900136505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bait Ishaq بيت إسحاق",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "Karzakan",
+        "postcode": "1203",
+        "street": "Road 1045",
+        "iso3166_2": "BH-17",
+        "lon": 50.499688,
+        "lat": 26.1005066,
+        "formatted": "Bait Ishaq بيت إسحاق, Road 1045, Karzakan 1203, Bahrain",
+        "address_line1": "Bait Ishaq بيت إسحاق",
+        "address_line2": "Road 1045, Karzakan 1203, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bait Ishaq بيت إسحاق",
+            "osm_id": 4337828037,
+            "name:ar": "Bait Ishaq بيت إسحاق",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "Bait Ishaq بيت إسحاق"
+        },
+        "place_id": "51111ac1c6f53f4940598eb1f0ccba193a40f00103f901c5008e020100000092031c4261697420497368617120d8a8d98ad8aa20d8a5d8b3d8add8a7d982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.499688,
+          26.100506600154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "Hamad Town",
+        "postcode": "1203",
+        "street": "Roundabout 6",
+        "iso3166_2": "BH-17",
+        "lon": 50.5029118,
+        "lat": 26.1201201,
+        "formatted": "Dakar 6 دوار ٦, Roundabout 6, Hamad Town 1203, Bahrain",
+        "address_line1": "Dakar 6 دوار ٦",
+        "address_line2": "Roundabout 6, Hamad Town 1203, Bahrain",
+        "name": "Dakar 6 دوار ٦",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dakar 6 دوار ٦",
+            "osm_id": 4337851023,
+            "name:ar": "دوار 6",
+            "name:en": "Roundabout 6",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "دوار 6",
+          "en": "Roundabout 6"
+        },
+        "place_id": "51e0e2f2695f40494059bdbedd30c01e3a40f00103f9018f5a8e020100000092031344616b6172203620d8afd988d8a7d8b120d9a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50291179999999,
+          26.120120100151997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صالون إيليت",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "32427",
+        "street": "King Saud St",
+        "iso3166_2": "SA-04",
+        "lon": 50.0776415,
+        "lat": 26.4400017,
+        "formatted": "صالون إيليت, King Saud St, Dammam 32427, Saudi Arabia",
+        "address_line1": "صالون إيليت",
+        "address_line2": "King Saud St, Dammam 32427, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صالون إيليت",
+            "osm_id": 4359345792,
+            "name:ar": "صالون إيليت",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "صالون إيليت"
+        },
+        "place_id": "51fca71b28f009494059973190f3a3703a40f00103f9018056d60301000000920315d8b5d8a7d984d988d98620d8a5d98ad984d98ad8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0776415,
+          26.440001700118582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مطعم السي سيد",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "338",
+        "suburb": "Adliya",
+        "street": "Road 2721",
+        "iso3166_2": "BH-13",
+        "lon": 50.5872997,
+        "lat": 26.2147189,
+        "formatted": "مطعم السي سيد, Road 2721, Manama 338, Bahrain",
+        "address_line1": "مطعم السي سيد",
+        "address_line2": "Road 2721, Manama 338, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مطعم السي سيد",
+            "osm_id": 4375987091,
+            "name:ar": "مطعم السي سيد",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مطعم السي سيد"
+        },
+        "place_id": "51af39f6a22c4b494059a4f15dd1f7363a40f00103f9019343d40401000000920318d985d8b7d8b9d98520d8a7d984d8b3d98a20d8b3d98ad8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.58729970000001,
+          26.214718900142216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الشركه ألعربيه الحديثه للإنشاءات الحديثه",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Khobar Governorate",
+        "city": "Al Khobar",
+        "postcode": "34434",
+        "street": "Salahuddin Al-Ayoubi Street",
+        "iso3166_2": "SA-04",
+        "lon": 50.1915381,
+        "lat": 26.3224053,
+        "formatted": "الشركه ألعربيه الحديثه للإنشاءات الحديثه, Salahuddin Al-Ayoubi Street, Al Khobar 34434, Saudi Arabia",
+        "address_line1": "الشركه ألعربيه الحديثه للإنشاءات الحديثه",
+        "address_line2": "Salahuddin Al-Ayoubi Street, Al Khobar 34434, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الشركه ألعربيه الحديثه للإنشاءات الحديثه",
+            "osm_id": 4383658498,
+            "name:ar": "الشركه ألعربيه الحديثه للإنشاءات الحديثه",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الشركه ألعربيه الحديثه للإنشاءات الحديثه"
+        },
+        "place_id": "5110b809528418494059a31e5c2789523a40f00103f901025249050100000092034cd8a7d984d8b4d8b1d983d98720d8a3d984d8b9d8b1d8a8d98ad98720d8a7d984d8add8afd98ad8abd98720d984d984d8a5d986d8b4d8a7d8a1d8a7d8aa20d8a7d984d8add8afd98ad8abd987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1915381,
+          26.322405300130992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مقهى الجندول",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "301",
+        "suburb": "Al Salmaniya",
+        "street": "Road 470",
+        "iso3166_2": "BH-13",
+        "lon": 50.5739723,
+        "lat": 26.2322432,
+        "formatted": "مقهى الجندول, Road 470, Manama 301, Bahrain",
+        "address_line1": "مقهى الجندول",
+        "address_line2": "Road 470, Manama 301, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مقهى الجندول",
+            "osm_id": 4403656090,
+            "name:ar": "مقهى الجندول",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مقهى الجندول"
+        },
+        "place_id": "51aaa7a0ec77494940594a52554a743b3a40f00103f9019a757a0601000000920317d985d982d987d98920d8a7d984d8acd986d8afd988d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.573972299999994,
+          26.23224320014041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malik",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "32233",
+        "suburb": "Ibn Khaldun",
+        "street": "Prince Mohammed Bin Fahd Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.1144503,
+        "lat": 26.4246643,
+        "formatted": "Malik, Prince Mohammed Bin Fahd Road, Ibn Khaldun, Dammam 32233, Saudi Arabia",
+        "address_line1": "Malik",
+        "address_line2": "Prince Mohammed Bin Fahd Road, Ibn Khaldun, Dammam 32233, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Malik",
+            "osm_id": 4459567490,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5139c2b34ea60e49405984cbb0ccb66c3a40f00103f9018299cf09010000009203054d616c696b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.114450299999994,
+          26.4246643001202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BAZY DAMMAM",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "32233",
+        "suburb": "Ibn Khaldun",
+        "street": "Prince Mohammed Bin Fahd Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.1178451,
+        "lat": 26.4391125,
+        "formatted": "BAZY DAMMAM, Prince Mohammed Bin Fahd Road, Ibn Khaldun, Dammam 32233, Saudi Arabia",
+        "address_line1": "BAZY DAMMAM",
+        "address_line2": "Prince Mohammed Bin Fahd Road, Ibn Khaldun, Dammam 32233, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "BAZY DAMMAM",
+            "osm_id": 4459918689,
+            "name:ar": "BAZY DAMMAM",
+            "name:it": "Bazy Dammam",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "BAZY DAMMAM",
+          "it": "Bazy Dammam"
+        },
+        "place_id": "51363f598c150f494059454643ad69703a40f00103f90161f5d4090100000092030b42415a592044414d4d414d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1178451,
+          26.43911250011867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كرنيش المحيسنيات",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Qatif Governorate",
+        "city": "Tarout",
+        "postcode": "32617",
+        "street": "شارع الرياض",
+        "iso3166_2": "SA-04",
+        "lon": 50.0582639,
+        "lat": 26.5446275,
+        "formatted": "كرنيش المحيسنيات, شارع الرياض, Tarout 32617, Saudi Arabia",
+        "address_line1": "كرنيش المحيسنيات",
+        "address_line2": "شارع الرياض, Tarout 32617, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كرنيش المحيسنيات",
+            "osm_id": 4506747590,
+            "name:ar": "كرنيش المحيسنيات",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "كرنيش المحيسنيات"
+        },
+        "place_id": "51c98404317507494059af7635b56c8b3a40f00103f901c6829f0c0100000092031fd983d8b1d986d98ad8b420d8a7d984d985d8add98ad8b3d986d98ad8a7d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.05826389999999,
+          26.54462750010742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "Karzakan",
+        "postcode": "1203",
+        "street": "Roundabout 14",
+        "iso3166_2": "BH-17",
+        "lon": 50.5054816,
+        "lat": 26.0969694,
+        "formatted": "دوار 14, Roundabout 14, Karzakan 1203, Bahrain",
+        "address_line1": "دوار 14",
+        "address_line2": "Roundabout 14, Karzakan 1203, Bahrain",
+        "name": "دوار 14",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دوار 14",
+            "osm_id": 4524990200,
+            "name:ar": "دوار 14",
+            "name:en": "Roundabout 14",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "دوار 14",
+          "en": "Roundabout 14"
+        },
+        "place_id": "516a5dfe9eb340494059316092fcd2183a40f00103f901f8deb50d0100000092030bd8afd988d8a7d8b1203134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.50548160000001,
+          26.096969400154368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bigots",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34253",
+        "suburb": "Qasr Al Khaleej",
+        "street": "شارع الأمير متعب",
+        "iso3166_2": "SA-04",
+        "lon": 50.1163821,
+        "lat": 26.3778155,
+        "formatted": "bogs, شارع الأمير متعب, Qasr Al Khaleej, Dhahran 34253, Saudi Arabia",
+        "address_line1": "bogs",
+        "address_line2": "شارع الأمير متعب, Qasr Al Khaleej, Dhahran 34253, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "bigots",
+            "osm_id": 4547853394,
+            "name:ar": "bigots",
+            "name:en": "bogs",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "bigots",
+          "en": "bogs"
+        },
+        "place_id": "517eabd09be50e4940599ff54084b8603a40f00103f90152bc120f010000009203066269676f7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.116382099999996,
+          26.377815500125163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Areen Wildlife Park & Reserve",
+        "lon": 50.4946765,
+        "lat": 26.015183500162703,
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al Areen Wildlife Park & Reserve",
+            "osm_id": 4618466000,
+            "name:ar": "مواقف محمية العرين",
+            "name:en": "Al Areen Wildlife Park & Reserve",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مواقف محمية العرين",
+          "en": "Al Areen Wildlife Park & Reserve"
+        },
+        "place_id": "51c4cc3e8f513f4940593ba3dc10e3033a40f00103f901d032481301000000920320416c20417265656e2057696c646c696665205061726b20262052657365727665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.4946765,
+          26.015183500162703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haris",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Khobar Governorate",
+        "city": "Al `Aziziyah",
+        "postcode": "34716",
+        "street": "King Fahd Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.2037285,
+        "lat": 26.1743518,
+        "formatted": "haris, King Fahd Road, Al `Aziziyah 34716, Saudi Arabia",
+        "address_line1": "haris",
+        "address_line2": "King Fahd Road, Al `Aziziyah 34716, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "haris",
+            "osm_id": 4737079221,
+            "name:ar": "haris",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "haris"
+        },
+        "place_id": "51ae6186c6131a494059a7a0cf51a22c3a40f00103f901b5175a1a010000009203056861726973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2037285,
+          26.174351800146407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avanti",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "428",
+        "suburb": "Seef",
+        "street": "King Mohammed VI Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5373482,
+        "lat": 26.2398835,
+        "formatted": "Avanti, King Mohammed VI Avenue, Manama 428, Bahrain",
+        "address_line1": "Avanti",
+        "address_line2": "King Mohammed VI Avenue, Manama 428, Bahrain",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.regional",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Avanti",
+            "osm_id": 4765196655,
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name:en": "Avanti",
+            "smoking": "isolated",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "King Mohammed VI Avenue",
+            "outdoor_seating": "yes"
+          }
+        },
+        "name_international": {
+          "en": "Avanti"
+        },
+        "facilities": {
+          "smoking": true,
+          "outdoor_seating": true
+        },
+        "catering": {
+          "cuisine": "regional"
+        },
+        "place_id": "513fc868d3c7444940591ef34b01693d3a40f00103f9016f21071c010000009203064176616e7469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.53734819999999,
+          26.23988350013962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "امواجً",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Amwaj Islands",
+        "postcode": "257",
+        "suburb": "The International school of Choueifat",
+        "street": "Amwaj Avenue",
+        "iso3166_2": "BH-15",
+        "lon": 50.6660319,
+        "lat": 26.2925953,
+        "formatted": "امواجً, Amwaj Avenue, Amwaj Islands 257, Bahrain",
+        "address_line1": "امواجً",
+        "address_line2": "Amwaj Avenue, Amwaj Islands 257, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "امواجً",
+            "osm_id": 4773214225,
+            "name:ar": "امواجً",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "امواجً"
+        },
+        "place_id": "51df4b86884055494059100a8d86e74a3a40f00103f9011178811c0100000092030cd8a7d985d988d8a7d8acd98b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6660319,
+          26.29259530013411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منته و محمية عراد",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Muharraq",
+        "postcode": "204",
+        "street": "Khalifa Al-Kabeer Highway",
+        "iso3166_2": "BH-15",
+        "lon": 50.6229725,
+        "lat": 26.2622116,
+        "formatted": "منته و محمية عراد, Khalifa Al-Kabeer Highway, Muharraq 204, Bahrain",
+        "address_line1": "منته و محمية عراد",
+        "address_line2": "Khalifa Al-Kabeer Highway, Muharraq 204, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منته و محمية عراد",
+            "osm_id": 4856005125,
+            "name:ar": "منته و محمية عراد",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منته و محمية عراد"
+        },
+        "place_id": "5157e71890bd4f494059b538a74c20433a40f00103f90105c270210100000092031fd985d986d8aad98720d98820d985d8add985d98ad8a920d8b9d8b1d8a7d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.622972499999996,
+          26.262211600137295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ڤيب البحرين",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "814",
+        "street": "Abu Dhabi Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5687203,
+        "lat": 26.1672557,
+        "formatted": "Bahrain Vape, Abu Dhabi Avenue, Manama 814, Bahrain",
+        "address_line1": "Bahrain Vape",
+        "address_line2": "Abu Dhabi Avenue, Manama 814, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ڤيب البحرين",
+            "osm_id": 4881307721,
+            "name:ar": "ڤيب البحرين",
+            "name:en": "Bahrain Vape",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "ڤيب البحرين",
+          "en": "Bahrain Vape"
+        },
+        "place_id": "512189a8d3cb4849405999330245d12a3a40f00103f90149d8f22201000000920315daa4d98ad8a820d8a7d984d8a8d8add8b1d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5687203,
+          26.16725570014714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PCC",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Manama",
+        "postcode": "338",
+        "suburb": "Bu Ashira",
+        "street": "Road 3314",
+        "iso3166_2": "BH-13",
+        "lon": 50.5849328,
+        "lat": 26.2063282,
+        "formatted": "PCC, Road 3314, Manama 338, Bahrain",
+        "address_line1": "PCC",
+        "address_line2": "Road 3314, Manama 338, Bahrain",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PCC",
+            "osm_id": 5306833974,
+            "amenity": "place_of_worship",
+            "name:en": "PCC",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "religion": "christian",
+            "addr:street": "طريق 3314",
+            "service_times": "8AM - 6PM"
+          }
+        },
+        "name_international": {
+          "en": "PCC"
+        },
+        "place_of_worship": {
+          "religion": "christian"
+        },
+        "place_id": "51c92df713df4a4940596fdbc7ecd1343a40f00103f90136dc4f3c01000000920303504343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5849328,
+          26.2063282001431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harris",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "iso3166_2": "BH-13",
+        "lon": 50.5242174,
+        "lat": 26.2206343,
+        "formatted": "Harris, Jid Hafs 426, Bahrain",
+        "address_line1": "Harris",
+        "address_line2": "Jid Hafs 426, Bahrain",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harris",
+            "osm_id": 5306833975,
+            "leisure": "park",
+            "name:en": "Harris",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Jidhafs",
+            "addr:street": "شارع قلعة البحرين",
+            "description": "Park for everyone",
+            "addr:postcode": 426
+          }
+        },
+        "description": "Park for everyone",
+        "name_international": {
+          "en": "Harris"
+        },
+        "place_id": "51407f468e1943494059ed7b4f7d7b383a40f00103f90137dc4f3c01000000920306486172726973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5242174,
+          26.220634300141615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harris Entrance",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "iso3166_2": "BH-13",
+        "lon": 50.5241971,
+        "lat": 26.2206478,
+        "formatted": "Harris Entrance, Jid Hafs 426, Bahrain",
+        "address_line1": "Harris Entrance",
+        "address_line2": "Jid Hafs 426, Bahrain",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harris Entrance",
+            "osm_id": 5306838134,
+            "leisure": "park",
+            "name:en": "Harris Entrance",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Harris Entrance"
+        },
+        "place_id": "513a94fce31843494059e78acd5f7c383a40f00103f90176ec4f3c0100000092030f48617272697320456e7472616e6365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.524197099999995,
+          26.220647800141617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harris Cafe",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "street": "Qalat Al-Bahrain Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5242003,
+        "lat": 26.2206355,
+        "formatted": "Harris Cafe, Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "address_line1": "Harris Cafe",
+        "address_line2": "Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "categories": [
+          "catering",
+          "catering.cafe",
+          "internet_access",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harris Cafe",
+            "osm_id": 5306838135,
+            "amenity": "cafe",
+            "cuisine": "regional",
+            "name:en": "Harris Cafe",
+            "smoking": "no",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "شارع قلعة البحرين",
+            "internet_access": "yes",
+            "outdoor_seating": "yes"
+          }
+        },
+        "name_international": {
+          "en": "Harris Cafe"
+        },
+        "facilities": {
+          "internet_access": true,
+          "smoking": false,
+          "outdoor_seating": true
+        },
+        "catering": {
+          "cuisine": "regional"
+        },
+        "place_id": "51d586d4fe1843494059e17171917b383a40f00103f90177ec4f3c0100000092030b4861727269732043616665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5242003,
+          26.220635500141615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phast Phood",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "street": "Qalat Al-Bahrain Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5242273,
+        "lat": 26.220629,
+        "formatted": "Phast Phood, Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "address_line1": "Phast Phood",
+        "address_line2": "Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "categories": [
+          "catering",
+          "catering.fast_food",
+          "catering.fast_food.burger",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Phast Phood",
+            "osm_id": 5306838136,
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "name:en": "Phast Phood",
+            "smoking": "no",
+            "tourism": "attraction",
+            "delivery": "yes",
+            "operator": "Harris",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:street": "شارع قلعة البحرين",
+            "drive_through": "yes",
+            "outdoor_seating": "yes"
+          }
+        },
+        "operator": "Harris",
+        "name_international": {
+          "en": "Phast Phood"
+        },
+        "facilities": {
+          "smoking": false,
+          "outdoor_seating": true,
+          "takeaway": true,
+          "delivery": true
+        },
+        "catering": {
+          "cuisine": "burger"
+        },
+        "place_id": "51cf9552e119434940594c2864247b383a40f00103f90178ec4f3c0100000092030b50686173742050686f6f64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5242273,
+          26.220629000141614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emergency Stand",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "street": "Qalat Al-Bahrain Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5242161,
+        "lat": 26.2206272,
+        "formatted": "Emergency Stand, Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "address_line1": "Emergency Stand",
+        "address_line2": "Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "categories": [
+          "healthcare",
+          "healthcare.clinic_or_praxis.general",
+          "healthcare.hospital",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Emergency Stand",
+            "osm_id": 5306841463,
+            "amenity": "hospital",
+            "name:en": "Emergency Stand",
+            "tourism": "attraction",
+            "operator": "International Hospital",
+            "osm_type": "n",
+            "emergency": "yes",
+            "healthcare": "hospital",
+            "addr:street": "شارع قلعة البحرين",
+            "healthcare:speciality": "general"
+          }
+        },
+        "operator": "International Hospital",
+        "name_international": {
+          "en": "Emergency Stand"
+        },
+        "place_id": "51b0c45e8319434940595e3731067b383a40f00103f90177f94f3c0100000092030f456d657267656e6379205374616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.52421609999999,
+          26.220627200141614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citibank",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "street": "Qalat Al-Bahrain Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5242299,
+        "lat": 26.220649,
+        "formatted": "Citibank, Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "address_line1": "Citibank",
+        "address_line2": "Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "categories": [
+          "service",
+          "service.financial",
+          "service.financial.bank",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "atm": "yes",
+            "name": "Citibank",
+            "brand": "Citibank",
+            "osm_id": 5306841464,
+            "amenity": "bank",
+            "name:en": "Citibank",
+            "tourism": "attraction",
+            "operator": "Citibank",
+            "osm_type": "n",
+            "short_name": "Citi",
+            "addr:street": "شارع قلعة البحرين",
+            "brand:wikidata": "Q857063"
+          }
+        },
+        "brand": "Citibank",
+        "brand_details": {
+          "wikidata": "Q857063"
+        },
+        "operator": "Citibank",
+        "name_other": {
+          "short_name": "Citi"
+        },
+        "name_international": {
+          "en": "Citibank"
+        },
+        "place_id": "51ed0a22f71943494059db80ef737c383a40f00103f90178f94f3c010000009203084369746962616e6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5242299,
+          26.220649000141616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "street": "Qalat Al-Bahrain Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5242371,
+        "lat": 26.2206443,
+        "formatted": "Statue, Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "address_line1": "Statue",
+        "address_line2": "Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statue",
+            "osm_id": 5306841465,
+            "name:en": "Statue",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "شارع قلعة البحرين"
+          }
+        },
+        "name_international": {
+          "en": "Statue"
+        },
+        "place_id": "51c9ec87331a43494059312815257c383a40f00103f90179f94f3c01000000920306537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5242371,
+          26.220644300141604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Capital Governorate",
+        "city": "Jid Hafs",
+        "postcode": "426",
+        "district": "Al Hashimi Resident Compound",
+        "street": "Qalat Al-Bahrain Avenue",
+        "iso3166_2": "BH-13",
+        "lon": 50.5242299,
+        "lat": 26.220649,
+        "formatted": "Statue, Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "address_line1": "Statue",
+        "address_line2": "Qalat Al-Bahrain Avenue, Jid Hafs 426, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statue",
+            "osm_id": 5306841466,
+            "name:en": "Statue",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "شارع قلعة البحرين"
+          }
+        },
+        "name_international": {
+          "en": "Statue"
+        },
+        "place_id": "51ed0a22f71943494059db80ef737c383a40f00103f9017af94f3c01000000920306537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5242299,
+          26.220649000141616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stone Statue - Khobar Corniche Saudi Flags",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Khobar Governorate",
+        "city": "Al Khobar",
+        "postcode": "34414",
+        "street": "Prince Turki Street",
+        "iso3166_2": "SA-04",
+        "lon": 50.2215413,
+        "lat": 26.2942904,
+        "formatted": "Stone Statue - Khobar Corniche Saudi Flags, Prince Turki Street, Al Khobar 34414, Saudi Arabia",
+        "address_line1": "Stone Statue - Khobar Corniche Saudi Flags",
+        "address_line2": "Prince Turki Street, Al Khobar 34414, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stone Statue - Khobar Corniche Saudi Flags",
+            "osm_id": 5322094422,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "514d1b1f775b1c4940591f1a9c9d564b3a40f00103f90156b7383d0100000092032a53746f6e6520537461747565202d204b686f62617220436f726e6963686520536175646920466c616773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.22154129999999,
+          26.294290400133942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khobar Corniche Main Entrance - North Tower",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Khobar Governorate",
+        "city": "Al Khobar",
+        "postcode": "34414",
+        "street": "Khobar Corniche Access Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.222165,
+        "lat": 26.2944186,
+        "formatted": "Khobar Corniche Main Entrance - North Tower, Khobar Corniche Access Road, Al Khobar 34414, Saudi Arabia",
+        "address_line1": "Khobar Corniche Main Entrance - North Tower",
+        "address_line2": "Khobar Corniche Access Road, Al Khobar 34414, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khobar Corniche Main Entrance - North Tower",
+            "osm_id": 5322105163,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516ca818e76f1c494059c7e872045f4b3a40f00103f9014be1383d0100000092032b4b686f62617220436f726e69636865204d61696e20456e7472616e6365202d204e6f72746820546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.22216499999999,
+          26.29441860013392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khobar Corniche Main Entrance - South Tower",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Khobar Governorate",
+        "city": "Al Khobar",
+        "postcode": "34414",
+        "street": "Khobar Corniche Access Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.221706,
+        "lat": 26.2942233,
+        "formatted": "Khobar Corniche Main Entrance - South Tower, Khobar Corniche Access Road, Al Khobar 34414, Saudi Arabia",
+        "address_line1": "Khobar Corniche Main Entrance - South Tower",
+        "address_line2": "Khobar Corniche Access Road, Al Khobar 34414, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khobar Corniche Main Entrance - South Tower",
+            "osm_id": 5322105234,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d9a9b9dc601c494059e3cbdb37524b3a40f00103f90192e1383d0100000092032b4b686f62617220436f726e69636865204d61696e20456e7472616e6365202d20536f75746820546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.22170599999999,
+          26.294223300133932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سوق المحرق",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Muharraq",
+        "postcode": "210",
+        "street": "Shaik Hamad Avenue",
+        "iso3166_2": "BH-15",
+        "lon": 50.6079859,
+        "lat": 26.2505095,
+        "formatted": "سوق المحرق, Shaik Hamad Avenue, Muharraq 210, Bahrain",
+        "address_line1": "سوق المحرق",
+        "address_line2": "Shaik Hamad Avenue, Muharraq 210, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سوق المحرق",
+            "osm_id": 5423165121,
+            "name:ar": "سوق المحرق",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "سوق المحرق"
+        },
+        "place_id": "51ee76627bd24d494059a46efe6321403a40f00103f901c1ee3e4301000000920313d8b3d988d98220d8a7d984d985d8add8b1d982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.6079859,
+          26.250509500138506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سوق الفخار",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "A'ali",
+        "postcode": "0000",
+        "street": "Wali Al Ahd Highway",
+        "iso3166_2": "BH-17",
+        "lon": 50.5085685,
+        "lat": 26.1405126,
+        "formatted": "سوق الفخار, Wali Al Ahd Highway, A'ali 0000, Bahrain",
+        "address_line1": "سوق الفخار",
+        "address_line2": "Wali Al Ahd Highway, A'ali 0000, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سوق الفخار",
+            "osm_id": 5474708521,
+            "name:ar": "سوق الفخار",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "سوق الفخار"
+        },
+        "place_id": "514ca3c9c51841494059da513ea2f8233a40f00103f901296c514601000000920313d8b3d988d98220d8a7d984d981d8aed8a7d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.508568499999996,
+          26.140512600149897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "لاقونا",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "Budaiya",
+        "postcode": "533",
+        "street": "Avenue 63",
+        "iso3166_2": "BH-17",
+        "lon": 50.4494375,
+        "lat": 26.2037473,
+        "formatted": "لاقونا, Avenue 63, Budaiya 533, Bahrain",
+        "address_line1": "لاقونا",
+        "address_line2": "Avenue 63, Budaiya 533, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "لاقونا",
+            "osm_id": 5494837924,
+            "name:ar": "لاقونا",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "لاقونا"
+        },
+        "place_id": "51490c022b873949405999c376c828343a40f00103f901a49284470100000092030cd984d8a7d982d988d986d8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.449437499999995,
+          26.203747300143366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sari",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "postcode": "34325",
+        "suburb": "Dammam Industrial City 2",
+        "street": "Makkah Road",
+        "iso3166_2": "SA-04",
+        "lon": 49.9875672,
+        "lat": 26.2894764,
+        "formatted": "sari, Makkah Road, Dammam Industrial City 2, 34325, Saudi Arabia",
+        "address_line1": "sari",
+        "address_line2": "Makkah Road, Dammam Industrial City 2, 34325, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "sari",
+            "osm_id": 6051479187,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51174d1d9a68fe4840598d8a17201b4a3a40f00103f901933eb2680100000092030473617269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.987567199999994,
+          26.289476400134436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Festival City",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "city": "Zallaq",
+        "postcode": "902",
+        "street": "Road 6204",
+        "iso3166_2": "BH-14",
+        "lon": 50.5063992,
+        "lat": 26.0304466,
+        "formatted": "Festival City, Road 6204, Zallaq 902, Bahrain",
+        "address_line1": "Festival City",
+        "address_line2": "Road 6204, Zallaq 902, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Festival City",
+            "osm_id": 6225500102,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513b5c61b0d14049405970f72f59cb073a40f00103f901c69711730100000092030d466573746976616c2043697479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5063992,
+          26.030446600161156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "View on Dou ships",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Muharraq Governorate",
+        "city": "Muharraq",
+        "postcode": "210",
+        "street": "Road 1655",
+        "iso3166_2": "BH-15",
+        "lon": 50.6205744,
+        "lat": 26.2486934,
+        "formatted": "View on Dou ships, Road 1655, Muharraq 210, Bahrain",
+        "address_line1": "View on Dou ships",
+        "address_line2": "Road 1655, Muharraq 210, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "View on Dou ships",
+            "osm_id": 6308344254,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510e5e60fb6e4f494059a553e45eaa3f3a40f00103f901beb101780100000092031156696577206f6e20446f75207368697073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.620574399999995,
+          26.248693400138695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم.153",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34453",
+        "street": "Canyon Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.1309575,
+        "lat": 26.2909843,
+        "formatted": "DPC.153, Canyon Road, Dhahran 34453, Saudi Arabia",
+        "address_line1": "DPC.153",
+        "address_line2": "Canyon Road, Dhahran 34453, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم.153",
+            "osm_id": 6351741687,
+            "name:en": "DPC.153",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.153"
+        },
+        "place_id": "513dd52137c310494059e7b974f27d4a3a40f00103f901f7e2977a01000000920317d986d982d8b7d8a920d8aad8b3d984d98ad9852e313533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1309575,
+          26.29098430013428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم.174",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34453",
+        "street": "LIP Road #1",
+        "iso3166_2": "SA-04",
+        "lon": 50.114012,
+        "lat": 26.3041373,
+        "formatted": "DPC.174, LIP Road #1, Dhahran 34453, Saudi Arabia",
+        "address_line1": "DPC.174",
+        "address_line2": "LIP Road #1, Dhahran 34453, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم.174",
+            "osm_id": 6351741688,
+            "name:en": "DPC.174",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.174"
+        },
+        "place_id": "5100adf9f1970e49405987902df1db4d3a40f00103f901f8e2977a01000000920317d986d982d8b7d8a920d8aad8b3d984d98ad9852e313734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.114012,
+          26.304137300132904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم 881",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34257",
+        "street": "Old Abqaiq Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.0991629,
+        "lat": 26.3166116,
+        "formatted": "DPC.881, Old Abqaiq Road, Dhahran 34257, Saudi Arabia",
+        "address_line1": "DPC.881",
+        "address_line2": "Old Abqaiq Road, Dhahran 34257, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم 881",
+            "osm_id": 6352376086,
+            "name:en": "DPC.881",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.881"
+        },
+        "place_id": "51fe3cb25eb10c494059751934750d513a40f00103f9011691a17a01000000920317d986d982d8b7d8a920d8aad8b3d984d98ad98520383831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.099162899999996,
+          26.316611600131598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم 146",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34453",
+        "street": "Hwy 613",
+        "iso3166_2": "SA-04",
+        "lon": 50.1171468,
+        "lat": 26.3130525,
+        "formatted": "DPC.146, Hwy 613, Dhahran 34453, Saudi Arabia",
+        "address_line1": "DPC.146",
+        "address_line2": "Hwy 613, Dhahran 34453, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم 146",
+            "osm_id": 6352385086,
+            "name:en": "DPC.146",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.146"
+        },
+        "place_id": "515f6a95aafe0e49405972ff693524503a40f00103f9013eb4a17a01000000920317d986d982d8b7d8a920d8aad8b3d984d98ad98520313436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11714679999999,
+          26.313052500131967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شركة الراشد الهندسية",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "postcode": "34325",
+        "suburb": "Dammam Industrial City 2",
+        "street": "Yanbu Street",
+        "iso3166_2": "SA-04",
+        "lon": 49.9705121,
+        "lat": 26.2413702,
+        "formatted": "DPC.C94, Yanbu Street, Dammam Industrial City 2, 34325, Saudi Arabia",
+        "address_line1": "DPC.C94",
+        "address_line2": "Yanbu Street, Dammam Industrial City 2, 34325, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شركة الراشد الهندسية",
+            "osm_id": 6359895785,
+            "name:en": "DPC.C94",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.C94"
+        },
+        "place_id": "51a6ef90bd39fc484059f2d3fb6fca3d3a40f00103f901e94e147b01000000920326d8b4d8b1d983d8a920d8a7d984d8b1d8a7d8b4d8af20d8a7d984d987d986d8afd8b3d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.97051209999999,
+          26.24137020013945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم 266",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "street": "ESD Connector Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.0965346,
+        "lat": 26.3076171,
+        "formatted": "DPC.266, ESD Connector Road, Dhahran, Saudi Arabia",
+        "address_line1": "DPC.266",
+        "address_line2": "ESD Connector Road, Dhahran, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم 266",
+            "osm_id": 6376231085,
+            "name:en": "DPC.266",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.266"
+        },
+        "place_id": "5159f7ea3e5b0c49405978c288febf4e3a40f00103f901ad900d7c01000000920317d986d982d8b7d8a920d8aad8b3d984d98ad98520323636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.09653459999999,
+          26.307617100132546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شركة السيف للنقليات-بقيق",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Abqaiq Governorate",
+        "street": "Old Abqaiq Road",
+        "iso3166_2": "SA-04",
+        "lon": 49.8740578,
+        "lat": 26.1338355,
+        "formatted": "شركة السيف للنقليات-بقيق, Old Abqaiq Road, Saudi Arabia",
+        "address_line1": "شركة السيف للنقليات-بقيق",
+        "address_line2": "Old Abqaiq Road, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شركة السيف للنقليات-بقيق",
+            "osm_id": 6380465287,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5127e84020e1ef484059c930180b43223a40f00103f901872c4e7c0100000092032dd8b4d8b1d983d8a920d8a7d984d8b3d98ad98120d984d984d986d982d984d98ad8a7d8aa2dd8a8d982d98ad982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.874057799999996,
+          26.133835500150585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم.945",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34453",
+        "street": "LIP Road #1",
+        "iso3166_2": "SA-04",
+        "lon": 50.1148648,
+        "lat": 26.3045647,
+        "formatted": "DPC.954, LIP Road #1, Dhahran 34453, Saudi Arabia",
+        "address_line1": "DPC.954",
+        "address_line2": "LIP Road #1, Dhahran 34453, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم.945",
+            "osm_id": 6407205586,
+            "name:en": "DPC.954",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.954"
+        },
+        "place_id": "5114bbc7e3b30e4940593396c2f3f74d3a40f00103f901d232e67d01000000920317d986d982d8b7d8a920d8aad8b3d984d98ad9852e393435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.11486479999999,
+          26.304564700132868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم.168",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34453",
+        "street": "LIP Road #1",
+        "iso3166_2": "SA-04",
+        "lon": 50.1152208,
+        "lat": 26.3045616,
+        "formatted": "DPC.168, LIP Road #1, Dhahran 34453, Saudi Arabia",
+        "address_line1": "DPC.168",
+        "address_line2": "LIP Road #1, Dhahran 34453, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم.168",
+            "osm_id": 6407205587,
+            "name:en": "DPC.168",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.168"
+        },
+        "place_id": "51d4e81f8ebf0e4940592130c0bff74d3a40f00103f901d332e67d01000000920317d986d982d8b7d8a920d8aad8b3d984d98ad9852e313638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1152208,
+          26.304561600132846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم.941",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34257",
+        "street": "Old Abqaiq Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.0963292,
+        "lat": 26.3111141,
+        "formatted": "DPC.941, Old Abqaiq Road, Dhahran 34257, Saudi Arabia",
+        "address_line1": "DPC.941",
+        "address_line2": "Old Abqaiq Road, Dhahran 34257, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم.941",
+            "osm_id": 6420171694,
+            "name:en": "DPC.941",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.941"
+        },
+        "place_id": "512ed3e583540c4940596564752ca54f3a40f00103f901ae0bac7e01000000920317d986d982d8b7d8a920d8aad8b3d984d98ad9852e393431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0963292,
+          26.311114100132176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "معرض المصنوعات الذهبية",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "31483",
+        "street": "613",
+        "iso3166_2": "SA-04",
+        "lon": 50.0446598,
+        "lat": 26.452841,
+        "formatted": "Golden Ware trading, 613, Dammam 31483, Saudi Arabia",
+        "address_line1": "Golden Ware trading",
+        "address_line2": "613, Dammam 31483, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "معرض المصنوعات الذهبية",
+            "osm_id": 6463296285,
+            "name:en": "Golden Ware trading",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Golden Ware trading"
+        },
+        "place_id": "5112398e69b70549405998ca4563ed733a40f00103f9011d133e810100000092032ad985d8b9d8b1d8b620d8a7d984d985d8b5d986d988d8b9d8a7d8aa20d8a7d984d8b0d987d8a8d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.04465979999999,
+          26.452841000117218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "آلو مارت",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dammam",
+        "postcode": "31483",
+        "street": "613",
+        "iso3166_2": "SA-04",
+        "lon": 50.0464571,
+        "lat": 26.4494369,
+        "formatted": "Ali Mary, 613, Dammam 31483, Saudi Arabia",
+        "address_line1": "Ali Mary",
+        "address_line2": "613, Dammam 31483, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "آلو مارت",
+            "osm_id": 6463296385,
+            "name:en": "Ali Mary",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ali Mary"
+        },
+        "place_id": "516095664ef205494059e09ef34b0e733a40f00103f90181133e810100000092030fd8a2d984d98820d985d8a7d8b1d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0464571,
+          26.449436900117576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نقطة تسليم.981",
+        "country": "Saudi Arabia",
+        "country_code": "sa",
+        "state": "Eastern Province",
+        "county": "Dammam Governorate",
+        "city": "Dhahran",
+        "postcode": "34257",
+        "street": "Old Abqaiq Road",
+        "iso3166_2": "SA-04",
+        "lon": 50.1040604,
+        "lat": 26.3128659,
+        "formatted": "DPC.981, Old Abqaiq Road, Dhahran 34257, Saudi Arabia",
+        "address_line1": "DPC.981",
+        "address_line2": "Old Abqaiq Road, Dhahran 34257, Saudi Arabia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نقطة تسليم.981",
+            "osm_id": 6481596093,
+            "name:en": "DPC.981",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "DPC.981"
+        },
+        "place_id": "518267e7d9510d494059b919c9fa17503a40f00103f901bd4e558201000000920317d986d982d8b7d8a920d8aad8b3d984d98ad9852e393831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.104060399999995,
+          26.312865900131985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "علي",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Southern Governorate",
+        "street": "Road 6241",
+        "iso3166_2": "BH-14",
+        "lon": 50.5185946,
+        "lat": 25.9884152,
+        "formatted": "ali, Road 6241, Bahrain",
+        "address_line1": "ali",
+        "address_line2": "Road 6241, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "علي",
+            "osm_id": 6928908687,
+            "name:ar": "علي",
+            "name:en": "ali",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "علي",
+          "en": "ali"
+        },
+        "place_id": "51eb70cf4e61424940596a944fc708fd3940f00103f9018fc1fe9c01000000920306d8b9d984d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.51859459999999,
+          25.988415200165413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "المقشع",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "A'ali",
+        "postcode": "450",
+        "street": "Road 5020",
+        "iso3166_2": "BH-17",
+        "lon": 50.5172351,
+        "lat": 26.2216145,
+        "formatted": "Almaqsha, Road 5020, A'ali 450, Bahrain",
+        "address_line1": "Almaqsha",
+        "address_line2": "Road 5020, A'ali 450, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "المقشع",
+            "osm_id": 7841769485,
+            "name:ar": "المقشع",
+            "name:en": "Almaqsha",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "المقشع",
+          "en": "Almaqsha"
+        },
+        "place_id": "51f16b7fc234424940595d6d56babb383a40f00103f9010de867d30100000092030cd8a7d984d985d982d8b4d8b9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5172351,
+          26.221614500141516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل زين العابدين-  عالي",
+        "country": "Bahrain",
+        "country_code": "bh",
+        "state": "Northern Governorate",
+        "city": "A'ali",
+        "postcode": "973",
+        "street": "Road 3242",
+        "iso3166_2": "BH-17",
+        "lon": 50.5325056,
+        "lat": 26.1485864,
+        "formatted": "منزل زين العابدين-  عالي, Road 3242, A'ali 973, Bahrain",
+        "address_line1": "منزل زين العابدين-  عالي",
+        "address_line2": "Road 3242, A'ali 973, Bahrain",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل زين العابدين-  عالي",
+            "osm_id": 8404587517,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eb77bc242944494059474521c209263a40f00103f901fdd3f3f40100000092032bd985d986d8b2d98420d8b2d98ad98620d8a7d984d8b9d8a7d8a8d8afd98ad9862d2020d8b9d8a7d984d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5325056,
+          26.148586400149068
+        ]
+      }
+    }
+  ]
+}

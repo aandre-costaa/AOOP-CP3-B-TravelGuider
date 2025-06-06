@@ -1,0 +1,5637 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado del Puerto",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Piedras",
+        "iso3166_2": "UY-MO",
+        "lon": -56.21174217683917,
+        "lat": -34.905649499999996,
+        "state_code": "MO",
+        "formatted": "Mercado del Puerto, Piedras, 11000 Montevideo, Uruguay",
+        "address_line1": "Mercado del Puerto",
+        "address_line2": "Piedras, 11000 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "catering",
+          "catering.food_court",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mercado del Puerto",
+            "phone": "+598 2916-8410",
+            "osm_id": 179066483,
+            "amenity": "food_court",
+            "tourism": "attraction",
+            "website": "http://www.mercadodelpuerto.com.uy/",
+            "building": "yes",
+            "osm_type": "w",
+            "wikidata": "Q1921137",
+            "wikipedia": "es:Mercado del Puerto",
+            "opening_hours": "Mo-Su 09:30-17:00",
+            "contact:instagram": "mercadodelpuertouy",
+            "wikimedia_commons": "Category:Mercado del Puerto"
+          }
+        },
+        "website": "http://www.mercadodelpuerto.com.uy/",
+        "opening_hours": "Mo-Su 09:30-17:00",
+        "contact": {
+          "phone": "+598 2916-8410"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1921137",
+          "wikipedia": "es:Mercado del Puerto",
+          "wikimedia_commons": "Category:Mercado del Puerto"
+        },
+        "place_id": "51a25a1e5e1a1b4cc059b2c9a352ec7341c0f00102f9017356ac0a000000009203124d65726361646f2064656c2050756572746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.21174217683917,
+          -34.905649499868915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planetario de Montevideo \"Agrimensor Germán Barbato\"",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11600",
+        "district": "Villa Dolores",
+        "suburb": "Parque Batlle",
+        "street": "Avenida General Rivera",
+        "housenumber": "3275",
+        "iso3166_2": "UY-MO",
+        "lon": -56.14454877751129,
+        "lat": -34.9018747,
+        "state_code": "MO",
+        "formatted": "Planetario de Montevideo \"Agrimensor Germán Barbato\", Avenida General Rivera 3275, 11600 Montevideo, Uruguay",
+        "address_line1": "Planetario de Montevideo \"Agrimensor Germán Barbato\"",
+        "address_line2": "Avenida General Rivera 3275, 11600 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.planetarium",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Planetario de Montevideo \"Agrimensor Germán Barbato\"",
+            "phone": "+598 1950 8550",
+            "osm_id": 1164968496,
+            "amenity": "planetarium",
+            "tourism": "attraction",
+            "website": "https://planetario.montevideo.gub.uy/",
+            "building": "yes",
+            "osm_type": "w",
+            "wikidata": "Q19248166",
+            "addr:city": "Montevideo",
+            "wikipedia": "en:Planetario de Montevideo",
+            "short_name": "Planetario Municipal",
+            "addr:street": "Avenida General Rivera",
+            "addr:country": "UY",
+            "addr:postcode": 11600,
+            "addr:housenumber": 3275,
+            "wikimedia_commons": "Category:Planetario Municipal Agrimensor Germán Barbato (Montevideo)"
+          }
+        },
+        "website": "https://planetario.montevideo.gub.uy/",
+        "name_other": {
+          "short_name": "Planetario Municipal"
+        },
+        "contact": {
+          "phone": "+598 1950 8550"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q19248166",
+          "wikipedia": "en:Planetario de Montevideo",
+          "wikimedia_commons": "Category:Planetario Municipal Agrimensor Germán Barbato (Montevideo)"
+        },
+        "place_id": "513c0b089380124cc059fe8252a1707341c0f00102f9013002704500000000920335506c616e65746172696f206465204d6f6e7465766964656f2022416772696d656e736f72204765726dc3a16e204261726261746f22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.14454877751129,
+          -34.90187469986812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faro de Punta Carretas",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Punta Carretas",
+        "street": "Ana Vinocur",
+        "iso3166_2": "UY-MO",
+        "lon": -56.160545714785414,
+        "lat": -34.9352356,
+        "state_code": "MO",
+        "formatted": "Faro de Punta Carretas, Ana Vinocur, 11303 Montevideo, Uruguay",
+        "address_line1": "Faro de Punta Carretas",
+        "address_line2": "Ana Vinocur, 11303 Montevideo, Uruguay",
+        "categories": [
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Faro de Punta Carretas",
+            "price": "35 UYU",
+            "osm_id": 179735088,
+            "tourism": "viewpoint",
+            "man_made": "lighthouse",
+            "osm_type": "w",
+            "wikidata": "Q7260513",
+            "wikipedia": "en:Punta Brava Lighthouse",
+            "opening_hours": "Mo-Su 10:00-13:00, 14:30-sunset",
+            "wikimedia_commons": "Category:Faro de Punta Brava"
+          }
+        },
+        "opening_hours": "Mo-Su 10:00-13:00, 14:30-sunset",
+        "wiki_and_media": {
+          "wikidata": "Q7260513",
+          "wikipedia": "en:Punta Brava Lighthouse",
+          "wikimedia_commons": "Category:Faro de Punta Brava"
+        },
+        "place_id": "51164211c38c144cc05965c2d5ccb57741c0f00102f901308ab60a000000009203164661726f2064652050756e7461204361727265746173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.160545714785414,
+          -34.93523559987515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obelisco a los Constituyentes de 1830",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11601",
+        "suburb": "Tres Cruces",
+        "street": "Avenida Doctor Luis Morquio",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1644069,
+        "lat": -34.8974089,
+        "state_code": "MO",
+        "formatted": "Obelisco a los Constituyentes de 1830, Avenida Doctor Luis Morquio, 11601 Montevideo, Uruguay",
+        "address_line1": "Obelisco a los Constituyentes de 1830",
+        "address_line2": "Avenida Doctor Luis Morquio, 11601 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Obelisco a los Constituyentes de 1830",
+            "osm_id": 642809502,
+            "tourism": "attraction",
+            "website": "https://www.montevideo.gub.uy/ciudad-y-cultura/arquitectura-y-patrimonio/obelisco-a-los-constituyentes",
+            "historic": "memorial",
+            "memorial": "obelisk",
+            "osm_type": "n",
+            "wikidata": "Q1726492",
+            "wikipedia": "en:Obelisk of Montevideo",
+            "wikimedia_commons": "Category:Obelisk of Montevideo"
+          }
+        },
+        "website": "https://www.montevideo.gub.uy/ciudad-y-cultura/arquitectura-y-patrimonio/obelisco-a-los-constituyentes",
+        "wiki_and_media": {
+          "wikidata": "Q1726492",
+          "wikipedia": "en:Obelisk of Montevideo",
+          "wikimedia_commons": "Category:Obelisk of Montevideo"
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "obelisk"
+        },
+        "place_id": "514d5e09490b154cc059d1087a4bde7241c0f00103f9019e7e5026000000009203254f62656c6973636f2061206c6f7320436f6e737469747579656e7465732064652031383330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.164406899999996,
+          -34.89740889986718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a la Carreta",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11601",
+        "suburb": "La Blanqueada",
+        "street": "Senda René Borjas",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1552278,
+        "lat": -34.8925845,
+        "state_code": "MO",
+        "formatted": "Monumento a la Carreta, Senda René Borjas, 11601 Montevideo, Uruguay",
+        "address_line1": "Monumento a la Carreta",
+        "address_line2": "Senda René Borjas, 11601 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a la Carreta",
+            "osm_id": 1897632844,
+            "tourism": "artwork",
+            "website": "https://www.montevideo.gub.uy/ciudad/arquitectura/estatuas-y-monumentos/la-carreta",
+            "osm_type": "n",
+            "wikidata": "Q21077366",
+            "wikipedia": "es:Monumento a la Carreta",
+            "start_date": 1929,
+            "artist_name": "José Belloni",
+            "artwork_type": "statue",
+            "wikimedia_commons": "Category:La Carreta"
+          }
+        },
+        "website": "https://www.montevideo.gub.uy/ciudad/arquitectura/estatuas-y-monumentos/la-carreta",
+        "wiki_and_media": {
+          "wikidata": "Q21077366",
+          "wikipedia": "es:Monumento a la Carreta",
+          "wikimedia_commons": "Category:La Carreta"
+        },
+        "artwork": {
+          "artist_name": "José Belloni",
+          "artwork_type": "statue",
+          "start_date": 1929
+        },
+        "place_id": "510b372a81de134cc059bceb7935407241c0f00103f9014c941b71000000009203164d6f6e756d656e746f2061206c612043617272657461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1552278,
+          -34.89258449986616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greetingman",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11600",
+        "suburb": "Buceo",
+        "street": "Ingeniera Juana Pereyra",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1206909,
+        "lat": -34.8981759,
+        "state_code": "MO",
+        "formatted": "Greetingman, Ingeniera Juana Pereyra, 11600 Montevideo, Uruguay",
+        "address_line1": "Greetingman",
+        "address_line2": "Ingeniera Juana Pereyra, 11600 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Greetingman",
+            "osm_id": 2759580340,
+            "tourism": "artwork",
+            "website": "http://www.greetingman.com/",
+            "osm_type": "n",
+            "wikidata": "Q8965049",
+            "wikipedia": "es:Greetingman",
+            "artist_name": "Young-ho Yoo",
+            "artwork_type": "statue",
+            "wikimedia_commons": "Category:Greetingman"
+          }
+        },
+        "website": "http://www.greetingman.com/",
+        "wiki_and_media": {
+          "wikidata": "Q8965049",
+          "wikipedia": "es:Greetingman",
+          "wikimedia_commons": "Category:Greetingman"
+        },
+        "artwork": {
+          "artist_name": "Young-ho Yoo",
+          "artwork_type": "statue"
+        },
+        "place_id": "515f36a6cc720f4cc05928fe896df77241c0f00103f901b4da7ba40000000092030b4772656574696e676d616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.12069089999999,
+          -34.89817589986734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portería Primer Gol Mundial",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11300",
+        "suburb": "Pocitos",
+        "street": "Coronel Alegre",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1562213,
+        "lat": -34.9044863,
+        "state_code": "MO",
+        "formatted": "Portería Primer Gol Mundial, Coronel Alegre, 11300 Montevideo, Uruguay",
+        "address_line1": "Portería Primer Gol Mundial",
+        "address_line2": "Coronel Alegre, 11300 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Portería Primer Gol Mundial",
+            "osm_id": 3200746261,
+            "tourism": "attraction",
+            "historic": "memorial",
+            "memorial": "stone",
+            "osm_type": "n",
+            "wikipedia": "es:Estadio Pocitos",
+            "description": "Portería del campo de fúlbol de los Pocitos, donde Lucien Laurent marcó el primer gol de la historia de los mundiales de fútbol, el 13 de Julio de 1930",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "description": "Portería del campo de fúlbol de los Pocitos, donde Lucien Laurent marcó el primer gol de la historia de los mundiales de fútbol, el 13 de Julio de 1930",
+        "wiki_and_media": {
+          "wikipedia": "es:Estadio Pocitos"
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "stone"
+        },
+        "place_id": "5124383f0fff134cc059d9ce0235c67341c0f00103f9011583c7be0000000092031c506f72746572c3ad61205072696d657220476f6c204d756e6469616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1562213,
+          -34.90448629986867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Campo de Fútbol de los Pocitos",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11300",
+        "suburb": "Pocitos",
+        "street": "Coronel Alegre",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1562235,
+        "lat": -34.904997,
+        "state_code": "MO",
+        "formatted": "Centro de Campo de Fútbol de los Pocitos, Coronel Alegre, 11300 Montevideo, Uruguay",
+        "address_line1": "Centro de Campo de Fútbol de los Pocitos",
+        "address_line2": "Coronel Alegre, 11300 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centro de Campo de Fútbol de los Pocitos",
+            "osm_id": 3200746262,
+            "tourism": "attraction",
+            "historic": "memorial",
+            "memorial": "stone",
+            "osm_type": "n",
+            "wikidata": "Q741103",
+            "wikipedia": "es:Estadio Pocitos",
+            "opening_hours": "24/7",
+            "wikimedia_commons": "Category:Estadio Pocitos"
+          }
+        },
+        "opening_hours": "24/7",
+        "wiki_and_media": {
+          "wikidata": "Q741103",
+          "wikipedia": "es:Estadio Pocitos",
+          "wikimedia_commons": "Category:Estadio Pocitos"
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "stone"
+        },
+        "place_id": "51eeaeb321ff134cc0590db512f1d67341c0f00103f9011683c7be0000000092032943656e74726f2064652043616d706f2064652046c3ba74626f6c206465206c6f7320506f6369746f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.156223499999996,
+          -34.904996999868764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columna de la Paz",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11100",
+        "suburb": "Centro",
+        "street": "Avenida 18 de Julio",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1913353,
+        "lat": -34.9059104,
+        "state_code": "MO",
+        "formatted": "Columna de la Paz, Avenida 18 de Julio, 11100 Montevideo, Uruguay",
+        "address_line1": "Columna de la Paz",
+        "address_line2": "Avenida 18 de Julio, 11100 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Columna de la Paz",
+            "osm_id": 4350987017,
+            "tourism": "artwork",
+            "website": "https://www.montevideo.gub.uy/ciudad-y-cultura/arquitectura-y-patrimonio/columna-de-la-paz",
+            "material": "marble;bronze",
+            "osm_type": "n",
+            "wikidata": "Q21077299",
+            "artist_name": "Jose Livi",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://www.montevideo.gub.uy/ciudad-y-cultura/arquitectura-y-patrimonio/columna-de-la-paz",
+        "wiki_and_media": {
+          "wikidata": "Q21077299"
+        },
+        "artwork": {
+          "artist_name": "Jose Livi",
+          "artwork_type": "statue"
+        },
+        "place_id": "510209d4ac7d184cc05990453adff47341c0f00103f90109cb560301000000920311436f6c756d6e61206465206c612050617a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.191335300000006,
+          -34.90591039986896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Tomás Toribio",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Piedras",
+        "housenumber": "528",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2059219,
+        "lat": -34.9041213,
+        "state_code": "MO",
+        "formatted": "Casa Tomás Toribio, Piedras 528, 11000 Montevideo, Uruguay",
+        "address_line1": "Casa Tomás Toribio",
+        "address_line2": "Piedras 528, 11000 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa Tomás Toribio",
+            "osm_id": 4614112964,
+            "tourism": "artwork",
+            "website": "https://municipiob.montevideo.gub.uy/node/202",
+            "osm_type": "n",
+            "wikidata": "Q1046444",
+            "addr:city": "Montevideo",
+            "addr:street": "Piedras",
+            "addr:country": "UY",
+            "artwork_type": "house",
+            "addr:housenumber": 528,
+            "wikimedia_commons": "Category:Casa Tomás Toribio"
+          }
+        },
+        "website": "https://municipiob.montevideo.gub.uy/node/202",
+        "wiki_and_media": {
+          "wikidata": "Q1046444",
+          "wikimedia_commons": "Category:Casa Tomás Toribio"
+        },
+        "artwork": {
+          "artwork_type": "house"
+        },
+        "place_id": "51dc0319a65b1a4cc059bd462b3fba7341c0f00103f901c4c60513010000009203134361736120546f6dc3a17320546f726962696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.20592189999999,
+          -34.9041212998686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Panorámico",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11114",
+        "suburb": "Centro",
+        "street": "Avenida 18 de Julio",
+        "housenumber": "1360",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1860835,
+        "lat": -34.906713,
+        "state_code": "MO",
+        "formatted": "Mirador Panorámico, Avenida 18 de Julio 1360, 11114 Montevideo, Uruguay",
+        "address_line1": "Mirador Panorámico",
+        "address_line2": "Avenida 18 de Julio 1360, 11114 Montevideo, Uruguay",
+        "categories": [
+          "no_fee",
+          "no_fee.no",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "Mirador Panorámico",
+            "osm_id": 5543397424,
+            "tourism": "viewpoint",
+            "website": "https://www.montevideo.gub.uy/ciudad-y-cultura/agenda-cultural/mirador-panoramico",
+            "operator": "IM",
+            "osm_type": "n",
+            "direction": "0-360",
+            "description": "El Mirador Panorámico, ubicado a casi 80 metros de altura, revela una de las vistas más completas y emblemáticas de la capital.",
+            "opening_hours": "10:00-15:45"
+          }
+        },
+        "website": "https://www.montevideo.gub.uy/ciudad-y-cultura/agenda-cultural/mirador-panoramico",
+        "opening_hours": "10:00-15:45",
+        "operator": "IM",
+        "description": "El Mirador Panorámico, ubicado a casi 80 metros de altura, revela una de las vistas más completas y emblemáticas de la capital.",
+        "place_id": "51a1698995d1174cc059e3a5ec2b0f7441c0f00103f9013088694a010000009203134d697261646f722050616e6f72c3a16d69636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1860835,
+          -34.906712999869136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Templo Inglés",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Reconquista",
+        "housenumber": "522",
+        "iso3166_2": "UY-MO",
+        "lon": -56.20362649111079,
+        "lat": -34.90944965,
+        "state_code": "MO",
+        "formatted": "Templo Inglés, Reconquista 522, 11000 Montevideo, Uruguay",
+        "address_line1": "Templo Inglés",
+        "address_line2": "Reconquista 522, 11000 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.church"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Templo Inglés",
+            "osm_id": -15959025,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "church",
+            "osm_type": "r",
+            "religion": "christian",
+            "wikidata": "Q1273950",
+            "addr:city": "Montevideo",
+            "addr:street": "Reconquista",
+            "denomination": "anglican",
+            "official_name": "Catedral de la Santísima Trinidad",
+            "addr:housenumber": 522
+          }
+        },
+        "name_other": {
+          "official_name": "Catedral de la Santísima Trinidad"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1273950"
+        },
+        "building": {
+          "type": "church"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "anglican"
+        },
+        "place_id": "51c4f5cf6e101a4cc05948c69bd8687441c0f00101f901f183f3000000000092030e54656d706c6f20496e676cc3a973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.20362649111078,
+          -34.909449649869714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rambla de Montevideo",
+        "lon": -56.0913251,
+        "lat": -34.89497609986667,
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rambla de Montevideo",
+            "route": "road",
+            "osm_id": -6649622,
+            "tourism": "attraction",
+            "osm_type": "r",
+            "wikidata": "Q989939",
+            "wikipedia": "es:Rambla de Montevideo"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q989939",
+          "wikipedia": "es:Rambla de Montevideo"
+        },
+        "place_id": "51e7e6768ab00b4cc05982d0ab938e7241c0f00101f901167765000000000092031452616d626c61206465204d6f6e7465766964656f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0913251,
+          -34.89497609986667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palacio Legislativo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11800",
+        "suburb": "Aguada",
+        "street": "Avenida de las Leyes",
+        "iso3166_2": "UY-MO",
+        "lon": -56.18717049902986,
+        "lat": -34.8912021,
+        "state_code": "MO",
+        "formatted": "Palacio Legislativo, Avenida de las Leyes, 11800 Montevideo, Uruguay",
+        "address_line1": "Palacio Legislativo",
+        "address_line2": "Avenida de las Leyes, 11800 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.office",
+          "building.public_and_civil",
+          "building.tourism",
+          "office",
+          "office.government",
+          "office.government.legislative",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Palacio Legislativo",
+            "office": "government",
+            "osm_id": 81683741,
+            "tourism": "attraction",
+            "building": "civic",
+            "osm_type": "w",
+            "wikidata": "Q283417",
+            "wikipedia": "en:Legislative Palace of Uruguay",
+            "government": "legislative"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q283417",
+          "wikipedia": "en:Legislative Palace of Uruguay"
+        },
+        "building": {
+          "type": "civic"
+        },
+        "place_id": "51fb0df233f5174cc059748610e9127241c0f00102f9011d65de040000000092031350616c6163696f204c656769736c617469766f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.187170499029854,
+          -34.891202099865865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parroquia Cristo Obrero",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Atlántida",
+        "city": "Estación Atlántida",
+        "postcode": "15200",
+        "street": "Monseñor José Orzali",
+        "iso3166_2": "UY-CA",
+        "lon": -55.76636477598426,
+        "lat": -34.743934249999995,
+        "state_code": "CA",
+        "formatted": "Parroquia Cristo Obrero, Monseñor José Orzali, 15200 Estación Atlántida, Uruguay",
+        "address_line1": "Parroquia Cristo Obrero",
+        "address_line2": "Monseñor José Orzali, 15200 Estación Atlántida, Uruguay",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.place_of_worship",
+          "building.tourism",
+          "heritage",
+          "heritage.unesco",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.church"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.heritage",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parroquia Cristo Obrero",
+            "osm_id": 114729775,
+            "amenity": "place_of_worship",
+            "ref:whc": 1612,
+            "tourism": "artwork",
+            "building": "church",
+            "heritage": 1,
+            "osm_type": "w",
+            "religion": "christian",
+            "wikidata": "Q26721344",
+            "addr:city": "Estación Atlántida",
+            "wikipedia": "es:Iglesia de Cristo Obrero y Nuestra Señora de Lourdes",
+            "addr:street": "Monseñor José Orzali",
+            "artist_name": "Eladio Dieste",
+            "description": "Obra del Ing. Eladio Dieste. http://es.wikiarquitectura.com/index.php/Iglesia_de_Atlantida",
+            "artwork_type": "architecture",
+            "denomination": "catholic",
+            "heritage:ref": 1612,
+            "whc:criteria": "(iv)",
+            "heritage:website": "https://whc.unesco.org/en/list/1612/",
+            "heritage:operator": "whc",
+            "wikimedia_commons": "Category:Iglesia Cristo Obrero y Nuestra Señora de Lourdes",
+            "whc:inscription_date": 2021
+          }
+        },
+        "description": "Obra del Ing. Eladio Dieste. http://es.wikiarquitectura.com/index.php/Iglesia_de_Atlantida",
+        "ref_other": {
+          "whc": 1612
+        },
+        "wiki_and_media": {
+          "wikidata": "Q26721344",
+          "wikipedia": "es:Iglesia de Cristo Obrero y Nuestra Señora de Lourdes",
+          "wikimedia_commons": "Category:Iglesia Cristo Obrero y Nuestra Señora de Lourdes"
+        },
+        "heritage": {
+          "level": 1,
+          "operator": "whc",
+          "website": "https://whc.unesco.org/en/list/1612/",
+          "ref": 1612,
+          "inscription_date": 2021
+        },
+        "artwork": {
+          "artist_name": "Eladio Dieste",
+          "artwork_type": "architecture"
+        },
+        "building": {
+          "type": "church"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "catholic"
+        },
+        "place_id": "5150d4b03d18e24bc0594eb5cc3c395f41c0f00102f9012fa3d60600000000920317506172726f717569612043726973746f204f627265726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.76636477598424,
+          -34.74393424983519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Águila",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Atlántida",
+        "city": "Villa Argentina",
+        "postcode": "16001",
+        "street": "Calle 3",
+        "iso3166_2": "UY-CA",
+        "lon": -55.779078645823546,
+        "lat": -34.77062015,
+        "state_code": "CA",
+        "formatted": "El Águila, Calle 3, 16001 Villa Argentina, Uruguay",
+        "address_line1": "El Águila",
+        "address_line2": "Calle 3, 16001 Villa Argentina, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Águila",
+            "osm_id": 114730006,
+            "tourism": "artwork",
+            "building": "yes",
+            "osm_type": "w",
+            "wikidata": "Q16301094",
+            "wikipedia": "es:El Águila (Villa Argentina)"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q16301094",
+          "wikipedia": "es:El Águila (Villa Argentina)"
+        },
+        "place_id": "517a695cd9b8e34bc0592c9a5aaea36241c0f00102f90116a4d6060000000092030a456c20c3816775696c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.77907864582353,
+          -34.77062014984071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molino de Pérez",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11403",
+        "suburb": "Malvín",
+        "street": "Pasaje Arquitecto Juan Veltroni",
+        "iso3166_2": "UY-MO",
+        "lon": -56.090556297439576,
+        "lat": -34.89417935,
+        "state_code": "MO",
+        "formatted": "Molino de Pérez, Pasaje Arquitecto Juan Veltroni, 11403 Montevideo, Uruguay",
+        "address_line1": "Molino de Pérez",
+        "address_line2": "Pasaje Arquitecto Juan Veltroni, 11403 Montevideo, Uruguay",
+        "categories": [
+          "man_made",
+          "man_made.watermill",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Molino de Pérez",
+            "osm_id": 151739542,
+            "tourism": "attraction",
+            "man_made": "watermill",
+            "osm_type": "w",
+            "wikidata": "Q6896221",
+            "wikipedia": "en:Molino de Pérez",
+            "wikimedia_commons": "Category:Molino de Pérez"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6896221",
+          "wikipedia": "en:Molino de Pérez",
+          "wikimedia_commons": "Category:Molino de Pérez"
+        },
+        "place_id": "5192f94759970b4cc059b4370c78747241c0f00102f901965c0b09000000009203104d6f6c696e6f2064652050c3a972657a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.09055629743956,
+          -34.894179349866505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CdF Fotogalería Prado",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11700",
+        "suburb": "Prado",
+        "street": "Sendero Peatonal Clara Silva",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2071443,
+        "lat": -34.8600476,
+        "state_code": "MO",
+        "formatted": "CdF Fotogalería Prado, Sendero Peatonal Clara Silva, 11700 Montevideo, Uruguay",
+        "address_line1": "CdF Fotogalería Prado",
+        "address_line2": "Sendero Peatonal Clara Silva, 11700 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "CdF Fotogalería Prado",
+            "osm_id": 257259012,
+            "tourism": "artwork",
+            "operator": "Centro de Fotografía de Montevideo",
+            "osm_type": "w",
+            "addr:city": "Montevideo",
+            "addr:street": "Sendero Peatonal Clara Silva",
+            "addr:country": "UY",
+            "artwork_type": "photography",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "operator": "Centro de Fotografía de Montevideo",
+        "artwork": {
+          "artwork_type": "photography"
+        },
+        "place_id": "51c30655b4831a4cc05917332d0a166e41c0f00102f9010476550f0000000092031643644620466f746f67616c6572c3ad6120507261646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2071443,
+          -34.860047599859335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuente de los Atletas",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11601",
+        "suburb": "Parque Rodó",
+        "street": "Avenida Gonzalo Ramírez",
+        "iso3166_2": "UY-MO",
+        "lon": -56.168650789165625,
+        "lat": -34.91195105,
+        "state_code": "MO",
+        "formatted": "Fuente de los Atletas, Avenida Gonzalo Ramírez, 11601 Montevideo, Uruguay",
+        "address_line1": "Fuente de los Atletas",
+        "address_line2": "Avenida Gonzalo Ramírez, 11601 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.attraction.fountain"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fuente de los Atletas",
+            "osm_id": 301711492,
+            "amenity": "fountain",
+            "tourism": "artwork",
+            "osm_type": "w",
+            "wikidata": "Q3083777",
+            "start_date": 1927,
+            "artist_name": "José Luis Zorrilla de San Martín",
+            "artwork_type": "sculpture",
+            "drinking_water": "no",
+            "wikimedia_commons": "Category:Fuente de los Atletas"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3083777",
+          "wikimedia_commons": "Category:Fuente de los Atletas"
+        },
+        "artwork": {
+          "artist_name": "José Luis Zorrilla de San Martín",
+          "artwork_type": "sculpture",
+          "start_date": 1927
+        },
+        "place_id": "519af45b5996154cc0596e5fdfcfba7441c0f00102f90184c0fb11000000009203154675656e7465206465206c6f732041746c65746173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.168650789165625,
+          -34.91195104987024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palacio Salvo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Plaza Independencia",
+        "iso3166_2": "UY-MO",
+        "lon": -56.19835089954467,
+        "lat": -34.90684025,
+        "state_code": "MO",
+        "formatted": "Palacio Salvo, Plaza Independencia, 11000 Montevideo, Uruguay",
+        "address_line1": "Palacio Salvo",
+        "address_line2": "Plaza Independencia, 11000 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Palacio Salvo",
+            "osm_id": 463297039,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "wikidata": "Q1519373",
+            "addr:city": "Montevideo",
+            "wikipedia": "es:Palacio Salvo",
+            "roof:shape": "many",
+            "addr:street": "Plaza Independencia",
+            "building:levels": 10,
+            "wikimedia_commons": "Category:Palacio Salvo",
+            "building:roof:shape": "mansard",
+            "building:roof:colour": "#0058AB"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1519373",
+          "wikipedia": "es:Palacio Salvo",
+          "wikimedia_commons": "Category:Palacio Salvo"
+        },
+        "building": {
+          "levels": 10,
+          "roof": {
+            "shape": "many"
+          }
+        },
+        "place_id": "519856f18f63194cc05938f15f57137441c0f00102f9010f5a9d1b0000000092030d50616c6163696f2053616c766f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.198350899544664,
+          -34.90684024986916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodega Pablo Fallabrino",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Atlántida",
+        "city": "Estación Atlántida",
+        "postcode": "16001",
+        "street": "Ruta 11 José Batlle y Ordóñez",
+        "housenumber": "Km 162",
+        "iso3166_2": "UY-CA",
+        "lon": -55.7724973,
+        "lat": -34.7307774,
+        "state_code": "CA",
+        "formatted": "Bodega Pablo Fallabrino, Ruta 11 José Batlle y Ordóñez Km 162, 16001 Estación Atlántida, Uruguay",
+        "address_line1": "Bodega Pablo Fallabrino",
+        "address_line2": "Ruta 11 José Batlle y Ordóñez Km 162, 16001 Estación Atlántida, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bodega Pablo Fallabrino",
+            "osm_id": 911991671,
+            "tourism": "attraction",
+            "website": "https://www.vinedodelosvientos.com/",
+            "operator": "Fallabrino Hermanos Ltda.",
+            "osm_type": "n",
+            "addr:city": "Estación Atlántida",
+            "addr:street": "Ruta 11 José Batlle y Ordóñez",
+            "addr:country": "UY",
+            "addr:housenumber": "Km 162"
+          }
+        },
+        "website": "https://www.vinedodelosvientos.com/",
+        "operator": "Fallabrino Hermanos Ltda.",
+        "place_id": "51c8df0731e1e24bc059dd77241d8a5d41c0f00103f90177e35b3600000000920317426f64656761205061626c6f2046616c6c616272696e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7724973,
+          -34.73077739983248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento al Gaucho",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11114",
+        "suburb": "Centro",
+        "street": "Constituyente",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1848863,
+        "lat": -34.9055048,
+        "state_code": "MO",
+        "formatted": "Monumento al Gaucho, Constituyente, 11114 Montevideo, Uruguay",
+        "address_line1": "Monumento al Gaucho",
+        "address_line2": "Constituyente, 11114 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento al Gaucho",
+            "osm_id": 956119415,
+            "tourism": "attraction",
+            "historic": "memorial",
+            "memorial": "statue",
+            "osm_type": "n",
+            "wikipedia": "es:Monumento al Gaucho"
+          }
+        },
+        "wiki_and_media": {
+          "wikipedia": "es:Monumento al Gaucho"
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue"
+        },
+        "place_id": "513dfdb15aaa174cc0596ae7ce94e77341c0f00103f9017739fd38000000009203134d6f6e756d656e746f20616c2047617563686f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.184886299999995,
+          -34.90550479986889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerta de la Ciudadela",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Juncal",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2008106,
+        "lat": -34.9065261,
+        "state_code": "MO",
+        "formatted": "Puerta de la Ciudadela, Juncal, 11000 Montevideo, Uruguay",
+        "address_line1": "Puerta de la Ciudadela",
+        "address_line2": "Juncal, 11000 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.city_gate",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puerta de la Ciudadela",
+            "osm_id": 1894028842,
+            "tourism": "attraction",
+            "historic": "city_gate",
+            "osm_type": "n",
+            "wikidata": "Q5124182",
+            "wikipedia": "en:Gateway of the Citadel",
+            "wheelchair": "yes",
+            "wikimedia_commons": "Category:Puerta de la Ciudadela, Montevideo"
+          }
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5124182",
+          "wikipedia": "en:Gateway of the Citadel",
+          "wikimedia_commons": "Category:Puerta de la Ciudadela, Montevideo"
+        },
+        "historic": {
+          "type": "city_gate"
+        },
+        "place_id": "5156d86729b4194cc05941f4170c097441c0f00103f9012a96e47000000000920316507565727461206465206c6120436975646164656c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2008106,
+          -34.906526099869104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faro de la panela",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "lon": -56.4483276,
+        "lat": -34.9156322,
+        "formatted": "Faro de la panela, Uruguay",
+        "address_line1": "Faro de la panela",
+        "address_line2": "Uruguay",
+        "categories": [
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Faro de la panela",
+            "osm_id": 1922245611,
+            "tourism": "attraction",
+            "man_made": "lighthouse",
+            "osm_type": "n",
+            "wikidata": "Q5856541",
+            "wikipedia": "es:Faro de la Panela",
+            "seamark:name": "La Panela",
+            "seamark:type": "light_minor",
+            "seamark:light:group": 4,
+            "seamark:light:range": 8,
+            "seamark:light:colour": "white",
+            "seamark:light:height": 17,
+            "seamark:light:period": 10,
+            "seamark:light:sequence": "0.5+(1)+0.5+(1)+0.5+(1)+0.5+(5)",
+            "seamark:light:character": "Fl",
+            "seamark:light:reference": "G 0736"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5856541",
+          "wikipedia": "es:Faro de la Panela"
+        },
+        "place_id": "5174f27dcc62394cc05926ce986f337541c0f00103f901eb239372000000009203114661726f206465206c612070616e656c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4483276,
+          -34.91563219987101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirámide a la Paz de Abril",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "San José",
+        "city": "San José",
+        "postcode": "80000",
+        "street": "Asamblea",
+        "iso3166_2": "UY-SJ",
+        "lon": -56.713841,
+        "lat": -34.339548,
+        "state_code": "SJ",
+        "formatted": "Pirámide a la Paz de Abril, Asamblea, 80000 San José, Uruguay",
+        "address_line1": "Pirámide a la Paz de Abril",
+        "address_line2": "Asamblea, 80000 San José, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pirámide a la Paz de Abril",
+            "osm_id": 2734043687,
+            "tourism": "artwork",
+            "historic": "yes",
+            "material": "iron;marble;granite",
+            "osm_type": "n",
+            "wikidata": "Q16619210",
+            "wikipedia": "es:Pirámide a la Paz de Abril",
+            "start_date": "01-JUN-1873",
+            "artist_name": "Juan Ferrari",
+            "artwork_type": "sculpture",
+            "wikimedia_commons": "Category:Monumento a la Paz de Abril, San José"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q16619210",
+          "wikipedia": "es:Pirámide a la Paz de Abril",
+          "wikimedia_commons": "Category:Monumento a la Paz de Abril, San José"
+        },
+        "historic": {
+          "start_date": "01-JUN-1873",
+          "artwork_type": "sculpture"
+        },
+        "artwork": {
+          "artist_name": "Juan Ferrari",
+          "artwork_type": "sculpture",
+          "start_date": "01-JUN-1873"
+        },
+        "place_id": "51a1c552245f5b4cc059ea2e114f762b41c0f00103f9012732f6a20000000092031b506972c3a16d6964652061206c612050617a20646520416272696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.71384100000001,
+          -34.3395479997542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a Luis Batlle Berres",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "12000",
+        "suburb": "Jacinto Vera",
+        "street": "Bulevar General Artigas",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1677122,
+        "lat": -34.8695854,
+        "state_code": "MO",
+        "formatted": "Monumento a Luis Batlle Berres, Bulevar General Artigas, 12000 Montevideo, Uruguay",
+        "address_line1": "Monumento a Luis Batlle Berres",
+        "address_line2": "Bulevar General Artigas, 12000 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a Luis Batlle Berres",
+            "osm_id": 2786732916,
+            "tourism": "artwork",
+            "alt_name": "Los Cuernos de Batlle",
+            "historic": "memorial",
+            "material": "concrete",
+            "memorial": "sculpture",
+            "osm_type": "n",
+            "wikidata": "Q42982014",
+            "start_date": 1967,
+            "artist_name": "Román Fresnedo Siri",
+            "artwork_type": "sculpture",
+            "wikimedia_commons": "Category:Monumento a Luis Batlle Berres, Montevideo"
+          }
+        },
+        "name_other": {
+          "alt_name": "Los Cuernos de Batlle"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q42982014",
+          "wikimedia_commons": "Category:Monumento a Luis Batlle Berres, Montevideo"
+        },
+        "historic": {
+          "type": "memorial",
+          "start_date": 1967,
+          "memorial": "sculpture",
+          "artwork_type": "sculpture"
+        },
+        "artwork": {
+          "artist_name": "Román Fresnedo Siri",
+          "artwork_type": "sculpture",
+          "start_date": 1967
+        },
+        "place_id": "51f211e79777154cc059e3bd0a934e6f41c0f00103f901742b1aa60000000092031e4d6f6e756d656e746f2061204c756973204261746c6c6520426572726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1677122,
+          -34.86958539986133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castillo Idiarte Borda",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "12500",
+        "district": "Barrio Las Palmas",
+        "suburb": "Colón",
+        "street": "Avenida Lezica",
+        "housenumber": "5912",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2320704,
+        "lat": -34.8021164,
+        "state_code": "MO",
+        "formatted": "Castillo Idiarte Borda, Avenida Lezica 5912, 12500 Montevideo, Uruguay",
+        "address_line1": "Castillo Idiarte Borda",
+        "address_line2": "Avenida Lezica 5912, 12500 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Castillo Idiarte Borda",
+            "osm_id": 2885782967,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q111543716",
+            "addr:city": "Montevideo",
+            "addr:street": "Avenida Lezica",
+            "addr:country": "UY",
+            "addr:housenumber": 5912
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q111543716"
+        },
+        "place_id": "514f2f9d7bb41d4cc059ef760cc0ab6641c0f00103f901b78d01ac0000000092031643617374696c6c6f204964696172746520426f726461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.23207039999999,
+          -34.80211639984724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A los Campeones del '50",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11820",
+        "suburb": "La Blanqueada",
+        "street": "Avenida Doctor Américo Ricaldoni",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1540831,
+        "lat": -34.8923684,
+        "state_code": "MO",
+        "formatted": "A los Campeones del '50, Avenida Doctor Américo Ricaldoni, 11820 Montevideo, Uruguay",
+        "address_line1": "A los Campeones del '50",
+        "address_line2": "Avenida Doctor Américo Ricaldoni, 11820 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "A los Campeones del '50",
+            "osm_id": 3247913952,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "place_id": "51e2aeb9feb8134cc05955b4b220397241c0f00103f901e03b97c10000000092031741206c6f732043616d70656f6e65732064656c20273530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.154083099999994,
+          -34.89236839986612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ancla del Graf Spee",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Rambla 25 de Agosto de 1825",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2116353,
+        "lat": -34.9034824,
+        "state_code": "MO",
+        "formatted": "Ancla del Graf Spee, Rambla 25 de Agosto de 1825, 11000 Montevideo, Uruguay",
+        "address_line1": "Ancla del Graf Spee",
+        "address_line2": "Rambla 25 de Agosto de 1825, 11000 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.ship"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ancla del Graf Spee",
+            "osm_id": 6122332362,
+            "tourism": "attraction",
+            "historic": "ship",
+            "osm_type": "n",
+            "wikipedia": "en:Anchor of German cruiser Admiral Graf Spee"
+          }
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Anchor of German cruiser Admiral Graf Spee"
+        },
+        "historic": {
+          "type": "ship"
+        },
+        "place_id": "51ed1692dd161b4cc0592cf9af4fa57341c0f00103f901ca60eb6c01000000920313416e636c612064656c20477261662053706565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.21163529999999,
+          -34.903482399868466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Un Silencio Bárbaro - BooksOnWall",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11114",
+        "suburb": "Barrio Sur",
+        "street": "Durazno",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1784429,
+        "lat": -34.909656,
+        "state_code": "MO",
+        "formatted": "Un Silencio Bárbaro - BooksOnWall, Durazno, 11114 Montevideo, Uruguay",
+        "address_line1": "Un Silencio Bárbaro - BooksOnWall",
+        "address_line2": "Durazno, 11114 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Un Silencio Bárbaro - BooksOnWall",
+            "osm_id": 6259910817,
+            "tourism": "artwork",
+            "website": "https://booksonwall.art/",
+            "osm_type": "n",
+            "artist_name": "Fulvio Capurso & otrxs",
+            "description": "cuento a través de murales con realidad aumentada",
+            "artwork_type": "mural"
+          }
+        },
+        "website": "https://booksonwall.art/",
+        "description": "cuento a través de murales con realidad aumentada",
+        "artwork": {
+          "artist_name": "Fulvio Capurso & otrxs",
+          "artwork_type": "mural"
+        },
+        "place_id": "5109da8937d7164cc0598006999b6f7441c0f00103f901a1a81e7501000000920322556e2053696c656e63696f2042c3a1726261726f202d20426f6f6b734f6e57616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1784429,
+          -34.909655999869756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura de Carlos Gardel",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11100",
+        "suburb": "Centro",
+        "street": "Avenida 18 de Julio",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1892524,
+        "lat": -34.9056729,
+        "state_code": "MO",
+        "formatted": "Carlos Gardel Sculpture, Avenida 18 de Julio, 11100 Montevideo, Uruguay",
+        "address_line1": "Carlos Gardel Sculpture",
+        "address_line2": "Avenida 18 de Julio, 11100 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura de Carlos Gardel",
+            "osm_id": 6423211586,
+            "name:en": "Carlos Gardel Sculpture",
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "start_date": "24-JUN-2015",
+            "artist_name": "Alberto Morales Saravia",
+            "artwork_type": "statue",
+            "opening_hours": "24/7",
+            "artwork_subject": "Carlos Gardel"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "Carlos Gardel Sculpture"
+        },
+        "artwork": {
+          "artist_name": "Alberto Morales Saravia",
+          "artwork_subject": "Carlos Gardel",
+          "artwork_type": "statue",
+          "start_date": "24-JUN-2015"
+        },
+        "place_id": "514158326c39184cc059bee7ee16ed7341c0f00103f901426eda7e0100000092031a457363756c74757261206465204361726c6f732047617264656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.189252399999994,
+          -34.90567289986892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Diligencia",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11700",
+        "suburb": "Prado",
+        "street": "Lucas Obes",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2111469,
+        "lat": -34.8619772,
+        "state_code": "MO",
+        "formatted": "La Diligencia, Lucas Obes, 11700 Montevideo, Uruguay",
+        "address_line1": "La Diligencia",
+        "address_line2": "Lucas Obes, 11700 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Diligencia",
+            "osm_id": 7046398879,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "start_date": 1952,
+            "artist_name": "José Belloni",
+            "artwork_type": "sculpture",
+            "opening_hours": "24/7",
+            "artist:wikidata": "Q459935",
+            "subject:wikidata": "Q339249"
+          }
+        },
+        "opening_hours": "24/7",
+        "artwork": {
+          "artist_name": "José Belloni",
+          "artist_details": {
+            "wikidata": "Q459935"
+          },
+          "artwork_type": "sculpture",
+          "start_date": 1952
+        },
+        "place_id": "516d1393dc061b4cc059c8a5d544556e41c0f00103f9019f83ffa30100000092030d4c612044696c6967656e636961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.211146899999996,
+          -34.86197719985972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Macarena",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "street": "Camino Paja Brava",
+        "iso3166_2": "UY-MO",
+        "lon": -56.3203579,
+        "lat": -34.7214516,
+        "state_code": "MO",
+        "formatted": "La Macarena, Camino Paja Brava, Montevideo, Uruguay",
+        "address_line1": "La Macarena",
+        "address_line2": "Camino Paja Brava, Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Macarena",
+            "osm_id": 10261464329,
+            "tourism": "attraction",
+            "website": "https://www.lamacarena.com.uy/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.lamacarena.com.uy/",
+        "place_id": "51f3c1d77c01294cc059a475a986585c41c0f00103f9010985a1630200000092030b4c61204d61636172656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3203579,
+          -34.721451599830544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "José Martí",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11700",
+        "suburb": "Bella Vista",
+        "street": "Bulevar General Artigas",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2027135,
+        "lat": -34.8721951,
+        "state_code": "MO",
+        "formatted": "José Martí, Bulevar General Artigas, 11700 Montevideo, Uruguay",
+        "address_line1": "José Martí",
+        "address_line2": "Bulevar General Artigas, 11700 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "José Martí",
+            "osm_id": 10612672626,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "inscription": "La Patria de Martí a la Patria de Artigas",
+            "object:city": "Montevideo",
+            "artwork_type": "bust",
+            "object:street": "Bulevar General Artigas",
+            "subject:wikidata": "Q103285",
+            "subject:wikipedia": "es:José Martí",
+            "wikimedia_commons": "File:Busto ubicado en la Plaza Cuba a Jose Marti.JPG"
+          }
+        },
+        "wiki_and_media": {
+          "wikimedia_commons": "File:Busto ubicado en la Plaza Cuba a Jose Marti.JPG"
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51957a1684f2194cc059b2d1ca16a46f41c0f00103f901728890780200000092030c4a6f73c3a9204d617274c3ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.202713499999994,
+          -34.872195099861884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grompone",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11800",
+        "suburb": "Aguada",
+        "street": "Venezuela",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1886081,
+        "lat": -34.8934112,
+        "state_code": "MO",
+        "formatted": "Grompone, Venezuela, 11800 Montevideo, Uruguay",
+        "address_line1": "Grompone",
+        "address_line2": "Venezuela, 11800 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Grompone",
+            "osm_id": 10929121676,
+            "tourism": "artwork",
+            "website": "https://josegallino.com/murales/grompone.html",
+            "osm_type": "n",
+            "start_date": 2021,
+            "artist_name": "Gallino Art",
+            "artwork_type": "mural",
+            "artwork_subject": "Antonio Miguel Grompone"
+          }
+        },
+        "website": "https://josegallino.com/murales/grompone.html",
+        "artwork": {
+          "artist_name": "Gallino Art",
+          "artwork_subject": "Antonio Miguel Grompone",
+          "artwork_type": "mural",
+          "start_date": 2021
+        },
+        "place_id": "515fa16a4f24184cc0592ba7564c5b7241c0f00103f9018c296d8b0200000092030847726f6d706f6e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1886081,
+          -34.89341119986633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malala",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11200",
+        "suburb": "Cordón",
+        "street": "Arenal Grande",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1735028,
+        "lat": -34.9026482,
+        "state_code": "MO",
+        "formatted": "Malala, Arenal Grande, 11200 Montevideo, Uruguay",
+        "address_line1": "Malala",
+        "address_line2": "Arenal Grande, 11200 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Malala",
+            "osm_id": 10929160385,
+            "tourism": "artwork",
+            "website": "https://josegallino.com/murales/mandela-malala.html",
+            "osm_type": "n",
+            "start_date": 2021,
+            "artist_name": "Gallino Art",
+            "artwork_type": "mural",
+            "artwork_subject": "Malala"
+          }
+        },
+        "website": "https://josegallino.com/murales/mandela-malala.html",
+        "artwork": {
+          "artist_name": "Gallino Art",
+          "artwork_subject": "Malala",
+          "artwork_type": "mural",
+          "start_date": 2021
+        },
+        "place_id": "51dae1f95635164cc0591f1de9f9897341c0f00103f901c1c06d8b020000009203064d616c616c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.17350280000001,
+          -34.902648199868274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandela",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11200",
+        "suburb": "Cordón",
+        "street": "Arenal Grande",
+        "iso3166_2": "UY-MO",
+        "lon": -56.173394,
+        "lat": -34.9026243,
+        "state_code": "MO",
+        "formatted": "Mandela, Arenal Grande, 11200 Montevideo, Uruguay",
+        "address_line1": "Mandela",
+        "address_line2": "Arenal Grande, 11200 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mandela",
+            "osm_id": 10929160386,
+            "tourism": "artwork",
+            "website": "https://josegallino.com/murales/mandela-malala.html",
+            "osm_type": "n",
+            "start_date": 2021,
+            "artist_name": "Gallino Art",
+            "artwork_type": "mural",
+            "artwork_subject": "Nelson Mandela"
+          }
+        },
+        "website": "https://josegallino.com/murales/mandela-malala.html",
+        "artwork": {
+          "artist_name": "Gallino Art",
+          "artwork_subject": "Nelson Mandela",
+          "artwork_type": "mural",
+          "start_date": 2021
+        },
+        "place_id": "514ba94bc631164cc0592c416c31897341c0f00103f901c2c06d8b020000009203074d616e64656c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.173393999999995,
+          -34.90262429986828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quintela",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11820",
+        "suburb": "La Blanqueada",
+        "street": "Vehicular/ Peatonal",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1530758,
+        "lat": -34.8912065,
+        "state_code": "MO",
+        "formatted": "Quintela, Vehicular/ Peatonal, 11820 Montevideo, Uruguay",
+        "address_line1": "Quintela",
+        "address_line2": "Vehicular/ Peatonal, 11820 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Quintela",
+            "osm_id": 10929167825,
+            "tourism": "artwork",
+            "website": "https://josegallino.com/murales/manuel-quintela.html",
+            "osm_type": "n",
+            "start_date": 2020,
+            "artist_name": "Gallino Art",
+            "artwork_type": "mural",
+            "artwork_subject": "Manuel Quintela"
+          }
+        },
+        "website": "https://josegallino.com/murales/manuel-quintela.html",
+        "artwork": {
+          "artist_name": "Gallino Art",
+          "artwork_subject": "Manuel Quintela",
+          "artwork_type": "mural",
+          "start_date": 2020
+        },
+        "place_id": "518e67e1fc97134cc0590a74f90d137241c0f00103f901d1dd6d8b020000009203085175696e74656c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.153075799999996,
+          -34.89120649986587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mujer Indígena",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11700",
+        "suburb": "Brazo Oriental",
+        "street": "Carabela",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1831897,
+        "lat": -34.8698529,
+        "state_code": "MO",
+        "formatted": "Mujer Indígena, Carabela, 11700 Montevideo, Uruguay",
+        "address_line1": "Mujer Indígena",
+        "address_line2": "Carabela, 11700 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mujer Indígena",
+            "osm_id": 10929170802,
+            "tourism": "artwork",
+            "website": "https://josegallino.com/murales/mujer-indigena.html",
+            "osm_type": "n",
+            "start_date": 2021,
+            "artist_name": "Gallino Art",
+            "artwork_type": "mural",
+            "artwork_subject": "Mujer Indígena"
+          }
+        },
+        "website": "https://josegallino.com/murales/mujer-indigena.html",
+        "artwork": {
+          "artist_name": "Gallino Art",
+          "artwork_subject": "Mujer Indígena",
+          "artwork_type": "mural",
+          "start_date": 2021
+        },
+        "place_id": "51663b95c272174cc059219efe56576f41c0f00103f90172e96d8b0200000092030f4d756a657220496e64c3ad67656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1831897,
+          -34.86985289986138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luisa Cuesta",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11800",
+        "suburb": "Aguada",
+        "street": "Lima",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1898366,
+        "lat": -34.895087,
+        "state_code": "MO",
+        "formatted": "Luisa Cuesta, Lima, 11800 Montevideo, Uruguay",
+        "address_line1": "Luisa Cuesta",
+        "address_line2": "Lima, 11800 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Luisa Cuesta",
+            "osm_id": 10929229505,
+            "tourism": "artwork",
+            "website": "https://josegallino.com/murales/luisa-cuesta.html",
+            "osm_type": "n",
+            "start_date": 2020,
+            "artist_name": "Gallino Art",
+            "artwork_type": "mural",
+            "artwork_subject": "Luisa Cuesta"
+          }
+        },
+        "website": "https://josegallino.com/murales/luisa-cuesta.html",
+        "artwork": {
+          "artist_name": "Gallino Art",
+          "artwork_subject": "Luisa Cuesta",
+          "artwork_type": "mural",
+          "start_date": 2020
+        },
+        "place_id": "51bb4ad2904c184cc05946c0f735927241c0f00103f901c1ce6e8b0200000092030c4c7569736120437565737461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1898366,
+          -34.89508699986668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bob Marley",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11820",
+        "suburb": "Larrañaga",
+        "street": "Ingavi",
+        "housenumber": "2663",
+        "iso3166_2": "UY-MO",
+        "lon": -56.163909,
+        "lat": -34.8785575,
+        "state_code": "MO",
+        "formatted": "Bob Marley, Ingavi 2663, 11820 Montevideo, Uruguay",
+        "address_line1": "Bob Marley",
+        "address_line2": "Ingavi 2663, 11820 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bob Marley",
+            "image": "http://geoportal.cm-amadora.pt/files_site_internet/links/pcultural/id3.jpg",
+            "osm_id": 945599447,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "addr:city": "Montevideo",
+            "addr:street": "Ingavi",
+            "artist_name": "Odeith",
+            "description": "Mural localizado no Bairro da  Cova da Moura Exibe uma figura mediática Vista como um exemplo O interprete Bob Marley",
+            "addr:country": "UY",
+            "artwork_type": "graffiti",
+            "addr:housenumber": 2663
+          }
+        },
+        "description": "Mural localizado no Bairro da  Cova da Moura Exibe uma figura mediática Vista como um exemplo O interprete Bob Marley",
+        "wiki_and_media": {
+          "image": "http://geoportal.cm-amadora.pt/files_site_internet/links/pcultural/id3.jpg"
+        },
+        "artwork": {
+          "artist_name": "Odeith",
+          "artwork_type": "graffiti"
+        },
+        "place_id": "51904259f8fa144cc059b5c87892747041c0f00103f901d7b35c380000000092030a426f62204d61726c6579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.16390899999999,
+          -34.87855749986321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Expoplatea de Atlántida",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Parque del Plata",
+        "city": "Atlántida",
+        "postcode": "16000",
+        "district": "Barrio Jardín",
+        "street": "Rambla Tomás Berreta",
+        "iso3166_2": "UY-CA",
+        "lon": -55.76332929718781,
+        "lat": -34.77548335,
+        "state_code": "CA",
+        "formatted": "Expoplatea de Atlántida, Rambla Tomás Berreta, 16000 Atlántida, Uruguay",
+        "address_line1": "Expoplatea de Atlántida",
+        "address_line2": "Rambla Tomás Berreta, 16000 Atlántida, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Expoplatea de Atlántida",
+            "osm_id": 114730005,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "510bc03fc6b4e14bc059d214d509436341c0f00102f90115a4d606000000009203184578706f706c617465612064652041746cc3a16e74696461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.763329297187816,
+          -34.77548334984171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arco de Salinas",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Salinas",
+        "city": "Salinas",
+        "postcode": "15100",
+        "street": "Avenida Julieta",
+        "iso3166_2": "UY-CA",
+        "lon": -55.84001141074695,
+        "lat": -34.7755877,
+        "state_code": "CA",
+        "formatted": "Arco de Salinas, Avenida Julieta, 15100 Salinas, Uruguay",
+        "address_line1": "Arco de Salinas",
+        "address_line2": "Avenida Julieta, 15100 Salinas, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arco de Salinas",
+            "layer": 1,
+            "osm_id": 152712575,
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5166b6707e85eb4bc05902002f75466341c0f00102f9017f351a090000000092030f4172636f2064652053616c696e6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.84001141074695,
+          -34.77558769984172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fotogalería Parque Rodó",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Parque Rodó",
+        "street": "Doctor Antonio María Rodríguez",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1695611,
+        "lat": -34.9136672,
+        "state_code": "MO",
+        "formatted": "Fotogalería Parque Rodó, Doctor Antonio María Rodríguez, 11303 Montevideo, Uruguay",
+        "address_line1": "Fotogalería Parque Rodó",
+        "address_line2": "Doctor Antonio María Rodríguez, 11303 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fotogalería Parque Rodó",
+            "osm_id": 414871368,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "description": "Exposiciones fotograficas permanentes al aire libre."
+          }
+        },
+        "description": "Exposiciones fotograficas permanentes al aire libre.",
+        "place_id": "513826d588aa154cc05960e96611e57441c0f00102f901486fba1800000000920319466f746f67616c6572c3ad612050617271756520526f64c3b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1692668,
+          -34.913240599870505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Autitos Chocadores",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Parque Rodó",
+        "street": "Avenida José G. Requena García",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1678284,
+        "lat": -34.916487450000005,
+        "state_code": "MO",
+        "formatted": "Autitos Chocadores, Avenida José G. Requena García, 11303 Montevideo, Uruguay",
+        "address_line1": "Autitos Chocadores",
+        "address_line2": "Avenida José G. Requena García, 11303 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Autitos Chocadores",
+            "osm_id": 656762356,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "bumper_car"
+          }
+        },
+        "place_id": "5184aba8667b154cc0591632f4754f7541c0f00102f901f46525270000000092031241757469746f732043686f6361646f726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.16782839999999,
+          -34.91648744987121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Autitos chocadores",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Punta Carretas",
+        "street": "Senda Nelson Landoni",
+        "iso3166_2": "UY-MO",
+        "lon": -56.16791423010032,
+        "lat": -34.91719295,
+        "state_code": "MO",
+        "formatted": "Autitos chocadores, Senda Nelson Landoni, 11303 Montevideo, Uruguay",
+        "address_line1": "Autitos chocadores",
+        "address_line2": "Senda Nelson Landoni, 11303 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Autitos chocadores",
+            "osm_id": 656762358,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "bumper_car"
+          }
+        },
+        "place_id": "512e68a7367e154cc059dae81d94667541c0f00102f901f66525270000000092031241757469746f732063686f6361646f726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.16791423010032,
+          -34.917192949871335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tren Fantasma",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Punta Carretas",
+        "street": "Senda Nelson Landoni",
+        "iso3166_2": "UY-MO",
+        "lon": -56.16799534767812,
+        "lat": -34.9170067,
+        "state_code": "MO",
+        "formatted": "Tren Fantasma, Senda Nelson Landoni, 11303 Montevideo, Uruguay",
+        "address_line1": "Tren Fantasma",
+        "address_line2": "Senda Nelson Landoni, 11303 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Tren Fantasma",
+            "osm_id": 656762361,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "dark_ride"
+          }
+        },
+        "place_id": "512e141edf80154cc0598014bd79607541c0f00102f901f96525270000000092030d5472656e2046616e7461736d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.167995347678115,
+          -34.91700669987131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a Artigas",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "Santa Lucía",
+        "postcode": "90700",
+        "street": "Vicente Crucci",
+        "iso3166_2": "UY-CA",
+        "lon": -56.38877309486248,
+        "lat": -34.45500025,
+        "state_code": "CA",
+        "formatted": "Monumento a Artigas, Vicente Crucci, 90700 Santa Lucía, Uruguay",
+        "address_line1": "Monumento a Artigas",
+        "address_line2": "Vicente Crucci, 90700 Santa Lucía, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Monumento a Artigas",
+            "osm_id": 747082461,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "w",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51e2ff1751c3314cc0594c3bbc723d3a41c0f00102f901dd92872c000000009203134d6f6e756d656e746f20612041727469676173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.388773094862486,
+          -34.455000249776816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Chorro",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "Cuchilla Alta",
+        "postcode": "16400",
+        "street": "Rambla Maestro Julio Castro",
+        "iso3166_2": "UY-CA",
+        "lon": -55.4977,
+        "lat": -34.7961588,
+        "state_code": "CA",
+        "formatted": "El Chorro, Rambla Maestro Julio Castro, 16400 Cuchilla Alta, Uruguay",
+        "address_line1": "El Chorro",
+        "address_line2": "Rambla Maestro Julio Castro, 16400 Cuchilla Alta, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Chorro",
+            "osm_id": 883637593,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510f9c33a2b4bf4bc0596de11388e86541c0f00103f901593dab3400000000920309456c2043686f72726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4977,
+          -34.79615879984599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Chorro Viejo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "Cuchilla Alta",
+        "postcode": "16400",
+        "street": "Rambla Maestro Julio Castro",
+        "iso3166_2": "UY-CA",
+        "lon": -55.5018841,
+        "lat": -34.7940794,
+        "state_code": "CA",
+        "formatted": "El Chorro Viejo, Rambla Maestro Julio Castro, 16400 Cuchilla Alta, Uruguay",
+        "address_line1": "El Chorro Viejo",
+        "address_line2": "Rambla Maestro Julio Castro, 16400 Cuchilla Alta, Uruguay",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Chorro Viejo",
+            "osm_id": 883641721,
+            "natural": "spring",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f2f0f9bc3dc04bc059cb61ce64a46541c0f00103f901794dab340000000092030f456c2043686f72726f205669656a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5018841,
+          -34.794079399845565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Llorona",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "Cuchilla Alta",
+        "postcode": "16400",
+        "street": "Avenida Agustín Pons",
+        "iso3166_2": "UY-CA",
+        "lon": -55.4968873,
+        "lat": -34.7962546,
+        "state_code": "CA",
+        "formatted": "La Llorona, Avenida Agustín Pons, 16400 Cuchilla Alta, Uruguay",
+        "address_line1": "La Llorona",
+        "address_line2": "Avenida Agustín Pons, 16400 Cuchilla Alta, Uruguay",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Llorona",
+            "osm_id": 883749481,
+            "natural": "spring",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511ba6c7009abf4bc05969d0b4abeb6541c0f00103f90169f2ac340000000092030a4c61204c6c6f726f6e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.49688729999999,
+          -34.796254599846016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado de los Artesanos",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11100",
+        "suburb": "Centro",
+        "street": "General Doctor Arturo J. Baliñas",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1918153,
+        "lat": -34.90566,
+        "state_code": "MO",
+        "formatted": "Mercado de los Artesanos, General Doctor Arturo J. Baliñas, 11100 Montevideo, Uruguay",
+        "address_line1": "Mercado de los Artesanos",
+        "address_line2": "General Doctor Arturo J. Baliñas, 11100 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mercado de los Artesanos",
+            "osm_id": 956119419,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ac2f5c678d184cc059be5db8aaec7341c0f00103f9017b39fd38000000009203184d65726361646f206465206c6f73204172746573616e6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1918153,
+          -34.90565999986892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamikaze",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Parque Rodó",
+        "street": "Senda Nelson Landoni",
+        "iso3166_2": "UY-MO",
+        "lon": -56.16832378528197,
+        "lat": -34.91719035,
+        "state_code": "MO",
+        "formatted": "Kamikaze, Senda Nelson Landoni, 11303 Montevideo, Uruguay",
+        "address_line1": "Kamikaze",
+        "address_line2": "Senda Nelson Landoni, 11303 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Kamikaze",
+            "osm_id": 1210842430,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "amusement_ride"
+          }
+        },
+        "place_id": "51667640a28b154cc059be734e7e667541c0f00102f9013efd2b48000000009203084b616d696b617a65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.16832378528197,
+          -34.91719034987135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mambo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Punta Carretas",
+        "street": "Senda Nelson Landoni",
+        "iso3166_2": "UY-MO",
+        "lon": -56.16824205,
+        "lat": -34.9169684,
+        "state_code": "MO",
+        "formatted": "Mambo, Senda Nelson Landoni, 11303 Montevideo, Uruguay",
+        "address_line1": "Mambo",
+        "address_line2": "Senda Nelson Landoni, 11303 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Mambo",
+            "osm_id": 1210842438,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "amusement_ride"
+          }
+        },
+        "place_id": "51f0479bf488154cc059d47474385f7541c0f00102f90146fd2b48000000009203054d616d626f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.16824205,
+          -34.91696839987131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barco Pirata",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Parque Rodó",
+        "street": "Avenida José G. Requena García",
+        "iso3166_2": "UY-MO",
+        "lon": -56.16868717167134,
+        "lat": -34.91694655,
+        "state_code": "MO",
+        "formatted": "Barco Pirata, Avenida José G. Requena García, 11303 Montevideo, Uruguay",
+        "address_line1": "Barco Pirata",
+        "address_line2": "Avenida José G. Requena García, 11303 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Barco Pirata",
+            "osm_id": 1210842439,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "pirate_ship"
+          }
+        },
+        "place_id": "51a4ca8e8a97154cc0594bf029815e7541c0f00102f90147fd2b480000000092030c426172636f20506972617461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.16868717167134,
+          -34.916946549871305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sombrillitas",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11303",
+        "suburb": "Parque Rodó",
+        "street": "Avenida José G. Requena García",
+        "iso3166_2": "UY-MO",
+        "lon": -56.16851734003497,
+        "lat": -34.9170699,
+        "state_code": "MO",
+        "formatted": "Sombrillitas, Avenida José G. Requena García, 11303 Montevideo, Uruguay",
+        "address_line1": "Sombrillitas",
+        "address_line2": "Avenida José G. Requena García, 11303 Montevideo, Uruguay",
+        "categories": [
+          "building",
+          "building.tourism",
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Sombrillitas",
+            "osm_id": 1210842440,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "amusement_ride"
+          }
+        },
+        "place_id": "512921e8f991154cc059f00be68b627541c0f00102f90148fd2b480000000092030c536f6d6272696c6c69746173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.16851734003496,
+          -34.91706989987131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Candelabro de Montevideo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Florida",
+        "street": "31 de Marzo",
+        "iso3166_2": "UY-FD",
+        "lon": -56.1503266,
+        "lat": -34.2115292,
+        "state_code": "FD",
+        "formatted": "Candelabro de Montevideo, 31 de Marzo, Florida, Uruguay",
+        "address_line1": "Candelabro de Montevideo",
+        "address_line2": "31 de Marzo, Florida, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Candelabro de Montevideo",
+            "osm_id": 1600628227,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51045cebe63d134cc059737e8963131b41c0f00103f90103a6675f0000000092031843616e64656c6162726f206465204d6f6e7465766964656f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1503266,
+          -34.21152919972965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento al General Fructuoso Rivera",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11601",
+        "suburb": "Tres Cruces",
+        "street": "Bulevar General Artigas",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1655967,
+        "lat": -34.8937443,
+        "state_code": "MO",
+        "formatted": "Monumento al General Fructuoso Rivera, Bulevar General Artigas, 11601 Montevideo, Uruguay",
+        "address_line1": "Monumento al General Fructuoso Rivera",
+        "address_line2": "Bulevar General Artigas, 11601 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento al General Fructuoso Rivera",
+            "osm_id": 1685304345,
+            "tourism": "artwork",
+            "historic": "memorial",
+            "memorial": "statue",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51ab69cd4532154cc059d0749536667241c0f00103f90119b47364000000009203254d6f6e756d656e746f20616c2047656e6572616c204672756374756f736f20526976657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1655967,
+          -34.8937442998664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a los fundadores",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Parque del Plata",
+        "city": "Atlántida",
+        "postcode": "16000",
+        "street": "José Gervasio Artigas",
+        "iso3166_2": "UY-CA",
+        "lon": -55.7580099,
+        "lat": -34.7771024,
+        "state_code": "CA",
+        "formatted": "Monumento a los fundadores, José Gervasio Artigas, 16000 Atlántida, Uruguay",
+        "address_line1": "Monumento a los fundadores",
+        "address_line2": "José Gervasio Artigas, 16000 Atlántida, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a los fundadores",
+            "osm_id": 1685337770,
+            "tourism": "artwork",
+            "historic": "memorial",
+            "memorial": "sculpture",
+            "osm_type": "n",
+            "artwork_type": "fountain"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "sculpture",
+          "artwork_type": "fountain"
+        },
+        "artwork": {
+          "artwork_type": "fountain"
+        },
+        "place_id": "51a945e97706e14bc059787b6817786341c0f00103f901aa3674640000000092031a4d6f6e756d656e746f2061206c6f732066756e6461646f726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7580099,
+          -34.77710239984202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canteras del Molino de Pérez",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11403",
+        "suburb": "Malvín",
+        "street": "Arquitecto Juan A. Scasso",
+        "iso3166_2": "UY-MO",
+        "lon": -56.0884872,
+        "lat": -34.8947894,
+        "state_code": "MO",
+        "formatted": "Canteras del Molino de Pérez, Arquitecto Juan A. Scasso, 11403 Montevideo, Uruguay",
+        "address_line1": "Canteras del Molino de Pérez",
+        "address_line2": "Arquitecto Juan A. Scasso, 11403 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Canteras del Molino de Pérez",
+            "osm_id": 1689643567,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ab0e6f8c530b4cc059099e8475887241c0f00103f9012feab5640000000092031d43616e74657261732064656c204d6f6c696e6f2064652050c3a972657a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.088487199999996,
+          -34.89478939986663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza de la Armada",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11403",
+        "suburb": "Punta Gorda",
+        "street": "Rambla República de México",
+        "iso3166_2": "UY-MO",
+        "lon": -56.0812372,
+        "lat": -34.8990682,
+        "state_code": "MO",
+        "formatted": "Plaza de la Armada, Rambla República de México, 11403 Montevideo, Uruguay",
+        "address_line1": "Plaza de la Armada",
+        "address_line2": "Rambla República de México, 11403 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza de la Armada",
+            "osm_id": 1689851136,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fa9b06fb650a4cc059fea6b1aa147341c0f00103f9010015b96400000000920312506c617a61206465206c612041726d616461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.08123719999999,
+          -34.89906819986753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portones de Carrasco",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11403",
+        "suburb": "Punta Gorda",
+        "street": "Avenida Doctor Juan Bautista Alberdi",
+        "iso3166_2": "UY-MO",
+        "lon": -56.0818928,
+        "lat": -34.8855236,
+        "state_code": "MO",
+        "formatted": "Portones de Carrasco, Avenida Doctor Juan Bautista Alberdi, 11403 Montevideo, Uruguay",
+        "address_line1": "Portones de Carrasco",
+        "address_line2": "Avenida Doctor Juan Bautista Alberdi, 11403 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Portones de Carrasco",
+            "osm_id": 1705271163,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "architecture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "architecture"
+        },
+        "place_id": "5191e398767b0a4cc059a3a05ad6587141c0f00103f9017b5fa46500000000920314506f72746f6e657320646520436172726173636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0818928,
+          -34.885523599864676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza de la Madre",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Parque del Plata",
+        "city": "Atlántida",
+        "postcode": "16000",
+        "district": "Barrio Jardín",
+        "street": "Ruta 11 José Batlle y Ordóñez",
+        "iso3166_2": "UY-CA",
+        "lon": -55.7634316,
+        "lat": -34.7693922,
+        "state_code": "CA",
+        "formatted": "Plaza de la Madre, Ruta 11 José Batlle y Ordóñez, 16000 Atlántida, Uruguay",
+        "address_line1": "Plaza de la Madre",
+        "address_line2": "Ruta 11 José Batlle y Ordóñez, 16000 Atlántida, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza de la Madre",
+            "osm_id": 1798314524,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d05d6d20b8e14bc0595d0e90717b6241c0f00103f9011c1a306b00000000920311506c617a61206465206c61204d61647265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.76343159999999,
+          -34.769392199840446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Il Gattamelata",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11820",
+        "suburb": "La Blanqueada",
+        "street": "Avenida Italia",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1553753,
+        "lat": -34.8912744,
+        "state_code": "MO",
+        "formatted": "Il Gattamelata, Avenida Italia, 11820 Montevideo, Uruguay",
+        "address_line1": "Il Gattamelata",
+        "address_line2": "Avenida Italia, 11820 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Il Gattamelata",
+            "osm_id": 1891688711,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "description": "Réplica original del existente en la Plaza de San Antonio en la ciudad de Padua, Italia",
+            "artwork_type": "statue"
+          }
+        },
+        "description": "Réplica original del existente en la Plaza de San Antonio en la ciudad de Padua, Italia",
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51980d7c56e3134cc059d0978f47157241c0f00103f90107e1c0700000000092030e496c2047617474616d656c617461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1553753,
+          -34.89127439986589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vista de Piriápolis",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Maldonado",
+        "city": "Piriápolis",
+        "postcode": "20200",
+        "street": "Camino a San Antonio",
+        "iso3166_2": "UY-MA",
+        "lon": -55.2738759,
+        "lat": -34.8779229,
+        "state_code": "MA",
+        "formatted": "Vista de Piriápolis, Camino a San Antonio, 20200 Piriápolis, Uruguay",
+        "address_line1": "Vista de Piriápolis",
+        "address_line2": "Camino a San Antonio, 20200 Piriápolis, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vista de Piriápolis",
+            "osm_id": 1893412817,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cfd4905d0ea34bc05925a90fc75f7041c0f00103f901d12fdb700000000092031456697374612064652050697269c3a1706f6c6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2738759,
+          -34.87792289986309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "street": "Caminería Zoo Parque Lecocq",
+        "housenumber": "Km 19 y 1/2",
+        "iso3166_2": "UY-MO",
+        "lon": -56.3352726,
+        "lat": -34.7884551,
+        "state_code": "MO",
+        "formatted": "Mirador, Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "address_line1": "Mirador",
+        "address_line2": "Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 1908481049,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51581f6a36ea2a4cc0591a19c218ec6441c0f00103f901191cc171000000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.335272599999996,
+          -34.7884550998444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Chacra de Pepe",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "street": "Camino el Colorado",
+        "iso3166_2": "UY-MO",
+        "lon": -56.3141907,
+        "lat": -34.8459556,
+        "state_code": "MO",
+        "formatted": "La Chacra de Pepe, Camino el Colorado, Montevideo, Uruguay",
+        "address_line1": "La Chacra de Pepe",
+        "address_line2": "Camino el Colorado, Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Chacra de Pepe",
+            "osm_id": 2202548345,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51899a9e6637284cc05928a0e945486c41c0f00103f90179384883000000009203114c61204368616372612064652050657065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.31419069999999,
+          -34.84595559985638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "café del castillo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Maldonado",
+        "postcode": "20303",
+        "street": "Vuelta del castillo",
+        "iso3166_2": "UY-MA",
+        "lon": -55.3251187,
+        "lat": -34.8022805,
+        "state_code": "MA",
+        "formatted": "café del castillo, Vuelta del castillo, 20303 Maldonado, Uruguay",
+        "address_line1": "café del castillo",
+        "address_line2": "Vuelta del castillo, 20303 Maldonado, Uruguay",
+        "categories": [
+          "catering",
+          "catering.cafe",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "café del castillo",
+            "osm_id": 2381893797,
+            "amenity": "cafe",
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "n",
+            "castle_type": "stately"
+          }
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "stately"
+        },
+        "place_id": "51b4e8537d9da94bc05903889e20b16641c0f00103f901a5d0f88d00000000920312636166c3a92064656c2063617374696c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.32511869999999,
+          -34.80228049984728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de aves",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "street": "Caminería Zoo Parque Lecocq",
+        "housenumber": "Km 19 y 1/2",
+        "iso3166_2": "UY-MO",
+        "lon": -56.329476,
+        "lat": -34.7891471,
+        "state_code": "MO",
+        "formatted": "Mirador de aves, Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "address_line1": "Mirador de aves",
+        "address_line2": "Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de aves",
+            "osm_id": 2700688711,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51906802452c2a4cc05964c8acc5026541c0f00103f901473df9a00000000092030f4d697261646f722064652061766573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.329476,
+          -34.78914709984454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capilla San Antonio",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Maldonado",
+        "city": "Piriápolis",
+        "postcode": "20200",
+        "street": "Camino a San Antonio",
+        "iso3166_2": "UY-MA",
+        "lon": -55.2741174,
+        "lat": -34.8779584,
+        "state_code": "MA",
+        "formatted": "Capilla San Antonio, Camino a San Antonio, 20200 Piriápolis, Uruguay",
+        "address_line1": "Capilla San Antonio",
+        "address_line2": "Camino a San Antonio, 20200 Piriápolis, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Capilla San Antonio",
+            "osm_id": 2735396010,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51dc216a4716a34bc0598954dbf0607041c0f00103f901aad40aa300000000920313436170696c6c612053616e20416e746f6e696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.274117399999994,
+          -34.87795839986308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Maestra",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11601",
+        "suburb": "La Blanqueada",
+        "street": "Avenida Doctor Américo Ricaldoni",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1582174,
+        "lat": -34.8930671,
+        "state_code": "MO",
+        "formatted": "La Maestra, Avenida Doctor Américo Ricaldoni, 11601 Montevideo, Uruguay",
+        "address_line1": "La Maestra",
+        "address_line2": "Avenida Doctor Américo Ricaldoni, 11601 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Maestra",
+            "osm_id": 3072557513,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "513e54bf7740144cc0599487d105507241c0f00103f901c98123b70000000092030a4c61204d616573747261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1582174,
+          -34.89306709986627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuente de los Candados",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11100",
+        "suburb": "Centro",
+        "street": "Yi",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1891622,
+        "lat": -34.905668,
+        "state_code": "MO",
+        "formatted": "Fountain of Locks, Yi, 11100 Montevideo, Uruguay",
+        "address_line1": "Fountain of Locks",
+        "address_line2": "Yi, 11100 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.fountain",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fuente de los Candados",
+            "osm_id": 3197496561,
+            "amenity": "fountain",
+            "name:en": "Fountain of Locks",
+            "tourism": "attraction",
+            "fountain": "decorative",
+            "osm_type": "n",
+            "wheelchair": "yes"
+          }
+        },
+        "name_international": {
+          "en": "Fountain of Locks"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "place_id": "51d7518b7736184cc059423cd4edec7341c0f00103f901f1ec95be000000009203164675656e7465206465206c6f732043616e6461646f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.18916219999999,
+          -34.905667999868925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanque de Agua de Eladio Dieste",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "12500",
+        "district": "Complejo América",
+        "suburb": "Colón",
+        "street": "Vehicular/ Peatonal",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2301255,
+        "lat": -34.7988403,
+        "state_code": "MO",
+        "formatted": "Tanque de Agua de Eladio Dieste, Vehicular/ Peatonal, 12500 Montevideo, Uruguay",
+        "address_line1": "Tanque de Agua de Eladio Dieste",
+        "address_line2": "Vehicular/ Peatonal, 12500 Montevideo, Uruguay",
+        "categories": [
+          "man_made",
+          "man_made.water_tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tanque de Agua de Eladio Dieste",
+            "osm_id": 3392497833,
+            "tourism": "attraction",
+            "man_made": "water_tower",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e23c9cc0741d4cc059ad482166406641c0f00103f901a96835ca0000000092031f54616e717565206465204167756120646520456c6164696f20446965737465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2301255,
+          -34.79884029984655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ñandú",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "street": "Caminería Zoo Parque Lecocq",
+        "housenumber": "Km 19 y 1/2",
+        "iso3166_2": "UY-MO",
+        "lon": -56.3354153,
+        "lat": -34.7951474,
+        "state_code": "MO",
+        "formatted": "Ñandú, Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "address_line1": "Ñandú",
+        "address_line2": "Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ñandú",
+            "osm_id": 3752754915,
+            "species": "Rhea americana",
+            "tourism": "attraction",
+            "operator": "Parque Lecocq",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Parque Lecocq",
+        "place_id": "51fc0978e3ee2a4cc05927ebd663c76541c0f00103f901e37eaedf00000000920307c391616e64c3ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.335415299999994,
+          -34.795147399845796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avestruz",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "street": "Caminería Zoo Parque Lecocq",
+        "housenumber": "Km 19 y 1/2",
+        "iso3166_2": "UY-MO",
+        "lon": -56.3324912,
+        "lat": -34.7948201,
+        "state_code": "MO",
+        "formatted": "Avestruz, Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "address_line1": "Avestruz",
+        "address_line2": "Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Avestruz",
+            "osm_id": 3752754916,
+            "species": "Struthio camelus",
+            "tourism": "attraction",
+            "operator": "Parque Lecocq",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Parque Lecocq",
+        "place_id": "51981a57128f2a4cc0593b853faabc6541c0f00103f901e47eaedf00000000920308417665737472757a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.33249119999999,
+          -34.79482009984573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monos",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "street": "Caminería Zoo Parque Lecocq",
+        "housenumber": "Km 19 y 1/2",
+        "iso3166_2": "UY-MO",
+        "lon": -56.3344064,
+        "lat": -34.7931734,
+        "state_code": "MO",
+        "formatted": "Monos, Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "address_line1": "Monos",
+        "address_line2": "Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monos",
+            "animal": "monkey",
+            "osm_id": 3752997872,
+            "tourism": "attraction",
+            "operator": "Parque Lecocq",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Parque Lecocq",
+        "place_id": "515ac933d4cd2a4cc0595132bab4866541c0f00103f901f033b2df000000009203054d6f6e6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.33440639999999,
+          -34.793173399845394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cebras",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "street": "Caminería Zoo Parque Lecocq",
+        "housenumber": "Km 19 y 1/2",
+        "iso3166_2": "UY-MO",
+        "lon": -56.3348688,
+        "lat": -34.79413,
+        "state_code": "MO",
+        "formatted": "Cebras, Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "address_line1": "Cebras",
+        "address_line2": "Caminería Zoo Parque Lecocq Km 19 y 1/2, Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cebras",
+            "osm_id": 3752998480,
+            "species": "Equus quagga",
+            "tourism": "attraction",
+            "operator": "Parque Lecocq",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Parque Lecocq",
+        "place_id": "51b23918fbdc2a4cc059fb0d450da66541c0f00103f9015036b2df00000000920306436562726173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.334868799999995,
+          -34.79412999984557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chacra Aeropuerto",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Nicolich",
+        "city": "General Líber Seregni",
+        "postcode": "14000",
+        "street": "Camino Paso Hondo",
+        "iso3166_2": "UY-CA",
+        "lon": -56.0256029,
+        "lat": -34.8047405,
+        "state_code": "CA",
+        "formatted": "Chacra Aeropuerto, Camino Paso Hondo, 14000 General Líber Seregni, Uruguay",
+        "address_line1": "Chacra Aeropuerto",
+        "address_line2": "Camino Paso Hondo, 14000 General Líber Seregni, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chacra Aeropuerto",
+            "osm_id": 4337759689,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516417b1f446034cc059764e98bc016741c0f00103f901c9f58c0201000000920311436861637261204165726f70756572746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.025602899999996,
+          -34.804740499847796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homenaje a Carlos Paez Vilaró",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Parque del Plata",
+        "city": "Atlántida",
+        "hamlet": "Villa Argentina",
+        "postcode": "16000",
+        "district": "Barrio Jardín",
+        "street": "Rambla Presidente Tomás Berreta",
+        "iso3166_2": "UY-CA",
+        "lon": -55.7668064,
+        "lat": -34.7736377,
+        "state_code": "CA",
+        "formatted": "Homenaje a Carlos Paez Vilaró, Rambla Presidente Tomás Berreta, 16000 Atlántida, Uruguay",
+        "address_line1": "Homenaje a Carlos Paez Vilaró",
+        "address_line2": "Rambla Presidente Tomás Berreta, 16000 Atlántida, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Homenaje a Carlos Paez Vilaró",
+            "osm_id": 4397856003,
+            "tourism": "artwork",
+            "material": "iron",
+            "osm_type": "n",
+            "check_date": "2024-03-30",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51862e4db626e24bc059b4e2658f066341c0f00103f90103f521060100000092031e486f6d656e616a652061204361726c6f73205061657a2056696c6172c3b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.76680639999999,
+          -34.773637699841316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vista panoramica de Playa de Piriápolis",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Maldonado",
+        "city": "Piriápolis",
+        "postcode": "20200",
+        "street": "Rambla de Los Ingleses",
+        "iso3166_2": "UY-MA",
+        "lon": -55.2769384,
+        "lat": -34.8722221,
+        "state_code": "MA",
+        "formatted": "Vista panoramica de Playa de Piriápolis, Rambla de Los Ingleses, 20200 Piriápolis, Uruguay",
+        "address_line1": "Vista panoramica de Playa de Piriápolis",
+        "address_line2": "Rambla de Los Ingleses, 20200 Piriápolis, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vista panoramica de Playa de Piriápolis",
+            "osm_id": 4494614389,
+            "name:es": "Vista panoramica de Playa de Piriápolis",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Rambla de Los Ingleses",
+            "addr:postcode": 20200
+          }
+        },
+        "name_international": {
+          "es": "Vista panoramica de Playa de Piriápolis"
+        },
+        "place_id": "51d680adb772a34bc059ace048f9a46f41c0f00103f901755fe60b0100000092032856697374612070616e6f72616d69636120646520506c6179612064652050697269c3a1706f6c6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.27693839999999,
+          -34.87222209986189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antiguo Respirador De Colector",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Rambla Francia",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2105536,
+        "lat": -34.9121772,
+        "state_code": "MO",
+        "formatted": "Old Collector Respirator, Rambla Francia, 11000 Montevideo, Uruguay",
+        "address_line1": "Old Collector Respirator",
+        "address_line2": "Rambla Francia, 11000 Montevideo, Uruguay",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Antiguo Respirador De Colector",
+            "osm_id": 4521403470,
+            "name:en": "Old Collector Respirator",
+            "tourism": "attraction",
+            "man_made": "chimney",
+            "operator": "Chimenea de ventilación del Colector Arteaga",
+            "osm_type": "n",
+            "addr:city": "Montevideo",
+            "addr:street": "Rambla Francia",
+            "building:material": "brick"
+          }
+        },
+        "operator": "Chimenea de ventilación del Colector Arteaga",
+        "name_international": {
+          "en": "Old Collector Respirator"
+        },
+        "place_id": "510c079d6bf31a4cc059c3ccf438c27441c0f00103f9014e247f0d0100000092031e416e746967756f2052657370697261646f7220446520436f6c6563746f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2105536,
+          -34.91217719987028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11300",
+        "district": "La Mondiola",
+        "suburb": "Pocitos",
+        "street": "Rambla República del Perú",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1386289,
+        "lat": -34.9104262,
+        "state_code": "MO",
+        "formatted": "Rambla República del Perú, 11300 Montevideo, Uruguay",
+        "address_line1": "Rambla República del Perú",
+        "address_line2": "11300 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Montevideo",
+            "osm_id": 4550936108,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Letras \"Montevideo\"",
+            "description:en": "\"Montevideo\" letters"
+          }
+        },
+        "description": "Letras \"Montevideo\"",
+        "description_international": {
+          "en": "\"Montevideo\" letters"
+        },
+        "place_id": "51e6e37f97be114cc05972ee80d8887441c0f00103f9012cc6410f0100000092030a4d6f6e7465766964656f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1386289,
+          -34.91042619986992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Luis",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "San Luis",
+        "postcode": "16300",
+        "street": "Libertad",
+        "iso3166_2": "UY-CA",
+        "lon": -55.5871052,
+        "lat": -34.7749799,
+        "state_code": "CA",
+        "formatted": "Libertad, 16300 San Luis, Uruguay",
+        "address_line1": "Libertad",
+        "address_line2": "16300 San Luis, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "San Luis",
+            "osm_id": 4567717589,
+            "name:es": "Balneario San Luis",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Balneario San Luis"
+        },
+        "place_id": "51e1a7604326cb4bc0594370968a326341c0f00103f901d5d641100100000092030853616e204c756973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5871052,
+          -34.774979899841604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Luis Alberto de Herrera",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "12000",
+        "suburb": "Jacinto Vera",
+        "street": "Avenida Luis Alberto de Herrera",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1714743,
+        "lat": -34.8671291,
+        "state_code": "MO",
+        "formatted": "Avenida Luis Alberto de Herrera, 12000 Montevideo, Uruguay",
+        "address_line1": "Avenida Luis Alberto de Herrera",
+        "address_line2": "12000 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Luis Alberto de Herrera",
+            "osm_id": 4578023150,
+            "name:en": "Luis Alberto de Herrera",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "Edmundo Prati",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "en": "Luis Alberto de Herrera"
+        },
+        "artwork": {
+          "artist_name": "Edmundo Prati",
+          "artwork_type": "statue"
+        },
+        "place_id": "51604dafdef2154cc059f2a71a16fe6e41c0f00103f901ee16df10010000009203214d6f6e756d656e746f204c75697320416c626572746f2064652048657272657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1714743,
+          -34.867129099860804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Meirelles",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "county": "Municipio de Nicolich",
+        "city": "Joaquín Suárez",
+        "postcode": "15500",
+        "street": "Continuación Solís",
+        "iso3166_2": "UY-CA",
+        "lon": -56.0471367,
+        "lat": -34.7432806,
+        "state_code": "CA",
+        "formatted": "Parque Meirelles, Continuación Solís, 15500 Joaquín Suárez, Uruguay",
+        "address_line1": "Parque Meirelles",
+        "address_line2": "Continuación Solís, 15500 Joaquín Suárez, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque Meirelles",
+            "osm_id": 4622048289,
+            "name:es": "Parque Meirelles",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Parque Meirelles"
+        },
+        "place_id": "517f784c9308064cc0597b0596d1235f41c0f00103f90121dc7e1301000000920310506172717565204d656972656c6c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0471367,
+          -34.74328059983505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lavalleja",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11200",
+        "suburb": "Cordón",
+        "street": "Colonia",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1804103,
+        "lat": -34.9028576,
+        "state_code": "MO",
+        "formatted": "Lavalleja, Colonia, 11200 Montevideo, Uruguay",
+        "address_line1": "Lavalleja",
+        "address_line2": "Colonia, 11200 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lavalleja",
+            "osm_id": 4747953757,
+            "tourism": "artwork",
+            "historic": "memorial",
+            "memorial": "statue",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51472e49af17174cc05994307cd6907341c0f00103f9015d06001b010000009203094c6176616c6c656a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1804103,
+          -34.90285759986833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casona Afcrami",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "Las Piedras",
+        "municipality": "Municipio de Las Piedras",
+        "postcode": "90200",
+        "street": "Juan Antonio Lavalleja",
+        "iso3166_2": "UY-CA",
+        "lon": -56.2172576,
+        "lat": -34.7211092,
+        "state_code": "CA",
+        "formatted": "Casona Afcrami, Juan Antonio Lavalleja, 90200 Las Piedras, Uruguay",
+        "address_line1": "Casona Afcrami",
+        "address_line2": "Juan Antonio Lavalleja, 90200 Las Piedras, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casona Afcrami",
+            "osm_id": 4893774621,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515b67d718cf1b4cc059ed0e674e4d5c41c0f00103f9011d13b1230100000092030e4361736f6e612041666372616d69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2172576,
+          -34.72110919983047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Willington Drake",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11110",
+        "suburb": "Barrio Sur",
+        "street": "Rambla Gran Bretaña",
+        "iso3166_2": "UY-MO",
+        "lon": -56.197657,
+        "lat": -34.9112248,
+        "state_code": "MO",
+        "formatted": "Sir Willington Drake, Rambla Gran Bretaña, 11110 Montevideo, Uruguay",
+        "address_line1": "Sir Willington Drake",
+        "address_line2": "Rambla Gran Bretaña, 11110 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sir Willington Drake",
+            "osm_id": 4988715639,
+            "tourism": "artwork",
+            "historic": "memorial",
+            "memorial": "statue",
+            "osm_type": "n",
+            "artwork_type": "bust",
+            "artwork_subject": "Sir Willington Drake"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue",
+          "artwork_type": "bust"
+        },
+        "artwork": {
+          "artwork_subject": "Sir Willington Drake",
+          "artwork_type": "bust"
+        },
+        "place_id": "51a96917d34c194cc059825fa503a37441c0f00103f90177c25929010000009203145369722057696c6c696e67746f6e204472616b65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.197657,
+          -34.911224799870084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UCL",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "San José",
+        "city": "Ciudad del Plata",
+        "postcode": "80001",
+        "suburb": "Delta del Tigre",
+        "street": "Tahití",
+        "iso3166_2": "UY-SJ",
+        "lon": -56.3680006,
+        "lat": -34.7655233,
+        "state_code": "SJ",
+        "formatted": "UCL, Tahití, 80001 Ciudad del Plata, Uruguay",
+        "address_line1": "UCL",
+        "address_line2": "Tahití, 80001 Ciudad del Plata, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "UCL",
+            "osm_id": 5265959725,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:unit": 5410,
+            "addr:street": "Tahití"
+          }
+        },
+        "place_id": "5146f4c6a41a2f4cc0599391e0aafc6141c0f00103f9012d2be0390100000092030355434c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3680006,
+          -34.76552329983965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pueblo suizo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "Jaureguiberry",
+        "postcode": "16404",
+        "street": "Ginebra",
+        "iso3166_2": "UY-CA",
+        "lon": -55.430462,
+        "lat": -34.7875059,
+        "state_code": "CA",
+        "formatted": "pueblo suizo, Ginebra, 16404 Jaureguiberry, Uruguay",
+        "address_line1": "pueblo suizo",
+        "address_line2": "Ginebra, 16404 Jaureguiberry, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "pueblo suizo",
+            "osm_id": 5424880822,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51da15fa6019b74bc059759e4afecc6441c0f00103f901b61c59430100000092030c707565626c6f207375697a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.43046199999999,
+          -34.78750589984421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montevideo",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "12800",
+        "suburb": "Cerro",
+        "street": "Avenida José Batlle y Ordóñez",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2589872,
+        "lat": -34.888893,
+        "state_code": "MO",
+        "formatted": "Avenida José Batlle y Ordóñez, 12800 Montevideo, Uruguay",
+        "address_line1": "Avenida José Batlle y Ordóñez",
+        "address_line2": "12800 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Montevideo",
+            "osm_id": 5540244123,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Letras \"Montevideo\"",
+            "description:en": "\"Montevideo\" letters"
+          }
+        },
+        "description": "Letras \"Montevideo\"",
+        "description_international": {
+          "en": "\"Montevideo\" letters"
+        },
+        "place_id": "51930a197e26214cc0595808ee3ec77141c0f00103f9019b6a394a0100000092030a4d6f6e7465766964656f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2589872,
+          -34.88889299986539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paso Severino",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Florida",
+        "street": "Ruta 76",
+        "iso3166_2": "UY-FD",
+        "lon": -56.3020506,
+        "lat": -34.2689591,
+        "state_code": "FD",
+        "formatted": "Paso Severino, Ruta 76, Florida, Uruguay",
+        "address_line1": "Paso Severino",
+        "address_line2": "Ruta 76, Florida, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paso Severino",
+            "osm_id": 5627880021,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515c5e1498a9264cc0597bac74406d2241c0f00103f90155a2724f0100000092030d5061736f205365766572696e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3020506,
+          -34.268959099740606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura de Vaca Lechera",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Florida",
+        "city": "Cardal",
+        "postcode": "94007",
+        "street": "Raúl Cabaña Núñez",
+        "iso3166_2": "UY-FD",
+        "lon": -56.3942326,
+        "lat": -34.2918446,
+        "state_code": "FD",
+        "formatted": "Escultura de Vaca Lechera, Raúl Cabaña Núñez, 94007 Cardal, Uruguay",
+        "address_line1": "Escultura de Vaca Lechera",
+        "address_line2": "Raúl Cabaña Núñez, 94007 Cardal, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura de Vaca Lechera",
+            "osm_id": 6240644516,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "512f02be3676324cc059a2b5f1295b2541c0f00103f901a4adf87301000000920319457363756c747572612064652056616361204c656368657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.3942326,
+          -34.291844599745005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a Oribe",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11200",
+        "suburb": "Cordón",
+        "street": "Coronel Federico Brandsen",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1746982,
+        "lat": -34.9015827,
+        "state_code": "MO",
+        "formatted": "Monumento a Oribe, Coronel Federico Brandsen, 11200 Montevideo, Uruguay",
+        "address_line1": "Monumento a Oribe",
+        "address_line2": "Coronel Federico Brandsen, 11200 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a Oribe",
+            "osm_id": 6246716174,
+            "tourism": "artwork",
+            "historic": "memorial",
+            "memorial": "statue",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "statue",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51c5d5b7825c164cc0594c49d90f677341c0f00103f9010e535574010000009203114d6f6e756d656e746f2061204f72696265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1746982,
+          -34.901582699868044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peatonal Sarandí",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Sarandí",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2015658,
+        "lat": -34.9065523,
+        "state_code": "MO",
+        "formatted": "Peatonal Sarandí, Sarandí, 11000 Montevideo, Uruguay",
+        "address_line1": "Peatonal Sarandí",
+        "address_line2": "Sarandí, 11000 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Peatonal Sarandí",
+            "osm_id": 6364959701,
+            "name:pt": "Calçadão Sarandi",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "pt": "Calçadão Sarandi"
+        },
+        "place_id": "51fb7e7be8cc194cc0599406e0e7097441c0f00103f901d593617b01000000920311506561746f6e616c20536172616e64c3ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.20156579999999,
+          -34.906552299869105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old sugar factory RAICES",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "Montes",
+        "postcode": "91003",
+        "street": "Avenida Rufino Cabana",
+        "iso3166_2": "UY-CA",
+        "lon": -55.5635841,
+        "lat": -34.5032083,
+        "state_code": "CA",
+        "formatted": "Old sugar factory RAICES, Avenida Rufino Cabana, 91003 Montes, Uruguay",
+        "address_line1": "Old sugar factory RAICES",
+        "address_line2": "Avenida Rufino Cabana, 91003 Montes, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Old sugar factory RAICES",
+            "osm_id": 6979612185,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d605178623c84bc05940542b21694041c0f00103f901196e04a0010000009203184f6c6420737567617220666163746f727920524149434553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5635841,
+          -34.503208299786365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Admiral Graf Spee Gun",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11300",
+        "district": "La Mondiola",
+        "suburb": "Pocitos",
+        "street": "Rambla Presidente Charles de Gaulle",
+        "iso3166_2": "UY-MO",
+        "lon": -56.1357644,
+        "lat": -34.9107339,
+        "state_code": "MO",
+        "formatted": "Admiral Graf Spee Gun, Rambla Presidente Charles de Gaulle, 11300 Montevideo, Uruguay",
+        "address_line1": "Admiral Graf Spee Gun",
+        "address_line2": "Rambla Presidente Charles de Gaulle, 11300 Montevideo, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Admiral Graf Spee Gun",
+            "osm_id": 7060421511,
+            "tourism": "attraction",
+            "historic": "yes",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5103fb54ba60114cc05969a6aded927441c0f00103f901877bd5a40100000092031541646d6972616c204772616620537065652047756e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.13576439999999,
+          -34.910733899869975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jacinto",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Canelones",
+        "city": "San Jacinto",
+        "postcode": "91300",
+        "street": "José Artigas",
+        "iso3166_2": "UY-CA",
+        "lon": -55.8731409,
+        "lat": -34.5470882,
+        "state_code": "CA",
+        "formatted": "José Artigas, 91300 San Jacinto, Uruguay",
+        "address_line1": "José Artigas",
+        "address_line2": "91300 San Jacinto, Uruguay",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "San Jacinto",
+            "osm_id": 8881121474,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Letras \"San Jacinto\""
+          }
+        },
+        "description": "Letras \"San Jacinto\"",
+        "place_id": "516726bd14c3ef4bc059e61273fc064641c0f00103f901c2285b110200000092030b53616e204a6163696e746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8731409,
+          -34.54708819979514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grúa antigua",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Rambla 25 de Agosto de 1825",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2113749,
+        "lat": -34.9036203,
+        "state_code": "MO",
+        "formatted": "Old Dockyard Crane, Rambla 25 de Agosto de 1825, 11000 Montevideo, Uruguay",
+        "address_line1": "Old Dockyard Crane",
+        "address_line2": "Rambla 25 de Agosto de 1825, 11000 Montevideo, Uruguay",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Grúa antigua",
+            "osm_id": 9709744509,
+            "name:en": "Old Dockyard Crane",
+            "name:pt": "Guindaste de estaleiro antigo",
+            "tourism": "attraction",
+            "man_made": "crane",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Old Dockyard Crane",
+          "pt": "Guindaste de estaleiro antigo"
+        },
+        "place_id": "51ff582d550e1b4cc059eaf779d4a97341c0f00103f9017df1be420200000092030d4772c3ba6120616e7469677561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2113749,
+          -34.90362029986848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grúa antigua",
+        "country": "Uruguay",
+        "country_code": "uy",
+        "state": "Montevideo",
+        "city": "Montevideo",
+        "postcode": "11000",
+        "suburb": "Old City",
+        "street": "Rambla 25 de Agosto de 1825",
+        "iso3166_2": "UY-MO",
+        "lon": -56.2118214,
+        "lat": -34.9035185,
+        "state_code": "MO",
+        "formatted": "Old Dockyard Crane, Rambla 25 de Agosto de 1825, 11000 Montevideo, Uruguay",
+        "address_line1": "Old Dockyard Crane",
+        "address_line2": "Rambla 25 de Agosto de 1825, 11000 Montevideo, Uruguay",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Grúa antigua",
+            "osm_id": 9709744510,
+            "name:en": "Old Dockyard Crane",
+            "name:pt": "Guindaste de estaleiro antigo",
+            "tourism": "attraction",
+            "man_made": "crane",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Old Dockyard Crane",
+          "pt": "Guindaste de estaleiro antigo"
+        },
+        "place_id": "51e5cbb0f61c1b4cc0590c22847ea67341c0f00103f9017ef1be420200000092030d4772c3ba6120616e7469677561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2118214,
+          -34.903518499868454
+        ]
+      }
+    }
+  ]
+}

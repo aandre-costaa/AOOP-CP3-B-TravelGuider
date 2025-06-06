@@ -1,0 +1,415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto Sidja Biombo",
+        "country": "Guinea-Bissau",
+        "country_code": "gw",
+        "region": "North",
+        "state": "Biombo Region",
+        "city": "Sector de Quinhamel",
+        "hamlet": "Quinchana",
+        "iso3166_2": "GW-N",
+        "iso3166_2_sublevel": "GW-BM",
+        "lon": -15.9216464,
+        "lat": 11.791405,
+        "formatted": "Porto Sidja Biombo, Sector de Quinhamel, Biombo Region, Guinea-Bissau",
+        "address_line1": "Porto Sidja Biombo",
+        "address_line2": "Sector de Quinhamel, Biombo Region, Guinea-Bissau",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Porto Sidja Biombo",
+            "osm_id": 4524886990,
+            "name:pt": "Porto Sidja Biombo",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "pt": "Porto Sidja Biombo"
+        },
+        "place_id": "51c8f37409e2d72fc0596d043e0933952740f00103f901ce4bb40d01000000920312506f72746f205369646a612042696f6d626f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9216464,
+          11.791404999561758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punta Canapá",
+        "country": "Guinea-Bissau",
+        "country_code": "gw",
+        "region": "South",
+        "state": "Bolama Region",
+        "county": "Sector de Bubaque",
+        "iso3166_2": "GW-S",
+        "iso3166_2_sublevel": "GW-BL",
+        "lon": -15.885255,
+        "lat": 11.0667258,
+        "formatted": "Punta Canapá, Sector de Bubaque, Guinea-Bissau",
+        "address_line1": "Punta Canapá",
+        "address_line2": "Sector de Bubaque, Guinea-Bissau",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Punta Canapá",
+            "osm_id": 4719982192,
+            "name:en": "Punta Canapá",
+            "name:it": "Punta Canapá",
+            "name:pt": "Punta Canapá",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Punta Canapá",
+          "it": "Punta Canapá",
+          "pt": "Punta Canapá"
+        },
+        "place_id": "51b03db32440c52fc05969554de229222640f00103f901703655190100000092030d50756e74612043616e6170c3a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.885255,
+          11.06672579950346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Painel de Augusto Trigo",
+        "country": "Guinea-Bissau",
+        "country_code": "gw",
+        "state": "Bissau Autonomous Sector",
+        "city": "Bissau",
+        "postcode": "1021",
+        "district": "Praça",
+        "suburb": "Reino",
+        "street": "Rua Vitorina Costa",
+        "iso3166_2": "GW-BS",
+        "lon": -15.5832402,
+        "lat": 11.8580323,
+        "formatted": "Painel de Augusto Trigo, Rua Vitorina Costa, 1021 Bissau, Guinea-Bissau",
+        "address_line1": "Painel de Augusto Trigo",
+        "address_line2": "Rua Vitorina Costa, 1021 Bissau, Guinea-Bissau",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Painel de Augusto Trigo",
+            "osm_id": 5697592221,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "Augusto Trigo",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artist_name": "Augusto Trigo",
+          "artwork_type": "mural"
+        },
+        "place_id": "51cb6ca1759e2a2fc059fd1b730250b72740f00103f9019d5b9a53010000009203175061696e656c206465204175677573746f20547269676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.583240199999997,
+          11.858032299567634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado di Coqueiros",
+        "country": "Guinea-Bissau",
+        "country_code": "gw",
+        "state": "Bissau Autonomous Sector",
+        "city": "Bissau",
+        "postcode": "1021",
+        "district": "Alto Crim",
+        "suburb": "Reino",
+        "street": "Avenida da Unidade Africana",
+        "iso3166_2": "GW-BS",
+        "lon": -15.585384,
+        "lat": 11.8664588,
+        "formatted": "Coqueiros Craft Market, Avenida da Unidade Africana, 1021 Bissau, Guinea-Bissau",
+        "address_line1": "Coqueiros Craft Market",
+        "address_line2": "Avenida da Unidade Africana, 1021 Bissau, Guinea-Bissau",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mercado di Coqueiros",
+            "osm_id": 6822752703,
+            "name:en": "Coqueiros Craft Market",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Coqueiros Craft Market"
+        },
+        "place_id": "510d349f73b72b2fc05984f4de7ca0bb2740f00103f901bff1aa96010000009203144d65726361646f20646920436f71756569726f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.585384,
+          11.86645879956837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porto di Bane",
+        "country": "Guinea-Bissau",
+        "country_code": "gw",
+        "region": "South",
+        "state": "Bolama Region",
+        "county": "Sector de Bubaque",
+        "iso3166_2": "GW-S",
+        "iso3166_2_sublevel": "GW-BL",
+        "lon": -15.7538667,
+        "lat": 11.2602499,
+        "formatted": "Port of Bane, Sector de Bubaque, Guinea-Bissau",
+        "address_line1": "Port of Bane",
+        "address_line2": "Sector de Bubaque, Guinea-Bissau",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Porto di Bane",
+            "osm_id": 8821475917,
+            "name:en": "Port of Bane",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Port of Bane"
+        },
+        "place_id": "513f16ecd0fa812fc059296f8e793f852640f00103f9014d0acd0d0200000092030d506f72746f2064692042616e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.753866700000001,
+          11.260249899518003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferme agroécologique Karamba",
+        "country": "Senegal",
+        "country_code": "sn",
+        "state": "Ziguinchor Region",
+        "county": "Département de Ziguinchor",
+        "city": "Communauté rurale de Niaguis",
+        "village": "Niaguis",
+        "municipality": "Arrondissement de Niaguis",
+        "street": "N 6",
+        "iso3166_2": "SN-ZG",
+        "lon": -16.1571347,
+        "lat": 12.5428254,
+        "formatted": "Agroecological farm Karamba, N 6, Communauté rurale de Niaguis, Senegal",
+        "address_line1": "Agroecological farm Karamba",
+        "address_line2": "N 6, Communauté rurale de Niaguis, Senegal",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ferme agroécologique Karamba",
+            "osm_id": 12422138601,
+            "name:en": "Agroecological farm Karamba",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Agroecological farm Karamba"
+        },
+        "place_id": "511891cdfa392830c05993b7f535ed152940f00103f901e9ca6ae40200000092031d4665726d65206167726fc3a9636f6c6f6769717565204b6172616d6261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.1571347,
+          12.542825399632227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carneval",
+        "country": "Guinea-Bissau",
+        "country_code": "gw",
+        "state": "Bissau Autonomous Sector",
+        "city": "Bissau",
+        "postcode": "1021",
+        "district": "Missra",
+        "suburb": "Reino",
+        "street": "Avenida dos Combatentes da Liberdade da Pátria",
+        "iso3166_2": "GW-BS",
+        "lon": -15.6136936,
+        "lat": 11.8576856,
+        "formatted": "Carneval, Avenida dos Combatentes da Liberdade da Pátria, 1021 Bissau, Guinea-Bissau",
+        "address_line1": "Carneval",
+        "address_line2": "Avenida dos Combatentes da Liberdade da Pátria, 1021 Bissau, Guinea-Bissau",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6316224285,
+            "name:en": "Carneval",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Carneval"
+        },
+        "place_id": "516d872b0c363a2fc05931c9209122b72740f00103f9011def797801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6136936,
+          11.85768559956759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "power plant ship",
+        "country": "Guinea-Bissau",
+        "country_code": "gw",
+        "state": "Bissau Autonomous Sector",
+        "city": "Bissau",
+        "postcode": "1021",
+        "district": "Praça",
+        "suburb": "Reino",
+        "street": "Avenida Domingos Ramos",
+        "iso3166_2": "GW-BS",
+        "lon": -15.5768504,
+        "lat": 11.8504975,
+        "formatted": "power plant ship, Avenida Domingos Ramos, 1021 Bissau, Guinea-Bissau",
+        "address_line1": "power plant ship",
+        "address_line2": "Avenida Domingos Ramos, 1021 Bissau, Guinea-Bissau",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11309300269,
+            "name:en": "power plant ship",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "power plant ship"
+        },
+        "place_id": "51775e85ef58272fc05991f0836874b32740f00103f9012d3a16a202000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.576850399999996,
+          11.850497499566957
+        ]
+      }
+    }
+  ]
+}

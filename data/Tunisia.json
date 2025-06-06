@@ -1,0 +1,5455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parc de Loisirs Aladin",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "حسن نوري",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "district": "Sidi Salem",
+        "street": "شارع هدي نويرة",
+        "iso3166_2": "TN-23",
+        "lon": 9.8778778,
+        "lat": 37.2827141,
+        "formatted": "Parc de Loisirs Aladin, شارع هدي نويرة, 7000 Bizerte, Tunisia",
+        "address_line1": "Parc de Loisirs Aladin",
+        "address_line2": "شارع هدي نويرة, 7000 Bizerte, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parc de Loisirs Aladin",
+            "email": "Parc.Aladin.bizerte@gmail.com",
+            "osm_id": 4579420989,
+            "name:fr": "Parc de Loisirs Aladin",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 10:00-20:00"
+          }
+        },
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "name_international": {
+          "fr": "Parc de Loisirs Aladin"
+        },
+        "contact": {
+          "email": "Parc.Aladin.bizerte@gmail.com"
+        },
+        "place_id": "51d4c4f13279c12340598e8fc2f92fa44240f00103f9013d6bf4100100000092031650617263206465204c6f697369727320416c6164696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8778778,
+          37.28271409988439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مسرح روماني",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج بيرصة",
+        "street": "Victorinus",
+        "iso3166_2": "TN-11",
+        "lon": 10.32951210641075,
+        "lat": 36.8578221,
+        "formatted": "Roman Theater, Victorinus, 2016 Tunis, Tunisia",
+        "address_line1": "Roman Theater",
+        "address_line2": "Victorinus, 2016 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مسرح روماني",
+            "osm_id": 93164511,
+            "name:ar": "مسرح روماني",
+            "name:de": "Römisches Theater",
+            "name:en": "Roman Theater",
+            "name:es": "Teatro romano",
+            "name:fr": "Théâtre Romain",
+            "name:hu": "Római színház",
+            "name:it": "Teatro Romano",
+            "name:ja": "ローマ劇場",
+            "name:ru": "Римский театр",
+            "name:zh": "罗马剧院",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikidata": "Q85227518",
+            "wikimedia_commons": "Category:Theatre of Carthage",
+            "historic:civilization": "ancient_roman"
+          }
+        },
+        "name_international": {
+          "ar": "مسرح روماني",
+          "de": "Römisches Theater",
+          "en": "Roman Theater",
+          "es": "Teatro romano",
+          "fr": "Théâtre Romain",
+          "hu": "Római színház",
+          "it": "Teatro Romano",
+          "ja": "ローマ劇場",
+          "ru": "Римский театр",
+          "zh": "罗马剧院"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q85227518",
+          "wikimedia_commons": "Category:Theatre of Carthage"
+        },
+        "historic": {
+          "type": "ruins",
+          "civilization": "ancient_roman"
+        },
+        "place_id": "512a5791cfb5a82440599647541dcd6d4240f00102f901df938d0500000000920315d985d8b3d8b1d8ad20d8b1d988d985d8a7d986d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.32951210641075,
+          36.857822099830784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مدينة تونس العتيقة",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "district": "معتمدية المدينة",
+        "suburb": "الأسواق",
+        "iso3166_2": "TN-11",
+        "lon": 10.171739886278672,
+        "lat": 36.79869345,
+        "formatted": "Medina of Tunis, الأسواق, Tunis, معتمدية المدينة, Tunisia",
+        "address_line1": "Medina of Tunis",
+        "address_line2": "الأسواق, Tunis, معتمدية المدينة, Tunisia",
+        "categories": [
+          "heritage",
+          "heritage.unesco",
+          "natural",
+          "natural.protected_area",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.heritage",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "boat": "residential",
+            "name": "مدينة تونس العتيقة",
+            "osm_id": 95197171,
+            "name:ar": "مدينة تونس العتيقة",
+            "name:en": "Medina of Tunis",
+            "name:es": "Medina de Túnez",
+            "name:fr": "Médina de Tunis",
+            "name:it": "Medina di Tunisi",
+            "name:ru": "Медина Туниса",
+            "name:zh": "突尼斯市的阿拉伯老城",
+            "ref:whc": 36,
+            "tourism": "attraction",
+            "boundary": "protected_area",
+            "heritage": 1,
+            "osm_type": "w",
+            "wikidata": "Q3106527",
+            "addr:city": "تونس",
+            "wikipedia": "ar:مدينة تونس العتيقة",
+            "addr:city:ar": "تونس",
+            "whc:criteria": "2;3;5",
+            "protect_class": 98,
+            "heritage:operator": "whc",
+            "whc:inscription_date": 1979
+          }
+        },
+        "name_international": {
+          "ar": "مدينة تونس العتيقة",
+          "en": "Medina of Tunis",
+          "es": "Medina de Túnez",
+          "fr": "Médina de Tunis",
+          "it": "Medina di Tunisi",
+          "ru": "Медина Туниса",
+          "zh": "突尼斯市的阿拉伯老城"
+        },
+        "ref_other": {
+          "whc": 36
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3106527",
+          "wikipedia": "ar:مدينة تونس العتيقة"
+        },
+        "heritage": {
+          "level": 1,
+          "operator": "whc",
+          "ref": 36,
+          "inscription_date": 1979
+        },
+        "place_id": "51a8f8554aee57244059cd4243963b664240f00102f901f397ac0500000000920322d985d8afd98ad986d8a920d8aad988d986d8b320d8a7d984d8b9d8aad98ad982d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.171739886278672,
+          36.798693449823624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "باب جديد",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1008",
+        "district": "معتمدية المدينة",
+        "suburb": "تربة الباي",
+        "street": "شارع باب منارة",
+        "iso3166_2": "TN-11",
+        "lon": 10.1711282,
+        "lat": 36.7924528,
+        "formatted": "Bab Jedid, شارع باب منارة, 1008 Tunis, Tunisia",
+        "address_line1": "Bab Jedid",
+        "address_line2": "شارع باب منارة, 1008 Tunis, Tunisia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.city_gate"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "باب جديد",
+            "osm_id": 109942104,
+            "name:ar": "باب جديد",
+            "name:en": "Bab Jedid",
+            "name:fr": "Bab Jedid",
+            "tourism": "attraction",
+            "alt_name": "Porte des Forgerons",
+            "building": "yes",
+            "historic": "city_gate",
+            "osm_type": "w",
+            "wikidata": "Q16530779",
+            "wikipedia": "en:Bab Jedid (Tunis)",
+            "start_date": 1278,
+            "alt_name:en": "Gate of the Blacksmiths",
+            "wikimedia_commons": "Category:Bab Jedid"
+          }
+        },
+        "name_other": {
+          "alt_name": "Porte des Forgerons"
+        },
+        "name_international": {
+          "ar": "باب جديد",
+          "en": "Bab Jedid",
+          "fr": "Bab Jedid"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q16530779",
+          "wikipedia": "en:Bab Jedid (Tunis)",
+          "wikimedia_commons": "Category:Bab Jedid"
+        },
+        "historic": {
+          "type": "city_gate",
+          "start_date": 1278
+        },
+        "building": {
+          "start_date": 1278
+        },
+        "place_id": "51c2d88c1d9e57244059726ee5176f654240f00102f90158958d060000000092030fd8a8d8a7d8a820d8acd8afd98ad8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.171128200000002,
+          36.79245279982287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "أوديون",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج بيرصة",
+        "street": "Victorinus",
+        "iso3166_2": "TN-11",
+        "lon": 10.33045467462168,
+        "lat": 36.85875435,
+        "formatted": "Odeon, Victorinus, 2016 Tunis, Tunisia",
+        "address_line1": "Odeon",
+        "address_line2": "Victorinus, 2016 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "أوديون",
+            "osm_id": 131384748,
+            "name:ar": "أوديون",
+            "name:en": "Odeon",
+            "name:hu": "Odeon (színház)",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikidata": "Q2983443",
+            "wikipedia": "ar:تل الأوديون وحديقة الفيلات الرومانية بقرطاج",
+            "historic:civilization": "ancient_roman"
+          }
+        },
+        "name_international": {
+          "ar": "أوديون",
+          "en": "Odeon",
+          "hu": "Odeon (színház)"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2983443",
+          "wikipedia": "ar:تل الأوديون وحديقة الفيلات الرومانية بقرطاج"
+        },
+        "historic": {
+          "type": "ruins",
+          "civilization": "ancient_roman"
+        },
+        "place_id": "51f39ee85a31a924405924e99ba9eb6d4240f00102f901acc5d4070000000092030cd8a3d988d8afd98ad988d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.330454674621683,
+          36.85875434983089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حمامات أنطونيس",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج الشاطئ",
+        "street": "حمامات أنطونيس",
+        "iso3166_2": "TN-11",
+        "lon": 10.33508447891143,
+        "lat": 36.85445705,
+        "formatted": "Antoninus Therms, حمامات أنطونيس, 2016 Tunis, Tunisia",
+        "address_line1": "Antoninus Therms",
+        "address_line2": "حمامات أنطونيس, 2016 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "حمامات أنطونيس",
+            "osm_id": 131384753,
+            "name:ar": "حمامات أنطونيس",
+            "name:de": "Antoninus Thermen",
+            "name:en": "Antoninus Therms",
+            "name:es": "Termas de Antonino",
+            "name:fr": "Thermes d'Antonin de Carthage",
+            "name:hu": "Antoninusz fürdője",
+            "name:it": "Antonino Therms",
+            "name:ja": "アントニンの浴場",
+            "name:pl": "Termy Antoninusa",
+            "name:zh": "安东尼的浴场",
+            "tourism": "attraction",
+            "alt_name": "حمامات أنطونيوس بقرطاج",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikidata": "Q3523842",
+            "wikipedia": "ar:حمامات أنطونيوس بقرطاج",
+            "alt_name:ar": "حمامات أنطونيوس بقرطاج",
+            "alt_name:es": "Termas de Cartago",
+            "wikimedia_commons": "Category:Antonine baths (Carthage)"
+          }
+        },
+        "name_other": {
+          "alt_name": "حمامات أنطونيوس بقرطاج"
+        },
+        "name_international": {
+          "ar": "حمامات أنطونيس",
+          "de": "Antoninus Thermen",
+          "en": "Antoninus Therms",
+          "es": "Termas de Antonino",
+          "fr": "Thermes d'Antonin de Carthage",
+          "hu": "Antoninusz fürdője",
+          "it": "Antonino Therms",
+          "ja": "アントニンの浴場",
+          "pl": "Termy Antoninusa",
+          "zh": "安东尼的浴场"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3523842",
+          "wikipedia": "ar:حمامات أنطونيوس بقرطاج",
+          "wikimedia_commons": "Category:Antonine baths (Carthage)"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51c5a45c3190ab244059d66d3ed95e6d4240f00102f901b1c5d4070000000092031bd8add985d8a7d985d8a7d8aa20d8a3d986d8b7d988d986d98ad8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.335084478911435,
+          36.85445704983037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "فيلات رومانية",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج الشاطئ",
+        "street": "Habib Bourguiba Road",
+        "iso3166_2": "TN-11",
+        "lon": 10.331892989873946,
+        "lat": 36.857727600000004,
+        "formatted": "Roman Villas, Habib Bourguiba Road, 2016 Tunis, Tunisia",
+        "address_line1": "Roman Villas",
+        "address_line2": "Habib Bourguiba Road, 2016 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "فيلات رومانية",
+            "osm_id": 131384755,
+            "name:ar": "فيلات رومانية",
+            "name:de": "Römische Villen",
+            "name:en": "Roman Villas",
+            "name:es": "Villas romanas",
+            "name:fr": "Villas romaines",
+            "name:hu": "Római villa",
+            "name:it": "Ville romane",
+            "name:ja": "ローマンヴィラズ",
+            "name:ru": "Римские виллы",
+            "name:zh": "罗马别墅",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikidata": "Q2983443",
+            "wikipedia": "ar:تل الأوديون وحديقة الفيلات الرومانية بقرطاج",
+            "historic:civilization": "ancient_roman"
+          }
+        },
+        "name_international": {
+          "ar": "فيلات رومانية",
+          "de": "Römische Villen",
+          "en": "Roman Villas",
+          "es": "Villas romanas",
+          "fr": "Villas romaines",
+          "hu": "Római villa",
+          "it": "Ville romane",
+          "ja": "ローマンヴィラズ",
+          "ru": "Римские виллы",
+          "zh": "罗马别墅"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2983443",
+          "wikipedia": "ar:تل الأوديون وحديقة الفيلات الرومانية بقرطاج"
+        },
+        "historic": {
+          "type": "ruins",
+          "civilization": "ancient_roman"
+        },
+        "place_id": "51838fc2e0eda92440592b139b04ca6d4240f00102f901b3c5d40700000000920319d981d98ad984d8a7d8aa20d8b1d988d985d8a7d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.331892989873955,
+          36.857727599830774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "فيلات رومانية",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج بيرصة",
+        "street": "نهج طلعة أوديون",
+        "iso3166_2": "TN-11",
+        "lon": 10.331547814948664,
+        "lat": 36.857242,
+        "formatted": "Roman Villas, نهج طلعة أوديون, 2016 Tunis, Tunisia",
+        "address_line1": "Roman Villas",
+        "address_line2": "نهج طلعة أوديون, 2016 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "فيلات رومانية",
+            "osm_id": 131384757,
+            "name:ar": "فيلات رومانية",
+            "name:de": "Römische Villen",
+            "name:en": "Roman Villas",
+            "name:es": "Villas romanas",
+            "name:fr": "Villas romaines",
+            "name:hu": "Római villa",
+            "name:it": "Ville romane",
+            "name:ja": "ローマンヴィラズ",
+            "name:ru": "Римские виллы",
+            "name:zh": "罗马别墅",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikidata": "Q2983443",
+            "wikipedia": "ar:تل الأوديون وحديقة الفيلات الرومانية بقرطاج",
+            "historic:civilization": "ancient_roman"
+          }
+        },
+        "name_international": {
+          "ar": "فيلات رومانية",
+          "de": "Römische Villen",
+          "en": "Roman Villas",
+          "es": "Villas romanas",
+          "fr": "Villas romaines",
+          "hu": "Római villa",
+          "it": "Ville romane",
+          "ja": "ローマンヴィラズ",
+          "ru": "Римские виллы",
+          "zh": "罗马别墅"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2983443",
+          "wikipedia": "ar:تل الأوديون وحديقة الفيلات الرومانية بقرطاج"
+        },
+        "historic": {
+          "type": "ruins",
+          "civilization": "ancient_roman"
+        },
+        "place_id": "5190879ca2c0a9244059ea03191bba6d4240f00102f901b5c5d40700000000920319d981d98ad984d8a7d8aa20d8b1d988d985d8a7d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.331547814948664,
+          36.85724199983072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paintball Tunisie",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ariana",
+        "county": "أريانة العليا",
+        "state_district": "معتمدية أريانة المدينة",
+        "postcode": "2083",
+        "street": "شارع جودة الحياة",
+        "iso3166_2": "TN-12",
+        "lon": 10.155341544339718,
+        "lat": 36.882328099999995,
+        "formatted": "Paintball Tunisie, شارع جودة الحياة, 2083 Ariana, Tunisia",
+        "address_line1": "Paintball Tunisie",
+        "address_line2": "شارع جودة الحياة, 2083 Ariana, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paintball Tunisie",
+            "osm_id": 172008648,
+            "tourism": "attraction",
+            "website": "https://www.paintballtunisie.com/",
+            "osm_type": "w",
+            "addr:housename": "Paintball Tunisie"
+          }
+        },
+        "website": "https://www.paintballtunisie.com/",
+        "place_id": "51664c49ed884f2440595c908e20f0704240f00102f901c8a4400a000000009203115061696e7462616c6c2054756e69736965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.155341544339716,
+          36.88232809983376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "توبربو ماجوس",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Zaghouan Governorate",
+        "county": "الغريفات",
+        "state_district": "معتمدية الفحص",
+        "iso3166_2": "TN-22",
+        "lon": 9.905409867661328,
+        "lat": 36.4005628,
+        "formatted": "Thuburbo Majus, الغريفات, Tunisia",
+        "address_line1": "Thuburbo Majus",
+        "address_line2": "الغريفات, Tunisia",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "توبربو ماجوس",
+            "osm_id": 232880773,
+            "leisure": "park",
+            "name:ar": "توبربو ماجوس",
+            "name:de": "Thuburbo Majus",
+            "name:en": "Thuburbo Majus",
+            "name:fr": "Thuburbo Majus",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "wikidata": "Q1967945",
+            "wikipedia": "fr:Thuburbo Majus",
+            "wikimedia_commons": "Category:Thuburbo Majus"
+          }
+        },
+        "name_international": {
+          "ar": "توبربو ماجوس",
+          "de": "Thuburbo Majus",
+          "en": "Thuburbo Majus",
+          "fr": "Thuburbo Majus"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1967945",
+          "wikipedia": "fr:Thuburbo Majus",
+          "wikimedia_commons": "Category:Thuburbo Majus"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "518629d6e191cf23405901854ea445334240f00102f901857ae10d00000000920317d8aad988d8a8d8b1d8a8d98820d985d8a7d8acd988d8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90540986766133,
+          36.400562799777624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosaico de caballos",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج بيرصة",
+        "street": "نهج طلعة أوديون",
+        "iso3166_2": "TN-11",
+        "lon": 10.3313178,
+        "lat": 36.85780465,
+        "formatted": "Mosaico de caballos, نهج طلعة أوديون, 2016 Tunis, Tunisia",
+        "address_line1": "Mosaico de caballos",
+        "address_line2": "نهج طلعة أوديون, 2016 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Mosaico de caballos",
+            "height": 1,
+            "osm_id": 658891234,
+            "barrier": "wall",
+            "tourism": "attraction",
+            "material": "stone",
+            "osm_type": "w",
+            "wikidata": "Q3324693",
+            "addr:city": "قرطاج بيرصة",
+            "wikipedia": "es:Mosaico de caballos de Cartago",
+            "historic:civilization": "ancient_roman"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3324693",
+          "wikipedia": "es:Mosaico de caballos de Cartago"
+        },
+        "place_id": "51582a977ca2a9244059a0b0f28acc6d4240f00102f901e2e14527000000009203134d6f736169636f20646520636162616c6c6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.331317800000008,
+          36.85780464983077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "رأس بن سقا;Cap Angela - monument",
+        "old_name": "رأس أنجلة",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "مرنيصة",
+        "state_district": "معتمدية بنزرت الجنوبية",
+        "iso3166_2": "TN-23",
+        "lon": 9.7423082,
+        "lat": 37.3468505,
+        "formatted": "Cape Angela, مرنيصة, Tunisia",
+        "address_line1": "Cape Angela",
+        "address_line2": "مرنيصة, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "رأس بن سقا;Cap Angela - monument",
+            "osm_id": 1133125422,
+            "name:ar": "رأس بن سقا",
+            "name:en": "Cape Angela",
+            "name:es": "Cabo Ángela",
+            "name:fr": "Cap Angela",
+            "name:it": "Capo Angela",
+            "natural": "cape",
+            "tourism": "viewpoint",
+            "alt_name": "رأس بن سكة",
+            "old_name": "رأس أنجلة",
+            "osm_type": "n",
+            "wikidata": "Q11944741",
+            "wikipedia": "en:Ras ben Sakka",
+            "alt_name:ar": "رأس بن سكة",
+            "old_name:ar": "رأس أنجلة"
+          }
+        },
+        "name_other": {
+          "alt_name": "رأس بن سكة",
+          "old_name": "رأس أنجلة"
+        },
+        "name_international": {
+          "ar": "رأس بن سقا",
+          "en": "Cape Angela",
+          "es": "Cabo Ángela",
+          "fr": "Cap Angela",
+          "it": "Capo Angela"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q11944741",
+          "wikipedia": "en:Ras ben Sakka"
+        },
+        "place_id": "51f21a05d20f7c23405906d2e09865ac4240f00103f9012e1f8a4300000000920328d8b1d8a3d8b320d8a8d98620d8b3d982d8a73b43617020416e67656c61202d206d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7423082,
+          37.346850499892795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le point le plus septentrional du continent africain, depuis 2014.",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "مرنيصة",
+        "state_district": "معتمدية بنزرت الجنوبية",
+        "city": "Douar Haj Mohamed Ben Hassen",
+        "street": "RL401",
+        "iso3166_2": "TN-23",
+        "lon": 9.742319,
+        "lat": 37.34692525,
+        "formatted": "The northernmost point of the African continent, since 2014., RL401, Douar Haj Mohamed Ben Hassen, Tunisia",
+        "address_line1": "The northernmost point of the African continent, since 2014.",
+        "address_line2": "RL401, Douar Haj Mohamed Ben Hassen, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Le point le plus septentrional du continent africain, depuis 2014.",
+            "osm_id": 1136020951,
+            "name:ar": "أقصى نقطة في أقصى شمال القارة الأفريقية، منذ عام 2014.",
+            "name:en": "The northernmost point of the African continent, since 2014.",
+            "name:es": "El punto más septentrional del continente africano, desde 2014.",
+            "name:fr": "Le point le plus septentrional du continent africain, depuis 2014.",
+            "name:it": "Il punto più settentrionale del continente africano, dal 2014.",
+            "name:ru": "Самая северная точка африканского континента, с 2014 года.",
+            "tourism": "attraction",
+            "memorial": "sculpture",
+            "osm_type": "w",
+            "wikidata": "Q12212720",
+            "wikipedia": "fr:Cap Angela",
+            "description": "Le point le plus septentrional du continent africain, depuis 2014.",
+            "wikimedia_commons": "Category:Cape Angela"
+          }
+        },
+        "description": "Le point le plus septentrional du continent africain, depuis 2014.",
+        "name_international": {
+          "ar": "أقصى نقطة في أقصى شمال القارة الأفريقية، منذ عام 2014.",
+          "en": "The northernmost point of the African continent, since 2014.",
+          "es": "El punto más septentrional del continente africano, desde 2014.",
+          "fr": "Le point le plus septentrional du continent africain, depuis 2014.",
+          "it": "Il punto più settentrionale del continente africano, dal 2014.",
+          "ru": "Самая северная точка африканского континента, с 2014 года."
+        },
+        "wiki_and_media": {
+          "wikidata": "Q12212720",
+          "wikipedia": "fr:Cap Angela",
+          "wikimedia_commons": "Category:Cape Angela"
+        },
+        "place_id": "511b66683c117c2340591d39ed0b68ac4240f00102f901d74db643000000009203424c6520706f696e74206c6520706c75732073657074656e7472696f6e616c20647520636f6e74696e656e7420616672696361696e2c2064657075697320323031342e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.742319,
+          37.3469252498928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نصب ابن خلدون",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1000",
+        "district": "معتمدية باب بحر",
+        "suburb": "المنجي سليم",
+        "street": "شارع الحبيب بورقيبة",
+        "iso3166_2": "TN-11",
+        "lon": 10.1790193,
+        "lat": 36.7995105,
+        "formatted": "Statut ibn Khaldoun, شارع الحبيب بورقيبة, 1000 Tunis, Tunisia",
+        "address_line1": "Statut ibn Khaldoun",
+        "address_line2": "شارع الحبيب بورقيبة, 1000 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نصب ابن خلدون",
+            "osm_id": 1156945281,
+            "name:ar": "نصب ابن خلدون",
+            "name:en": "Statut ibn Khaldoun",
+            "name:fr": "Statue d'Ibn Khaldoun",
+            "name:ko": "이븐 칼둔 동상",
+            "name:ru": "Статуя Ибн Хальдуна",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q12203222",
+            "artwork_type": "statue",
+            "wikimedia_commons": "Category:Statue of Ibn Khaldun in Tunis"
+          }
+        },
+        "name_international": {
+          "ar": "نصب ابن خلدون",
+          "en": "Statut ibn Khaldoun",
+          "fr": "Statue d'Ibn Khaldoun",
+          "ko": "이븐 칼둔 동상",
+          "ru": "Статуя Ибн Хальдуна"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q12203222",
+          "wikimedia_commons": "Category:Statue of Ibn Khaldun in Tunis"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51a4b4ed6aa85b24405996c62c5c56664240f00103f9018195f54400000000920318d986d8b5d8a820d8a7d8a8d98620d8aed984d8afd988d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1790193,
+          36.79951049982371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aqueduc",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Zaghouan Governorate",
+        "county": "جوقار",
+        "state_district": "معتمدية الفحص",
+        "city": "Friouet",
+        "postcode": "1154",
+        "street": "Autoroute A2",
+        "iso3166_2": "TN-22",
+        "lon": 9.9882352,
+        "lat": 36.2627071,
+        "formatted": "Aqueduct, Autoroute A2, 1154 Friouet, Tunisia",
+        "address_line1": "Aqueduct",
+        "address_line2": "Autoroute A2, 1154 Friouet, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aqueduc",
+            "osm_id": 1761170222,
+            "name:en": "Aqueduct",
+            "name:fr": "Aqueduc",
+            "name:nl": "Aquaduct",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "Aqueduct",
+          "fr": "Aqueduc",
+          "nl": "Aquaduct"
+        },
+        "place_id": "511483d1f6f9f92340592af4e062a0214240f00103f9012e53f9680000000092030741717565647563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.988235199999998,
+          36.262707099762636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حوانيت شواش",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Béja",
+        "county": "شواش",
+        "state_district": "معتمدية مجاز الباب",
+        "city": "Chaouach",
+        "postcode": "9072",
+        "street": "RL 615 طم",
+        "iso3166_2": "TN-31",
+        "lon": 9.542927,
+        "lat": 36.7146543,
+        "formatted": "حوانيت شواش, RL 615 طم, 9072 Chaouach, Tunisia",
+        "address_line1": "حوانيت شواش",
+        "address_line2": "RL 615 طم, 9072 Chaouach, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "حوانيت شواش",
+            "osm_id": 2829926589,
+            "name:ar": "حوانيت شواش",
+            "name:fr": "Haouanet de Chaouach",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q3127104",
+            "wikipedia": "fr:Haouanet"
+          }
+        },
+        "name_international": {
+          "ar": "حوانيت شواش",
+          "fr": "Haouanet de Chaouach"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3127104",
+          "wikipedia": "fr:Haouanet"
+        },
+        "place_id": "51153b1a87fa1523405995d2c6ca795b4240f00103f901bd40ada800000000920315d8add988d8a7d986d98ad8aa20d8b4d988d8a7d8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.542927,
+          36.714654299813596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "المعهد الوطني للتراث بتونس",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2008",
+        "district": "معتمدية المدينة",
+        "suburb": "Medina of Tunis",
+        "iso3166_2": "TN-11",
+        "lon": 10.1705726,
+        "lat": 36.7956662,
+        "formatted": "المعهد الوطني للتراث بتونس, 2008 Tunis, Tunisia",
+        "address_line1": "المعهد الوطني للتراث بتونس",
+        "address_line2": "2008 Tunis, Tunisia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.office",
+          "building.tourism",
+          "office",
+          "office.government",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "المعهد الوطني للتراث بتونس",
+            "office": "government",
+            "osm_id": 3682664995,
+            "name:ar": "المعهد الوطني للتراث بتونس",
+            "name:fr": "Institut national du patrimoine",
+            "tourism": "attraction",
+            "alt_name": "المعهد الوطني للتراث;دار حسين",
+            "building": "yes",
+            "historic": "castle",
+            "osm_type": "n",
+            "wikidata": "Q3015945",
+            "addr:city": "تونس",
+            "wikipedia": "ar:دار حسين",
+            "addr:place": "مدينة تونس العتيقة",
+            "government": "cultural heritage management",
+            "admin_level": 2,
+            "alt_name:ar": "المعهد الوطني للتراث;دار حسين",
+            "castle_type": "palace",
+            "addr:city:ar": "تونس",
+            "addr:place:ar": "مدينة تونس العتيقة",
+            "addr:housename": "دار حسين",
+            "addr:housename:ar": "دار حسين",
+            "addr:housename:en": "Dar Husain"
+          }
+        },
+        "name_other": {
+          "alt_name": "المعهد الوطني للتراث;دار حسين"
+        },
+        "name_international": {
+          "ar": "المعهد الوطني للتراث بتونس",
+          "fr": "Institut national du patrimoine"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3015945",
+          "wikipedia": "ar:دار حسين"
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "palace"
+        },
+        "place_id": "51f82fb54a55572440590363d963d8654240f00103f901230281db00000000920331d8a7d984d985d8b9d987d8af20d8a7d984d988d8b7d986d98a20d984d984d8aad8b1d8a7d8ab20d8a8d8aad988d986d8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1705726,
+          36.795666199823266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huilerie GATTOUSSI",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "المعمورة",
+        "state_district": "معتمدية بني خيار",
+        "city": "Maâmoura",
+        "postcode": "8013",
+        "street": "RR27",
+        "iso3166_2": "TN-21",
+        "lon": 10.8111897,
+        "lat": 36.4812489,
+        "formatted": "Huilerie GATTOUSSI, RR27, 8013 Maâmoura, Tunisia",
+        "address_line1": "Huilerie GATTOUSSI",
+        "address_line2": "RR27, 8013 Maâmoura, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Huilerie GATTOUSSI",
+            "email": "gatt6532@gmail.com",
+            "phone": "+216 98 326 248",
+            "osm_id": 4591378289,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "route Nabeul Korba",
+            "addr:postcode": 8013
+          }
+        },
+        "contact": {
+          "phone": "+216 98 326 248",
+          "email": "gatt6532@gmail.com"
+        },
+        "place_id": "513fb4a041549f254059e5e85e90993d4240f00103f90171dfaa11010000009203124875696c6572696520474154544f55535349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.811189699999998,
+          36.481248899786614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotonde de Damous el Karita",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "district": "Carthage",
+        "suburb": "قرطاج بيرصة",
+        "iso3166_2": "TN-11",
+        "lon": 10.330107912132647,
+        "lat": 36.86105125,
+        "formatted": "Rotonde de Damous el Karita, قرطاج بيرصة, Tunis, Carthage, Tunisia",
+        "address_line1": "Rotonde de Damous el Karita",
+        "address_line2": "قرطاج بيرصة, Tunis, Carthage, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rotonde de Damous el Karita",
+            "osm_id": 26336926,
+            "name:hu": "Damous el Karita rotonda",
+            "natural": "heath",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "hu": "Damous el Karita rotonda"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "516a857de703a9244059371a67ed366e4240f00102f9019ede91010000000092031b526f746f6e64652064652044616d6f757320656c204b6172697461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33010791213265,
+          36.86105124983117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سيدي بوسعيد",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "village": "Sidi Boussaid",
+        "postcode": "2026",
+        "district": "Carthage",
+        "street": "نهج الحبيب ثامر",
+        "iso3166_2": "TN-11",
+        "lon": 10.348175061866337,
+        "lat": 36.8726488,
+        "formatted": "سيدي بوسعيد, نهج الحبيب ثامر, 2026 Tunis, Tunisia",
+        "address_line1": "سيدي بوسعيد",
+        "address_line2": "نهج الحبيب ثامر, 2026 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سيدي بوسعيد",
+            "osm_id": 90263452,
+            "landuse": "residential",
+            "name:ar": "سيدي بوسعيد",
+            "name:fr": "Sidi Bou Saïd",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "سيدي بوسعيد",
+            "addr:country": "TN",
+            "addr:postcode": 2026,
+            "addr:governorate": "Tunis"
+          }
+        },
+        "name_international": {
+          "ar": "سيدي بوسعيد",
+          "fr": "Sidi Bou Saïd"
+        },
+        "place_id": "5159ff6f0044b22440595916b4f4b26f4240f00102f9019c4f610500000000920315d8b3d98ad8afd98a20d8a8d988d8b3d8b9d98ad8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.348175061866344,
+          36.87264879983258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1020",
+        "district": "معتمدية المدينة",
+        "suburb": "Medina of Tunis",
+        "street": "سوق الترك",
+        "iso3166_2": "TN-11",
+        "lon": 10.1702068,
+        "lat": 36.7971956,
+        "formatted": "سوق الترك, 1020 Tunis, Tunisia",
+        "address_line1": "سوق الترك",
+        "address_line2": "1020 Tunis, Tunisia",
+        "name": "سوق الترك",
+        "categories": [
+          "highway",
+          "highway.pedestrian",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سوق الترك",
+            "osm_id": 109586103,
+            "highway": "pedestrian",
+            "name:ar": "سوق الترك",
+            "name:fr": "Souk El-Trouk",
+            "tourism": "attraction",
+            "z_order": 310,
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "ar": "سوق الترك",
+          "fr": "Souk El-Trouk"
+        },
+        "place_id": "51161d7f582557244059dee062810a664240f00102f901b726880600000000920311d8b3d988d98220d8a7d984d8aad8b1d983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.170206799999999,
+          36.79719559982344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basilique de Damous el Karita",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "district": "Carthage",
+        "suburb": "قرطاج بيرصة",
+        "iso3166_2": "TN-11",
+        "lon": 10.331075120181932,
+        "lat": 36.8614912,
+        "formatted": "Basilica of Damous el Karita, قرطاج بيرصة, Tunis, Carthage, Tunisia",
+        "address_line1": "Basilica of Damous el Karita",
+        "address_line2": "قرطاج بيرصة, Tunis, Carthage, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Basilique de Damous el Karita",
+            "osm_id": 131384746,
+            "name:de": "Basilika von Damous el Karita",
+            "name:en": "Basilica of Damous el Karita",
+            "name:es": "Basílica de Damous el Karita",
+            "name:hu": "Damous el Karita bazilika",
+            "name:it": "Basilica di Damous el Karita",
+            "name:ja": "ダマスエルカリタ大聖堂",
+            "natural": "heath",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "de": "Basilika von Damous el Karita",
+          "en": "Basilica of Damous el Karita",
+          "es": "Basílica de Damous el Karita",
+          "hu": "Damous el Karita bazilika",
+          "it": "Basilica di Damous el Karita",
+          "ja": "ダマスエルカリタ大聖堂"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51b9669bad82a92440599088f857456e4240f00102f901aac5d4070000000092031d426173696c697175652064652044616d6f757320656c204b6172697461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.331075120181923,
+          36.86149119983122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مقابر البونية",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج الشاطئ",
+        "street": "حمامات أنطونيس",
+        "iso3166_2": "TN-11",
+        "lon": 10.332165121575791,
+        "lat": 36.85493765,
+        "formatted": "Punic Necropolises, حمامات أنطونيس, 2016 Tunis, Tunisia",
+        "address_line1": "Punic Necropolises",
+        "address_line2": "حمامات أنطونيس, 2016 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مقابر البونية",
+            "osm_id": 131384747,
+            "name:ar": "مقابر البونية",
+            "name:de": "Punische Nekropolen",
+            "name:en": "Punic Necropolises",
+            "name:es": "Necrópolis púnicas",
+            "name:fr": "Nécropole punique",
+            "name:hu": "Pun nekropolisz",
+            "name:it": "Necropoli puniche",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "ar": "مقابر البونية",
+          "de": "Punische Nekropolen",
+          "en": "Punic Necropolises",
+          "es": "Necrópolis púnicas",
+          "fr": "Nécropole punique",
+          "hu": "Pun nekropolisz",
+          "it": "Necropoli puniche"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "516b14fc8b11aa2440590512cf986e6d4240f00102f901abc5d40700000000920319d985d982d8a7d8a8d8b120d8a7d984d8a8d988d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.33216512157579,
+          36.854937649830426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الفيلات الرومانية",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "district": "Carthage",
+        "suburb": "قرطاج بيرصة",
+        "iso3166_2": "TN-11",
+        "lon": 10.331369399054022,
+        "lat": 36.85753855,
+        "formatted": "Roman Villas, قرطاج بيرصة, Tunis, Carthage, Tunisia",
+        "address_line1": "Roman Villas",
+        "address_line2": "قرطاج بيرصة, Tunis, Carthage, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الفيلات الرومانية",
+            "osm_id": 131384756,
+            "name:ar": "الفيلات الرومانية",
+            "name:de": "Römische Villen",
+            "name:en": "Roman Villas",
+            "name:es": "Villas romanas",
+            "name:fr": "Villas romaines",
+            "name:hu": "Római villa",
+            "name:it": "Ville romane",
+            "name:ja": "ローマンヴィラズ",
+            "name:ru": "Римские виллы",
+            "name:zh": "罗马别墅",
+            "natural": "heath",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "historic:civilization": "ancient_roman"
+          }
+        },
+        "name_international": {
+          "ar": "الفيلات الرومانية",
+          "de": "Römische Villen",
+          "en": "Roman Villas",
+          "es": "Villas romanas",
+          "fr": "Villas romaines",
+          "hu": "Római villa",
+          "it": "Ville romane",
+          "ja": "ローマンヴィラズ",
+          "ru": "Римские виллы",
+          "zh": "罗马别墅"
+        },
+        "historic": {
+          "type": "archaeological_site",
+          "civilization": "ancient_roman"
+        },
+        "place_id": "5114aaf73fa9a9244059894abdd2c36d4240f00102f901b4c5d40700000000920321d8a7d984d981d98ad984d8a7d8aa20d8a7d984d8b1d988d985d8a7d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.331369399054019,
+          36.85753854983074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مدينة الحمامات العتيقة",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحمامات الشرقية",
+        "state_district": "معتمدية الحمامات",
+        "city": "Hammamet",
+        "postcode": "8050",
+        "street": "شارع الحبيب بورقيبة",
+        "iso3166_2": "TN-21",
+        "lon": 10.61333807886284,
+        "lat": 36.393896850000004,
+        "formatted": "Medina of Hammamet, شارع الحبيب بورقيبة, 8050 Hammamet, Tunisia",
+        "address_line1": "Medina of Hammamet",
+        "address_line2": "شارع الحبيب بورقيبة, 8050 Hammamet, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مدينة الحمامات العتيقة",
+            "osm_id": 227756325,
+            "landuse": "residential",
+            "name:ar": "مدينة الحمامات العتيقة",
+            "name:en": "Medina of Hammamet",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "الحمامات"
+          }
+        },
+        "name_international": {
+          "ar": "مدينة الحمامات العتيقة",
+          "en": "Medina of Hammamet"
+        },
+        "place_id": "51f736dc72073a25405904e543366b324240f00102f9012549930d0000000092032ad985d8afd98ad986d8a920d8a7d984d8add985d8a7d985d8a7d8aa20d8a7d984d8b9d8aad98ad982d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.613338078862837,
+          36.393896849776894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "برتقال",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "بني خلاد الشمالية",
+        "state_district": "معتمدية بني خلاد",
+        "postcode": "8021",
+        "street": "RR42",
+        "iso3166_2": "TN-21",
+        "lon": 10.58839395,
+        "lat": 36.6481656,
+        "formatted": "Oranges, RR42, 8021 Nabeul, Tunisia",
+        "address_line1": "Oranges",
+        "address_line2": "RR42, 8021 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "برتقال",
+            "osm_id": 252160706,
+            "name:ar": "برتقال",
+            "name:en": "Oranges",
+            "tourism": "artwork",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "ar": "برتقال",
+          "en": "Oranges"
+        },
+        "place_id": "5119d4c8f8412d2540596dc72217f7524240f00102f901c2aa070f0000000092030cd8a8d8b1d8aad982d8a7d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.588393949999999,
+          36.64816559980577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء حلق الوادي",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2060",
+        "district": "معتمدية حلق الوادي",
+        "suburb": "حلق الوادي",
+        "street": "Rue El Edrissi",
+        "iso3166_2": "TN-11",
+        "lon": 10.3009616,
+        "lat": 36.8146356,
+        "formatted": "ميناء حلق الوادي, Rue El Edrissi, 2060 Tunis, Tunisia",
+        "address_line1": "ميناء حلق الوادي",
+        "address_line2": "Rue El Edrissi, 2060 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ميناء حلق الوادي",
+            "osm_id": 283684315,
+            "name:ar": "ميناء حلق الوادي",
+            "name:fr": "Port La Goulette",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "ميناء حلق الوادي",
+          "fr": "Port La Goulette"
+        },
+        "place_id": "5124b48aa3179a2440593cb4b5fa45684240f00103f901dbade8100000000092031ed985d98ad986d8a7d8a120d8add984d98220d8a7d984d988d8a7d8afd98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3009616,
+          36.81463559982555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple des Eaux",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Zaghouan Governorate",
+        "county": "زغوان المدينة",
+        "state_district": "معتمدية زغوان",
+        "city": "Zaghouan",
+        "postcode": "1100",
+        "street": "شارع الحبيب بوقطفة",
+        "iso3166_2": "TN-22",
+        "lon": 10.1311569,
+        "lat": 36.3871082,
+        "formatted": "Temple des Eaux, شارع الحبيب بوقطفة, 1100 Zaghouan, Tunisia",
+        "address_line1": "Temple des Eaux",
+        "address_line2": "شارع الحبيب بوقطفة, 1100 Zaghouan, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Temple des Eaux",
+            "osm_id": 322955345,
+            "name:fr": "Temple des Eaux",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Temple des Eaux"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "511c4a48ff2643244059a506f1c28c314240f00103f90151e83f130000000092030f54656d706c65206465732045617578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1311569,
+          36.38710819977613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "roman aquaduct",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ben Arous",
+        "county": "الخليدية",
+        "state_district": "معتمدية مرناق",
+        "street": "الطريق الوطنية تونس - حزوة",
+        "iso3166_2": "TN-13",
+        "lon": 10.1268965,
+        "lat": 36.6271815,
+        "formatted": "roman aquaduct, الطريق الوطنية تونس - حزوة, Ben Arous, Tunisia",
+        "address_line1": "roman aquaduct",
+        "address_line2": "الطريق الوطنية تونس - حزوة, Ben Arous, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "roman aquaduct",
+            "osm_id": 322962613,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5128f4fa93f840244059e027bf7b47504240f00103f901b50440130000000092030e726f6d616e206171756164756374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1268965,
+          36.62718149980333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghar EI Kebir",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الهوارية الشمالية",
+        "state_district": "معتمدية الهوارية",
+        "city": "El Haouaria",
+        "postcode": "8045",
+        "street": "نهج الهادي شاكر",
+        "iso3166_2": "TN-21",
+        "lon": 10.9964505,
+        "lat": 37.0594682,
+        "formatted": "Ghar EI Kebir, نهج الهادي شاكر, 8045 El Haouaria, Tunisia",
+        "address_line1": "Ghar EI Kebir",
+        "address_line2": "نهج الهادي شاكر, 8045 El Haouaria, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ghar EI Kebir",
+            "osm_id": 330523653,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "El Haouaria",
+            "description": "ancient Punic and Roman underground quarries",
+            "addr:country": "TN",
+            "addr:postcode": 8045,
+            "addr:housename": "Ghar el Kébir",
+            "addr:governorate": "Nabeul"
+          }
+        },
+        "description": "ancient Punic and Roman underground quarries",
+        "place_id": "516b2a8bc22efe25405929c46aa79c874240f00103f9010564b3130000000092030d47686172204549204b65626972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9964505,
+          37.059468199855765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cactus",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ariana",
+        "county": "أريانة الجديدة",
+        "state_district": "معتمدية أريانة المدينة",
+        "city": "Ariana",
+        "postcode": "2080",
+        "suburb": "El Izdihar",
+        "street": "نهج صلاح الدين الأيوبي",
+        "iso3166_2": "TN-12",
+        "lon": 10.186000275773132,
+        "lat": 36.85544625,
+        "formatted": "Cactus, نهج صلاح الدين الأيوبي, 2080 Ariana, Tunisia",
+        "address_line1": "Cactus",
+        "address_line2": "نهج صلاح الدين الأيوبي, 2080 Ariana, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cactus",
+            "osm_id": 492144810,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5134fc9a6d3b5f244059004141437f6d4240f00102f901aa88551d00000000920306436163747573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.186000275773132,
+          36.85544624983049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منتزه النحلي",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ariana",
+        "county": "أريانة العليا",
+        "state_district": "معتمدية أريانة المدينة",
+        "postcode": "2083",
+        "street": "شارع جودة الحياة",
+        "iso3166_2": "TN-12",
+        "lon": 10.1598663,
+        "lat": 36.8852081,
+        "formatted": "منتزه النحلي, شارع جودة الحياة, 2083 Ariana, Tunisia",
+        "address_line1": "منتزه النحلي",
+        "address_line2": "شارع جودة الحياة, 2083 Ariana, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منتزه النحلي",
+            "osm_id": 633717523,
+            "name:ar": "منتزه النحلي",
+            "name:fr": "Parc Ennahli",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منتزه النحلي",
+          "fr": "Parc Ennahli"
+        },
+        "place_id": "510c77e4fed9512440598f78bf7f4e714240f00103f90113c3c52500000000920317d985d986d8aad8b2d98720d8a7d984d986d8add984d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.159866299999997,
+          36.885208099834124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidi Sliman",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "نيابوليس",
+        "state_district": "معتمدية نابل",
+        "postcode": "8000",
+        "district": "Oued Souhil",
+        "street": "شارع محمد الخامس",
+        "iso3166_2": "TN-21",
+        "lon": 10.729346475200188,
+        "lat": 36.440363500000004,
+        "formatted": "Sidi Sliman, شارع محمد الخامس, 8000 Nabeul, Tunisia",
+        "address_line1": "Sidi Sliman",
+        "address_line2": "شارع محمد الخامس, 8000 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sidi Sliman",
+            "osm_id": 663521870,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5116e0b4e66c752540593ff5c6d45d384240f00102f9014e8a8c270000000092030b5369646920536c696d616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.729346475200185,
+          36.440363499782045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بورقيبة",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2060",
+        "district": "معتمدية حلق الوادي",
+        "suburb": "حلق الوادي",
+        "street": "نهج حمادي بن عمار",
+        "iso3166_2": "TN-11",
+        "lon": 10.3000479,
+        "lat": 36.81521,
+        "formatted": "بورقيبة, نهج حمادي بن عمار, 2060 Tunis, Tunisia",
+        "address_line1": "بورقيبة",
+        "address_line2": "نهج حمادي بن عمار, 2060 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بورقيبة",
+            "osm_id": 1080013977,
+            "name:ar": "بورقيبة",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "حلق الوادي"
+          }
+        },
+        "name_international": {
+          "ar": "بورقيبة"
+        },
+        "place_id": "518a77dbe09f99244059c54f20cd58684240f00103f90199b45f400000000092030ed8a8d988d8b1d982d98ad8a8d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3000479,
+          36.81520999982562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "المنجي بالي",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1000",
+        "district": "معتمدية باب بحر",
+        "suburb": "باب البحر",
+        "street": "نهج جمال عبد الناصر",
+        "iso3166_2": "TN-11",
+        "lon": 10.1794557,
+        "lat": 36.7953873,
+        "formatted": "Place Monge Bali, نهج جمال عبد الناصر, 1000 Tunis, Tunisia",
+        "address_line1": "Place Monge Bali",
+        "address_line2": "نهج جمال عبد الناصر, 1000 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "المنجي بالي",
+            "osm_id": 1103532846,
+            "name:ar": "المنجي بالي",
+            "name:en": "Place Monge Bali",
+            "name:fr": "Mongi Bali",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "name_international": {
+          "ar": "المنجي بالي",
+          "en": "Place Monge Bali",
+          "fr": "Mongi Bali"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "515d29159ee15b2440597f324440cf654240f00103f9012e93c64100000000920315d8a7d984d985d986d8acd98a20d8a8d8a7d984d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1794557,
+          36.795387299823226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Ksiba",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "المؤتمر",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "street": "نهج سيدي هني",
+        "iso3166_2": "TN-23",
+        "lon": 9.876932342844755,
+        "lat": 37.278311450000004,
+        "formatted": "La Ksiba, نهج سيدي هني, 7000 Bizerte, Tunisia",
+        "address_line1": "La Ksiba",
+        "address_line2": "نهج سيدي هني, 7000 Bizerte, Tunisia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Ksiba",
+            "osm_id": 1295007017,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "tower",
+            "man_made": "tower",
+            "osm_type": "w",
+            "tower:type": "defensive"
+          }
+        },
+        "historic": {
+          "type": "tower",
+          "tower_type": "defensive",
+          "object_type": "tower"
+        },
+        "place_id": "514ea5aa46fdc02340593aada7b59fa34240f00102f901293d304d000000009203084c61204b73696261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.87693234284475,
+          37.278311449883816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zriba  olya",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Zaghouan Governorate",
+        "county": "حمام الزريبة الجنوبية",
+        "state_district": "معتمدية الزريبة",
+        "city": "Zriba",
+        "postcode": "1152",
+        "street": "زنقة الفتح",
+        "iso3166_2": "TN-22",
+        "lon": 10.2106631,
+        "lat": 36.3141476,
+        "formatted": "زنقة الفتح, 1152 Zriba, Tunisia",
+        "address_line1": "زنقة الفتح",
+        "address_line2": "1152 Zriba, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zriba  olya",
+            "osm_id": 1306245500,
+            "name:en": "Zriba",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Zriba"
+        },
+        "place_id": "51adf2a908dc6b244059838f11fd35284240f00103f9017cb9db4d0000000092030b5a7269626120206f6c7961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2106631,
+          36.31414759976817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port Marchand Romain",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2025",
+        "district": "Carthage",
+        "suburb": "قرطاج الشاطئ",
+        "street": "نهج شوفت",
+        "iso3166_2": "TN-11",
+        "lon": 10.3248504,
+        "lat": 36.8414507,
+        "formatted": "Port Marchand Romain, نهج شوفت, 2025 Tunis, Tunisia",
+        "address_line1": "Port Marchand Romain",
+        "address_line2": "نهج شوفت, 2025 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Port Marchand Romain",
+            "osm_id": 1446075791,
+            "harbour": "yes",
+            "name:de": "Römischer Handelshafen",
+            "name:fr": "Port Marchand Romain",
+            "name:it": "Porto mercantile romano",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Römischer Handelshafen",
+          "fr": "Port Marchand Romain",
+          "it": "Porto mercantile romano"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "515f2fa8ca52a6244059007b12a8b46b4240f00103f9018f5d315600000000920314506f7274204d61726368616e6420526f6d61696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3248504,
+          36.84145069982878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port punique de Carthage",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2025",
+        "district": "Carthage",
+        "suburb": "قرطاج الشاطئ",
+        "street": "نهج سترابون",
+        "iso3166_2": "TN-11",
+        "lon": 10.3248036,
+        "lat": 36.8456504,
+        "formatted": "Port punique de Carthage, نهج سترابون, 2025 Tunis, Tunisia",
+        "address_line1": "Port punique de Carthage",
+        "address_line2": "نهج سترابون, 2025 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Port punique de Carthage",
+            "osm_id": 1446075796,
+            "harbour": "yes",
+            "name:de": "Römischer Militärhafen",
+            "name:fr": "Ports puniques de Carthage",
+            "name:it": "Porto militare di Cartagine",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Römischer Militärhafen",
+          "fr": "Ports puniques de Carthage",
+          "it": "Porto militare di Cartagine"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "51023f4fa84ca6244059de8eb5453e6c4240f00103f901945d315600000000920318506f72742070756e69717565206465204361727468616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3248036,
+          36.845650399829296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Disused Tank",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "سيدي الجديدي",
+        "state_district": "معتمدية الحمامات",
+        "city": "Sidi Jadidi",
+        "street": "الطريق الجهوية مجاز الباب - نابل",
+        "iso3166_2": "TN-21",
+        "lon": 10.4313653,
+        "lat": 36.3770331,
+        "formatted": "Disused Tank, الطريق الجهوية مجاز الباب - نابل, Sidi Jadidi, Tunisia",
+        "address_line1": "Disused Tank",
+        "address_line2": "الطريق الجهوية مجاز الباب - نابل, Sidi Jadidi, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Disused Tank",
+            "osm_id": 1711993979,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512a42a0e9dbdc2440598985e09e42304240f00103f9017bf40a660000000092030c446973757365642054616e6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4313653,
+          36.377033099775026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Disused Tank",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "سيدي الجديدي",
+        "state_district": "معتمدية الحمامات",
+        "city": "Sidi Jadidi",
+        "street": "الطريق الجهوية مجاز الباب - نابل",
+        "iso3166_2": "TN-21",
+        "lon": 10.4319942,
+        "lat": 36.3788341,
+        "formatted": "Disused Tank, الطريق الجهوية مجاز الباب - نابل, Sidi Jadidi, Tunisia",
+        "address_line1": "Disused Tank",
+        "address_line2": "الطريق الجهوية مجاز الباب - نابل, Sidi Jadidi, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Disused Tank",
+            "osm_id": 1711993981,
+            "name:it": "Carri armati abbandonati",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "it": "Carri armati abbandonati"
+        },
+        "place_id": "51951f02582edd2440597392c2a27d304240f00103f9017df40a660000000092030c446973757365642054616e6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4319942,
+          36.37883409977521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Disused Tank",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "سيدي الجديدي",
+        "state_district": "معتمدية الحمامات",
+        "city": "Sidi Jadidi",
+        "street": "الطريق الجهوية مجاز الباب - نابل",
+        "iso3166_2": "TN-21",
+        "lon": 10.430868,
+        "lat": 36.380278,
+        "formatted": "Disused Tank, الطريق الجهوية مجاز الباب - نابل, Sidi Jadidi, Tunisia",
+        "address_line1": "Disused Tank",
+        "address_line2": "الطريق الجهوية مجاز الباب - نابل, Sidi Jadidi, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Disused Tank",
+            "osm_id": 1711993986,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512ec901bb9adc244059373612f3ac304240f00103f90182f40a660000000092030c446973757365642054616e6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.430868,
+          36.38027799977538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ras Al-Sass Gate",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "المؤتمر",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "iso3166_2": "TN-23",
+        "lon": 9.8769322,
+        "lat": 37.2788283,
+        "formatted": "Ras Al-Sass Gate, 7000 Bizerte, Tunisia",
+        "address_line1": "Ras Al-Sass Gate",
+        "address_line2": "7000 Bizerte, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.city_gate"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ras Al-Sass Gate",
+            "osm_id": 2622629873,
+            "tourism": "attraction",
+            "historic": "city_gate",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "city_gate"
+        },
+        "place_id": "51619edf41fdc0234059ad994ea5b0a34240f00103f901f127529c0000000092031052617320416c2d536173732047617465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8769322,
+          37.27882829988389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carthage Land",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "منارة الحمامات",
+        "state_district": "معتمدية الحمامات",
+        "postcode": "8052",
+        "street": "الطريق الوطنية تونس - رأس جدير",
+        "iso3166_2": "TN-21",
+        "lon": 10.5347265,
+        "lat": 36.3688994,
+        "formatted": "Carthage Land, الطريق الوطنية تونس - رأس جدير, 8052 Nabeul, Tunisia",
+        "address_line1": "Carthage Land",
+        "address_line2": "الطريق الوطنية تونس - رأس جدير, 8052 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Carthage Land",
+            "osm_id": 4323164989,
+            "name:ru": "земля Карфагена",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ru": "земля Карфагена"
+        },
+        "place_id": "51ec9bfbabc711254059a0c57418382f4240f00103f9013d43ae010100000092030d4361727468616765204c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.534726499999998,
+          36.368899399774136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Medina",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "منارة الحمامات",
+        "state_district": "معتمدية الحمامات",
+        "postcode": "8052",
+        "street": "الطريق الوطنية تونس - رأس جدير",
+        "iso3166_2": "TN-21",
+        "lon": 10.5335239,
+        "lat": 36.3658548,
+        "formatted": "New Medina, الطريق الوطنية تونس - رأس جدير, 8052 Nabeul, Tunisia",
+        "address_line1": "New Medina",
+        "address_line2": "الطريق الوطنية تونس - رأس جدير, 8052 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "New Medina",
+            "osm_id": 4326588593,
+            "name:ru": "рынок новая Медина",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ru": "рынок новая Медина"
+        },
+        "place_id": "51cc446c0b2a11254059790e8054d42e4240f00103f901b180e2010100000092030a4e6577204d6564696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.533523899999999,
+          36.36585479977379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Societegalvart",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ariana",
+        "county": "شطرانة",
+        "state_district": "معتمدية سكرة",
+        "postcode": "2036",
+        "suburb": "Chotrana III",
+        "street": "Rue des Fruits",
+        "iso3166_2": "TN-12",
+        "lon": 10.2375109,
+        "lat": 36.888094,
+        "formatted": "Societegalvart, Rue des Fruits, 2036 Ariana, Tunisia",
+        "address_line1": "Societegalvart",
+        "address_line2": "Rue des Fruits, 2036 Ariana, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Societegalvart",
+            "osm_id": 4672048190,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5115e357079b792440590e886e10ad714240f00103f9013ecc79160100000092030e536f636965746567616c76617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.237510899999998,
+          36.88809399983448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "تونس أسست 2",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1053",
+        "district": "معتمدية حلق الوادي",
+        "suburb": "الطيب مهيري",
+        "street": "Mapple Leaf Street",
+        "iso3166_2": "TN-11",
+        "lon": 10.280032,
+        "lat": 36.846538,
+        "formatted": "تونس أسست 2, Mapple Leaf Street, 1053 Tunis, Tunisia",
+        "address_line1": "تونس أسست 2",
+        "address_line2": "Mapple Leaf Street, 1053 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "تونس أسست 2",
+            "osm_id": 4828125124,
+            "name:ar": "تونس أسست 2",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "تونس",
+            "addr:city:ar": "تونس"
+          }
+        },
+        "name_international": {
+          "ar": "تونس أسست 2"
+        },
+        "place_id": "51bdaab35a608f244059570b705b5b6c4240f00103f901c457c71f01000000920313d8aad988d986d8b320d8a3d8b3d8b3d8aa2032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.280032,
+          36.846537999829415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "أسست",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1053",
+        "district": "معتمدية حلق الوادي",
+        "suburb": "الطيب مهيري",
+        "street": "Mapple Leaf Street",
+        "iso3166_2": "TN-11",
+        "lon": 10.2801714,
+        "lat": 36.8466828,
+        "formatted": "أسست, Mapple Leaf Street, 1053 Tunis, Tunisia",
+        "address_line1": "أسست",
+        "address_line2": "Mapple Leaf Street, 1053 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "أسست",
+            "osm_id": 4830613621,
+            "name:ar": "أسست",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "تونس",
+            "addr:city:ar": "تونس"
+          }
+        },
+        "name_international": {
+          "ar": "أسست"
+        },
+        "place_id": "51908c30a0728f24405932ad1b1a606c4240f00103f9017550ed1f01000000920308d8a3d8b3d8b3d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2801714,
+          36.84668279982942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "غرفة الزفاف حفل الزفاف الذهبي",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Manouba",
+        "county": "وادي اللیل‬",
+        "state_district": "معتمدية وادي اللیل‬",
+        "postcode": "2021",
+        "street": "الطريق الوطنية تونس - طبرقة",
+        "iso3166_2": "TN-14",
+        "lon": 10.0088902,
+        "lat": 36.8366904,
+        "formatted": "غرفة الزفاف حفل الزفاف الذهبي, الطريق الوطنية تونس - طبرقة, 2021 Manouba, Tunisia",
+        "address_line1": "غرفة الزفاف حفل الزفاف الذهبي",
+        "address_line2": "الطريق الوطنية تونس - طبرقة, 2021 Manouba, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "غرفة الزفاف حفل الزفاف الذهبي",
+            "osm_id": 5046972524,
+            "name:ar": "غرفة الزفاف حفل الزفاف الذهبي",
+            "name:fr": "Salle de mariage Les Noces D'Or Event",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "غرفة الزفاف حفل الزفاف الذهبي",
+          "fr": "Salle de mariage Les Noces D'Or Event"
+        },
+        "place_id": "5181829c418d04244059d711c8ab186b4240f00103f9016cb0d22c01000000920336d8bad8b1d981d8a920d8a7d984d8b2d981d8a7d98120d8add981d98420d8a7d984d8b2d981d8a7d98120d8a7d984d8b0d987d8a8d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.008890199999998,
+          36.83669039982822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort de Bizerte",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "المؤتمر",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "street": "نهج سيدي هني",
+        "iso3166_2": "TN-23",
+        "lon": 9.8758905,
+        "lat": 37.2787829,
+        "formatted": "Fort de Bizerte, نهج سيدي هني, 7000 Bizerte, Tunisia",
+        "address_line1": "Fort de Bizerte",
+        "address_line2": "نهج سيدي هني, 7000 Bizerte, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fort de Bizerte",
+            "osm_id": 5075888825,
+            "name:en": "Fort de Bizerte",
+            "name:fr": "Fort de Bizerte",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Fort de Bizerte",
+          "fr": "Fort de Bizerte"
+        },
+        "place_id": "5112c138b874c0234059b8d77628afa34240f00103f901b9ea8b2e0100000092030f466f72742064652042697a65727465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8758905,
+          37.27878289988388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منازل للكراء",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحمامات الغربية",
+        "state_district": "معتمدية الحمامات",
+        "postcode": "8050",
+        "street": "نهج فرحات حشاد",
+        "iso3166_2": "TN-21",
+        "lon": 10.6103233,
+        "lat": 36.400475,
+        "formatted": "Maison à louer, نهج فرحات حشاد, 8050 Nabeul, Tunisia",
+        "address_line1": "Maison à louer",
+        "address_line2": "نهج فرحات حشاد, 8050 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منازل للكراء",
+            "osm_id": 5259660422,
+            "name:ar": "منازل للكراء",
+            "name:en": "Maison à louer",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منازل للكراء",
+          "en": "Maison à louer"
+        },
+        "place_id": "513df9aa4b7c382540598a74c9c342334240f00103f901860c803901000000920317d985d986d8a7d8b2d98420d984d984d983d8b1d8a7d8a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6103233,
+          36.400474999777614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La femme aux roses",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ariana",
+        "county": "أريانة الجديدة",
+        "state_district": "معتمدية أريانة المدينة",
+        "city": "Ariana",
+        "postcode": "2080",
+        "suburb": "El Izdihar",
+        "street": "نهج صلاح الدين الأيوبي",
+        "iso3166_2": "TN-12",
+        "lon": 10.185619,
+        "lat": 36.8552702,
+        "formatted": "La femme aux roses, نهج صلاح الدين الأيوبي, 2080 Ariana, Tunisia",
+        "address_line1": "La femme aux roses",
+        "address_line2": "نهج صلاح الدين الأيوبي, 2080 Ariana, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La femme aux roses",
+            "osm_id": 5320707390,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "514e081d74095f244059f5c1707e796d4240f00103f9013e8d233d010000009203124c612066656d6d652061757820726f736573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.185618999999999,
+          36.85527019983048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سيمنس تونس",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1053",
+        "district": "معتمدية حي الخضراء",
+        "suburb": "البحيرة",
+        "street": "نهج بحيرة ليمان",
+        "iso3166_2": "TN-11",
+        "lon": 10.2430756,
+        "lat": 36.8400854,
+        "formatted": "SIEMENS TUNISIA, نهج بحيرة ليمان, 1053 Tunis, Tunisia",
+        "address_line1": "SIEMENS TUNISIA",
+        "address_line2": "نهج بحيرة ليمان, 1053 Tunis, Tunisia",
+        "categories": [
+          "office",
+          "office.company",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سيمنس تونس",
+            "office": "company",
+            "osm_id": 5396452332,
+            "name:ar": "سيمنس تونس",
+            "name:en": "SIEMENS TUNISIA",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "نهج بحيرة ليمان"
+          }
+        },
+        "name_international": {
+          "ar": "سيمنس تونس",
+          "en": "SIEMENS TUNISIA"
+        },
+        "place_id": "5141e9b067747c244059350e1beb876b4240f00103f901ec53a74101000000920313d8b3d98ad985d986d8b320d8aad988d986d8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2430756,
+          36.84008539982862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الاقامة",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1080",
+        "district": "معتمدية حي الخضراء",
+        "suburb": "El Menzah 1",
+        "street": "شارع رجاء بن عمار",
+        "iso3166_2": "TN-11",
+        "lon": 10.1983949,
+        "lat": 36.846371,
+        "formatted": "الاقامة, شارع رجاء بن عمار, 1080 Tunis, Tunisia",
+        "address_line1": "الاقامة",
+        "address_line2": "شارع رجاء بن عمار, 1080 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الاقامة",
+            "osm_id": 5396452533,
+            "name:ar": "الاقامة",
+            "name:en": "",
+            "name:fr": "Le Palace",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "العمران الشمالي"
+          }
+        },
+        "name_international": {
+          "ar": "الاقامة",
+          "en": "",
+          "fr": "Le Palace"
+        },
+        "place_id": "51ea622e04946524405968468ae2556c4240f00103f901b554a7410100000092030ed8a7d984d8a7d982d8a7d985d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1983949,
+          36.84637099982939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مقهى بانوراما",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2008",
+        "district": "معتمدية المدينة",
+        "suburb": "Medina of Tunis",
+        "iso3166_2": "TN-11",
+        "lon": 10.1704208,
+        "lat": 36.7969077,
+        "formatted": "Panorama Cafe, 2008 Tunis, Tunisia",
+        "address_line1": "Panorama Cafe",
+        "address_line2": "2008 Tunis, Tunisia",
+        "categories": [
+          "catering",
+          "catering.cafe",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مقهى بانوراما",
+            "osm_id": 5422663621,
+            "amenity": "cafe",
+            "name:ar": "مقهى بانوراما",
+            "name:en": "Panorama Cafe",
+            "name:fr": "Panorama Café",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "addr:city": "تونس",
+            "addr:place": "مدينة تونس العتيقة",
+            "addr:city:ar": "تونس",
+            "addr:place:ar": "مدينة تونس العتيقة"
+          }
+        },
+        "name_international": {
+          "ar": "مقهى بانوراما",
+          "en": "Panorama Cafe",
+          "fr": "Panorama Café"
+        },
+        "place_id": "51c61d2565415724405908564e1201664240f00103f901c547374301000000920319d985d982d987d98920d8a8d8a7d986d988d8b1d8a7d985d8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.170420799999999,
+          36.79690769982341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حمام الحلفاوين",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1006",
+        "district": "معتمدية باب سويقة",
+        "suburb": "Halfaouine",
+        "street": "نهج سيدي العلوي",
+        "iso3166_2": "TN-11",
+        "lon": 10.1659453,
+        "lat": 36.8078716,
+        "formatted": "حمام الحلفاوين, نهج سيدي العلوي, 1006 Tunis, Tunisia",
+        "address_line1": "حمام الحلفاوين",
+        "address_line2": "نهج سيدي العلوي, 1006 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "حمام الحلفاوين",
+            "osm_id": 5668859930,
+            "name:ar": "حمام الحلفاوين",
+            "name:fr": "Hammam d’Halfaouine",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "حمام الحلفاوين",
+          "fr": "Hammam d’Halfaouine"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "518ed948c8f654244059a44e2a5668674240f00103f9011af0e3510100000092031bd8add985d8a7d98520d8a7d984d8add984d981d8a7d988d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1659453,
+          36.80787159982472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الكورنيش",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحدائق",
+        "state_district": "معتمدية نابل",
+        "city": "Nabeul",
+        "postcode": "8000",
+        "district": "Rotonde",
+        "street": "نهج المنجي سليم",
+        "iso3166_2": "TN-21",
+        "lon": 10.7468523,
+        "lat": 36.4419132,
+        "formatted": "الكورنيش, نهج المنجي سليم, 8000 Nabeul, Tunisia",
+        "address_line1": "الكورنيش",
+        "address_line2": "نهج المنجي سليم, 8000 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الكورنيش",
+            "osm_id": 6164648875,
+            "name:ar": "الكورنيش",
+            "name:fr": "Corniche de Nabeul",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الكورنيش",
+          "fr": "Corniche de Nabeul"
+        },
+        "place_id": "5180e2b66c637e254059205e9a9c90384240f00103f901ab13716f01000000920310d8a7d984d983d988d8b1d986d98ad8b4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7468523,
+          36.44191319978222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidi Mahrsi",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "نيابوليس",
+        "state_district": "معتمدية نابل",
+        "postcode": "8000",
+        "district": "Sidi Mahrsi",
+        "street": "شارع البيئة",
+        "iso3166_2": "TN-21",
+        "lon": 10.6990534,
+        "lat": 36.4314469,
+        "formatted": "Sidi Mahrsi, شارع البيئة, 8000 Nabeul, Tunisia",
+        "address_line1": "Sidi Mahrsi",
+        "address_line2": "شارع البيئة, 8000 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sidi Mahrsi",
+            "osm_id": 6169398424,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b150c653ea652540599442eaa639374240f00103f901988cb96f0100000092030b53696469204d6168727369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.699053399999999,
+          36.43144689978104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "أنا أحب نابل",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحدائق",
+        "state_district": "معتمدية نابل",
+        "postcode": "8000",
+        "district": "Quartier de la gare",
+        "street": "شارع جديدة مغربية",
+        "iso3166_2": "TN-21",
+        "lon": 10.7350959,
+        "lat": 36.4513446,
+        "formatted": "I love Nabeul, شارع جديدة مغربية, 8000 Nabeul, Tunisia",
+        "address_line1": "I love Nabeul",
+        "address_line2": "شارع جديدة مغربية, 8000 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "أنا أحب نابل",
+            "osm_id": 6202229618,
+            "name:ar": "أنا أحب نابل",
+            "name:en": "I love Nabeul",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "نابل",
+            "addr:city:ar": "نابل"
+          }
+        },
+        "name_international": {
+          "ar": "أنا أحب نابل",
+          "en": "I love Nabeul"
+        },
+        "place_id": "51edd8637d5e78254059cea5eba8c5394240f00103f9017283ae7101000000920316d8a3d986d8a720d8a3d8add8a820d986d8a7d8a8d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7350959,
+          36.45134459978327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plage Loued",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "نيابوليس",
+        "state_district": "معتمدية نابل",
+        "postcode": "8000",
+        "district": "Quartier de la plage",
+        "street": "Chemin de la Plage",
+        "iso3166_2": "TN-21",
+        "lon": 10.7261269,
+        "lat": 36.4402698,
+        "formatted": "Plage Loued, Chemin de la Plage, 8000 Nabeul, Tunisia",
+        "address_line1": "Plage Loued",
+        "address_line2": "Chemin de la Plage, 8000 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plage Loued",
+            "osm_id": 6204352758,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e27db0e7c6732540597bbdc3c25a384240f00103f901f6e8ce710100000092030b506c616765204c6f756564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7261269,
+          36.44026979978204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidi Slimane",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "نيابوليس",
+        "state_district": "معتمدية نابل",
+        "postcode": "8000",
+        "district": "Oued Souhil",
+        "street": "شارع محمد الخامس",
+        "iso3166_2": "TN-21",
+        "lon": 10.7296416,
+        "lat": 36.4401661,
+        "formatted": "Sidi Slimane, شارع محمد الخامس, 8000 Nabeul, Tunisia",
+        "address_line1": "Sidi Slimane",
+        "address_line2": "شارع محمد الخامس, 8000 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sidi Slimane",
+            "osm_id": 6204352759,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512b9a7395937525405991afdd5c57384240f00103f901f7e8ce710100000092030c5369646920536c696d616e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.729641599999999,
+          36.44016609978201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plage Jasmin",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "نيابوليس",
+        "state_district": "معتمدية نابل",
+        "postcode": "8000",
+        "district": "Sidi Mahrsi",
+        "street": "نهج بيلاروس",
+        "iso3166_2": "TN-21",
+        "lon": 10.7171798,
+        "lat": 36.43814,
+        "formatted": "Plage Jasmin, نهج بيلاروس, 8000 Nabeul, Tunisia",
+        "address_line1": "Plage Jasmin",
+        "address_line2": "نهج بيلاروس, 8000 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plage Jasmin",
+            "osm_id": 6204352760,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5121b4d430326f254059ec10b5f814384240f00103f901f8e8ce710100000092030c506c616765204a61736d696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.717179799999998,
+          36.43813999978178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Kong",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "منارة الحمامات",
+        "state_district": "معتمدية الحمامات",
+        "postcode": "8052",
+        "street": "الطريق الوطنية تونس - رأس جدير",
+        "iso3166_2": "TN-21",
+        "lon": 10.5345396,
+        "lat": 36.3680714,
+        "formatted": "King Kong, الطريق الوطنية تونس - رأس جدير, 8052 Nabeul, Tunisia",
+        "address_line1": "King Kong",
+        "address_line2": "الطريق الوطنية تونس - رأس جدير, 8052 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "King Kong",
+            "osm_id": 6234568213,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5176d5a82caf11254059ac4fb0f61c2f4240f00103f90115f69b73010000009203094b696e67204b6f6e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.534539599999999,
+          36.36807139977404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Elephants Carthage-Land",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "منارة الحمامات",
+        "state_district": "معتمدية الحمامات",
+        "postcode": "8052",
+        "street": "الطريق الوطنية تونس - رأس جدير",
+        "iso3166_2": "TN-21",
+        "lon": 10.5355097,
+        "lat": 36.3684609,
+        "formatted": "Les Elephants Carthage-Land, الطريق الوطنية تونس - رأس جدير, 8052 Nabeul, Tunisia",
+        "address_line1": "Les Elephants Carthage-Land",
+        "address_line2": "الطريق الوطنية تونس - رأس جدير, 8052 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Les Elephants Carthage-Land",
+            "osm_id": 6234568255,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ac61d0532e1225405934310dba292f4240f00103f9013ff69b730100000092031b4c657320456c657068616e74732043617274686167652d4c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.535509699999999,
+          36.36846089977408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Проспект Хабиба Бургибы",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2058",
+        "district": "معتمدية باب بحر",
+        "suburb": "بحيرة تونس",
+        "street": "شارع الحبيب بورقيبة",
+        "iso3166_2": "TN-11",
+        "lon": 10.1877756,
+        "lat": 36.8003559,
+        "formatted": "Проспект Хабиба Бургибы, شارع الحبيب بورقيبة, 2058 Tunis, Tunisia",
+        "address_line1": "Проспект Хабиба Бургибы",
+        "address_line2": "شارع الحبيب بورقيبة, 2058 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Проспект Хабиба Бургибы",
+            "osm_id": 6473104885,
+            "name:ar": "شارع الحبيب بورقيبة",
+            "name:es": "Avenida Habib Burguiba",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "تونس"
+          }
+        },
+        "name_international": {
+          "ar": "شارع الحبيب بورقيبة",
+          "es": "Avenida Habib Burguiba"
+        },
+        "place_id": "513af9991f2460244059b573e70f72664240f00103f901f5bdd3810100000092032cd09fd180d0bed181d0bfd0b5d0bad18220d0a5d0b0d0b1d0b8d0b1d0b020d091d183d180d0b3d0b8d0b1d18b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.187775599999998,
+          36.80035589982382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barberous",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحمامات الشرقية",
+        "state_district": "معتمدية الحمامات",
+        "city": "Hammamet",
+        "postcode": "8050",
+        "street": "نهج الإمام سحنون",
+        "iso3166_2": "TN-21",
+        "lon": 10.6142829,
+        "lat": 36.3941172,
+        "formatted": "Barberous, نهج الإمام سحنون, 8050 Hammamet, Tunisia",
+        "address_line1": "Barberous",
+        "address_line2": "نهج الإمام سحنون, 8050 Hammamet, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Barberous",
+            "osm_id": 6657286088,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ecfbcb49833a2540599eeab16e72324240f00103f901c81fce8c010000009203094261726265726f7573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6142829,
+          36.394117199776915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مرسى سيدي بوسعيد",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "village": "Sidi Boussaid",
+        "postcode": "2026",
+        "district": "Carthage",
+        "street": "نهج الهادي زروق",
+        "iso3166_2": "TN-11",
+        "lon": 10.3491024,
+        "lat": 36.8697021,
+        "formatted": "مرسى سيدي بوسعيد, نهج الهادي زروق, 2026 Tunis, Tunisia",
+        "address_line1": "مرسى سيدي بوسعيد",
+        "address_line2": "نهج الهادي زروق, 2026 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مرسى سيدي بوسعيد",
+            "osm_id": 6665825098,
+            "name:ar": "مرسى سيدي بوسعيد",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مرسى سيدي بوسعيد"
+        },
+        "place_id": "5103e9bd8cbdb22440595d05fe65526f4240f00103f9014a6b508d0100000092031ed985d8b1d8b3d98920d8b3d98ad8afd98a20d8a8d988d8b3d8b9d98ad8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349102399999998,
+          36.86970209983222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Private Beach - La Badira",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحمامات الجوفية",
+        "state_district": "معتمدية الحمامات",
+        "postcode": "8050",
+        "street": "شارع الهادي نويرة",
+        "iso3166_2": "TN-21",
+        "lon": 10.6495988,
+        "lat": 36.4035184,
+        "formatted": "Private Beach - La Badira, شارع الهادي نويرة, 8050 Nabeul, Tunisia",
+        "address_line1": "Private Beach - La Badira",
+        "address_line2": "شارع الهادي نويرة, 8050 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Private Beach - La Badira",
+            "osm_id": 6743810665,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ab0ac336984c254059b630ad7da6334240f00103f9016962f6910100000092031950726976617465204265616368202d204c6120426164697261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.649598799999998,
+          36.40351839977795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2008",
+        "district": "معتمدية المدينة",
+        "suburb": "Medina of Tunis",
+        "street": "سوق العطارين",
+        "iso3166_2": "TN-11",
+        "lon": 10.1714884,
+        "lat": 36.7978029,
+        "formatted": "سوق العطارين, 2008 Tunis, Tunisia",
+        "address_line1": "سوق العطارين",
+        "address_line2": "2008 Tunis, Tunisia",
+        "name": "سوق العطارين",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سوق العطارين",
+            "osm_id": 6769599587,
+            "name:ar": "سوق العطارين",
+            "name:ky": "Сук эль аттарин",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "تونس"
+          }
+        },
+        "name_international": {
+          "ar": "سوق العطارين",
+          "ky": "Сук эль аттарин"
+        },
+        "place_id": "516749db53cd57244059b0b2c9671e664240f00103f90163e47f9301000000920317d8b3d988d98220d8a7d984d8b9d8b7d8a7d8b1d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1714884,
+          36.79780289982352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "القصيبة",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "المؤتمر",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "street": "نهج سيدي هني",
+        "iso3166_2": "TN-23",
+        "lon": 9.8753181,
+        "lat": 37.2788576,
+        "formatted": "Kessiba, نهج سيدي هني, 7000 Bizerte, Tunisia",
+        "address_line1": "Kessiba",
+        "address_line2": "نهج سيدي هني, 7000 Bizerte, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "القصيبة",
+            "osm_id": 6864053787,
+            "name:ar": "القصيبة",
+            "name:en": "Kessiba",
+            "name:fr": "Kessiba",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "القصيبة",
+          "en": "Kessiba",
+          "fr": "Kessiba"
+        },
+        "place_id": "519731aab129c023405905df179bb1a34240f00103f9011b2621990100000092030ed8a7d984d982d8b5d98ad8a8d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8753181,
+          37.278857599883885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vieux-Port",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "المؤتمر",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "street": "نهج ساسي البحري",
+        "iso3166_2": "TN-23",
+        "lon": 9.8752989,
+        "lat": 37.2767924,
+        "formatted": "Old Port, نهج ساسي البحري, 7000 Bizerte, Tunisia",
+        "address_line1": "Old Port",
+        "address_line2": "نهج ساسي البحري, 7000 Bizerte, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vieux-Port",
+            "osm_id": 6864108385,
+            "name:en": "Old Port",
+            "name:fr": "Vieux-Port",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Old Port",
+          "fr": "Vieux-Port"
+        },
+        "place_id": "5116736b2d27c02340590aa4f0ee6da34240f00103f90161fb21990100000092030a56696575782d506f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8752989,
+          37.27679239988363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa del Criptoportico",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج بيرصة",
+        "street": "نهج طلعة أوديون",
+        "iso3166_2": "TN-11",
+        "lon": 10.3313955,
+        "lat": 36.8573189,
+        "formatted": "Casa del Criptoportico, نهج طلعة أوديون, 2016 Tunis, Tunisia",
+        "address_line1": "Casa del Criptoportico",
+        "address_line2": "نهج طلعة أوديون, 2016 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa del Criptoportico",
+            "osm_id": 7124580968,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514815c5abaca924405902822ea0bc6d4240f00103f901687aa8a801000000920316436173612064656c2043726970746f706f727469636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3313955,
+          36.85731889983073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مصحة الياسمين",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2035",
+        "district": "معتمدية حي الخضراء",
+        "suburb": "الشرقية",
+        "industrial": "المنطقة الصناعية الشرقية 1",
+        "street": "نهج الطاقة",
+        "iso3166_2": "TN-11",
+        "lon": 10.2032244,
+        "lat": 36.8486541,
+        "formatted": "مصحة الياسمين, نهج الطاقة, 2035 Tunis, Tunisia",
+        "address_line1": "مصحة الياسمين",
+        "address_line2": "نهج الطاقة, 2035 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مصحة الياسمين",
+            "osm_id": 9757445917,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51997f4f070d682440593d3192b2a06c4240f00103f9011dcf964502000000920319d985d8b5d8add8a920d8a7d984d98ad8a7d8b3d985d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.203224399999998,
+          36.84865409982965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sadika",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1120",
+        "district": "Al Marsa",
+        "suburb": "المرسى الشاطئ",
+        "street": "نهج السنديان",
+        "iso3166_2": "TN-11",
+        "lon": 10.2847411,
+        "lat": 36.921058,
+        "formatted": "Sadika, نهج السنديان, 1120 Tunis, Tunisia",
+        "address_line1": "Sadika",
+        "address_line2": "نهج السنديان, 1120 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sadika",
+            "osm_id": 10901634405,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5175a7e095c9912440594883813ae5754240f00103f90165bdc98902000000920306536164696b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2847411,
+          36.921057999838524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بن علي للرخام",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "county": "المغيرة",
+        "state_district": "معتمدية فوشانة",
+        "city": "Tunis",
+        "postcode": "2082",
+        "district": "معتمدية سيدي حسين",
+        "suburb": "عطار",
+        "street": "الطريق الجهوية الزهراء - السيجومي",
+        "housenumber": "57",
+        "iso3166_2": "TN-11",
+        "lon": 10.1143722,
+        "lat": 36.7650014,
+        "formatted": "بن علي للرخام, 57 الطريق الجهوية الزهراء - السيجومي, 2082 Tunis, Tunisia",
+        "address_line1": "بن علي للرخام",
+        "address_line2": "57 الطريق الجهوية الزهراء - السيجومي, 2082 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بن علي للرخام",
+            "osm_id": 11037730030,
+            "tourism": "artwork",
+            "material": "marble",
+            "osm_type": "n",
+            "artist_name": "ben ali",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artist_name": "ben ali",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51a42435fe8e3a24405946cfdc90eb614240f00103f901ee64e69102000000920318d8a8d98620d8b9d984d98a20d984d984d8b1d8aed8a7d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.114372199999998,
+          36.76500139981958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "marberie",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1095",
+        "district": "معتمدية سيدي حسين",
+        "suburb": "سيدي حسين",
+        "street": "نهج ألمانيا",
+        "iso3166_2": "TN-11",
+        "lon": 10.1159547,
+        "lat": 36.7736393,
+        "formatted": "marberie, نهج ألمانيا, 1095 Tunis, Tunisia",
+        "address_line1": "marberie",
+        "address_line2": "نهج ألمانيا, 1095 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "marberie",
+            "osm_id": 11118893579,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "518ea2186a5e3b244059a1d0d19c06634240f00103f9010bdabc96020000009203086d61726265726965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1159547,
+          36.77363929982062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entrance to Medina",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "المؤتمر",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "street": "نهج ساسي البحري",
+        "iso3166_2": "TN-23",
+        "lon": 9.8747342,
+        "lat": 37.2785648,
+        "formatted": "Entrance to Medina, نهج ساسي البحري, 7000 Bizerte, Tunisia",
+        "address_line1": "Entrance to Medina",
+        "address_line2": "نهج ساسي البحري, 7000 Bizerte, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Entrance to Medina",
+            "osm_id": 12250161501,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ac623b29ddbf234059b2a8e802a8a34240f00103f9015da12ada02000000920312456e7472616e636520746f204d6564696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.874734199999999,
+          37.27856479988385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شارع خالد بن وليد",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ariana",
+        "county": "سكرة",
+        "state_district": "معتمدية سكرة",
+        "city": "El Aouina",
+        "postcode": "2045",
+        "district": "الكرم",
+        "suburb": "سيدي فرج",
+        "street": "شارع خالد بن الوليد",
+        "iso3166_2": "TN-12",
+        "lon": 10.2856611,
+        "lat": 36.8659921,
+        "formatted": "شارع خالد بن وليد, شارع خالد بن الوليد, 2045 El Aouina, Tunisia",
+        "address_line1": "شارع خالد بن وليد",
+        "address_line2": "شارع خالد بن الوليد, 2045 El Aouina, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شارع خالد بن وليد",
+            "osm_id": 12395797902,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51917af42b429224405998af41d4d86e4240f00103f9018eddd8e20200000092031fd8b4d8a7d8b1d8b920d8aed8a7d984d8af20d8a8d98620d988d984d98ad8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2856611,
+          36.86599209983177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cap Carthage",
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "village": "Sidi Boussaid",
+        "postcode": "2026",
+        "district": "Carthage",
+        "iso3166_2": "TN-11",
+        "lon": 10.3525676,
+        "lat": 36.8698456,
+        "formatted": "Cap Carthage, 2026 Tunis, Tunisia",
+        "address_line1": "Cap Carthage",
+        "address_line2": "2026 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 330192246,
+            "name:en": "Cap Carthage",
+            "name:fr": "Cap Carthage",
+            "natural": "cape",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "description": "Cap Carthage is a cape in Tunisia. Cap Carthage is situated east of Amilcar, close to La Villa Bleue Hotel & Spa."
+          }
+        },
+        "description": "Cap Carthage is a cape in Tunisia. Cap Carthage is situated east of Amilcar, close to La Villa Bleue Hotel & Spa.",
+        "name_international": {
+          "en": "Cap Carthage",
+          "fr": "Cap Carthage"
+        },
+        "place_id": "5127428fbd83b4244059acecc119576f4240f00103f9017655ae1300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.352567599999999,
+          36.869845599832246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "أحواز ماطر",
+        "state_district": "معتمدية ماطر",
+        "city": "Matir",
+        "postcode": "7030",
+        "street": "الطريق الوطنية بنزرت - ببوش",
+        "iso3166_2": "TN-23",
+        "lon": 9.6857589,
+        "lat": 37.1383523,
+        "formatted": "الطريق الوطنية بنزرت - ببوش, 7030 Matir, Tunisia",
+        "address_line1": "الطريق الوطنية بنزرت - ببوش",
+        "address_line2": "7030 Matir, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 330208320,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c2e160ca1b5f234059fd9f3587b5914240f00103f9014094ae1300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6857589,
+          37.13835229986578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الهوارية الشمالية",
+        "state_district": "معتمدية الهوارية",
+        "city": "El Haouaria",
+        "postcode": "8045",
+        "street": "شارع علي البلهوان",
+        "iso3166_2": "TN-21",
+        "lon": 11.0221086,
+        "lat": 37.0537694,
+        "formatted": "شارع علي البلهوان, 8045 El Haouaria, Tunisia",
+        "address_line1": "شارع علي البلهوان",
+        "address_line2": "8045 El Haouaria, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 330533674,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b2eb83d1510b26405994f36aeae1864240f00103f9012a8bb31300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0221086,
+          37.05376939985504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2016",
+        "district": "Carthage",
+        "suburb": "قرطاج الشاطئ",
+        "street": "حمامات أنطونيس",
+        "iso3166_2": "TN-11",
+        "lon": 10.335228767535213,
+        "lat": 36.85454335,
+        "formatted": "حمامات أنطونيس, 2016 Tunis, Tunisia",
+        "address_line1": "حمامات أنطونيس",
+        "address_line2": "2016 Tunis, Tunisia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "height": 15,
+            "osm_id": 659034149,
+            "barrier": "wall",
+            "tourism": "attraction",
+            "building": "basilica",
+            "material": "stone",
+            "osm_type": "w",
+            "historic:civilization": "ancient_roman"
+          }
+        },
+        "building": {
+          "type": "basilica",
+          "material": "stone",
+          "height": 15
+        },
+        "place_id": "51f87be21aa3ab24405994442ead616d4240f00102f9012510482700000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.335228767535213,
+          36.85454334983038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "village": "Sidi Boussaid",
+        "postcode": "2026",
+        "district": "Carthage",
+        "street": "Rue Sidi Boutaraa",
+        "iso3166_2": "TN-11",
+        "lon": 10.3492618,
+        "lat": 36.8721363,
+        "formatted": "Rue Sidi Boutaraa, 2026 Tunis, Tunisia",
+        "address_line1": "Rue Sidi Boutaraa",
+        "address_line2": "2026 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1027976635,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f47b5171d2b2244059b3b78a29a26f4240f00103f901bbad453d00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3492618,
+          36.872136299832526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2070",
+        "district": "Al Marsa",
+        "suburb": "Marsa Corniche",
+        "street": "نهج أمريكا",
+        "iso3166_2": "TN-11",
+        "lon": 10.3415063,
+        "lat": 36.8813802,
+        "formatted": "نهج أمريكا, 2070 Tunis, Tunisia",
+        "address_line1": "نهج أمريكا",
+        "address_line2": "2070 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1044125645,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5185c1ebe9d9ae24405952d0fe10d1704240f00103f901cd173c3e00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3415063,
+          36.88138019983366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "الزعرور",
+        "state_district": "معتمدية تينجة",
+        "city": "Zaarour",
+        "street": "الطريق الوطنية بنزرت - ببوش",
+        "iso3166_2": "TN-23",
+        "lon": 9.696994,
+        "lat": 37.1424269,
+        "formatted": "الطريق الوطنية بنزرت - ببوش, Zaarour, Tunisia",
+        "address_line1": "الطريق الوطنية بنزرت - ببوش",
+        "address_line2": "Zaarour, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1201922057,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513604c765dc64234059887f6e0b3b924240f00103f90109e0a34700000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.696994,
+          37.14242689986628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "أحواز ماطر",
+        "state_district": "معتمدية ماطر",
+        "city": "Matir",
+        "postcode": "7030",
+        "street": "الطريق الوطنية بنزرت - ببوش",
+        "iso3166_2": "TN-23",
+        "lon": 9.6923758,
+        "lat": 37.1382075,
+        "formatted": "الطريق الوطنية بنزرت - ببوش, 7030 Matir, Tunisia",
+        "address_line1": "الطريق الوطنية بنزرت - ببوش",
+        "address_line2": "7030 Matir, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1201923052,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516c15b3147f622340591ffe89c8b0914240f00103f901ece3a34700000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6923758,
+          37.13820749986575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "جبل طريف",
+        "state_district": "معتمدية قرمبالية",
+        "city": "El Glim",
+        "street": "RL573",
+        "iso3166_2": "TN-21",
+        "lon": 10.4727971,
+        "lat": 36.5098955,
+        "formatted": "RL573, El Glim, Tunisia",
+        "address_line1": "RL573",
+        "address_line2": "El Glim, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1209975068,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518a49247612f2244059cffc774144414240f00103f9011cc11e4800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.472797099999998,
+          36.50989549978987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1082",
+        "district": "معتمدية المنزه",
+        "neighbourhood": "Hay Al Mihrajan",
+        "suburb": "جوان 01",
+        "street": "ممر القبة",
+        "iso3166_2": "TN-11",
+        "lon": 10.1717679,
+        "lat": 36.8224097,
+        "formatted": "ممر القبة, 1082 Tunis, Tunisia",
+        "address_line1": "ممر القبة",
+        "address_line2": "1082 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1217747288,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51540152f6f1572440597e5596b844694240f00103f9015859954800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.171767899999999,
+          36.82240969982648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحمامات الجوفية",
+        "state_district": "معتمدية الحمامات",
+        "postcode": "8050",
+        "district": "Hammamet Intérieure",
+        "street": "RR130",
+        "iso3166_2": "TN-21",
+        "lon": 10.6193816,
+        "lat": 36.42147,
+        "formatted": "RR130, 8050 Nabeul, Tunisia",
+        "address_line1": "RR130",
+        "address_line2": "8050 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1364994661,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51017dc7951f3d25405965a69cbaf2354240f00103f901652a5c5100000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.619381599999999,
+          36.42146999977994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحمامات الجوفية",
+        "state_district": "معتمدية الحمامات",
+        "postcode": "8050",
+        "district": "Hammamet Intérieure",
+        "street": "RR130",
+        "iso3166_2": "TN-21",
+        "lon": 10.6197599,
+        "lat": 36.4220631,
+        "formatted": "RR130, 8050 Nabeul, Tunisia",
+        "address_line1": "RR130",
+        "address_line2": "8050 Nabeul, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1364994844,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5195be6b2b513d254059a633e52906364240f00103f9011c2b5c5100000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6197599,
+          36.422063099780004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "عين مريم",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "street": "طريق الناظور",
+        "iso3166_2": "TN-23",
+        "lon": 9.8138107,
+        "lat": 37.3277431,
+        "formatted": "طريق الناظور, 7000 Bizerte, Tunisia",
+        "address_line1": "طريق الناظور",
+        "address_line2": "7000 Bizerte, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1514316186,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510c45cbcbaba02340595bc2637cf3a94240f00103f9019aa1425a00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.813810699999998,
+          37.32774309989028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Bizerte",
+        "county": "عين مريم",
+        "state_district": "معتمدية بنزرت الشمالية",
+        "postcode": "7000",
+        "street": "طريق الناظور",
+        "iso3166_2": "TN-23",
+        "lon": 9.8159193,
+        "lat": 37.3306421,
+        "formatted": "طريق الناظور, 7000 Bizerte, Tunisia",
+        "address_line1": "طريق الناظور",
+        "address_line2": "7000 Bizerte, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1514316425,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b559ab2cc0a123405907dbf67a52aa4240f00103f90189a2425a00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8159193,
+          37.33064209989066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ben Arous",
+        "county": "القنة",
+        "state_district": "معتمدية مرناق",
+        "city": "Ain Safsaf",
+        "postcode": "1100",
+        "street": "RR36",
+        "iso3166_2": "TN-13",
+        "lon": 10.163171,
+        "lat": 36.569591,
+        "formatted": "RR36, 1100 Ain Safsaf, Tunisia",
+        "address_line1": "RR36",
+        "address_line2": "1100 Ain Safsaf, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1689427763,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ad4f39268b53244059801c9e5be8484240f00103f901339fb26400000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.163171,
+          36.569590999796674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "سيدي الجديدي",
+        "state_district": "معتمدية الحمامات",
+        "city": "Sidi Jadidi",
+        "street": "الطريق الجهوية مجاز الباب - نابل",
+        "iso3166_2": "TN-21",
+        "lon": 10.4298241,
+        "lat": 36.3864541,
+        "formatted": "الطريق الجهوية مجاز الباب - نابل, Sidi Jadidi, Tunisia",
+        "address_line1": "الطريق الجهوية مجاز الباب - نابل",
+        "address_line2": "Sidi Jadidi, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1711998458,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b51089e711dc244059bff8f35377314240f00103f901fa050b6600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4298241,
+          36.38645409977607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "سيدي الجديدي",
+        "state_district": "معتمدية الحمامات",
+        "city": "Sidi Jadidi",
+        "street": "الطريق الجهوية مجاز الباب - نابل",
+        "iso3166_2": "TN-21",
+        "lon": 10.3962866,
+        "lat": 36.3890754,
+        "formatted": "الطريق الجهوية مجاز الباب - نابل, Sidi Jadidi, Tunisia",
+        "address_line1": "الطريق الجهوية مجاز الباب - نابل",
+        "address_line2": "Sidi Jadidi, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1712499944,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a2afc513e6ca244059d9db0239cd314240f00103f901e8ac126600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3962866,
+          36.38907539977635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "2066",
+        "district": "الكبارية",
+        "suburb": "ابن سينا 2",
+        "street": "الطريق الوطنية تونس - حزوة",
+        "iso3166_2": "TN-11",
+        "lon": 10.1908673,
+        "lat": 36.7429812,
+        "formatted": "الطريق الوطنية تونس - حزوة, 2066 Tunis, Tunisia",
+        "address_line1": "الطريق الوطنية تونس - حزوة",
+        "address_line2": "2066 Tunis, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1842111632,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516cc0d65bb961244059db6009021a5f4240f00103f9019064cc6d00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1908673,
+          36.74298119981696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Tunis",
+        "city": "Tunis",
+        "postcode": "1020",
+        "district": "معتمدية المدينة",
+        "suburb": "Bab Jedid",
+        "iso3166_2": "TN-11",
+        "lon": 10.1667859,
+        "lat": 36.797693,
+        "formatted": "1020 Tunis, Tunisia",
+        "address_line1": "1020 Tunis",
+        "address_line2": "Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1856769462,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512bde23f66455244059bb3ee1cd1a664240f00103f901b60dac6e00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.166785899999999,
+          36.797692999823504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Ben Arous",
+        "county": "حمام الانف المدينة",
+        "state_district": "معتمدية حمام الأنف",
+        "city": "Hammam-Lif",
+        "postcode": "2093",
+        "street": "الطريق الوطنية تونس - رأس جدير",
+        "iso3166_2": "TN-13",
+        "lon": 10.3305557,
+        "lat": 36.7217278,
+        "formatted": "الطريق الوطنية تونس - رأس جدير, 2093 Hammam-Lif, Tunisia",
+        "address_line1": "الطريق الوطنية تونس - رأس جدير",
+        "address_line2": "2093 Hammam-Lif, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2504167266,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514503c2983ea924405993689893615c4240f00103f901628f429500000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3305557,
+          36.721727799814424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحمامات الشرقية",
+        "state_district": "معتمدية الحمامات",
+        "city": "Hammamet",
+        "postcode": "8050",
+        "street": "Rue Sidi Bouhdid",
+        "iso3166_2": "TN-21",
+        "lon": 10.6125423,
+        "lat": 36.3944648,
+        "formatted": "Rue Sidi Bouhdid, 8050 Hammamet, Tunisia",
+        "address_line1": "Rue Sidi Bouhdid",
+        "address_line2": "8050 Hammamet, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2526104213,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514ed5f3249f392540598b3b93d27d324240f00103f901954a919600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.612542299999998,
+          36.39446479977695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Tunisia",
+        "country_code": "tn",
+        "state": "Nabeul",
+        "county": "الحمامات الشرقية",
+        "state_district": "معتمدية الحمامات",
+        "city": "Hammamet",
+        "postcode": "8050",
+        "street": "نهج الإمام سحنون",
+        "iso3166_2": "TN-21",
+        "lon": 10.6146842,
+        "lat": 36.3936926,
+        "formatted": "نهج الإمام سحنون, 8050 Hammamet, Tunisia",
+        "address_line1": "نهج الإمام سحنون",
+        "address_line2": "8050 Hammamet, Tunisia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2526104215,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5160bc30e3b73a254059025ce48464324240f00103f901974a919600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6146842,
+          36.393692599776855
+        ]
+      }
+    }
+  ]
+}

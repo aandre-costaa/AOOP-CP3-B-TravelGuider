@@ -1,0 +1,5319 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Grande Poste d'Alger",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Sidi M'Hamed District",
+        "city": "Algiers",
+        "town": "Alger-Centre",
+        "postcode": "16000",
+        "suburb": "Agha",
+        "street": "Boulevard Mustapha Benboulaid",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0594457272179625,
+        "lat": 36.7731054,
+        "formatted": "Post office, Boulevard Mustapha Benboulaid, 16000 Algiers, Algeria",
+        "address_line1": "Post office",
+        "address_line2": "Boulevard Mustapha Benboulaid, 16000 Algiers, Algeria",
+        "categories": [
+          "building",
+          "building.facility",
+          "building.public_and_civil",
+          "building.tourism",
+          "service",
+          "service.post",
+          "service.post.office",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Grande Poste d'Alger",
+            "brand": "بريد الجزائر",
+            "email": "clientalgerieposte@poste.dz",
+            "phone": "+21323923200",
+            "osm_id": -415866,
+            "amenity": "post_office",
+            "name:ar": "البريد المركزي الجزائر",
+            "name:en": "Post office",
+            "name:fr": "La Grande Poste d'Alger",
+            "tourism": "attraction",
+            "website": "https://www.poste.dz",
+            "brand:ar": "بريد الجزائر",
+            "building": "public",
+            "operator": "Algérie Poste",
+            "osm_type": "r",
+            "wikidata": "Q3115007",
+            "addr:city": "Alger",
+            "wikipedia": "fr:Algérie Poste",
+            "addr:street": "Boulevard Mustapha Benboulaid",
+            "brand:email": "clientalgerieposte@poste.dz",
+            "description": "bureau de poste",
+            "language:ar": "main",
+            "operator:ar": "بريد الجزائر",
+            "operator:fr": "Algérie Poste",
+            "currency:DZA": "yes",
+            "addr:postcode": 16000,
+            "brand:website": "https://www.poste.dz/lang/ar",
+            "opening_hours": "08:30-12:30,13:30-16:30",
+            "brand:wikidata": "Q2836029",
+            "brand:wikipedia": "ar:بريد الجزائر",
+            "operator:website": "https://www.poste.dz/",
+            "operator:wikidata": "Q2836029",
+            "brand:wikipedia:ar": "بريد الجزائر",
+            "operator:wikipedia": "ar:بريد الجزائر",
+            "operator:wikipedia:ar": "بريد الجزائر"
+          }
+        },
+        "website": "https://www.poste.dz",
+        "opening_hours": "08:30-12:30,13:30-16:30",
+        "brand": "بريد الجزائر",
+        "brand_details": {
+          "wikidata": "Q2836029",
+          "wikipedia": "ar:بريد الجزائر",
+          "website": "https://www.poste.dz/lang/ar"
+        },
+        "operator": "Algérie Poste",
+        "operator_details": {
+          "wikidata": "Q2836029",
+          "wikipedia": "ar:بريد الجزائر",
+          "website": "https://www.poste.dz/"
+        },
+        "description": "bureau de poste",
+        "name_international": {
+          "ar": "البريد المركزي الجزائر",
+          "en": "Post office",
+          "fr": "La Grande Poste d'Alger"
+        },
+        "contact": {
+          "phone": "+21323923200",
+          "email": "clientalgerieposte@poste.dz"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3115007",
+          "wikipedia": "fr:Algérie Poste"
+        },
+        "building": {
+          "type": "public"
+        },
+        "place_id": "51fd4d72aebe790840598e4b241ef5624240f00101f9017a580600000000009203174c61204772616e646520506f737465206427416c676572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.059445727217961,
+          36.77310539982055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mausolée Royal de Maurétanie الضريح الملكي الموريطاني",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Tipaza",
+        "county": "Ahmer El Ain District",
+        "city": "Sidi Rached",
+        "postcode": "42250",
+        "street": "Route du Mausolée",
+        "iso3166_2": "DZ-42",
+        "lon": 2.552793517730477,
+        "lat": 36.574956400000005,
+        "formatted": "Royal Mausoleum of Mauretania, Route du Mausolée, 42250 Sidi Rached, Algeria",
+        "address_line1": "Royal Mausoleum of Mauretania",
+        "address_line2": "Route du Mausolée, 42250 Sidi Rached, Algeria",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "no_access",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tomb"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mausolée Royal de Maurétanie الضريح الملكي الموريطاني",
+            "tomb": "mausoleum",
+            "access": "no",
+            "osm_id": 243563008,
+            "name:ar": "الضريح الملكي الموريطاني",
+            "name:en": "Royal Mausoleum of Mauretania",
+            "name:fr": "Mausolée Royal de Maurétanie",
+            "tourism": "attraction",
+            "building": "ruins",
+            "historic": "tomb",
+            "osm_type": "w",
+            "wikidata": "Q3301866",
+            "addr:city": "Sidi Rached",
+            "wikipedia": "fr:Mausolée royal de Maurétanie",
+            "addr:street": "Route de la mausolée",
+            "addr:postcode": 42250,
+            "wikimedia_commons": "Category:Royal Mausoleum of Mauretania"
+          }
+        },
+        "name_international": {
+          "ar": "الضريح الملكي الموريطاني",
+          "en": "Royal Mausoleum of Mauretania",
+          "fr": "Mausolée Royal de Maurétanie"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3301866",
+          "wikipedia": "fr:Mausolée royal de Maurétanie",
+          "wikimedia_commons": "Category:Royal Mausoleum of Mauretania"
+        },
+        "historic": {
+          "type": "tomb"
+        },
+        "restrictions": {
+          "access": "private"
+        },
+        "building": {
+          "type": "ruins"
+        },
+        "place_id": "51dabe00021f6c044059aae0da2b98494240f00102f901007a840e0000000092034d4d6175736f6cc3a96520526f79616c206465204d617572c3a974616e696520d8a7d984d8b6d8b1d98ad8ad20d8a7d984d985d984d983d98a20d8a7d984d985d988d8b1d98ad8b7d8a7d986d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5527935177304757,
+          36.57495639979727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Théâtre Romain",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Tipaza",
+        "county": "Tipaza District",
+        "city": "Tipaza",
+        "postcode": "42000",
+        "district": "317 Housing Neighbourhood",
+        "suburb": "Cité 40 Logements",
+        "street": "Rue du 1er Novembre",
+        "iso3166_2": "DZ-42",
+        "lon": 2.441664969754604,
+        "lat": 36.592684500000004,
+        "formatted": "Roman Theatre, Rue du 1er Novembre, 42000 Tipaza, Algeria",
+        "address_line1": "Roman Theatre",
+        "address_line2": "Rue du 1er Novembre, 42000 Tipaza, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Théâtre Romain",
+            "osm_id": 266408727,
+            "name:de": "Römisches Theater",
+            "name:en": "Roman Theatre",
+            "name:fr": "Théâtre Romain",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikidata": "Q129992260",
+            "historic:civilization": "ancient_roman"
+          }
+        },
+        "name_international": {
+          "de": "Römisches Theater",
+          "en": "Roman Theatre",
+          "fr": "Théâtre Romain"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q129992260"
+        },
+        "historic": {
+          "type": "ruins",
+          "civilization": "ancient_roman"
+        },
+        "place_id": "513014c7a48788034059fcbdef15dd4b4240f00102f9011713e10f000000009203105468c3a9c3a274726520526f6d61696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.441664969754605,
+          36.59268449979933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amphithéâtre Romain",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Tipaza",
+        "county": "Tipaza District",
+        "city": "Tipaza",
+        "postcode": "42000",
+        "district": "317 Housing Neighbourhood",
+        "suburb": "Cité 40 Logements",
+        "street": "Rue du 1er Novembre",
+        "iso3166_2": "DZ-42",
+        "lon": 2.4455089481671664,
+        "lat": 36.59314705,
+        "formatted": "Amphithéâtre Romain, Rue du 1er Novembre, 42000 Tipaza, Algeria",
+        "address_line1": "Amphithéâtre Romain",
+        "address_line2": "Rue du 1er Novembre, 42000 Tipaza, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Amphithéâtre Romain",
+            "osm_id": 266408729,
+            "name:fr": "Amphithéâtre Romain",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikidata": "Q28969520",
+            "wikimedia_commons": "Category:Amphitheatre (Tipaza)"
+          }
+        },
+        "name_international": {
+          "fr": "Amphithéâtre Romain"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q28969520",
+          "wikimedia_commons": "Category:Amphitheatre (Tipaza)"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5173a0d3fe6690034059ba4d163eec4b4240f00102f9011913e10f00000000920315416d7068697468c3a9c3a274726520526f6d61696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4455089481671677,
+          36.593147049799384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Abdelatif",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Hussein Dey District",
+        "city": "Belouizdad",
+        "postcode": "16015",
+        "street": "Rue Docteur Laveran",
+        "iso3166_2": "DZ-16",
+        "lon": 3.073095349708757,
+        "lat": 36.74480775,
+        "formatted": "Villa Abdelatif, Rue Docteur Laveran, 16015 Belouizdad, Algeria",
+        "address_line1": "Villa Abdelatif",
+        "address_line2": "Rue Docteur Laveran, 16015 Belouizdad, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Villa Abdelatif",
+            "osm_id": 273321488,
+            "name:ar": "دار عبد اللطيف",
+            "name:fr": "Villa Abdelatif",
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "w",
+            "wikidata": "Q3558439",
+            "wikipedia": "fr:Villa Abd-el-Tif",
+            "castle_type": "palace",
+            "wikimedia_commons": "Category:Villa Abd-el-Tif"
+          }
+        },
+        "name_international": {
+          "ar": "دار عبد اللطيف",
+          "fr": "Villa Abdelatif"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3558439",
+          "wikipedia": "fr:Villa Abd-el-Tif",
+          "wikimedia_commons": "Category:Villa Abd-el-Tif"
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "palace"
+        },
+        "place_id": "510ee9c303b395084059d4a23fdc555f4240f00102f901108e4a100000000092030f56696c6c6120416264656c61746966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0730953497087574,
+          36.74480774981717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mémorial du martyr",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Sidi M'Hamed District",
+        "city": "El Madania",
+        "postcode": "16015",
+        "street": "Chemin Kechkar Omar",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0697318964783715,
+        "lat": 36.7457117,
+        "formatted": "Martyrs Memorial, Chemin Kechkar Omar, 16015 El Madania, Algeria",
+        "address_line1": "Martyrs Memorial",
+        "address_line2": "Chemin Kechkar Omar, 16015 El Madania, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mémorial du martyr",
+            "osm_id": 370342095,
+            "name:ar": "مقام الشهيد",
+            "name:en": "Martyrs Memorial",
+            "name:fr": "Mémorial du martyr",
+            "tourism": "attraction",
+            "historic": "memorial",
+            "memorial": "war_memorial",
+            "osm_type": "w",
+            "wikidata": "Q3056085",
+            "wikipedia": "fr:Mémorial du martyr (Alger)",
+            "start_date": 1982,
+            "wikimedia_commons": "Category:Martyrs' Memorial, Algiers"
+          }
+        },
+        "name_international": {
+          "ar": "مقام الشهيد",
+          "en": "Martyrs Memorial",
+          "fr": "Mémorial du martyr"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3056085",
+          "wikipedia": "fr:Mémorial du martyr (Alger)",
+          "wikimedia_commons": "Category:Martyrs' Memorial, Algiers"
+        },
+        "historic": {
+          "type": "memorial",
+          "start_date": 1982,
+          "memorial": "war_memorial"
+        },
+        "place_id": "51bbe6b698cf8e084059db7a217b735f4240f00102f901cff81216000000009203134dc3a96d6f7269616c206475206d6172747972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.069731896478371,
+          36.745711699817285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "رأس ماتيفو",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Dar el-Beida District",
+        "city": "Tamentfoust",
+        "postcode": "16115",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2236879,
+        "lat": 36.8115317,
+        "formatted": "Cap Matifou, 16115 Tamentfoust, Algeria",
+        "address_line1": "Cap Matifou",
+        "address_line2": "16115 Tamentfoust, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "رأس ماتيفو",
+            "place": "locality",
+            "osm_id": 5945202857,
+            "name:ar": "رأس ماتيفو",
+            "name:en": "Cap Matifou",
+            "name:fr": "Cap Matifou",
+            "natural": "cape",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q23803671",
+            "alt_name:ar": "برج البحري"
+          }
+        },
+        "name_international": {
+          "ar": "رأس ماتيفو",
+          "en": "Cap Matifou",
+          "fr": "Cap Matifou"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q23803671"
+        },
+        "place_id": "515b16b8e11cca0940594d354f45e0674240f00103f901a9985c6201000000920313d8b1d8a3d8b320d985d8a7d8aad98ad981d988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2236878999999994,
+          36.811531699825174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moustex",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Dar el-Beida District",
+        "city": "Dar El Beida",
+        "hamlet": "Cité les palmiers",
+        "postcode": "16311",
+        "district": "Moukhtari",
+        "street": "Rue de l'ALN",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2087558,
+        "lat": 36.7182679,
+        "formatted": "Moustex, Rue de l'ALN, 16311 Dar El Beida, Algeria",
+        "address_line1": "Moustex",
+        "address_line2": "Rue de l'ALN, 16311 Dar El Beida, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Moustex",
+            "phone": "0668619566",
+            "osm_id": 9098652717,
+            "name:ar": "موستاكس",
+            "name:fr": "Moustex",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Rue de l'ALN"
+          }
+        },
+        "name_international": {
+          "ar": "موستاكس",
+          "fr": "Moustex"
+        },
+        "contact": {
+          "phone": "0668619566"
+        },
+        "place_id": "5172cd2e2988ab094059e2bbd933f05b4240f00103f9012d6c521e020000009203074d6f7573746578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2087557999999996,
+          36.71826789981402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قصر الداي",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bab El Oued District",
+        "city": "Casbah",
+        "town": "Casbah ⵝⴰⵇⵚⴻⴲⵝ القصبة",
+        "postcode": "16011",
+        "suburb": "Soustara",
+        "street": "نهج طالب محمد",
+        "iso3166_2": "DZ-16",
+        "lon": 3.055111,
+        "lat": 36.7845463,
+        "formatted": "Palace of the Dey, نهج طالب محمد, 16011 Casbah, Algeria",
+        "address_line1": "Palace of the Dey",
+        "address_line2": "نهج طالب محمد, 16011 Casbah, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قصر الداي",
+            "osm_id": 11931096136,
+            "name:ar": "قصر الداي",
+            "name:en": "Palace of the Dey",
+            "name:fr": "Palais du Dey",
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "n",
+            "wikidata": "Q12232990",
+            "wikipedia": "ar:قصر الداي",
+            "castle_type": "palace",
+            "wikimedia_commons": "Category:Citadelle d'Alger"
+          }
+        },
+        "name_international": {
+          "ar": "قصر الداي",
+          "en": "Palace of the Dey",
+          "fr": "Palais du Dey"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q12232990",
+          "wikipedia": "ar:قصر الداي",
+          "wikimedia_commons": "Category:Citadelle d'Alger"
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "palace"
+        },
+        "place_id": "51e7323509de700840596cf75d036c644240f00103f901481426c702000000920311d982d8b5d8b120d8a7d984d8afd8a7d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0551109999999997,
+          36.784546299821926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 Ilots",
+        "country": "Algeria",
+        "country_code": "dz",
+        "city": "El Hamdania",
+        "lon": 2.2612045688737834,
+        "lat": 36.62852665,
+        "formatted": "3 Ilots, El Hamdania, Algeria",
+        "address_line1": "3 Ilots",
+        "address_line2": "El Hamdania, Algeria",
+        "categories": [
+          "island",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "3 Ilots",
+            "place": "islet",
+            "osm_id": 173004266,
+            "name:fr": "3 Ilots",
+            "natural": "coastline",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "fr": "3 Ilots"
+        },
+        "place_id": "518c07c76bf21602405903c9ae8f73504240f00102f901ead54f0a000000009203073320496c6f7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2612045688737847,
+          36.62852664980348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 Ilots",
+        "country": "Algeria",
+        "country_code": "dz",
+        "city": "El Hamdania",
+        "lon": 2.2592139065403414,
+        "lat": 36.6269144,
+        "formatted": "3 Ilots, El Hamdania, Algeria",
+        "address_line1": "3 Ilots",
+        "address_line2": "El Hamdania, Algeria",
+        "categories": [
+          "island",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "3 Ilots",
+            "place": "islet",
+            "osm_id": 173004269,
+            "name:fr": "3 Ilots",
+            "natural": "coastline",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "fr": "3 Ilots"
+        },
+        "place_id": "51be129abdde12024059f74526bb3e504240f00102f901edd54f0a000000009203073320496c6f7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.259213906540338,
+          36.62691439980329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volière des Aigles",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0192366898898153,
+        "lat": 36.73921415,
+        "formatted": "Volière des Aigles, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Volière des Aigles",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Volière des Aigles",
+            "osm_id": 248880485,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "5128aecf906527084059e419bb919e5e4240f00102f901659dd50e00000000920313566f6c69c3a8726520646573204169676c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.019236689889812,
+          36.73921414981649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Train fantome",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.023207742392524,
+        "lat": 36.7350092,
+        "formatted": "Train fantome, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Train fantome",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Train fantome",
+            "osm_id": 248974989,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "train"
+          }
+        },
+        "place_id": "5112b8748a872f08405904bc0dc8145e4240f00102f9018d0ed70e0000000092030d547261696e2066616e746f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0232077423925228,
+          36.735009199816005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auto-tamponeuses",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.023102248570542,
+        "lat": 36.73546505,
+        "formatted": "Auto-tamponeuses, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Auto-tamponeuses",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Auto-tamponeuses",
+            "osm_id": 248974991,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "bumper_car"
+          }
+        },
+        "place_id": "51a698503b502f084059ce2700b8235e4240f00102f9018f0ed70e000000009203104175746f2d74616d706f6e6575736573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0231022485705408,
+          36.73546504981606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manège",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.022227933810241,
+        "lat": 36.7330045,
+        "formatted": "Manège, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Manège",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Manège",
+            "osm_id": 248974994,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "carousel"
+          }
+        },
+        "place_id": "515c2ec6d6852d084059c8436917d35d4240f00102f901920ed70e000000009203074d616ec3a86765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0222279338102407,
+          36.73300449981576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La pieuvre géante",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.022014889336181,
+        "lat": 36.7350026,
+        "formatted": "La pieuvre géante, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "La pieuvre géante",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La pieuvre géante",
+            "osm_id": 248974995,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "amusement_ride"
+          }
+        },
+        "place_id": "51a9ca6d24162d084059a657b090145e4240f00102f901930ed70e000000009203124c6120706965757672652067c3a9616e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0220148893361807,
+          36.73500259981601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le bateau pirate",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Bir Mourad Rais",
+        "postcode": "16300",
+        "suburb": "Said Hamdine",
+        "street": "route de kadous",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0223967318869667,
+        "lat": 36.73258265,
+        "formatted": "Le bateau pirate, route de kadous, 16300 Bir Mourad Rais, Algeria",
+        "address_line1": "Le bateau pirate",
+        "address_line2": "route de kadous, 16300 Bir Mourad Rais, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Le bateau pirate",
+            "osm_id": 248974996,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "pirate_ship"
+          }
+        },
+        "place_id": "5134ef7756de2d084059aa49ad44c55d4240f00102f901940ed70e000000009203104c652062617465617520706972617465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.022396731886966,
+          36.73258264981571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La cafetière",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Bir Mourad Rais",
+        "postcode": "16300",
+        "suburb": "Said Hamdine",
+        "street": "route de kadous",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0226753670886075,
+        "lat": 36.7329902,
+        "formatted": "La cafetière, route de kadous, 16300 Bir Mourad Rais, Algeria",
+        "address_line1": "La cafetière",
+        "address_line2": "route de kadous, 16300 Bir Mourad Rais, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La cafetière",
+            "osm_id": 248974998,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "511a90406c702e084059a63f749fd25d4240f00102f901960ed70e0000000092030d4c6120636166657469c3a87265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.022675367088607,
+          36.732990199815774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manège",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0221380378819447,
+        "lat": 36.732804349999995,
+        "formatted": "Manège, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Manège",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Manège",
+            "osm_id": 248974999,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "carousel"
+          }
+        },
+        "place_id": "51be9a25b5562d084059a0696e88cc5d4240f00102f901970ed70e000000009203074d616ec3a86765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.022138037881944,
+          36.73280434981575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manège",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.022513772684529,
+        "lat": 36.733584449999995,
+        "formatted": "Manège, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Manège",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Manège",
+            "osm_id": 248975002,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51fa1d6bb31b2e08405916686218e65d4240f00102f9019a0ed70e000000009203074d616ec3a86765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0225137726845306,
+          36.73358444981584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mini-Karting",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.022526821846524,
+        "lat": 36.735584200000005,
+        "formatted": "Mini-Karting, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Mini-Karting",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "sport",
+          "sport.track",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mini-Karting",
+            "osm_id": 248975003,
+            "leisure": "track",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "karting"
+          }
+        },
+        "place_id": "51b9e8d88a222e0840590ad5809f275e4240f00102f9019b0ed70e0000000092030c4d696e692d4b617274696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.022526821846523,
+          36.735584199816074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Grande Roue",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0217664229845993,
+        "lat": 36.7347499,
+        "formatted": "La Grande Roue, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "La Grande Roue",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Grande Roue",
+            "osm_id": 261848776,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "big_wheel"
+          }
+        },
+        "place_id": "513af5d6df932c0840597639e3480c5e4240f00102f901c87e9b0f0000000092030e4c61204772616e646520526f7565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0217664229845953,
+          36.73474989981598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue de Bologhine Ibn Ziri",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bab El Oued District",
+        "city": "Casbah",
+        "town": "Casbah ⵝⴰⵇⵚⴻⴲⵝ القصبة",
+        "postcode": "16021",
+        "suburb": "Soustara",
+        "street": "Boulevard Haddad Abderezzak",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0561928,
+        "lat": 36.7856656,
+        "formatted": "Statue de Bologhine Ibn Ziri, Boulevard Haddad Abderezzak, 16021 Casbah, Algeria",
+        "address_line1": "Statue de Bologhine Ibn Ziri",
+        "address_line2": "Boulevard Haddad Abderezzak, 16021 Casbah, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statue de Bologhine Ibn Ziri",
+            "osm_id": 287515524,
+            "name:ar": "ثمثال بربروس",
+            "tourism": "artwork",
+            "historic": "monument",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "ar": "ثمثال بربروس"
+        },
+        "historic": {
+          "type": "monument",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51532af2351573084059fc69bcb090644240f00103f901842323110000000092031c53746174756520646520426f6c6f6768696e652049626e205a697269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0561927999999994,
+          36.78566559982207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manège",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Dar el-Beida District",
+        "city": "Al Muhammadiyya",
+        "village": "Pins Maritimes",
+        "hamlet": "The subdivision Mandariniers",
+        "postcode": "16058",
+        "street": "Rue Labbaci Abdellah",
+        "iso3166_2": "DZ-16",
+        "lon": 3.160435836141539,
+        "lat": 36.73644705,
+        "formatted": "Manège, Rue Labbaci Abdellah, 16058 Al Muhammadiyya, Algeria",
+        "address_line1": "Manège",
+        "address_line2": "Rue Labbaci Abdellah, 16058 Al Muhammadiyya, Algeria",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Manège",
+            "osm_id": 307618380,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "carousel"
+          }
+        },
+        "place_id": "51b1ac6a9592480940591c199de5435e4240f00102f9014ce25512000000009203074d616ec3a86765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1604358361415383,
+          36.73644704981618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Citadelle",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Blida",
+        "county": "Mouzaïa District",
+        "city": "Chiffa",
+        "village": "Sidi Madani",
+        "postcode": "09010",
+        "street": "RN 1",
+        "iso3166_2": "DZ-09",
+        "lon": 2.7565375805019303,
+        "lat": 36.42328775,
+        "formatted": "La Citadelle, RN 1, 09010 Chiffa, Algeria",
+        "address_line1": "La Citadelle",
+        "address_line2": "RN 1, 09010 Chiffa, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Citadelle",
+            "osm_id": 322690495,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "511c9b3393630d064059340d014b2e364240f00102f901bfdd3b130000000092030c4c61204369746164656c6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7565375805019254,
+          36.423287749780144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ساحة الصناعات التقليدية - الحمدانية",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Médéa",
+        "county": "Medea District",
+        "city": "Haouch Messaoudi",
+        "postcode": "26140",
+        "street": "RN 1",
+        "iso3166_2": "DZ-26",
+        "lon": 2.76886747358128,
+        "lat": 36.3424783,
+        "formatted": "ساحة الصناعات التقليدية - الحمدانية, RN 1, 26140 Haouch Messaoudi, Algeria",
+        "address_line1": "ساحة الصناعات التقليدية - الحمدانية",
+        "address_line2": "RN 1, 26140 Haouch Messaoudi, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ساحة الصناعات التقليدية - الحمدانية",
+            "osm_id": 322690520,
+            "name:ar": "ساحة الصناعات التقليدية - الحمدانية",
+            "name:fr": "Place de l'artisanat d'El Hamdania",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "El Hamdania",
+            "addr:street": "Route de Médéa"
+          }
+        },
+        "name_international": {
+          "ar": "ساحة الصناعات التقليدية - الحمدانية",
+          "fr": "Place de l'artisanat d'El Hamdania"
+        },
+        "place_id": "51feea6ffda326064059b88d3454d62b4240f00102f901d8dd3b1300000000920341d8b3d8a7d8add8a920d8a7d984d8b5d986d8a7d8b9d8a7d8aa20d8a7d984d8aad982d984d98ad8afd98ad8a9202d20d8a7d984d8add985d8afd8a7d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.76886747358128,
+          36.342478299771244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montagnes russes",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Dar el-Beida District",
+        "city": "Al Muhammadiyya",
+        "village": "Pins Maritimes",
+        "hamlet": "The subdivision Mandariniers",
+        "postcode": "16058",
+        "street": "Rue Labbaci Abdellah",
+        "iso3166_2": "DZ-16",
+        "lon": 3.1608601041761144,
+        "lat": 36.73629625,
+        "formatted": "Montagnes russes, Rue Labbaci Abdellah, 16058 Al Muhammadiyya, Algeria",
+        "address_line1": "Montagnes russes",
+        "address_line2": "Rue Labbaci Abdellah, 16058 Al Muhammadiyya, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Montagnes russes",
+            "osm_id": 359432765,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "roller_coaster"
+          }
+        },
+        "place_id": "512c57b50571490940595e909cf43e5e4240f00102f9013d826c15000000009203104d6f6e7461676e657320727573736573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1608601041761144,
+          36.736296249816164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El-Gorfa",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Boumerdes",
+        "county": "Dellys District",
+        "city": "Dellys",
+        "village": "Azrou",
+        "postcode": "35032",
+        "street": "CW 154",
+        "iso3166_2": "DZ-35",
+        "lon": 3.9379756936094887,
+        "lat": 36.85711555,
+        "formatted": "El-Gorfa, CW 154, 35032 Dellys, Algeria",
+        "address_line1": "El-Gorfa",
+        "address_line2": "CW 154, 35032 Dellys, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El-Gorfa",
+            "osm_id": 374300302,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5126f78366f9800f40593cb55bf6b56d4240f00102f9018e5e4f1600000000920308456c2d476f726661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9379756936094905,
+          36.857115549830695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martyrs Memorial 2",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Sidi M'Hamed District",
+        "city": "El Madania",
+        "postcode": "16015",
+        "street": "Chemin Kechkar Omar",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0692631,
+        "lat": 36.7464644,
+        "formatted": "Martyrs Memorial 2, Chemin Kechkar Omar, 16015 El Madania, Algeria",
+        "address_line1": "Martyrs Memorial 2",
+        "address_line2": "Chemin Kechkar Omar, 16015 El Madania, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Martyrs Memorial 2",
+            "osm_id": 2545150691,
+            "name:en": "Martyrs Memorial 2",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Martyrs Memorial 2"
+        },
+        "place_id": "517e8eeacfd98d084059036c3c258c5f4240f00103f901e3eab397000000009203124d617274797273204d656d6f7269616c2032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0692630999999997,
+          36.74646439981736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "أسود",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0197219,
+        "lat": 36.7394947,
+        "formatted": "Lions, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Lions",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "أسود",
+            "osm_id": 2555992318,
+            "name:ar": "أسود",
+            "name:en": "Lions",
+            "name:fr": "Lions",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "name_international": {
+          "ar": "أسود",
+          "en": "Lions",
+          "fr": "Lions"
+        },
+        "place_id": "51ae1e9cf4632808405982a327c3a75e4240f00103f901fe58599800000000920308d8a3d8b3d988d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0197218999999995,
+          36.73949469981655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ours",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0184908,
+        "lat": 36.739974,
+        "formatted": "Ours, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Ours",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ours",
+            "osm_id": 2555992353,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "510a372a81de25084059218dd077b75e4240f00103f90121595998000000009203044f757273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0184907999999995,
+          36.73997399981659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les singes",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "postcode": "16028",
+        "street": "Chemin Aïmeur",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0090655,
+        "lat": 36.7428284,
+        "formatted": "Les singes, Chemin Aïmeur, 16028 Hydra, Algeria",
+        "address_line1": "Les singes",
+        "address_line2": "Chemin Aïmeur, 16028 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Les singes",
+            "osm_id": 2555992457,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51d52cd0ee901208405979e04100155f4240f00103f901895959980000000092030a4c65732073696e676573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0090655000000006,
+          36.74282839981692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tigres",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "postcode": "16028",
+        "street": "Chemin Aïmeur",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0176486,
+        "lat": 36.7379513,
+        "formatted": "Tigres, Chemin Aïmeur, 16028 Hydra, Algeria",
+        "address_line1": "Tigres",
+        "address_line2": "Chemin Aïmeur, 16028 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tigres",
+            "osm_id": 2555992484,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51bd8ffef224240840593f602d30755e4240f00103f901a459599800000000920306546967726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0176486,
+          36.73795129981635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerf de Barbarie",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "postcode": "16028",
+        "street": "Chemin Aïmeur",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0080704,
+        "lat": 36.7426285,
+        "formatted": "Cerf de Barbarie, Chemin Aïmeur, 16028 Hydra, Algeria",
+        "address_line1": "Cerf de Barbarie",
+        "address_line2": "Chemin Aïmeur, 16028 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerf de Barbarie",
+            "osm_id": 2555992505,
+            "name:ar": "الغزلان البربرية",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "name_international": {
+          "ar": "الغزلان البربرية"
+        },
+        "place_id": "516c86c036871008405945e55f730e5f4240f00103f901b95959980000000092031043657266206465204261726261726965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0080703999999994,
+          36.74262849981691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le grand huit",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0230014,
+        "lat": 36.7333174,
+        "formatted": "Le grand huit, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Le grand huit",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Le grand huit",
+            "osm_id": 2556807602,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510419a65b1b2f084059f7e53458dd5d4240f00103f901b2c965980000000092030d4c65206772616e642068756974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0230014,
+          36.733317399815796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parc Jurjura",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Bir Mourad Rais",
+        "postcode": "16300",
+        "suburb": "Said Hamdine",
+        "street": "route de kadous",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0218397,
+        "lat": 36.7319838,
+        "formatted": "Parc Jurjura, route de kadous, 16300 Bir Mourad Rais, Algeria",
+        "address_line1": "Parc Jurjura",
+        "address_line2": "route de kadous, 16300 Bir Mourad Rais, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parc Jurjura",
+            "osm_id": 2664792122,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511e09ea4aba2c0840597cb428a5b15d4240f00103f9013a80d59e0000000092030c50617263204a75726a757261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0218397,
+          36.73198379981565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hôtel Moncada",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "postcode": "16028",
+        "street": "Chemin Aïmeur",
+        "iso3166_2": "DZ-16",
+        "lon": 3.01447,
+        "lat": 36.7408764,
+        "formatted": "Hôtel Moncada, Chemin Aïmeur, 16028 Hydra, Algeria",
+        "address_line1": "Hôtel Moncada",
+        "address_line2": "Chemin Aïmeur, 16028 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hôtel Moncada",
+            "osm_id": 2674658955,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51592f8672a21d084059a5cbb109d55e4240f00103f9018b0e6c9f0000000092030e48c3b474656c204d6f6e63616461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0144699999999998,
+          36.740876399816706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hippopotame",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0179823,
+        "lat": 36.7391476,
+        "formatted": "Hippopotame, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Hippopotame",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hippopotame",
+            "osm_id": 2674659015,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51404173e7d3240840597b1078639c5e4240f00103f901c70e6c9f0000000092030b486970706f706f74616d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0179823,
+          36.7391475998165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aigles",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0190682,
+        "lat": 36.738427,
+        "formatted": "Aigles, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Aigles",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aigles",
+            "osm_id": 2674659017,
+            "name:ar": "نسر",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "name_international": {
+          "ar": "نسر"
+        },
+        "place_id": "5111267b3a0d27084059f258a3c6845e4240f00103f901c90e6c9f000000009203064169676c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0190682,
+          36.73842699981641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chameau",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "hamlet": "Résidence Palmira",
+        "postcode": "16405",
+        "district": "Paradou",
+        "street": "Première Rocade Sud",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0195,
+        "lat": 36.7392949,
+        "formatted": "Chameau, Première Rocade Sud, 16405 Hydra, Algeria",
+        "address_line1": "Chameau",
+        "address_line2": "Première Rocade Sud, 16405 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chameau",
+            "osm_id": 2674659018,
+            "name:ar": "جمل",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "name_international": {
+          "ar": "جمل"
+        },
+        "place_id": "510d2db29def27084059e0671c37a15e4240f00103f901ca0e6c9f000000009203074368616d656175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0194999999999994,
+          36.739294899816514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مقام الشهيد",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Sidi M'Hamed District",
+        "city": "El Madania",
+        "postcode": "16015",
+        "street": "Chemin Kechkar Omar",
+        "iso3166_2": "DZ-16",
+        "lon": 3.070096,
+        "lat": 36.7461744,
+        "formatted": "Martyrs Memorial, Chemin Kechkar Omar, 16015 El Madania, Algeria",
+        "address_line1": "Martyrs Memorial",
+        "address_line2": "Chemin Kechkar Omar, 16015 El Madania, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مقام الشهيد",
+            "osm_id": 2700208215,
+            "name:ar": "مقام الشهيد",
+            "name:en": "Martyrs Memorial",
+            "name:fr": "Makam E'chahid",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مقام الشهيد",
+          "en": "Martyrs Memorial",
+          "fr": "Makam E'chahid"
+        },
+        "place_id": "51b1a4dc7d8e8f084059f8298aa4825f4240f00103f90157e8f1a000000000920315d985d982d8a7d98520d8a7d984d8b4d987d98ad8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.070096,
+          36.746174399817335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sidi fredj",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Zeralda District",
+        "city": "Staoueli",
+        "postcode": "16102",
+        "suburb": "Sidi Fredj",
+        "street": "Hotel El Riyad",
+        "iso3166_2": "DZ-16",
+        "lon": 2.8495911,
+        "lat": 36.7637056,
+        "formatted": "sidi fredj, Hotel El Riyad, 16102 Staoueli, Algeria",
+        "address_line1": "sidi fredj",
+        "address_line2": "Hotel El Riyad, 16102 Staoueli, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "sidi fredj",
+            "osm_id": 2740416252,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5105c82b6bf6cb0640598e7fe71ac1614240f00103f901fc6e57a30000000092030a7369646920667265646a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8495911,
+          36.76370559981943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "l'Horloge Florale",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Sidi M'Hamed District",
+        "city": "Algiers",
+        "town": "Alger-Centre",
+        "postcode": "16007",
+        "street": "Avenue Pasteur",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0577722,
+        "lat": 36.7732154,
+        "formatted": "l'Horloge Florale, Avenue Pasteur, 16007 Algiers, Algeria",
+        "address_line1": "l'Horloge Florale",
+        "address_line2": "Avenue Pasteur, 16007 Algiers, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "l'Horloge Florale",
+            "osm_id": 2744651555,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "addr:city": "Alger Centre",
+            "addr:city:ar": "الجزائر الوسطى",
+            "addr:city:fr": "Alger Centre"
+          }
+        },
+        "place_id": "519af16c455176084059157fe3b8f8624240f00103f901230f98a3000000009203116c27486f726c6f676520466c6f72616c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0577721999999996,
+          36.77321539982055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "السيدة الأفريقية",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bab El Oued District",
+        "city": "Bulughin",
+        "postcode": "16650",
+        "suburb": "Village Marie",
+        "street": "شارع نور الدين مكري",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0430556,
+        "lat": 36.8011287,
+        "formatted": "السيدة الأفريقية, شارع نور الدين مكري, 16650 Bulughin, Algeria",
+        "address_line1": "السيدة الأفريقية",
+        "address_line2": "شارع نور الدين مكري, 16650 Bulughin, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "السيدة الأفريقية",
+            "osm_id": 2752445536,
+            "name:ar": "السيدة الأفريقية",
+            "name:es": "Nuestra Señora de África",
+            "name:fr": "Notre Dame d'Afrique",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "alt_name:ar": "السيدة الإفريقية"
+          }
+        },
+        "name_international": {
+          "ar": "السيدة الأفريقية",
+          "es": "Nuestra Señora de África",
+          "fr": "Notre Dame d'Afrique"
+        },
+        "place_id": "51fa46cf882d58084059b9d09e628b664240f00103f90160fc0ea40000000092031fd8a7d984d8b3d98ad8afd8a920d8a7d984d8a3d981d8b1d98ad982d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0430555999999997,
+          36.8011286998239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الحديقة الفرنسية",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Hussein Dey District",
+        "city": "Belouizdad",
+        "postcode": "16000",
+        "street": "Allé des Washingtonias",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0738597,
+        "lat": 36.7485648,
+        "formatted": "الحديقة الفرنسية, Allé des Washingtonias, 16000 Belouizdad, Algeria",
+        "address_line1": "الحديقة الفرنسية",
+        "address_line2": "Allé des Washingtonias, 16000 Belouizdad, Algeria",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "الحديقة الفرنسية",
+            "osm_id": 2781427404,
+            "name:ar": "الحديقة الفرنسية",
+            "name:fr": "Jardin français",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "بلوزداد",
+            "addr:city:ar": "بلوزداد"
+          }
+        },
+        "name_international": {
+          "ar": "الحديقة الفرنسية",
+          "fr": "Jardin français"
+        },
+        "place_id": "515ff01fc14397084059a313abf8d05f4240f00103f901cc36c9a50000000092031fd8a7d984d8add8afd98ad982d8a920d8a7d984d981d8b1d986d8b3d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0738596999999994,
+          36.74856479981761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الحديقة البريطانية",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Hussein Dey District",
+        "city": "Belouizdad",
+        "postcode": "16000",
+        "street": "Boulevard de la ceinture",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0774806,
+        "lat": 36.7467315,
+        "formatted": "English Basin, Boulevard de la ceinture, 16000 Belouizdad, Algeria",
+        "address_line1": "English Basin",
+        "address_line2": "Boulevard de la ceinture, 16000 Belouizdad, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الحديقة البريطانية",
+            "osm_id": 2781427418,
+            "name:ar": "الحديقة البريطانية",
+            "name:en": "English Basin",
+            "name:fr": "Bassin Anglais",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "بلوزداد",
+            "addr:city:ar": "بلوزداد"
+          }
+        },
+        "name_international": {
+          "ar": "الحديقة البريطانية",
+          "en": "English Basin",
+          "fr": "Bassin Anglais"
+        },
+        "place_id": "517c981826ae9e084059ed4dd5e5945f4240f00103f901da36c9a500000000920323d8a7d984d8add8afd98ad982d8a920d8a7d984d8a8d8b1d98ad8b7d8a7d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0774805999999995,
+          36.74673149981741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balcon Saint Raphaël",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bouzareah District",
+        "city": "El Biar",
+        "isolated_dwelling": "Villa des Oliviers",
+        "postcode": "16025",
+        "street": "Rue Dziri Khodja Fatiha",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0391291,
+        "lat": 36.7675342,
+        "formatted": "Balcon Saint Raphaël, Rue Dziri Khodja Fatiha, 16025 El Biar, Algeria",
+        "address_line1": "Balcon Saint Raphaël",
+        "address_line2": "Rue Dziri Khodja Fatiha, 16025 El Biar, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Balcon Saint Raphaël",
+            "osm_id": 2826123630,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514793e6ea2250084059dc64878f3e624240f00103f9016e3973a80000000092031542616c636f6e205361696e74205261706861c3ab6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0391291,
+          36.76753419981989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bab El Oued District",
+        "city": "Bab Al Wadi",
+        "postcode": "16021",
+        "district": "3 Horloges",
+        "street": "Place El Kettani",
+        "iso3166_2": "DZ-16",
+        "lon": 3.058541,
+        "lat": 36.7919377,
+        "formatted": "Place El Kettani, 16021 Bab Al Wadi, Algeria",
+        "address_line1": "Place El Kettani",
+        "address_line2": "16021 Bab Al Wadi, Algeria",
+        "name": "Place El Kettani",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place El Kettani",
+            "osm_id": 3046318035,
+            "name:ar": "ساحة الكيتاني",
+            "name:fr": "Place El Kettani",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "ساحة الكيتاني",
+          "fr": "Place El Kettani"
+        },
+        "place_id": "5114cd0358e477084059ae9aec365e654240f00103f901d31f93b500000000920310506c61636520456c204b657474616e69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.058541,
+          36.79193769982281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belvédère du jardin",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Hussein Dey District",
+        "city": "Belouizdad",
+        "postcode": "16000",
+        "suburb": "Cité Mauries",
+        "street": "Rue Hassiba Benbouali",
+        "iso3166_2": "DZ-16",
+        "lon": 3.073039,
+        "lat": 36.747241,
+        "formatted": "Belvédère du jardin, Rue Hassiba Benbouali, 16000 Belouizdad, Algeria",
+        "address_line1": "Belvédère du jardin",
+        "address_line2": "Rue Hassiba Benbouali, 16000 Belouizdad, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Belvédère du jardin",
+            "osm_id": 3588822851,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510da9a27895950840592239d497a55f4240f00103f9014317e9d50000000092031542656c76c3a964c3a87265206475206a617264696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.073039,
+          36.747240999817464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande roue",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Dar el-Beida District",
+        "city": "Al Muhammadiyya",
+        "village": "Pins Maritimes",
+        "hamlet": "The subdivision Mandariniers",
+        "postcode": "16058",
+        "street": "Rue Labbaci Abdellah",
+        "iso3166_2": "DZ-16",
+        "lon": 3.1600491,
+        "lat": 36.7364774,
+        "formatted": "Grande roue, Rue Labbaci Abdellah, 16058 Al Muhammadiyya, Algeria",
+        "address_line1": "Grande roue",
+        "address_line2": "Rue Labbaci Abdellah, 16058 Al Muhammadiyya, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Grande roue",
+            "osm_id": 3641546953,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "big_wheel"
+          }
+        },
+        "place_id": "51ac0892d2c747094059103a35e4445e4240f00103f901c9980dd90000000092030b4772616e646520726f7565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1600491,
+          36.73647739981618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue Pôle Universitaire Kolea",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Tipaza",
+        "county": "Kolea District",
+        "city": "Kolea",
+        "postcode": "42003",
+        "suburb": "City 72 housing units",
+        "street": "Rue Hamzi Amar شارع الشهيد حمزة عمار",
+        "iso3166_2": "DZ-42",
+        "lon": 2.7895009,
+        "lat": 36.6406885,
+        "formatted": "Statue Pôle Universitaire Kolea, Rue Hamzi Amar شارع الشهيد حمزة عمار, 42003 Kolea, Algeria",
+        "address_line1": "Statue Pôle Universitaire Kolea",
+        "address_line2": "Rue Hamzi Amar شارع الشهيد حمزة عمار, 42003 Kolea, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statue Pôle Universitaire Kolea",
+            "osm_id": 3709237974,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51f04c0dd9e550064059edcaac1402524240f00103f901d67a16dd000000009203205374617475652050c3b46c6520556e6976657273697461697265204b6f6c6561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7895009,
+          36.6406884998049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tombeau de Sidi Ahmed El Kebir",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Blida",
+        "county": "Blida District",
+        "city": "Chrea",
+        "postcode": "09000",
+        "street": "RN 37",
+        "iso3166_2": "DZ-09",
+        "lon": 2.8397784,
+        "lat": 36.4466521,
+        "formatted": "Tombeau de Sidi Ahmed El Kebir, RN 37, 09000 Chrea, Algeria",
+        "address_line1": "Tombeau de Sidi Ahmed El Kebir",
+        "address_line2": "RN 37, 09000 Chrea, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tomb"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tombeau de Sidi Ahmed El Kebir",
+            "tomb": "mausoleum",
+            "osm_id": 3811530464,
+            "name:ar": "ضريح سيدي أحمد الكبير",
+            "name:fr": "Tombeau de Sidi Ahmed El Kebir",
+            "tourism": "attraction",
+            "historic": "tomb",
+            "osm_type": "n",
+            "addr:city": "Blida",
+            "addr:postcode": "09000"
+          }
+        },
+        "name_international": {
+          "ar": "ضريح سيدي أحمد الكبير",
+          "fr": "Tombeau de Sidi Ahmed El Kebir"
+        },
+        "historic": {
+          "type": "tomb"
+        },
+        "place_id": "510019dfbcddb7064059d9a060e52b394240f00103f901e0562fe30000000092031e546f6d6265617520646520536964692041686d656420456c204b65626972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8397784,
+          36.446652099782746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chréa",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Blida",
+        "county": "Ouled Yaich District",
+        "city": "Chrea",
+        "hamlet": "Sidi Serhane",
+        "street": "CW 49",
+        "iso3166_2": "DZ-09",
+        "lon": 2.8874883,
+        "lat": 36.4299819,
+        "formatted": "CW 49, Chrea, Algeria",
+        "address_line1": "CW 49",
+        "address_line2": "Chrea, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chréa",
+            "osm_id": 3950056324,
+            "name:ar": "الشريعة",
+            "name:en": "Chrea",
+            "name:fr": "Chréa",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الشريعة",
+          "en": "Chrea",
+          "fr": "Chréa"
+        },
+        "place_id": "513da94077931907405927b79aa509374240f00103f901841371eb00000000920306436872c3a961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8874883,
+          36.42998189978089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LOTUS FOR ENGENERING SERVICE",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Chéraga District",
+        "city": "Dély Brahim",
+        "postcode": "16014",
+        "suburb": "Ain Allah",
+        "street": "Boulevard 11 décembre",
+        "iso3166_2": "DZ-16",
+        "lon": 2.9756224,
+        "lat": 36.751741,
+        "formatted": "LOTUS FOR ENGENERING SERVICE, Boulevard 11 décembre, 16014 Dély Brahim, Algeria",
+        "address_line1": "LOTUS FOR ENGENERING SERVICE",
+        "address_line2": "Boulevard 11 décembre, 16014 Dély Brahim, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "LOTUS FOR ENGENERING SERVICE",
+            "osm_id": 4143032990,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d2f5e91d13ce074059eda3900c39604240f00103f9019eaaf1f60000000092031c4c4f54555320464f5220454e47454e4552494e472053455256494345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9756224,
+          36.751740999818004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Fayette",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Chéraga District",
+        "city": "Hammamet",
+        "postcode": "16060",
+        "street": "Avenue Kebladj Hamid",
+        "iso3166_2": "DZ-16",
+        "lon": 2.9800868,
+        "lat": 36.814326,
+        "formatted": "La Fayette, Avenue Kebladj Hamid, 16060 Hammamet, Algeria",
+        "address_line1": "La Fayette",
+        "address_line2": "Avenue Kebladj Hamid, 16060 Hammamet, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Fayette",
+            "osm_id": 4279302044,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512aee89bf37d70740593bc498d53b684240f00103f9019cf710ff0000000092030a4c612046617965747465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9800867999999996,
+          36.814325999825506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'îlot",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Chéraga District",
+        "city": "Ain Benian",
+        "postcode": "16202",
+        "suburb": "El Djamila",
+        "street": "Rue Bouanani Akli",
+        "iso3166_2": "DZ-16",
+        "lon": 2.9073034,
+        "lat": 36.8064943,
+        "formatted": "L'îlot, Rue Bouanani Akli, 16202 Ain Benian, Algeria",
+        "address_line1": "L'îlot",
+        "address_line2": "Rue Bouanani Akli, 16202 Ain Benian, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "L'îlot",
+            "osm_id": 4311299492,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519865f4482842074059141489343b674240f00103f901a435f900010000009203074c27c3ae6c6f74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9073034,
+          36.80649429982455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "le grand bleu",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Boumerdes",
+        "county": "Bordj Menaiel District",
+        "city": "Zemmouri",
+        "village": "Sghirat",
+        "postcode": "35471",
+        "street": "RN 24",
+        "iso3166_2": "DZ-35",
+        "lon": 3.5508971,
+        "lat": 36.7903459,
+        "formatted": "le grand bleu, RN 24, 35471 Zemmouri, Algeria",
+        "address_line1": "le grand bleu",
+        "address_line2": "RN 24, 35471 Zemmouri, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "le grand bleu",
+            "osm_id": 4399560894,
+            "name:fr": "le grand bleu",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "le grand bleu"
+        },
+        "place_id": "519fb01fbd3c680c40590622f00d2a654240f00103f901bef83b060100000092030d6c65206772616e6420626c6575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5508971,
+          36.79034589982261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كشك",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Zeralda District",
+        "city": "Staoueli",
+        "village": "El Bridja",
+        "postcode": "16062",
+        "street": "Boulevard Gaci Ahmed El Madou Amar",
+        "iso3166_2": "DZ-16",
+        "lon": 2.8880442,
+        "lat": 36.7531682,
+        "formatted": "كشك, Boulevard Gaci Ahmed El Madou Amar, 16062 Staoueli, Algeria",
+        "address_line1": "كشك",
+        "address_line2": "Boulevard Gaci Ahmed El Madou Amar, 16062 Staoueli, Algeria",
+        "categories": [
+          "commercial",
+          "commercial.smoking",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كشك",
+            "shop": "tobacco",
+            "osm_id": 4412467991,
+            "name:ar": "كشك",
+            "name:fr": "Kiosk",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "سطاوالي",
+            "addr:city:ar": "سطاوالي"
+          }
+        },
+        "name_international": {
+          "ar": "كشك",
+          "fr": "Kiosk"
+        },
+        "commercial": {
+          "type": "tobacco"
+        },
+        "place_id": "514838e3eab61a074059994dc9d067604240f00103f90117eb000701000000920306d983d8b4d983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8880441999999995,
+          36.75316819981817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entrée Cité Moulinesse ou mézahem mohamed",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bouzareah District",
+        "city": "Bouzaréah",
+        "village": "Beau Fraisier",
+        "postcode": "16606",
+        "street": "Passage Alvino",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0348916,
+        "lat": 36.7848968,
+        "formatted": "Entrée Cité Moulinesse ou mézahem mohamed, Passage Alvino, 16606 Bouzaréah, Algeria",
+        "address_line1": "Entrée Cité Moulinesse ou mézahem mohamed",
+        "address_line2": "Passage Alvino, 16606 Bouzaréah, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Entrée Cité Moulinesse ou mézahem mohamed",
+            "osm_id": 4420998389,
+            "name:fr": "Entrée Cité Moulinesse ou mézahem mohamed",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Entrée Cité Moulinesse ou mézahem mohamed"
+        },
+        "place_id": "51ab3d473f754708405935fc927f77644240f00103f901f51483070100000092032c456e7472c3a96520436974c3a9204d6f756c696e65737365206f75206dc3a97a6168656d206d6f68616d6564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0348915999999995,
+          36.78489679982196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue de Djilali Bounaâma",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Blida",
+        "county": "Blida District",
+        "city": "Blida",
+        "postcode": "09000",
+        "suburb": "Douiret",
+        "commercial": "El Wouroud Business center",
+        "iso3166_2": "DZ-09",
+        "lon": 2.8316209,
+        "lat": 36.4729925,
+        "formatted": "Statue de Djilali Bounaâma, 09000 Blida, Algeria",
+        "address_line1": "Statue de Djilali Bounaâma",
+        "address_line2": "09000 Blida, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statue de Djilali Bounaâma",
+            "osm_id": 4508126993,
+            "name:ar": "تمثال الشهيد بونعامة جيلالي",
+            "name:fr": "Statue de Bounâama Djilali",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "ar": "تمثال الشهيد بونعامة جيلالي",
+          "fr": "Statue de Bounâama Djilali"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51565cc1db28a70640599aeaaa048b3c4240f00103f901118fb40c0100000092031b53746174756520646520446a696c616c6920426f756e61c3a26d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8316209,
+          36.47299249978569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "موقف ديمبا بالفور",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "city": "El Harrach District",
+        "postcode": "16130",
+        "district": "El Harrach",
+        "neighbourhood": "Hassan Badi",
+        "suburb": "Boumati",
+        "street": "Rue Djebel Bouzegza",
+        "iso3166_2": "DZ-16",
+        "lon": 3.1446676,
+        "lat": 36.7210903,
+        "formatted": "parking dimba Belfort, Rue Djebel Bouzegza, 16130 El Harrach District, Algeria",
+        "address_line1": "parking dimba Belfort",
+        "address_line2": "Rue Djebel Bouzegza, 16130 El Harrach District, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "موقف ديمبا بالفور",
+            "osm_id": 4538398690,
+            "name:ar": "موقف ديمبا بالفور",
+            "name:en": "parking dimba Belfort",
+            "name:fr": "parking dimba Belfort",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "موقف ديمبا بالفور",
+          "en": "parking dimba Belfort",
+          "fr": "parking dimba Belfort"
+        },
+        "place_id": "519353967c47280940592e95dbaf4c5c4240f00103f901e277820e01000000920320d985d988d982d98120d8afd98ad985d8a8d8a720d8a8d8a7d984d981d988d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1446675999999996,
+          36.72109029981435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الوكالة الوطنية للتشغيل باب الزوار",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Dar el-Beida District",
+        "city": "Bab Ezzouar",
+        "postcode": "16042",
+        "district": "Cité EPLF",
+        "suburb": "324 apartments district",
+        "street": "RN 25B",
+        "iso3166_2": "DZ-16",
+        "lon": 3.186481,
+        "lat": 36.7211717,
+        "formatted": "الوكالة الوطنية للتشغيل باب الزوار, RN 25B, 16042 Bab Ezzouar, Algeria",
+        "address_line1": "الوكالة الوطنية للتشغيل باب الزوار",
+        "address_line2": "RN 25B, 16042 Bab Ezzouar, Algeria",
+        "categories": [
+          "office",
+          "office.employment_agency",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الوكالة الوطنية للتشغيل باب الزوار",
+            "office": "employment_agency",
+            "osm_id": 4540491390,
+            "name:ar": "الوكالة الوطنية للتشغيل باب الزوار",
+            "name:fr": "Agence nationale de l'emploi",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "short_name:fr": "ANEM"
+          }
+        },
+        "name_international": {
+          "ar": "الوكالة الوطنية للتشغيل باب الزوار",
+          "fr": "Agence nationale de l'emploi"
+        },
+        "place_id": "515f9a22c0e97d0940596fc0b05a4f5c4240f00103f9017e66a20e01000000920340d8a7d984d988d983d8a7d984d8a920d8a7d984d988d8b7d986d98ad8a920d984d984d8aad8b4d8bad98ad98420d8a8d8a7d8a820d8a7d984d8b2d988d8a7d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.186481,
+          36.721171699814356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "محجرة الحصى",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Médéa",
+        "county": "Seghouane District",
+        "city": "Zoubiria",
+        "street": "RN 62",
+        "iso3166_2": "DZ-26",
+        "lon": 2.8266918,
+        "lat": 36.1351282,
+        "formatted": "station concasage, RN 62, Zoubiria, Algeria",
+        "address_line1": "station concasage",
+        "address_line2": "RN 62, Zoubiria, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "محجرة الحصى",
+            "osm_id": 4541802089,
+            "name:ar": "محجرة الحصى",
+            "name:en": "station concasage",
+            "name:fr": "station concasage",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "محجرة الحصى",
+          "en": "station concasage",
+          "fr": "station concasage"
+        },
+        "place_id": "5191f82697109d0640595b587fe14b114240f00103f9016966b60e01000000920315d985d8add8acd8b1d8a920d8a7d984d8add8b5d989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8266917999999994,
+          36.135128199749225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "جنان لخضر",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Sidi M'Hamed District",
+        "city": "El Madania",
+        "postcode": "16075",
+        "street": "Rue Zribi Mahmod",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0624018,
+        "lat": 36.7454017,
+        "formatted": "Djnane Lakhder, Rue Zribi Mahmod, 16075 El Madania, Algeria",
+        "address_line1": "Djnane Lakhder",
+        "address_line2": "Rue Zribi Mahmod, 16075 El Madania, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "جنان لخضر",
+            "osm_id": 4561254989,
+            "name:ar": "جنان الأخضر",
+            "name:en": "Djnane Lakhder",
+            "name:fr": "Djnane Lakhder",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "المدنية"
+          }
+        },
+        "name_international": {
+          "ar": "جنان الأخضر",
+          "en": "Djnane Lakhder",
+          "fr": "Djnane Lakhder"
+        },
+        "place_id": "5138b1d183cc7f084059878ca952695f4240f00103f9014d3adf0f01000000920311d8acd986d8a7d98620d984d8aed8b6d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0624018,
+          36.74540169981724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ne",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bouzareah District",
+        "city": "El Biar",
+        "postcode": "16138",
+        "street": "Rue Capitaine Boucherit Ali",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0209538,
+        "lat": 36.7708625,
+        "formatted": "Ne, Rue Capitaine Boucherit Ali, 16138 El Biar, Algeria",
+        "address_line1": "Ne",
+        "address_line2": "Rue Capitaine Boucherit Ali, 16138 El Biar, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ne",
+            "osm_id": 4574487091,
+            "name:ar": "Ne",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "Ne"
+        },
+        "place_id": "51bed06dd3e92a0840597038559fab624240f00103f9013322a910010000009203024e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0209538,
+          36.77086249982028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EPSP Bouismail",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Tipaza",
+        "county": "Bou Ismail District",
+        "city": "Bou Ismaïl",
+        "village": "Paillote",
+        "postcode": "42004",
+        "suburb": "Cité 9 martyres",
+        "street": "Avenue Mechental Ali",
+        "iso3166_2": "DZ-42",
+        "lon": 2.6934826,
+        "lat": 36.6415723,
+        "formatted": "EPSP Bouismail, Avenue Mechental Ali, 42004 Bou Ismaïl, Algeria",
+        "address_line1": "EPSP Bouismail",
+        "address_line2": "Avenue Mechental Ali, 42004 Bou Ismaïl, Algeria",
+        "categories": [
+          "healthcare.clinic_or_praxis",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "EPSP Bouismail",
+            "osm_id": 4581259696,
+            "amenity": "clinic",
+            "name:fr": "EPSP Bouismail",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "EPSP Bouismail"
+        },
+        "place_id": "51a9c2fa9a408c0540594bd7860a1f524240f00103f901b07910110100000092030e4550535020426f7569736d61696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6934826,
+          36.641572299805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La glacière",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Tipaza",
+        "county": "Bou Ismail District",
+        "city": "Bou Ismaïl",
+        "village": "Paillote",
+        "isolated_dwelling": "Sidi Boumaâzza",
+        "postcode": "42004",
+        "street": "Rue de la Polyclinique",
+        "iso3166_2": "DZ-42",
+        "lon": 2.6872834,
+        "lat": 36.643345,
+        "formatted": "La glacière, Rue de la Polyclinique, 42004 Bou Ismaïl, Algeria",
+        "address_line1": "La glacière",
+        "address_line2": "Rue de la Polyclinique, 42004 Bou Ismaïl, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La glacière",
+            "osm_id": 4582621791,
+            "name:fr": "La glacière",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "La glacière"
+        },
+        "place_id": "5164ab70708e7f054059af1a032159524240f00103f9015f4225110100000092030c4c6120676c616369c3a87265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6872834,
+          36.6433449998052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DRH SNVI-CIR",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "village": "Sbaat",
+        "postcode": "16012",
+        "suburb": "Rouiba-Reghaïa Industrial Zone",
+        "street": "ممر ت",
+        "iso3166_2": "DZ-16",
+        "lon": 3.3131352,
+        "lat": 36.7280612,
+        "formatted": "DRH SNVI-CIR, ممر ت, 16012 Rouiba, Algeria",
+        "address_line1": "DRH SNVI-CIR",
+        "address_line2": "ممر ت, 16012 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "DRH SNVI-CIR",
+            "osm_id": 4588670997,
+            "name:fr": "DRH SNVI-CIR",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "DRH SNVI-CIR"
+        },
+        "place_id": "51b5cf19074d810a4059ab58011c315d4240f00103f901159081110100000092030c44524820534e56492d434952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3131352,
+          36.72806119981518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez âami Cherif",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Chéraga District",
+        "city": "Dély Brahim",
+        "postcode": "16047",
+        "suburb": "Ain Allah",
+        "street": "Route Aîn Allah",
+        "iso3166_2": "DZ-16",
+        "lon": 2.9952865,
+        "lat": 36.753257,
+        "formatted": "Chez âami Cherif, Route Aîn Allah, 16047 Dély Brahim, Algeria",
+        "address_line1": "Chez âami Cherif",
+        "address_line2": "Route Aîn Allah, 16047 Dély Brahim, Algeria",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chez âami Cherif",
+            "osm_id": 4599445092,
+            "amenity": "restaurant",
+            "name:ar": "Resto ami chrif",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:country": "DZ"
+          }
+        },
+        "name_international": {
+          "ar": "Resto ami chrif"
+        },
+        "place_id": "51d333bdc458f6074059e0d9b1b96a604240f00103f90164f62512010000009203114368657a20c3a2616d6920436865726966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9952865,
+          36.75325699981818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حديقة دنيا",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Chéraga District",
+        "city": "Dély Brahim",
+        "postcode": "16403",
+        "street": "RN 36",
+        "iso3166_2": "DZ-16",
+        "lon": 2.9723982,
+        "lat": 36.7430448,
+        "formatted": "Dounia Parc, RN 36, 16403 Dély Brahim, Algeria",
+        "address_line1": "Dounia Parc",
+        "address_line2": "RN 36, 16403 Dély Brahim, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "حديقة دنيا",
+            "osm_id": 4639655289,
+            "name:ar": "حديقة دنيا",
+            "name:en": "Dounia Parc",
+            "name:fr": "Dounia Parc",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "حديقة دنيا",
+          "en": "Dounia Parc",
+          "fr": "Dounia Parc"
+        },
+        "place_id": "519e831db578c70740599e568d171c5f4240f00103f90179858b1401000000920313d8add8afd98ad982d8a920d8afd986d98ad8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9723981999999998,
+          36.74304479981696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bidonvilles",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Reghaia",
+        "village": "chebcheb",
+        "postcode": "16036",
+        "street": "RN 24",
+        "iso3166_2": "DZ-16",
+        "lon": 3.3599286,
+        "lat": 36.7588837,
+        "formatted": "Bidonvilles, RN 24, 16036 Reghaia, Algeria",
+        "address_line1": "Bidonvilles",
+        "address_line2": "RN 24, 16036 Reghaia, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bidonvilles",
+            "osm_id": 4665272310,
+            "name:fr": "Bidonvilles",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Bidonvilles"
+        },
+        "place_id": "511729ef3e22e10a40594018e01923614240f00103f901f66712160100000092030b4269646f6e76696c6c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3599285999999995,
+          36.75888369981885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COOP/ISSAT IDIR DEB",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Dar el-Beida District",
+        "city": "Dar El Beida",
+        "postcode": "16311",
+        "street": "Route de Karia Dar El Bida",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2064226,
+        "lat": 36.7214145,
+        "formatted": "COOP/ISSAT IDIR DEB, Route de Karia Dar El Bida, 16311 Dar El Beida, Algeria",
+        "address_line1": "COOP/ISSAT IDIR DEB",
+        "address_line2": "Route de Karia Dar El Bida, 16311 Dar El Beida, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "COOP/ISSAT IDIR DEB",
+            "osm_id": 4687209893,
+            "name:en": "COOP/ISSAT IDIR DEB",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "COOP/ISSAT IDIR DEB"
+        },
+        "place_id": "51083e61e4c0a609405912c8714f575c4240f00103f901a525611701000000920313434f4f502f4953534154204944495220444542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2064226,
+          36.7214144998144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bidonvilles",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Reghaia",
+        "village": "chebcheb",
+        "postcode": "16036",
+        "street": "RN 24",
+        "iso3166_2": "DZ-16",
+        "lon": 3.3433069,
+        "lat": 36.7612344,
+        "formatted": "Bidonvilles, RN 24, 16036 Reghaia, Algeria",
+        "address_line1": "Bidonvilles",
+        "address_line2": "RN 24, 16036 Reghaia, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bidonvilles",
+            "osm_id": 4691000591,
+            "name:en": "Bidonvilles",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bidonvilles"
+        },
+        "place_id": "51dced1fb017bf0a40591de8f92070614240f00103f9010ffd9a170100000092030b4269646f6e76696c6c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3433069,
+          36.76123439981914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "موثق",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Tipaza",
+        "county": "Fouka District",
+        "city": "Fouka",
+        "village": "Ben Hani",
+        "postcode": "42015",
+        "district": "Cité Aklouche",
+        "suburb": "Ain Lahjer",
+        "street": "CW 126",
+        "iso3166_2": "DZ-42",
+        "lon": 2.7416515,
+        "lat": 36.6621378,
+        "formatted": "موثق, CW 126, 42015 Fouka, Algeria",
+        "address_line1": "موثق",
+        "address_line2": "CW 126, 42015 Fouka, Algeria",
+        "categories": [
+          "office",
+          "office.notary",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "موثق",
+            "office": "notary",
+            "osm_id": 4715824101,
+            "name:ar": "موثق",
+            "name:fr": "Notaire",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "موثق",
+          "fr": "Notaire"
+        },
+        "place_id": "51183c4cfbe6ee05405922cf71eec0544240f00103f901e5c3151901000000920308d985d988d8abd982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7416514999999997,
+          36.66213779980741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شبه جزيرة تاقوريت",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Tipaza",
+        "county": "Bou Ismail District",
+        "city": "Aïn Tagourait",
+        "hamlet": "Rocher Plat",
+        "postcode": "42250",
+        "district": "100 dwellings neighbourhood",
+        "street": "RN 11",
+        "iso3166_2": "DZ-42",
+        "lon": 2.5744207,
+        "lat": 36.5965954,
+        "formatted": "شبه جزيرة تاقوريت, RN 11, 42250 Aïn Tagourait, Algeria",
+        "address_line1": "شبه جزيرة تاقوريت",
+        "address_line2": "RN 11, 42250 Aïn Tagourait, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شبه جزيرة تاقوريت",
+            "osm_id": 4750740524,
+            "name:ar": "شبه جزيرة تاقوريت",
+            "name:fr": "Presqu'île Tagourait",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "شبه جزيرة تاقوريت",
+          "fr": "Presqu'île Tagourait"
+        },
+        "place_id": "51d62945e16998044059c38af13c5d4c4240f00103f9012c8c2a1b01000000920320d8b4d8a8d98720d8acd8b2d98ad8b1d8a920d8aad8a7d982d988d8b1d98ad8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5744207,
+          36.596595399799774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سيدي براهيم البحري",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bab El Oued District",
+        "city": "Casbah",
+        "town": "Casbah ⵝⴰⵇⵚⴻⴲⵝ القصبة",
+        "postcode": "16021",
+        "suburb": "The Lower CIty of Algiers",
+        "street": "Bouadou Aziouez Street",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0692116,
+        "lat": 36.7869955,
+        "formatted": "سيدي براهيم البحري, Bouadou Aziouez Street, 16021 Casbah, Algeria",
+        "address_line1": "سيدي براهيم البحري",
+        "address_line2": "Bouadou Aziouez Street, 16021 Casbah, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سيدي براهيم البحري",
+            "osm_id": 4750740528,
+            "name:fr": "Sidi Braham El-Bahri",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Sidi Braham El-Bahri"
+        },
+        "place_id": "51da07b4cfbe8d084059f5eabe44bc644240f00103f901308c2a1b01000000920322d8b3d98ad8afd98a20d8a8d8b1d8a7d987d98ad98520d8a7d984d8a8d8add8b1d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0692116,
+          36.78699549982222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Presqu'île Rocher Noire",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Boumerdes",
+        "county": "Boumerdes District",
+        "city": "Boumerdès",
+        "postcode": "35000",
+        "district": "Résidence IAP Boumerdès",
+        "street": "شارع الواجهة البحرية",
+        "iso3166_2": "DZ-35",
+        "lon": 3.4767744,
+        "lat": 36.7684342,
+        "formatted": "Presqu'île Rocher Noire, شارع الواجهة البحرية, 35000 Boumerdès, Algeria",
+        "address_line1": "Presqu'île Rocher Noire",
+        "address_line2": "شارع الواجهة البحرية, 35000 Boumerdès, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Presqu'île Rocher Noire",
+            "osm_id": 4750740624,
+            "name:ar": "شبه الجزيرة الحجر الأسود",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "بومرداس",
+            "addr:city:ar": "بومرداس"
+          }
+        },
+        "name_international": {
+          "ar": "شبه الجزيرة الحجر الأسود"
+        },
+        "place_id": "51688fbc186fd00b40596aad460d5c624240f00103f901908c2a1b0100000092031850726573717527c3ae6c6520526f63686572204e6f697265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4767744,
+          36.76843419981999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EL KAHF.RABIAAa",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bab El Oued District",
+        "city": "Bab Al Wadi",
+        "postcode": "16021",
+        "district": "3 Horloges",
+        "street": "Rue Sadaoui Mohamed Seghir",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0602841,
+        "lat": 36.7906023,
+        "formatted": "EL KAHF.RABIAA, Rue Sadaoui Mohamed Seghir, 16021 Bab Al Wadi, Algeria",
+        "address_line1": "EL KAHF.RABIAA",
+        "address_line2": "Rue Sadaoui Mohamed Seghir, 16021 Bab Al Wadi, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "EL KAHF.RABIAAa",
+            "osm_id": 4791116027,
+            "name:ar": "EL KAHF.RABIAAa",
+            "name:en": "EL KAHF.RABIAA",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "EL KAHF.RABIAAa",
+          "en": "EL KAHF.RABIAA"
+        },
+        "place_id": "5116c0ef3a767b084059baf0c67432654240f00103f901fba0921d0100000092030f454c204b4148462e52414249414161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0602840999999996,
+          36.79060229982265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salle de Musculation hocine",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Baraki District",
+        "city": "Baraki",
+        "postcode": "16027",
+        "suburb": "Bentalha",
+        "quarter": "150 Logts",
+        "street": "Rue Ahmed Ghazi",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0923407,
+        "lat": 36.6631885,
+        "formatted": "Salle de Musculation hocine, Rue Ahmed Ghazi, 16027 Baraki, Algeria",
+        "address_line1": "Salle de Musculation hocine",
+        "address_line2": "Rue Ahmed Ghazi, 16027 Baraki, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Salle de Musculation hocine",
+            "osm_id": 4810466322,
+            "name:ar": "Salle de Musculation hocine",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "Salle de Musculation hocine"
+        },
+        "place_id": "51cdb7f41e1dbd084059d9e05a5ce3544240f00103f90112e4b91e0100000092031b53616c6c65206465204d757363756c6174696f6e20686f63696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0923407,
+          36.663188499807525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "غرفة الهروب",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Hydra",
+        "postcode": "16070",
+        "district": "Hydra Valley",
+        "suburb": "Hydra City Center",
+        "street": "طريق حديقة التسلية",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0285827,
+        "lat": 36.7562198,
+        "formatted": "escape room, طريق حديقة التسلية, 16070 Hydra, Algeria",
+        "address_line1": "escape room",
+        "address_line2": "طريق حديقة التسلية, 16070 Hydra, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "غرفة الهروب",
+            "osm_id": 4838543821,
+            "name:ar": "غرفة الهروب",
+            "name:en": "escape room",
+            "name:fr": "salle d'évasion",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "حيدرة"
+          }
+        },
+        "name_international": {
+          "ar": "غرفة الهروب",
+          "en": "escape room",
+          "fr": "salle d'évasion"
+        },
+        "place_id": "51ddd90d91893a084059746776cfcb604240f00103f901cd51662001000000920315d8bad8b1d981d8a920d8a7d984d987d8b1d988d8a8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0285827,
+          36.756219799818524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domaine boudhar eac 1",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Herraoua",
+        "hamlet": "Omar Hamamla",
+        "postcode": "16036",
+        "street": "Rue de La Plage rue belkasem grine",
+        "iso3166_2": "DZ-16",
+        "lon": 3.3277683,
+        "lat": 36.7826183,
+        "formatted": "Domaine boudhar eac 1, Rue de La Plage rue belkasem grine, 16036 Herraoua, Algeria",
+        "address_line1": "Domaine boudhar eac 1",
+        "address_line2": "Rue de La Plage rue belkasem grine, 16036 Herraoua, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Domaine boudhar eac 1",
+            "osm_id": 4853375221,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f95289fc449f0a4059207e21d62c644240f00103f901f5a0482101000000920315446f6d61696e6520626f7564686172206561632031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3277682999999993,
+          36.782618299821706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aintaya diffus",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Dar el-Beida District",
+        "city": "Ain Taya",
+        "hamlet": "Omar Hamamla",
+        "street": "Rue de La Plage rue belkasem grine",
+        "iso3166_2": "DZ-16",
+        "lon": 3.3229885,
+        "lat": 36.7820165,
+        "formatted": "Aintaya diffus, Rue de La Plage rue belkasem grine, Ain Taya, Algeria",
+        "address_line1": "Aintaya diffus",
+        "address_line2": "Rue de La Plage rue belkasem grine, Ain Taya, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aintaya diffus",
+            "osm_id": 4853375222,
+            "name:fr": "Bodhar eac 2",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Bodhar eac 2"
+        },
+        "place_id": "516edfa3fe7a950a405947d5dd1d19644240f00103f901f6a048210100000092030e41696e7461796120646966667573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3229885,
+          36.782016499821616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "عبد الصمد",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Reghaia",
+        "village": "Braïdia",
+        "postcode": "16036",
+        "street": "CW 122",
+        "iso3166_2": "DZ-16",
+        "lon": 3.3326713,
+        "lat": 36.758536,
+        "formatted": "dar abd samed, CW 122, 16036 Reghaia, Algeria",
+        "address_line1": "dar abd samed",
+        "address_line2": "CW 122, 16036 Reghaia, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "عبد الصمد",
+            "osm_id": 4882219221,
+            "name:ar": "عبد الصمد",
+            "name:en": "dar abd samed",
+            "name:fr": "Abd Samad",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "عبد الصمد",
+          "en": "dar abd samed",
+          "fr": "Abd Samad"
+        },
+        "place_id": "51dd8a0e924fa90a4059bc0728b517614240f00103f901d5c0002301000000920311d8b9d8a8d8af20d8a7d984d8b5d985d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3326713,
+          36.758535999818804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Grande roue",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Hussein Dey District",
+        "city": "Hussein Dey",
+        "postcode": "16024",
+        "street": "Chemin de Sablette",
+        "iso3166_2": "DZ-16",
+        "lon": 3.1197201,
+        "lat": 36.7430384,
+        "formatted": "La Grande roue, Chemin de Sablette, 16024 Hussein Dey, Algeria",
+        "address_line1": "La Grande roue",
+        "address_line2": "Chemin de Sablette, 16024 Hussein Dey, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Grande roue",
+            "osm_id": 4885144821,
+            "name:ar": "العجلة الكبيرة",
+            "name:fr": "La Grande roue",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "big_wheel"
+          }
+        },
+        "name_international": {
+          "ar": "العجلة الكبيرة",
+          "fr": "La Grande roue"
+        },
+        "place_id": "510a64d1cf2ff50840596a71dde11b5f4240f00103f901f5642d230100000092030e4c61204772616e646520726f7565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1197200999999994,
+          36.74303839981697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الجزائرية للمياه عين العرايس",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Médéa",
+        "county": "Medea District",
+        "city": "Ain Arayes",
+        "postcode": "26093",
+        "street": "Route de Tibhirine",
+        "iso3166_2": "DZ-26",
+        "lon": 2.7274786,
+        "lat": 36.280772,
+        "formatted": "الجزائرية للمياه عين العرايس, Route de Tibhirine, 26093 Ain Arayes, Algeria",
+        "address_line1": "الجزائرية للمياه عين العرايس",
+        "address_line2": "Route de Tibhirine, 26093 Ain Arayes, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الجزائرية للمياه عين العرايس",
+            "osm_id": 4919226822,
+            "name:ar": "الجزائرية للمياه عين العرايس",
+            "name:fr": "L'algérienne des eaux",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الجزائرية للمياه عين العرايس",
+          "fr": "L'algérienne des eaux"
+        },
+        "place_id": "51a551dc4ce0d1054059884f3e56f0234240f00103f901c671352501000000920335d8a7d984d8acd8b2d8a7d8a6d8b1d98ad8a920d984d984d985d98ad8a7d98720d8b9d98ad98620d8a7d984d8b9d8b1d8a7d98ad8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7274786,
+          36.28077199976457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "les iris",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Hussein Dey District",
+        "city": "Kouba",
+        "postcode": "16108",
+        "street": "Avenue Mohamed Haricha",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0610657,
+        "lat": 36.7242673,
+        "formatted": "les iris, Avenue Mohamed Haricha, 16108 Kouba, Algeria",
+        "address_line1": "les iris",
+        "address_line2": "Avenue Mohamed Haricha, 16108 Kouba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "les iris",
+            "osm_id": 4953837227,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513f428303107d0840591b2277cab45c4240f00103f901ab8e4527010000009203086c65732069726973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0610657,
+          36.72426729981472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "نينو جرافيك",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Bir Mourad Rais District",
+        "city": "Bir Mourad Rais",
+        "postcode": "16050",
+        "suburb": "Said Hamdine",
+        "street": "Rue Kara Ahmed",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0412599,
+        "lat": 36.7326324,
+        "formatted": "Ninougraphic, Rue Kara Ahmed, 16050 Bir Mourad Rais, Algeria",
+        "address_line1": "Ninougraphic",
+        "address_line2": "Rue Kara Ahmed, 16050 Bir Mourad Rais, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "نينو جرافيك",
+            "osm_id": 4965465721,
+            "name:ar": "نينو جرافيك",
+            "name:en": "Ninougraphic",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "نينو جرافيك",
+          "en": "Ninougraphic"
+        },
+        "place_id": "51ff16091280540840596a9902e6c65d4240f00103f90179fef62701000000920315d986d98ad986d98820d8acd8b1d8a7d981d98ad983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0412598999999996,
+          36.73263239981573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 937605,
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "village": "Souachette",
+        "postcode": "16017",
+        "street": "RN 5",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2689424,
+        "lat": 36.7324526,
+        "formatted": "937605, RN 5, 16017 Rouiba, Algeria",
+        "address_line1": "937605",
+        "address_line2": "RN 5, 16017 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 937605,
+            "osm_id": 5024147321,
+            "name:ar": 937605,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": 937605
+        },
+        "place_id": "51df0fe445cb260a4059100abd01c15d4240f00103f9017967762b01000000920306393337363035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2689424,
+          36.7324525998157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 937606,
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "village": "Souachette",
+        "postcode": "16017",
+        "street": "RN 5",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2693212,
+        "lat": 36.7326742,
+        "formatted": "937606, RN 5, 16017 Rouiba, Algeria",
+        "address_line1": "937606",
+        "address_line2": "RN 5, 16017 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 937606,
+            "osm_id": 5024236722,
+            "name:ar": 937606,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": 937606
+        },
+        "place_id": "51aef490df91270a40596f6aa744c85d4240f00103f901b2c4772b01000000920306393337363036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2693211999999994,
+          36.732674199815726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 934532,
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "village": "Sbaat",
+        "postcode": "16012",
+        "street": "CW 121",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2854469,
+        "lat": 36.7117036,
+        "formatted": "934532, CW 121, 16012 Rouiba, Algeria",
+        "address_line1": "934532",
+        "address_line2": "CW 121, 16012 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 934532,
+            "osm_id": 5024236723,
+            "name:ar": 934532,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": 934532
+        },
+        "place_id": "51e8f4616298480a405958d2821a195b4240f00103f901b3c4772b01000000920306393334353332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2854469,
+          36.711703599813234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "116pa466551",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "village": "Souachette",
+        "postcode": "16017",
+        "street": "RN 5",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2691765,
+        "lat": 36.732642,
+        "formatted": "116pa466551, RN 5, 16017 Rouiba, Algeria",
+        "address_line1": "116pa466551",
+        "address_line2": "RN 5, 16017 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "116pa466551",
+            "osm_id": 5024894921,
+            "name:ar": "116pa466551",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "116pa466551"
+        },
+        "place_id": "515fd0420246270a40593a718a36c75d4240f00103f901c9cf812b0100000092030b3131367061343636353531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2691765,
+          36.732641999815726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nihel",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Sidi M'Hamed District",
+        "city": "Algiers",
+        "town": "Alger-Centre",
+        "postcode": "16010",
+        "suburb": "Agha",
+        "street": "Avenue Mustapha Sayed El Ouali",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0464306,
+        "lat": 36.7653726,
+        "formatted": "Nihel, Avenue Mustapha Sayed El Ouali, 16010 Algiers, Algeria",
+        "address_line1": "Nihel",
+        "address_line2": "Avenue Mustapha Sayed El Ouali, 16010 Algiers, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nihel",
+            "osm_id": 5141761434,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ee44a401175f08405969bdb6baf7614240f00103f9019a0d7932010000009203054e6968656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0464306,
+          36.76537259981962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hffvh",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Boumerdes",
+        "county": "Boudouaou District",
+        "city": "Zouggara",
+        "postcode": "35011",
+        "street": "RN 29",
+        "iso3166_2": "DZ-35",
+        "lon": 3.4647046,
+        "lat": 36.643403,
+        "formatted": "Hffvh, RN 29, 35011 Zouggara, Algeria",
+        "address_line1": "Hffvh",
+        "address_line2": "RN 29, 35011 Zouggara, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hffvh",
+            "osm_id": 5146032621,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f5679a0bb7b70b4059e7278d075b524240f00103f901ed39ba32010000009203054866667668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4647045999999997,
+          36.643402999805225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "112pa341234,654",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Boumerdes",
+        "county": "Boudouaou District",
+        "city": "Zouggara",
+        "postcode": "35011",
+        "street": "RN 29",
+        "iso3166_2": "DZ-35",
+        "lon": 3.4646944,
+        "lat": 36.644485,
+        "formatted": "112pa341234,654, RN 29, 35011 Zouggara, Algeria",
+        "address_line1": "112pa341234,654",
+        "address_line2": "RN 29, 35011 Zouggara, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "112pa341234,654",
+            "osm_id": 5146032721,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51211395b2b1b70b40599976067c7e524240f00103f901513aba320100000092030f31313270613334313233342c363534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4646943999999995,
+          36.64448499980535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "114pa876544,7777",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Boumerdes",
+        "county": "Boudouaou District",
+        "city": "Zouggara",
+        "postcode": "35011",
+        "street": "RN 29",
+        "iso3166_2": "DZ-35",
+        "lon": 3.4658237,
+        "lat": 36.6459813,
+        "formatted": "114pa876544,7777, RN 29, 35011 Zouggara, Algeria",
+        "address_line1": "114pa876544,7777",
+        "address_line2": "RN 29, 35011 Zouggara, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "114pa876544,7777",
+            "osm_id": 5146032821,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511c9da9c601ba0b4059033fe683af524240f00103f901b53aba320100000092031031313470613837363534342c37373737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4658236999999996,
+          36.64598129980552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 922383,
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "postcode": "16012",
+        "street": "RN 5",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2807953,
+        "lat": 36.736377,
+        "formatted": "922383, RN 5, 16012 Rouiba, Algeria",
+        "address_line1": "922383",
+        "address_line2": "RN 5, 16012 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 922383,
+            "osm_id": 5162577039,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cdf6329b113f0a405956defd99415e4240f00103f9018facb63301000000920306393232333833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2807953,
+          36.73637699981616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 214145,
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "postcode": "16012",
+        "street": "شارع العقيد عميروش",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2828165,
+        "lat": 36.7377179,
+        "formatted": "214145, شارع العقيد عميروش, 16012 Rouiba, Algeria",
+        "address_line1": "214145",
+        "address_line2": "شارع العقيد عميروش, 16012 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 214145,
+            "osm_id": 5162577040,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514927124c35430a405944b1468a6d5e4240f00103f90190acb63301000000920306323134313435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2828164999999996,
+          36.73771789981632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 216484,
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "village": "Sbaat",
+        "postcode": "16012",
+        "suburb": "Rouiba-Reghaïa Industrial Zone",
+        "street": "BOULVERD COLONEL AMIROUCHE",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2844147,
+        "lat": 36.7201946,
+        "formatted": "216484, BOULVERD COLONEL AMIROUCHE, 16012 Rouiba, Algeria",
+        "address_line1": "216484",
+        "address_line2": "BOULVERD COLONEL AMIROUCHE, 16012 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 216484,
+            "osm_id": 5162577042,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516103d8367b460a4059a07a2e562f5c4240f00103f90192acb63301000000920306323136343834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2844146999999997,
+          36.72019459981425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 213406,
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Rouiba District",
+        "city": "Rouiba",
+        "postcode": "16012",
+        "street": "RN 5",
+        "iso3166_2": "DZ-16",
+        "lon": 3.2810327,
+        "lat": 36.7361313,
+        "formatted": "213406, RN 5, 16012 Rouiba, Algeria",
+        "address_line1": "213406",
+        "address_line2": "RN 5, 16012 Rouiba, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 213406,
+            "osm_id": 5162614231,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5146da7c128e3f0a4059d822e98c395e4240f00103f901d73db73301000000920306323133343036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2810327,
+          36.73613129981612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مسجد الشيخ ياسين شوشار",
+        "country": "Algeria",
+        "country_code": "dz",
+        "state": "Algiers",
+        "county": "Baraki District",
+        "city": "Sidi Moussa",
+        "postcode": "16189",
+        "street": "شارع علي المنصوري",
+        "iso3166_2": "DZ-16",
+        "lon": 3.0896584,
+        "lat": 36.6037172,
+        "formatted": "مسجد الشيخ ياسين شوشار, شارع علي المنصوري, 16189 Sidi Moussa, Algeria",
+        "address_line1": "مسجد الشيخ ياسين شوشار",
+        "address_line2": "شارع علي المنصوري, 16189 Sidi Moussa, Algeria",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مسجد الشيخ ياسين شوشار",
+            "osm_id": 5312288924,
+            "name:ar": "مسجد الشيخ ياسين شوشار",
+            "name:fr": "Masdjid",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مسجد الشيخ ياسين شوشار",
+          "fr": "Masdjid"
+        },
+        "place_id": "51557ebed29eb70840599196ee9a464d4240f00103f9019c18a33c01000000920329d985d8b3d8acd8af20d8a7d984d8b4d98ad8ae20d98ad8a7d8b3d98ad98620d8b4d988d8b4d8a7d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0896584,
+          36.603717199800606
+        ]
+      }
+    }
+  ]
+}

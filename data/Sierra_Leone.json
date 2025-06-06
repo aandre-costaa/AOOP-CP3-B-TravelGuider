@@ -1,0 +1,776 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Cotton Tree",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "GOVERNMENT WHARF",
+        "suburb": "Tower Hill",
+        "street": "Walpole Street",
+        "lon": -13.2356238,
+        "lat": 8.4871476,
+        "formatted": "The Cotton Tree, Walpole Street, Freetown, Sierra Leone",
+        "address_line1": "The Cotton Tree",
+        "address_line2": "Walpole Street, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Cotton Tree",
+            "osm_id": 3563419693,
+            "natural": "tree",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q602200",
+            "wikipedia": "en:Cotton Tree (Sierra Leone)"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q602200",
+          "wikipedia": "en:Cotton Tree (Sierra Leone)"
+        },
+        "place_id": "518951c6aea3782ac0597d6eff686bf92040f00103f9012d7865d40000000092030f54686520436f74746f6e2054726565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2356238,
+          8.487147599392523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tigiemans Resident",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Rural",
+        "city": "Hastings",
+        "hamlet": "Hastings",
+        "district": "Bengazi",
+        "street": "Market Street",
+        "housenumber": "21",
+        "lon": -13.133182,
+        "lat": 8.382236,
+        "formatted": "Tigiemans Resident, 21 Market Street, Hastings, Sierra Leone",
+        "address_line1": "Tigiemans Resident",
+        "address_line2": "21 Market Street, Hastings, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tigiemans Resident",
+            "email": "tigiemans@gmail.com",
+            "phone": "+23230145316",
+            "osm_id": 6813405585,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Station Road",
+            "addr:housenumber": 21
+          }
+        },
+        "contact": {
+          "phone": "+23230145316",
+          "email": "tigiemans@gmail.com"
+        },
+        "place_id": "51edd45c6e30442ac0592c7bd96fb4c32040f00103f90191511c960100000092031254696769656d616e73205265736964656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.133182,
+          8.382235999391547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Former Hill Station",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Simiria Town",
+        "suburb": "Hill Station",
+        "street": "Regent Road",
+        "lon": -13.2528699,
+        "lat": 8.458545,
+        "formatted": "Former Hill Station, Regent Road, Freetown, Sierra Leone",
+        "address_line1": "Former Hill Station",
+        "address_line2": "Regent Road, Freetown, Sierra Leone",
+        "categories": [
+          "public_transport",
+          "public_transport.train",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Former Hill Station",
+            "osm_id": 370751258,
+            "disused": "yes",
+            "railway": "halt",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "disused": true,
+        "place_id": "511c49dd2978812ac05996440069c6ea2040f00103f9011a37191600000000920313466f726d65722048696c6c2053746174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2528699,
+          8.458544999392227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tacaguma Chimpanzee Sanctuary",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Bathurst",
+        "district": "Bathurst",
+        "street": "Youyi Highway",
+        "lon": -13.2046268,
+        "lat": 8.4302452,
+        "formatted": "Tacaguma Chimpanzee Sanctuary, Youyi Highway, Bathurst, Sierra Leone",
+        "address_line1": "Tacaguma Chimpanzee Sanctuary",
+        "address_line2": "Youyi Highway, Bathurst, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tacaguma Chimpanzee Sanctuary",
+            "osm_id": 625129335,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512fc50bd8c4682ac059884c491949dc2040f00103f90177b742250000000092031d5461636167756d61204368696d70616e7a65652053616e637475617279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.204626799999998,
+          8.430245199391962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Government Quarter Hillstation",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Spur Loop",
+        "suburb": "Hill Station",
+        "street": "Gentle View",
+        "lon": -13.2541264,
+        "lat": 8.4573432,
+        "formatted": "Government Quarter Hillstation, Gentle View, Freetown, Sierra Leone",
+        "address_line1": "Government Quarter Hillstation",
+        "address_line2": "Gentle View, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Government Quarter Hillstation",
+            "osm_id": 3356047557,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b61902db1c822ac05911e048e328ea2040f00103f901c53809c80000000092031e476f7665726e6d656e7420517561727465722048696c6c73746174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2541264,
+          8.457343199392229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sea Side View POW",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Congo Town Community",
+        "suburb": "Kingtom",
+        "street": "Battery Road",
+        "lon": -13.2436099,
+        "lat": 8.4898349,
+        "formatted": "Sea Side View POW, Battery Road, Freetown, Sierra Leone",
+        "address_line1": "Sea Side View POW",
+        "address_line2": "Battery Road, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sea Side View POW",
+            "osm_id": 3359441790,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b2f6d26fba7c2ac05935a9d2a3cbfa2040f00103f9017e033dc8000000009203115365612053696465205669657720504f57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2436099,
+          8.489834899392557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julz Art Studio",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Mudge Farm",
+        "suburb": "Murray Town",
+        "street": "Mudge Farm",
+        "lon": -13.2657989,
+        "lat": 8.488365,
+        "formatted": "Julz Art Studio SL Ltd, Mudge Farm, Freetown, Sierra Leone",
+        "address_line1": "Julz Art Studio SL Ltd",
+        "address_line2": "Mudge Farm, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Julz Art Studio",
+            "osm_id": 4301439298,
+            "name:en": "Julz Art Studio SL Ltd",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Julz Art Studio SL Ltd"
+        },
+        "place_id": "5123a01dcb16882ac059d8cd29fa0afa2040f00103f90142c162000100000092030f4a756c7a204172742053747564696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.265798899999998,
+          8.488364999392545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julz Art Studio",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Mudge Farm",
+        "suburb": "Murray Town",
+        "street": "Mudge Farm",
+        "lon": -13.2658021,
+        "lat": 8.488329,
+        "formatted": "Julz Art Studio SL Ltd, Mudge Farm, Freetown, Sierra Leone",
+        "address_line1": "Julz Art Studio SL Ltd",
+        "address_line2": "Mudge Farm, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Julz Art Studio",
+            "osm_id": 4306801491,
+            "name:en": "Julz Art Studio SL Ltd",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Julz Art Studio SL Ltd"
+        },
+        "place_id": "518e6a7d3617882ac059a328344206fa2040f00103f9015393b4000100000092030f4a756c7a204172742053747564696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.265802099999998,
+          8.488328999392541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "75A Leicester Road",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Lower Sorie",
+        "suburb": "Mount Aureol",
+        "street": "Leicester Road",
+        "lon": -13.2276592,
+        "lat": 8.4719263,
+        "formatted": "75A Leicester Road, Leicester Road, Freetown, Sierra Leone",
+        "address_line1": "75A Leicester Road",
+        "address_line2": "Leicester Road, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "75A Leicester Road",
+            "osm_id": 4365874896,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515c4425bf8f742ac0596b06ec52a0f12040f00103f901d0f6390401000000920312373541204c656963657374657220526f6164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.227659199999998,
+          8.47192629939237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "marcul",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Kaningo",
+        "suburb": "Lumley",
+        "street": "Macaulay Close Drive",
+        "lon": -13.2646923,
+        "lat": 8.4514813,
+        "formatted": "marcul, Macaulay Close Drive, Freetown, Sierra Leone",
+        "address_line1": "marcul",
+        "address_line2": "Macaulay Close Drive, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "marcul",
+            "osm_id": 4575926789,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518c01c8bf85872ac059344a8f8e28e72040f00103f901051abf10010000009203066d617263756c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2646923,
+          8.451481299392164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OAR Secret Beach",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Rural",
+        "city": "Bawbaw",
+        "street": "Lening Drive",
+        "lon": -13.2177304,
+        "lat": 8.3420002,
+        "formatted": "OAR Secret Beach, Lening Drive, Bawbaw, Sierra Leone",
+        "address_line1": "OAR Secret Beach",
+        "address_line2": "Lening Drive, Bawbaw, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "OAR Secret Beach",
+            "osm_id": 5069363248,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a3b0e65b7a6f2ac059c6386fa61aaf2040f00103f9013058282e010000009203104f415220536563726574204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.217730399999999,
+          8.342000199391247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Fourah Bay College",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Cline Town",
+        "suburb": "Cline Town",
+        "street": "College Road",
+        "lon": -13.2097042,
+        "lat": 8.4922528,
+        "formatted": "Old Fourah Bay College, College Road, Freetown, Sierra Leone",
+        "address_line1": "Old Fourah Bay College",
+        "address_line2": "College Road, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Old Fourah Bay College",
+            "osm_id": 10811645605,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51edaa51595e6b2ac059da82158f08fc2040f00103f901a59e6c84020000009203164f6c6420466f757261682042617920436f6c6c656765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2097042,
+          8.492252799392578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Fourah Bay College",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Cline Town",
+        "suburb": "Cline Town",
+        "street": "College Road",
+        "lon": -13.209522,
+        "lat": 8.4923749,
+        "formatted": "Old Fourah Bay College, College Road, Freetown, Sierra Leone",
+        "address_line1": "Old Fourah Bay College",
+        "address_line2": "College Road, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Old Fourah Bay College",
+            "osm_id": 10811664505,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c395b377466b2ac0596086149018fc2040f00103f90179e86c84020000009203164f6c6420466f757261682042617920436f6c6c656765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.209521999999998,
+          8.492374899392587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "suburb": "Mount Aureol",
+        "street": "Barham Road",
+        "lon": -13.2229696,
+        "lat": 8.4820483,
+        "formatted": "Barham Road, Freetown, Sierra Leone",
+        "address_line1": "Barham Road",
+        "address_line2": "Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 373834357,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512001481229722ac05956f7e108cff62040f00103f9017542481600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.222969599999999,
+          8.48204829939247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "street": "Lawrence Drive",
+        "lon": -13.2244167,
+        "lat": 8.4502389,
+        "formatted": "Lawrence Drive, Freetown, Sierra Leone",
+        "address_line1": "Lawrence Drive",
+        "address_line2": "Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 378734595,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513d5ae6bee6722ac059788d88b685e62040f00103f9010308931600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2244167,
+          8.450238899392147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "75a Leicester Road",
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "Lower Sorie",
+        "suburb": "Mount Aureol",
+        "street": "Leicester Road",
+        "lon": -13.227682,
+        "lat": 8.4719132,
+        "formatted": "75a Leicester Road, Leicester Road, Freetown, Sierra Leone",
+        "address_line1": "75a Leicester Road",
+        "address_line2": "Leicester Road, Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4365874897,
+            "name:en": "75a Leicester Road",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "75a Leicester Road"
+        },
+        "place_id": "5196c62fbc92742ac059c6e15b9b9ef12040f00103f901d1f6390401000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.227681999999998,
+          8.471913199392372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sierra Leone",
+        "country_code": "sl",
+        "state": "Western Area Urban",
+        "city": "Freetown",
+        "district": "New London",
+        "suburb": "Congo Town",
+        "street": "King Harman Road",
+        "lon": -13.2489225,
+        "lat": 8.4745003,
+        "formatted": "King Harman Road, Freetown, Sierra Leone",
+        "address_line1": "King Harman Road",
+        "address_line2": "Freetown, Sierra Leone",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12037823269,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51257a19c5727f2ac05943aa07b4f1f22040f00103f901259b82cd02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2489225,
+          8.474500299392394
+        ]
+      }
+    }
+  ]
+}

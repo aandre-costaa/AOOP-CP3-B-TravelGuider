@@ -1,0 +1,4855 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safaricks Zoo",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Portobelo",
+        "city": "María Chiquita",
+        "street": "Vía Sabanitas - Portobelo",
+        "iso3166_2": "PA-3",
+        "lon": -79.7500736,
+        "lat": 9.4416198,
+        "formatted": "Safaricks Zoo, Vía Sabanitas - Portobelo, María Chiquita, Colón, Panama",
+        "address_line1": "Safaricks Zoo",
+        "address_line2": "Vía Sabanitas - Portobelo, María Chiquita, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Safaricks Zoo",
+            "phone": "+5074356900",
+            "osm_id": 5584936422,
+            "name:en": "Safaricks Zoo",
+            "tourism": "attraction",
+            "website": "http://safarickszoo.com",
+            "osm_type": "n",
+            "opening_hours": "We-Su 09:00-16:00"
+          }
+        },
+        "website": "http://safarickszoo.com",
+        "opening_hours": "We-Su 09:00-16:00",
+        "name_international": {
+          "en": "Safaricks Zoo"
+        },
+        "contact": {
+          "phone": "+5074356900"
+        },
+        "place_id": "51f265b33401f053c059a08087fd1be22240f00103f901e65de34c0100000092030d536166617269636b73205a6f6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75007359999998,
+          9.441619799414468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miraflores Locks",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "village": "City of Knowledge",
+        "postcode": "0843",
+        "street": "Avenida Omar Torrijos Herrera",
+        "iso3166_2": "PA-8",
+        "lon": -79.591082,
+        "lat": 8.997114,
+        "formatted": "Miraflores Locks, Avenida Omar Torrijos Herrera, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Miraflores Locks",
+        "address_line2": "Avenida Omar Torrijos Herrera, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Miraflores Locks",
+            "osm_id": 247213717,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q6872559",
+            "wikipedia": "en:Miraflores (Panama)",
+            "wikimedia_commons": "Category:Miraflores Locks"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6872559",
+          "wikipedia": "en:Miraflores (Panama)",
+          "wikimedia_commons": "Category:Miraflores Locks"
+        },
+        "place_id": "5145d09849d4e553c059fd9fe3b985fe2140f00103f901952ebc0e000000009203104d697261666c6f726573204c6f636b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.59108199999999,
+          8.99711399940133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conjunto Monumental de Panama Viejo",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Parque Lefevre",
+        "iso3166_2": "PA-8",
+        "lon": -79.48549860912138,
+        "lat": 9.00835735,
+        "formatted": "Conjunto Monumental de Panama Viejo, Parque Lefevre, Distrito de Panamá, Panama",
+        "address_line1": "Conjunto Monumental de Panama Viejo",
+        "address_line2": "Parque Lefevre, Distrito de Panamá, Panama",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Conjunto Monumental de Panama Viejo",
+            "osm_id": 317525706,
+            "leisure": "park",
+            "tourism": "attraction",
+            "historic": "yes",
+            "osm_type": "w",
+            "start_date": "Siglo XVII",
+            "opening_hours": "Tu-Su 08:00-17:00"
+          }
+        },
+        "opening_hours": "Tu-Su 08:00-17:00",
+        "historic": {
+          "start_date": "Siglo XVII"
+        },
+        "place_id": "51821bc26812df53c059e8b81c6a47042240f00102f901ca0eed1200000000920323436f6e6a756e746f204d6f6e756d656e74616c2064652050616e616d61205669656a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.48549860912138,
+          9.008357349401606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza Mayor",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Parque Lefevre",
+        "iso3166_2": "PA-8",
+        "lon": -79.48562045162245,
+        "lat": 9.006668000000001,
+        "formatted": "Plaza Mayor, Parque Lefevre, Distrito de Panamá, Panama",
+        "address_line1": "Plaza Mayor",
+        "address_line2": "Parque Lefevre, Distrito de Panamá, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaza Mayor",
+            "place": "square",
+            "osm_id": 669457321,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q42886069"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q42886069"
+        },
+        "place_id": "512e7fcd6714df53c0590cb8eefc69032240f00102f901a91be7270000000092030b506c617a61204d61796f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.48562045162245,
+          9.006667999401564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linton Bay Marina",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Portobelo",
+        "city": "Puerto Lindo",
+        "hamlet": "Juan Gallego",
+        "street": "Carretera Portobelo - La Guaira",
+        "iso3166_2": "PA-3",
+        "lon": -79.57894352864814,
+        "lat": 9.6128111,
+        "formatted": "Linton Bay Marina, Carretera Portobelo - La Guaira, Puerto Lindo, Colón, Panama",
+        "address_line1": "Linton Bay Marina",
+        "address_line2": "Carretera Portobelo - La Guaira, Puerto Lindo, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Linton Bay Marina",
+            "osm_id": 671339342,
+            "leisure": "marina",
+            "tourism": "attraction",
+            "website": "https://www.lintonbaymarina.com/",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://www.lintonbaymarina.com/",
+        "place_id": "51937128690de553c059df465d60c2392340f00102f9014ed30328000000009203114c696e746f6e20426179204d6172696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.57894352864814,
+          9.612811099420865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butterfly Heaven",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "iso3166_2": "PA-2",
+        "lon": -80.12940950073047,
+        "lat": 8.601274400000001,
+        "formatted": "Butterfly Heaven, El Valle, Distrito de Antón, Panama",
+        "address_line1": "Butterfly Heaven",
+        "address_line2": "El Valle, Distrito de Antón, Panama",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Butterfly Heaven",
+            "osm_id": 776621261,
+            "leisure": "park",
+            "tourism": "attraction",
+            "website": "http://www.butterflyhavenpanama.com",
+            "osm_type": "w"
+          }
+        },
+        "website": "http://www.butterflyhavenpanama.com",
+        "place_id": "51745bc93e480854c05945a3f23cda332140f00102f901cd4c4a2e00000000920310427574746572666c792048656176656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12940950073045,
+          8.60127439939391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gatun Locks Visitor Center",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "village": "Gatún",
+        "street": "Calle Locks",
+        "iso3166_2": "PA-3",
+        "lon": -79.9223168,
+        "lat": 9.2730206,
+        "formatted": "Gatun Locks Visitor Center, Calle Locks, Cristóbal, Colón, Panama",
+        "address_line1": "Gatun Locks Visitor Center",
+        "address_line2": "Calle Locks, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gatun Locks Visitor Center",
+            "osm_id": 1291189586,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q2388548",
+            "wikipedia": "en:Gatun Locks",
+            "wikimedia_commons": "Category:Panama Canal locks"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2388548",
+          "wikipedia": "en:Gatun Locks",
+          "wikimedia_commons": "Category:Panama Canal locks"
+        },
+        "place_id": "5149230b3d07fb53c059e630235bc98b2240f00103f90152fdf54c0000000092031a476174756e204c6f636b732056697369746f722043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92231679999999,
+          9.273020599408891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pedro Miguel Locks",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "village": "City of Knowledge",
+        "hamlet": "Pedro Miguel",
+        "street": "Avenida Omar Torrijos Herrera",
+        "iso3166_2": "PA-8",
+        "lon": -79.613157,
+        "lat": 9.0174297,
+        "formatted": "Pedro Miguel Locks, Avenida Omar Torrijos Herrera, Ancón, Panamá Province, Panama",
+        "address_line1": "Pedro Miguel Locks",
+        "address_line2": "Avenida Omar Torrijos Herrera, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pedro Miguel Locks",
+            "osm_id": 2845942117,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q2388548",
+            "wikipedia": "en:Pedro Miguel Locks",
+            "wikimedia_commons": "Category:Panama Canal locks"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2388548",
+          "wikipedia": "en:Pedro Miguel Locks",
+          "wikimedia_commons": "Category:Panama Canal locks"
+        },
+        "place_id": "510f94dbf63de753c059e3d1a98bec082240f00103f90165a1a1a900000000920312506564726f204d696775656c204c6f636b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.61315699999999,
+          9.017429699401822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isla Mamey",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Portobelo",
+        "city": "Puerto Lindo",
+        "hamlet": "Juan Gallego",
+        "street": "Carretera Portobelo - La Guaira",
+        "iso3166_2": "PA-3",
+        "lon": -79.6009681,
+        "lat": 9.6180363,
+        "formatted": "Mamey Island, Carretera Portobelo - La Guaira, Puerto Lindo, Colón, Panama",
+        "address_line1": "Mamey Island",
+        "address_line2": "Carretera Portobelo - La Guaira, Puerto Lindo, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Isla Mamey",
+            "osm_id": 4586270103,
+            "name:en": "Mamey Island",
+            "name:es": "Isla Mamey",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "Mamey Island",
+          "es": "Isla Mamey"
+        },
+        "place_id": "511ddce74276e653c0593f82fb406f3c2340f00103f90197ed5c110100000092030a49736c61204d616d6579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6009681,
+          9.618036299421076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agua Clara Locks Visitor Center",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "village": "Gatún",
+        "street": "Camino al Mirador de Agua Clara",
+        "iso3166_2": "PA-3",
+        "lon": -79.9095363,
+        "lat": 9.2648553,
+        "formatted": "Agua Clara Locks Visitor Center, Camino al Mirador de Agua Clara, Cristóbal, Colón, Panama",
+        "address_line1": "Agua Clara Locks Visitor Center",
+        "address_line2": "Camino al Mirador de Agua Clara, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Agua Clara Locks Visitor Center",
+            "osm_id": 4593152300,
+            "tourism": "attraction",
+            "website": "https://visitcanaldepanama.com/en/horarios-de-transitos-en-los-centros-de-visitantes/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://visitcanaldepanama.com/en/horarios-de-transitos-en-los-centros-de-visitantes/",
+        "place_id": "5197c1bdd735fa53c059ce43221d9b872240f00103f9012cf1c5110100000092031f4167756120436c617261204c6f636b732056697369746f722043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9095363,
+          9.264855299408648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cielos del Pacifico",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "district": "Albrook",
+        "street": "Hangares",
+        "iso3166_2": "PA-8",
+        "lon": -79.5574474,
+        "lat": 8.9681931,
+        "formatted": "Cielos del Pacifico, Hangares, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Cielos del Pacifico",
+        "address_line2": "Hangares, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cielos del Pacifico",
+            "email": "info@cielosdelpacifico.com",
+            "phone": "+507 61507882",
+            "osm_id": 6211519987,
+            "tourism": "attraction",
+            "operator": "Cielos del Pacifico S.A.",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Cielos del Pacifico S.A.",
+        "contact": {
+          "phone": "+507 61507882",
+          "email": "info@cielosdelpacifico.com"
+        },
+        "place_id": "51600fdc37ade353c05906478401b7ef2140f00103f901f3453c72010000009203134369656c6f732064656c20506163696669636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5574474,
+          8.968193099400661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panama Canal Railway Passenger Terminal",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "district": "Los Ríos",
+        "street": "Avenida Omar Torrijos Herrera",
+        "iso3166_2": "PA-8",
+        "lon": -79.5671414,
+        "lat": 8.9760595,
+        "formatted": "Panama Canal Railway Passenger Terminal, Avenida Omar Torrijos Herrera, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Panama Canal Railway Passenger Terminal",
+        "address_line2": "Avenida Omar Torrijos Herrera, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Panama Canal Railway Passenger Terminal",
+            "osm_id": 7132150319,
+            "tourism": "attraction",
+            "website": "http://www.panarail.com",
+            "osm_type": "n"
+          }
+        },
+        "website": "http://www.panarail.com",
+        "place_id": "51494d710b4ce453c059e4c01912bef32140f00103f9012ffa1ba90100000092032750616e616d612043616e616c205261696c7761792050617373656e676572205465726d696e616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.56714139999998,
+          8.97605949940084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achudub Dummad",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Guna Yala",
+        "city": "Narganá",
+        "iso3166_2": "PA-KY",
+        "lon": -78.86511271387299,
+        "lat": 9.561960849999998,
+        "formatted": "Big Dog Island, Narganá, Guna Yala, Panama",
+        "address_line1": "Big Dog Island",
+        "address_line2": "Narganá, Guna Yala, Panama",
+        "categories": [
+          "island",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Achudub Dummad",
+            "place": "islet",
+            "osm_id": -12589840,
+            "name:en": "Big Dog Island",
+            "name:es": "Isla Perro Grande",
+            "tourism": "attraction",
+            "osm_type": "r"
+          }
+        },
+        "name_international": {
+          "en": "Big Dog Island",
+          "es": "Isla Perro Grande"
+        },
+        "place_id": "510d5cb7015eb753c059e4c51b55b91f2340f00101f901101bc0000000000092030e416368756475622044756d6d6164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86511271387299,
+          9.561960849418888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cinta Costera 3",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Santa Ana",
+        "postcode": "0843",
+        "district": "Barrio Chino",
+        "street": "Cinta Costera",
+        "iso3166_2": "PA-8",
+        "lon": -79.52822050305434,
+        "lat": 8.95370135,
+        "formatted": "Mirador Cinta Costera 3, Cinta Costera, 0843, Santa Ana, Panamá Province, Panama",
+        "address_line1": "Mirador Cinta Costera 3",
+        "address_line2": "Cinta Costera, 0843, Santa Ana, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cinta Costera 3",
+            "osm_id": -4014824,
+            "tourism": "attraction",
+            "osm_type": "r"
+          }
+        },
+        "place_id": "517c6c5e5dcee153c059a3a6138b4be82140f00101f901e8423d00000000009203174d697261646f722043696e746120436f73746572612033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52822050305434,
+          8.953701349400324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albrook Mall",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "street": "Avenida Roosevelt",
+        "iso3166_2": "PA-8",
+        "lon": -79.55272223691156,
+        "lat": 8.972777149999999,
+        "formatted": "Albrook Mall, Avenida Roosevelt, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Albrook Mall",
+        "address_line2": "Avenida Roosevelt, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.tourism",
+          "commercial",
+          "commercial.shopping_mall",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Albrook Mall",
+            "shop": "mall",
+            "osm_id": 273732972,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "building:levels": 2
+          }
+        },
+        "building": {
+          "levels": 2
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "place_id": "51a8d316cd5fe353c059ddf1b5d80ff22140f00102f9016cd550100000000092030c416c62726f6f6b204d616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55272223691156,
+          8.972777149400764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goethals Memorial",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "suburb": "Ancón",
+        "street": "O'Connor",
+        "iso3166_2": "PA-8",
+        "lon": -79.55568998446964,
+        "lat": 8.9585095,
+        "formatted": "Goethals Memorial, O'Connor, Ancón, 0843, Panamá Province, Panama",
+        "address_line1": "Goethals Memorial",
+        "address_line2": "O'Connor, Ancón, 0843, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Goethals Memorial",
+            "osm_id": 387032142,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51c280b96c90e353c0590fa9d1c1c1ea2140f00102f9014ea4111700000000920311476f657468616c73204d656d6f7269616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55568998446964,
+          8.958509499400433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuente",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "San Francisco",
+        "postcode": "0801",
+        "suburb": "San Francisco",
+        "street": "Avenida Doctor Belisario Porras",
+        "iso3166_2": "PA-8",
+        "lon": -79.5086253,
+        "lat": 8.9986164,
+        "formatted": "Fuente, Avenida Doctor Belisario Porras, San Francisco, 0801, Panamá Province, Panama",
+        "address_line1": "Fuente",
+        "address_line2": "Avenida Doctor Belisario Porras, San Francisco, 0801, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fuente",
+            "osm_id": 560133177,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51c35a21518de053c059385b11a64aff2140f00102f90139f46221000000009203064675656e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.50862529999999,
+          8.99861639940137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cerro Cedro",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0000",
+        "street": "Camino del Mono Titi",
+        "iso3166_2": "PA-8",
+        "lon": -79.5490835,
+        "lat": 8.9954739,
+        "formatted": "Mirador Cerro Cedro, Camino del Mono Titi, 0000, Ancón, Panamá Province, Panama",
+        "address_line1": "Mirador Cerro Cedro",
+        "address_line2": "Camino del Mono Titi, 0000, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cerro Cedro",
+            "osm_id": 613637812,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517cd11e2f24e353c0597de643c1aefd2140f00103f901b45e9324000000009203134d697261646f7220436572726f20436564726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5490835,
+          8.995473899401299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baluarte Mano De Tigre",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Panama City",
+        "hamlet": "Santa Ana",
+        "postcode": "0843",
+        "suburb": "San Felipe",
+        "street": "Calle Pedro A. Díaz",
+        "iso3166_2": "PA-8",
+        "lon": -79.53764478255759,
+        "lat": 8.952194500000001,
+        "formatted": "Baluarte Mano De Tigre, Calle Pedro A. Díaz, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "address_line1": "Baluarte Mano De Tigre",
+        "address_line2": "Calle Pedro A. Díaz, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Baluarte Mano De Tigre",
+            "osm_id": 669391030,
+            "barrier": "city_wall",
+            "tourism": "attraction",
+            "historic": "monument",
+            "material": "stone",
+            "military": "rampart",
+            "osm_type": "w",
+            "historic:civilization": "spanish"
+          }
+        },
+        "historic": {
+          "type": "monument",
+          "civilization": "spanish"
+        },
+        "place_id": "51ca7ca9c568e253c059f2b5940986e72140f00102f901b618e6270000000092031642616c7561727465204d616e6f204465205469677265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53764478255758,
+          8.952194499400296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Castillo",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0000",
+        "street": "Camino del Mono Titi",
+        "iso3166_2": "PA-8",
+        "lon": -79.54341482262912,
+        "lat": 8.99299045,
+        "formatted": "El Castillo, Camino del Mono Titi, 0000, Ancón, Panamá Province, Panama",
+        "address_line1": "El Castillo",
+        "address_line2": "Camino del Mono Titi, 0000, Ancón, Panamá Province, Panama",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "El Castillo",
+            "osm_id": 669443437,
+            "tourism": "attraction",
+            "building": "yes",
+            "military": "bunker",
+            "osm_type": "w",
+            "bunker_type": "technical"
+          }
+        },
+        "place_id": "51a3d6f64ec7e253c0595ad6823e69fc2140f00102f9016de5e6270000000092030b456c2043617374696c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.54341482262912,
+          8.992990449401237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Fortaleza Santiago de la Gloria",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Portobelo",
+        "city": "Portobelo",
+        "street": "Vía Sabanitas - Portobelo",
+        "iso3166_2": "PA-3",
+        "lon": -79.65825146729088,
+        "lat": 9.553108250000001,
+        "formatted": "Ruins of Fortaleza Santiago de la Gloria, Vía Sabanitas - Portobelo, Portobelo, Colón, Panama",
+        "address_line1": "Ruins of Fortaleza Santiago de la Gloria",
+        "address_line2": "Vía Sabanitas - Portobelo, Portobelo, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ruins of Fortaleza Santiago de la Gloria",
+            "osm_id": 670927188,
+            "tourism": "attraction",
+            "historic": "fortress",
+            "osm_type": "w",
+            "start_date": 1630
+          }
+        },
+        "historic": {
+          "type": "fortress",
+          "start_date": 1630
+        },
+        "place_id": "51bc23c3ca20ea53c0590bcd2401311b2340f00102f9015489fd27000000009203285275696e73206f6620466f7274616c657a612053616e746961676f206465206c6120476c6f726961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.65825146729088,
+          9.553108249418548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Martín",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Bella Vista",
+        "postcode": "0823",
+        "district": "El Cangrejo",
+        "street": "Avenida Argentina",
+        "iso3166_2": "PA-8",
+        "lon": -79.5316254,
+        "lat": 8.986916,
+        "formatted": "San Martín, Avenida Argentina, 0823, Bella Vista, Panamá Province, Panama",
+        "address_line1": "San Martín",
+        "address_line2": "Avenida Argentina, 0823, Bella Vista, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "San Martín",
+            "osm_id": 858186886,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5143ae8a2606e253c0595ba7ca0d4df92140f00103f90186e426330000000092030b53616e204d617274c3ad6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53162539999998,
+          8.986915999401097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Natural Metropolitano",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "street": "Avenida Juan Pablo II",
+        "iso3166_2": "PA-8",
+        "lon": -79.5466747,
+        "lat": 8.985341,
+        "formatted": "Parque Natural Metropolitano, Avenida Juan Pablo II, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Parque Natural Metropolitano",
+        "address_line2": "Avenida Juan Pablo II, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque Natural Metropolitano",
+            "osm_id": 859791743,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513d83e1b7fce253c059c3ab8f9d7ef82140f00103f9017f613f330000000092031c506172717565204e61747572616c204d6574726f706f6c6974616e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5466747,
+          8.985340999401052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avalon Resort",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Las Cumbres",
+        "village": "Las Lajas",
+        "street": "Via Las Lajas",
+        "iso3166_2": "PA-8",
+        "lon": -79.5363556,
+        "lat": 9.0913151,
+        "formatted": "Avalon Resort, Via Las Lajas, Las Cumbres, Panamá Province, Panama",
+        "address_line1": "Avalon Resort",
+        "address_line2": "Via Las Lajas, Las Cumbres, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Avalon Resort",
+            "osm_id": 876743973,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b14170a653e253c059c6234bdac02e2240f00103f901250d42340000000092030d4176616c6f6e205265736f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5363556,
+          9.091315099403698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANAMÁ sign",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "hamlet": "Isla Perico",
+        "street": "Avenida Amador",
+        "iso3166_2": "PA-8",
+        "lon": -79.52091147391305,
+        "lat": 8.91158865,
+        "formatted": "PANAMÁ sign, Avenida Amador, Ancón, Panamá Province, Panama",
+        "address_line1": "PANAMÁ sign",
+        "address_line2": "Avenida Amador, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "PANAMÁ sign",
+            "osm_id": 1160703522,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "installation"
+          }
+        },
+        "artwork": {
+          "artwork_type": "installation"
+        },
+        "place_id": "515424149d56e153c0597e2659bfbbd22140f00102f90122ee2e450000000092030c50414e414dc381207369676e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52091147391303,
+          8.911588649399388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TABOGA sign",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Taboga",
+        "city": "Taboga",
+        "street": "Calle Francisco Pizarro",
+        "iso3166_2": "PA-8",
+        "lon": -79.5552718295952,
+        "lat": 8.79821715,
+        "formatted": "TABOGA sign, Calle Francisco Pizarro, Taboga, Panamá Province, Panama",
+        "address_line1": "TABOGA sign",
+        "address_line2": "Calle Francisco Pizarro, Taboga, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "TABOGA sign",
+            "osm_id": 1160703524,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "installation"
+          }
+        },
+        "artwork": {
+          "artwork_type": "installation"
+        },
+        "place_id": "511820db9289e353c059a3880febaf982140f00102f90124ee2e450000000092030b5441424f4741207369676e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5552718295952,
+          8.798217149397095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cerro Pelado",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "24 de Diciembre",
+        "street": "Calle Austuria",
+        "iso3166_2": "PA-8",
+        "lon": -79.37801915910948,
+        "lat": 9.2047104,
+        "formatted": "Mirador Cerro Pelado, Calle Austuria, 24 de Diciembre, Panamá Province, Panama",
+        "address_line1": "Mirador Cerro Pelado",
+        "address_line2": "Calle Austuria, 24 de Diciembre, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cerro Pelado",
+            "osm_id": 1173182142,
+            "tourism": "viewpoint",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51be68457731d853c05900352dcdcf682240f00102f901be56ed45000000009203144d697261646f7220436572726f2050656c61646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37801915910947,
+          9.20471039940685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piedra Pintada",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "district": "Alto-La Mesa",
+        "street": "Calle La Pintada",
+        "iso3166_2": "PA-2",
+        "lon": -80.1472414,
+        "lat": 8.6137238,
+        "formatted": "Piedra Pintada, Calle La Pintada, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Piedra Pintada",
+        "address_line2": "Calle La Pintada, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Piedra Pintada",
+            "osm_id": 1282128939,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51806731676c0954c05954597e013a3a2140f00103f9012bbc6b4c0000000092030e5069656472612050696e74616461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14724139999998,
+          8.613723799394087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canopy Tours Zip line",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "district": "Alto-La Mesa",
+        "street": "Calle La Compañía",
+        "iso3166_2": "PA-2",
+        "lon": -80.1385468,
+        "lat": 8.625874,
+        "formatted": "Canopy Tours Zip line, Calle La Compañía, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Canopy Tours Zip line",
+        "address_line2": "Calle La Compañía, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Canopy Tours Zip line",
+            "osm_id": 1282128954,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c9bd65f3dd0854c05953a18d8e72402140f00103f9013abc6b4c0000000092031543616e6f707920546f757273205a6970206c696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13854679999999,
+          8.625873999394264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chorro macho",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "district": "Alto-La Mesa",
+        "street": "Calle La Compañía",
+        "iso3166_2": "PA-2",
+        "lon": -80.1392577,
+        "lat": 8.6262096,
+        "formatted": "Chorro macho, Calle La Compañía, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Chorro macho",
+        "address_line2": "Calle La Compañía, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chorro macho",
+            "osm_id": 1282128960,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d5cd2099e90854c059e3ad6b8b9e402140f00103f90140bc6b4c0000000092030c43686f72726f206d6163686f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13925769999999,
+          8.626209599394263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Peru",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Portobelo",
+        "city": "Portobelo",
+        "street": "Vía Sabanitas - Portobelo",
+        "iso3166_2": "PA-3",
+        "lon": -79.6581941,
+        "lat": 9.5530881,
+        "formatted": "Mirador Peru, Vía Sabanitas - Portobelo, Portobelo, Colón, Panama",
+        "address_line1": "Mirador Peru",
+        "address_line2": "Vía Sabanitas - Portobelo, Portobelo, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Peru",
+            "osm_id": 1291189624,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e47a25da1fea53c059759e055d2e1b2340f00103f90178fdf54c0000000092030c4d697261646f722050657275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6581941,
+          9.553088099418554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Square Trees;arboles cuadrados",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "Calle Capirita",
+        "iso3166_2": "PA-2",
+        "lon": -80.1103083,
+        "lat": 8.6168664,
+        "formatted": "Square Trees;arboles cuadrados, Calle Capirita, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Square Trees;arboles cuadrados",
+        "address_line2": "Calle Capirita, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Square Trees;arboles cuadrados",
+            "osm_id": 1866726532,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518d3e8b4a0f0754c0594ccca6e9d53b2140f00103f90184fc436f0000000092031e5371756172652054726565733b6172626f6c657320637561647261646f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1103083,
+          8.61686639939412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cerro Ancón",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "suburb": "Ancón",
+        "street": "Calle Amelia Denis de Icaza",
+        "iso3166_2": "PA-8",
+        "lon": -79.5492628,
+        "lat": 8.9579135,
+        "formatted": "Mirador Cerro Ancón, Calle Amelia Denis de Icaza, Ancón, 0843, Panamá Province, Panama",
+        "address_line1": "Mirador Cerro Ancón",
+        "address_line2": "Calle Amelia Denis de Icaza, Ancón, 0843, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cerro Ancón",
+            "osm_id": 1944943639,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5133ba281f27e353c059baa460a373ea2140f00103f901177ced73000000009203144d697261646f7220436572726f20416e63c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5492628,
+          8.957913499400423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador p.n. Altos de Campana",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Capira",
+        "street": "Sendero La Cruz",
+        "iso3166_2": "PA-10",
+        "lon": -79.9108563,
+        "lat": 8.6901011,
+        "formatted": "Mirador p.n. Altos de Campana, Sendero La Cruz, Panamá Oeste, Panama",
+        "address_line1": "Mirador p.n. Altos de Campana",
+        "address_line2": "Sendero La Cruz, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador p.n. Altos de Campana",
+            "osm_id": 2267269282,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c2f638784bfa53c0591fac69ee54612140f00103f901a2c823870000000092031d4d697261646f7220702e6e2e20416c746f732064652043616d70616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9108563,
+          8.690101099395234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canopy Tower",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "street": "Semaphore Hill",
+        "iso3166_2": "PA-8",
+        "lon": -79.6491198,
+        "lat": 9.0777296,
+        "formatted": "Canopy Tower, Semaphore Hill, Ancón, Panamá Province, Panama",
+        "address_line1": "Canopy Tower",
+        "address_line2": "Semaphore Hill, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Canopy Tower",
+            "osm_id": 2363535018,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e80bc62d8be953c059b5bc8e2ccc272240f00103f901aaaee08c0000000092030c43616e6f707920546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6491198,
+          9.07772959940335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PRDC - Tower",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "postcode": "0802",
+        "street": "RUTA 842 - Pipeline Road - Camino del Oleoducto",
+        "iso3166_2": "PA-3",
+        "lon": -79.7256159,
+        "lat": 9.1311463,
+        "formatted": "PRDC - Tower, RUTA 842 - Pipeline Road - Camino del Oleoducto, 0802, Cristóbal, Colón, Panama",
+        "address_line1": "PRDC - Tower",
+        "address_line2": "RUTA 842 - Pipeline Road - Camino del Oleoducto, 0802, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PRDC - Tower",
+            "osm_id": 2364186745,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "description": "Attention: 30 $ entrance fee for non-residents of Panama"
+          }
+        },
+        "description": "Attention: 30 $ entrance fee for non-residents of Panama",
+        "place_id": "5149fdab7d70ee53c059aade959b25432240f00103f90179a0ea8c0000000092030c50524443202d20546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7256159,
+          9.131146299404765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Contadora Ferry Wreck",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Balboa",
+        "city": "Saboga",
+        "iso3166_2": "PA-8",
+        "lon": -79.0300986,
+        "lat": 8.6291484,
+        "formatted": "Contadora Ferry Wreck, Saboga, Distrito de Balboa, Panama",
+        "address_line1": "Contadora Ferry Wreck",
+        "address_line2": "Saboga, Distrito de Balboa, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Contadora Ferry Wreck",
+            "osm_id": 2501244889,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f2a9ad22edc153c05969752fbd1f422140f00103f901d9f7159500000000920315436f6e7461646f726120466572727920577265636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0300986,
+          8.629148399394312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "suburb": "Sede Administrativa P.N. Metropolitano",
+        "street": "Sendero Los Caobos",
+        "iso3166_2": "PA-8",
+        "lon": -79.5475442,
+        "lat": 8.9884056,
+        "formatted": "Mirador, Sendero Los Caobos, Sede Administrativa P.N. Metropolitano, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Mirador",
+        "address_line2": "Sendero Los Caobos, Sede Administrativa P.N. Metropolitano, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 2519400959,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515307d4f60ae353c059e738794c10fa2140f00103f901ff012b96000000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.54754419999999,
+          8.988405599401132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mi Pueblito",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "district": "Balboa",
+        "street": "Quarry Heights Road",
+        "iso3166_2": "PA-8",
+        "lon": -79.5479618,
+        "lat": 8.9533089,
+        "formatted": "Mi Pueblito, Quarry Heights Road, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Mi Pueblito",
+        "address_line2": "Quarry Heights Road, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mi Pueblito",
+            "osm_id": 2627344938,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51439d5ece11e353c059f7d1a31a18e82140f00103f9012a1a9a9c0000000092030b4d6920507565626c69746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.54796179999998,
+          8.95330889940031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limbo Hunt Club",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "street": "RUTA 842 - Pipeline Road - Camino del Oleoducto",
+        "iso3166_2": "PA-3",
+        "lon": -79.7534253,
+        "lat": 9.1638397,
+        "formatted": "Limbo Hunt Club, RUTA 842 - Pipeline Road - Camino del Oleoducto, Cristóbal, Colón, Panama",
+        "address_line1": "Limbo Hunt Club",
+        "address_line2": "RUTA 842 - Pipeline Road - Camino del Oleoducto, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Limbo Hunt Club",
+            "osm_id": 3003829610,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a7debf1e38f053c059b8770dcce2532240f00103f9016acd0ab30000000092030f4c696d626f2048756e7420436c7562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.75342529999999,
+          9.16383969940567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "APROVACA Orchid Nursery",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "Calle Los Millionares",
+        "iso3166_2": "PA-2",
+        "lon": -80.1224971,
+        "lat": 8.6002848,
+        "formatted": "APROVACA Orchid Nursery, Calle Los Millionares, 0212, El Valle, Coclé, Panama",
+        "address_line1": "APROVACA Orchid Nursery",
+        "address_line2": "Calle Los Millionares, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "APROVACA Orchid Nursery",
+            "osm_id": 3521043752,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "user_defined_other": "Orchid Garden"
+          }
+        },
+        "place_id": "51b69613fed60754c0598d5d7b8758332140f00103f90128ddded1000000009203174150524f56414341204f7263686964204e757273657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1224971,
+          8.600284799393899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carreras Scooter & Supermoto",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Chame",
+        "city": "Coronado",
+        "street": "Avenida Roberto Eisenmann",
+        "iso3166_2": "PA-10",
+        "lon": -79.9053391,
+        "lat": 8.5328122,
+        "formatted": "Carreras Scooter & Supermoto, Avenida Roberto Eisenmann, Coronado, Panamá Oeste, Panama",
+        "address_line1": "Carreras Scooter & Supermoto",
+        "address_line2": "Avenida Roberto Eisenmann, Coronado, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Carreras Scooter & Supermoto",
+            "osm_id": 3846935556,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5191926813f1f953c059189bb6c2cc102140f00103f90104944be50000000092031c43617272657261732053636f6f74657220262053757065726d6f746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9053391,
+          8.532812199393035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cesarin Panadería y Dulcería",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Arraiján",
+        "city": "Vacamonte",
+        "district": "Chorrillito",
+        "street": "Boulevar Simón Ruiz Díaz",
+        "iso3166_2": "PA-10",
+        "lon": -79.6965508,
+        "lat": 8.9202799,
+        "formatted": "Cesarin Panadería y Dulcería, Boulevar Simón Ruiz Díaz, Vacamonte, Panamá Oeste, Panama",
+        "address_line1": "Cesarin Panadería y Dulcería",
+        "address_line2": "Boulevar Simón Ruiz Díaz, Vacamonte, Panamá Oeste, Panama",
+        "categories": [
+          "commercial",
+          "commercial.food_and_drink",
+          "commercial.food_and_drink.bakery",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cesarin Panadería y Dulcería",
+            "shop": "bakery",
+            "osm_id": 3882588522,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Calle Principal Vacamonte",
+            "addr:street": "Boulevar Simón Ruiz Díaz",
+            "payment:cash": "yes"
+          }
+        },
+        "payment_options": {
+          "cash": true
+        },
+        "commercial": {
+          "type": "bakery"
+        },
+        "place_id": "512a80ce4994ec53c059bd2c4eed2ed72140f00103f9016a996be70000000092031e4365736172696e2050616e61646572c3ad6120792044756c636572c3ad61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.69655079999998,
+          8.920279899399583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La India Dormida",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "La India Dormida Trailhead",
+        "iso3166_2": "PA-2",
+        "lon": -80.1512095,
+        "lat": 8.6127968,
+        "formatted": "La India Dormida Trailhead, 0212, El Valle, Coclé, Panama",
+        "address_line1": "La India Dormida Trailhead",
+        "address_line2": "0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La India Dormida",
+            "osm_id": 4111760889,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510d569c6aad0954c05966fb8880c0392140f00103f901f97d14f5000000009203104c6120496e64696120446f726d696461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15120950000001,
+          8.612796799394072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuerte Amador",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "hamlet": "Isla Perico",
+        "street": "Avenida Amador",
+        "iso3166_2": "PA-8",
+        "lon": -79.5194964,
+        "lat": 8.9108251,
+        "formatted": "Fuerte Amador, Avenida Amador, Ancón, Panamá Province, Panama",
+        "address_line1": "Fuerte Amador",
+        "address_line2": "Avenida Amador, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fuerte Amador",
+            "osm_id": 4300687589,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f018d46d3fe153c059ac97dcaa57d22140f00103f901e54857000100000092030d46756572746520416d61646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.51949639999998,
+          8.910825099399368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puente Centenario",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Arraiján",
+        "street": "Corredor Logístico Del Canal",
+        "iso3166_2": "PA-10",
+        "lon": -79.6376691,
+        "lat": 9.0238129,
+        "formatted": "Puente Centenario, Corredor Logístico Del Canal, Panamá Oeste, Panama",
+        "address_line1": "Puente Centenario",
+        "address_line2": "Corredor Logístico Del Canal, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puente Centenario",
+            "osm_id": 4301433592,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51dd8a0e92cfe853c059144f5034310c2240f00103f901f8aa6200010000009203115075656e74652043656e74656e6172696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6376691,
+          9.023812899401982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ministerio Pacto con Dios",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de La Chorrera",
+        "city": "Puerto Caimito",
+        "postcode": "1015",
+        "street": "Avenida Mariano Rivera",
+        "iso3166_2": "PA-10",
+        "lon": -79.7148378,
+        "lat": 8.874482,
+        "formatted": "Ministerio Pacto con Dios, Avenida Mariano Rivera, 1015, Puerto Caimito, Panamá Oeste, Panama",
+        "address_line1": "Ministerio Pacto con Dios",
+        "address_line2": "Avenida Mariano Rivera, 1015, Puerto Caimito, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ministerio Pacto con Dios",
+            "osm_id": 4362838793,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51743c0be7bfed53c05923b7c81abcbf2140f00103f90109a30b04010000009203194d696e6973746572696f20506163746f20636f6e2044696f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7148378,
+          8.874481999398602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Piscina",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Guna Yala",
+        "iso3166_2": "PA-KY",
+        "lon": -78.860719,
+        "lat": 9.5737729,
+        "formatted": "La Piscina, Guna Yala, Panama",
+        "address_line1": "La Piscina",
+        "address_line2": "Guna Yala, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Piscina",
+            "osm_id": 4434887956,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ee02250516b753c059a4acbc8fc5252340f00103f901140557080100000092030a4c612050697363696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86071899999999,
+          9.573772899419346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viewing Terrace Agua Clara Locks",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "village": "Gatún",
+        "street": "Vía Agua Clara",
+        "iso3166_2": "PA-3",
+        "lon": -79.91028,
+        "lat": 9.2647125,
+        "formatted": "Viewing Terrace Agua Clara Locks, Vía Agua Clara, Cristóbal, Colón, Panama",
+        "address_line1": "Viewing Terrace Agua Clara Locks",
+        "address_line2": "Vía Agua Clara, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Viewing Terrace Agua Clara Locks",
+            "osm_id": 4598122494,
+            "name:de": "Aussichtsterrasse Agua Clara Locks",
+            "name:fr": "Canal Visiteur",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Aussichtsterrasse Agua Clara Locks",
+          "fr": "Canal Visiteur"
+        },
+        "place_id": "51fb8c0b0742fa53c059e49a8f6588872240f00103f901fec711120100000092032056696577696e672054657272616365204167756120436c617261204c6f636b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91027999999999,
+          9.264712499408638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balboa Yatch club",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "street": "Calle Miller",
+        "iso3166_2": "PA-8",
+        "lon": -79.5547524,
+        "lat": 8.9395625,
+        "formatted": "Balboa Yatch club, Calle Miller, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Balboa Yatch club",
+        "address_line2": "Calle Miller, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Balboa Yatch club",
+            "osm_id": 4790626721,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5129d8351081e353c05929f1fe550ee12140f00103f901a1298b1d0100000092031142616c626f6120596174636820636c7562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5547524,
+          8.9395624994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscina de Albrook",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "district": "Albrook",
+        "street": "Paseo de la Iguana",
+        "iso3166_2": "PA-8",
+        "lon": -79.5628608,
+        "lat": 8.9752523,
+        "formatted": "Piscina de Albrook, Paseo de la Iguana, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Piscina de Albrook",
+        "address_line2": "Paseo de la Iguana, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Piscina de Albrook",
+            "osm_id": 4900701423,
+            "name:es": "Piscina de Albrook",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Piscina de Albrook"
+        },
+        "place_id": "51d20c4ee905e453c059f78cf64454f32140f00103f901efc41a240100000092031250697363696e6120646520416c62726f6f6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.56286079999998,
+          8.97525229940082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Puente de las Américas",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Arraiján",
+        "city": "Arraiján",
+        "postcode": "0843",
+        "street": "Carretera Panamericana",
+        "iso3166_2": "PA-10",
+        "lon": -79.5723464,
+        "lat": 8.9406581,
+        "formatted": "Bridge of the Americas Viewpoint, Carretera Panamericana, 0843, Arraiján, Panamá Oeste, Panama",
+        "address_line1": "Bridge of the Americas Viewpoint",
+        "address_line2": "Carretera Panamericana, 0843, Arraiján, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Puente de las Américas",
+            "osm_id": 5045842609,
+            "name:en": "Bridge of the Americas Viewpoint",
+            "name:es": "Mirador Puente de las Américas",
+            "name:zh": "美洲大桥观景点",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "name:zh-Hans": "美洲大桥观景点",
+            "name:zh-Hant": "美洲大橋觀景點"
+          }
+        },
+        "name_international": {
+          "en": "Bridge of the Americas Viewpoint",
+          "es": "Mirador Puente de las Américas",
+          "zh": "美洲大桥观景点"
+        },
+        "place_id": "51ef7ecb52a1e453c05902483bf09de12140f00103f901b172c12c0100000092031f4d697261646f72205075656e7465206465206c617320416dc3a97269636173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5723464,
+          8.940658099400029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Corotu",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Caimitillo",
+        "street": "Vía Nuevo México - Nuevo Caimitillo",
+        "iso3166_2": "PA-8",
+        "lon": -79.5464188,
+        "lat": 9.2226026,
+        "formatted": "Puerto Corotu, Vía Nuevo México - Nuevo Caimitillo, Caimitillo, Panamá Province, Panama",
+        "address_line1": "Puerto Corotu",
+        "address_line2": "Vía Nuevo México - Nuevo Caimitillo, Caimitillo, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puerto Corotu",
+            "osm_id": 5151892124,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "seamark:name": "Puerto Corotu",
+            "seamark:type": "mooring"
+          }
+        },
+        "place_id": "51dbfa8e86f8e253c05921ebc8f7f8712240f00103f9019ca213330100000092030d50756572746f20436f726f7475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.54641880000001,
+          9.222602599407368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sitio arqueológico",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Balboa",
+        "city": "Saboga",
+        "iso3166_2": "PA-8",
+        "lon": -79.0651227,
+        "lat": 8.6344024,
+        "formatted": "archeological place, Saboga, Distrito de Balboa, Panama",
+        "address_line1": "archeological place",
+        "address_line2": "Saboga, Distrito de Balboa, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "sitio arqueológico",
+            "osm_id": 5218057321,
+            "name:en": "archeological place",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "archeological place"
+        },
+        "place_id": "518aae66f82ac453c05938ce2b64d0442140f00103f901693c053701000000920313736974696f2061727175656f6cc3b36769636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.06512269999999,
+          8.634402399394375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los cajones de Chame",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Chame",
+        "city": "Sorá",
+        "street": "Vía Bejuco - Sorá",
+        "iso3166_2": "PA-10",
+        "lon": -79.9795622,
+        "lat": 8.6491941,
+        "formatted": "The Chame’s box, Vía Bejuco - Sorá, Sorá, Panamá Oeste, Panama",
+        "address_line1": "The Chame’s box",
+        "address_line2": "Vía Bejuco - Sorá, Sorá, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Los cajones de Chame",
+            "osm_id": 5392874621,
+            "name:en": "The Chame’s box",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "The Chame’s box"
+        },
+        "place_id": "517559a725b1fe53c059dd4f432b634c2140f00103f9017dbc7041010000009203144c6f732063616a6f6e6573206465204368616d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97956219999999,
+          8.6491940993946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raw workspace",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Bella Vista",
+        "postcode": "0823",
+        "district": "El Cangrejo",
+        "street": "Avenida Argentina",
+        "iso3166_2": "PA-8",
+        "lon": -79.5296884,
+        "lat": 8.9881468,
+        "formatted": "Raw workspace, Avenida Argentina, 0823, Bella Vista, Panamá Province, Panama",
+        "address_line1": "Raw workspace",
+        "address_line2": "Avenida Argentina, 0823, Bella Vista, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Raw workspace",
+            "osm_id": 5805913653,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5183c42c6ae6e153c05957269660eef92140f00103f90135360f5a0100000092030d52617720776f726b7370616365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52968839999998,
+          8.98814679940112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro La Gaita 2",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "city": "Distrito de San Carlos",
+        "street": "Paseo María",
+        "iso3166_2": "PA-10",
+        "lon": -80.07356,
+        "lat": 8.629311,
+        "formatted": "Cerro La Gaita - Final, Paseo María, Distrito de San Carlos, Panamá Oeste, Panama",
+        "address_line1": "Cerro La Gaita - Final",
+        "address_line2": "Paseo María, Distrito de San Carlos, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro La Gaita 2",
+            "osm_id": 5866035090,
+            "name:en": "Cerro La Gaita - Final",
+            "name:es": "Cerro La Gaita - Final",
+            "name:nl": "Cerro La Gaita - Final",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Cerro La Gaita - Final",
+          "es": "Cerro La Gaita - Final",
+          "nl": "Cerro La Gaita - Final"
+        },
+        "place_id": "51cc920035b50454c059bfd2220d35422140f00103f9019297a45d01000000920310436572726f204c612047616974612032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07355999999999,
+          8.629310999394304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro La Gaita - Start",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "city": "Distrito de San Carlos",
+        "street": "Paseo María",
+        "iso3166_2": "PA-10",
+        "lon": -80.0748434,
+        "lat": 8.6330457,
+        "formatted": "Cerro La Gaita - Start, Paseo María, Distrito de San Carlos, Panamá Oeste, Panama",
+        "address_line1": "Cerro La Gaita - Start",
+        "address_line2": "Paseo María, Distrito de San Carlos, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro La Gaita - Start",
+            "osm_id": 5866035187,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5193d4f83bca0454c059608bdf901e442140f00103f901f397a45d01000000920316436572726f204c61204761697461202d205374617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0748434,
+          8.633045699394359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aussichtspunkt Skyline",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Panama City",
+        "postcode": "0843",
+        "suburb": "San Felipe",
+        "street": "Paseo Esteban Huertas [Paseo de Las Bovedas]",
+        "iso3166_2": "PA-8",
+        "lon": -79.5314656,
+        "lat": 8.9502521,
+        "formatted": "Aussichtspunkt Skyline, Paseo Esteban Huertas [Paseo de Las Bovedas], San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "address_line1": "Aussichtspunkt Skyline",
+        "address_line2": "Paseo Esteban Huertas [Paseo de Las Bovedas], San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aussichtspunkt Skyline",
+            "osm_id": 5905416485,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bdbc4a8803e253c05945c2737187e62140f00103f9012581fd5f0100000092031641757373696368747370756e6b7420536b796c696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5314656,
+          8.950252099400254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vista El Valle",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "Cariguana East",
+        "iso3166_2": "PA-2",
+        "lon": -80.1370658,
+        "lat": 8.592758,
+        "formatted": "View over El Valle, Cariguana East, 0212, El Valle, Coclé, Panama",
+        "address_line1": "View over El Valle",
+        "address_line2": "Cariguana East, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vista El Valle",
+            "osm_id": 5967840185,
+            "name:en": "View over El Valle",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "View over El Valle"
+        },
+        "place_id": "519b19a2afc50854c0596badfbf97d2f2140f00103f901b903b6630100000092030e566973746120456c2056616c6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1370658,
+          8.592757999393788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vista fantástica",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "Vía Antón - El Valle",
+        "iso3166_2": "PA-2",
+        "lon": -80.1544068,
+        "lat": 8.5907781,
+        "formatted": "Fantastic panorama, Vía Antón - El Valle, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Fantastic panorama",
+        "address_line2": "Vía Antón - El Valle, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vista fantástica",
+            "osm_id": 5973309091,
+            "name:en": "Fantastic panorama",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Fantastic panorama"
+        },
+        "place_id": "51ec110fcde10954c059b52d90777a2e2140f00103f901a37609640100000092031156697374612066616e74c3a17374696361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1544068,
+          8.590778099393768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chorro las Mozas #2",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "iso3166_2": "PA-2",
+        "lon": -80.1493523,
+        "lat": 8.5908188,
+        "formatted": "Chorro las Mozas #2, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Chorro las Mozas #2",
+        "address_line2": "0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chorro las Mozas #2",
+            "osm_id": 5973316393,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "place_id": "514505f3fc8e0954c05937843acd7f2e2140f00103f901299309640100000092031343686f72726f206c6173204d6f7a6173202332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14935229999999,
+          8.590818799393771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chorro las Mozas #1",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "iso3166_2": "PA-2",
+        "lon": -80.1488829,
+        "lat": 8.5915223,
+        "formatted": "Chorro las Mozas #1, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Chorro las Mozas #1",
+        "address_line2": "0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chorro las Mozas #1",
+            "osm_id": 5973344185,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "place_id": "51c19b244c870954c0598480c502dc2e2140f00103f901b9ff09640100000092031343686f72726f206c6173204d6f7a6173202331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1488829,
+          8.59152229939378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "village": "La Mesa",
+        "postcode": "0212",
+        "street": "Sendero El Convento",
+        "iso3166_2": "PA-2",
+        "lon": -80.1182607,
+        "lat": 8.6240632,
+        "formatted": "Mirador, Sendero El Convento, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Mirador",
+        "address_line2": "Sendero El Convento, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 6025771785,
+            "name:de": "Aussichtspunkt",
+            "name:fi": "Näköalatasanne",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Aussichtspunkt",
+          "fi": "Näköalatasanne"
+        },
+        "place_id": "51bbb95395910754c0591c123036853f2140f00103f90109fb2967010000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1182607,
+          8.624063199394236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barco Hundido",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Guna Yala",
+        "city": "Narganá",
+        "hamlet": "Niadup",
+        "iso3166_2": "PA-KY",
+        "lon": -78.8770165,
+        "lat": 9.5586148,
+        "formatted": "Sunken ship, Narganá, Guna Yala, Panama",
+        "address_line1": "Sunken ship",
+        "address_line2": "Narganá, Guna Yala, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Barco Hundido",
+            "osm_id": 6033129392,
+            "name:en": "Sunken ship",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Sunken ship"
+        },
+        "place_id": "515963d00921b853c05960214dc2021e2340f00103f901b03f9a670100000092030d426172636f2048756e6469646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87701649999998,
+          9.558614799418763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entrada senderos y camping PN Altos de Campana",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Capira",
+        "city": "Chicá",
+        "street": "Sendero Panamá",
+        "iso3166_2": "PA-10",
+        "lon": -79.9238945,
+        "lat": 8.6813868,
+        "formatted": "Entrada senderos y camping PN Altos de Campana, Sendero Panamá, Chicá, Panamá Oeste, Panama",
+        "address_line1": "Entrada senderos y camping PN Altos de Campana",
+        "address_line2": "Sendero Panamá, Chicá, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Entrada senderos y camping PN Altos de Campana",
+            "osm_id": 6051087988,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51129d651621fb53c059f6a706bbde5c2140f00103f9017446ac680100000092032e456e74726164612073656e6465726f7320792063616d70696e6720504e20416c746f732064652043616d70616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92389449999999,
+          8.681386799395096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Información Turística del Parque Nacional",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Capira",
+        "street": "Sendero La Cruz",
+        "iso3166_2": "PA-10",
+        "lon": -79.9101554,
+        "lat": 8.6901868,
+        "formatted": "Información Turística del Parque Nacional, Sendero La Cruz, Panamá Oeste, Panama",
+        "address_line1": "Información Turística del Parque Nacional",
+        "address_line2": "Sendero La Cruz, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Información Turística del Parque Nacional",
+            "osm_id": 6051093285,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c6516ffc3ffa53c0591911072a60612140f00103f901255bac680100000092032b496e666f726d616369c3b36e20547572c3ad73746963612064656c20506172717565204e6163696f6e616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91015539999998,
+          8.690186799395223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Pacífico",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Panama City",
+        "postcode": "0807",
+        "district": "Calidonia",
+        "street": "Cinta Costera",
+        "iso3166_2": "PA-8",
+        "lon": -79.5334189,
+        "lat": 8.960723,
+        "formatted": "Mirador de Pacifico, Cinta Costera, 0807, Panama City, Panamá Province, Panama",
+        "address_line1": "Mirador de Pacifico",
+        "address_line2": "Cinta Costera, 0807, Panama City, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Pacífico",
+            "osm_id": 6197052585,
+            "name:en": "Mirador de Pacifico",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mirador de Pacifico"
+        },
+        "place_id": "515fa4068923e253c05959e18de2e3eb2140f00103f901a9845f71010000009203144d697261646f7220646520506163c3ad6669636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5334189,
+          8.96072299940049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Los Trinos",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0000",
+        "street": "Camino del Mono Titi",
+        "iso3166_2": "PA-8",
+        "lon": -79.5448509,
+        "lat": 8.9951099,
+        "formatted": "Mirador Los Trinos, Camino del Mono Titi, 0000, Ancón, Panamá Province, Panama",
+        "address_line1": "Mirador Los Trinos",
+        "address_line2": "Camino del Mono Titi, 0000, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Los Trinos",
+            "osm_id": 6199796285,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518e2c4fd6dee253c05970b5730b7ffd2140f00103f9013d628971010000009203124d697261646f72204c6f73205472696e6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5448509,
+          8.995109899401285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "María",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Portobelo",
+        "city": "Puerto Lindo",
+        "hamlet": "Juan Gallego",
+        "street": "Carretera Portobelo - La Guaira",
+        "iso3166_2": "PA-3",
+        "lon": -79.6157247,
+        "lat": 9.612376,
+        "formatted": "María, Carretera Portobelo - La Guaira, Puerto Lindo, Colón, Panama",
+        "address_line1": "María",
+        "address_line2": "Carretera Portobelo - La Guaira, Puerto Lindo, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "María",
+            "osm_id": 6263384087,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51b975920868e753c0595abcd45889392340f00103f90117a85375010000009203064d6172c3ad61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6157247,
+          9.612375999420852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "district": "La Boca",
+        "street": "Bridge of the Americas",
+        "iso3166_2": "PA-8",
+        "lon": -79.5628611,
+        "lat": 8.9441779,
+        "formatted": "Puente de las Américas, Bridge of the Americas, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Puente de las Américas",
+        "address_line2": "Bridge of the Americas, 0843, Ancón, Panamá Province, Panama",
+        "name": "Puente de las Américas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puente de las Américas",
+            "osm_id": 6264921786,
+            "name:en": "Bridge of the Americas",
+            "name:zh": "美洲大桥",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "name:zh-Hans": "美洲大桥",
+            "name:zh-Hant": "美洲大橋"
+          }
+        },
+        "name_international": {
+          "en": "Bridge of the Americas",
+          "zh": "美洲大桥"
+        },
+        "place_id": "51332c90ea05e453c059130f1f496be32140f00103f901ba1e6b75010000009203175075656e7465206465206c617320416dc3a97269636173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5628611,
+          8.944177899400108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canopy Crane",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0000",
+        "street": "Camino del Mono Titi",
+        "iso3166_2": "PA-8",
+        "lon": -79.5429785,
+        "lat": 8.9944376,
+        "formatted": "Canopy Crane, Camino del Mono Titi, 0000, Ancón, Panamá Province, Panama",
+        "address_line1": "Canopy Crane",
+        "address_line2": "Camino del Mono Titi, 0000, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Canopy Crane",
+            "osm_id": 6268937231,
+            "name:en": "Canopy Crane",
+            "name:es": "Grúa Crane",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "description": "This construction crane was installed in 1990, by the Smithsonian Tropical Research Institute (STRI) to study the biodiversity of the tropical forest canopy and the interactions between the forest and the atmosphere. (30 to 50 m high)"
+          }
+        },
+        "description": "This construction crane was installed in 1990, by the Smithsonian Tropical Research Institute (STRI) to study the biodiversity of the tropical forest canopy and the interactions between the forest and the atmosphere. (30 to 50 m high)",
+        "name_international": {
+          "en": "Canopy Crane",
+          "es": "Grúa Crane"
+        },
+        "place_id": "5198fbe428c0e253c059b1aeceec26fd2140f00103f9010f64a8750100000092030c43616e6f7079204372616e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5429785,
+          8.994437599401268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cinta Costera 3",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Santa Ana",
+        "postcode": "0843",
+        "district": "Barrio Chino",
+        "street": "Cinta Costera",
+        "iso3166_2": "PA-8",
+        "lon": -79.5283036,
+        "lat": 8.9535834,
+        "formatted": "Mirador Cinta Costera 3, Cinta Costera, 0843, Santa Ana, Panamá Province, Panama",
+        "address_line1": "Mirador Cinta Costera 3",
+        "address_line2": "Cinta Costera, 0843, Santa Ana, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cinta Costera 3",
+            "osm_id": 6269017243,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fa16e7b9cfe153c059a7dd54153ce82140f00103f9019b9ca975010000009203174d697261646f722043696e746120436f73746572612033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52830359999999,
+          8.953583399400328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro la Silla",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Oeste",
+        "county": "Distrito de Antón",
+        "city": "Distrito de San Carlos",
+        "postcode": "0212",
+        "district": "Las Uvas",
+        "street": "Vía El Valle - La Unión",
+        "iso3166_2": "PA-10",
+        "lon": -80.1001166,
+        "lat": 8.5869966,
+        "formatted": "Cerro la Silla, Vía El Valle - La Unión, 0212, Distrito de San Carlos, Panamá Oeste, Panama",
+        "address_line1": "Cerro la Silla",
+        "address_line2": "Vía El Valle - La Unión, 0212, Distrito de San Carlos, Panamá Oeste, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro la Silla",
+            "osm_id": 6277727985,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5159b2744f680654c059b8847ad18a2c2140f00103f901f1862e760100000092030e436572726f206c612053696c6c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10011659999999,
+          8.586996599393714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christ the Redeemer",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Barrio Norte",
+        "postcode": "9851",
+        "street": "Paseo Marino",
+        "iso3166_2": "PA-3",
+        "lon": -79.904097,
+        "lat": 9.3662131,
+        "formatted": "Christ the Redeemer, Paseo Marino, 9851, Barrio Norte, Colón, Panama",
+        "address_line1": "Christ the Redeemer",
+        "address_line2": "Paseo Marino, 9851, Barrio Norte, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Christ the Redeemer",
+            "osm_id": 6281357258,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5159daa9b9dcf953c05986ae8a4880bb2240f00103f901cae7657601000000920313436872697374207468652052656465656d6572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.904097,
+          9.36621309941189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panama Outdoor Adventures",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Portobelo",
+        "city": "María Chiquita",
+        "street": "Entrada a María Chiquita",
+        "iso3166_2": "PA-3",
+        "lon": -79.7296504,
+        "lat": 9.4307084,
+        "formatted": "Panama Outdoor Adventures, Entrada a María Chiquita, María Chiquita, Colón, Panama",
+        "address_line1": "Panama Outdoor Adventures",
+        "address_line2": "Entrada a María Chiquita, María Chiquita, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Panama Outdoor Adventures",
+            "osm_id": 6286659868,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51da609797b2ee53c0592531b3cf85dc2240f00103f9011cd1b6760100000092031950616e616d61204f7574646f6f7220416476656e7475726573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7296504,
+          9.430708399414081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parador Fotografico",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "Avenida Principal",
+        "iso3166_2": "PA-2",
+        "lon": -80.12162,
+        "lat": 8.6022993,
+        "formatted": "Parador Fotografico, Avenida Principal, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Parador Fotografico",
+        "address_line2": "Avenida Principal, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parador Fotografico",
+            "osm_id": 6439849200,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5187a2409fc80754c059eb99e29260342140f00103f901f04cd87f0100000092031350617261646f7220466f746f6772616669636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.12162,
+          8.602299299393925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cruz",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "La India Dormida Trailhead",
+        "iso3166_2": "PA-2",
+        "lon": -80.1525009,
+        "lat": 8.6099671,
+        "formatted": "Cross, La India Dormida Trailhead, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Cross",
+        "address_line2": "La India Dormida Trailhead, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cruz",
+            "osm_id": 6504634086,
+            "name:en": "Cross",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Cross"
+        },
+        "place_id": "5113872293c20954c05914118f9b4d382140f00103f901e6d6b483010000009203044372757a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15250089999999,
+          8.609967099394034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado Municipal",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "Avenida Principal",
+        "iso3166_2": "PA-2",
+        "lon": -80.1310569,
+        "lat": 8.6041704,
+        "formatted": "Mercado Municipal, Avenida Principal, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Mercado Municipal",
+        "address_line2": "Avenida Principal, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mercado Municipal",
+            "osm_id": 6944059885,
+            "name:fr": "Marché municipal",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Marché municipal"
+        },
+        "place_id": "5192da7a3c630854c059733795d255352140f00103f901edf1e59d010000009203114d65726361646f204d756e69636970616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1310569,
+          8.604170399393956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahia de Playa Blanca",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "iso3166_2": "PA-3",
+        "lon": -79.6537006,
+        "lat": 9.5889493,
+        "formatted": "Bahia de Playa Blanca, Colón, Panama",
+        "address_line1": "Bahia de Playa Blanca",
+        "address_line2": "Colón, Panama",
+        "categories": [
+          "natural.water.sea",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bahia de Playa Blanca",
+            "osm_id": 6969328312,
+            "natural": "bay",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5109980a3bd6e953c0597c0538c38a2d2340f00103f901b882679f01000000920315426168696120646520506c61796120426c616e6361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6537006,
+          9.58894929941993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almacén de Pólvora",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "street": "Camino Fuerte de San Lorenzo",
+        "iso3166_2": "PA-3",
+        "lon": -80.0032434,
+        "lat": 9.3222722,
+        "formatted": "Almacén de Pólvora, Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "address_line1": "Almacén de Pólvora",
+        "address_line2": "Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Almacén de Pólvora",
+            "osm_id": 7006586849,
+            "tourism": "attraction",
+            "historic": "building",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "building"
+        },
+        "place_id": "51623bce23350054c0597cc199dc00a52240f00103f901e107a0a101000000920314416c6d6163c3a96e2064652050c3b36c766f7261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0032434,
+          9.322272199410456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuarteles",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "street": "Camino Fuerte de San Lorenzo",
+        "iso3166_2": "PA-3",
+        "lon": -80.0026949,
+        "lat": 9.3224522,
+        "formatted": "Cuarteles, Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "address_line1": "Cuarteles",
+        "address_line2": "Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cuarteles",
+            "osm_id": 7006586850,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "516bd73a272c0054c0597bfb657418a52240f00103f901e207a0a1010000009203094375617274656c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00269489999998,
+          9.322452199410455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alojamiento del Castellano",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "street": "Camino Fuerte de San Lorenzo",
+        "iso3166_2": "PA-3",
+        "lon": -80.0026815,
+        "lat": 9.3225991,
+        "formatted": "Alojamiento del Castellano, Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "address_line1": "Alojamiento del Castellano",
+        "address_line2": "Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Alojamiento del Castellano",
+            "osm_id": 7006586851,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5177b306ef2b0054c059bf5f8bb52ba52240f00103f901e307a0a10100000092031a416c6f6a616d69656e746f2064656c2043617374656c6c616e6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00268149999998,
+          9.322599099410466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hornabeque",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "street": "Camino Fuerte de San Lorenzo",
+        "iso3166_2": "PA-3",
+        "lon": -80.0023556,
+        "lat": 9.3228466,
+        "formatted": "Hornabeque, Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "address_line1": "Hornabeque",
+        "address_line2": "Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hornabeque",
+            "osm_id": 7006586852,
+            "tourism": "attraction",
+            "historic": "building",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "building"
+        },
+        "place_id": "51983d1a98260054c0597e2f44264ca52240f00103f901e407a0a10100000092030a486f726e616265717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00235559999999,
+          9.322846599410465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luneta",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "street": "Camino Fuerte de San Lorenzo",
+        "iso3166_2": "PA-3",
+        "lon": -80.0019828,
+        "lat": 9.322656,
+        "formatted": "Luneta, Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "address_line1": "Luneta",
+        "address_line2": "Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Luneta",
+            "osm_id": 7006586853,
+            "tourism": "attraction",
+            "historic": "building",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "building"
+        },
+        "place_id": "51e349777c200054c059fca6ca2a33a52240f00103f901e507a0a1010000009203064c756e657461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0019828,
+          9.322655999410465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batería Superior",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "street": "Camino Fuerte de San Lorenzo",
+        "iso3166_2": "PA-3",
+        "lon": -80.001044,
+        "lat": 9.3232542,
+        "formatted": "Batería Superior, Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "address_line1": "Batería Superior",
+        "address_line2": "Camino Fuerte de San Lorenzo, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Batería Superior",
+            "osm_id": 7006586854,
+            "tourism": "attraction",
+            "historic": "building",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "building"
+        },
+        "place_id": "51d976da1a110054c0597f860d9381a52240f00103f901e607a0a1010000009203114261746572c3ad61205375706572696f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.001044,
+          9.323254199410483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador De La Represa Madden",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "San Juan",
+        "village": "Barriada Juan Demóstenes Arosemena",
+        "street": "Avenida Madden",
+        "iso3166_2": "PA-3",
+        "lon": -79.6185716,
+        "lat": 9.2125036,
+        "formatted": "Mirador De La Represa Madden, Avenida Madden, San Juan, Colón, Panama",
+        "address_line1": "Mirador De La Represa Madden",
+        "address_line2": "Avenida Madden, San Juan, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador De La Represa Madden",
+            "osm_id": 7619973078,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51000f56ad96e753c059a5789345cd6c2240f00103f901d68f2fc60100000092031c4d697261646f72204465204c612052657072657361204d616464656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6185716,
+          9.212503599407066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cerro La Cruz",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Antón",
+        "city": "El Valle",
+        "postcode": "0212",
+        "street": "Vía Antón - El Valle",
+        "iso3166_2": "PA-2",
+        "lon": -80.1533639,
+        "lat": 8.5959713,
+        "formatted": "Mirador Cerro La Cruz, Vía Antón - El Valle, 0212, El Valle, Coclé, Panama",
+        "address_line1": "Mirador Cerro La Cruz",
+        "address_line2": "Vía Antón - El Valle, 0212, El Valle, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cerro La Cruz",
+            "osm_id": 7798476649,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c4b8d1b6d00954c0599980702623312140f00103f901694fd3d0010000009203154d697261646f7220436572726f204c61204372757a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15336389999999,
+          8.59597129939384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sendero a río las cascadas",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "24 de Diciembre",
+        "hamlet": "Cerro Azul",
+        "street": "Avenida Los Cúmulos",
+        "iso3166_2": "PA-8",
+        "lon": -79.4148837,
+        "lat": 9.1872777,
+        "formatted": "Trail to las cascadas river, Avenida Los Cúmulos, 24 de Diciembre, Panamá Province, Panama",
+        "address_line1": "Trail to las cascadas river",
+        "address_line2": "Avenida Los Cúmulos, 24 de Diciembre, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sendero a río las cascadas",
+            "osm_id": 8042899985,
+            "name:en": "Trail to las cascadas river",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Avenida Los Cúmulos"
+          }
+        },
+        "name_international": {
+          "en": "Trail to las cascadas river"
+        },
+        "place_id": "512fc95c748dda53c059d070d4dce25f2240f00103f90111ea64df0100000092031b53656e6465726f20612072c3ad6f206c6173206361736361646173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4148837,
+          9.187277699406337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comunidad de Turega",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Penonomé",
+        "city": "Chiguirí Arriba",
+        "hamlet": "Oajaca",
+        "district": "Pozo Azul",
+        "street": "Hacia Oajaca",
+        "iso3166_2": "PA-2",
+        "lon": -80.1922771,
+        "lat": 8.610868,
+        "formatted": "Comunidad de Turega, Hacia Oajaca, Chiguirí Arriba, Coclé, Panama",
+        "address_line1": "Comunidad de Turega",
+        "address_line2": "Hacia Oajaca, Chiguirí Arriba, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Comunidad de Turega",
+            "osm_id": 9313311017,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5143119c444e0c54c0590324bfb0c3382140f00103f90129d91d2b02000000920313436f6d756e6964616420646520547572656761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1922771,
+          8.610867999394037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro Turega",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Coclé",
+        "county": "Distrito de Penonomé",
+        "city": "Chiguirí Arriba",
+        "district": "Pozo Azul",
+        "street": "Hacia Loma Grande",
+        "iso3166_2": "PA-2",
+        "lon": -80.1876421,
+        "lat": 8.6187846,
+        "formatted": "Cerro Turega, Hacia Loma Grande, Chiguirí Arriba, Coclé, Panama",
+        "address_line1": "Cerro Turega",
+        "address_line2": "Hacia Loma Grande, Chiguirí Arriba, Coclé, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro Turega",
+            "osm_id": 9313312317,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5194b60254020c54c0592c55c355d13c2140f00103f9013dde1d2b0200000092030c436572726f20547572656761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1876421,
+          8.618784599394154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COLON",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Colón",
+        "postcode": "0301",
+        "street": "Calle 11",
+        "iso3166_2": "PA-3",
+        "lon": -79.8916517,
+        "lat": 9.3585118,
+        "formatted": "COLON, Calle 11, 0301, Colón, Panama",
+        "address_line1": "COLON",
+        "address_line2": "Calle 11, 0301, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "COLON",
+            "osm_id": 9692235183,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5110bb4ad210f953c059fc67cbdb8eb72240f00103f901afc5b34102000000920305434f4c4f4e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89165170000001,
+          9.358511799411637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto de Panama",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "postcode": "0843",
+        "street": "Calle Miller",
+        "iso3166_2": "PA-8",
+        "lon": -79.5559762,
+        "lat": 8.9381042,
+        "formatted": "Port of Panama, Calle Miller, 0843, Ancón, Panamá Province, Panama",
+        "address_line1": "Port of Panama",
+        "address_line2": "Calle Miller, 0843, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puerto de Panama",
+            "osm_id": 10300773109,
+            "name:en": "Port of Panama",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Port of Panama"
+        },
+        "place_id": "51ad16331d95e353c0598b5391314fe02140f00103f901f552f9650200000092031050756572746f2064652050616e616d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55597619999999,
+          8.938104199399978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lago Calamito Observation Platform",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Colón",
+        "county": "Distrito de Colón",
+        "city": "Cristóbal",
+        "postcode": "0802",
+        "street": "RUTA 842 - Pipeline Road - Camino del Oleoducto",
+        "iso3166_2": "PA-3",
+        "lon": -79.728326,
+        "lat": 9.1316107,
+        "formatted": "Lago Calamito Observation Platform, RUTA 842 - Pipeline Road - Camino del Oleoducto, 0802, Cristóbal, Colón, Panama",
+        "address_line1": "Lago Calamito Observation Platform",
+        "address_line2": "RUTA 842 - Pipeline Road - Camino del Oleoducto, 0802, Cristóbal, Colón, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lago Calamito Observation Platform",
+            "osm_id": 10312989758,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "description": "Attention: 30 $ entrance fee for non-residents of Panama"
+          }
+        },
+        "description": "Attention: 30 $ entrance fee for non-residents of Panama",
+        "place_id": "51e4b4a7e49cee53c0598f7e437a62432240f00103f9013ebcb366020000009203224c61676f2043616c616d69746f204f62736572766174696f6e20506c6174666f726d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.72832599999998,
+          9.131610699404773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Cruceros",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Ancón",
+        "hamlet": "Isla Perico",
+        "street": "Via Períco",
+        "iso3166_2": "PA-8",
+        "lon": -79.5195036,
+        "lat": 8.9185129,
+        "formatted": "Cruise Port, Via Períco, Ancón, Panamá Province, Panama",
+        "address_line1": "Cruise Port",
+        "address_line2": "Via Períco, Ancón, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puerto Cruceros",
+            "osm_id": 10597373005,
+            "name:en": "Cruise Port",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Cruise Port"
+        },
+        "place_id": "51de09078c3fe153c05916c09f5247d62140f00103f9014d14a7770200000092030f50756572746f204372756365726f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.51950359999998,
+          8.918512899399541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andrea Salinas",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Taboga",
+        "city": "Taboga",
+        "street": "Calle Francisco Pizarro",
+        "iso3166_2": "PA-8",
+        "lon": -79.5553465,
+        "lat": 8.7984318,
+        "formatted": "Andrea Salinas, Calle Francisco Pizarro, Taboga, Panamá Province, Panama",
+        "address_line1": "Andrea Salinas",
+        "address_line2": "Calle Francisco Pizarro, Taboga, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Andrea Salinas",
+            "osm_id": 10749634923,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51acdc0bcc8ae353c05977fe840dcc982140f00103f9016b69ba800200000092030e416e647265612053616c696e6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55534649999998,
+          8.798431799397106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manuel Amador Guerrero",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Panama City",
+        "hamlet": "Santa Ana",
+        "postcode": "0843",
+        "suburb": "San Felipe",
+        "street": "Calle 7a Oeste",
+        "iso3166_2": "PA-8",
+        "lon": -79.5348722,
+        "lat": 8.9524456,
+        "formatted": "Manuel Amador Guerrero, Calle 7a Oeste, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "address_line1": "Manuel Amador Guerrero",
+        "address_line2": "Calle 7a Oeste, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Manuel Amador Guerrero",
+            "osm_id": 10763613212,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "5188a29b583be253c0596d4919f3a6e72140f00103f9011cb48f81020000009203164d616e75656c20416d61646f7220477565727265726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5348722,
+          8.952445599400301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicanor de Obarrio",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Panama City",
+        "hamlet": "Santa Ana",
+        "postcode": "0843",
+        "suburb": "San Felipe",
+        "street": "Calle 5a Oeste",
+        "iso3166_2": "PA-8",
+        "lon": -79.5345921,
+        "lat": 8.9525655,
+        "formatted": "Nicanor de Obarrio, Calle 5a Oeste, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "address_line1": "Nicanor de Obarrio",
+        "address_line2": "Calle 5a Oeste, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nicanor de Obarrio",
+            "osm_id": 10763613213,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51cb8cc8c136e253c059c17146aab6e72140f00103f9011db48f81020000009203124e6963616e6f72206465204f62617272696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53459209999998,
+          8.952565499400295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "José Agustín Arango",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Panama City",
+        "hamlet": "Santa Ana",
+        "postcode": "0843",
+        "suburb": "San Felipe",
+        "street": "Calle 5a Oeste",
+        "iso3166_2": "PA-8",
+        "lon": -79.5346145,
+        "lat": 8.9524748,
+        "formatted": "José Agustín Arango, Calle 5a Oeste, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "address_line1": "José Agustín Arango",
+        "address_line2": "Calle 5a Oeste, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "José Agustín Arango",
+            "osm_id": 10763613214,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51e95dbc1f37e253c0597b60e3c6aae72140f00103f9011eb48f81020000009203154a6f73c3a9204167757374c3ad6e204172616e676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53461449999999,
+          8.952474799400298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlos de Icaza Arosemena",
+        "country": "Panama",
+        "country_code": "pa",
+        "state": "Panamá Province",
+        "county": "Distrito de Panamá",
+        "city": "Panama City",
+        "hamlet": "Santa Ana",
+        "postcode": "0843",
+        "suburb": "San Felipe",
+        "street": "Calle 5a Oeste",
+        "iso3166_2": "PA-8",
+        "lon": -79.5346226,
+        "lat": 8.9523923,
+        "formatted": "Carlos de Icaza Arosemena, Calle 5a Oeste, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "address_line1": "Carlos de Icaza Arosemena",
+        "address_line2": "Calle 5a Oeste, San Felipe, 0843, Panama City, Panamá Province, Panama",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Carlos de Icaza Arosemena",
+            "osm_id": 10763613215,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51f5acb54137e253c059e1c5a5f69fe72140f00103f9011fb48f81020000009203194361726c6f73206465204963617a612041726f73656d656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53462259999999,
+          8.95239229940029
+        ]
+      }
+    }
+  ]
+}

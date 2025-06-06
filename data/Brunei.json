@@ -1,0 +1,4349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poni Divers",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Serasa",
+        "postcode": "BT1187",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 287",
+        "iso3166_2": "BN-BM",
+        "lon": 115.0669359,
+        "lat": 4.99239365,
+        "formatted": "Poni Divers, Simpang 287, Serasa, Brunei-Muara District BT1187, Brunei",
+        "address_line1": "Poni Divers",
+        "address_line2": "Simpang 287, Serasa, Brunei-Muara District BT1187, Brunei",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.tourism",
+          "commercial",
+          "commercial.outdoor_and_sport",
+          "commercial.outdoor_and_sport.diving",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 2,
+            "name": "Poni Divers",
+            "shop": "scuba_diving",
+            "email": "enquiries@ponidivers.com",
+            "phone": "+673 277 1778",
+            "osm_id": 430461053,
+            "name:en": "Poni Divers",
+            "tourism": "attraction",
+            "website": "https://www.ponidivers.com",
+            "building": "yes",
+            "operator": "Poni Divers",
+            "osm_type": "w",
+            "addr:city": "Serasa",
+            "addr:street": "Serasa Watersport Complex",
+            "payment:cash": "yes",
+            "addr:postcode": "BT1187",
+            "opening_hours": "Mo-Sa 09:00-17:00",
+            "payment:credit_cards": "yes"
+          }
+        },
+        "website": "https://www.ponidivers.com",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "operator": "Poni Divers",
+        "name_international": {
+          "en": "Poni Divers"
+        },
+        "ele": 2,
+        "contact": {
+          "phone": "+673 277 1778",
+          "email": "enquiries@ponidivers.com"
+        },
+        "payment_options": {
+          "cash": true,
+          "credit_cards": true
+        },
+        "commercial": {
+          "type": "scuba_diving"
+        },
+        "place_id": "516a5b83ad48c45c40594e91750a36f81340f00102f9017d50a8190000000092030b506f6e6920446976657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0669359,
+          4.9923936495072905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Istana Nurul Iman",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Madewa",
+        "postcode": "BA2312",
+        "district": "Brunei-Muara District",
+        "neighbourhood": "Tumasek",
+        "street": "Jalan Raja Isteri Pengiran Anak Saleha",
+        "iso3166_2": "BN-BM",
+        "lon": 114.92111021217823,
+        "lat": 4.87151875,
+        "formatted": "Nurul Iman Palace, Jalan Raja Isteri Pengiran Anak Saleha, Bandar Seri Begawan, Brunei-Muara District BA2312, Brunei",
+        "address_line1": "Nurul Iman Palace",
+        "address_line2": "Jalan Raja Isteri Pengiran Anak Saleha, Bandar Seri Begawan, Brunei-Muara District BA2312, Brunei",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Istana Nurul Iman",
+            "osm_id": 430464616,
+            "name:en": "Nurul Iman Palace",
+            "tourism": "attraction",
+            "website": "https://www.gov.bn/SitePages/Home.aspx",
+            "building": "yes",
+            "osm_type": "w",
+            "wikidata": "Q1323932"
+          }
+        },
+        "website": "https://www.gov.bn/SitePages/Home.aspx",
+        "name_international": {
+          "en": "Nurul Iman Palace"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1323932"
+        },
+        "place_id": "514c543f78f3ba5c405934173c696f7c1340f00102f901685ea81900000000920311497374616e61204e7572756c20496d616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.92111021217823,
+          4.871518749516145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tasek Merimbun",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Tutong District",
+        "iso3166_2": "BN-TU",
+        "lon": 114.67795297836041,
+        "lat": 4.59315535,
+        "formatted": "Tasek Merimbun, Tutong District, Brunei",
+        "address_line1": "Tasek Merimbun",
+        "address_line2": "Tutong District, Brunei",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tasek Merimbun",
+            "water": "lake",
+            "osm_id": -6440319,
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "r",
+            "wikidata": "Q7687127",
+            "wikipedia": "en:Tasek Merimbun"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7687127",
+          "wikipedia": "en:Tasek Merimbun"
+        },
+        "place_id": "512a92e39463ab5c405949d8ae1d645f1240f00101f9017f4562000000000092030e546173656b204d6572696d62756e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.67795297836042,
+          4.593155349537548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bumbungan Dua Belas",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "postcode": "BD2717",
+        "district": "Brunei-Muara District",
+        "suburb": "Subok",
+        "street": "Jalan Residency",
+        "iso3166_2": "BN-BM",
+        "lon": 114.9516371,
+        "lat": 4.8774517,
+        "formatted": "Twelve roof house, Jalan Residency, Bandar Seri Begawan, Brunei-Muara District BD2717, Brunei",
+        "address_line1": "Twelve roof house",
+        "address_line2": "Jalan Residency, Bandar Seri Begawan, Brunei-Muara District BD2717, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bumbungan Dua Belas",
+            "osm_id": 2077189651,
+            "name:en": "Twelve roof house",
+            "name:ms": "Bumbungan Dua Belas",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q25227131"
+          }
+        },
+        "name_international": {
+          "en": "Twelve roof house",
+          "ms": "Bumbungan Dua Belas"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q25227131"
+        },
+        "place_id": "51418a4b9fe7bc5c40595bf5c4b282821340f00103f9011366cf7b0000000092031342756d62756e67616e204475612042656c6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.95163709999999,
+          4.877451699515713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinnacles",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "street": "Headhunter's Trail",
+        "iso3166_2": "MY-13",
+        "lon": 114.892876,
+        "lat": 4.123115,
+        "formatted": "Pinnacles, Headhunter's Trail, Sarawak, Malaysia",
+        "address_line1": "Pinnacles",
+        "address_line2": "Headhunter's Trail, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pinnacles",
+            "osm_id": 4226803019,
+            "tourism": "viewpoint",
+            "website": "https://mulupark.com/pinnacles/",
+            "osm_type": "n",
+            "description": "Karst spires that can reach 100m high. Part of Mulu National Park."
+          }
+        },
+        "website": "https://mulupark.com/pinnacles/",
+        "description": "Karst spires that can reach 100m high. Part of Mulu National Park.",
+        "place_id": "5188d860e124b95c40599f50c3db117e1040f00103f9014be5effb0000000092030950696e6e61636c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.892876,
+          4.123114999576642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Billionth Barrel Monument",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Panaga",
+        "postcode": "KB2733",
+        "district": "Belait District",
+        "street": "Simpang 43",
+        "iso3166_2": "BN-BE",
+        "lon": 114.3171615,
+        "lat": 4.616748,
+        "formatted": "Billionth Barrel Monument, Simpang 43, Panaga, Belait District KB2733, Brunei",
+        "address_line1": "Billionth Barrel Monument",
+        "address_line2": "Simpang 43, Panaga, Belait District KB2733, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Billionth Barrel Monument",
+            "osm_id": 4367704793,
+            "name:en": "Billionth Barrel Monument",
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n",
+            "wikidata": "Q4912008",
+            "wikipedia": "en:Billionth Barrel Monument",
+            "start_date": "1991-07"
+          }
+        },
+        "name_international": {
+          "en": "Billionth Barrel Monument"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q4912008",
+          "wikipedia": "en:Billionth Barrel Monument"
+        },
+        "historic": {
+          "type": "monument",
+          "start_date": "1991-07"
+        },
+        "place_id": "513783bf5f4c945c40594c849fc98c771240f00103f901d9e255040100000092031942696c6c696f6e74682042617272656c204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31716149999998,
+          4.616747999535686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pilajau River Cruise",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Interior Division",
+        "state": "Sabah",
+        "county": "Beaufort",
+        "city": "Kampung Kabatu",
+        "street": "502",
+        "iso3166_2": "MY-12",
+        "lon": 115.6552003,
+        "lat": 5.428224,
+        "formatted": "Pilajau River Cruise, 502, Kampung Kabatu, Sabah, Malaysia",
+        "address_line1": "Pilajau River Cruise",
+        "address_line2": "502, Kampung Kabatu, Sabah, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pilajau River Cruise",
+            "phone": "+60142046293",
+            "osm_id": 5113387023,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "contact": {
+          "phone": "+60142046293"
+        },
+        "place_id": "5113353dcdeee95c4059ef79245a80b61540f00103f9010f18c8300100000092031450696c616a617520526976657220437275697365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.65520029999998,
+          5.428223999477708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klias Rivercruise",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Interior Division",
+        "state": "Sabah",
+        "county": "Beaufort",
+        "city": "Kg. Nukahan",
+        "street": "502",
+        "iso3166_2": "MY-12",
+        "lon": 115.6147883,
+        "lat": 5.4540073,
+        "formatted": "Klias Rivercruise, 502, Kg. Nukahan, Sabah, Malaysia",
+        "address_line1": "Klias Rivercruise",
+        "address_line2": "502, Kg. Nukahan, Sabah, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Klias Rivercruise",
+            "osm_id": 11813383469,
+            "tourism": "attraction",
+            "website": "https://www.onlyinborneotour.com/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.onlyinborneotour.com/",
+        "place_id": "51a79d06b158e75c405981941d4ae7d01540f00103f9012ded21c0020000009203114b6c696173205269766572637275697365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.61478829999997,
+          5.454007299476076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kampung Dato Waterfront",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Limbang Division",
+        "state": "Sarawak",
+        "county": "Lawas",
+        "city": "Kuala Lawas",
+        "street": "Jalan Kampung Dato Ulu Kuala Lawas",
+        "iso3166_2": "MY-13",
+        "lon": 115.4339692,
+        "lat": 4.9498542,
+        "formatted": "Kampung Dato Waterfront, Jalan Kampung Dato Ulu Kuala Lawas, Kuala Lawas, Sarawak, Malaysia",
+        "address_line1": "Kampung Dato Waterfront",
+        "address_line2": "Jalan Kampung Dato Ulu Kuala Lawas, Kuala Lawas, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kampung Dato Waterfront",
+            "osm_id": 12094327278,
+            "toilets": "yes",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "limited",
+            "reservation": "no",
+            "opening_hours": "Mo-Su 06:00-24:00,06:00-24:00",
+            "changing_table": "limited",
+            "toilets:access": "yes",
+            "toilets:wheelchair": "limited"
+          }
+        },
+        "opening_hours": "Mo-Su 06:00-24:00,06:00-24:00",
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          },
+          "toilets": true,
+          "changing_table": true
+        },
+        "place_id": "51285ec026c6db5c405915764b94a6cc1340f00103f901eec9e0d0020000009203174b616d70756e67204461746f20576174657266726f6e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.43396919999998,
+          4.949854199510374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arts and Handicraft Centre",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Saba",
+        "postcode": "BR1726",
+        "district": "Brunei-Muara District",
+        "neighbourhood": "Kianggeh",
+        "street": "Jalan Subok",
+        "iso3166_2": "BN-BM",
+        "lon": 114.94986663645301,
+        "lat": 4.8848714,
+        "formatted": "Arts and Handicraft Centre, Jalan Subok, Bandar Seri Begawan, Brunei-Muara District BR1726, Brunei",
+        "address_line1": "Arts and Handicraft Centre",
+        "address_line2": "Jalan Subok, Bandar Seri Begawan, Brunei-Muara District BR1726, Brunei",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arts and Handicraft Centre",
+            "osm_id": 45840035,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5124c86e9dcabc5c4059565568ba1b8a1340f00102f901a376bb020000000092031a4172747320616e642048616e646963726166742043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.94986663645301,
+          4.884871399515154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "postcode": "98008",
+        "street": "Mulu Canopy Walk",
+        "iso3166_2": "MY-13",
+        "lon": 114.8191726,
+        "lat": 4.0318848,
+        "formatted": "Mulu Canopy Walk, 98008 Mulu, Sarawak, Malaysia",
+        "address_line1": "Mulu Canopy Walk",
+        "address_line2": "98008 Mulu, Sarawak, Malaysia",
+        "name": "Mulu Canopy Walk",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details",
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mulu Canopy Walk",
+            "layer": 1,
+            "bridge": "yes",
+            "height": 30,
+            "length": 470,
+            "oneway": "yes",
+            "osm_id": 119196672,
+            "highway": "footway",
+            "name:en": "Mulu Canopy Walk",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "description": "Connection of many rope bridges",
+            "bridge:structure": "simple-suspension"
+          }
+        },
+        "description": "Connection of many rope bridges",
+        "name_international": {
+          "en": "Mulu Canopy Walk"
+        },
+        "way": {
+          "bridge": true,
+          "oneway": true
+        },
+        "place_id": "51e0b1e9526db45c405978d2ad68a6201040f00102f90100cc1a07000000009203104d756c752043616e6f70792057616c6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8191726,
+          4.031884799584638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sumbangsih Mulia",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Beribi",
+        "postcode": "BE1118",
+        "district": "Brunei-Muara District",
+        "street": "Jalan Industri Beribi",
+        "iso3166_2": "BN-BM",
+        "lon": 114.9090822480247,
+        "lat": 4.8951693,
+        "formatted": "Sumbangsih Mulia, Jalan Industri Beribi, Bandar Seri Begawan, Brunei-Muara District BE1118, Brunei",
+        "address_line1": "Sumbangsih Mulia",
+        "address_line2": "Jalan Industri Beribi, Bandar Seri Begawan, Brunei-Muara District BE1118, Brunei",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.tourism",
+          "catering",
+          "catering.food_court",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sumbangsih Mulia",
+            "osm_id": 309702576,
+            "amenity": "food_court",
+            "tourism": "attraction",
+            "building": "commercial",
+            "osm_type": "w"
+          }
+        },
+        "building": {
+          "type": "commercial"
+        },
+        "place_id": "51f9284f672eba5c4059aa30c742a7941340f00102f901b0af75120000000092031053756d62616e67736968204d756c6961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.90908224802469,
+          4.895169299514388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Chimney",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Kampung Pohon Batu",
+        "postcode": "87014",
+        "street": "Jalan Lubok Temiang",
+        "iso3166_2": "MY-15",
+        "lon": 115.2488915,
+        "lat": 5.3806645,
+        "formatted": "The Chimney, Jalan Lubok Temiang, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "address_line1": "The Chimney",
+        "address_line2": "Jalan Lubok Temiang, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Chimney",
+            "osm_id": 317159844,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "5126309dd6edcf5c4059711220eacc851540f00103f901a479e7120000000092030b546865204368696d6e6579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.24889149999998,
+          5.380664499480745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantai Seri Kenangan",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Kampong Penabai",
+        "postcode": "TA3541",
+        "district": "Tutong District",
+        "suburb": "Tutong Kem",
+        "iso3166_2": "BN-TU",
+        "lon": 114.62924645107077,
+        "lat": 4.8005955,
+        "formatted": "Seri Kenangan Beach, Kampong Penabai, Tutong District TA3541, Brunei",
+        "address_line1": "Seri Kenangan Beach",
+        "address_line2": "Kampong Penabai, Tutong District TA3541, Brunei",
+        "categories": [
+          "beach",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pantai Seri Kenangan",
+            "osm_id": 481031314,
+            "name:en": "Seri Kenangan Beach",
+            "name:ms": "Pantai Seri Kenangan",
+            "natural": "beach",
+            "surface": "sand",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Seri Kenangan Beach",
+          "ms": "Pantai Seri Kenangan"
+        },
+        "place_id": "51451ee89245a85c4059fc137f4ecf331340f00102f90192f4ab1c0000000092031450616e7461692053657269204b656e616e67616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.62924645107076,
+          4.800595499521474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pottery House",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Ayer Village",
+        "postcode": "BP1126",
+        "district": "Brunei-Muara District",
+        "suburb": "Setia Pahlawan",
+        "street": "Titan 11",
+        "iso3166_2": "BN-BM",
+        "lon": 114.94432887523207,
+        "lat": 4.88199305,
+        "formatted": "Pottery House, Titan 11, Bandar Seri Begawan, Brunei-Muara District BP1126, Brunei",
+        "address_line1": "Pottery House",
+        "address_line2": "Titan 11, Bandar Seri Begawan, Brunei-Muara District BP1126, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Pottery House",
+            "osm_id": 871555057,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5192f260e26fbc5c405910df9b2f29871340f00102f901f1dff2330000000092030d506f747465727920486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.94432887523206,
+          4.881993049515373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guided Tour Meeting Point",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "postcode": "98008",
+        "street": "Night Walk Loop",
+        "iso3166_2": "MY-13",
+        "lon": 114.81252895,
+        "lat": 4.042414750000001,
+        "formatted": "Guided Tour Meeting Point, Night Walk Loop, 98008 Mulu, Sarawak, Malaysia",
+        "address_line1": "Guided Tour Meeting Point",
+        "address_line2": "Night Walk Loop, 98008 Mulu, Sarawak, Malaysia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Guided Tour Meeting Point",
+            "layer": 1,
+            "osm_id": 1102300060,
+            "amenity": "bench",
+            "tourism": "attraction",
+            "backrest": "yes",
+            "building": "roof",
+            "material": "wood",
+            "osm_type": "w"
+          }
+        },
+        "building": {
+          "type": "roof",
+          "material": "wood"
+        },
+        "place_id": "5169d36c7900b45c4059f851a9c56e2b1040f00102f9019cc3b3410000000092031947756964656420546f7572204d656574696e6720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.81252895000002,
+          4.042414749583706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tree Top Tower",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "postcode": "98008",
+        "street": "Botanical Loop",
+        "iso3166_2": "MY-13",
+        "lon": 114.8138292,
+        "lat": 4.0389624,
+        "formatted": "Tree Top Tower, Botanical Loop, 98008 Mulu, Sarawak, Malaysia",
+        "address_line1": "Tree Top Tower",
+        "address_line2": "Botanical Loop, 98008 Mulu, Sarawak, Malaysia",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tree Top Tower",
+            "height": 35,
+            "osm_id": 1339926078,
+            "tourism": "viewpoint",
+            "man_made": "tower",
+            "operator": "Gunung Mulu National Park",
+            "osm_type": "n",
+            "step_count": 98,
+            "tower:type": "observation"
+          }
+        },
+        "operator": "Gunung Mulu National Park",
+        "place_id": "51e9a111c715b45c4059b0f25fc2e5271040f00103f9013ea6dd4f0000000092030e5472656520546f7020546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8138292,
+          4.038962399584008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bat Observatory",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "postcode": "98008",
+        "street": "Kenyalang Loop",
+        "iso3166_2": "MY-13",
+        "lon": 114.8215872,
+        "lat": 4.0234994,
+        "formatted": "Bat Observatory, Kenyalang Loop, 98008 Mulu, Sarawak, Malaysia",
+        "address_line1": "Bat Observatory",
+        "address_line2": "Kenyalang Loop, 98008 Mulu, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bat Observatory",
+            "osm_id": 1339968992,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "board_type": "wildlife",
+            "description": "Info about bats in the area"
+          }
+        },
+        "description": "Info about bats in the area",
+        "place_id": "51fbb37ae294b45c40597cc7023a10181040f00103f901e04dde4f0000000092030f426174204f627365727661746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8215872,
+          4.023499399585372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Local Handicraft For Sale",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Batu Bungan",
+        "postcode": "98008",
+        "street": "Penan Settlement Road",
+        "iso3166_2": "MY-13",
+        "lon": 114.8182182,
+        "lat": 4.0539228,
+        "formatted": "Local Handicraft For Sale, Penan Settlement Road, 98008 Batu Bungan, Sarawak, Malaysia",
+        "address_line1": "Local Handicraft For Sale",
+        "address_line2": "Penan Settlement Road, 98008 Batu Bungan, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Local Handicraft For Sale",
+            "osm_id": 1339968998,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517d7fdeaf5db45c4059a3ddd28937371040f00103f901e64dde4f000000009203194c6f63616c2048616e6469637261667420466f722053616c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8182182,
+          4.053922799582696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glass-enclosed Viewing Tower",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Ayer Village",
+        "postcode": "BP2126",
+        "district": "Brunei-Muara District",
+        "suburb": "Lurong Sikuna",
+        "street": "Jeti 3",
+        "iso3166_2": "BN-BM",
+        "lon": 114.9443257,
+        "lat": 4.88426,
+        "formatted": "Glass-enclosed Viewing Tower, Jeti 3, Bandar Seri Begawan, Brunei-Muara District BP2126, Brunei",
+        "address_line1": "Glass-enclosed Viewing Tower",
+        "address_line2": "Jeti 3, Bandar Seri Begawan, Brunei-Muara District BP2126, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Glass-enclosed Viewing Tower",
+            "osm_id": 2077177501,
+            "name:en": "Glass-enclosed Viewing Tower",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Glass-enclosed Viewing Tower"
+        },
+        "place_id": "516d910fd56fbc5c4059b0500c747b891340f00103f9019d36cf7b0000000092031c476c6173732d656e636c6f7365642056696577696e6720546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9443257,
+          4.8842599995152085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukit Pala (Sunset)",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "postcode": "98008",
+        "street": "Mulu Main Road",
+        "iso3166_2": "MY-13",
+        "lon": 114.7997698,
+        "lat": 4.0320063,
+        "formatted": "Bukit Pala (Sunset), Mulu Main Road, 98008 Mulu, Sarawak, Malaysia",
+        "address_line1": "Bukit Pala (Sunset)",
+        "address_line2": "Mulu Main Road, 98008 Mulu, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bukit Pala (Sunset)",
+            "osm_id": 2992069046,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5107d5ab6d2fb35c405980ed6742c6201040f00103f901b65957b20000000092031342756b69742050616c61202853756e73657429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.79976980000002,
+          4.032006299584623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Limbang Division",
+        "state": "Sarawak",
+        "county": "Limbang",
+        "city": "BATU BIAH",
+        "postcode": "98708",
+        "district": "Taman Hen Yii",
+        "street": "Bulatan Hospital",
+        "iso3166_2": "MY-13",
+        "lon": 115.0211619,
+        "lat": 4.7655732,
+        "formatted": "Bulatan Hospital, 98708 BATU BIAH, Sarawak, Malaysia",
+        "address_line1": "Bulatan Hospital",
+        "address_line2": "98708 BATU BIAH, Sarawak, Malaysia",
+        "name": "Bulatan Hospital",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bulatan Hospital",
+            "osm_id": 3239286615,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f41a71b75ac15c4059d599ba6bf20f1340f00103f901579713c10000000092031042756c6174616e20486f73706974616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.02116189999998,
+          4.765573199524131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brunei Clock Tower",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Saba",
+        "postcode": "BS8611",
+        "district": "Brunei-Muara District",
+        "suburb": "City Centre",
+        "street": "Jalan Sultan Omar Ali Saifuddien",
+        "iso3166_2": "BN-BM",
+        "lon": 114.942412,
+        "lat": 4.8902702,
+        "formatted": "Brunei Clock Tower, Jalan Sultan Omar Ali Saifuddien, Bandar Seri Begawan, Brunei-Muara District BS8611, Brunei",
+        "address_line1": "Brunei Clock Tower",
+        "address_line2": "Jalan Sultan Omar Ali Saifuddien, Bandar Seri Begawan, Brunei-Muara District BS8611, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.clock",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "date": "no",
+            "name": "Brunei Clock Tower",
+            "osm_id": 3245666983,
+            "amenity": "clock",
+            "display": "analog",
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n",
+            "barometer": "no",
+            "hygrometer": "no",
+            "visibility": "street",
+            "thermometer": "no"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "51e8d66b7a50bc5c4059be13befda28f1340f00103f901a7f274c1000000009203124272756e656920436c6f636b20546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.94241199999999,
+          4.890270199514758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower Viewpoint",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "postcode": "BA1111",
+        "district": "Brunei-Muara District",
+        "suburb": "Tasek Lama",
+        "street": "Jalan Tasek Lama",
+        "iso3166_2": "BN-BM",
+        "lon": 114.9463538,
+        "lat": 4.9033422,
+        "formatted": "Viewpoint tower, Jalan Tasek Lama, Bandar Seri Begawan, Brunei-Muara District BA1111, Brunei",
+        "address_line1": "Viewpoint tower",
+        "address_line2": "Jalan Tasek Lama, Bandar Seri Begawan, Brunei-Muara District BA1111, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tower Viewpoint",
+            "osm_id": 4210179408,
+            "name:en": "Viewpoint tower",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Viewpoint tower"
+        },
+        "place_id": "517f5c870f91bc5c4059a008d0bc059d1340f00103f901503df2fa0000000092030f546f7765722056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.94635379999998,
+          4.903342199513787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wildlife Observation Shelter",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "postcode": "98008",
+        "street": "Botanical Loop",
+        "iso3166_2": "MY-13",
+        "lon": 114.8181027,
+        "lat": 4.0404025,
+        "formatted": "Wildlife Observation Shelter, Botanical Loop, 98008 Mulu, Sarawak, Malaysia",
+        "address_line1": "Wildlife Observation Shelter",
+        "address_line2": "Botanical Loop, 98008 Mulu, Sarawak, Malaysia",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wildlife Observation Shelter",
+            "height": 35,
+            "osm_id": 4221445903,
+            "amenity": "shelter",
+            "tourism": "viewpoint",
+            "man_made": "tower",
+            "operator": "Gunung Mulu National Park",
+            "osm_type": "n",
+            "tower:type": "observation"
+          }
+        },
+        "operator": "Gunung Mulu National Park",
+        "place_id": "513c516dcb5bb45c4059bc8ed9455f291040f00103f9010f279efb0000000092031c57696c646c696665204f62736572766174696f6e205368656c746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8181027,
+          4.040402499583873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mini Pinnacles",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "street": "Headhunter's Trail",
+        "iso3166_2": "MY-13",
+        "lon": 114.8935001,
+        "lat": 4.1317383,
+        "formatted": "Mini Pinnacles, Headhunter's Trail, Sarawak, Malaysia",
+        "address_line1": "Mini Pinnacles",
+        "address_line2": "Headhunter's Trail, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mini Pinnacles",
+            "osm_id": 4226803018,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51411e0b1b2fb95c40598d3ca167e6861040f00103f9014ae5effb0000000092030e4d696e692050696e6e61636c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8935001,
+          4.131738299575898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Bukit Sawat",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "iso3166_2": "BN-BE",
+        "lon": 114.5541934,
+        "lat": 4.5251337,
+        "formatted": "Kg Bukit Sawat, Belait District, Brunei",
+        "address_line1": "Kg Bukit Sawat",
+        "address_line2": "Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kg Bukit Sawat",
+            "osm_id": 4320585692,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512e2a98e777a35c4059244206a6bc191240f00103f901dce786010100000092030e4b672042756b6974205361776174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5541934,
+          4.52513369954298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Panchor",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Kampong Panchor Papan",
+        "postcode": "TA1941",
+        "district": "Tutong District",
+        "neighbourhood": "Kampong Tanah Burok",
+        "street": "Jalan Tutong",
+        "iso3166_2": "BN-TU",
+        "lon": 114.6717457,
+        "lat": 4.8032668,
+        "formatted": "Sungai Panchor, Jalan Tutong, Kampong Panchor Papan, Tutong District TA1941, Brunei",
+        "address_line1": "Sungai Panchor",
+        "address_line2": "Jalan Tutong, Kampong Panchor Papan, Tutong District TA1941, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sungai Panchor",
+            "osm_id": 4320588790,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a22eade1fdaa5c40592ea067928b361340f00103f901f6f386010100000092030e53756e6761692050616e63686f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6717457,
+          4.803266799521266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Birau",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Kampong Panchor Papan",
+        "postcode": "TA1941",
+        "district": "Tutong District",
+        "neighbourhood": "Kampong Tanah Burok",
+        "street": "Jalan Tutong",
+        "iso3166_2": "BN-TU",
+        "lon": 114.67179,
+        "lat": 4.8016001,
+        "formatted": "Sungai Birau, Jalan Tutong, Kampong Panchor Papan, Tutong District TA1941, Brunei",
+        "address_line1": "Sungai Birau",
+        "address_line2": "Jalan Tutong, Kampong Panchor Papan, Tutong District TA1941, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sungai Birau",
+            "osm_id": 4320633490,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e9f17b9bfeaa5c4059a6a80fa8d6341340f00103f90192a287010100000092030c53756e676169204269726175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.67179,
+          4.8016000995213854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Sungai Mau",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "street": "Jalan Labi",
+        "iso3166_2": "BN-BE",
+        "lon": 114.4872219,
+        "lat": 4.550096,
+        "formatted": "Kg Sungai Mau, Jalan Labi, Belait District, Brunei",
+        "address_line1": "Kg Sungai Mau",
+        "address_line2": "Jalan Labi, Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kg Sungai Mau",
+            "osm_id": 4320633491,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514799c3a42e9f5c405976c19e5d4c331240f00103f90193a287010100000092030d4b672053756e676169204d6175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4872219,
+          4.550095999540977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Jublee Perak Anduki",
+        "country": "Brunei",
+        "country_code": "bn",
+        "postcode": "KB1133",
+        "district": "Belait District",
+        "street": "Jalan Tengah",
+        "iso3166_2": "BN-BE",
+        "lon": 114.3879241,
+        "lat": 4.6350182,
+        "formatted": "Taman Jublee Perak Anduki, Jalan Tengah, Belait District KB1133, Brunei",
+        "address_line1": "Taman Jublee Perak Anduki",
+        "address_line2": "Jalan Tengah, Belait District KB1133, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Taman Jublee Perak Anduki",
+            "osm_id": 4320633492,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5123b59abfd3985c40591575fd35428a1240f00103f90194a287010100000092031954616d616e204a75626c656520506572616b20416e64756b69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3879241,
+          4.635018199534234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sungai Bakiau",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Kampong Panchor Dulit",
+        "postcode": "TA2141",
+        "district": "Tutong District",
+        "street": "Simpang 46",
+        "iso3166_2": "BN-TU",
+        "lon": 114.6641322,
+        "lat": 4.7980928,
+        "formatted": "Sungai Bakiau, Simpang 46, Kampong Panchor Dulit, Tutong District TA2141, Brunei",
+        "address_line1": "Sungai Bakiau",
+        "address_line2": "Simpang 46, Kampong Panchor Dulit, Tutong District TA2141, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sungai Bakiau",
+            "osm_id": 4320636189,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511dce572481aa5c40597679243d3f311340f00103f9011dad87010100000092030d53756e6761692042616b696175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6641322,
+          4.79809279952166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lurah Saban",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Kampong Panchor Dulit",
+        "postcode": "TA2141",
+        "district": "Tutong District",
+        "street": "Simpang 98",
+        "iso3166_2": "BN-TU",
+        "lon": 114.6685558,
+        "lat": 4.7995252,
+        "formatted": "Lurah Saban, Simpang 98, Kampong Panchor Dulit, Tutong District TA2141, Brunei",
+        "address_line1": "Lurah Saban",
+        "address_line2": "Simpang 98, Kampong Panchor Dulit, Tutong District TA2141, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lurah Saban",
+            "osm_id": 4320636389,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514323449ec9aa5c40597c17e1bbb6321340f00103f901e5ad87010100000092030b4c7572616820536162616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.66855579999996,
+          4.79952519952155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Kuala Balai",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "neighbourhood": "Kampong Mumong B",
+        "street": "Jalan Mumong",
+        "iso3166_2": "BN-BE",
+        "lon": 114.3208777,
+        "lat": 4.4551268,
+        "formatted": "Kg Kuala Balai, Jalan Mumong, Belait District, Brunei",
+        "address_line1": "Kg Kuala Balai",
+        "address_line2": "Jalan Mumong, Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kg Kuala Balai",
+            "osm_id": 4320636489,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5101e19e4289945c4059e3607ec20cd21140f00103f90149ae87010100000092030e4b67204b75616c612042616c6169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3208777,
+          4.455126799548654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Bukit Puan",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "street": "Jalan Labi",
+        "iso3166_2": "BN-BE",
+        "lon": 114.4677469,
+        "lat": 4.5379421,
+        "formatted": "Kg Bukit Puan, Jalan Labi, Belait District, Brunei",
+        "address_line1": "Kg Bukit Puan",
+        "address_line2": "Jalan Labi, Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kg Bukit Puan",
+            "osm_id": 4320636490,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518b93b190ef9d5c40596eb2324bda261240f00103f9014aae87010100000092030d4b672042756b6974205075616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4677469,
+          4.537942099541949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantai Peranginan Kg Sungai Liang",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Kampong Sungai Liang",
+        "district": "Belait District",
+        "street": "Simpang 166",
+        "iso3166_2": "BN-BE",
+        "lon": 114.4853633,
+        "lat": 4.6858304,
+        "formatted": "Pantai Peranginan Kg Sungai Liang, Simpang 166, Kampong Sungai Liang, Belait District, Brunei",
+        "address_line1": "Pantai Peranginan Kg Sungai Liang",
+        "address_line2": "Simpang 166, Kampong Sungai Liang, Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pantai Peranginan Kg Sungai Liang",
+            "osm_id": 4320636593,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516e0b3b31109f5c4059305702534abe1240f00103f901b1ae87010100000092032150616e74616920506572616e67696e616e204b672053756e676169204c69616e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.48536329999999,
+          4.685830399530275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Bakuku",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Kampong Penabai",
+        "postcode": "TA3541",
+        "district": "Tutong District",
+        "street": "Jalan Penabai",
+        "iso3166_2": "BN-TU",
+        "lon": 114.626401,
+        "lat": 4.7871119,
+        "formatted": "Pulau Bakuku, Jalan Penabai, Kampong Penabai, Tutong District TA3541, Brunei",
+        "address_line1": "Pulau Bakuku",
+        "address_line2": "Jalan Penabai, Kampong Penabai, Tutong District TA3541, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pulau Bakuku",
+            "osm_id": 4320638389,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a24b38f416a85c405950f76aa900261340f00103f901b5b587010100000092030c50756c61752042616b756b75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.62640100000002,
+          4.787111899522486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Merugi Bungkok",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "iso3166_2": "BN-BE",
+        "lon": 114.5543313,
+        "lat": 4.5177674,
+        "formatted": "Kg Merugi Bungkok, Belait District, Brunei",
+        "address_line1": "Kg Merugi Bungkok",
+        "address_line2": "Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kg Merugi Bungkok",
+            "osm_id": 4321142009,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518b29fd297aa35c405909e6ff9d31121240f00103f901f9648f01010000009203114b67204d65727567692042756e676b6f6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.55433129999999,
+          4.5177673995435805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kg Ubok-Ubok",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "iso3166_2": "BN-BE",
+        "lon": 114.5642291,
+        "lat": 4.5082277,
+        "formatted": "Kg Ubok-Ubok, Belait District, Brunei",
+        "address_line1": "Kg Ubok-Ubok",
+        "address_line2": "Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kg Ubok-Ubok",
+            "osm_id": 4321190798,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e6fc5e541ca45c405963db91d76c081240f00103f9018e2390010100000092030c4b672055626f6b2d55626f6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5642291,
+          4.508227699544338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OGDC",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Seria",
+        "postcode": "KB2733",
+        "district": "Belait District",
+        "suburb": "Pekan Seria Kawasan 1",
+        "street": "Simpang 22",
+        "iso3166_2": "BN-BE",
+        "lon": 114.3271635,
+        "lat": 4.6171896,
+        "formatted": "Oil and Gas Discovery Centre, Simpang 22, Seria, Belait District KB2733, Brunei",
+        "address_line1": "Oil and Gas Discovery Centre",
+        "address_line2": "Simpang 22, Seria, Belait District KB2733, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "OGDC",
+            "osm_id": 4405539201,
+            "name:en": "Oil and Gas Discovery Centre",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "short_name": "OGDC"
+          }
+        },
+        "name_other": {
+          "short_name": "OGDC"
+        },
+        "name_international": {
+          "en": "Oil and Gas Discovery Centre"
+        },
+        "place_id": "517a3c2d3ff0945c40596fbfe58c00781240f00103f90181319706010000009203044f474443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32716350000001,
+          4.6171895995356484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luagan Lalak North Viewpoint",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "street": "Luagan Park Boardwalk",
+        "iso3166_2": "BN-BE",
+        "lon": 114.475427,
+        "lat": 4.5157561,
+        "formatted": "Luagan Lalak North Viewpoint, Luagan Park Boardwalk, Belait District, Brunei",
+        "address_line1": "Luagan Lalak North Viewpoint",
+        "address_line2": "Luagan Park Boardwalk, Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Luagan Lalak North Viewpoint",
+            "osm_id": 4971585796,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a9285e656d9e5c4059f302f15d22101240f00103f901046154280100000092031c4c756167616e204c616c616b204e6f7274682056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.47542699999998,
+          4.515756099543739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luagan Lalak South Viewpoint",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "street": "Luagan Park Boardwalk",
+        "iso3166_2": "BN-BE",
+        "lon": 114.4749371,
+        "lat": 4.5149324,
+        "formatted": "Luagan Lalak South Viewpoint, Luagan Park Boardwalk, Belait District, Brunei",
+        "address_line1": "Luagan Lalak South Viewpoint",
+        "address_line2": "Luagan Park Boardwalk, Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Luagan Lalak South Viewpoint",
+            "osm_id": 4971585800,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510e0a945e659e5c40590ec45e704a0f1240f00103f901086154280100000092031c4c756167616e204c616c616b20536f7574682056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4749371,
+          4.514932399543808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luagan Lalak Main Viewpoint",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Belait District",
+        "street": "Luagan Park Boardwalk",
+        "iso3166_2": "BN-BE",
+        "lon": 114.4752795,
+        "lat": 4.5153275,
+        "formatted": "Luagan Lalak Main Viewpoint, Luagan Park Boardwalk, Belait District, Brunei",
+        "address_line1": "Luagan Lalak Main Viewpoint",
+        "address_line2": "Luagan Park Boardwalk, Belait District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Luagan Lalak Main Viewpoint",
+            "osm_id": 4971585804,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51643db5fa6a9e5c405967141503b20f1240f00103f9010c6154280100000092031b4c756167616e204c616c616b204d61696e2056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.4752795,
+          4.515327499543765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feri Ke Labuan",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Interior Division",
+        "state": "Sabah",
+        "county": "Kuala Penyu",
+        "city": "Menumbok",
+        "postcode": "89760",
+        "street": "A7",
+        "iso3166_2": "MY-12",
+        "lon": 115.373517,
+        "lat": 5.3029639,
+        "formatted": "Ferries To Labuan, A7, 89760 Menumbok, Sabah, Malaysia",
+        "address_line1": "Ferries To Labuan",
+        "address_line2": "A7, 89760 Menumbok, Sabah, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Feri Ke Labuan",
+            "osm_id": 5104441121,
+            "name:en": "Ferries To Labuan",
+            "name:ms": "Feri Ke Labuan",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ferries To Labuan",
+          "ms": "Feri Ke Labuan"
+        },
+        "place_id": "5101e0d8b3e7d75c405918a4202b3c361540f00103f90121973f300100000092030e46657269204b65204c616275616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.373517,
+          5.302963899485825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terminal Feri Menumbok",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Interior Division",
+        "state": "Sabah",
+        "county": "Kuala Penyu",
+        "city": "Menumbok",
+        "postcode": "89760",
+        "street": "A7",
+        "iso3166_2": "MY-12",
+        "lon": 115.3741462,
+        "lat": 5.3028379,
+        "formatted": "Menumbok Ferry Terminal, A7, 89760 Menumbok, Sabah, Malaysia",
+        "address_line1": "Menumbok Ferry Terminal",
+        "address_line2": "A7, 89760 Menumbok, Sabah, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Terminal Feri Menumbok",
+            "osm_id": 5113398723,
+            "name:en": "Menumbok Ferry Terminal",
+            "name:ms": "Terminal Feri Menumbok",
+            "name:zh": "孟奴卜渡轮码头",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "name:zh-Hans": "孟奴卜渡轮码头",
+            "name:zh-Hant": "孟奴卜渡輪碼頭"
+          }
+        },
+        "name_international": {
+          "en": "Menumbok Ferry Terminal",
+          "ms": "Terminal Feri Menumbok",
+          "zh": "孟奴卜渡轮码头"
+        },
+        "place_id": "510d3be702f2d75c4059be1f69231b361540f00103f901c345c830010000009203165465726d696e616c2046657269204d656e756d626f6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.3741462,
+          5.302837899485835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Speedboat To Labuan",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Interior Division",
+        "state": "Sabah",
+        "county": "Kuala Penyu",
+        "city": "Menumbok",
+        "postcode": "89760",
+        "street": "A7",
+        "iso3166_2": "MY-12",
+        "lon": 115.3737677,
+        "lat": 5.303297,
+        "formatted": "Speedboat To Labuan, A7, 89760 Menumbok, Sabah, Malaysia",
+        "address_line1": "Speedboat To Labuan",
+        "address_line2": "A7, 89760 Menumbok, Sabah, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Speedboat To Labuan",
+            "osm_id": 5113400921,
+            "name:en": "Speedboat To Labuan",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Speedboat To Labuan"
+        },
+        "place_id": "5145f35bcfebd75c4059d910177d93361540f00103f901594ec830010000009203135370656564626f617420546f204c616275616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.37376769999999,
+          5.303296999485803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjung Ikan Bakar",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Kampung Pohon Batu",
+        "postcode": "87014",
+        "street": "Jalan Lubok Temiang",
+        "iso3166_2": "MY-15",
+        "lon": 115.2463109,
+        "lat": 5.3728686,
+        "formatted": "Anjung Ikan Bakar, Jalan Lubok Temiang, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "address_line1": "Anjung Ikan Bakar",
+        "address_line2": "Jalan Lubok Temiang, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Anjung Ikan Bakar",
+            "osm_id": 5117464927,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517e09cb8ec3cf5c4059c2e82144d17d1540f00103f9015f51063101000000920311416e6a756e6720496b616e2042616b6172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2463109,
+          5.372868599481253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kina Benuwa Wetland Mangrove Forest",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Victoria",
+        "postcode": "87009",
+        "street": "Jalan Kinabenuwa",
+        "iso3166_2": "MY-15",
+        "lon": 115.2115814,
+        "lat": 5.2835646,
+        "formatted": "Kina Benuwa Wetland Mangrove Forest, Jalan Kinabenuwa, 87009 Victoria, Labuan, Malaysia",
+        "address_line1": "Kina Benuwa Wetland Mangrove Forest",
+        "address_line2": "Jalan Kinabenuwa, 87009 Victoria, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kina Benuwa Wetland Mangrove Forest",
+            "osm_id": 5117465038,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51475cb68c8acd5c4059da6624c25e221540f00103f901ce510631010000009203234b696e612042656e757761205765746c616e64204d616e67726f766520466f72657374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.21158139999999,
+          5.283564599487102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung Ubat (Ammunition Store)",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Kampung Pohon Batu",
+        "postcode": "87014",
+        "street": "Labuan Chimney Walking Trail",
+        "iso3166_2": "MY-15",
+        "lon": 115.2552103,
+        "lat": 5.3815042,
+        "formatted": "Gedung Ubat (Ammunition Store), Labuan Chimney Walking Trail, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "address_line1": "Gedung Ubat (Ammunition Store)",
+        "address_line2": "Labuan Chimney Walking Trail, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gedung Ubat (Ammunition Store)",
+            "osm_id": 5117465335,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518e06955d55d05c4059a0397009a9861540f00103f901f75206310100000092031e476564756e6720556261742028416d6d756e6974696f6e2053746f726529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.25521030000002,
+          5.381504199480702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "British Graveyard",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "postcode": "87014",
+        "street": "Labuan Chimney Walking Trail",
+        "iso3166_2": "MY-15",
+        "lon": 115.2534667,
+        "lat": 5.3852933,
+        "formatted": "British Graveyard, Labuan Chimney Walking Trail, 87014, Labuan, Malaysia",
+        "address_line1": "British Graveyard",
+        "address_line2": "Labuan Chimney Walking Trail, 87014, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "British Graveyard",
+            "osm_id": 5117465337,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5101c864cc38d05c4059c18ba2538a8a1540f00103f901f9520631010000009203114272697469736820477261766579617264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2534667,
+          5.385293299480453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Layang-Layangan Beach",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Victoria",
+        "street": "Jalan OKK Daud",
+        "iso3166_2": "MY-15",
+        "lon": 115.1949836,
+        "lat": 5.3347645,
+        "formatted": "Layang-Layangan Beach, Jalan OKK Daud, Victoria, Labuan, Malaysia",
+        "address_line1": "Layang-Layangan Beach",
+        "address_line2": "Jalan OKK Daud, Victoria, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Layang-Layangan Beach",
+            "osm_id": 5117465340,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5167507e9c7acc5c4059e4934481cc561540f00103f901fc520631010000009203154c6179616e672d4c6179616e67616e204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.19498359999999,
+          5.334764499483729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjung Ketam",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Kampung Pohon Batu",
+        "postcode": "87014",
+        "street": "Jalan Tanjung Aru",
+        "iso3166_2": "MY-15",
+        "lon": 115.2442457,
+        "lat": 5.3492484,
+        "formatted": "Anjung Ketam, Jalan Tanjung Aru, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "address_line1": "Anjung Ketam",
+        "address_line2": "Jalan Tanjung Aru, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Anjung Ketam",
+            "osm_id": 5117465344,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51116cb7b8a1cf5c4059ead5575fa1651540f00103f901005306310100000092030c416e6a756e67204b6574616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.24424569999998,
+          5.349248399482784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raffles anchorage",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Kampung Pohon Batu",
+        "postcode": "87014",
+        "street": "Labuan Chimney Walking Trail",
+        "iso3166_2": "MY-15",
+        "lon": 115.2559165,
+        "lat": 5.3828727,
+        "formatted": "Raffles anchorage, Labuan Chimney Walking Trail, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "address_line1": "Raffles anchorage",
+        "address_line2": "Labuan Chimney Walking Trail, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Raffles anchorage",
+            "osm_id": 5117466431,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516e8099ef60d05c4059a433ebc70f881540f00103f9013f57063101000000920311526166666c657320616e63686f72616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.25591649999998,
+          5.382872699480604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bat Exodus Observation Platform",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "postcode": "98008",
+        "street": "Kenyalang Loop",
+        "iso3166_2": "MY-13",
+        "lon": 114.8231218,
+        "lat": 4.02365,
+        "formatted": "Bat Exodus Observation Platform, Kenyalang Loop, 98008 Mulu, Sarawak, Malaysia",
+        "address_line1": "Bat Exodus Observation Platform",
+        "address_line2": "Kenyalang Loop, 98008 Mulu, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bat Exodus Observation Platform",
+            "osm_id": 5500778921,
+            "name:en": "Bat Exodus Observation Platform",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bat Exodus Observation Platform"
+        },
+        "place_id": "51fae70e07aeb45c405909149bb437181040f00103f901a939df470100000092031f4261742045786f647573204f62736572766174696f6e20506c6174666f726d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8231218,
+          4.023649999585367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batu Punggul",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Interior Division",
+        "state": "Sabah",
+        "county": "Kuala Penyu",
+        "city": "Tenggilung Village",
+        "street": "Kayul Rimbaan Road",
+        "iso3166_2": "MY-12",
+        "lon": 115.5245117,
+        "lat": 5.524667,
+        "formatted": "Batu Punggul, Kayul Rimbaan Road, Tenggilung Village, Sabah, Malaysia",
+        "address_line1": "Batu Punggul",
+        "address_line2": "Kayul Rimbaan Road, Tenggilung Village, Sabah, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Batu Punggul",
+            "osm_id": 5783644360,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a477859991e15c4059c315504e42191640f00103f901c868bb580100000092030c426174752050756e6767756c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5245117,
+          5.524666999471665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NG. SETUAN",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Limbang Division",
+        "state": "Sarawak",
+        "county": "Limbang",
+        "iso3166_2": "MY-13",
+        "lon": 115.0658029,
+        "lat": 4.2640918,
+        "formatted": "NG. SETUAN, Limbang, Malaysia",
+        "address_line1": "NG. SETUAN",
+        "address_line2": "Limbang, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "NG. SETUAN",
+            "osm_id": 5828445587,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d6de5d1d36c45c40590916a9146e0e1140f00103f9019305675b0100000092030a4e472e2053455455414e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.06580289999997,
+          4.2640917995645475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramsey point Observatory",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Victoria",
+        "postcode": "87008",
+        "street": "Jalan Wawasan",
+        "iso3166_2": "MY-15",
+        "lon": 115.254268,
+        "lat": 5.2734226,
+        "formatted": "Ramsey point Observatory, Jalan Wawasan, 87008 Victoria, Labuan, Malaysia",
+        "address_line1": "Ramsey point Observatory",
+        "address_line2": "Jalan Wawasan, 87008 Victoria, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ramsey point Observatory",
+            "osm_id": 6087072691,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d51a4aed45d05c405940260b18fc171540f00103f901b35bd16a0100000092031852616d73657920706f696e74204f627365727661746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.25426799999998,
+          5.2734225994877875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunset spot",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Victoria",
+        "postcode": "87009",
+        "street": "Jalan Hujung Pasir",
+        "iso3166_2": "MY-15",
+        "lon": 115.2380287,
+        "lat": 5.2807719,
+        "formatted": "Sunset spot, Jalan Hujung Pasir, 87009 Victoria, Labuan, Malaysia",
+        "address_line1": "Sunset spot",
+        "address_line2": "Jalan Hujung Pasir, 87009 Victoria, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sunset spot",
+            "osm_id": 6087340585,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519a80badc3bcf5c405919bc37ab821f1540f00103f9012972d56a0100000092030b53756e7365742073706f74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2380287,
+          5.280771899487285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Speedboat taxi",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Victoria",
+        "postcode": "87009",
+        "street": "Jalan Hujung Pasir",
+        "iso3166_2": "MY-15",
+        "lon": 115.2389072,
+        "lat": 5.2811802,
+        "formatted": "Speedboat taxi, Jalan Hujung Pasir, 87009 Victoria, Labuan, Malaysia",
+        "address_line1": "Speedboat taxi",
+        "address_line2": "Jalan Hujung Pasir, 87009 Victoria, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Speedboat taxi",
+            "osm_id": 6087346685,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51dab16c414acf5c40597d52c4b3ed1f1540f00103f901fd89d56a0100000092030e5370656564626f61742074617869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2389072,
+          5.281180199487264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Footbridge Across Canal",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "postcode": "BA1511",
+        "district": "Brunei-Muara District",
+        "suburb": "Kumbang Pasang",
+        "iso3166_2": "BN-BM",
+        "lon": 114.9279373,
+        "lat": 4.9051191,
+        "formatted": "Footbridge Across Canal, Bandar Seri Begawan, Brunei-Muara District BA1511, Brunei",
+        "address_line1": "Footbridge Across Canal",
+        "address_line2": "Bandar Seri Begawan, Brunei-Muara District BA1511, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Footbridge Across Canal",
+            "osm_id": 6139904985,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51450f215363bb5c40599e958d8ad79e1340f00103f901d983f76d01000000920317466f6f74627269646765204163726f73732043616e616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.92793730000001,
+          4.905119099513653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dinosaur Statue",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Muara–Tutong Highway",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8359717,
+        "lat": 4.9407449,
+        "formatted": "Dinosaur Statue, Muara–Tutong Highway, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Dinosaur Statue",
+        "address_line2": "Muara–Tutong Highway, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dinosaur Statue",
+            "osm_id": 6862074974,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "516cf8718f80b55c40596b1d85a152c31340f00103f9015ef402990100000092030f44696e6f7361757220537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83597170000002,
+          4.940744899511041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dinosaur Statue",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.835741,
+        "lat": 4.9382806,
+        "formatted": "Dinosaur Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Dinosaur Statue",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dinosaur Statue",
+            "osm_id": 6862074976,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "514abbd1c77cb55c4059ee7c25a1ccc01340f00103f90160f402990100000092030f44696e6f7361757220537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83574100000001,
+          4.938280599511229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lion Statue",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8357476,
+        "lat": 4.9379736,
+        "formatted": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Lion Statue",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lion Statue",
+            "osm_id": 6862074977,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51786d80e37cb55c40591ca6b9267cc01340f00103f90161f402990100000092030b4c696f6e20537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83574759999999,
+          4.937973599511249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lion Statue",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8357893,
+        "lat": 4.9379783,
+        "formatted": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Lion Statue",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lion Statue",
+            "osm_id": 6862074978,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51327667927db55c4059b70823627dc01340f00103f90162f402990100000092030b4c696f6e20537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83578930000002,
+          4.93797829951125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lion Statue",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8358589,
+        "lat": 4.9379853,
+        "formatted": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Lion Statue",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lion Statue",
+            "osm_id": 6862074979,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5182e453b67eb55c40593f1ee6377fc01340f00103f90163f402990100000092030b4c696f6e20537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83585889999998,
+          4.937985299511239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lion Statue",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8358983,
+        "lat": 4.9379873,
+        "formatted": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Lion Statue",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lion Statue",
+            "osm_id": 6862074980,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "510b52955b7fb55c40594ddb1dbe7fc01340f00103f90164f402990100000092030b4c696f6e20537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83589829999998,
+          4.937987299511247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lion Statue",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8358253,
+        "lat": 4.9379821,
+        "formatted": "Lion Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Lion Statue",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lion Statue",
+            "osm_id": 6862074981,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51d82a66297eb55c40596f8926617ec01340f00103f90165f402990100000092030b4c696f6e20537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83582530000001,
+          4.9379820995112444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horse Statue",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8351693,
+        "lat": 4.9375783,
+        "formatted": "Horse Statue, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Horse Statue",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Horse Statue",
+            "osm_id": 6862416633,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51e187ef6973b55c40595e5c978614c01340f00103f901f92a08990100000092030c486f72736520537461747565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83516929999998,
+          4.937578299511271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Diamond",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8347284,
+        "lat": 4.9365631,
+        "formatted": "Crystal Diamond, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Crystal Diamond",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Crystal Diamond",
+            "osm_id": 6862416634,
+            "tourism": "artwork",
+            "material": "glass",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51b8c2aa306cb55c40599f2aac650abf1340f00103f901fa2a08990100000092030f4372797374616c204469616d6f6e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83472840000002,
+          4.936563099511345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weston Wetland",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Interior Division",
+        "state": "Sabah",
+        "county": "Beaufort",
+        "city": "Kampung Laboi",
+        "street": "Jalan Sipitang-Beaufort",
+        "iso3166_2": "MY-12",
+        "lon": 115.5892592,
+        "lat": 5.2093731,
+        "formatted": "Weston Wetland, Jalan Sipitang-Beaufort, Kampung Laboi, Sabah, Malaysia",
+        "address_line1": "Weston Wetland",
+        "address_line2": "Jalan Sipitang-Beaufort, Kampung Laboi, Sabah, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Weston Wetland",
+            "osm_id": 7013117585,
+            "name:en": "Weston Wetland",
+            "name:zh": "长鼻猴之地",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "name:zh-Hans": "长鼻猴之地",
+            "name:zh-Hant": "長鼻猴之地"
+          }
+        },
+        "name_international": {
+          "en": "Weston Wetland",
+          "zh": "长鼻猴之地"
+        },
+        "place_id": "517f37386cb6e55c405940ecdbe665d61440f00103f90191ae03a20100000092030e576573746f6e205765746c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5892592,
+          5.2093730994920975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buah Tampoi Belimbing",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "postcode": "BD2917",
+        "district": "Brunei-Muara District",
+        "suburb": "Belimbing",
+        "street": "Jalan Subok",
+        "iso3166_2": "BN-BM",
+        "lon": 114.9903144,
+        "lat": 4.919876,
+        "formatted": "Buah Tampoi Belimbing, Jalan Subok, Bandar Seri Begawan, Brunei-Muara District BD2917, Brunei",
+        "address_line1": "Buah Tampoi Belimbing",
+        "address_line2": "Jalan Subok, Bandar Seri Begawan, Brunei-Muara District BD2917, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buah Tampoi Belimbing",
+            "osm_id": 10164228178,
+            "name:ms": "Buah Tampoi Belimbing",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture",
+            "name:ms-Arab": "بواه تمڤوي بليمبيڠ"
+          }
+        },
+        "name_international": {
+          "ms": "Buah Tampoi Belimbing"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "518130a64f61bf5c40599a2059f9f3ad1340f00103f90152d0d55d02000000920315427561682054616d706f692042656c696d62696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.9903144,
+          4.919875999512579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Labuan Sunrise View Point",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Kampung Pohon Batu",
+        "postcode": "87014",
+        "street": "Labuan Chimney Walking Trail",
+        "iso3166_2": "MY-15",
+        "lon": 115.2555564,
+        "lat": 5.3813658,
+        "formatted": "Labuan Sunrise View Point, Labuan Chimney Walking Trail, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "address_line1": "Labuan Sunrise View Point",
+        "address_line2": "Labuan Chimney Walking Trail, 87014 Kampung Pohon Batu, Labuan, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Labuan Sunrise View Point",
+            "osm_id": 10821751993,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5125123b095bd05c40597a5492c184861540f00103f901b9d40685020000009203194c616275616e2053756e72697365205669657720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2555564,
+          5.381365799480699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timbalai Trigonometrical Station",
+        "ref": "https://www.jupem.gov.my/jupem18a/assets/uploads/files/pekeliling/38724-pek-1-2009.pdf",
+        "country": "Malaysia",
+        "country_code": "my",
+        "state": "Labuan",
+        "county": "Labuan",
+        "city": "Victoria",
+        "street": "Jalan Bebuloh",
+        "iso3166_2": "MY-15",
+        "lon": 115.1853206,
+        "lat": 5.2834472,
+        "formatted": "Timbalai Trigonometrical Station, Jalan Bebuloh, Victoria, Labuan, Malaysia",
+        "address_line1": "Timbalai Trigonometrical Station",
+        "address_line2": "Jalan Bebuloh, Victoria, Labuan, Malaysia",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 114,
+            "ref": "https://www.jupem.gov.my/jupem18a/assets/uploads/files/pekeliling/38724-pek-1-2009.pdf",
+            "name": "Timbalai Trigonometrical Station",
+            "osm_id": 10869962593,
+            "name:en": "Timbalai Trigonometrical Station",
+            "tourism": "attraction",
+            "man_made": "survey_point",
+            "operator": "Department of Survey And Mapping Malaysia",
+            "osm_type": "n",
+            "description": "Stesen Trigonometri Timbalai. GDM2000, Latitud: 5° 17' 0.40984\", Longitud: 115° 11' 7.15431\", Ketinggian Ellipsoid: 114.765 Meter. Geosentrik RSO, Utaraan: 584867.370 Meter, Timuran: 610609.124 Meter.",
+            "survey_point:purpose": "both",
+            "survey_point:structure": "pillar",
+            "survey_point:datum_aligned": "yes"
+          }
+        },
+        "operator": "Department of Survey And Mapping Malaysia",
+        "description": "Stesen Trigonometri Timbalai. GDM2000, Latitud: 5° 17' 0.40984\", Longitud: 115° 11' 7.15431\", Ketinggian Ellipsoid: 114.765 Meter. Geosentrik RSO, Utaraan: 584867.370 Meter, Timuran: 610609.124 Meter.",
+        "name_international": {
+          "en": "Timbalai Trigonometrical Station"
+        },
+        "ele": 114,
+        "place_id": "519b11ef4adccb5c405985c28ffb3f221540f00103f9016177e6870200000092032054696d62616c616920547269676f6e6f6d6574726963616c2053746174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1853206,
+          5.283447199487118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bebuak Meritam (Entrance)",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Limbang Division",
+        "state": "Sarawak",
+        "county": "Limbang",
+        "city": "Kampung Merasam Parit",
+        "district": "Rumah Rumpang Kampung Merasam Darat",
+        "street": "Jalan Meritam",
+        "iso3166_2": "MY-13",
+        "lon": 114.8679084,
+        "lat": 4.7293445,
+        "formatted": "Bebuak Meritam (Entrance), Jalan Meritam, Kampung Merasam Parit, Sarawak, Malaysia",
+        "address_line1": "Bebuak Meritam (Entrance)",
+        "address_line2": "Jalan Meritam, Kampung Merasam Parit, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bebuak Meritam (Entrance)",
+            "osm_id": 11642985535,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511f7baccf8bb75c40592ef1d348d9ea1240f00103f9013fdcf9b50200000092031942656275616b204d65726974616d2028456e7472616e636529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.86790840000002,
+          4.729344499526901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meritam Volcanic Mud",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Limbang Division",
+        "state": "Sarawak",
+        "county": "Limbang",
+        "city": "Kampung Merasam Parit",
+        "district": "Rumah Rumpang Kampung Merasam Darat",
+        "street": "Jalan Meritam",
+        "iso3166_2": "MY-13",
+        "lon": 114.8720528,
+        "lat": 4.730397,
+        "formatted": "Meritam Volcanic Mud, Jalan Meritam, Kampung Merasam Parit, Sarawak, Malaysia",
+        "address_line1": "Meritam Volcanic Mud",
+        "address_line2": "Jalan Meritam, Kampung Merasam Parit, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Meritam Volcanic Mud",
+            "osm_id": 11757185765,
+            "tourism": "attraction",
+            "operator": "Sarawak Tourism Board",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Sarawak Tourism Board",
+        "place_id": "51a8188cb6cfb75c4059c941e830edeb1240f00103f901e56ac8bc020000009203144d65726974616d20566f6c63616e6963204d7564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.8720528,
+          4.730396999526826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "南海观音",
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Interior Division",
+        "state": "Sabah",
+        "county": "Sipitang",
+        "city": "Sipitang",
+        "postcode": "89850",
+        "street": "Jalan Tanjung Pagar",
+        "iso3166_2": "MY-12",
+        "lon": 115.5473533,
+        "lat": 5.0674242,
+        "formatted": "南海观音, Jalan Tanjung Pagar, 89850 Sipitang, Sabah, Malaysia",
+        "address_line1": "南海观音",
+        "address_line2": "Jalan Tanjung Pagar, 89850 Sipitang, Sabah, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "南海观音",
+            "osm_id": 11979131490,
+            "name:zh": "南海观音",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue",
+            "name:zh-Hans": "南海观音",
+            "name:zh-Hant": "南海觀音"
+          }
+        },
+        "name_international": {
+          "zh": "南海观音"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51e4b622d607e35c405970476fd90a451440f00103f901620a03ca0200000092030ce58d97e6b5b7e8a782e99fb3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5473533,
+          5.067424199501929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jerudong Park Bus Stop",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Jerudong",
+        "municipality": "Mukim Sengkurong",
+        "postcode": "BG3122",
+        "district": "Brunei-Muara District",
+        "street": "Simpang 591",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8338059,
+        "lat": 4.9353978,
+        "formatted": "Jerudong Park Bus Stop, Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "address_line1": "Jerudong Park Bus Stop",
+        "address_line2": "Simpang 591, Jerudong, Brunei-Muara District BG3122, Brunei",
+        "categories": [
+          "public_transport",
+          "public_transport.bus",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bus": "yes",
+            "name": "Jerudong Park Bus Stop",
+            "osm_id": 12306986074,
+            "highway": "bus_stop",
+            "shelter": "yes",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "public_transport": "platform"
+          }
+        },
+        "place_id": "518ded6b135db55c4059a69bb6ebd8bd1340f00103f9015ab48ddd020000009203164a657275646f6e67205061726b204275732053746f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.83380589999997,
+          4.93539779951144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canopy Viewing Tower",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Temburong District",
+        "street": "Canopy Steps",
+        "iso3166_2": "BN-TE",
+        "lon": 115.1597578,
+        "lat": 4.552092,
+        "formatted": "Canopy Viewing Tower, Canopy Steps, Temburong District, Brunei",
+        "address_line1": "Canopy Viewing Tower",
+        "address_line2": "Canopy Steps, Temburong District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4817868122,
+            "name:en": "Canopy Viewing Tower",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Canopy Viewing Tower"
+        },
+        "place_id": "51fa91c77839ca5c4059eba4e99a57351240f00103f9015ad52a1f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1597578,
+          4.552091999540816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hiking Trail",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Temburong District",
+        "street": "Two river steps",
+        "iso3166_2": "BN-TE",
+        "lon": 115.1567316,
+        "lat": 4.5522875,
+        "formatted": "Hiking Trail, Two river steps, Temburong District, Brunei",
+        "address_line1": "Hiking Trail",
+        "address_line2": "Two river steps, Temburong District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4817868221,
+            "name:en": "Hiking Trail",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Hiking Trail"
+        },
+        "place_id": "51fa0ffae307ca5c4059c511b2da8a351240f00103f901bdd52a1f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15673159999997,
+          4.5522874995408005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanging Bridge",
+        "country": "Brunei",
+        "country_code": "bn",
+        "district": "Temburong District",
+        "street": "Canopy Steps",
+        "iso3166_2": "BN-TE",
+        "lon": 115.1571692,
+        "lat": 4.5532041,
+        "formatted": "Hanging Bridge, Canopy Steps, Temburong District, Brunei",
+        "address_line1": "Hanging Bridge",
+        "address_line2": "Canopy Steps, Temburong District, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4817868521,
+            "name:en": "Hanging Bridge",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Hanging Bridge"
+        },
+        "place_id": "51117c670f0fca5c40598d29ae227b361240f00103f901e9d62a1f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15716920000001,
+          4.553204099540733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sultan's Palace",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Burong Pingai Ayer",
+        "postcode": "BM1126",
+        "district": "Brunei-Muara District",
+        "street": "Jalan Lumapas",
+        "iso3166_2": "BN-BM",
+        "lon": 114.9322901,
+        "lat": 4.8750023,
+        "formatted": "Sultan's Palace, Jalan Lumapas, Bandar Seri Begawan, Brunei-Muara District BM1126, Brunei",
+        "address_line1": "Sultan's Palace",
+        "address_line2": "Jalan Lumapas, Bandar Seri Begawan, Brunei-Muara District BM1126, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4833021823,
+            "name:en": "Sultan's Palace",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Sultan's Palace"
+        },
+        "place_id": "519c7818a4aabb5c4059d161519a00801340f00103f9017f0f122001000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.93229009999999,
+          4.875002299515885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Panaga",
+        "postcode": "KB4533",
+        "district": "Belait District",
+        "street": "Jalan Utara",
+        "iso3166_2": "BN-BE",
+        "lon": 114.2546857,
+        "lat": 4.5961346,
+        "formatted": "Jalan Utara, Panaga, Belait District KB4533, Brunei",
+        "address_line1": "Jalan Utara",
+        "address_line2": "Panaga, Belait District KB4533, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5113555303,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:street": "Jalan Utara"
+          }
+        },
+        "place_id": "51921040c54c905c40596d1bc41b71621240f00103f90167a9ca3001000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25468570000001,
+          4.596134599537305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "postcode": "BN1711",
+        "district": "Brunei-Muara District",
+        "suburb": "Sungai Kedayan A",
+        "street": "Sultan Omar 'Ali Saifuddien Pedestrian Bridge",
+        "iso3166_2": "BN-BM",
+        "lon": 114.936651,
+        "lat": 4.8880638,
+        "formatted": "Sultan Omar 'Ali Saifuddien Pedestrian Bridge, Bandar Seri Begawan, Brunei-Muara District BN1711, Brunei",
+        "address_line1": "Sultan Omar 'Ali Saifuddien Pedestrian Bridge",
+        "address_line2": "Bandar Seri Begawan, Brunei-Muara District BN1711, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5219979403,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5100310917f2bb5c405951b6be98608d1340f00103f9018b90223701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.93665099999998,
+          4.888063799514911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Proboscis Monkey Sighting",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Bunut Perpindahan",
+        "postcode": "BF1320",
+        "district": "Brunei-Muara District",
+        "suburb": "Bunut Perpindahan",
+        "street": "Simpang 11",
+        "iso3166_2": "BN-BM",
+        "lon": 114.8902708,
+        "lat": 4.8480085,
+        "formatted": "Proboscis Monkey Sighting, Simpang 11, Bandar Seri Begawan, Brunei-Muara District BF1320, Brunei",
+        "address_line1": "Proboscis Monkey Sighting",
+        "address_line2": "Simpang 11, Bandar Seri Begawan, Brunei-Muara District BF1320, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5320171721,
+            "name:en": "Proboscis Monkey Sighting",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Proboscis Monkey Sighting"
+        },
+        "place_id": "515da56032fab85c405938a310575c641340f00103f901c9601b3d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.89027080000001,
+          4.848008499517896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viewpoint",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "postcode": "BD2717",
+        "district": "Brunei-Muara District",
+        "suburb": "Subok",
+        "street": "Simpang 247-80",
+        "iso3166_2": "BN-BM",
+        "lon": 114.955722,
+        "lat": 4.9045958,
+        "formatted": "Viewpoint, Simpang 247-80, Bandar Seri Begawan, Brunei-Muara District BD2717, Brunei",
+        "address_line1": "Viewpoint",
+        "address_line2": "Simpang 247-80, Bandar Seri Begawan, Brunei-Muara District BD2717, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6807253985,
+            "name:en": "Viewpoint",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Viewpoint"
+        },
+        "place_id": "5156849b8c2abd5c4059850a7c5c4e9e1340f00103f901e173be9501000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.95572200000001,
+          4.90459579951369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Town Viewpoint",
+        "country": "Brunei",
+        "country_code": "bn",
+        "city": "Bandar Seri Begawan",
+        "village": "Saba",
+        "postcode": "BS8610",
+        "district": "Brunei-Muara District",
+        "suburb": "Tasek Lama",
+        "street": "Jalan Berita",
+        "iso3166_2": "BN-BM",
+        "lon": 114.9449414,
+        "lat": 4.8963567,
+        "formatted": "Town Viewpoint, Jalan Berita, Bandar Seri Begawan, Brunei-Muara District BS8610, Brunei",
+        "address_line1": "Town Viewpoint",
+        "address_line2": "Jalan Berita, Bandar Seri Begawan, Brunei-Muara District BS8610, Brunei",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6829494411,
+            "name:en": "Town Viewpoint",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Town Viewpoint"
+        },
+        "place_id": "51bd687eeb79bc5c405999dbd787de951340f00103f9018bd0119701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.94494140000002,
+          4.896356699514308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "street": "Gunung Mulu Trail",
+        "iso3166_2": "MY-13",
+        "lon": 114.9058771,
+        "lat": 4.0406105,
+        "formatted": "Gunung Mulu Trail, Mulu, Sarawak, Malaysia",
+        "address_line1": "Gunung Mulu Trail",
+        "address_line2": "Mulu, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10739416642,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5181acf1e3f9b95c405906597ecc95291040f00103f901427e1e8002000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.90587710000001,
+          4.0406104995838685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Malaysia",
+        "country_code": "my",
+        "region": "Miri Division",
+        "state": "Sarawak",
+        "county": "Marudi",
+        "city": "Mulu",
+        "street": "Gunung Mulu Trail",
+        "iso3166_2": "MY-13",
+        "lon": 114.8923185,
+        "lat": 4.0329423,
+        "formatted": "Gunung Mulu Trail, Mulu, Sarawak, Malaysia",
+        "address_line1": "Gunung Mulu Trail",
+        "address_line2": "Mulu, Sarawak, Malaysia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10739416643,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5167c70dbf1bb95c40597f7b4da0bb211040f00103f901437e1e8002000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.89231849999997,
+          4.0329422995845325
+        ]
+      }
+    }
+  ]
+}

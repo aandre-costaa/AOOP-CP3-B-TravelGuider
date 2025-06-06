@@ -1,0 +1,2321 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bala Hissar",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "8th District",
+        "street": "Esteolal road",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.19115896783362,
+        "lat": 34.5053603,
+        "formatted": "Bala Hissar, Esteolal road, 8th District, Kabul, Afghanistan",
+        "address_line1": "Bala Hissar",
+        "address_line2": "Esteolal road, 8th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.fort"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bala Hissar",
+            "osm_id": -10883230,
+            "name:ps": "ارگ بالاى حصار",
+            "name:ru": "Бала-Хиссар",
+            "tourism": "attraction",
+            "historic": "fort",
+            "osm_type": "r",
+            "wikidata": "Q804581",
+            "wikipedia": "fa:قلعه بالاحصار (کابل)"
+          }
+        },
+        "name_international": {
+          "ps": "ارگ بالاى حصار",
+          "ru": "Бала-Хиссар"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q804581",
+          "wikipedia": "fa:قلعه بالاحصار (کابل)"
+        },
+        "historic": {
+          "type": "fort"
+        },
+        "place_id": "51aecbd2f23b4c514059aac973a5af404140f00101f9019e10a6000000000092030b42616c6120486973736172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.19115896783362,
+          34.505360299622524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maqbara-i-Timur Shah",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "2nd District",
+        "street": "Andarabi Road",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.17539284743891,
+        "lat": 34.516641699999994,
+        "formatted": "Timur Shah Mausoleum, Andarabi Road, 2nd District, Kabul, Afghanistan",
+        "address_line1": "Timur Shah Mausoleum",
+        "address_line2": "Andarabi Road, 2nd District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tomb"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maqbara-i-Timur Shah",
+            "osm_id": 199043588,
+            "name:en": "Timur Shah Mausoleum",
+            "name:ru": "Мавзолей Тимур Шаха",
+            "tourism": "attraction",
+            "historic": "tomb",
+            "osm_type": "w",
+            "wikipedia": "en:Tomb of Timur Shah Durrani"
+          }
+        },
+        "name_international": {
+          "en": "Timur Shah Mausoleum",
+          "ru": "Мавзолей Тимур Шаха"
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Tomb of Timur Shah Durrani"
+        },
+        "historic": {
+          "type": "tomb"
+        },
+        "place_id": "51f5eceba2394b514059c4d0b15021424140f00102f901042add0b000000009203144d6171626172612d692d54696d75722053686168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17539284743891,
+          34.51664169962308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "زیارتگاه سخی",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1011",
+        "suburb": "3rd District",
+        "street": "TV Hill Road",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.146573,
+        "lat": 34.5199615,
+        "formatted": "Sakhi Shrine, TV Hill Road, 3rd District, Kabul, Afghanistan",
+        "address_line1": "Sakhi Shrine",
+        "address_line2": "TV Hill Road, 3rd District, Kabul, Afghanistan",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.islam",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "زیارتگاه سخی",
+            "osm_id": 4217011908,
+            "amenity": "place_of_worship",
+            "name:en": "Sakhi Shrine",
+            "name:ru": "Мечеть Сахи",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "religion": "muslim",
+            "wikidata": "Q50844233",
+            "wikipedia": "fa:زیارتگاه سخی",
+            "denomination": "shia"
+          }
+        },
+        "name_international": {
+          "en": "Sakhi Shrine",
+          "ru": "Мечеть Сахи"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q50844233",
+          "wikipedia": "fa:زیارتگاه سخی"
+        },
+        "place_of_worship": {
+          "religion": "muslim",
+          "denomination": "shia"
+        },
+        "place_id": "51815eb8736149514059cf0732198e424140f00103f901c47e5afb00000000920317d8b2db8cd8a7d8b1d8aadaafd8a7d98720d8b3d8aedb8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.146573,
+          34.51996149962326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabul Old City Wall",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "1st District",
+        "street": "چهارراهی باغ قاضی",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1696970235934,
+        "lat": 34.5014894,
+        "formatted": "Kabul Old City Wall, چهارراهی باغ قاضی, 1st District, Kabul, Afghanistan",
+        "address_line1": "Kabul Old City Wall",
+        "address_line2": "چهارراهی باغ قاضی, 1st District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kabul Old City Wall",
+            "osm_id": 199518021,
+            "barrier": "city_wall",
+            "name:ru": "Стена старого города",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "ru": "Стена старого города"
+        },
+        "place_id": "51fba3e750dc4a5140599255fdcd30404140f00102f9014567e40b000000009203134b6162756c204f6c6420436974792057616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1696970235934,
+          34.501489399622315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulola Pushta Minaret",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "district": "Shar-i-Naw",
+        "suburb": "4th District",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.16227709596774,
+        "lat": 34.5399555,
+        "formatted": "Kulola Pushta Minaret, 4th District, Kabul, Kabul District, Afghanistan",
+        "address_line1": "Kulola Pushta Minaret",
+        "address_line2": "4th District, Kabul, Kabul District, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kulola Pushta Minaret",
+            "osm_id": 199999779,
+            "natural": "hill",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51900479bf624a5140593e1706431d454140f00102f90123c1eb0b000000009203154b756c6f6c6120507573687461204d696e61726574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16227709596774,
+          34.53995549962427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tapa-i-Kualola Pushta",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1011",
+        "district": "Shar-i-Naw",
+        "suburb": "4th District",
+        "street": "Taimani Street 3",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1624296,
+        "lat": 34.5398672,
+        "formatted": "Tapa-i-Kualola Pushta, Taimani Street 3, 4th District, Kabul, Afghanistan",
+        "address_line1": "Tapa-i-Kualola Pushta",
+        "address_line2": "Taimani Street 3, 4th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tapa-i-Kualola Pushta",
+            "osm_id": 258348894,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bff91e3f654a514059e1484f5e1a454140f00103f9015e17660f00000000920315546170612d692d4b75616c6f6c6120507573687461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16242959999998,
+          34.539867199624275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دریای لوگر",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Maidan Wardak Province",
+        "county": "Chaki Wardak",
+        "street": "Rehabilitaion 9.38 Km Road From Chak Main Road  to Mayar Khel",
+        "iso3166_2": "AF-WAR",
+        "lon": 68.6501628,
+        "lat": 34.1340257,
+        "formatted": "Logar River, Rehabilitaion 9.38 Km Road From Chak Main Road to Mayar Khel, Maidan Wardak Province, Afghanistan",
+        "address_line1": "Logar River",
+        "address_line2": "Rehabilitaion 9.38 Km Road From Chak Main Road to Mayar Khel, Maidan Wardak Province, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دریای لوگر",
+            "osm_id": 444013633,
+            "name:en": "Logar River",
+            "name:ps": "دریای لوگر",
+            "name:ru": "Logar",
+            "tourism": "artwork",
+            "alt_name": "دریای لهوگرد;Darya Logar;Darya-ye Lowgar;Longar;Darya-i-Logar;Darya-ye Logar;Logar Rud;Darya-ye Lhogard",
+            "int_name": "Logar",
+            "osm_type": "w",
+            "artwork_type": "graffiti"
+          }
+        },
+        "name_other": {
+          "alt_name": "دریای لهوگرد;Darya Logar;Darya-ye Lowgar;Longar;Darya-i-Logar;Darya-ye Logar;Logar Rud;Darya-ye Lhogard"
+        },
+        "name_international": {
+          "en": "Logar River",
+          "ps": "دریای لوگر",
+          "ru": "Logar"
+        },
+        "artwork": {
+          "artwork_type": "graffiti"
+        },
+        "place_id": "51dac46e449c29514059fd500ec127114140f00102f901411c771a00000000920313d8afd8b1db8cd8a7db8c20d984d988daafd8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.6501628,
+          34.13402569960633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "پائین قلعه وزیر",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Logar Province",
+        "county": "Puli Alam",
+        "city": "logar refugee comp",
+        "postcode": "1451",
+        "street": "دمهاجرینودښارګوټی سرک نمبر09",
+        "iso3166_2": "AF-LOG",
+        "lon": 69.07412160120151,
+        "lat": 34.01210605,
+        "formatted": "Pa'inqal`a-i-Wazir, دمهاجرینودښارګوټی سرک نمبر09, logar refugee comp, Afghanistan",
+        "address_line1": "Pa'inqal`a-i-Wazir",
+        "address_line2": "دمهاجرینودښارګوټی سرک نمبر09, logar refugee comp, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "پائین قلعه وزیر",
+            "osm_id": 444128955,
+            "name:en": "Pa'inqal`a-i-Wazir",
+            "name:ps": "پائین قلعه وزیر",
+            "name:ru": "Razvaliny Painkalayi-Vazir",
+            "tourism": "attraction",
+            "alt_name": "Pa'in Qal`ah-ye Wazir;Pa'in Qal`eh-ye Vazir",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Pa'in Qal`ah-ye Wazir;Pa'in Qal`eh-ye Vazir"
+        },
+        "name_international": {
+          "en": "Pa'inqal`a-i-Wazir",
+          "ps": "پائین قلعه وزیر",
+          "ru": "Razvaliny Painkalayi-Vazir"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "519c458768be44514059f98fe7b08c014140f00102f901bbde781a0000000092031cd9bed8a7d8a6db8cd98620d982d984d8b9d98720d988d8b2db8cd8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.07412160120151,
+          34.0121060496021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شکار قلعه",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Logar Province",
+        "county": "Mohammad Agha",
+        "city": "دمحمدآغی ولسوالی",
+        "street": "سرک شکارقلعه",
+        "iso3166_2": "AF-LOG",
+        "lon": 69.05110509216755,
+        "lat": 34.17412005,
+        "formatted": "Shikar Qal'ah;Sekarqal'a;Shekarqal'eh, سرک شکارقلعه, دمحمدآغی ولسوالی, Afghanistan",
+        "address_line1": "Shikar Qal'ah;Sekarqal'a;Shekarqal'eh",
+        "address_line2": "سرک شکارقلعه, دمحمدآغی ولسوالی, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شکار قلعه",
+            "osm_id": 444128956,
+            "name:en": "Shikar Qal'ah;Sekarqal'a;Shekarqal'eh",
+            "name:ps": "شکار قلعه",
+            "name:ru": "Shikarkala",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Shikar Qal'ah;Sekarqal'a;Shekarqal'eh",
+          "ps": "شکار قلعه",
+          "ru": "Shikarkala"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5132e14a4e45435140596052d79049164140f00102f901bcde781a00000000920311d8b4daa9d8a7d8b120d982d984d8b9d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.05110509216755,
+          34.174120049607836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الف خان خرابه",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Logar Province",
+        "county": "Baraki Barak",
+        "street": "R.M Chahar Rahi Zaqom Khil to Topak Village",
+        "iso3166_2": "AF-LOG",
+        "lon": 68.84066922533628,
+        "lat": 33.94428955,
+        "formatted": "Alef Khan Kharabah, R.M Chahar Rahi Zaqom Khil to Topak Village, Logar Province, Afghanistan",
+        "address_line1": "Alef Khan Kharabah",
+        "address_line2": "R.M Chahar Rahi Zaqom Khil to Topak Village, Logar Province, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الف خان خرابه",
+            "osm_id": 444129317,
+            "name:en": "Alef Khan Kharabah",
+            "name:ps": "الف خان خرابه",
+            "name:ru": "Razvaliny Alafkhan-Kharaba",
+            "tourism": "attraction",
+            "alt_name": "Alafkhan Kharaba;`Alafkhan Kharabeh;Alif Khan Kharabah",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Alafkhan Kharaba;`Alafkhan Kharabeh;Alif Khan Kharabah"
+        },
+        "name_international": {
+          "en": "Alef Khan Kharabah",
+          "ps": "الف خان خرابه",
+          "ru": "Razvaliny Alafkhan-Kharaba"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51ac644b86cd3551405944bede7adef84040f00102f90125e0781a00000000920318d8a7d984d98120d8aed8a7d98620d8aed8b1d8a7d8a8d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.84066922533628,
+          33.94428954959997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "چوڼۍ",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Logar Province",
+        "county": "Charkh",
+        "city": "Qal`eh Now",
+        "street": "از بنی سارا الی رستم خیل",
+        "iso3166_2": "AF-LOG",
+        "lon": 68.9500448,
+        "lat": 33.86934565,
+        "formatted": "Chawnay, از بنی سارا الی رستم خیل, Qal`eh Now, Afghanistan",
+        "address_line1": "Chawnay",
+        "address_line2": "از بنی سارا الی رستم خیل, Qal`eh Now, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "چوڼۍ",
+            "osm_id": 444129755,
+            "gns:dsg": "RUIN: ruin(s)",
+            "name:en": "Chawnay",
+            "name:ps": "چوڼۍ",
+            "name:ru": "Razvaliny Chaunay",
+            "tourism": "attraction",
+            "alt_name": "Chowney;Cawnay",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Chowney;Cawnay"
+        },
+        "name_international": {
+          "en": "Chawnay",
+          "ps": "چوڼۍ",
+          "ru": "Razvaliny Chaunay"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51086fb488cd3c514059a4f8deb746ef4040f00102f901dbe1781a00000000920308da86d988dabcdb8d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.9500448,
+          33.86934564959782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "خرابه نور خانی",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Logar Province",
+        "county": "Baraki Barak",
+        "street": "R.M Chahar Rahi Zaqom Khil to Topak Village",
+        "iso3166_2": "AF-LOG",
+        "lon": 68.77230235513433,
+        "lat": 33.9178365,
+        "formatted": "Kharaba-i-Nurkhanay, R.M Chahar Rahi Zaqom Khil to Topak Village, Logar Province, Afghanistan",
+        "address_line1": "Kharaba-i-Nurkhanay",
+        "address_line2": "R.M Chahar Rahi Zaqom Khil to Topak Village, Logar Province, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "خرابه نور خانی",
+            "osm_id": 444129757,
+            "gns:dsg": "RUIN: ruin(s)",
+            "name:en": "Kharaba-i-Nurkhanay",
+            "name:ps": "خرابه نور خانی",
+            "name:ru": "Razvaliny Kharayi-Nurkhanay",
+            "tourism": "attraction",
+            "alt_name": "Kharabah-ye Nur Khanay;Kharabeh-ye Nur Khanay",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Kharabah-ye Nur Khanay;Kharabeh-ye Nur Khanay"
+        },
+        "name_international": {
+          "en": "Kharaba-i-Nurkhanay",
+          "ps": "خرابه نور خانی",
+          "ru": "Razvaliny Kharayi-Nurkhanay"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "513e7bdb666d31514059446d9aaa7bf54040f00102f901dde1781a0000000092031ad8aed8b1d8a7d8a8d98720d986d988d8b120d8aed8a7d986db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.77230235513431,
+          33.91783649959919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قلعۀ جان محمد خان",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kapisa Province",
+        "county": "Tagab",
+        "city": "Tagab",
+        "suburb": "Tagab",
+        "street": "Gharghal to Masjid-e-Ahmadi",
+        "iso3166_2": "AF-KAP",
+        "lon": 69.6724667,
+        "lat": 34.7915326,
+        "formatted": "Qal`ah-ye Jan Muhammad-Khan, Gharghal to Masjid-e-Ahmadi, Tagab, Afghanistan",
+        "address_line1": "Qal`ah-ye Jan Muhammad-Khan",
+        "address_line2": "Gharghal to Masjid-e-Ahmadi, Tagab, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قلعۀ جان محمد خان",
+            "osm_id": 444438673,
+            "name:en": "Qal`ah-ye Jan Muhammad-Khan",
+            "name:ps": "قلعۀ جان محمد خان",
+            "name:ru": "Kala-Dzhanmukhammedkhan",
+            "tourism": "attraction",
+            "alt_name": "Qal`eh-ye Janmohammad-Khan;Qal`a Janmohammed-khan;Qal`ah-ye Jan Muhammad Khan",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "Qal`eh-ye Janmohammad-Khan;Qal`a Janmohammed-khan;Qal`ah-ye Jan Muhammad Khan"
+        },
+        "name_international": {
+          "en": "Qal`ah-ye Jan Muhammad-Khan",
+          "ps": "قلعۀ جان محمد خان",
+          "ru": "Kala-Dzhanmukhammedkhan"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "518a09c5b1096b5140590f95b2f050654140f00102f90191987d1a0000000092031fd982d984d8b9db8020d8acd8a7d98620d985d8add985d8af20d8aed8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6724667,
+          34.79153259963834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قلعه رسول",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Deh Sabz",
+        "city": "Deh Yahya",
+        "street": "11.45 km Gravel Road From Dorahi-e-Khwaja Chasht to Haji Sahib",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.24036432024548,
+        "lat": 34.60680835,
+        "formatted": "Qal`ah-ye Rasul, 11.45 km Gravel Road From Dorahi-e-Khwaja Chasht to Haji Sahib, Deh Yahya, Afghanistan",
+        "address_line1": "Qal`ah-ye Rasul",
+        "address_line2": "11.45 km Gravel Road From Dorahi-e-Khwaja Chasht to Haji Sahib, Deh Yahya, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قلعه رسول",
+            "osm_id": 444448322,
+            "gns:dsg": "FT: fort",
+            "name:en": "Qal`ah-ye Rasul",
+            "name:ps": "قلعه رسول",
+            "name:ru": "Zarinkala",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Qal`ah-ye Rasul",
+          "ps": "قلعه رسول",
+          "ru": "Zarinkala"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5118a50721624f514059aa4b60e5ab4d4140f00102f90142be7d1a00000000920311d982d984d8b9d98720d8b1d8b3d988d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.24036432024548,
+          34.6068083496278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قلعه زرین",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Deh Sabz",
+        "city": "Bakhtiaran",
+        "suburb": "18th District",
+        "street": "24.9km Bagram Road from Had Bakhshi Kabul to Had Bakhshi Qarabagh",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.26392905182796,
+        "lat": 34.6111162,
+        "formatted": "Zarrin Kala, 24.9km Bagram Road from Had Bakhshi Kabul to Had Bakhshi Qarabagh, 18th District, Bakhtiaran, Afghanistan",
+        "address_line1": "Zarrin Kala",
+        "address_line2": "24.9km Bagram Road from Had Bakhshi Kabul to Had Bakhshi Qarabagh, 18th District, Bakhtiaran, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قلعه زرین",
+            "osm_id": 444448323,
+            "name:en": "Zarrin Kala",
+            "name:ps": "قلعه زرین",
+            "name:ru": "Zarinkala",
+            "tourism": "attraction",
+            "alt_name": "زرين كلا;Zarin Kala;Qal`ah-ye Zarin",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "name_other": {
+          "alt_name": "زرين كلا;Zarin Kala;Qal`ah-ye Zarin"
+        },
+        "name_international": {
+          "en": "Zarrin Kala",
+          "ps": "قلعه زرین",
+          "ru": "Zarinkala"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "512f84ad36e450514059a6ba3d0e394e4140f00102f90143be7d1a00000000920311d982d984d8b9d98720d8b2d8b1db8cd986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.26392905182796,
+          34.61111619962803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قلعه بلند",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1011",
+        "district": "Shar-i-Naw",
+        "suburb": "4th District",
+        "street": "Main Kulola Pushta Road",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.15716725348878,
+        "lat": 34.534921049999994,
+        "formatted": "Qal`ah-ye Biland, Main Kulola Pushta Road, 4th District, Kabul, Afghanistan",
+        "address_line1": "Qal`ah-ye Biland",
+        "address_line2": "Main Kulola Pushta Road, 4th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قلعه بلند",
+            "ruins": "yes",
+            "osm_id": 1337315308,
+            "barrier": "city_wall",
+            "name:en": "Qal`ah-ye Biland",
+            "name:ps": "قلعه بلند",
+            "name:ru": "Замок Бланд",
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Qal`ah-ye Biland",
+          "ps": "قلعه بلند",
+          "ru": "Замок Бланд"
+        },
+        "historic": {
+          "type": "castle",
+          "ruins": true
+        },
+        "place_id": "51216f3d070f4a514059e009ff4a78444140f00102f901eccfb54f00000000920311d982d984d8b9d98720d8a8d984d986d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.15716725348877,
+          34.53492104962402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "چهارراهی صدارت",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "2nd District",
+        "street": "گوهرشاد بیگم",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1702417,
+        "lat": 34.5258429,
+        "formatted": "Char Rahi Sederat, گوهرشاد بیگم, 2nd District, Kabul, Afghanistan",
+        "address_line1": "Char Rahi Sederat",
+        "address_line2": "گوهرشاد بیگم, 2nd District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "چهارراهی صدارت",
+            "osm_id": 1732057252,
+            "name:en": "Char Rahi Sederat",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Char Rahi Sederat"
+        },
+        "place_id": "51977a713de54a514059c65bf4d14e434140f00103f901a4183d670000000092031bda86d987d8a7d8b1d8b1d8a7d987db8c20d8b5d8afd8a7d8b1d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1702417,
+          34.525842899623555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graffiti , Rasol Amiri is Betrayer",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1002",
+        "suburb": "8th District",
+        "street": "سرک کارته نو",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.2031705,
+        "lat": 34.5113285,
+        "formatted": "Graffiti , Rasol Amiri is Betrayer, سرک کارته نو, 8th District, Kabul, Afghanistan",
+        "address_line1": "Graffiti , Rasol Amiri is Betrayer",
+        "address_line2": "سرک کارته نو, 8th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Graffiti , Rasol Amiri is Betrayer",
+            "osm_id": 2532320964,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "painting"
+          }
+        },
+        "artwork": {
+          "artwork_type": "painting"
+        },
+        "place_id": "51c440d7be004d51405945b2573673414140f00103f901c426f096000000009203224772616666697469202c205261736f6c20416d697269206973204265747261796572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2031705,
+          34.51132849962281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صلح خوشبختی است Peace is Hapiness",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "qali M.hasan khan Reka",
+        "postcode": "1007",
+        "suburb": "9th District",
+        "street": "1st May Road",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.2386032,
+        "lat": 34.5448421,
+        "formatted": "صلح خوشبختی است Peace is Hapiness, 1st May Road, 9th District, qali M.hasan khan Reka, Afghanistan",
+        "address_line1": "صلح خوشبختی است Peace is Hapiness",
+        "address_line2": "1st May Road, 9th District, qali M.hasan khan Reka, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صلح خوشبختی است Peace is Hapiness",
+            "osm_id": 2571094820,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "graffiti"
+          }
+        },
+        "artwork": {
+          "artwork_type": "graffiti"
+        },
+        "place_id": "51232e5b46454f51405988afcb62bd454140f00103f90124cb3f990000000092032ed8b5d984d8ad20d8aed988d8b4d8a8d8aed8aadb8c20d8a7d8b3d8aa20506561636520697320486170696e657373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.23860319999999,
+          34.54484209962453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "وزارت دفاع ملی",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "2nd District",
+        "street": "Sulh Road",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1858585,
+        "lat": 34.524075,
+        "formatted": "MOD OF AFGHANISTAN, Sulh Road, 2nd District, Kabul, Afghanistan",
+        "address_line1": "MOD OF AFGHANISTAN",
+        "address_line2": "Sulh Road, 2nd District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "وزارت دفاع ملی",
+            "osm_id": 5432585524,
+            "name:en": "MOD OF AFGHANISTAN",
+            "name:fa": "وزارت دفاع ملی",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "MOD OF AFGHANISTAN",
+          "fa": "وزارت دفاع ملی"
+        },
+        "place_id": "51bfcb0c1be54b5140595a04bce314434140f00103f90134adce430100000092031ad988d8b2d8a7d8b1d8aa20d8afd981d8a7d8b920d985d984db8c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.18585849999998,
+          34.524074999623465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haji Mirzaman, box camera photographer",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1002",
+        "suburb": "8th District",
+        "street": "سرک کارته نو",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.2333077,
+        "lat": 34.5099066,
+        "formatted": "Haji Mirzaman, box camera photographer, سرک کارته نو, 8th District, Kabul, Afghanistan",
+        "address_line1": "Haji Mirzaman, box camera photographer",
+        "address_line2": "سرک کارته نو, 8th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Haji Mirzaman, box camera photographer",
+            "osm_id": 11137700812,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eb596b83ee4e51405977b2949e44414140f00103f901ccd3db970200000092032648616a69204d69727a616d616e2c20626f782063616d6572612070686f746f67726170686572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2333077,
+          34.509906599622745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1002",
+        "suburb": "8th District",
+        "street": "سرک کارته نو",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.20567522923854,
+        "lat": 34.514658350000005,
+        "formatted": "سرک کارته نو, 8th District, Kabul, Afghanistan",
+        "address_line1": "سرک کارته نو",
+        "address_line2": "8th District, Kabul, Afghanistan",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.islam",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": -10889250,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "osm_type": "r",
+            "religion": "muslim"
+          }
+        },
+        "place_of_worship": {
+          "religion": "muslim"
+        },
+        "place_id": "5152cb6fc8294d5140593e1f2653e0414140f00101f9012228a60000000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20567522923855,
+          34.51465834962299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tank graveyard",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Parwan Province",
+        "county": "Jabal Saraj",
+        "city": "Jabal us Saraj",
+        "street": "Kabul Mazar Highway",
+        "suburb": "auto_wrecker",
+        "iso3166_2": "AF-PAR",
+        "lon": 69.22375343140277,
+        "lat": 35.11078125,
+        "formatted": "Tank graveyard, Kabul Mazar Highway, auto_wrecker, Jabal us Saraj, Afghanistan",
+        "address_line1": "Tank graveyard",
+        "address_line2": "Kabul Mazar Highway, auto_wrecker, Jabal us Saraj, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tank"
+        ],
+        "details": [
+          "details",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1337303242,
+            "landuse": "industrial",
+            "name:en": "Tank graveyard",
+            "name:ru": "Кладбище танков",
+            "tourism": "attraction",
+            "historic": "tank",
+            "osm_type": "w",
+            "industrial": "auto_wrecker"
+          }
+        },
+        "name_international": {
+          "en": "Tank graveyard",
+          "ru": "Кладбище танков"
+        },
+        "historic": {
+          "type": "tank"
+        },
+        "production": {
+          "industry": "auto_wrecker"
+        },
+        "place_id": "51888fe9f9514e51405901267a142e8e4140f00102f901caa0b54f00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.22375343140277,
+          35.11078124965935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "موسهي ولسوالي",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Mussahi",
+        "city": "Qaleh-ye Na'im",
+        "suburb": "20th District",
+        "street": "سر ک والسوالی موسعی الی بازار چهارآسیاب",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1794498,
+        "lat": 34.3640723,
+        "formatted": "موسهي ولسوالي, سر ک والسوالی موسعی الی بازار چهارآسیاب, 20th District, Qaleh-ye Na'im, Afghanistan",
+        "address_line1": "موسهي ولسوالي",
+        "address_line2": "سر ک والسوالی موسعی الی بازار چهارآسیاب, 20th District, Qaleh-ye Na'im, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4572890491,
+            "name:en": "موسهي ولسوالي",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "موسهي ولسوالي"
+        },
+        "place_id": "518491031b7c4b5140595a1dceeb992e4140f00103f9017bc5901001000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17944979999999,
+          34.364072299615785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سليم كاروان",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1012",
+        "suburb": "19th District",
+        "street": "1st May Road",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.3277655,
+        "lat": 34.5447468,
+        "formatted": "سليم كاروان, 1st May Road, 19th District, Kabul, Afghanistan",
+        "address_line1": "سليم كاروان",
+        "address_line2": "1st May Road, 19th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4605211190,
+            "name:en": "سليم كاروان",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "سليم كاروان"
+        },
+        "place_id": "5174d0251cfa54514059767e5c43ba454140f00103f90136f27d1201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3277655,
+          34.54474679962452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Qarabagh",
+        "street": "سرک فلعه شاهی از قلعه عبدالرحمن بابا الی خزانه دار",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.2057609,
+        "lat": 34.8910228,
+        "formatted": "سرک فلعه شاهی از قلعه عبدالرحمن بابا الی خزانه دار, Kabul Province, Afghanistan",
+        "address_line1": "سرک فلعه شاهی از قلعه عبدالرحمن بابا الی خزانه دار",
+        "address_line2": "Kabul Province, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4984922821,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e912c42f2b4d514059553bfc080d724140f00103f901c5e21f2901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20576089999999,
+          34.89102279964451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "16th District",
+        "street": "جاده ماین پاکان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1962128,
+        "lat": 34.5188347,
+        "formatted": "جاده ماین پاکان, 16th District, Kabul, Afghanistan",
+        "address_line1": "جاده ماین پاکان",
+        "address_line2": "16th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5402636757,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "519fc321c08e4c514059b074e92c69424140f00103f901d5b1054201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1962128,
+          34.5188346996232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "16th District",
+        "street": "جاده ماین پاکان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.196828,
+        "lat": 34.5189958,
+        "formatted": "جاده ماین پاکان, 16th District, Kabul, Afghanistan",
+        "address_line1": "جاده ماین پاکان",
+        "address_line2": "16th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5402636758,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51f9bb77d4984c5140594f1251746e424140f00103f901d6b1054201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.196828,
+          34.518995799623205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "16th District",
+        "street": "جاده ماین پاکان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1970856,
+        "lat": 34.519046,
+        "formatted": "جاده ماین پاکان, 16th District, Kabul, Afghanistan",
+        "address_line1": "جاده ماین پاکان",
+        "address_line2": "16th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5402636759,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51cda0eb0c9d4c5140592cc06c1970424140f00103f901d7b1054201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1970856,
+          34.519045999623216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "16th District",
+        "street": "جاده ماین پاکان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1970801,
+        "lat": 34.5188379,
+        "formatted": "جاده ماین پاکان, 16th District, Kabul, Afghanistan",
+        "address_line1": "جاده ماین پاکان",
+        "address_line2": "16th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5402636760,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51500cdaf59c4c5140594a67c14769424140f00103f901d8b1054201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1970801,
+          34.51883789962319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "16th District",
+        "street": "جاده ماین پاکان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1965797,
+        "lat": 34.5186781,
+        "formatted": "جاده ماین پاکان, 16th District, Kabul, Afghanistan",
+        "address_line1": "جاده ماین پاکان",
+        "address_line2": "16th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5402636761,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51aea305c3944c5140593c84410b64424140f00103f901d9b1054201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1965797,
+          34.5186780996232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "خانه عمه جان",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1004",
+        "suburb": "6th District",
+        "street": "کنارگذر بلوار دارالامان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1245117,
+        "lat": 34.47837,
+        "formatted": "خانه عمه جان, کنارگذر بلوار دارالامان, 6th District, Kabul, Afghanistan",
+        "address_line1": "خانه عمه جان",
+        "address_line2": "کنارگذر بلوار دارالامان, 6th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5821832954,
+            "name:en": "خانه عمه جان",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "خانه عمه جان"
+        },
+        "place_id": "510adeebfff74751405958e1673a3b3d4140f00103f901fa1e025b01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1245117,
+          34.47836999962118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mausoleum Sardar Sultan Mohammed Khan Telai",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1002",
+        "suburb": "8th District",
+        "street": "سرک کارته نو",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.2060561,
+        "lat": 34.5129265,
+        "formatted": "Mausoleum Sardar Sultan Mohammed Khan Telai, سرک کارته نو, 8th District, Kabul, Afghanistan",
+        "address_line1": "Mausoleum Sardar Sultan Mohammed Khan Telai",
+        "address_line2": "سرک کارته نو, 8th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5930182285,
+            "name:en": "Mausoleum Sardar Sultan Mohammed Khan Telai",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mausoleum Sardar Sultan Mohammed Khan Telai"
+        },
+        "place_id": "510ba9ec05304d514059e7905693a7414140f00103f9018d66776101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2060561,
+          34.512926499622886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Shakardara",
+        "postcode": "2500",
+        "suburb": "17th District",
+        "street": "Kabul Mazar Highway",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1015181,
+        "lat": 34.5729159,
+        "formatted": "Kabul Mazar Highway, 17th District, Kabul Province, Afghanistan",
+        "address_line1": "Kabul Mazar Highway",
+        "address_line2": "17th District, Kabul Province, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6268159685,
+            "name:ru": "Перевал Хаирхана",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ru": "Перевал Хаирхана"
+        },
+        "place_id": "51efdcc5457f465140594320e64e55494140f00103f901c5869c7501000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1015181,
+          34.57291589962599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Khaki Jabbar",
+        "street": "Kabul - Jalalabad Highway",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.5030794,
+        "lat": 34.5505205,
+        "formatted": "Kabul - Jalalabad Highway, Kabul Province, Afghanistan",
+        "address_line1": "Kabul - Jalalabad Highway",
+        "address_line2": "Kabul Province, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6269438087,
+            "name:ru": "Ущелье Танги-Гару",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ru": "Ущелье Танги-Гару"
+        },
+        "place_id": "51a592f073326051405945d5aa7477464140f00103f9018708b07501000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.5030794,
+          34.55052049962482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Tangi Saidan",
+        "postcode": "1006",
+        "suburb": "6th District",
+        "street": "13.4km Gulbagh Road from Chahar Rahi Pul Takhnic to Pul Gulbagh",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1206202,
+        "lat": 34.466341,
+        "formatted": "13.4km Gulbagh Road from Chahar Rahi Pul Takhnic to Pul Gulbagh, 6th District, Tangi Saidan, Afghanistan",
+        "address_line1": "13.4km Gulbagh Road from Chahar Rahi Pul Takhnic to Pul Gulbagh",
+        "address_line2": "6th District, Tangi Saidan, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6570468817,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "512a8fc93db847514059c313d70fb13b4140f00103f901d165a18701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.12062019999999,
+          34.46634099962059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Shakardara",
+        "postcode": "1061",
+        "suburb": "17th District",
+        "street": "سرک عمومی شمالی الی باغ اعلی حضرت",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.0593455,
+        "lat": 34.6246809,
+        "formatted": "سرک عمومی شمالی الی باغ اعلی حضرت, 17th District, Kabul Province, Afghanistan",
+        "address_line1": "سرک عمومی شمالی الی باغ اعلی حضرت",
+        "address_line2": "17th District, Kabul Province, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6591549631,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518c6a1151cc43514059b22b318bf54f4140f00103f901bf10e38801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0593455,
+          34.62468089962876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ministry of urban development and Land",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "qali M.hasan khan Reka",
+        "postcode": "1007",
+        "suburb": "9th District",
+        "street": "1st May Road",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.2720822,
+        "lat": 34.545952,
+        "formatted": "ministry of urban development and Land, 1st May Road, 9th District, qali M.hasan khan Reka, Afghanistan",
+        "address_line1": "ministry of urban development and Land",
+        "address_line2": "1st May Road, 9th District, qali M.hasan khan Reka, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7217804885,
+            "name:en": "ministry of urban development and Land",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "ministry of urban development and Land"
+        },
+        "place_id": "51b8b475cb695151405965c94fc1e1454140f00103f90155f636ae01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2720822,
+          34.545951999624585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Surobi",
+        "street": "Kabul - Jalalabad Highway",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.6615225,
+        "lat": 34.6040425,
+        "formatted": "Kabul - Jalalabad Highway, Kabul Province, Afghanistan",
+        "address_line1": "Kabul - Jalalabad Highway",
+        "address_line2": "Kabul Province, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7649502675,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515dc47762566a514059bda5be43514d4140f00103f901d325f2c701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6615225,
+          34.604042499627646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorge",
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Surobi",
+        "city": "Sarobi",
+        "street": "Kabul - Jalalabad Highway",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.8366382,
+        "lat": 34.4987491,
+        "formatted": "Gorge, Kabul - Jalalabad Highway, Sarobi, Afghanistan",
+        "address_line1": "Gorge",
+        "address_line2": "Kabul - Jalalabad Highway, Sarobi, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11174718037,
+            "name:en": "Gorge",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Gorge"
+        },
+        "place_id": "5165e5f27a8b75514059b3e4af02d73f4140f00103f90155aa109a02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.8366382,
+          34.49874909962218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "16th District",
+        "street": "جاده ماین پاکان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1969183,
+        "lat": 34.5187765,
+        "formatted": "جاده ماین پاکان, 16th District, Kabul, Afghanistan",
+        "address_line1": "جاده ماین پاکان",
+        "address_line2": "16th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12469370059,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51f79e364f9a4c51405952e8b14467424140f00103f901cb7c3be702000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.19691829999998,
+          34.5187764996232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "16th District",
+        "street": "جاده ماین پاکان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1963953,
+        "lat": 34.5186218,
+        "formatted": "جاده ماین پاکان, 16th District, Kabul, Afghanistan",
+        "address_line1": "جاده ماین پاکان",
+        "address_line2": "16th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12469370060,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51a4a597bd914c514059e82ffa3262424140f00103f901cc7c3be702000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1963953,
+          34.51862179962319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Afghanistan",
+        "country_code": "af",
+        "state": "Kabul Province",
+        "county": "Kabul District",
+        "city": "Kabul",
+        "postcode": "1001",
+        "suburb": "16th District",
+        "street": "جاده ماین پاکان",
+        "iso3166_2": "AF-KAB",
+        "lon": 69.1967574,
+        "lat": 34.5187522,
+        "formatted": "جاده ماین پاکان, 16th District, Kabul, Afghanistan",
+        "address_line1": "جاده ماین پاکان",
+        "address_line2": "16th District, Kabul, Afghanistan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12469513672,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51be8f59ac974c514059090eda7866424140f00103f901c8ad3de702000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1967574,
+          34.51875219962319
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral of the Immaculate Conception",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Mulivai",
+        "street": "Main Beach Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.76642616826194,
+        "lat": -13.832091550000001,
+        "formatted": "Cathedral of the Immaculate Conception, Main Beach Road, Mulivai, Samoa",
+        "address_line1": "Cathedral of the Immaculate Conception",
+        "address_line2": "Main Beach Road, Mulivai, Samoa",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.church"
+        ],
+        "details": [
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cathedral of the Immaculate Conception",
+            "layer": -1,
+            "osm_id": 187580849,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "church",
+            "location": "surface",
+            "osm_type": "w",
+            "religion": "christian",
+            "wikidata": "Q18416912",
+            "denomination": "catholic"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q18416912"
+        },
+        "building": {
+          "type": "church"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "catholic"
+        },
+        "place_id": "517aef2b90867865c0594b8857e707aa2bc0f00102f901b1412e0b0000000092032643617468656472616c206f662074686520496d6d6163756c61746520436f6e63657074696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.76642616826194,
+          -13.832091550288302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apia Park",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Vaiala Tai",
+        "street": "Main East Coast Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.75119974067061,
+        "lat": -13.836132800000001,
+        "formatted": "Apia Park, Main East Coast Road, Vaiala Tai, Samoa",
+        "address_line1": "Apia Park",
+        "address_line2": "Main East Coast Road, Vaiala Tai, Samoa",
+        "categories": [
+          "sport",
+          "sport.sports_centre",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Apia Park",
+            "osm_id": 666117780,
+            "leisure": "sports_centre",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q2858293"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2858293"
+        },
+        "place_id": "5135de09d4097865c05990b4309919ac2bc0f00102f9019426b4270000000092030941706961205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75119974067061,
+          -13.836132800288652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tia Seu ancient mound",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Vailoa",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.3243552005257,
+        "lat": -13.73528245,
+        "formatted": "Tia Seu ancient mound, South Coast Road, Vailoa, Samoa",
+        "address_line1": "Tia Seu ancient mound",
+        "address_line2": "South Coast Road, Vailoa, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tia Seu ancient mound",
+            "osm_id": 779567922,
+            "name:en": "Tia Seu ancient mound",
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "w",
+            "wikidata": "Q7259289"
+          }
+        },
+        "name_international": {
+          "en": "Tia Seu ancient mound"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7259289"
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "517451281e618a65c0597d8cfaf076782bc0f00102f9013243772e000000009203155469612053657520616e6369656e74206d6f756e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.3243552005257,
+          -13.735282450279778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papase'ea Sliding Rocks",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Se'ese'e",
+        "street": "Se'ese'e Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.8036502,
+        "lat": -13.8700835,
+        "formatted": "Papase'ea Sliding Rocks, Se'ese'e Road, Se'ese'e, Samoa",
+        "address_line1": "Papase'ea Sliding Rocks",
+        "address_line2": "Se'ese'e Road, Se'ese'e, Samoa",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Papase'ea Sliding Rocks",
+            "charge": "$5",
+            "osm_id": 1543882271,
+            "name:en": "Papase'ea Sliding Rocks",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall",
+            "opening_hours": "Mo-Sa 08:00-17:30; Su 11:00-18:00"
+          }
+        },
+        "opening_hours": "Mo-Sa 08:00-17:30; Su 11:00-18:00",
+        "name_international": {
+          "en": "Papase'ea Sliding Rocks"
+        },
+        "place_id": "518fcd9f80b77965c0595515a5957bbd2bc0f00103f9011fc6055c0000000092031750617061736527656120536c6964696e6720526f636b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.80365019999996,
+          -13.870083500291608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sopo'aga Waterfalls",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "street": "Le Mafa Pass Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.586496,
+        "lat": -14.0073342,
+        "formatted": "Sopo'aga Waterfalls, Le Mafa Pass Road, Ātua, Samoa",
+        "address_line1": "Sopo'aga Waterfalls",
+        "address_line2": "Le Mafa Pass Road, Ātua, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sopo'aga Waterfalls",
+            "osm_id": 1550608240,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall",
+            "wikidata": "Q32022830"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q32022830"
+        },
+        "place_id": "5184674293c47265c05919e4ec4ec1032cc0f00103f90170676c5c00000000920313536f706f2761676120576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.586496,
+          -14.00733420030342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "blowholes",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Taga",
+        "hamlet": "Nu'uuta",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.5190434,
+        "lat": -13.8016314,
+        "formatted": "blowholes, South Coast Road, Taga, Samoa",
+        "address_line1": "blowholes",
+        "address_line2": "South Coast Road, Taga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "blowholes",
+            "osm_id": 3777914729,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q4734168",
+            "wikipedia": "en:Alofaaga Blowholes"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q4734168",
+          "wikipedia": "en:Alofaaga Blowholes"
+        },
+        "place_id": "518b86e7009c9065c059cd584f6e6f9a2bc0f00103f90169672ee100000000920309626c6f77686f6c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.51904339999996,
+          -13.801631400285624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant Clam Sanctuary",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Aʻana",
+        "city": "Safaatoa",
+        "street": "Falease'ela Road",
+        "iso3166_2": "WS-AA",
+        "lon": -171.9604895,
+        "lat": -13.954434,
+        "formatted": "Giant Clam Sanctuary, Falease'ela Road, Safaatoa, Samoa",
+        "address_line1": "Giant Clam Sanctuary",
+        "address_line2": "Falease'ela Road, Safaatoa, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Giant Clam Sanctuary",
+            "osm_id": 4840567821,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Sa 09:00-18:00; Su,PH off"
+          }
+        },
+        "opening_hours": "Mo-Sa 09:00-18:00; Su,PH off",
+        "place_id": "51d8d47954bc7e65c059cbf2c292abe82bc0f00103f9010d348520010000009203144769616e7420436c616d2053616e637475617279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.9604895,
+          -13.954434000298894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaʻa-o-Fonoti",
+        "city": "Ta'elefaga",
+        "iso3166_2": "WS-VF",
+        "lon": -171.569456,
+        "lat": -13.9430602,
+        "formatted": "Ta'elefaga, Vaʻa-o-Fonoti, Samoa",
+        "address_line1": "Ta'elefaga",
+        "address_line2": "Vaʻa-o-Fonoti, Samoa",
+        "name": "Ta'elefaga",
+        "categories": [
+          "populated_place",
+          "populated_place.village",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ta'elefaga",
+            "place": "village",
+            "osm_id": 6622093293,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q7672720"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7672720"
+        },
+        "place_id": "515910cafb387265c059a9e05cc9d8e22bc0f00103f901ed1fb58a0100000092030a546127656c6566616761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.56945599999997,
+          -13.943060200297923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saanapu Mangrove Conservation Area",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "iso3166_2": "WS-TU",
+        "lon": -171.8747144061437,
+        "lat": -13.98999835,
+        "formatted": "Saanapu Mangrove Conservation Area, Tuamasaga, Samoa",
+        "address_line1": "Saanapu Mangrove Conservation Area",
+        "address_line2": "Tuamasaga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Saanapu Mangrove Conservation Area",
+            "osm_id": 140896592,
+            "natural": "wetland",
+            "tourism": "attraction",
+            "wetland": "mangrove",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5145f710a9fd7b65c05919485310e1fa2bc0f00102f90150e96508000000009203225361616e617075204d616e67726f766520436f6e736572766174696f6e2041726561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.87471440614368,
+          -13.989998350301947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "To Sua Ocean Trench",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Vavau",
+        "iso3166_2": "WS-AT",
+        "lon": -171.5623183304242,
+        "lat": -14.043874500000001,
+        "formatted": "To Sua Ocean Trench, Vavau, Ātua, Samoa",
+        "address_line1": "To Sua Ocean Trench",
+        "address_line2": "Vavau, Ātua, Samoa",
+        "categories": [
+          "fee",
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "To Sua Ocean Trench",
+            "salt": "yes",
+            "sport": "swimming",
+            "charge": "$20",
+            "osm_id": 317700281,
+            "name:en": "To Sua Ocean Trench",
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "To Sua Ocean Trench"
+        },
+        "place_id": "51a0e30283fe7165c059c1e3efb776162cc0f00102f901b9b8ef1200000000920313546f20537561204f6365616e205472656e6368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5623183304242,
+          -14.043874500306517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salae'aula Lava Field",
+        "ref": "1905-1911 lava field",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Mauga",
+        "iso3166_2": "WS-GE",
+        "lon": -172.3068151316462,
+        "lat": -13.471517500000001,
+        "formatted": "Salae'aula Lava Field, Mauga, Gagaʻemauga, Samoa",
+        "address_line1": "Salae'aula Lava Field",
+        "address_line2": "Mauga, Gagaʻemauga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": "1905-1911 lava field",
+            "name": "Salae'aula Lava Field",
+            "osm_id": 326961264,
+            "natural": "bare_rock",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "geological": "volcanic_lava_field"
+          }
+        },
+        "place_id": "51d48af76dd18965c059902ee6bd6af12ac0f00102f90170087d130000000092031553616c61652761756c61204c617661204669656c64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.3068151316462,
+          -13.471517500255942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Town Clock",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Matafele",
+        "street": "Clocktower Roundabout",
+        "iso3166_2": "WS-TU",
+        "lon": -171.7685151,
+        "lat": -13.8303761,
+        "formatted": "Town Clock, Clocktower Roundabout, Matafele, Samoa",
+        "address_line1": "Town Clock",
+        "address_line2": "Clocktower Roundabout, Matafele, Samoa",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Town Clock",
+            "osm_id": 687791937,
+            "tourism": "attraction",
+            "man_made": "tower",
+            "osm_type": "n",
+            "tower:type": "clock",
+            "tower:construction": "freestanding"
+          }
+        },
+        "place_id": "516e9ffaac977865c059373c640e27a92bc0f00103f90141dffe280000000092030a546f776e20436c6f636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7685151,
+          -13.830376100288147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papapapaitai-falls",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Siumu Uta",
+        "street": "Falealili Cross Island Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.7757034,
+        "lat": -13.9424807,
+        "formatted": "Papapapaitai-falls, Falealili Cross Island Road, Siumu Uta, Samoa",
+        "address_line1": "Papapapaitai-falls",
+        "address_line2": "Falealili Cross Island Road, Siumu Uta, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Papapapaitai-falls",
+            "osm_id": 689554231,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51acccef8fd27865c059f4c791d48ce22bc0f00103f90137c31929000000009203125061706170617061697461692d66616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7757034,
+          -13.942480700297871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piula Cave Pool",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Saoluafata",
+        "street": "Main East Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.5971257,
+        "lat": -13.8732504,
+        "formatted": "Piula Cave Pool, Main East Coast Road, Saoluafata, Samoa",
+        "address_line1": "Piula Cave Pool",
+        "address_line2": "Main East Coast Road, Saoluafata, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Piula Cave Pool",
+            "osm_id": 689563687,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513c235ba71b7365c059f7f12cad1abf2bc0f00103f90127e819290000000092030f5069756c61204361766520506f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5971257,
+          -13.873250400291893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaimalili Pool",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Saoluafata",
+        "street": "Main East Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.6267259,
+        "lat": -13.8820466,
+        "formatted": "Vaimalili Pool, Main East Coast Road, Saoluafata, Samoa",
+        "address_line1": "Vaimalili Pool",
+        "address_line2": "Main East Coast Road, Saoluafata, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vaimalili Pool",
+            "osm_id": 689568741,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cb8179230e7465c0591e9cab9c9bc32bc0f00103f901e5fb19290000000092030e5661696d616c696c6920506f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.62672589999997,
+          -13.88204660029265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sopo'aga Waterfalls",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "street": "Le Mafa Pass Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.5846444,
+        "lat": -14.0095967,
+        "formatted": "Sopo'aga Waterfalls, Le Mafa Pass Road, Ātua, Samoa",
+        "address_line1": "Sopo'aga Waterfalls",
+        "address_line2": "Le Mafa Pass Road, Ātua, Samoa",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Sopo'aga Waterfalls",
+            "charge": "$10",
+            "osm_id": 689570252,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5143392c68b57265c05935e8d3dbe9042cc0f00103f901cc011a2900000000920313536f706f2761676120576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.58464439999997,
+          -14.009596700303613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "turtle swimming",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Sato'alepai",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GE",
+        "lon": -172.3465951,
+        "lat": -13.4522138,
+        "formatted": "turtle swimming, North Coast Road, Sato'alepai, Samoa",
+        "address_line1": "turtle swimming",
+        "address_line2": "North Coast Road, Sato'alepai, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "turtle swimming",
+            "osm_id": 737056207,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51856e9b4e178b65c05979c8359188e72ac0f00103f901cf95ee2b0000000092030f747572746c65207377696d6d696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.34659509999997,
+          -13.452213800254173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virgin's grave",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Sale'aula",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GE",
+        "lon": -172.3322543,
+        "lat": -13.4506863,
+        "formatted": "Virgin's grave, North Coast Road, Sale'aula, Samoa",
+        "address_line1": "Virgin's grave",
+        "address_line2": "North Coast Road, Sale'aula, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Virgin's grave",
+            "osm_id": 994506264,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51920ec5d3a18a65c0594ab1d05ac0e62ac0f00103f90118f6463b0000000092030e56697267696e2773206772617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.3322543,
+          -13.450686300254024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utamaloa surf point",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Faʻasaleleaga",
+        "city": "Lano",
+        "hamlet": "Tālalupelele",
+        "iso3166_2": "WS-FA",
+        "lon": -172.1942122,
+        "lat": -13.6228311,
+        "formatted": "Utamaloa surf point, Lano, Faʻasaleleaga, Samoa",
+        "address_line1": "Utamaloa surf point",
+        "address_line2": "Lano, Faʻasaleleaga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Utamaloa surf point",
+            "osm_id": 994506313,
+            "natural": "cape",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517eef80fc368665c059232ecdb7e33e2bc0f00103f90149f6463b000000009203135574616d616c6f61207375726620706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.19421219999998,
+          -13.622831100269712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LMS Church",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Sale'aula",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GE",
+        "lon": -172.3306279,
+        "lat": -13.4516574,
+        "formatted": "LMS Church, North Coast Road, Sale'aula, Samoa",
+        "address_line1": "LMS Church",
+        "address_line2": "North Coast Road, Sale'aula, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "LMS Church",
+            "osm_id": 994506380,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51a534f680948a65c059f82c86a33fe72ac0f00103f9018cf6463b0000000092030a4c4d5320436875726368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.3306279,
+          -13.45165740025412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mauga Matāvanu crater",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Paia",
+        "iso3166_2": "WS-GI",
+        "lon": -172.3944016,
+        "lat": -13.5371578,
+        "formatted": "Mauga Matāvanu crater, Paia, Gagaʻifomauga, Samoa",
+        "address_line1": "Mauga Matāvanu crater",
+        "address_line2": "Paia, Gagaʻifomauga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mauga Matāvanu crater",
+            "osm_id": 994521048,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b0af1af09e8c65c0592ed5e15806132bc0f00103f901d82f473b000000009203164d61756761204d6174c48176616e7520637261746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.39440160000004,
+          -13.537157800261948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STA Village Grounds",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Matafele",
+        "street": "Main Beach Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.76582042341326,
+        "lat": -13.83064125,
+        "formatted": "STA Village Grounds, Main Beach Road, Matafele, Samoa",
+        "address_line1": "STA Village Grounds",
+        "address_line2": "Main Beach Road, Matafele, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "STA Village Grounds",
+            "osm_id": 1123338067,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "516725d599817865c0597c6459cf49a92bc0f00102f90153c7f442000000009203135354412056696c6c6167652047726f756e6473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.76582042341326,
+          -13.830641250288174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Afu A'au Waterfall",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Vailoa",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.3135602,
+        "lat": -13.7453806,
+        "formatted": "Afu A'au Waterfall, South Coast Road, Vailoa, Samoa",
+        "address_line1": "Afu A'au Waterfall",
+        "address_line2": "South Coast Road, Vailoa, Samoa",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "5 WST",
+            "name": "Afu A'au Waterfall",
+            "osm_id": 1986588671,
+            "tourism": "attraction",
+            "operator": "Private",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Private",
+        "place_id": "51788a66af088a65c0597d8eaa86a27d2bc0f00103f901ffef687600000000920312416675204127617520576174657266616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.31356019999998,
+          -13.745380600280663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Sand Beach",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Gataivai",
+        "hamlet": "Nu'uuta",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.4752745,
+        "lat": -13.786888,
+        "formatted": "Black Sand Beach, South Coast Road, Gataivai, Samoa",
+        "address_line1": "Black Sand Beach",
+        "address_line2": "South Coast Road, Gataivai, Samoa",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "10 WST",
+            "name": "Black Sand Beach",
+            "osm_id": 1986588675,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ee43de72358f65c0590face5fbe2922bc0f00103f90103f0687600000000920310426c61636b2053616e64204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.4752745,
+          -13.786888000284334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Return To Paradise Beach",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Salamumu Uta",
+        "street": "Salamumu Road",
+        "iso3166_2": "WS-GE",
+        "lon": -171.9454118,
+        "lat": -13.9811493,
+        "formatted": "Return To Paradise Beach, Salamumu Road, Salamumu Uta, Samoa",
+        "address_line1": "Return To Paradise Beach",
+        "address_line2": "Salamumu Road, Salamumu Uta, Samoa",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "10 WST",
+            "name": "Return To Paradise Beach",
+            "osm_id": 1986680358,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5114483fd0407e65c059e3927a3359f62bc0f00103f90126566a760000000092031852657475726e20546f205061726164697365204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.9454118,
+          -13.981149300301189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canopy walkway",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaisigano",
+        "city": "Avata",
+        "street": "Faleālupo Road",
+        "iso3166_2": "WS-VS",
+        "lon": -172.7483541,
+        "lat": -13.5264263,
+        "formatted": "Canopy walkway, Faleālupo Road, Avata, Samoa",
+        "address_line1": "Canopy walkway",
+        "address_line2": "Faleālupo Road, Avata, Samoa",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "20 WS",
+            "name": "Canopy walkway",
+            "osm_id": 3777914723,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517b2a4c84f29765c05910c07ebf870d2bc0f00103f90163672ee10000000092030e43616e6f70792077616c6b776179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.7483541,
+          -13.526426300260965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "beach",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Fai'a'ai",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.6391681,
+        "lat": -13.6733283,
+        "formatted": "beach, South Coast Road, Fai'a'ai, Samoa",
+        "address_line1": "beach",
+        "address_line2": "South Coast Road, Fai'a'ai, Samoa",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "3 WS",
+            "name": "beach",
+            "osm_id": 3777914728,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b0c4a810749465c059624caa7cbe582bc0f00103f90168672ee1000000009203056265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.6391681,
+          -13.673328300274253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lava tube",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Aopo",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GI",
+        "lon": -172.5292461,
+        "lat": -13.5369187,
+        "formatted": "Lava tube, North Coast Road, Aopo, Samoa",
+        "address_line1": "Lava tube",
+        "address_line2": "North Coast Road, Aopo, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lava tube",
+            "osm_id": 4843031922,
+            "name:en": "Lava tube",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Lava tube"
+        },
+        "place_id": "5123618495ef9065c059b8780402e7122bc0f00103f90172cdaa20010000009203094c6176612074756265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.5292461,
+          -13.536918700261921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paia dwarf cave",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Lefagaoali'i",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GI",
+        "lon": -172.4084221,
+        "lat": -13.4919086,
+        "formatted": "Paia dwarf cave, North Coast Road, Lefagaoali'i, Samoa",
+        "address_line1": "Paia dwarf cave",
+        "address_line2": "North Coast Road, Lefagaoali'i, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paia dwarf cave",
+            "osm_id": 4843049521,
+            "name:en": "Paia dwarf cave",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Paia dwarf cave"
+        },
+        "place_id": "51d54e39cb118d65c059f874ad71dbfb2ac0f00103f9013112ab200100000092030f506169612064776172662063617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.40842209999997,
+          -13.491908600257815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mauga Village Crater",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Mauga",
+        "street": "Mauga Road",
+        "iso3166_2": "WS-GE",
+        "lon": -172.3154664,
+        "lat": -13.4757492,
+        "formatted": "Mauga Village Crater, Mauga Road, Mauga, Samoa",
+        "address_line1": "Mauga Village Crater",
+        "address_line2": "Mauga Road, Mauga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mauga Village Crater",
+            "osm_id": 4856522925,
+            "name:en": "Mauga Village Crater",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mauga Village Crater"
+        },
+        "place_id": "5193dffd4c188a65c059f265306695f32ac0f00103f901ada87821010000009203144d617567612056696c6c61676520437261746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.31546639999996,
+          -13.475749200256335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entrance Dwarf's Cave",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Lefagaoali'i",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GI",
+        "lon": -172.4084133,
+        "lat": -13.4916553,
+        "formatted": "Entrance Dwarf's Cave, North Coast Road, Lefagaoali'i, Samoa",
+        "address_line1": "Entrance Dwarf's Cave",
+        "address_line2": "North Coast Road, Lefagaoali'i, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Entrance Dwarf's Cave",
+            "osm_id": 4856837663,
+            "name:en": "Entrance Dwarf's Cave",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Entrance Dwarf's Cave"
+        },
+        "place_id": "510cd8c4b8118d65c0594806573ebafb2ac0f00103f9011f767d2101000000920315456e7472616e636520447761726627732043617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.4084133,
+          -13.49165530025779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ma Tree",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Togitogiga",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.7327834,
+        "lat": -14.0111164,
+        "formatted": "Ma Tree, Main South Coast Road, Togitogiga, Samoa",
+        "address_line1": "Ma Tree",
+        "address_line2": "Main South Coast Road, Togitogiga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ma Tree",
+            "osm_id": 4865486321,
+            "name:en": "Ma Tree",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ma Tree"
+        },
+        "place_id": "51a6412cf6727765c059f2817f0cb1052cc0f00103f901f16d0122010000009203074d612054726565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.73278339999996,
+          -14.011116400303738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coastal Walk Lava Field",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Togitogiga",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.7453688,
+        "lat": -14.045365,
+        "formatted": "Coastal Walk Lava Field, Main South Coast Road, Togitogiga, Samoa",
+        "address_line1": "Coastal Walk Lava Field",
+        "address_line2": "Main South Coast Road, Togitogiga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Coastal Walk Lava Field",
+            "osm_id": 4865494521,
+            "name:en": "Coastal Walk Lava Field",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Coastal Walk Lava Field"
+        },
+        "place_id": "51ae6eab0fda7765c0596d66d1143a172cc0f00103f901f98d012201000000920317436f617374616c2057616c6b204c617661204669656c64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7453688,
+          -14.04536500030664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coastal Walk",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Togitogiga",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.7508858,
+        "lat": -14.0421921,
+        "formatted": "Coastal Walk, Main South Coast Road, Togitogiga, Samoa",
+        "address_line1": "Coastal Walk",
+        "address_line2": "Main South Coast Road, Togitogiga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Coastal Walk",
+            "osm_id": 4865541221,
+            "name:en": "Coastal Walk",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Coastal Walk"
+        },
+        "place_id": "51fb40a841077865c0594aeef5339a152cc0f00103f901654402220100000092030c436f617374616c2057616c6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.75088579999996,
+          -14.04219210030637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paia Dwarfs cave",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Lefagaoali'i",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GI",
+        "lon": -172.4096342,
+        "lat": -13.4788827,
+        "formatted": "Paia Dwarfs cave, North Coast Road, Lefagaoali'i, Samoa",
+        "address_line1": "Paia Dwarfs cave",
+        "address_line2": "North Coast Road, Lefagaoali'i, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paia Dwarfs cave",
+            "osm_id": 5162999824,
+            "name:en": "Paia Dwarfs cave",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Paia Dwarfs cave"
+        },
+        "place_id": "51578a2eb91b8d65c059d471001d30f52ac0f00103f9011020bd330100000092031050616961204477617266732063617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.4096342,
+          -13.478882700256612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fuipisia Waterfalls",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "street": "Le Mafa Pass Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.5909383,
+        "lat": -13.9775431,
+        "formatted": "Fuipisia Waterfalls, Le Mafa Pass Road, Ātua, Samoa",
+        "address_line1": "Fuipisia Waterfalls",
+        "address_line2": "Le Mafa Pass Road, Ātua, Samoa",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Fuipisia Waterfalls",
+            "charge": "$20",
+            "osm_id": 5586769194,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51860e70f7e87265c05909727c8780f42bc0f00103f9012a55ff4c01000000920313467569706973696120576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5909383,
+          -13.97754310030088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Togitogiga Waterfalls",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Malaemalu",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.7177001,
+        "lat": -14.0139657,
+        "formatted": "Togitogiga Waterfalls, Main South Coast Road, Malaemalu, Samoa",
+        "address_line1": "Togitogiga Waterfalls",
+        "address_line2": "Main South Coast Road, Malaemalu, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Togitogiga Waterfalls",
+            "osm_id": 5593724712,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "place_id": "51c03a3366f77665c0598524248326072cc0f00103f9012877694d01000000920315546f6769746f6769676120576174657266616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7177001,
+          -14.013965700303979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moso Footprint",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaisigano",
+        "city": "Avata",
+        "street": "Faleālupo Road",
+        "iso3166_2": "WS-VS",
+        "lon": -172.7669061,
+        "lat": -13.5015266,
+        "formatted": "Moso Footprint, Faleālupo Road, Avata, Samoa",
+        "address_line1": "Moso Footprint",
+        "address_line2": "Faleālupo Road, Avata, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Moso Footprint",
+            "osm_id": 5612679190,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514a53a97e8a9865c059ce5e3418c8002bc0f00103f90116b08a4e0100000092030e4d6f736f20466f6f747072696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.76690609999997,
+          -13.501526600258696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "House of Rock",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaisigano",
+        "city": "Vaotupua",
+        "street": "Faleālupo Road",
+        "iso3166_2": "WS-VS",
+        "lon": -172.7857845,
+        "lat": -13.496955,
+        "formatted": "House of Rock, Faleālupo Road, Vaotupua, Samoa",
+        "address_line1": "House of Rock",
+        "address_line2": "Faleālupo Road, Vaotupua, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "House of Rock",
+            "osm_id": 5612679192,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5185268925259965c059d062c3e270fe2ac0f00103f90118b08a4e0100000092030d486f757365206f6620526f636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.7857845,
+          -13.496955000258282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Fatuosofia Historic Site",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Aʻana",
+        "city": "Satuimalufilufi",
+        "street": "Main West Coast Road",
+        "iso3166_2": "WS-AA",
+        "lon": -172.0614075,
+        "lat": -13.8570911,
+        "formatted": "Cape Fatuosofia Historic Site, Main West Coast Road, Satuimalufilufi, Samoa",
+        "address_line1": "Cape Fatuosofia Historic Site",
+        "address_line2": "Main West Coast Road, Satuimalufilufi, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cape Fatuosofia Historic Site",
+            "osm_id": 6088777685,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515587dc0cf78165c0596ee10aa5d4b62bc0f00103f901d55feb6a0100000092031d4361706520466174756f736f66696120486973746f7269632053697465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.0614075,
+          -13.857091100290486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falease’ela River Walk",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Aʻana",
+        "city": "Falease'ela",
+        "street": "Falease'ela Road",
+        "iso3166_2": "WS-AA",
+        "lon": -171.9674278,
+        "lat": -13.9320511,
+        "formatted": "Falease’ela River Walk, Falease'ela Road, Falease'ela, Samoa",
+        "address_line1": "Falease’ela River Walk",
+        "address_line2": "Falease'ela Road, Falease'ela, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Falease’ela River Walk",
+            "osm_id": 6088777686,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b747252bf57e65c059e2f343cd35dd2bc0f00103f901d65feb6a0100000092031846616c65617365e28099656c612052697665722057616c6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.96742779999997,
+          -13.932051100296977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swimming with turtles",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Fagamalo",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GE",
+        "lon": -172.35548,
+        "lat": -13.44026,
+        "formatted": "Swimming with turtles, North Coast Road, Fagamalo, Samoa",
+        "address_line1": "Swimming with turtles",
+        "address_line2": "North Coast Road, Fagamalo, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Swimming with turtles",
+            "osm_id": 6093416886,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5139cc9717608b65c059cea53dc269e12ac0f00103f901b629326b010000009203155377696d6d696e67207769746820747572746c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.35547999999997,
+          -13.440260000253058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sale’aula Lava Fields",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Mauga",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GE",
+        "lon": -172.3176139,
+        "lat": -13.4591031,
+        "formatted": "Sale’aula Lava Fields, North Coast Road, Mauga, Samoa",
+        "address_line1": "Sale’aula Lava Fields",
+        "address_line2": "North Coast Road, Mauga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sale’aula Lava Fields",
+            "osm_id": 6093420885,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512828a0e4298a65c059562cc28f0feb2ac0f00103f9015539326b0100000092031753616c65e2809961756c61204c617661204669656c6473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.31761389999997,
+          -13.459103100254804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lava Tube",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Aopo",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GI",
+        "lon": -172.5343676,
+        "lat": -13.5372468,
+        "formatted": "Lava Tube, North Coast Road, Aopo, Samoa",
+        "address_line1": "Lava Tube",
+        "address_line2": "North Coast Road, Aopo, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lava Tube",
+            "osm_id": 6093420886,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5158c1148a199165c059f2023a0312132bc0f00103f9015639326b010000009203094c6176612054756265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.5343676,
+          -13.537246800261958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paia Dwarf Cave",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Lefagaoali'i",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GI",
+        "lon": -172.4152871,
+        "lat": -13.4625754,
+        "formatted": "Paia Dwarf Cave, North Coast Road, Lefagaoali'i, Samoa",
+        "address_line1": "Paia Dwarf Cave",
+        "address_line2": "North Coast Road, Lefagaoali'i, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paia Dwarf Cave",
+            "osm_id": 6093420985,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516c1e2c084a8d65c0594e0fd0aed6ec2ac0f00103f901b939326b0100000092030f506169612044776172662043617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.4152871,
+          -13.46257540025513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ancient Star Mound",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaisigano",
+        "city": "Vaotupua",
+        "street": "Tufutafoe Road",
+        "iso3166_2": "WS-VS",
+        "lon": -172.801625,
+        "lat": -13.5156253,
+        "formatted": "Ancient Star Mound, Tufutafoe Road, Vaotupua, Samoa",
+        "address_line1": "Ancient Star Mound",
+        "address_line2": "Tufutafoe Road, Vaotupua, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ancient Star Mound",
+            "osm_id": 6093578206,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fed478e9a69965c059ab36130a00082bc0f00103f901de9f346b01000000920312416e6369656e742053746172204d6f756e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.801625,
+          -13.515625300259975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falelima Sea Arch",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaisigano",
+        "city": "Falelima",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-VS",
+        "lon": -172.7231462,
+        "lat": -13.5950271,
+        "formatted": "Falelima Sea Arch, South Coast Road, Falelima, Samoa",
+        "address_line1": "Falelima Sea Arch",
+        "address_line2": "South Coast Road, Falelima, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Falelima Sea Arch",
+            "osm_id": 6093579500,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5141e77f03249765c0593fc35f64a7302bc0f00103f901eca4346b0100000092031146616c656c696d61205365612041726368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.7231462,
+          -13.5950271002672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lovers Leap",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Fagafau",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.6715079,
+        "lat": -13.6406595,
+        "formatted": "Lovers Leap, South Coast Road, Fagafau, Samoa",
+        "address_line1": "Lovers Leap",
+        "address_line2": "South Coast Road, Fagafau, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lovers Leap",
+            "osm_id": 6093579501,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512eb022fe7c9565c059f312a38504482bc0f00103f901eda4346b0100000092030b4c6f76657273204c656170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.6715079,
+          -13.640659500271317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulemelei Ancient Mound",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Vailoa",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.3121764,
+        "lat": -13.7227308,
+        "formatted": "Pulemelei Ancient Mound, South Coast Road, Vailoa, Samoa",
+        "address_line1": "Pulemelei Ancient Mound",
+        "address_line2": "South Coast Road, Vailoa, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pulemelei Ancient Mound",
+            "osm_id": 6093579502,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a7925c59fd8965c05979047ec509722bc0f00103f901eea4346b0100000092031750756c656d656c656920416e6369656e74204d6f756e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.31217639999997,
+          -13.722730800278656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lava lagoon",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻemauga",
+        "city": "Sale'aula",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GE",
+        "lon": -172.3300972,
+        "lat": -13.4504934,
+        "formatted": "Lava lagoon, North Coast Road, Sale'aula, Samoa",
+        "address_line1": "Lava lagoon",
+        "address_line2": "North Coast Road, Sale'aula, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lava lagoon",
+            "osm_id": 6510003586,
+            "name:de": "Lava lagune",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Lava lagune"
+        },
+        "place_id": "5109d00028908a65c059434f2a12a7e62ac0f00103f90182c506840100000092030b4c617661206c61676f6f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.33009719999998,
+          -13.45049340025401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canopy Walk - Tree",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaisigano",
+        "city": "Avata",
+        "street": "Faleālupo Road",
+        "iso3166_2": "WS-VS",
+        "lon": -172.7477727,
+        "lat": -13.5248222,
+        "formatted": "Canopy Walk - Tree, Faleālupo Road, Avata, Samoa",
+        "address_line1": "Canopy Walk - Tree",
+        "address_line2": "Faleālupo Road, Avata, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Canopy Walk - Tree",
+            "osm_id": 6546324185,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ef6a03c1ed9765c05984abd47eb50c2bc0f00103f901d9fa30860100000092031243616e6f70792057616c6b202d2054726565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.7477727,
+          -13.524822200260822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canopy Walk - Steel Tower",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaisigano",
+        "city": "Avata",
+        "street": "Faleālupo Road",
+        "iso3166_2": "WS-VS",
+        "lon": -172.7475368,
+        "lat": -13.524955,
+        "formatted": "Canopy Walk - Steel Tower, Faleālupo Road, Avata, Samoa",
+        "address_line1": "Canopy Walk - Steel Tower",
+        "address_line2": "Faleālupo Road, Avata, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Canopy Walk - Steel Tower",
+            "osm_id": 6546324186,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cf914bd2eb9765c059e6fbdbe6c60c2bc0f00103f901dafa30860100000092031943616e6f70792057616c6b202d20537465656c20546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.7475368,
+          -13.524955000260842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lava tube and cave",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Aopo",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GI",
+        "lon": -172.5298889,
+        "lat": -13.5387798,
+        "formatted": "Lava tube and cave, North Coast Road, Aopo, Samoa",
+        "address_line1": "Lava tube and cave",
+        "address_line2": "North Coast Road, Aopo, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lava tube and cave",
+            "osm_id": 6562680314,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516d0091d9f49065c05907be2bf2da132bc0f00103f901fa8d2a87010000009203124c617661207475626520616e642063617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.52988889999997,
+          -13.538779800262104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lanoto'o view platform",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Malololelei",
+        "street": "Afiamalu Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.8258278,
+        "lat": -13.9104358,
+        "formatted": "Lanoto'o view platform, Afiamalu Road, Malololelei, Samoa",
+        "address_line1": "Lanoto'o view platform",
+        "address_line2": "Afiamalu Road, Malololelei, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lanoto'o view platform",
+            "osm_id": 6593037804,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5115246c2e6d7a65c0590ec026a424d22bc0f00103f901ecc5f988010000009203164c616e6f746f276f207669657720706c6174666f726d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.82582779999998,
+          -13.910435800295115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandbar",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Lauli'i",
+        "street": "Main East Coast Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.7072281,
+        "lat": -13.8484497,
+        "formatted": "Sandbar, Main East Coast Road, Lauli'i, Samoa",
+        "address_line1": "Sandbar",
+        "address_line2": "Main East Coast Road, Lauli'i, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sandbar",
+            "osm_id": 6593037901,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fe09d39ca17665c0593a17c6ff67b22bc0f00103f9014dc6f9880100000092030753616e64626172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7072281,
+          -13.848449700289724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sauano Village",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Lalomauga",
+        "street": "Lalomauga Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.5620961,
+        "lat": -13.9106705,
+        "formatted": "Sauano Village, Lalomauga Road, Lalomauga, Samoa",
+        "address_line1": "Sauano Village",
+        "address_line2": "Lalomauga Road, Lalomauga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sauano Village",
+            "osm_id": 6622125789,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b2d6f5b0fc7165c0592666606743d22bc0f00103f901dd9eb58a0100000092030e536175616e6f2056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.56209610000002,
+          -13.910670500295122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musumusu Village",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaʻa-o-Fonoti",
+        "city": "Ta'elefaga",
+        "street": "Ta'elefaga Road",
+        "iso3166_2": "WS-VF",
+        "lon": -171.5587169,
+        "lat": -13.9301005,
+        "formatted": "Musumusu Village, Ta'elefaga Road, Ta'elefaga, Samoa",
+        "address_line1": "Musumusu Village",
+        "address_line2": "Ta'elefaga Road, Ta'elefaga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Musumusu Village",
+            "osm_id": 6622125790,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511ea74302e17165c0593689fd2136dc2bc0f00103f901de9eb58a010000009203104d7573756d7573752056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.55871689999998,
+          -13.930100500296799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salimu Fagaloa Village",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaʻa-o-Fonoti",
+        "city": "Ta'elefaga",
+        "street": "Ta'elefaga Road",
+        "iso3166_2": "WS-VF",
+        "lon": -171.5613904,
+        "lat": -13.9321883,
+        "formatted": "Salimu Fagaloa Village, Ta'elefaga Road, Ta'elefaga, Samoa",
+        "address_line1": "Salimu Fagaloa Village",
+        "address_line2": "Ta'elefaga Road, Ta'elefaga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Salimu Fagaloa Village",
+            "osm_id": 6622125792,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513a0900e9f67165c05994faeec847dd2bc0f00103f901e09eb58a0100000092031653616c696d7520466167616c6f612056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5613904,
+          -13.932188300296993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dwarfs Cave",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Gagaʻifomauga",
+        "city": "Lefagaoali'i",
+        "street": "North Coast Road",
+        "iso3166_2": "WS-GI",
+        "lon": -172.4087218,
+        "lat": -13.5163725,
+        "formatted": "Dwarfs Cave, North Coast Road, Lefagaoali'i, Samoa",
+        "address_line1": "Dwarfs Cave",
+        "address_line2": "North Coast Road, Lefagaoali'i, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dwarfs Cave",
+            "osm_id": 6642459585,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513185bd3f148d65c0596157f2f961082bc0f00103f901c1e3eb8b0100000092030b4477617266732043617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.4087218,
+          -13.516372500260049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coral Garden",
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Foailalo",
+        "street": "South Coast Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.6013056,
+        "lat": -13.7090209,
+        "formatted": "Coral Garden, South Coast Road, Foailalo, Samoa",
+        "address_line1": "Coral Garden",
+        "address_line2": "South Coast Road, Foailalo, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Coral Garden",
+            "osm_id": 6656094185,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51dadc3de53d9365c05984be95c9046b2bc0f00103f901e9efbb8c0100000092030c436f72616c2047617264656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.6013056,
+          -13.709020900277444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Vaʻa-o-Fonoti",
+        "city": "Ta'elefaga",
+        "street": "Ta'elefaga Road",
+        "iso3166_2": "WS-VF",
+        "lon": -171.5839577,
+        "lat": -13.9410751,
+        "formatted": "Ta'elefaga Road, Ta'elefaga, Samoa",
+        "address_line1": "Ta'elefaga Road",
+        "address_line2": "Ta'elefaga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 689568799,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eaf70ec8af7265c059aeb77598d4e12bc0f00103f9011ffc192900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.58395769999998,
+          -13.941075100297748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Vailima",
+        "street": "Robert Louis Stevenson Tomb Trail",
+        "iso3166_2": "WS-TU",
+        "lon": -171.7704933,
+        "lat": -13.8644999,
+        "formatted": "Robert Louis Stevenson Tomb Trail, Vailima, Samoa",
+        "address_line1": "Robert Louis Stevenson Tomb Trail",
+        "address_line2": "Vailima, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1991336624,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5130a990e1a77865c059904a1ebb9fba2bc0f00103f901b062b17600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7704933,
+          -13.864499900291122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Vavau",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.5624853,
+        "lat": -14.0441973,
+        "formatted": "Main South Coast Road, Vavau, Samoa",
+        "address_line1": "Main South Coast Road",
+        "address_line2": "Vavau, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3255083721,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5162ff2be1ff7165c059b5c64e07a1162cc0f00103f901c9a204c200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.5624853,
+          -14.044197300306545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Palauli",
+        "city": "Tafua",
+        "street": "Tafua Road",
+        "iso3166_2": "WS-PA",
+        "lon": -172.2516077,
+        "lat": -13.7849548,
+        "formatted": "Tafua Road, Tafua, Samoa",
+        "address_line1": "Tafua Road",
+        "address_line2": "Tafua, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3776299203,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517e5d972b0d8865c0590d1e7898e5912bc0f00103f901c3c015e100000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172.25160769999997,
+          -13.784954800284163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Tuamasaga",
+        "city": "Togitogiga",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-TU",
+        "lon": -171.7487457,
+        "lat": -14.0442879,
+        "formatted": "Main South Coast Road, Togitogiga, Samoa",
+        "address_line1": "Main South Coast Road",
+        "address_line2": "Togitogiga, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4865486621,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a9d08ab9f57765c059a9d956e7ac162cc0f00103f9011d6f012201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.7487457,
+          -14.044287900306545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Vailoa",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.4156179,
+        "lat": -14.0216149,
+        "formatted": "Main South Coast Road, Vailoa, Samoa",
+        "address_line1": "Main South Coast Road",
+        "address_line2": "Vailoa, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5593707421,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "E"
+          }
+        },
+        "place_id": "513a04e9bd4c6d65c05951d4b31b110b2cc0f00103f9019d33694d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.41561789999997,
+          -14.021614900304629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Vailoa",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.4156847,
+        "lat": -14.0226702,
+        "formatted": "Main South Coast Road, Vailoa, Samoa",
+        "address_line1": "Main South Coast Road",
+        "address_line2": "Vailoa, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5593707441,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "WSW"
+          }
+        },
+        "place_id": "5153feff494d6d65c0591bceb16d9b0b2cc0f00103f901b133694d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.4156847,
+          -14.022670200304722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Vailoa",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.4156754,
+        "lat": -14.021031,
+        "formatted": "Main South Coast Road, Vailoa, Samoa",
+        "address_line1": "Main South Coast Road",
+        "address_line2": "Vailoa, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5593707451,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "E"
+          }
+        },
+        "place_id": "510e187f364d6d65c0594c054593c40a2cc0f00103f901bb33694d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.4156754,
+          -14.021031000304582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Samoa",
+        "country_code": "ws",
+        "state": "Ātua",
+        "city": "Vailoa",
+        "street": "Main South Coast Road",
+        "iso3166_2": "WS-AT",
+        "lon": -171.4152524,
+        "lat": -14.0239199,
+        "formatted": "Main South Coast Road, Vailoa, Samoa",
+        "address_line1": "Main South Coast Road",
+        "address_line2": "Vailoa, Samoa",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5593707453,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "E"
+          }
+        },
+        "place_id": "51bcb266bf496d65c059cb10ab3a3f0c2cc0f00103f901bd33694d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.41525239999999,
+          -14.023919900304824
+        ]
+      }
+    }
+  ]
+}

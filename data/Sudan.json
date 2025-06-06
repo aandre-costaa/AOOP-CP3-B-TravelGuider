@@ -1,0 +1,4670 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talha",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "White Nile State",
+        "county": "Al Gutaina",
+        "city": "AlSheikh AlYagout",
+        "hamlet": "Qahwa",
+        "street": "Khartoum-Kosti",
+        "housenumber": "2666",
+        "iso3166_2": "SD-NW",
+        "lon": 32.4492897,
+        "lat": 14.8832175,
+        "formatted": "Talha, Khartoum-Kosti 2666, AlSheikh AlYagout, Sudan",
+        "address_line1": "Talha",
+        "address_line2": "Khartoum-Kosti 2666, AlSheikh AlYagout, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Talha",
+            "email": "alhajakasha@gmail.com",
+            "phone": "0918008407",
+            "osm_id": 7895302986,
+            "name:ar": "قرية الطلحه",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "شارع الخرطوم - كوستي",
+            "opening_hours": "24/7",
+            "addr:housenumber": 2666
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "ar": "قرية الطلحه"
+        },
+        "contact": {
+          "phone": "0918008407",
+          "email": "alhajakasha@gmail.com"
+        },
+        "place_id": "51fff62b53823940405942988a1535c42d40f00103f9014ac398d60100000092030554616c6861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4492897,
+          14.88321749989348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Shifa Pharmaceutical Factory",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "11012",
+        "street": "Al Shifaa Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.56167835277646,
+        "lat": 15.64585675,
+        "formatted": "Al Shifa Pharmaceutical Factory, Al Shifaa Street, 11012 Bahri, Sudan",
+        "address_line1": "Al Shifa Pharmaceutical Factory",
+        "address_line2": "Al Shifaa Street, 11012 Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al Shifa Pharmaceutical Factory",
+            "osm_id": 108830728,
+            "name:ar": "مصنع الشفاء للأدوية",
+            "name:fr": "Usine pharmaceutique Al Shifa",
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w",
+            "wikipedia": "ar:مصنع الشفاء للأدوية"
+          }
+        },
+        "name_international": {
+          "ar": "مصنع الشفاء للأدوية",
+          "fr": "Usine pharmaceutique Al Shifa"
+        },
+        "wiki_and_media": {
+          "wikipedia": "ar:مصنع الشفاء للأدوية"
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51e5058613e547404059ad2866bcad4a2f40f00102f90108a07c060000000092031f416c20536869666120506861726d61636575746963616c20466163746f7279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.56167835277646,
+          15.645856749983375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abdul Qaum Gate",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "district": "Al-Murada",
+        "suburb": "Al-Murada",
+        "street": "شارع البوابة",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4909522,
+        "lat": 15.6338503,
+        "formatted": "Abdul Qaum Gate, شارع البوابة, 13311 Omdurman, Sudan",
+        "address_line1": "Abdul Qaum Gate",
+        "address_line2": "شارع البوابة, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Abdul Qaum Gate",
+            "osm_id": 290115949,
+            "name:ar": "بوابة عبد القيوم",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "امدرمان"
+          }
+        },
+        "name_international": {
+          "ar": "بوابة عبد القيوم"
+        },
+        "place_id": "511b738d85d73e404059f6f6c90688442f40f00103f9016dd14a110000000092030f416264756c205161756d2047617465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4909522,
+          15.633850299981969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مقرن النيلين",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "district": "Al Mogran",
+        "street": "Omdurman Bridge",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4936691,
+        "lat": 15.6143223,
+        "formatted": "مقرن النيلين, Omdurman Bridge, Khartoum, Sudan",
+        "address_line1": "مقرن النيلين",
+        "address_line2": "Omdurman Bridge, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مقرن النيلين",
+            "osm_id": 364509380,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "alt_name:en": "Confluence of the two Niles"
+          }
+        },
+        "place_id": "51dbc58f8c303f404059873bd773883a2f40f00103f901c4f8b91500000000920317d985d982d8b1d98620d8a7d984d986d98ad984d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4936691,
+          15.614322299979689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sixth Cataract",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Al Miseiktab",
+        "hamlet": "El Badyab",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6917763,
+        "lat": 16.3331579,
+        "formatted": "Sixth Cataract, Al Miseiktab, Khartoum State, Sudan",
+        "address_line1": "Sixth Cataract",
+        "address_line2": "Al Miseiktab, Khartoum State, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sixth Cataract",
+            "osm_id": 1415305334,
+            "tourism": "attraction",
+            "alt_name": "sabalouga",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "sabalouga"
+        },
+        "place_id": "51ee5234208c58404059192c0dd649553040f00103f90176d85b540000000092030e5369787468204361746172616374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6917763,
+          16.33315790006245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Battle of Omdurman",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Hillat Karari",
+        "hamlet": "Karan",
+        "street": "Al Wadi Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5271302,
+        "lat": 15.7874014,
+        "formatted": "Battle of Omdurman, Al Wadi Street, Hillat Karari, Sudan",
+        "address_line1": "Battle of Omdurman",
+        "address_line2": "Al Wadi Street, Hillat Karari, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Battle of Omdurman",
+            "osm_id": 1580700722,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f2dd9c007943404059f6a5bb4626932f40f00103f9013294375e00000000920312426174746c65206f66204f6d6475726d616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5271302,
+          15.78740139999989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turkish Tombs",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "10934",
+        "street": "Al Baladiya Avenue",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5288803,
+        "lat": 15.6037479,
+        "formatted": "Turkish Tombs, Al Baladiya Avenue, 10934 Khartoum, Sudan",
+        "address_line1": "Turkish Tombs",
+        "address_line2": "Al Baladiya Avenue, 10934 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Turkish Tombs",
+            "osm_id": 2139243056,
+            "name:ar": "مقابر الاتراك",
+            "name:en": "Turkish Tombs",
+            "name:fr": "Tombes turques",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مقابر الاتراك",
+          "en": "Turkish Tombs",
+          "fr": "Tombes turques"
+        },
+        "place_id": "51d4ff8359b24340405949dfda711e352f40f00103f9013042827f0000000092030d5475726b69736820546f6d6273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5288803,
+          15.603747899978446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مسجد الفتح مربع 7",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "13311",
+        "district": "Halfia Elmouluk",
+        "street": "Martyr Mohammed Hashim Matar Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.557897,
+        "lat": 15.7004039,
+        "formatted": "مسجد الفتح مربع 7, Martyr Mohammed Hashim Matar Road, 13311 Bahri, Sudan",
+        "address_line1": "مسجد الفتح مربع 7",
+        "address_line2": "Martyr Mohammed Hashim Matar Road, 13311 Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مسجد الفتح مربع 7",
+            "osm_id": 4104996498,
+            "name:ar": "صيدلية ميار",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "صيدلية ميار"
+        },
+        "place_id": "51abc43c2b6947404059c4e408579b662f40f00103f9019246adf40000000092031ed985d8b3d8acd8af20d8a7d984d981d8aad8ad20d985d8b1d8a8d8b92037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.55789699999999,
+          15.700403899989745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مسجد الرضوان حي الدوحة",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "East Nile",
+        "postcode": "11012",
+        "street": "AL Haj Yousif Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6000842,
+        "lat": 15.6160058,
+        "formatted": "مسجد الرضوان حي الدوحة, AL Haj Yousif Street, 11012 East Nile, Sudan",
+        "address_line1": "مسجد الرضوان حي الدوحة",
+        "address_line2": "AL Haj Yousif Street, 11012 East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مسجد الرضوان حي الدوحة",
+            "osm_id": 4119155004,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5153ec1e8fcf4c404059ac1eba1c653b2f40f00103f9013c5185f500000000920329d985d8b3d8acd8af20d8a7d984d8b1d8b6d988d8a7d98620d8add98a20d8a7d984d8afd988d8add8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.60008419999999,
+          15.616005799979881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "محليه شرق النيل",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "East Nile",
+        "postcode": "11012",
+        "street": "AL Haj Yousif Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5990756,
+        "lat": 15.614731,
+        "formatted": "محليه شرق النيل, AL Haj Yousif Street, 11012 East Nile, Sudan",
+        "address_line1": "محليه شرق النيل",
+        "address_line2": "AL Haj Yousif Street, 11012 East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "محليه شرق النيل",
+            "osm_id": 4133177989,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5171ea5e82ae4c4040592c808905be3a2f40f00103f901854a5bf60000000092031cd985d8add984d98ad98720d8b4d8b1d98220d8a7d984d986d98ad984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5990756,
+          15.614730999979734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "السوق المركزي",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "17070",
+        "district": "Al Sahafa East",
+        "suburb": "Al Sahafa",
+        "street": "Africa Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5574842,
+        "lat": 15.5317239,
+        "formatted": "السوق المركزي, Africa Road, 17070 Khartoum, Sudan",
+        "address_line1": "السوق المركزي",
+        "address_line2": "Africa Road, 17070 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "السوق المركزي",
+            "osm_id": 4234691689,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b3846ba45b47404059d7be711d3e102f40f00103f901694468fc00000000920319d8a7d984d8b3d988d98220d8a7d984d985d8b1d983d8b2d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5574842,
+          15.531723899970002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "محطة عزيز كفوري",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "11012",
+        "street": "Al Shifaa Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5597811,
+        "lat": 15.6209227,
+        "formatted": "محطة عزيز كفوري, Al Shifaa Street, 11012 Bahri, Sudan",
+        "address_line1": "محطة عزيز كفوري",
+        "address_line2": "Al Shifaa Street, 11012 Bahri, Sudan",
+        "categories": [
+          "healthcare",
+          "healthcare.clinic_or_praxis",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "محطة عزيز كفوري",
+            "osm_id": 4234691692,
+            "amenity": "clinic",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "healthcare": "clinic"
+          }
+        },
+        "place_id": "519eb536e8a6474040592b858394e93d2f40f00103f9016c4468fc0000000092031cd985d8add8b7d8a920d8b9d8b2d98ad8b220d983d981d988d8b1d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.559781099999995,
+          15.62092269998046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كلية الإمارات التقنية",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11112",
+        "street": "شارع الجريف غرب الشيطة",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5907079,
+        "lat": 15.5513736,
+        "formatted": "كلية الإمارات التقنية, شارع الجريف غرب الشيطة, 11112 Khartoum, Sudan",
+        "address_line1": "كلية الإمارات التقنية",
+        "address_line2": "شارع الجريف غرب الشيطة, 11112 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كلية الإمارات التقنية",
+            "osm_id": 4235016189,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5192fe03519c4b4040598384f7a34d1a2f40f00103f901fd376dfc00000000920328d983d984d98ad8a920d8a7d984d8a5d985d8a7d8b1d8a7d8aa20d8a7d984d8aad982d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5907079,
+          15.5513735999723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مسجد النيه",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "13311",
+        "district": "Al Safia",
+        "street": "Al-Mazad Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5384625,
+        "lat": 15.6515926,
+        "formatted": "مسجد النيه, Al-Mazad Road, 13311 Bahri, Sudan",
+        "address_line1": "مسجد النيه",
+        "address_line2": "Al-Mazad Road, 13311 Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مسجد النيه",
+            "osm_id": 4236435341,
+            "name:ar": "مسجد حاجة النية",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مسجد حاجة النية"
+        },
+        "place_id": "51abcfd556ec44404059847e968b9d4d2f40f00103f9018ddf82fc00000000920313d985d8b3d8acd8af20d8a7d984d986d98ad987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5384625,
+          15.651592599984049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bashir Moh. Bashir House",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "suburb": "Al Kalakla",
+        "street": "Eastern Kalakla Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4977802,
+        "lat": 15.4750205,
+        "formatted": "Bashir Moh. Bashir House, Eastern Kalakla Road, Khartoum, Sudan",
+        "address_line1": "Bashir Moh. Bashir House",
+        "address_line2": "Eastern Kalakla Road, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bashir Moh. Bashir House",
+            "osm_id": 4254726393,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5155ccf742b73f404059558b10e335f32e40f00103f901f9f899fd00000000920318426173686972204d6f682e2042617368697220486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4977802,
+          15.475020499963344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 1438,
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "00000",
+        "street": "شارع الابرار",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6080058,
+        "lat": 15.7135805,
+        "formatted": "1438, شارع الابرار, 00000 Bahri, Sudan",
+        "address_line1": "1438",
+        "address_line2": "شارع الابرار, 00000 Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 1438,
+            "osm_id": 4254772990,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519f635122d34d404059430d5d6c5a6d2f40f00103f901feae9afd0000000092030431343338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.608005799999994,
+          15.713580499991286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مزرعة مدني",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Al 'Aylafun",
+        "street": "Kutrang - Khartoum Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.8033593,
+        "lat": 15.4549807,
+        "formatted": "مزرعة مدني, Kutrang - Khartoum Road, Al 'Aylafun, Sudan",
+        "address_line1": "مزرعة مدني",
+        "address_line2": "Kutrang - Khartoum Road, Al 'Aylafun, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مزرعة مدني",
+            "osm_id": 4254776989,
+            "name:ar": "مزرعة مدني",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "مزرعة مدني"
+        },
+        "place_id": "51fe37407ad4664040598649f53af3e82e40f00103f9019dbe9afd00000000920313d985d8b2d8b1d8b9d8a920d985d8afd986d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8033593,
+          15.45498069996098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كلية النصر التقنية",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "suburb": "Wad al-Bana",
+        "street": "شارع الكبجاب",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5008324,
+        "lat": 15.6652419,
+        "formatted": "كلية النصر التقنية, شارع الكبجاب, 13311 Omdurman, Sudan",
+        "address_line1": "كلية النصر التقنية",
+        "address_line2": "شارع الكبجاب, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كلية النصر التقنية",
+            "osm_id": 4261967292,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517b63ad461b4040405909bc18969a542f40f00103f901bc7508fe00000000920322d983d984d98ad8a920d8a7d984d986d8b5d8b120d8a7d984d8aad982d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5008324,
+          15.665241899985647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كلية اللاهوت الإنجيلية",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "11012",
+        "district": "Al Khatmiyya",
+        "street": "شارع البلدية",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5310275,
+        "lat": 15.6218989,
+        "formatted": "كلية اللاهوت الإنجيلية, شارع البلدية, 11012 Bahri, Sudan",
+        "address_line1": "كلية اللاهوت الإنجيلية",
+        "address_line2": "شارع البلدية, 11012 Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كلية اللاهوت الإنجيلية",
+            "osm_id": 4261971291,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5169e388b5f8434040597dab5988693e2f40f00103f9015b8508fe0000000092032ad983d984d98ad8a920d8a7d984d984d8a7d987d988d8aa20d8a7d984d8a5d986d8acd98ad984d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5310275,
+          15.621898899980573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حي النصر",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "الجزيرة إسلانج",
+        "hamlet": "El Hiredab",
+        "street": "Al Wadi Al Waha Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.526525,
+        "lat": 15.857227,
+        "formatted": "حي النصر, Al Wadi Al Waha Street, الجزيرة إسلانج, Sudan",
+        "address_line1": "حي النصر",
+        "address_line2": "Al Wadi Al Waha Street, الجزيرة إسلانج, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "حي النصر",
+            "osm_id": 4261983793,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5161c3d32b6543404059a9901475e6b62f40f00103f90131b608fe0000000092030fd8add98a20d8a7d984d986d8b5d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.526525,
+          15.857227000007997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الحريزاب",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "الجزيرة إسلانج",
+        "hamlet": "El Hiredab",
+        "street": "Al Wadi Al Waha Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5265322,
+        "lat": 15.8505242,
+        "formatted": "الحريزاب, Al Wadi Al Waha Street, الجزيرة إسلانج, Sudan",
+        "address_line1": "الحريزاب",
+        "address_line2": "Al Wadi Al Waha Street, الجزيرة إسلانج, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الحريزاب",
+            "osm_id": 4262011995,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513da539686543404059a0f96ee877b32f40f00103f9015b2409fe00000000920310d8a7d984d8add8b1d98ad8b2d8a7d8a8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5265322,
+          15.850524200007214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سوق 6",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "East Nile",
+        "suburb": "Souq 6",
+        "street": "شارع سوق 6",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6409203,
+        "lat": 15.6137581,
+        "formatted": "شارع سوق 6, East Nile, Sudan",
+        "address_line1": "شارع سوق 6",
+        "address_line2": "East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سوق 6",
+            "osm_id": 4262447050,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d7eb27ad095240405994226e803e3a2f40f00103f901cac70ffe00000000920308d8b3d988d9822036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6409203,
+          15.613758099979613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "استاد البركة",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "East Nile",
+        "street": "AL Fayha Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6437855,
+        "lat": 15.5994186,
+        "formatted": "استاد البركة, AL Fayha Street, East Nile, Sudan",
+        "address_line1": "استاد البركة",
+        "address_line2": "AL Fayha Street, East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "استاد البركة",
+            "osm_id": 4262451420,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ca1132906752404059e809a7fee6322f40f00103f901dcd80ffe00000000920317d8a7d8b3d8aad8a7d8af20d8a7d984d8a8d8b1d983d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.64378549999999,
+          15.599418599977938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صالة بلاس",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "10934",
+        "district": "Al Amarat",
+        "street": "Street 1",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5441443,
+        "lat": 15.5861877,
+        "formatted": "Palace Hall, Street 1, 10934 Khartoum, Sudan",
+        "address_line1": "Palace Hall",
+        "address_line2": "Street 1, 10934 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صالة بلاس",
+            "osm_id": 4357463798,
+            "name:ar": "صالة بلاس",
+            "name:en": "Palace Hall",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "صالة بلاس",
+          "en": "Palace Hall"
+        },
+        "place_id": "5104673a85a645404059a16e51cb202c2f40f00103f901f69eb90301000000920311d8b5d8a7d984d8a920d8a8d984d8a7d8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5441443,
+          15.586187699976394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "السوق المركزي",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "North Kordofan State",
+        "county": "Jebrat al Sheikh",
+        "iso3166_2": "SD-KN",
+        "lon": 32.1379352,
+        "lat": 15.4765263,
+        "formatted": "السوق المركزي, Jebrat al Sheikh, Sudan",
+        "address_line1": "السوق المركزي",
+        "address_line2": "Jebrat al Sheikh, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "السوق المركزي",
+            "osm_id": 4396522589,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ce7b52dca711404059ea0d5441fbf32e40f00103f9015d9c0d0601000000920319d8a7d984d8b3d988d98220d8a7d984d985d8b1d983d8b2d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.1379352,
+          15.476526299963513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AL Nuba Village",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "AlMasudiyah",
+        "street": "Khartoum-Wad Madani Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.9031071,
+        "lat": 15.2922239,
+        "formatted": "AL Nuba Village, Khartoum-Wad Madani Road, AlMasudiyah, Sudan",
+        "address_line1": "AL Nuba Village",
+        "address_line2": "Khartoum-Wad Madani Road, AlMasudiyah, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "AL Nuba Village",
+            "osm_id": 4412847990,
+            "name:en": "AL Nuba Village",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "AL Nuba Village"
+        },
+        "place_id": "5188a47103997340405921b8fa5e9e952e40f00103f90176b706070100000092030f414c204e7562612056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9031071,
+          15.292223899941805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "خالتو اماني",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "district": "Al-Murada",
+        "suburb": "Al-Murada",
+        "street": "شارع حامد توفيق",
+        "iso3166_2": "SD-KH",
+        "lon": 32.488529,
+        "lat": 15.6331912,
+        "formatted": "خالتو اماني, شارع حامد توفيق, 13311 Omdurman, Sudan",
+        "address_line1": "خالتو اماني",
+        "address_line2": "شارع حامد توفيق, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "خالتو اماني",
+            "osm_id": 4424798089,
+            "name:ar": "خالتو اماني",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "خالتو اماني"
+        },
+        "place_id": "51e312471e883e404059111310a331442f40f00103f901890fbd0701000000920315d8aed8a7d984d8aad98820d8a7d985d8a7d986d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.48852899999999,
+          15.633191199981896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moh. Motassim House",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "street": "Al Azhari Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5767125,
+        "lat": 15.5062112,
+        "formatted": "Moh. Motassim House, Al Azhari Road, Khartoum, Sudan",
+        "address_line1": "Moh. Motassim House",
+        "address_line2": "Al Azhari Road, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Moh. Motassim House",
+            "osm_id": 4470173990,
+            "name:en": "Moh. Motassim House",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Moh. Motassim House"
+        },
+        "place_id": "51e25817b7d1494040595974491d2e032f40f00103f9012671710a010000009203134d6f682e204d6f74617373696d20486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5767125,
+          15.506211199967014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "حمد الجعيص",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "suburb": "Al Kalakla",
+        "street": "شارع ابو ادم",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4866487,
+        "lat": 15.5008177,
+        "formatted": "حمد الجعيص, شارع ابو ادم, Khartoum, Sudan",
+        "address_line1": "حمد الجعيص",
+        "address_line2": "شارع ابو ادم, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "حمد الجعيص",
+            "osm_id": 4470497393,
+            "name:ar": "حمد الجعيص",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "حمد الجعيص"
+        },
+        "place_id": "510a922d814a3e4040591f3a752d6b002f40f00103f9017160760a01000000920313d8add985d8af20d8a7d984d8acd8b9d98ad8b5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4866487,
+          15.500817699966374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haj Saeed House",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11111",
+        "street": "Mamoon Beheiri Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5411661,
+        "lat": 15.5569901,
+        "formatted": "Haj Saeed House, Mamoon Beheiri Street, 11111 Khartoum, Sudan",
+        "address_line1": "Haj Saeed House",
+        "address_line2": "Mamoon Beheiri Street, 11111 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Haj Saeed House",
+            "osm_id": 4493093089,
+            "name:en": "Haj Saeed House",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Haj Saeed House"
+        },
+        "place_id": "51189a46ee4445404059cb286fce2d1d2f40f00103f901e128cf0b0100000092030f48616a20536165656420486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5411661,
+          15.55699009997297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moh. El Tahir House",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "East Nile",
+        "postcode": "11012",
+        "street": "AL Haj Yousif Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.600118,
+        "lat": 15.615476,
+        "formatted": "منزل محمد الطاهر, AL Haj Yousif Street, 11012 East Nile, Sudan",
+        "address_line1": "منزل محمد الطاهر",
+        "address_line2": "AL Haj Yousif Street, 11012 East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Moh. El Tahir House",
+            "osm_id": 4493093090,
+            "name:ar": "منزل محمد الطاهر",
+            "name:en": "منزل محمد الطاهر",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منزل محمد الطاهر",
+          "en": "منزل محمد الطاهر"
+        },
+        "place_id": "51d6dea7aad04c404059bec596ab1f3b2f40f00103f901e228cf0b010000009203134d6f682e20456c20546168697220486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.600117999999995,
+          15.615475999979818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الخرطوم 2",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "10934",
+        "district": "Khartoum 2",
+        "street": "Al Mek Nimir Circle",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5380696,
+        "lat": 15.5923026,
+        "formatted": "Khartoum 2, Al Mek Nimir Circle, 10934 Khartoum, Sudan",
+        "address_line1": "Khartoum 2",
+        "address_line2": "Al Mek Nimir Circle, 10934 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الخرطوم 2",
+            "osm_id": 4510792690,
+            "name:ar": "الخرطوم 2",
+            "name:en": "Khartoum 2",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الخرطوم 2",
+          "en": "Khartoum 2"
+        },
+        "place_id": "51647cf376df4440405997795049422f2f40f00103f901f23bdd0c01000000920310d8a7d984d8aed8b1d8b7d988d9852032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5380696,
+          15.592302599977115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الساحه الخضراء",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11114",
+        "street": "Africa Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5548101,
+        "lat": 15.5628581,
+        "formatted": "Green Yard, Africa Road, 11114 Khartoum, Sudan",
+        "address_line1": "Green Yard",
+        "address_line2": "Africa Road, 11114 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الساحه الخضراء",
+            "osm_id": 4548473794,
+            "name:ar": "الساحة الخضراء",
+            "name:en": "Green Yard",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الساحة الخضراء",
+          "en": "Green Yard"
+        },
+        "place_id": "51c87e71040447404059e059d7ef2e202f40f00103f901c2331c0f0100000092031bd8a7d984d8b3d8a7d8add98720d8a7d984d8aed8b6d8b1d8a7d8a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5548101,
+          15.562858099973653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sadam مونوير",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11112",
+        "district": "Al Mamura",
+        "street": "Street 45",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5929333,
+        "lat": 15.5421095,
+        "formatted": "Sadam مونوير, Street 45, 11112 Khartoum, Sudan",
+        "address_line1": "Sadam مونوير",
+        "address_line2": "Street 45, 11112 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sadam مونوير",
+            "osm_id": 4574870197,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cc1a063de54b40405960745a608f152f40f00103f901b5faae1001000000920312536164616d20d985d988d986d988d98ad8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5929333,
+          15.542109499971218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كبري الانقاذ",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "street": "Inqaz Bridge",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4958668,
+        "lat": 15.6033345,
+        "formatted": "كبري الانقاذ, Inqaz Bridge, Khartoum, Sudan",
+        "address_line1": "كبري الانقاذ",
+        "address_line2": "Inqaz Bridge, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كبري الانقاذ",
+            "osm_id": 4617484390,
+            "name:ar": "كبري الانقاذ",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "كبري الانقاذ"
+        },
+        "place_id": "510b963490783f40405956e97342e8342f40f00103f9016638391301000000920317d983d8a8d8b1d98a20d8a7d984d8a7d986d982d8a7d8b0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.49586680000001,
+          15.603334499978398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "اوزون",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "10934",
+        "district": "Khartoum 2",
+        "street": "Ozone Roundabout",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5375215,
+        "lat": 15.5855601,
+        "formatted": "O Zone, Ozone Roundabout, 10934 Khartoum, Sudan",
+        "address_line1": "O Zone",
+        "address_line2": "Ozone Roundabout, 10934 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "اوزون",
+            "osm_id": 4617489791,
+            "name:ar": "O Zone",
+            "name:en": "O Zone",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "O Zone",
+          "en": "O Zone"
+        },
+        "place_id": "51ccb22781cd44404059487b8e88ce2b2f40f00103f9017f4d39130100000092030ad8a7d988d8b2d988d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5375215,
+          15.58556009997632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كبري توتي",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "10934",
+        "district": "Al Mogran",
+        "street": "Tuti Bridge",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5126374,
+        "lat": 15.6075033,
+        "formatted": "كبري توتي, Tuti Bridge, 10934 Khartoum, Sudan",
+        "address_line1": "كبري توتي",
+        "address_line2": "Tuti Bridge, 10934 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كبري توتي",
+            "osm_id": 4617489792,
+            "name:ar": "كبري توتي",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "كبري توتي"
+        },
+        "place_id": "516eda311a9e41404059253e2bac0a372f40f00103f901804d391301000000920311d983d8a8d8b1d98a20d8aad988d8aad98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5126374,
+          15.607503299978882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "أبو عشر",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Gezira State",
+        "county": "Al Kamline Municipality",
+        "city": "Fadl",
+        "hamlet": "Hulaylah",
+        "street": "Khartoum-Wad Madani Road",
+        "iso3166_2": "SD-GZ",
+        "lon": 33.2089452,
+        "lat": 14.9242685,
+        "formatted": "أبو عشر, Khartoum-Wad Madani Road, Fadl, Sudan",
+        "address_line1": "أبو عشر",
+        "address_line2": "Khartoum-Wad Madani Road, Fadl, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "أبو عشر",
+            "osm_id": 4617489991,
+            "name:ar": "أبو عشر",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "أبو عشر"
+        },
+        "place_id": "51fe5360b7be9a404059989287b839d92d40f00103f901474e39130100000092030dd8a3d8a8d98820d8b9d8b4d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2089452,
+          14.924268499898332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الكاملين",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Gezira State",
+        "county": "Al Kamline Municipality",
+        "city": "Fadl",
+        "hamlet": "Hulaylah",
+        "street": "Khartoum-Wad Madani Road",
+        "iso3166_2": "SD-GZ",
+        "lon": 33.1844583,
+        "lat": 15.0870525,
+        "formatted": "الكاملين, Khartoum-Wad Madani Road, Fadl, Sudan",
+        "address_line1": "الكاملين",
+        "address_line2": "Khartoum-Wad Madani Road, Fadl, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الكاملين",
+            "osm_id": 4617490589,
+            "name:ar": "الكاملين",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الكاملين"
+        },
+        "place_id": "51e5fc5e549c97404059af5c3025922c2e40f00103f9019d50391301000000920310d8a7d984d983d8a7d985d984d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.184458299999996,
+          15.087052499917574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كبري المك نمر",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11012",
+        "street": "Al Mak Nimir Bridge",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5329989,
+        "lat": 15.6123265,
+        "formatted": "كبري المك نمر, Al Mak Nimir Bridge, 11012 Khartoum, Sudan",
+        "address_line1": "كبري المك نمر",
+        "address_line2": "Al Mak Nimir Bridge, 11012 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كبري المك نمر",
+            "osm_id": 4617492089,
+            "name:ar": "كبري المك نمر",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "كبري المك نمر"
+        },
+        "place_id": "51e926d64e394440405993c5e7db82392f40f00103f9017956391301000000920318d983d8a8d8b1d98a20d8a7d984d985d98320d986d985d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5329989,
+          15.612326499979451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كبري النيل الأزرق",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11012",
+        "street": "Blue Nile Bridge",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5437754,
+        "lat": 15.616787,
+        "formatted": "كبري النيل الأزرق, Blue Nile Bridge, 11012 Khartoum, Sudan",
+        "address_line1": "كبري النيل الأزرق",
+        "address_line2": "Blue Nile Bridge, 11012 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كبري النيل الأزرق",
+            "osm_id": 4617492189,
+            "name:ar": "كبري النيل الأزرق",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "كبري النيل الأزرق"
+        },
+        "place_id": "5146afab6e9a454040591e067381cb3b2f40f00103f901dd56391301000000920320d983d8a8d8b1d98a20d8a7d984d986d98ad98420d8a7d984d8a3d8b2d8b1d982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5437754,
+          15.616786999979976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كبري امدرمان",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "district": "Al Mogran",
+        "street": "Morada Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.488698,
+        "lat": 15.6151407,
+        "formatted": "Omdruman Bridge, Morada Road, Khartoum, Sudan",
+        "address_line1": "Omdruman Bridge",
+        "address_line2": "Morada Road, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كبري امدرمان",
+            "osm_id": 4617492190,
+            "name:ar": "كبري امدرمان",
+            "name:en": "Omdruman Bridge",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Morada Road"
+          }
+        },
+        "name_international": {
+          "ar": "كبري امدرمان",
+          "en": "Omdruman Bridge"
+        },
+        "place_id": "516fcff3a78d3e40405915b4c9b8f33a2f40f00103f901de56391301000000920317d983d8a8d8b1d98a20d8a7d985d8afd8b1d985d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.48869799999999,
+          15.615140699979785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DK LAB",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11112",
+        "district": "Al Mamura",
+        "suburb": "Burri",
+        "street": "Street 60",
+        "iso3166_2": "SD-KH",
+        "lon": 32.583045,
+        "lat": 15.536358,
+        "formatted": "DK LAB, Street 60, 11112 Khartoum, Sudan",
+        "address_line1": "DK LAB",
+        "address_line2": "Street 60, 11112 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "DK LAB",
+            "osm_id": 4629108292,
+            "name:ar": "DK LAB",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "DK LAB"
+        },
+        "place_id": "51538cf337a14a40405999a409849d122f40f00103f9014496ea1301000000920306444b204c4142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.58304499999999,
+          15.53635799997055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yorpower",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11112",
+        "district": "Al Jerif West Al Sheta",
+        "street": "Street 60",
+        "iso3166_2": "SD-KH",
+        "lon": 32.579399,
+        "lat": 15.560472,
+        "formatted": "Yorpower, Street 60, 11112 Khartoum, Sudan",
+        "address_line1": "Yorpower",
+        "address_line2": "Street 60, 11112 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Yorpower",
+            "osm_id": 4634571095,
+            "name:ar": "شركة البدري للطاقة",
+            "name:en": "Yorpower",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "شركة البدري للطاقة",
+          "en": "Yorpower"
+        },
+        "place_id": "51e52a16bf294a4040592d6b9c2ff61e2f40f00103f90157f13d1401000000920308596f72706f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.579399,
+          15.560471999973368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل الزعيم الأزهري",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "district": "Beit al-Mal",
+        "suburb": "Al Masalma",
+        "street": "Alzaeem Alazhari Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.492289,
+        "lat": 15.648115,
+        "formatted": "منزل الزعيم الأزهري, Alzaeem Alazhari Road, 13311 Omdurman, Sudan",
+        "address_line1": "منزل الزعيم الأزهري",
+        "address_line2": "Alzaeem Alazhari Road, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل الزعيم الأزهري",
+            "osm_id": 4638764495,
+            "name:ar": "منزل الزعيم الأزهري",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منزل الزعيم الأزهري"
+        },
+        "place_id": "511c977153033f40405919f4b1bad54b2f40f00103f901cfed7d1401000000920324d985d986d8b2d98420d8a7d984d8b2d8b9d98ad98520d8a7d984d8a3d8b2d987d8b1d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.492289,
+          15.648114999983635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دهانات الجزيرة",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11112",
+        "district": "Al Jerif West Al Sheta",
+        "street": "Street 60",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5757022,
+        "lat": 15.5821658,
+        "formatted": "دهانات الجزيرة, Street 60, 11112 Khartoum, Sudan",
+        "address_line1": "دهانات الجزيرة",
+        "address_line2": "Street 60, 11112 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دهانات الجزيرة",
+            "osm_id": 4646445789,
+            "name:ar": "دهانات الجزيرة",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "دهانات الجزيرة"
+        },
+        "place_id": "511c9e149cb049404059167ebfa2112a2f40f00103f901dd22f3140100000092031bd8afd987d8a7d986d8a7d8aa20d8a7d984d8acd8b2d98ad8b1d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.575702199999995,
+          15.582165799975922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "المعالي",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "suburb": "Sooba Laoota",
+        "street": "Air Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6273874,
+        "lat": 15.4700482,
+        "formatted": "المعالي, Air Street, Khartoum, Sudan",
+        "address_line1": "المعالي",
+        "address_line2": "Air Street, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "المعالي",
+            "osm_id": 4651180892,
+            "name:ar": "المعالي",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "المعالي"
+        },
+        "place_id": "511476f63a4e5040405978c45c28aaf02e40f00103f9015c633b150100000092030ed8a7d984d985d8b9d8a7d984d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6273874,
+          15.470048199962761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شذرات للإنتاج الفني shazarat media",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11114",
+        "district": "Al Amarat",
+        "street": "King Abdelaziz Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5459988,
+        "lat": 15.5785148,
+        "formatted": "shazarat media, King Abdelaziz Street, 11114 Khartoum, Sudan",
+        "address_line1": "shazarat media",
+        "address_line2": "King Abdelaziz Street, 11114 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شذرات للإنتاج الفني shazarat media",
+            "osm_id": 4718851689,
+            "name:en": "shazarat media",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "shazarat media"
+        },
+        "place_id": "51dfd3e649e3454040591f4b841733282f40f00103f90169f6431901000000920333d8b4d8b0d8b1d8a7d8aa20d984d984d8a5d986d8aad8a7d8ac20d8a7d984d981d986d98a207368617a61726174206d65646961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5459988,
+          15.578514799975492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل أيمن أبو عبد الله",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "district": "الثورة 25",
+        "street": "شارع الامتداد",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4232879,
+        "lat": 15.7489291,
+        "formatted": "منزل أيمن أبو عبد الله, شارع الامتداد, Omdurman, Sudan",
+        "address_line1": "منزل أيمن أبو عبد الله",
+        "address_line2": "شارع الامتداد, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل أيمن أبو عبد الله",
+            "osm_id": 4772963829,
+            "name:ar": "منزل أيمن أبو عبد الله",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منزل أيمن أبو عبد الله"
+        },
+        "place_id": "5170a5434c2e3640405987018fa2737f2f40f00103f901f5a57d1c01000000920328d985d986d8b2d98420d8a3d98ad985d98620d8a3d8a8d98820d8b9d8a8d8af20d8a7d984d984d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.42328789999999,
+          15.748929099995406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الحارة75",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "street": "شارع القلابات",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4709897,
+        "lat": 15.7634515,
+        "formatted": "الحارة75, شارع القلابات, Khartoum State, Sudan",
+        "address_line1": "الحارة75",
+        "address_line2": "شارع القلابات, Khartoum State, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الحارة75",
+            "osm_id": 4781342623,
+            "name:ar": "الحارة75",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الحارة75"
+        },
+        "place_id": "515d20f763493c404059ab23711de3862f40f00103f9019f7ffd1c0100000092030ed8a7d984d8add8a7d8b1d8a93735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4709897,
+          15.763451499997094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الحارة 72",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "district": "Al Thawra 60",
+        "street": "شارع الشنقيطي",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4753588,
+        "lat": 15.7539401,
+        "formatted": "الحارة 72, شارع الشنقيطي, Omdurman, Sudan",
+        "address_line1": "الحارة 72",
+        "address_line2": "شارع الشنقيطي, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الحارة 72",
+            "osm_id": 4781410921,
+            "name:ar": "الحارة 72",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الحارة 72"
+        },
+        "place_id": "51d3eea18ed83c4040595f40d16f04822f40f00103f901698afe1c0100000092030fd8a7d984d8add8a7d8b1d8a9203732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4753588,
+          15.753940099995985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الحارة71",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "district": "Al Thawra 60",
+        "street": "شارع الشنقيطي",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4804471,
+        "lat": 15.7513716,
+        "formatted": "الحارة71, شارع الشنقيطي, Omdurman, Sudan",
+        "address_line1": "الحارة71",
+        "address_line2": "شارع الشنقيطي, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الحارة71",
+            "osm_id": 4781410922,
+            "name:ar": "الحارة71",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الحارة71"
+        },
+        "place_id": "51a1fa624a7f3d404059dd3f42c7b3802f40f00103f9016a8afe1c0100000092030ed8a7d984d8add8a7d8b1d8a93731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4804471,
+          15.751371599995702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مخطط الجوهرة",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "village": "Hillat Ash Shiqelab",
+        "street": "Jabal Awlia Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5066773,
+        "lat": 15.41825,
+        "formatted": "مخطط الجوهرة, Jabal Awlia Street, Khartoum, Sudan",
+        "address_line1": "مخطط الجوهرة",
+        "address_line2": "Jabal Awlia Street, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مخطط الجوهرة",
+            "osm_id": 4781482621,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51139040cdda4040405954bb2edd24d62e40f00103f9017da2ff1c01000000920317d985d8aed8b7d8b720d8a7d984d8acd988d987d8b1d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5066773,
+          15.418249999956664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "أيمن والنزير",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "village": "Hillat Ash Shiqelab",
+        "street": "Jabal Awlia Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5300642,
+        "lat": 15.3521563,
+        "formatted": "أيمن والنزير, Jabal Awlia Street, Khartoum, Sudan",
+        "address_line1": "أيمن والنزير",
+        "address_line2": "Jabal Awlia Street, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "أيمن والنزير",
+            "osm_id": 4781484923,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e4e3c924d943404059b9b89ed44db42e40f00103f9017babff1c01000000920317d8a3d98ad985d98620d988d8a7d984d986d8b2d98ad8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5300642,
+          15.352156299948875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "معاوية",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "suburb": "Al Kalakla",
+        "street": "Martyr Abd El-moneim El-Tahir Avenue",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4926546,
+        "lat": 15.5196249,
+        "formatted": "معاوية, Martyr Abd El-moneim El-Tahir Avenue, Khartoum, Sudan",
+        "address_line1": "معاوية",
+        "address_line2": "Martyr Abd El-moneim El-Tahir Avenue, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "معاوية",
+            "osm_id": 4955377021,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ab9c514e0f3f404059cd1a5f460c0a2f40f00103f9017d0d5d270100000092030cd985d8b9d8a7d988d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4926546,
+          15.519624899968585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صالحة هجليجة",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "district": "Alsalha",
+        "street": "شارع الصالحة",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4075223,
+        "lat": 15.5402573,
+        "formatted": "صالحة هجليجة, شارع الصالحة, Omdurman, Sudan",
+        "address_line1": "صالحة هجليجة",
+        "address_line2": "شارع الصالحة, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صالحة هجليجة",
+            "osm_id": 5000380921,
+            "name:ar": "صالحة هجليجة",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "صالحة هجليجة"
+        },
+        "place_id": "510272d3b02934404059f599d59a9c142f40f00103f901f9c10b2a01000000920317d8b5d8a7d984d8add8a920d987d8acd984d98ad8acd8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4075223,
+          15.540257299970998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل سام خميس",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "street": "شارع احمد نيفاشا",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5259032,
+        "lat": 15.453721,
+        "formatted": "منزل سام خميس, شارع احمد نيفاشا, Khartoum, Sudan",
+        "address_line1": "منزل سام خميس",
+        "address_line2": "شارع احمد نيفاشا, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل سام خميس",
+            "osm_id": 5055550723,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514e6ecacb504340405932ae701e4ee82e40f00103f9010395552d01000000920318d985d986d8b2d98420d8b3d8a7d98520d8aed985d98ad8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5259032,
+          15.45372099996084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "home",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "11012",
+        "street": "King Fahad School Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5567623,
+        "lat": 15.6210348,
+        "formatted": "home, King Fahad School Road, 11012 Bahri, Sudan",
+        "address_line1": "home",
+        "address_line2": "King Fahad School Road, 11012 Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "home",
+            "osm_id": 5073274621,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a812affc43474040592930f745f83d2f40f00103f901fd06642e01000000920304686f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5567623,
+          15.62103479998048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الجامعة العربية المفتوحة",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11112",
+        "district": "Riyadh",
+        "street": "CIS Office Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5621744,
+        "lat": 15.5722042,
+        "formatted": "الجامعة العربية المفتوحة, CIS Office Road, 11112 Khartoum, Sudan",
+        "address_line1": "الجامعة العربية المفتوحة",
+        "address_line2": "CIS Office Road, 11112 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الجامعة العربية المفتوحة",
+            "osm_id": 5073274721,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510053ab54f547404059020debf2f7242f40f00103f9016107642e0100000092032ed8a7d984d8acd8a7d985d8b9d8a920d8a7d984d8b9d8b1d8a8d98ad8a920d8a7d984d985d981d8aad988d8add8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5621744,
+          15.572204199974752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "درماس",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "الجزيرة إسلانج",
+        "hamlet": "El Hiredab",
+        "street": "Al Wadi Al Waha Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5134968,
+        "lat": 15.8592411,
+        "formatted": "درماس, Al Wadi Al Waha Street, الجزيرة إسلانج, Sudan",
+        "address_line1": "درماس",
+        "address_line2": "Al Wadi Al Waha Street, الجزيرة إسلانج, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "درماس",
+            "osm_id": 5076447422,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e24c5d43ba414040592ad40f73eeb72f40f00103f901be70942e0100000092030ad8afd8b1d985d8a7d8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5134968,
+          15.859241100008223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الورشة",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "13311",
+        "street": "شارع سيقا",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5640211,
+        "lat": 15.6652615,
+        "formatted": "الورشة, شارع سيقا, 13311 Bahri, Sudan",
+        "address_line1": "الورشة",
+        "address_line2": "شارع سيقا, 13311 Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الورشة",
+            "osm_id": 5382455422,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518060e9d73148404059d773c3279d542f40f00103f9017ec0d1400100000092030cd8a7d984d988d8b1d8b4d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.56402109999999,
+          15.665261499985645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل مأمون حسن كرم الله",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "street": "شارع احمد نيفاشا",
+        "housenumber": "6",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5241333,
+        "lat": 15.4616892,
+        "formatted": "منزل مأمون حسن كرم الله, شارع احمد نيفاشا 6, Khartoum, Sudan",
+        "address_line1": "منزل مأمون حسن كرم الله",
+        "address_line2": "شارع احمد نيفاشا 6, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل مأمون حسن كرم الله",
+            "osm_id": 5631071432,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:housenumber": 6
+          }
+        },
+        "place_id": "514e1fcbcc16434040592181dd8662ec2e40f00103f901c854a34f0100000092032ad985d986d8b2d98420d985d8a3d985d988d98620d8add8b3d98620d983d8b1d98520d8a7d984d984d987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5241333,
+          15.46168919996177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كبري الدباسين",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "village": "Hillat Ash Shiqelab",
+        "suburb": "Al Kalakla",
+        "street": "Jabal Awlia Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4710299,
+        "lat": 15.5130179,
+        "formatted": "كبري الدباسين, Jabal Awlia Street, Khartoum, Sudan",
+        "address_line1": "كبري الدباسين",
+        "address_line2": "Jabal Awlia Street, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كبري الدباسين",
+            "osm_id": 5652769426,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5115f82fb54a3c404059ae3f3d48aa062f40f00103f901926aee5001000000920319d983d8a8d8b1d98a20d8a7d984d8afd8a8d8a7d8b3d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4710299,
+          15.513017899967817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuba fighting",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "East Nile",
+        "suburb": "Souq 6",
+        "street": "شارع سوق 6",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6487395,
+        "lat": 15.6133795,
+        "formatted": "Nuba fighting, شارع سوق 6, East Nile, Sudan",
+        "address_line1": "Nuba fighting",
+        "address_line2": "شارع سوق 6, East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nuba fighting",
+            "osm_id": 6088245486,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cc0f5ce50953404059eee5b8e00c3a2f40f00103f901ee40e36a0100000092030d4e756261206669676874696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.648739500000005,
+          15.613379499979569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "محطة الجعليين",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "East Nile",
+        "street": "Garri Ring Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.7177823,
+        "lat": 15.6764983,
+        "formatted": "محطة الجعليين, Garri Ring Road, East Nile, Sudan",
+        "address_line1": "محطة الجعليين",
+        "address_line2": "Garri Ring Road, East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "محطة الجعليين",
+            "osm_id": 6191729891,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e612584ae05b404059b47c34fc5d5a2f40f00103f901e34c0e7101000000920319d985d8add8b7d8a920d8a7d984d8acd8b9d984d98ad98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.717782299999996,
+          15.676498299986953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صينية 13",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "East Nile",
+        "postcode": "00249",
+        "street": "Libya Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6081783,
+        "lat": 15.6015744,
+        "formatted": "صينية 13, Libya Street, 00249 East Nile, Sudan",
+        "address_line1": "صينية 13",
+        "address_line2": "Libya Street, 00249 East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صينية 13",
+            "osm_id": 6191810287,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5185515ac9d84d404059cc084c8f01342f40f00103f901ef860f710100000092030dd8b5d98ad986d98ad8a9203133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6081783,
+          15.601574399978198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "رمال الأسد",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "postcode": "13311",
+        "street": "Tutti Bridge",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5102636,
+        "lat": 15.6212539,
+        "formatted": "رمال الأسد, Tutti Bridge, 13311 Khartoum State, Sudan",
+        "address_line1": "رمال الأسد",
+        "address_line2": "Tutti Bridge, 13311 Khartoum State, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "رمال الأسد",
+            "osm_id": 6191810288,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516c2b515150414040597adbbdfd143e2f40f00103f901f0860f7101000000920313d8b1d985d8a7d98420d8a7d984d8a3d8b3d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5102636,
+          15.621253899980491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "المدينة الخضراء - الضمان الإجتماعي",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "iso3166_2": "SD-KH",
+        "lon": 32.7519777,
+        "lat": 15.6482529,
+        "formatted": "المدينة الخضراء - الضمان الإجتماعي, East Nile, Sudan",
+        "address_line1": "المدينة الخضراء - الضمان الإجتماعي",
+        "address_line2": "East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "المدينة الخضراء - الضمان الإجتماعي",
+            "osm_id": 6191817686,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51206926ce406040405911efd9cde74b2f40f00103f901d6a30f710100000092033fd8a7d984d985d8afd98ad986d8a920d8a7d984d8aed8b6d8b1d8a7d8a1202d20d8a7d984d8b6d985d8a7d98620d8a7d984d8a5d8acd8aad985d8a7d8b9d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7519777,
+          15.648252899983648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قرية الشيخ أبوالقاسم",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "East Nile",
+        "street": "Garri Ring Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6651052,
+        "lat": 15.5856533,
+        "formatted": "قرية الشيخ أبوالقاسم, Garri Ring Road, East Nile, Sudan",
+        "address_line1": "قرية الشيخ أبوالقاسم",
+        "address_line2": "Garri Ring Road, East Nile, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قرية الشيخ أبوالقاسم",
+            "osm_id": 6191817687,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512333cd2a2255404059b762d4bfda2b2f40f00103f901d7a30f7101000000920326d982d8b1d98ad8a920d8a7d984d8b4d98ad8ae20d8a3d8a8d988d8a7d984d982d8a7d8b3d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.66510519999999,
+          15.585653299976327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شركة المطارات للمقاولات والتشييد المحدودة - مطار الخرطوم الدولي",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11114",
+        "street": "Africa Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5506609,
+        "lat": 15.5772774,
+        "formatted": "شركة المطارات للمقاولات والتشييد المحدودة - مطار الخرطوم الدولي, Africa Road, 11114 Khartoum, Sudan",
+        "address_line1": "شركة المطارات للمقاولات والتشييد المحدودة - مطار الخرطوم الدولي",
+        "address_line2": "Africa Road, 11114 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شركة المطارات للمقاولات والتشييد المحدودة - مطار الخرطوم الدولي",
+            "osm_id": 6191817688,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cc576e0e7c464040595f3a43e790272f40f00103f901d8a30f7101000000920375d8b4d8b1d983d8a920d8a7d984d985d8b7d8a7d8b1d8a7d8aa20d984d984d985d982d8a7d988d984d8a7d8aa20d988d8a7d984d8aad8b4d98ad98ad8af20d8a7d984d985d8add8afd988d8afd8a9202d20d985d8b7d8a7d8b120d8a7d984d8aed8b1d8b7d988d98520d8a7d984d8afd988d984d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5506609,
+          15.577277399975342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "محجر الطيران المدني القديم",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Saqqai",
+        "street": "Khartoum-Shendi Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6102682,
+        "lat": 15.9317117,
+        "formatted": "محجر الطيران المدني القديم, Khartoum-Shendi Road, Saqqai, Sudan",
+        "address_line1": "محجر الطيران المدني القديم",
+        "address_line2": "Khartoum-Shendi Road, Saqqai, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "محجر الطيران المدني القديم",
+            "osm_id": 6191928387,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f764b4441d4e4040596bbee15009dd2f40f00103f9014354117101000000920331d985d8add8acd8b120d8a7d984d8b7d98ad8b1d8a7d98620d8a7d984d985d8afd986d98a20d8a7d984d982d8afd98ad985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6102682,
+          15.931711700016612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شارع الدبابين - أم القري شمال",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Al-Khojlab",
+        "hamlet": "Surujiyah",
+        "postcode": "00000",
+        "street": "Khartoum-Shendi Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5685554,
+        "lat": 15.7601651,
+        "formatted": "شارع الدبابين - أم القري شمال, Khartoum-Shendi Road, 00000 Al-Khojlab, Sudan",
+        "address_line1": "شارع الدبابين - أم القري شمال",
+        "address_line2": "Khartoum-Shendi Road, 00000 Al-Khojlab, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شارع الدبابين - أم القري شمال",
+            "osm_id": 6191932385,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516b7b606cc648404059cc17285c34852f40f00103f901e163117101000000920334d8b4d8a7d8b1d8b920d8a7d984d8afd8a8d8a7d8a8d98ad986202d20d8a3d98520d8a7d984d982d8b1d98a20d8b4d985d8a7d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5685554,
+          15.760165099996719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "محطة معالجة الصرف الصحي",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "East Nile",
+        "city": "Bahri",
+        "district": "Al Safia",
+        "street": "شارع الهواء",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6125399,
+        "lat": 15.6613652,
+        "formatted": "محطة معالجة الصرف الصحي, شارع الهواء, Bahri, Sudan",
+        "address_line1": "محطة معالجة الصرف الصحي",
+        "address_line2": "شارع الهواء, Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "محطة معالجة الصرف الصحي",
+            "osm_id": 6191932585,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515fff1ab5674e404059374ca1759e522f40f00103f901a96411710100000092032bd985d8add8b7d8a920d985d8b9d8a7d984d8acd8a920d8a7d984d8b5d8b1d98120d8a7d984d8b5d8add98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.612539899999994,
+          15.661365199985182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مدخل قرية قري",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "street": "Khartoum-Shendi Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.6798829,
+        "lat": 16.1976481,
+        "formatted": "مدخل قرية قري, Khartoum-Shendi Road, Khartoum State, Sudan",
+        "address_line1": "مدخل قرية قري",
+        "address_line2": "Khartoum-Shendi Road, Khartoum State, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مدخل قرية قري",
+            "osm_id": 6207150387,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51094e22670657404059a0d1dd1099323040f00103f9013399f97101000000920318d985d8afd8aed98420d982d8b1d98ad8a920d982d8b1d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6798829,
+          16.197648100047104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مدخل الطريق الدائري الجيلى - سوبا - كبري المنشية",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Hillat ed Dareisa",
+        "hamlet": "Er Rawyan",
+        "street": "Garri Ring Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.62888,
+        "lat": 16.125519,
+        "formatted": "مدخل الطريق الدائري الجيلى - سوبا - كبري المنشية, Garri Ring Road, Hillat ed Dareisa, Sudan",
+        "address_line1": "مدخل الطريق الدائري الجيلى - سوبا - كبري المنشية",
+        "address_line2": "Garri Ring Road, Hillat ed Dareisa, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مدخل الطريق الدائري الجيلى - سوبا - كبري المنشية",
+            "osm_id": 6207175587,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e28dcc237f504040599231600322203040f00103f901a3fbf97101000000920356d985d8afd8aed98420d8a7d984d8b7d8b1d98ad98220d8a7d984d8afd8a7d8a6d8b1d98a20d8a7d984d8acd98ad984d989202d20d8b3d988d8a8d8a7202d20d983d8a8d8b1d98a20d8a7d984d985d986d8b4d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.628879999999995,
+          16.125519000038885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "أراضي القماراب صالحة",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "village": "الشيخ يوسف",
+        "district": "Alsalha",
+        "street": "Salha Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.3675272,
+        "lat": 15.4888492,
+        "formatted": "أراضي القماراب صالحة, Salha Road, Omdurman, Sudan",
+        "address_line1": "أراضي القماراب صالحة",
+        "address_line2": "Salha Road, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "أراضي القماراب صالحة",
+            "osm_id": 6207175685,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fa319c210b2f404059f30c3d714afa2e40f00103f90105fcf97101000000920326d8a3d8b1d8a7d8b6d98a20d8a7d984d982d985d8a7d8b1d8a7d8a820d8b5d8a7d984d8add8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3675272,
+          15.488849199964966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صالة بركة الملوك",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "11111",
+        "district": "Al Amarat",
+        "street": "Mohammed Najeeb Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5451997,
+        "lat": 15.5617413,
+        "formatted": "صالة بركة الملوك, Mohammed Najeeb Street, 11111 Khartoum, Sudan",
+        "address_line1": "صالة بركة الملوك",
+        "address_line2": "Mohammed Najeeb Street, 11111 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صالة بركة الملوك",
+            "osm_id": 6221611386,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fea4901ac945404059c865408e9c1f2f40f00103f9017a41d6720100000092031ed8b5d8a7d984d8a920d8a8d8b1d983d8a920d8a7d984d985d984d988d983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5451997,
+          15.56174129997352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كترانج",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "Al Kamline Municipality",
+        "city": "Fadl",
+        "hamlet": "Hulaylah",
+        "street": "Khartoum-Wad Madani Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.9662418,
+        "lat": 15.2745845,
+        "formatted": "كترانج, Khartoum-Wad Madani Road, Fadl, Sudan",
+        "address_line1": "كترانج",
+        "address_line2": "Khartoum-Wad Madani Road, Fadl, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كترانج",
+            "osm_id": 6976743685,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519b83b1cfad7b4040599275ee56968c2e40f00103f90105a9d89f0100000092030cd983d8aad8b1d8a7d986d8ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9662418,
+          15.274584499939724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kutrang",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "county": "Al Kamline Municipality",
+        "city": "Fadl",
+        "hamlet": "Hulaylah",
+        "street": "Khartoum-Wad Madani Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.9645019,
+        "lat": 15.2773921,
+        "formatted": "Kutrang, Khartoum-Wad Madani Road, Fadl, Sudan",
+        "address_line1": "Kutrang",
+        "address_line2": "Khartoum-Wad Madani Road, Fadl, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kutrang",
+            "osm_id": 6976743785,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5106b75acc747b40405999d25a56068e2e40f00103f90169a9d89f010000009203074b757472616e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.9645019,
+          15.27739209994006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل نازك",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "district": "Al Thawra 8",
+        "street": "شارع مستشفي النو",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4926485,
+        "lat": 15.6887059,
+        "formatted": "منزل نازك, شارع مستشفي النو, Omdurman, Sudan",
+        "address_line1": "منزل نازك",
+        "address_line2": "شارع مستشفي النو, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل نازك",
+            "osm_id": 7073053286,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5134f6251b0f3f40405956064a0f9e602f40f00103f901663a96a501000000920311d985d986d8b2d98420d986d8a7d8b2d983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4926485,
+          15.688705899988388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ابراهيم ساوند نادي الربيع",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "district": "Abassiya West",
+        "suburb": "Arda South",
+        "street": "شارع ود البدوي",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4769617,
+        "lat": 15.6371116,
+        "formatted": "ابراهيم ساوند نادي الربيع, شارع ود البدوي, Omdurman, Sudan",
+        "address_line1": "ابراهيم ساوند نادي الربيع",
+        "address_line2": "شارع ود البدوي, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ابراهيم ساوند نادي الربيع",
+            "osm_id": 7077502786,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e778bb140d3d40405921a7db7d33462f40f00103f901421fdaa50100000092032fd8a7d8a8d8b1d8a7d987d98ad98520d8b3d8a7d988d986d8af20d986d8a7d8afd98a20d8a7d984d8b1d8a8d98ad8b9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4769617,
+          15.63711159998235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كافوري نازك",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Bahri",
+        "postcode": "11012",
+        "district": "كافور مربع 3",
+        "street": "شارع الجلابة",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5679801,
+        "lat": 15.6563271,
+        "formatted": "كافوري نازك, شارع الجلابة, 11012 Bahri, Sudan",
+        "address_line1": "كافوري نازك",
+        "address_line2": "شارع الجلابة, 11012 Bahri, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كافوري نازك",
+            "osm_id": 7086753685,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b0236992b34840405925d30b1b0a502f40f00103f901954767a601000000920315d983d8a7d981d988d8b1d98a20d986d8a7d8b2d983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5679801,
+          15.656327099984603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل ضياء",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "district": "الثورة 25",
+        "street": "شارع الامتداد",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4527842,
+        "lat": 15.724641,
+        "formatted": "منزل ضياء, شارع الامتداد, Omdurman, Sudan",
+        "address_line1": "منزل ضياء",
+        "address_line2": "شارع الامتداد, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل ضياء",
+            "osm_id": 7161280085,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a09229d5f439404059229e282504732f40f00103f9015576d8aa01000000920311d985d986d8b2d98420d8b6d98ad8a7d8a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.452784199999996,
+          15.724640999992577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل سعد حامد جابر",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "street": "Al Halfaia Bridge Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5205773,
+        "lat": 15.7145403,
+        "formatted": "منزل سعد حامد جابر, Al Halfaia Bridge Street, Omdurman, Sudan",
+        "address_line1": "منزل سعد حامد جابر",
+        "address_line2": "Al Halfaia Bridge Street, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل سعد حامد جابر",
+            "osm_id": 7169130299,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511d45e746a2424040592f46e839d86d2f40f00103f9013b3f50ab01000000920321d985d986d8b2d98420d8b3d8b9d8af20d8add8a7d985d8af20d8acd8a7d8a8d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.52057729999999,
+          15.714540299991397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل منال زوجة محمد عطا",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Abu Halima",
+        "postcode": "00000",
+        "district": "Um Algura",
+        "street": "شارع الزاكياب",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5876394,
+        "lat": 15.7614418,
+        "formatted": "منزل منال زوجة محمد عطا, شارع الزاكياب, 00000 Abu Halima, Sudan",
+        "address_line1": "منزل منال زوجة محمد عطا",
+        "address_line2": "شارع الزاكياب, 00000 Abu Halima, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل منال زوجة محمد عطا",
+            "osm_id": 7184052786,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a86b92c4374b4040597a9619b3db852f40f00103f90132f233ac0100000092032ad985d986d8b2d98420d985d986d8a7d98420d8b2d988d8acd8a920d985d8add985d8af20d8b9d8b7d8a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5876394,
+          15.761441799996863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل سواكن-دار السلام",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "street": "شارع ود عيسي",
+        "iso3166_2": "SD-KH",
+        "lon": 32.378868,
+        "lat": 15.6425114,
+        "formatted": "منزل سواكن-دار السلام, شارع ود عيسي, Omdurman, Sudan",
+        "address_line1": "منزل سواكن-دار السلام",
+        "address_line2": "شارع ود عيسي, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل سواكن-دار السلام",
+            "osm_id": 7184052787,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511dc022bf7e30404059d9771441f7482f40f00103f90133f233ac01000000920327d985d986d8b2d98420d8b3d988d8a7d983d9862dd8afd8a7d8b120d8a7d984d8b3d984d8a7d985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37886799999999,
+          15.64251139998298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل استاذ موسى- صالحه",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "district": "Alsalha",
+        "street": "شارع الصالحة",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4092674,
+        "lat": 15.5459693,
+        "formatted": "منزل استاذ موسى- صالحه, شارع الصالحة, Omdurman, Sudan",
+        "address_line1": "منزل استاذ موسى- صالحه",
+        "address_line2": "شارع الصالحة, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل استاذ موسى- صالحه",
+            "osm_id": 7193186586,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d328c9df623440405929ffbf4989172f40f00103f9011a51bfac01000000920328d985d986d8b2d98420d8a7d8b3d8aad8a7d8b020d985d988d8b3d9892d20d8b5d8a7d984d8add987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4092674,
+          15.545969299971675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Souvenir market",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "10934",
+        "street": "Ghaba Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5134017,
+        "lat": 15.5974699,
+        "formatted": "Souvenir market, Ghaba Street, 10934 Khartoum, Sudan",
+        "address_line1": "Souvenir market",
+        "address_line2": "Ghaba Street, 10934 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Souvenir market",
+            "osm_id": 7222639686,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fc9a9b25b741404059547f2193e7312f40f00103f90146bc80ae0100000092030f536f7576656e6972206d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5134017,
+          15.597469899977717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camels",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "street": "Morada Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4889129,
+        "lat": 15.6170841,
+        "formatted": "Camels, Morada Road, Omdurman, Sudan",
+        "address_line1": "Camels",
+        "address_line2": "Morada Road, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Camels",
+            "osm_id": 7236976085,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d80baab2943e40405967977872f23b2f40f00103f901d57d5baf0100000092030643616d656c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4889129,
+          15.617084099980003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boat trips, £20",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "district": "Mulazmin",
+        "suburb": "Al-Murada",
+        "street": "Nile Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4908978,
+        "lat": 15.6269781,
+        "formatted": "Boat trips, £20, Nile Street, 13311 Omdurman, Sudan",
+        "address_line1": "Boat trips, £20",
+        "address_line2": "Nile Street, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boat trips, £20",
+            "osm_id": 7239402086,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d45636bdd53e4040596174054603412f40f00103f901668280af01000000920310426f61742074726970732c20c2a33230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4908978,
+          15.62697809998116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Traditional music and dance, Friday 7-8 pm",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "00249",
+        "district": "Burri Al Shreef",
+        "suburb": "Burri",
+        "street": "Nile Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5877589,
+        "lat": 15.599844,
+        "formatted": "Traditional music and dance, Friday 7-8 pm, Nile Street, 00249 Khartoum, Sudan",
+        "address_line1": "Traditional music and dance, Friday 7-8 pm",
+        "address_line2": "Nile Street, 00249 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Traditional music and dance, Friday 7-8 pm",
+            "osm_id": 7239402087,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516ab702af3b4b404059f136b5c01e332f40f00103f901678280af0100000092032a547261646974696f6e616c206d7573696320616e642064616e63652c2046726964617920372d3820706d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5877589,
+          15.599843999977994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Resta",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "district": "Mulazmin",
+        "suburb": "Al-Murada",
+        "street": "Nile Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4944255,
+        "lat": 15.6331866,
+        "formatted": "Restaurant and shishya, Nile Street, 13311 Omdurman, Sudan",
+        "address_line1": "Restaurant and shishya",
+        "address_line2": "Nile Street, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Resta",
+            "osm_id": 7239405985,
+            "name:en": "Restaurant and shishya",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Restaurant and shishya"
+        },
+        "place_id": "517a67b455493f4040591660b60831442f40f00103f901a19180af010000009203055265737461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.49442549999999,
+          15.633186599981894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wedding parties here",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "district": "Al-Murada",
+        "suburb": "Al-Murada",
+        "street": "Nile Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4901239,
+        "lat": 15.627502,
+        "formatted": "Wedding parties here, Nile Street, 13311 Omdurman, Sudan",
+        "address_line1": "Wedding parties here",
+        "address_line2": "Nile Street, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wedding parties here",
+            "osm_id": 7239405986,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5176be4461bc3e4040591b3030f147412f40f00103f901a29180af0100000092031457656464696e6720706172746965732068657265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4901239,
+          15.627501999981225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Traditional music and dance, Friday 3pm",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "street": "Al-Imam Al-Mahdi",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4981638,
+        "lat": 15.5967268,
+        "formatted": "Traditional music and dance, Friday 3pm, Al-Imam Al-Mahdi, Khartoum, Sudan",
+        "address_line1": "Traditional music and dance, Friday 3pm",
+        "address_line2": "Al-Imam Al-Mahdi, Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Traditional music and dance, Friday 3pm",
+            "osm_id": 7239405988,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518b86d6d4c33f404059f119d52c86312f40f00103f901a49180af01000000920327547261646974696f6e616c206d7573696320616e642064616e63652c204672696461792033706d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.49816380000001,
+          15.596726799977633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Earthen wall fortification",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "district": "Mulazmin",
+        "suburb": "Al-Murada",
+        "street": "Nile Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4938845,
+        "lat": 15.6338,
+        "formatted": "Earthen wall fortification, Nile Street, 13311 Omdurman, Sudan",
+        "address_line1": "Earthen wall fortification",
+        "address_line2": "Nile Street, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Earthen wall fortification",
+            "osm_id": 7239406085,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512ac0779b373f4040593441006f81442f40f00103f901059280af0100000092031a4561727468656e2077616c6c20666f7274696669636174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.49388449999999,
+          15.633799999981967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Earthenwall fortification",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "postcode": "13311",
+        "district": "Mulazmin",
+        "suburb": "Al-Murada",
+        "street": "Nile Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.4929803,
+        "lat": 15.6327284,
+        "formatted": "Earthenwall fortification, Nile Street, 13311 Omdurman, Sudan",
+        "address_line1": "Earthenwall fortification",
+        "address_line2": "Nile Street, 13311 Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Earthenwall fortification",
+            "osm_id": 7239451585,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5140097dfa193f404059475812faf4432f40f00103f901c14381af010000009203194561727468656e77616c6c20666f7274696669636174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4929803,
+          15.632728399981842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "كبري المسلمية",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "10934",
+        "street": "Army Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5340827,
+        "lat": 15.5963745,
+        "formatted": "كبري المسلمية, Army Road, 10934 Khartoum, Sudan",
+        "address_line1": "كبري المسلمية",
+        "address_line2": "Army Road, 10934 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "كبري المسلمية",
+            "osm_id": 7941440285,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ffed68d25c44404059e6249bff57312f40f00103f9011dc358d901000000920319d983d8a8d8b1d98a20d8a7d984d985d8b3d984d985d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.53408269999999,
+          15.596374499977582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل مهدي العبيد",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Khartoum",
+        "postcode": "17070",
+        "district": "Arkaweet",
+        "street": "Al Balabel Street",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5634217,
+        "lat": 15.5485331,
+        "formatted": "منزل مهدي العبيد, Al Balabel Street, 17070 Khartoum, Sudan",
+        "address_line1": "منزل مهدي العبيد",
+        "address_line2": "Al Balabel Street, 17070 Khartoum, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل مهدي العبيد",
+            "osm_id": 8551035418,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "شارع البلابل"
+          }
+        },
+        "place_id": "51a9adc7331e48404059654e9a54d9182f40f00103f9011a72aefd0100000092031ed985d986d8b2d98420d985d987d8afd98a20d8a7d984d8b9d8a8d98ad8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5634217,
+          15.548533099971971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل عبد الله الجكين",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "street": "Al-Nos Road",
+        "iso3166_2": "SD-KH",
+        "lon": 32.490065,
+        "lat": 15.7425895,
+        "formatted": "منزل عبد الله الجكين, Al-Nos Road, Omdurman, Sudan",
+        "address_line1": "منزل عبد الله الجكين",
+        "address_line2": "Al-Nos Road, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل عبد الله الجكين",
+            "osm_id": 8567676019,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5106f52d73ba3e40405901a9e1b0347c2f40f00103f901735cacfe01000000920325d985d986d8b2d98420d8b9d8a8d8af20d8a7d984d984d98720d8a7d984d8acd983d98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.490065,
+          15.742589499994667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الواحه امدرمان شارع الابراج",
+        "country": "Sudan",
+        "country_code": "sd",
+        "state": "Khartoum State",
+        "city": "Omdurman",
+        "street": "شارع الأبراج",
+        "iso3166_2": "SD-KH",
+        "lon": 32.5135654,
+        "lat": 15.6967451,
+        "formatted": "الواحه امدرمان شارع الابراج, شارع الأبراج, Omdurman, Sudan",
+        "address_line1": "الواحه امدرمان شارع الابراج",
+        "address_line2": "شارع الأبراج, Omdurman, Sudan",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الواحه امدرمان شارع الابراج",
+            "osm_id": 8646613917,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "شارع الأبراج"
+          }
+        },
+        "place_id": "51b7add282bc414040596a3414c6bb642f40f00103f9019ddb600302000000920333d8a7d984d988d8a7d8add98720d8a7d985d8afd8b1d985d8a7d98620d8b4d8a7d8b1d8b920d8a7d984d8a7d8a8d8b1d8a7d8ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5135654,
+          15.696745099989318
+        ]
+      }
+    }
+  ]
+}

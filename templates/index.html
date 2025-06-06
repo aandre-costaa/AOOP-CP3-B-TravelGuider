@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Guider</title>
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="../static/css/styles.css" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="../static/images/map-location-dot-solid.svg">
+</head>
+<body>
+    <div id="loading" style="display:none;">
+      <i class="fas fa-spinner fa-spin"></i> Loading…
+    </div>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1><i class="fas fa-map-marked-alt"></i> Travel Assistant</h1>
+            <p>Ask me anything about places to visit, travel tips, and destinations!</p>
+        </div>
+
+        <div id="chat-box">
+            <div class="welcome-message">
+                <i class="fas fa-compass"></i>
+                <h3>Welcome to your Travel Assistant!</h3>
+                <p>Start by asking about destinations, travel tips, or any travel-related questions.</p>
+            </div>
+        </div>
+
+        <div class="chat-input-container">
+            <form class="chat-form" hx-post="/chat" hx-target="#chat-box" hx-swap="beforeend" hx-indicator="#loading">
+                <input
+                    name="message"
+                    class="message-input"
+                    placeholder="Ask about destinations, tips or planning..."
+                    required
+                    autocomplete="off"
+                />
+                <button type="submit" class="send-button">
+                    <i class="fas fa-paper-plane"></i>
+                    <span class="text">Send</span>
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Auto-scroll to bottom when new messages arrive
+        document.body.addEventListener('htmx:afterRequest', function(event) {
+            const chatBox = document.getElementById('chat-box');
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            // Clear input after sending
+            const input = document.querySelector('.message-input');
+            if (input) input.value = '';
+        });
+
+        // Focus input on page load
+        window.addEventListener('load', function() {
+            document.querySelector('.message-input').focus();
+        });
+
+        // Submit form on Enter key
+        document.querySelector('.message-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                this.closest('form').dispatchEvent(new Event('submit', { bubbles: true }));
+            }
+        });
+    </script>
+    <script src="../static/js/scripts.js"></script>
+</body>
+</html>

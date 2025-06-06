@@ -1,0 +1,4784 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oman Automobile Association Karting Track",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "321",
+        "street": "99 Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3200691,
+        "lat": 23.5832179,
+        "formatted": "Oman Automobile Association Karting Track, 99 Street, 321, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Oman Automobile Association Karting Track",
+        "address_line2": "99 Street, 321, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Oman Automobile Association Karting Track",
+            "phone": "+96824510239",
+            "osm_id": 4412336889,
+            "name:ar": "Oman Automobile Association Karting Track",
+            "name:nl": "Oman Automobile Association Karting Track",
+            "tourism": "attraction",
+            "website": "http://www.omanauto.org",
+            "osm_type": "n"
+          }
+        },
+        "website": "http://www.omanauto.org",
+        "name_international": {
+          "ar": "Oman Automobile Association Karting Track",
+          "nl": "Oman Automobile Association Karting Track"
+        },
+        "contact": {
+          "phone": "+96824510239"
+        },
+        "place_id": "51e77a3606f8284d4059ef79b0c44d953740f00103f901f9eafe06010000009203294f6d616e204175746f6d6f62696c65204173736f63696174696f6e204b617274696e6720547261636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.320069100000005,
+          23.58321790035728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OCEC",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "130",
+        "street": "Airport Access Road",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3275529,
+        "lat": 23.5698882,
+        "formatted": "Oman Convention and Exhibition Center, Airport Access Road, 130, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Oman Convention and Exhibition Center",
+        "address_line2": "Airport Access Road, 130, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "OCEC",
+            "osm_id": 4661972210,
+            "name:en": "Oman Convention and Exhibition Center",
+            "tourism": "attraction",
+            "website": "http://omanconvention.com",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 09:00-20:00"
+          }
+        },
+        "website": "http://omanconvention.com",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "name_international": {
+          "en": "Oman Convention and Exhibition Center"
+        },
+        "place_id": "51e19ae040ed294d4059f2e96e31e4913740f00103f901f20ce015010000009203044f434543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.32755290000001,
+          23.569888200357987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amouage Perfumes Visitor Centre",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Mawalih",
+        "postcode": "124",
+        "street": "Nizwa Road",
+        "iso3166_2": "OM-MA",
+        "lon": 58.2378791,
+        "lat": 23.5911163,
+        "formatted": "Amouage Perfumes Visitor Centre, Nizwa Road, 124, Mawalih, Muscat Governorate, Oman",
+        "address_line1": "Amouage Perfumes Visitor Centre",
+        "address_line2": "Nizwa Road, 124, Mawalih, Muscat Governorate, Oman",
+        "categories": [
+          "commercial",
+          "commercial.health_and_beauty",
+          "commercial.health_and_beauty.cosmetics",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Amouage Perfumes Visitor Centre",
+            "shop": "perfumery",
+            "phone": "+968 24 53 4800",
+            "osm_id": 5198504095,
+            "name:ar": "مصنع أمواج للعطور",
+            "tourism": "attraction",
+            "website": "https://www.amouage.com/visitors-centre",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.amouage.com/visitors-centre",
+        "name_international": {
+          "ar": "مصنع أمواج للعطور"
+        },
+        "contact": {
+          "phone": "+968 24 53 4800"
+        },
+        "commercial": {
+          "type": "perfumery"
+        },
+        "place_id": "51707385d2721e4d4059482ada6553973740f00103f9019fe0da350100000092031f416d6f756167652050657266756d65732056697369746f722043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.23787909999999,
+          23.591116300356845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nakhal Fort",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "الشعبية",
+        "street": "13",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.82882164732721,
+        "lat": 23.394660549999998,
+        "formatted": "Nakhal Fort, 13, الشعبية, Al Batinah South Governorate, Oman",
+        "address_line1": "Nakhal Fort",
+        "address_line2": "13, الشعبية, Al Batinah South Governorate, Oman",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nakhal Fort",
+            "osm_id": 128331592,
+            "tourism": "attraction",
+            "alt_name": "Nakkal Fort",
+            "building": "yes",
+            "historic": "castle",
+            "osm_type": "w",
+            "wikidata": "Q7917433",
+            "wikipedia": "en:Nakhal Fort",
+            "wikimedia_commons": "Category:Nakhal Fort"
+          }
+        },
+        "name_other": {
+          "alt_name": "Nakkal Fort"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7917433",
+          "wikipedia": "en:Nakhal Fort",
+          "wikimedia_commons": "Category:Nakhal Fort"
+        },
+        "historic": {
+          "type": "castle"
+        },
+        "place_id": "515ebee6d316ea4c4059e0d84c7908653740f00102f901482fa6070000000092030b4e616b68616c20466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.82882164732722,
+          23.394660550366893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barka Fort",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Barka",
+        "postcode": "320",
+        "street": "13",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.89508342105182,
+        "lat": 23.7086035,
+        "formatted": "Barka Fort, 13, 320, Barka, Al Batinah South Governorate, Oman",
+        "address_line1": "Barka Fort",
+        "address_line2": "13, 320, Barka, Al Batinah South Governorate, Oman",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Barka Fort",
+            "osm_id": 181915068,
+            "name:ar": "حصن بركاء",
+            "name:ml": "ബർക്ക കോട്ട",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "castle",
+            "osm_type": "w",
+            "wikidata": "Q10283777"
+          }
+        },
+        "name_international": {
+          "ar": "حصن بركاء",
+          "ml": "ബർക്ക കോട്ട"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q10283777"
+        },
+        "historic": {
+          "type": "castle"
+        },
+        "place_id": "51ff4df21792f24c405904d6fb0967b53740f00102f901bccdd70a0000000092030a4261726b6120466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.895083421051815,
+          23.708603500350378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bimmah Sink Hole",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "iso3166_2": "OM-MA",
+        "lon": 59.0719333,
+        "lat": 23.0358356,
+        "formatted": "Bimmah Sink Hole, Muscat Governorate, Oman",
+        "address_line1": "Bimmah Sink Hole",
+        "address_line2": "Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bimmah Sink Hole",
+            "osm_id": 1278042490,
+            "natural": "sinkhole",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "wikidata": "Q20190533",
+            "wikipedia": "en:Bimmah_Sinkhole",
+            "wikimedia_commons": "File:Sink_hole.jpg"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q20190533",
+          "wikipedia": "en:Bimmah_Sinkhole",
+          "wikimedia_commons": "File:Sink_hole.jpg"
+        },
+        "place_id": "51257f411c35894d40590aad9b852c093740f00103f9017a612d4c0000000092031042696d6d61682053696e6b20486f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.07193329999999,
+          23.035835600382633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "twenty3 extreme",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "100",
+        "street": "Street 3305",
+        "iso3166_2": "OM-MA",
+        "lon": 58.4480295,
+        "lat": 23.5938294,
+        "formatted": "twenty3 extreme, Street 3305, 100, Muscat, Muscat Governorate, Oman",
+        "address_line1": "twenty3 extreme",
+        "address_line2": "Street 3305, 100, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "email": "hello@twenty3extreme.com",
+            "phone": "+96890689823",
+            "osm_id": 4420308194,
+            "name:en": "twenty3 extreme",
+            "tourism": "attraction",
+            "website": "http://www.twenty3extreme.com",
+            "osm_type": "n",
+            "opening_hours": "Su-Th 09:00-17:00"
+          }
+        },
+        "website": "http://www.twenty3extreme.com",
+        "opening_hours": "Su-Th 09:00-17:00",
+        "name_international": {
+          "en": "twenty3 extreme"
+        },
+        "contact": {
+          "phone": "+96890689823",
+          "email": "hello@twenty3extreme.com"
+        },
+        "place_id": "515512d90759394d405973ef1d3405983740f00103f901e28c780701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4480295,
+          23.593829400356707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "twenty3 extreme",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "282",
+        "street": "Way 531",
+        "iso3166_2": "OM-MA",
+        "lon": 58.4989802,
+        "lat": 23.6047521,
+        "formatted": "twenty3 extreme, Way 531, 282, Muscat, Muscat Governorate, Oman",
+        "address_line1": "twenty3 extreme",
+        "address_line2": "Way 531, 282, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "email": "hello@twenty3extreme.com",
+            "phone": "+96890689823",
+            "osm_id": 5267763121,
+            "name:en": "twenty3 extreme",
+            "tourism": "attraction",
+            "website": "http://www.twenty3extreme.com",
+            "osm_type": "n",
+            "opening_hours": "Su-Th 09:00-17:00"
+          }
+        },
+        "website": "http://www.twenty3extreme.com",
+        "opening_hours": "Su-Th 09:00-17:00",
+        "name_international": {
+          "en": "twenty3 extreme"
+        },
+        "contact": {
+          "phone": "+96890689823",
+          "email": "hello@twenty3extreme.com"
+        },
+        "place_id": "51ff2c4c95de3f4d405981379d08d19a3740f00103f901b1affb3901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4989802,
+          23.604752100356112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Village",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Hail North",
+        "postcode": "000",
+        "street": "Dama Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.2440027,
+        "lat": 23.6398886,
+        "formatted": "The Village, Dama Street, 000, Al Hail North, Muscat Governorate, Oman",
+        "address_line1": "The Village",
+        "address_line2": "Dama Street, 000, Al Hail North, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Village",
+            "osm_id": 11738972188,
+            "tourism": "attraction",
+            "website": "https://www.thevillageom.com/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.thevillageom.com/",
+        "place_id": "515e51007b3b1f4d4059c39a43bdcfa33740f00103f9011c80b2bb0200000092030b5468652056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.244002699999996,
+          23.639888600354208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "117",
+        "street": "Mutrah Souq",
+        "iso3166_2": "OM-MA",
+        "lon": 58.563861959569024,
+        "lat": 23.61929265,
+        "formatted": "Mutrah Souq, 117, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Mutrah Souq",
+        "address_line2": "117, Muscat, Muscat Governorate, Oman",
+        "name": "Mutrah Souq",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mutrah Souq",
+            "osm_id": 35683630,
+            "landuse": "retail",
+            "name:fr": "Souk de Matrah",
+            "name:ko": "무트라 수크",
+            "tourism": "attraction",
+            "int_name": "Mutrah Souq",
+            "osm_type": "w",
+            "wheelchair": "limited",
+            "toilets:wheelchair": "no",
+            "wheelchair:description": "Souq ebenerdig (mit Schlaglöchern). Geschäfte nicht barrierefrei"
+          }
+        },
+        "name_international": {
+          "fr": "Souk de Matrah",
+          "ko": "무트라 수크"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited",
+            "description": "Souq ebenerdig (mit Schlaglöchern). Geschäfte nicht barrierefrei"
+          },
+          "toilets": false
+        },
+        "place_id": "515ae7f1a02c484d4059e9ed8ff6899e3740f00102f9012e7d20020000000092030b4d757472616820536f7571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.563861959569024,
+          23.619292650355337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Maladda Fort",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah North Governorate",
+        "city": "Ath Tharmad",
+        "postcode": "314",
+        "street": "1",
+        "iso3166_2": "OM-BS",
+        "lon": 57.569926607785604,
+        "lat": 23.7503448,
+        "formatted": "Al Maladda Fort, 1, 314, Ath Tharmad, Al Batinah North Governorate, Oman",
+        "address_line1": "Al Maladda Fort",
+        "address_line2": "1, 314, Ath Tharmad, Al Batinah North Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al Maladda Fort",
+            "osm_id": 288286155,
+            "tourism": "attraction",
+            "historic": "castle",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "castle"
+        },
+        "place_id": "5199c7e65af3c84c4059de37ca9816c03740f00102f901cbe52e110000000092030f416c204d616c6164646120466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5699266077856,
+          23.750344800347982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neolithisches Grabfeld",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "city": "Muqayhfah",
+        "street": "Al Sharqiyah Expressway",
+        "iso3166_2": "OM-DA",
+        "lon": 58.2658762,
+        "lat": 22.9819976,
+        "formatted": "Neolithisches Grabfeld, Al Sharqiyah Expressway, Muqayhfah, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "Neolithisches Grabfeld",
+        "address_line2": "Al Sharqiyah Expressway, Muqayhfah, Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.archaeological_site"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Neolithisches Grabfeld",
+            "osm_id": 358452993,
+            "tourism": "attraction",
+            "historic": "archaeological_site",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "archaeological_site"
+        },
+        "place_id": "5173e4373b08224d40591b67da3164fb3640f00103f901018f5d15000000009203164e656f6c697468697363686573204772616266656c64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2658762,
+          22.981997600384698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "street": "Al Bustan Roundabout",
+        "iso3166_2": "OM-MA",
+        "lon": 58.6081181,
+        "lat": 23.5674955,
+        "formatted": "دوار البستان, Al Bustan Roundabout, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "دوار البستان",
+        "address_line2": "Al Bustan Roundabout, 940, Muscat, Muscat Governorate, Oman",
+        "name": "دوار البستان",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دوار البستان",
+            "osm_id": 914401588,
+            "name:ar": "دوار البستان",
+            "name:en": "Al Bustan Roundabout",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Dhow in middle of roundabout"
+          }
+        },
+        "description": "Dhow in middle of roundabout",
+        "name_international": {
+          "ar": "دوار البستان",
+          "en": "Al Bustan Roundabout"
+        },
+        "place_id": "5187cd5bd0d64d4d40594daa966247913740f00103f90134a9803600000000920317d8afd988d8a7d8b120d8a7d984d8a8d8b3d8aad8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.608118100000006,
+          23.56749550035811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الصلمة / الحاجر",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ash Sharqiyah North Governorate",
+        "city": "Al Qaryah",
+        "street": "25",
+        "iso3166_2": "OM-SS",
+        "lon": 58.45092153099976,
+        "lat": 22.97429785,
+        "formatted": "Assalmah, Al-Hajer, 25, Al Qaryah, Ash Sharqiyah North Governorate, Oman",
+        "address_line1": "Assalmah, Al-Hajer",
+        "address_line2": "25, Al Qaryah, Ash Sharqiyah North Governorate, Oman",
+        "categories": [
+          "sport",
+          "sport.pitch",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الصلمة / الحاجر",
+            "sport": "soccer",
+            "osm_id": 1290251874,
+            "leisure": "pitch",
+            "name:en": "Assalmah, Al-Hajer",
+            "surface": "paved",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Assalmah, Al-Hajer"
+        },
+        "place_id": "51655af6cbb7394d405976f77b956bf93640f00102f90162aee74c0000000092031bd8a7d984d8b5d984d985d8a9202f20d8a7d984d8add8a7d8acd8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.45092153099976,
+          22.974297850384993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دوار برج الصحوة",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "street": "Burj As Sahwah Roundabout",
+        "iso3166_2": "OM-MA",
+        "lon": 58.251849,
+        "lat": 23.5869895,
+        "formatted": "Al Sahwa Tower Roundabout, Burj As Sahwah Roundabout, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Al Sahwa Tower Roundabout",
+        "address_line2": "Burj As Sahwah Roundabout, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دوار برج الصحوة",
+            "osm_id": 1435349632,
+            "name:en": "Al Sahwa Tower Roundabout",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Al Sahwa Tower Roundabout"
+        },
+        "place_id": "51e14389963c204d40590721a3f144963740f00103f90180b28d550000000092031cd8afd988d8a7d8b120d8a8d8b1d8ac20d8a7d984d8b5d8add988d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.251849,
+          23.586989500357074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadi Dayqah Dam Overlook",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "iso3166_2": "OM-MA",
+        "lon": 58.8445793,
+        "lat": 23.0898726,
+        "formatted": "Wadi Dayqah Dam Overlook, Muscat Governorate, Oman",
+        "address_line1": "Wadi Dayqah Dam Overlook",
+        "address_line2": "Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wadi Dayqah Dam Overlook",
+            "osm_id": 1768652559,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517530ac2c1b6c4d4059d07007e401173740f00103f9010f7f6b690000000092031857616469204461797161682044616d204f7665726c6f6f6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8445793,
+          23.089872600380488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bullfighting Arena",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Hifri al Batha",
+        "postcode": "320",
+        "street": "Batinah Coastal road",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8576636,
+        "lat": 23.7133552,
+        "formatted": "Bullfighting Arena, Batinah Coastal road, 320, Hifri al Batha, Al Batinah South Governorate, Oman",
+        "address_line1": "Bullfighting Arena",
+        "address_line2": "Batinah Coastal road, 320, Hifri al Batha, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bullfighting Arena",
+            "osm_id": 1928185450,
+            "name:ar": "حلبة مصارعة الثيران",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "حلبة مصارعة الثيران"
+        },
+        "place_id": "511c7cbcebc7ed4c40596cef47729eb63740f00103f9016ac6ed720000000092031242756c6c6669676874696e67204172656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.857663599999995,
+          23.713355200350108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "An Na'man Castle",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Barka",
+        "postcode": "320",
+        "street": "1",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8479024,
+        "lat": 23.697116,
+        "formatted": "An Na'man Castle, 1, 320, Barka, Al Batinah South Governorate, Oman",
+        "address_line1": "An Na'man Castle",
+        "address_line2": "1, 320, Barka, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "An Na'man Castle",
+            "osm_id": 1928185453,
+            "name:ar": "بيت النعمان",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "بيت النعمان"
+        },
+        "place_id": "519719db1088ec4c4059a706b73176b23740f00103f9016dc6ed7200000000920310416e204e61276d616e20436173746c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.8479024,
+          23.697116000351027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bab al-Kabir",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "suburb": "Old Muscat",
+        "street": "Qasr al Alam Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5910656,
+        "lat": 23.6151316,
+        "formatted": "al-Kabir Gate, Qasr al Alam Street, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "al-Kabir Gate",
+        "address_line2": "Qasr al Alam Street, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bab al-Kabir",
+            "osm_id": 2102288075,
+            "name:en": "al-Kabir Gate",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "al-Kabir Gate"
+        },
+        "place_id": "5134e59e09a84b4d40596343ba43799d3740f00103f901cb5e4e7d0000000092030c42616220616c2d4b61626972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.59106560000001,
+          23.61513160035555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadi Taww",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Al Ajal",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.9716037,
+        "lat": 23.4931304,
+        "formatted": "Wadi Taww, Al Ajal, Al Batinah South Governorate, Oman",
+        "address_line1": "Wadi Taww",
+        "address_line2": "Al Ajal, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wadi Taww",
+            "osm_id": 3438460872,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51191692825dfc4c4059d7373ecb3d7e3740f00103f901c8bff2cc00000000920309576164692054617777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.97160370000001,
+          23.493130400361988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Riyam",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "117",
+        "street": "Sultan Bin Ahmed Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5773201,
+        "lat": 23.6214213,
+        "formatted": "Al Riyam, Sultan Bin Ahmed Street, 117, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Al Riyam",
+        "address_line2": "Sultan Bin Ahmed Street, 117, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al Riyam",
+            "osm_id": 4111923698,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Muscat"
+          }
+        },
+        "place_id": "51666902a0e5494d405941106277159f3740f00103f901f2f916f500000000920308416c20526979616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.577320099999994,
+          23.621421300355227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muscat Hills Golf Club House",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "street": "Way 106",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3071397,
+        "lat": 23.5671758,
+        "formatted": "Muscat Hills Golf Club House, Way 106, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Muscat Hills Golf Club House",
+        "address_line2": "Way 106, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Muscat Hills Golf Club House",
+            "osm_id": 4111923890,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d0668b5a50274d4059ea9ee96e32913740f00103f901b2fa16f50000000092031c4d75736361742048696c6c7320476f6c6620436c756220486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.30713969999999,
+          23.56717580035812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suad",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Mabelah",
+        "postcode": "121",
+        "street": "شارع الخير",
+        "iso3166_2": "OM-MA",
+        "lon": 58.1161177,
+        "lat": 23.6502676,
+        "formatted": "Suad, شارع الخير, 121, Al Mabelah, Muscat Governorate, Oman",
+        "address_line1": "Suad",
+        "address_line2": "شارع الخير, 121, Al Mabelah, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Suad",
+            "osm_id": 4123304593,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514dfeddf1dc0e4d4059d02afdef77a63740f00103f90191a2c4f50000000092030453756164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1161177,
+          23.65026760035363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirrors L.L.C",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "321",
+        "street": "Way 4864",
+        "iso3166_2": "OM-MA",
+        "lon": 58.365916,
+        "lat": 23.598329,
+        "formatted": "Mirrors L.L.C, Way 4864, 321, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Mirrors L.L.C",
+        "address_line2": "Way 4864, 321, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirrors L.L.C",
+            "osm_id": 4148596989,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a58ae255d62e4d405983c7e0162c993740f00103f901fd9046f70000000092030d4d6972726f7273204c2e4c2e43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.365916000000006,
+          23.598329000356454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asaha Engineering",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "600",
+        "street": "18 November Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3786692,
+        "lat": 23.5998728,
+        "formatted": "Asaha Engineering, 18 November Street, 600, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Asaha Engineering",
+        "address_line2": "18 November Street, 600, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Asaha Engineering",
+            "osm_id": 4154777498,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5151007b3b78304d4059644a8b4391993740f00103f9019adfa4f700000000920311417361686120456e67696e656572696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3786692,
+          23.59987280035638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بيتنا مسقط",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "117",
+        "street": "1",
+        "iso3166_2": "OM-MA",
+        "lon": 58.541009,
+        "lat": 23.5883943,
+        "formatted": "بيتنا مسقط, 1, 117, Muscat, Muscat Governorate, Oman",
+        "address_line1": "بيتنا مسقط",
+        "address_line2": "1, 117, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بيتنا مسقط",
+            "osm_id": 4226589895,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bbeb6cc83f454d4059a52f4502a1963740f00103f901c7a4ecfb00000000920313d8a8d98ad8aad986d8a720d985d8b3d982d8b7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.541008999999995,
+          23.588394300357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "طهير جلال الدين",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "suburb": "Old Muscat",
+        "street": "Street 86",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5884987,
+        "lat": 23.6112359,
+        "formatted": "طهير جلال الدين, Street 86, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "طهير جلال الدين",
+        "address_line2": "Street 86, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "طهير جلال الدين",
+            "osm_id": 4234086492,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51891ee7ec534b4d40594f2bbaf4799c3740f00103f9015c085ffc0000000092031cd8b7d987d98ad8b120d8acd984d8a7d98420d8a7d984d8afd98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.58849870000001,
+          23.611235900355776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durai Room in Al Khuwair",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "118",
+        "suburb": "Al Khuwair",
+        "street": "Way 4143",
+        "iso3166_2": "OM-MA",
+        "lon": 58.425287,
+        "lat": 23.5878105,
+        "formatted": "Durai Room in Al Khuwair, Way 4143, 118, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Durai Room in Al Khuwair",
+        "address_line2": "Way 4143, 118, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Durai Room in Al Khuwair",
+            "osm_id": 4238693989,
+            "name:ko": "두라이 룸 인 알 쿠웨이르",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ko": "두라이 룸 인 알 쿠웨이르"
+        },
+        "place_id": "51fa34eecd6f364d40596147bbbf7a963740f00103f9016556a5fc00000000920318447572616920526f6f6d20696e20416c204b687577616972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.42528699999998,
+          23.587810500357026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "المريغة",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "الشعبية",
+        "street": "13",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8121685,
+        "lat": 23.4360989,
+        "formatted": "المريغة, 13, الشعبية, Al Batinah South Governorate, Oman",
+        "address_line1": "المريغة",
+        "address_line2": "13, الشعبية, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "المريغة",
+            "osm_id": 4252600789,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b32b2d23f5e74c40597be3722da46f3740f00103f901d58979fd0000000092030ed8a7d984d985d8b1d98ad8bad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.812168500000006,
+          23.43609890036485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مكاني المخصص",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "115",
+        "suburb": "Al Khuwair",
+        "street": "Way 3534",
+        "iso3166_2": "OM-MA",
+        "lon": 58.416658,
+        "lat": 23.5956508,
+        "formatted": "مكاني المخصص, Way 3534, 115, Muscat, Muscat Governorate, Oman",
+        "address_line1": "مكاني المخصص",
+        "address_line2": "Way 3534, 115, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مكاني المخصص",
+            "osm_id": 4257027595,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f0cea10c55354d40592c5e23927c983740f00103f9010b16bdfd00000000920317d985d983d8a7d986d98a20d8a7d984d985d8aed8b5d8b5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.416657999999984,
+          23.59565080035661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalamandalam",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "102",
+        "street": "Way 4293",
+        "iso3166_2": "OM-MA",
+        "lon": 58.395382,
+        "lat": 23.585384,
+        "formatted": "Kalamandalam, Way 4293, 102, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Kalamandalam",
+        "address_line2": "Way 4293, 102, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kalamandalam",
+            "osm_id": 4269900489,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a9b69be09b324d4059bb22d1b9db953740f00103f901c98281fe0000000092030c4b616c616d616e64616c616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.39538199999999,
+          23.585384000357163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoko Sizzlers Gallery Muscat",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "136",
+        "suburb": "Al Khuwair",
+        "street": "Way 2748",
+        "iso3166_2": "OM-MA",
+        "lon": 58.44639,
+        "lat": 23.58822,
+        "formatted": "Yoko Sizzlers Gallery Muscat, Way 2748, 136, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Yoko Sizzlers Gallery Muscat",
+        "address_line2": "Way 2748, 136, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Yoko Sizzlers Gallery Muscat",
+            "osm_id": 4318329391,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5176a1b94e23394d4059ee62009695963740f00103f9012f7a64010100000092031c596f6b6f2053697a7a6c6572732047616c6c657279204d7573636174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.446389999999994,
+          23.588220000357005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marina Bander Al Rowdha",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "street": "Al Saidiya Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.6063627,
+        "lat": 23.5820034,
+        "formatted": "Marina Bander Al Rowdha, Al Saidiya Street, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Marina Bander Al Rowdha",
+        "address_line2": "Al Saidiya Street, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Marina Bander Al Rowdha",
+            "osm_id": 4346802090,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d101ff4a9d4d4d405910b2c22cfe943740f00103f901aaef1603010000009203174d6172696e612042616e64657220416c20526f77646861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.606362699999984,
+          23.582003400357337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capital Area Yatch Club",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "street": "Al Saidiya Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.6042486,
+        "lat": 23.5863226,
+        "formatted": "Capital Area Yatch Club, Al Saidiya Street, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Capital Area Yatch Club",
+        "address_line2": "Al Saidiya Street, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Capital Area Yatch Club",
+            "osm_id": 4346806589,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51afd3a304584d4d40598070e93c19963740f00103f9013d011703010000009203174361706974616c204172656120596174636820436c7562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.6042486,
+          23.586322600357107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سهل",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "iso3166_2": "OM-DA",
+        "lon": 58.0062002,
+        "lat": 22.9286179,
+        "formatted": "سهل, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "سهل",
+        "address_line2": "Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سهل",
+            "osm_id": 4355467393,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51451d0c2bcb004d405915a418e7b9ed3640f00103f90181289b0301000000920306d8b3d987d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.0062002,
+          22.928617900386673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "جبل",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "iso3166_2": "OM-DA",
+        "lon": 58.0078183,
+        "lat": 22.9432999,
+        "formatted": "جبل, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "جبل",
+        "address_line2": "Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "جبل",
+            "osm_id": 4355525489,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b667a73000014d4059817a2e1a7cf13640f00103f901710b9c0301000000920306d8acd8a8d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.00781829999998,
+          22.94329990038614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horse Gate Wadi Kabir",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "street": "Al Bustan Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5818181,
+        "lat": 23.5634825,
+        "formatted": "Horse Gate Wadi Kabir, Al Bustan Street, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Horse Gate Wadi Kabir",
+        "address_line2": "Al Bustan Street, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Horse Gate Wadi Kabir",
+            "osm_id": 4381925327,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5144dcf703794a4d405945e89e6340903740f00103f901cfdf2e0501000000920315486f72736520476174652057616469204b61626972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.58181809999999,
+          23.563482500358322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء الصيد بولاية السيب",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Seeb",
+        "postcode": "310",
+        "street": "Dama Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.1766659,
+        "lat": 23.6898477,
+        "formatted": "ميناء الصيد بولاية السيب, Dama Street, 310, Seeb, Muscat Governorate, Oman",
+        "address_line1": "ميناء الصيد بولاية السيب",
+        "address_line2": "Dama Street, 310, Seeb, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ميناء الصيد بولاية السيب",
+            "osm_id": 4382850199,
+            "name:ar": "ميناء الصيد بولاية السيب",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "ميناء الصيد بولاية السيب"
+        },
+        "place_id": "51c268fbfc9c164d4059f23ae0db99b03740f00103f90197fc3c050100000092032dd985d98ad986d8a7d8a120d8a7d984d8b5d98ad8af20d8a8d988d984d8a7d98ad8a920d8a7d984d8b3d98ad8a8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1766659,
+          23.689847700351443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Jabal Al Akhtar Highest Peak 2090m",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "iso3166_2": "OM-DA",
+        "lon": 57.7279553,
+        "lat": 23.0528256,
+        "formatted": "Al Jabal Al Akhtar Highest Peak 2090m, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "Al Jabal Al Akhtar Highest Peak 2090m",
+        "address_line2": "Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al Jabal Al Akhtar Highest Peak 2090m",
+            "osm_id": 4397748693,
+            "name:ar": "Al Jabal Al Akhtar Highest Peak 2090m",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "Al Jabal Al Akhtar Highest Peak 2090m"
+        },
+        "place_id": "519539a7a32ddd4c40593b0882fa850d3740f00103f901d551200601000000920325416c204a6162616c20416c20416b687461722048696768657374205065616b20323039306d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.7279553,
+          23.052825600381976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oman Dive Center",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muttrah",
+        "street": "Al Jissah road",
+        "iso3166_2": "OM-MA",
+        "lon": 58.6485026,
+        "lat": 23.5449894,
+        "formatted": "Oman Dive Center, Al Jissah road, Muttrah, Muscat Governorate, Oman",
+        "address_line1": "Oman Dive Center",
+        "address_line2": "Al Jissah road, Muttrah, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Oman Dive Center",
+            "osm_id": 4412857189,
+            "name:ar": "مركز عمان للغوص",
+            "name:nl": "Oman Dive Center",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "check_date": "2024-05-06"
+          }
+        },
+        "name_international": {
+          "ar": "مركز عمان للغوص",
+          "nl": "Oman Dive Center"
+        },
+        "place_id": "517b2f192202534d4059b835e36c848b3740f00103f90165db0607010000009203104f6d616e20446976652043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.64850259999999,
+          23.5449894003593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bait Al-Maqham",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "112",
+        "street": "Way 6707",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3911471,
+        "lat": 23.5344418,
+        "formatted": "Bait Al-Maqham, Way 6707, 112, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Bait Al-Maqham",
+        "address_line2": "Way 6707, 112, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bait Al-Maqham",
+            "osm_id": 4461308982,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516e36b11b11324d40593429862dd1883740f00103f901362cea090100000092030e4261697420416c2d4d617168616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3911471,
+          23.534441800359858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bait al Oud",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "suburb": "Old Muscat",
+        "street": "Taimur Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.589757,
+        "lat": 23.6145433,
+        "formatted": "Bait al Oud, Taimur Street, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Bait al Oud",
+        "address_line2": "Taimur Street, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bait al Oud",
+            "osm_id": 4464714640,
+            "name:ko": "바이트 알 우드",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ko": "바이트 알 우드"
+        },
+        "place_id": "5125cb49287d4b4d4059ce00b1b5529d3740f00103f90190231e0a0100000092030b4261697420616c204f7564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.589757,
+          23.614543300355585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bait al Dalaleel",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "suburb": "Old Muscat",
+        "street": "Way 8629",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5895793,
+        "lat": 23.6145768,
+        "formatted": "Bait al Dalaleel, Way 8629, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Bait al Dalaleel",
+        "address_line2": "Way 8629, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bait al Dalaleel",
+            "osm_id": 4464714642,
+            "name:ko": "바이트 알 달라릴",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ko": "바이트 알 달라릴"
+        },
+        "place_id": "5105f3a155774b4d40595868bae7549d3740f00103f90192231e0a010000009203104261697420616c2044616c616c65656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.589579300000004,
+          23.614576800355593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harat Asfalah",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Wadi Almaawil",
+        "street": "13",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8091554,
+        "lat": 23.4537661,
+        "formatted": "Harat Asfalah, 13, Wadi Almaawil, Al Batinah South Governorate, Oman",
+        "address_line1": "Harat Asfalah",
+        "address_line2": "13, Wadi Almaawil, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harat Asfalah",
+            "osm_id": 4466655586,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51df30766792e74c4059c418e1032a743740f00103f90162c13b0a0100000092030d486172617420417366616c6168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.8091554,
+          23.45376610036398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bait Al-Ghasham",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Wadi Almaawil",
+        "street": "13",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8079668,
+        "lat": 23.4572142,
+        "formatted": "Bait Al-Ghasham, 13, Wadi Almaawil, Al Batinah South Governorate, Oman",
+        "address_line1": "Bait Al-Ghasham",
+        "address_line2": "13, Wadi Almaawil, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bait Al-Ghasham",
+            "osm_id": 4466656306,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517b20c3746be74c40594cd465fd0b753740f00103f90132c43b0a0100000092030f4261697420416c2d4768617368616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.807966799999996,
+          23.457214200363794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tomb",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "city": "Khubar",
+        "postcode": "620",
+        "street": "المدرة-لزغ",
+        "iso3166_2": "OM-DA",
+        "lon": 57.9952564,
+        "lat": 23.3113677,
+        "formatted": "Tomb, المدرة-لزغ, 620, Khubar, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "Tomb",
+        "address_line2": "المدرة-لزغ, 620, Khubar, Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tomb",
+            "osm_id": 4475422509,
+            "name:ar": "Mazin bin Ghadooba Tomb",
+            "tourism": "attraction",
+            "cemetery": "grave",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "Mazin bin Ghadooba Tomb"
+        },
+        "place_id": "513e91cc8f64ff4c40599f1f2acbb54f3740f00103f9012d87c10a01000000920304546f6d62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.9952564,
+          23.311367700370848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castle",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "city": "حي وادي الضبعون",
+        "street": "Naiwa Road",
+        "iso3166_2": "OM-DA",
+        "lon": 58.1265815,
+        "lat": 23.4128881,
+        "formatted": "Castle, Naiwa Road, حي وادي الضبعون, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "Castle",
+        "address_line2": "Naiwa Road, حي وادي الضبعون, Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Castle",
+            "osm_id": 4475423917,
+            "name:ar": "حصن",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "حصن"
+        },
+        "place_id": "51ab6395d233104d4059c4fad708b3693740f00103f901ad8cc10a01000000920306436173746c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.12658150000001,
+          23.412888100366004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bait al Bagh",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "suburb": "Old Muscat",
+        "street": "Way 8629",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5895984,
+        "lat": 23.6141823,
+        "formatted": "Bait al Bagh, Way 8629, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Bait al Bagh",
+        "address_line2": "Way 8629, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bait al Bagh",
+            "osm_id": 4483330544,
+            "name:ko": "바이트 알 바그",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ko": "바이트 알 바그"
+        },
+        "place_id": "510ee3daf5774b4d405934cf1d0d3b9d3740f00103f901f0313a0b0100000092030c4261697420616c2042616768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.589598399999986,
+          23.61418230035561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bait al Nahdah",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "suburb": "Old Muscat",
+        "street": "Way 8629",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5896319,
+        "lat": 23.6138382,
+        "formatted": "Bait al Nahdah, Way 8629, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Bait al Nahdah",
+        "address_line2": "Way 8629, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bait al Nahdah",
+            "osm_id": 4483330545,
+            "name:ko": "바이트 알 나흐다",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ko": "바이트 알 나흐다"
+        },
+        "place_id": "51d596df0e794b4d40591b901380249d3740f00103f901f1313a0b0100000092030e4261697420616c204e6168646168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.58963190000001,
+          23.613838200355627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "سد وادي ضيقة",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "iso3166_2": "OM-MA",
+        "lon": 58.8484236,
+        "lat": 23.0847916,
+        "formatted": "سد وادي ضيقة, Muscat Governorate, Oman",
+        "address_line1": "سد وادي ضيقة",
+        "address_line2": "Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "سد وادي ضيقة",
+            "osm_id": 4511505091,
+            "name:ar": "سد وادي ضيقة",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "سد وادي ضيقة"
+        },
+        "place_id": "51ca93ff24996c4d40594e9cfee6b4153740f00103f901c31ae80c01000000920316d8b3d8af20d988d8a7d8afd98a20d8b6d98ad982d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.848423600000004,
+          23.08479160038069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الواحة مول",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "100",
+        "suburb": "Al Khuwair",
+        "street": "Madinat Al Sultan Qaboos Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.447191,
+        "lat": 23.5965443,
+        "formatted": "Oasis Mall, Madinat Al Sultan Qaboos Street, 100, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Oasis Mall",
+        "address_line2": "Madinat Al Sultan Qaboos Street, 100, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الواحة مول",
+            "osm_id": 4544187390,
+            "name:ar": "الواحة مول",
+            "name:en": "Oasis Mall",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الواحة مول",
+          "en": "Oasis Mall"
+        },
+        "place_id": "516208008e3d394d405987a59420b7983740f00103f901fecbda0e01000000920313d8a7d984d988d8a7d8add8a920d985d988d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.44719099999999,
+          23.596544300356552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Architectural Wall Systems",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "600",
+        "street": "Way 4618",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3776125,
+        "lat": 23.6013023,
+        "formatted": "Architectural Wall Systems, Way 4618, 600, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Architectural Wall Systems",
+        "address_line2": "Way 4618, 600, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Architectural Wall Systems",
+            "osm_id": 4631740192,
+            "name:ar": "Architectural Wall Systems",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "Architectural Wall Systems"
+        },
+        "place_id": "51c7073d9b55304d4059340a93f2ee993740f00103f90120bf12140100000092031a4172636869746563747572616c2057616c6c2053797374656d73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.37761249999999,
+          23.601302300356295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الخطوط الجوية السريلانكية",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "117",
+        "street": "Way 3106",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5417716,
+        "lat": 23.5953401,
+        "formatted": "الخطوط الجوية السريلانكية, Way 3106, 117, Muscat, Muscat Governorate, Oman",
+        "address_line1": "الخطوط الجوية السريلانكية",
+        "address_line2": "Way 3106, 117, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الخطوط الجوية السريلانكية",
+            "osm_id": 4686265118,
+            "name:ar": "الخطوط الجوية السريلانكية",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الخطوط الجوية السريلانكية"
+        },
+        "place_id": "5166f393c558454d40596f07753568983740f00103f9011ebb521701000000920330d8a7d984d8aed8b7d988d8b720d8a7d984d8acd988d98ad8a920d8a7d984d8b3d8b1d98ad984d8a7d986d983d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.54177159999999,
+          23.59534010035662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الهيئة العامة لسجل القوى العاملة",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "130",
+        "street": "Sultan Qaboos Highway",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3665331,
+        "lat": 23.588992,
+        "formatted": "الهيئة العامة لسجل القوى العاملة, Sultan Qaboos Highway, 130, Muscat, Muscat Governorate, Oman",
+        "address_line1": "الهيئة العامة لسجل القوى العاملة",
+        "address_line2": "Sultan Qaboos Highway, 130, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الهيئة العامة لسجل القوى العاملة",
+            "osm_id": 4689986894,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5164b37e8eea2e4d40598723032ec8963740f00103f9014e858b170100000092033cd8a7d984d987d98ad8a6d8a920d8a7d984d8b9d8a7d985d8a920d984d8b3d8acd98420d8a7d984d982d988d98920d8a7d984d8b9d8a7d985d984d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3665331,
+          23.588992000356964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل رشاد الهلالي المعبيلة",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Mabelah",
+        "postcode": "121",
+        "suburb": "Al Mabelah 6",
+        "street": "Al Nozha Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.1344298,
+        "lat": 23.6143037,
+        "formatted": "منزل رشاد الهلالي المعبيلة, Al Nozha Street, 121, Al Mabelah, Muscat Governorate, Oman",
+        "address_line1": "منزل رشاد الهلالي المعبيلة",
+        "address_line2": "Al Nozha Street, 121, Al Mabelah, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل رشاد الهلالي المعبيلة",
+            "osm_id": 4691090119,
+            "name:ar": "منزل رشاد الهلالي المعبيلة",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منزل رشاد الهلالي المعبيلة"
+        },
+        "place_id": "51cd4de5fe34114d4059d1d6de01439d3740f00103f901c75a9c1701000000920331d985d986d8b2d98420d8b1d8b4d8a7d8af20d8a7d984d987d984d8a7d984d98a20d8a7d984d985d8b9d8a8d98ad984d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1344298,
+          23.61430370035561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "متنزه القرم الطبيعي",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "282",
+        "street": "Al Qurm Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.492265,
+        "lat": 23.6217483,
+        "formatted": "Al Qurm natural Park, Al Qurm Street, 282, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Al Qurm natural Park",
+        "address_line2": "Al Qurm Street, 282, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "متنزه القرم الطبيعي",
+            "osm_id": 4709850091,
+            "name:ar": "حديقة القرم الطبيعية",
+            "name:en": "Al Qurm natural Park",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "حديقة القرم الطبيعية",
+          "en": "Al Qurm natural Park"
+        },
+        "place_id": "5194fb1d8a023f4d4059815e88e52a9f3740f00103f901eb9bba1801000000920324d985d8aad986d8b2d98720d8a7d984d982d8b1d98520d8a7d984d8b7d8a8d98ad8b9d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.492265,
+          23.621748300355197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadi Al Arbeieen",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "iso3166_2": "OM-MA",
+        "lon": 59.016566,
+        "lat": 23.0360845,
+        "formatted": "Wadi Al Arbeieen, Muscat Governorate, Oman",
+        "address_line1": "Wadi Al Arbeieen",
+        "address_line2": "Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wadi Al Arbeieen",
+            "osm_id": 4754484941,
+            "name:ar": "وادي الـعـربـيـيـن",
+            "natural": "oasis",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "وادي الـعـربـيـيـن"
+        },
+        "place_id": "51df1caed51e824d40592f0975d53c093740f00103f901cdae631b010000009203105761646920416c20417262656965656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.016566000000005,
+          23.036084500382625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al thabat holding",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "100",
+        "street": "Way 1753",
+        "iso3166_2": "OM-MA",
+        "lon": 58.4625323,
+        "lat": 23.6057578,
+        "formatted": "Al thabat holding, Way 1753, 100, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Al thabat holding",
+        "address_line2": "Way 1753, 100, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al thabat holding",
+            "osm_id": 4761491621,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fceb2642343b4d405981d375f1129b3740f00103f901a598ce1b01000000920311416c2074686162617420686f6c64696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.46253229999999,
+          23.605757800356063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FOS",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "130",
+        "street": "Al Jami Al Akbar Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3682788,
+        "lat": 23.5832938,
+        "formatted": "FOS, Al Jami Al Akbar Street, 130, Muscat, Muscat Governorate, Oman",
+        "address_line1": "FOS",
+        "address_line2": "Al Jami Al Akbar Street, 130, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "FOS",
+            "osm_id": 4763796521,
+            "name:ar": "FOS",
+            "name:en": "FOS",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "FOS",
+          "en": "FOS"
+        },
+        "place_id": "51b2e77cc2232f4d40597a7e14be52953740f00103f90129c4f11b01000000920303464f53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.3682788,
+          23.583293800357275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zam Zam Market",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Hail North",
+        "postcode": "000",
+        "street": "Al Hail Al Shumaliyya street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.2344486,
+        "lat": 23.6294546,
+        "formatted": "Zam Zam Market, Al Hail Al Shumaliyya street, 000, Al Hail North, Muscat Governorate, Oman",
+        "address_line1": "Zam Zam Market",
+        "address_line2": "Al Hail Al Shumaliyya street, 000, Al Hail North, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zam Zam Market",
+            "osm_id": 4763796721,
+            "name:ar": "زمزم هايبر ماركت",
+            "name:en": "Zam Zam Market",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "زمزم هايبر ماركت",
+          "en": "Zam Zam Market"
+        },
+        "place_id": "51e6cb6669021e4d40592dd7caef23a13740f00103f901f1c4f11b0100000092030e5a616d205a616d204d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.23444859999999,
+          23.62945460035478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "136",
+        "street": "Way 7118",
+        "iso3166_2": "OM-MA",
+        "lon": 58.4260767,
+        "lat": 23.5669306,
+        "formatted": "منزل, Way 7118, 136, Muscat, Muscat Governorate, Oman",
+        "address_line1": "منزل",
+        "address_line2": "Way 7118, 136, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل",
+            "osm_id": 4853579422,
+            "name:ar": "منزل",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منزل"
+        },
+        "place_id": "51380b6aae89364d4059cda3235d22913740f00103f9019ebe4b2101000000920308d985d986d8b2d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.42607670000001,
+          23.566930600358138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "المنطقة الشعبية - بوشر",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "136",
+        "street": "Way 7120",
+        "iso3166_2": "OM-MA",
+        "lon": 58.4242858,
+        "lat": 23.5665399,
+        "formatted": "المنطقة الشعبية - بوشر, Way 7120, 136, Muscat, Muscat Governorate, Oman",
+        "address_line1": "المنطقة الشعبية - بوشر",
+        "address_line2": "Way 7120, 136, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "المنطقة الشعبية - بوشر",
+            "osm_id": 4853579423,
+            "name:ar": "المنطقة الشعبية - بوشر",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "المنطقة الشعبية - بوشر"
+        },
+        "place_id": "511f9441ff4e364d4059dbea47c208913740f00103f9019fbe4b2101000000920328d8a7d984d985d986d8b7d982d8a920d8a7d984d8b4d8b9d8a8d98ad8a9202d20d8a8d988d8b4d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4242858,
+          23.566539900358162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "برج مرتضى",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "117",
+        "street": "1",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5369184,
+        "lat": 23.587262,
+        "formatted": "Murtadha Tower, 1, 117, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Murtadha Tower",
+        "address_line2": "1, 117, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "برج مرتضى",
+            "osm_id": 4868869321,
+            "name:ar": "برج مرتضى",
+            "name:en": "Murtadha Tower",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "برج مرتضى",
+          "en": "Murtadha Tower"
+        },
+        "place_id": "51724ffcbdb9444d405994b76dcd56963740f00103f901c90c352201000000920311d8a8d8b1d8ac20d985d8b1d8aad8b6d989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.536918400000005,
+          23.587262000357057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "studio",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Hail South",
+        "postcode": "000",
+        "street": "Way 2525",
+        "iso3166_2": "OM-MA",
+        "lon": 58.2283317,
+        "lat": 23.6322805,
+        "formatted": "studio, Way 2525, 000, Al Hail South, Muscat Governorate, Oman",
+        "address_line1": "studio",
+        "address_line2": "Way 2525, 000, Al Hail South, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "studio",
+            "osm_id": 5040332121,
+            "name:ar": "studio",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "studio"
+        },
+        "place_id": "51ef1120f9391d4d4059efeb8622dda13740f00103f901595d6d2c0100000092030673747564696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.228331700000005,
+          23.63228050035462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منتزة المعبيلة السادسة",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Mabelah",
+        "postcode": "121",
+        "suburb": "Al Mabelah 6",
+        "street": "Al Nozha Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.1301072,
+        "lat": 23.6134133,
+        "formatted": "منتزة المعبيلة السادسة, Al Nozha Street, 121, Al Mabelah, Muscat Governorate, Oman",
+        "address_line1": "منتزة المعبيلة السادسة",
+        "address_line2": "Al Nozha Street, 121, Al Mabelah, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منتزة المعبيلة السادسة",
+            "osm_id": 5061499422,
+            "name:ar": "منتزة المعبيلة السادسة",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "منتزة المعبيلة السادسة"
+        },
+        "place_id": "51b07c4c5aa7104d405980f56fa7089d3740f00103f9011e5ab02d0100000092032ad985d986d8aad8b2d8a920d8a7d984d985d8b9d8a8d98ad984d8a920d8a7d984d8b3d8a7d8afd8b3d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1301072,
+          23.61341330035566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صناعية قريات",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Makhādah",
+        "street": "17",
+        "iso3166_2": "OM-MA",
+        "lon": 58.8681855,
+        "lat": 23.2045497,
+        "formatted": "صناعية قريات, 17, Makhādah, Muscat Governorate, Oman",
+        "address_line1": "صناعية قريات",
+        "address_line2": "17, Makhādah, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صناعية قريات",
+            "osm_id": 5105332521,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5143aed4b3206f4d40592085815e5d343740f00103f90129314d3001000000920317d8b5d986d8a7d8b9d98ad8a920d982d8b1d98ad8a7d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.8681855,
+          23.20454970037565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunken boat",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "iso3166_2": "OM-MA",
+        "lon": 58.7050404,
+        "lat": 23.5188375,
+        "formatted": "Sunken boat, Muscat Governorate, Oman",
+        "address_line1": "Sunken boat",
+        "address_line2": "Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sunken boat",
+            "osm_id": 5226911244,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eb2d8ac33e5a4d4059c7fccf88d2843740f00103f9010c568c370100000092030b53756e6b656e20626f6174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.705040399999994,
+          23.518837500360657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "استراحة الفيصل",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Seeb",
+        "postcode": "132",
+        "suburb": "Hayy al Kawthar",
+        "street": "Al Seeb Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.1967221,
+        "lat": 23.6595981,
+        "formatted": "استراحة الفيصل, Al Seeb Street, 132, Seeb, Muscat Governorate, Oman",
+        "address_line1": "استراحة الفيصل",
+        "address_line2": "Al Seeb Street, 132, Seeb, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "استراحة الفيصل",
+            "osm_id": 5313844621,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5143f394302e194d40593885cd6bdba83740f00103f9018dd5ba3c0100000092031bd8a7d8b3d8aad8b1d8a7d8add8a920d8a7d984d981d98ad8b5d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.19672210000001,
+          23.659598100353122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "فن زون",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "282",
+        "street": "Al Qurm Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.4894808,
+        "lat": 23.6226306,
+        "formatted": "Fun zone, Al Qurm Street, 282, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Fun zone",
+        "address_line2": "Al Qurm Street, 282, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "فن زون",
+            "osm_id": 5342661921,
+            "name:en": "Fun zone",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Fun zone"
+        },
+        "place_id": "518d028e4ea73e4d4059a10312b8649f3740f00103f901218d723e0100000092030bd981d98620d8b2d988d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4894808,
+          23.62263060035514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Hamam Hot Spring",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Hamam",
+        "street": "Way 9431",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3236588,
+        "lat": 23.4701899,
+        "formatted": "Hot water well, Way 9431, Hamam, Muscat Governorate, Oman",
+        "address_line1": "Hot water well",
+        "address_line2": "Way 9431, Hamam, Muscat Governorate, Oman",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Al Hamam Hot Spring",
+            "osm_id": 5385867822,
+            "name:en": "Hot water well",
+            "natural": "spring",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Hot water well"
+        },
+        "place_id": "510288cca66d294d40591ff8845d5e783740f00103f9012ed2054101000000920313416c2048616d616d20486f7420537072696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.32365879999999,
+          23.47018990036315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khairi bhai house",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Mabelah",
+        "postcode": "121",
+        "street": "Al Nour Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.1252243,
+        "lat": 23.6408512,
+        "formatted": "Khairi bhai house, Al Nour Street, 121, Al Mabelah, Muscat Governorate, Oman",
+        "address_line1": "Khairi bhai house",
+        "address_line2": "Al Nour Street, 121, Al Mabelah, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Khairi bhai house",
+            "osm_id": 5495285322,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510e95905907104d40599a1f03d30ea43740f00103f9014a668b47010000009203114b6861697269206268616920686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.1252243,
+          23.640851200354156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "View over Rinz",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "117",
+        "street": "Way 6926",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5732518,
+        "lat": 23.5626008,
+        "formatted": "View over Rinz, Way 6926, 117, Muscat, Muscat Governorate, Oman",
+        "address_line1": "View over Rinz",
+        "address_line2": "Way 6926, 117, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "View over Rinz",
+            "osm_id": 5500191721,
+            "name:ar": "View overlooking Ruwi",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "View overlooking Ruwi"
+        },
+        "place_id": "51c4afa25060494d40591c3e269b06903740f00103f901e943d6470100000092030e56696577206f7665722052696e7a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.57325180000001,
+          23.562600800358368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "uqda",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "street": "Abyad Road",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.7654139,
+        "lat": 23.6690488,
+        "formatted": "uqda, Abyad Road, Al Batinah South Governorate, Oman",
+        "address_line1": "uqda",
+        "address_line2": "Abyad Road, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "uqda",
+            "osm_id": 5566691022,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b1332a15f9e14c405944f13cc846ab3740f00103f901cef6cc4b0100000092030475716461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.765413900000006,
+          23.6690488003526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indian Social Club (ISC)",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "117",
+        "suburb": "Darsayt",
+        "street": "Way 1952",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5379127,
+        "lat": 23.6183183,
+        "formatted": "Indian Social Club (ISC), Way 1952, 117, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Indian Social Club (ISC)",
+        "address_line2": "Way 1952, 117, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "phone": 24703263,
+            "osm_id": 5628227341,
+            "name:en": "Indian Social Club (ISC)",
+            "tourism": "attraction",
+            "website": "http://www.iscmuscat.com",
+            "osm_type": "n"
+          }
+        },
+        "website": "http://www.iscmuscat.com",
+        "name_international": {
+          "en": "Indian Social Club (ISC)"
+        },
+        "contact": {
+          "phone": 24703263
+        },
+        "place_id": "51304dc752da444d40596d8bae1b4a9e3740f00103f9010def774f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.53791269999999,
+          23.618318300355373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "إستراحة راحة الأنظار2",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Barka",
+        "street": "1",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.9315736,
+        "lat": 23.6625536,
+        "formatted": "إستراحة راحة الأنظار2, 1, Barka, Al Batinah South Governorate, Oman",
+        "address_line1": "إستراحة راحة الأنظار2",
+        "address_line2": "1, Barka, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "إستراحة راحة الأنظار2",
+            "osm_id": 5789205053,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5192e8c0cd3df74c4059ec5cdd1c9da93740f00103f9013d42105901000000920327d8a5d8b3d8aad8b1d8a7d8add8a920d8b1d8a7d8add8a920d8a7d984d8a3d986d8b8d8a7d8b132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.93157359999999,
+          23.66255360035295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aggreko",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "130",
+        "street": "Al Jami Al Akbar Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3642225,
+        "lat": 23.5792505,
+        "formatted": "Aggreko, Al Jami Al Akbar Street, 130, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Aggreko",
+        "address_line2": "Al Jami Al Akbar Street, 130, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aggreko",
+            "osm_id": 5867618985,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d1fbc6d79e2e4d40591d3ac3c249943740f00103f901a9c2bc5d0100000092030741676772656b6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.36422249999999,
+          23.579250500357478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mazin Mosque",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "city": "Khubar",
+        "street": "المدرة-لزغ",
+        "iso3166_2": "OM-DA",
+        "lon": 58.0106953,
+        "lat": 23.3113351,
+        "formatted": "Mazin Mosque, المدرة-لزغ, Khubar, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "Mazin Mosque",
+        "address_line2": "المدرة-لزغ, Khubar, Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mazin Mosque",
+            "osm_id": 5947456885,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5147dcad765e014d40598f303aa8b34f3740f00103f90175fd7e620100000092030c4d617a696e204d6f73717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.0106953,
+          23.31133510037085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muttrah Fort",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "117",
+        "street": "al Bahri Road",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5671001,
+        "lat": 23.6204894,
+        "formatted": "Muttrah Fort, al Bahri Road, 117, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Muttrah Fort",
+        "address_line2": "al Bahri Road, 117, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Muttrah Fort",
+            "osm_id": 6001634585,
+            "tourism": "attraction",
+            "alt_name": "Mutrah Fort",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "Mutrah Fort"
+        },
+        "place_id": "5178876fbc96484d40595f0ab264d89e3740f00103f90119adb9650100000092030c4d75747472616820466f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.567100100000005,
+          23.620489400355265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الواسط السادسة",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Wasit",
+        "street": "13",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8491602,
+        "lat": 23.5241529,
+        "formatted": "Wasit 6th, 13, Wasit, Al Batinah South Governorate, Oman",
+        "address_line1": "Wasit 6th",
+        "address_line2": "13, Wasit, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الواسط السادسة",
+            "osm_id": 6050880885,
+            "name:en": "Wasit 6th",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Wasit 6th"
+        },
+        "place_id": "514c080c48b1ec4c4059c1266de22e863740f00103f901751da9680100000092031bd8a7d984d988d8a7d8b3d8b720d8a7d984d8b3d8a7d8afd8b3d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.8491602,
+          23.52415290036038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل إبراهيم حمود المعولي",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "الشعبية",
+        "street": "13",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8138367,
+        "lat": 23.4232171,
+        "formatted": "Ibrahim Hamood Almaawali house, 13, الشعبية, Al Batinah South Governorate, Oman",
+        "address_line1": "Ibrahim Hamood Almaawali house",
+        "address_line2": "13, الشعبية, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل إبراهيم حمود المعولي",
+            "osm_id": 6050932085,
+            "name:en": "Ibrahim Hamood Almaawali house",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Ibrahim Hamood Almaawali house"
+        },
+        "place_id": "516d640dcd2be84c4059822db5f4576c3740f00103f90175e5a9680100000092032fd985d986d8b2d98420d8a5d8a8d8b1d8a7d987d98ad98520d8add985d988d8af20d8a7d984d985d8b9d988d984d98a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.8138367,
+          23.4232171003655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "دوار نخل",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "الشعبية",
+        "street": "13",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8208196,
+        "lat": 23.4078956,
+        "formatted": "Nakhal roundabout, 13, الشعبية, Al Batinah South Governorate, Oman",
+        "address_line1": "Nakhal roundabout",
+        "address_line2": "13, الشعبية, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "دوار نخل",
+            "osm_id": 6050932086,
+            "name:en": "Nakhal roundabout",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Nakhal roundabout"
+        },
+        "place_id": "5139f5dc9d10e94c40595ec197d86b683740f00103f90176e5a9680100000092030fd8afd988d8a7d8b120d986d8aed984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.8208196,
+          23.407895600366253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weihrauchbaum",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Thibab",
+        "street": "17",
+        "iso3166_2": "OM-MA",
+        "lon": 59.0453425,
+        "lat": 23.0851747,
+        "formatted": "Weihrauchbaum, 17, Thibab, Muscat Governorate, Oman",
+        "address_line1": "Weihrauchbaum",
+        "address_line2": "17, Thibab, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Weihrauchbaum",
+            "osm_id": 6055123688,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51374f75c8cd854d4059e3945802ce153740f00103f901e8dae9680100000092030d5765696872617563686261756d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.0453425,
+          23.085174700380673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National High House",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Mabelah",
+        "postcode": "122",
+        "district": "Ma'abilah Industrial Area",
+        "suburb": "Al Mabelah Industrial Area",
+        "street": "Way 7749",
+        "iso3166_2": "OM-MA",
+        "lon": 58.0922496,
+        "lat": 23.6470784,
+        "formatted": "National High House, Way 7749, 122, Al Mabelah, Muscat Governorate, Oman",
+        "address_line1": "National High House",
+        "address_line2": "Way 7749, 122, Al Mabelah, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "National High House",
+            "osm_id": 6169965285,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d888bbd5ce0b4d4059b67717eea6a53740f00103f901e532c26f010000009203134e6174696f6e616c204869676820486f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.0922496,
+          23.647078400353813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "العريمي بوليفارد",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Seeb",
+        "postcode": "310",
+        "suburb": "Hayy al Kawthar",
+        "street": "Sultan Qaboos Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.1828465,
+        "lat": 23.657219,
+        "formatted": "Al-Araimi Boulevard, Sultan Qaboos Street, 310, Seeb, Muscat Governorate, Oman",
+        "address_line1": "Al-Araimi Boulevard",
+        "address_line2": "Sultan Qaboos Street, 310, Seeb, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "العريمي بوليفارد",
+            "osm_id": 6257690485,
+            "name:en": "Al-Araimi Boulevard",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Al-Araimi Boulevard"
+        },
+        "place_id": "5113d89c8367174d4059bad320813fa83740f00103f90175c7fc740100000092031fd8a7d984d8b9d8b1d98ad985d98a20d8a8d988d984d98ad981d8a7d8b1d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.182846500000004,
+          23.65721900035326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "قاعة الكبرى",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "130",
+        "street": "Airport Access Road",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3277197,
+        "lat": 23.567606,
+        "formatted": "Big hall neuroradio, Airport Access Road, 130, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Big hall neuroradio",
+        "address_line2": "Airport Access Road, 130, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "قاعة الكبرى",
+            "osm_id": 6282155186,
+            "name:ar": "قاعة الكبرى قاعة المعارض",
+            "name:en": "Big hall neuroradio",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "yes"
+          }
+        },
+        "name_international": {
+          "ar": "قاعة الكبرى قاعة المعارض",
+          "en": "Big hall neuroradio"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "place_id": "51a3e018b8f2294d4059298d78a04e913740f00103f901b214727601000000920315d982d8a7d8b9d8a920d8a7d984d983d8a8d8b1d989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.32771970000001,
+          23.5676060003581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بيت عمي سعيد",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Mawalih",
+        "postcode": "000",
+        "street": "Way 4778",
+        "iso3166_2": "OM-MA",
+        "lon": 58.2349326,
+        "lat": 23.5999537,
+        "formatted": "بيت عمي سعيد, Way 4778, 000, Mawalih, Muscat Governorate, Oman",
+        "address_line1": "بيت عمي سعيد",
+        "address_line2": "Way 4778, 000, Mawalih, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بيت عمي سعيد",
+            "osm_id": 6310474485,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d3e17c45121e4d40591525d29096993740f00103f901f532227801000000920316d8a8d98ad8aa20d8b9d985d98a20d8b3d8b9d98ad8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2349326,
+          23.599953700356384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بعد",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "city": "Naqisi",
+        "street": "25",
+        "iso3166_2": "OM-DA",
+        "lon": 58.3517454,
+        "lat": 23.094311,
+        "formatted": "Baa’d, 25, Naqisi, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "Baa’d",
+        "address_line2": "25, Naqisi, Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بعد",
+            "osm_id": 6369990092,
+            "name:en": "Baa’d",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Baa’d"
+        },
+        "place_id": "515dc246fe052d4d4059554906c424183740f00103f901cc55ae7b01000000920306d8a8d8b9d8af"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.351745400000006,
+          23.094311000380305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "uitzicht hoogste piek Jebel Al Akdar",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "iso3166_2": "OM-DA",
+        "lon": 57.7294759,
+        "lat": 23.0524623,
+        "formatted": "uitzicht hoogste piek Jebel Al Akdar, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "uitzicht hoogste piek Jebel Al Akdar",
+        "address_line2": "Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "uitzicht hoogste piek Jebel Al Akdar",
+            "osm_id": 6449823685,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512fdc5e775fdd4c4059de69582b6e0d3740f00103f901c57f7080010000009203247569747a6963687420686f6f67737465207069656b204a6562656c20416c20416b646172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.729475900000004,
+          23.052462300381983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بديعة الرحبيين",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Ad Dakhiliyah Governorate",
+        "city": "Mizbar",
+        "street": "25",
+        "iso3166_2": "OM-DA",
+        "lon": 58.4248879,
+        "lat": 23.1412828,
+        "formatted": "Badiaat Aruhbiin, 25, Mizbar, Ad Dakhiliyah Governorate, Oman",
+        "address_line1": "Badiaat Aruhbiin",
+        "address_line2": "25, Mizbar, Ad Dakhiliyah Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "بديعة الرحبيين",
+            "osm_id": 6497764385,
+            "name:en": "Badiaat Aruhbiin",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Badiaat Aruhbiin"
+        },
+        "place_id": "51a97b09ba62364d4059c31c0f1c2b243740f00103f90121044c830100000092031bd8a8d8afd98ad8b9d8a920d8a7d984d8b1d8add8a8d98ad98ad986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.424887899999995,
+          23.14128280037836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muscat heights view",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "114",
+        "street": "Muscat Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.4800244,
+        "lat": 23.594128,
+        "formatted": "Muscat heights view, Muscat Street, 114, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Muscat heights view",
+        "address_line2": "Muscat Street, 114, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Muscat heights view",
+            "osm_id": 6695661285,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5119a48570713d4d40597b2bcbc518983740f00103f901e5ae178f010000009203134d757363617420686569676874732076696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4800244,
+          23.594128000356687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suwayh Waterfall and Pools",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "السويح",
+        "iso3166_2": "OM-MA",
+        "lon": 58.9912961,
+        "lat": 23.0347332,
+        "formatted": "Suwayh Waterfall and Pools, السويح, Muscat Governorate, Oman",
+        "address_line1": "Suwayh Waterfall and Pools",
+        "address_line2": "السويح, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Suwayh Waterfall and Pools",
+            "osm_id": 6877540337,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51801365cae27e4d40599fba6746e4083740f00103f901f1efee990100000092031a53757761796820576174657266616c6c20616e6420506f6f6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.9912961,
+          23.03473320038267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "شمال طربلس للتجارة",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Mabelah",
+        "postcode": "122",
+        "district": "Ma'abilah Industrial Area",
+        "suburb": "Al Mabelah Industrial Area",
+        "street": "Way 7749",
+        "iso3166_2": "OM-MA",
+        "lon": 58.0968255,
+        "lat": 23.6454398,
+        "formatted": "shemal tarablos trading, Way 7749, 122, Al Mabelah, Muscat Governorate, Oman",
+        "address_line1": "shemal tarablos trading",
+        "address_line2": "Way 7749, 122, Al Mabelah, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "شمال طربلس للتجارة",
+            "osm_id": 6945597785,
+            "name:en": "shemal tarablos trading",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "shemal tarablos trading"
+        },
+        "place_id": "519cf529c7640c4d4059880ef28a3ba53740f00103f9015969fd9d01000000920322d8b4d985d8a7d98420d8b7d8b1d8a8d984d8b320d984d984d8aad8acd8a7d8b1d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.096825499999994,
+          23.6454398003539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "صقر و سحكون",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Al Alia",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.6520326,
+        "lat": 23.183076,
+        "formatted": "صقر و سحكون, Al Alia, Al Batinah South Governorate, Oman",
+        "address_line1": "صقر و سحكون",
+        "address_line2": "Al Alia, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "صقر و سحكون",
+            "osm_id": 7058351386,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518276e2cd75d34c4059c84c9a11de2e3740f00103f9011ae5b5a401000000920314d8b5d982d8b120d98820d8b3d8add983d988d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.6520326,
+          23.183076000376587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "عقبة بوشر +العامرات",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Al Khuwair South",
+        "postcode": "136",
+        "street": "al Jabal Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.4297421,
+        "lat": 23.5616772,
+        "formatted": "عقبة بوشر +العامرات, al Jabal Street, 136, Al Khuwair South, Muscat Governorate, Oman",
+        "address_line1": "عقبة بوشر +العامرات",
+        "address_line2": "al Jabal Street, 136, Al Khuwair South, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "عقبة بوشر +العامرات",
+            "osm_id": 7118819886,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51709b04ca01374d4059c072b613ca8f3740f00103f9012e9250a801000000920323d8b9d982d8a8d8a920d8a8d988d8b4d8b1202bd8a7d984d8b9d8a7d985d8b1d8a7d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.4297421,
+          23.561677200358417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مخطط الزعفران",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Barka",
+        "street": "1",
+        "iso3166_2": "OM-BJ",
+        "lon": 58.0130126,
+        "lat": 23.6739984,
+        "formatted": "مخطط الزعفران, 1, Barka, Al Batinah South Governorate, Oman",
+        "address_line1": "مخطط الزعفران",
+        "address_line2": "1, Barka, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "مخطط الزعفران",
+            "osm_id": 7284426985,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cdb79965aa014d4059cc11bf288bac3740f00103f901e9882fb201000000920319d985d8aed8b7d8b720d8a7d984d8b2d8b9d981d8b1d8a7d986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.0130126,
+          23.673998400352318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jazirat al fahl",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "282",
+        "street": "Sahma Street",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5010765,
+        "lat": 23.6809488,
+        "formatted": "shark island, Sahma Street, 282, Muscat, Muscat Governorate, Oman",
+        "address_line1": "shark island",
+        "address_line2": "Sahma Street, 282, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "jazirat al fahl",
+            "osm_id": 7291721786,
+            "name:en": "shark island",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "shark island"
+        },
+        "place_id": "51a625564623404d405910c31ba952ae3740f00103f9013ad89eb20100000092030f6a617a6972617420616c206661686c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.501076499999996,
+          23.680948800351928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "منزل",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Awabi",
+        "street": "Way 9835",
+        "iso3166_2": "OM-MA",
+        "lon": 58.3042331,
+        "lat": 23.4731787,
+        "formatted": "منزل, Way 9835, Awabi, Muscat Governorate, Oman",
+        "address_line1": "منزل",
+        "address_line2": "Way 9835, Awabi, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "منزل",
+            "osm_id": 7902832485,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512a6e371cf1264d40590e39433d22793740f00103f90165a70bd701000000920308d985d986d8b2d984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.30423309999999,
+          23.473178700363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الدهس",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Al Batinah South Governorate",
+        "city": "Barka",
+        "street": "Batinah Expressway",
+        "iso3166_2": "OM-BJ",
+        "lon": 57.8283328,
+        "lat": 23.6334765,
+        "formatted": "الدهس, Batinah Expressway, Barka, Al Batinah South Governorate, Oman",
+        "address_line1": "الدهس",
+        "address_line2": "Batinah Expressway, Barka, Al Batinah South Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "الدهس",
+            "osm_id": 7902832685,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511f1a27cf06ea4c4059b2ce13842ba23740f00103f9012da80bd70100000092030ad8a7d984d8afd987d8b3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.82833279999999,
+          23.63347650035457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muscat Old Cemetery",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Muscat",
+        "postcode": "940",
+        "suburb": "Old Muscat",
+        "street": "Way 9119",
+        "iso3166_2": "OM-MA",
+        "lon": 58.5989587,
+        "lat": 23.6115601,
+        "formatted": "Muscat Old Cemetery, Way 9119, 940, Muscat, Muscat Governorate, Oman",
+        "address_line1": "Muscat Old Cemetery",
+        "address_line2": "Way 9119, 940, Muscat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Muscat Old Cemetery",
+            "osm_id": 8044681828,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ca13beadaa4c4d40590291e6338f9c3740f00103f901641a80df010000009203134d7573636174204f6c642043656d6574657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.59895869999998,
+          23.611560100355753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء قريات",
+        "country": "Oman",
+        "country_code": "om",
+        "state": "Muscat Governorate",
+        "city": "Quriyat",
+        "street": "شـارع الحصــن",
+        "iso3166_2": "OM-MA",
+        "lon": 58.9245996,
+        "lat": 23.2594435,
+        "formatted": "ميناء قريات, شـارع الحصــن, Quriyat, Muscat Governorate, Oman",
+        "address_line1": "ميناء قريات",
+        "address_line2": "شـارع الحصــن, Quriyat, Muscat Governorate, Oman",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ميناء قريات",
+            "osm_id": 8099321617,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5185f2994759764d40594443a5e36a423740f00103f90111d7c1e201000000920315d985d98ad986d8a7d8a120d982d8b1d98ad8a7d8aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.9245996,
+          23.259443500373223
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Heart Cathedral",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Teaoraereke",
+        "street": "MSC Teaoraereke",
+        "iso3166_2": "KI-G",
+        "lon": 173.00719434280188,
+        "lat": 1.3326778,
+        "state_code": "G",
+        "formatted": "Sacred Heart Cathedral, MSC Teaoraereke, South Tarawa, Kiribati",
+        "address_line1": "Sacred Heart Cathedral",
+        "address_line2": "MSC Teaoraereke, South Tarawa, Kiribati",
+        "categories": [
+          "building",
+          "building.place_of_worship",
+          "building.tourism",
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.christianity",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship",
+          "tourism.sights.place_of_worship.cathedral"
+        ],
+        "details": [
+          "details.place_of_worship",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sacred Heart Cathedral",
+            "osm_id": 90810971,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "cathedral",
+            "osm_type": "w",
+            "religion": "christian",
+            "wikidata": "Q2942914",
+            "wikipedia": "de:Sacred Heart Cathedral (Kiribati)",
+            "denomination": "roman_catholic"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2942914",
+          "wikipedia": "de:Sacred Heart Cathedral (Kiribati)"
+        },
+        "building": {
+          "type": "cathedral"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "roman_catholic"
+        },
+        "place_id": "519c61a1ef3aa065405946f7e7f4a552f53ff00102f9015baa6905000000009203165361637265642048656172742043617468656472616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.00719434280188,
+          1.3326777998585881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itoiningaina Handicraft Center",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Ambo",
+        "street": "Main Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.00825436140136,
+        "lat": 1.33306775,
+        "state_code": "G",
+        "formatted": "Itoiningaina Handicraft Center, Main Road, South Tarawa, Kiribati",
+        "address_line1": "Itoiningaina Handicraft Center",
+        "address_line2": "Main Road, South Tarawa, Kiribati",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Itoiningaina Handicraft Center",
+            "osm_id": 226718728,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "519488a69e43a065405993ea4fd93e54f53ff00102f9010874830d0000000092031e49746f696e696e6761696e612048616e646963726166742043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.00825436140133,
+          1.3330677498585473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eita",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "iso3166_2": "KI-G",
+        "lon": 173.0688718,
+        "lat": 1.3587971,
+        "state_code": "G",
+        "formatted": "Eita, South Tarawa, Gilbert Islands, Kiribati",
+        "address_line1": "Eita",
+        "address_line2": "South Tarawa, Gilbert Islands, Kiribati",
+        "categories": [
+          "natural",
+          "natural.mountain",
+          "natural.mountain.peak",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 3,
+            "name": "Eita",
+            "osm_id": 4884735821,
+            "natural": "peak",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "ele": 3,
+        "place_id": "51bb13a23234a26540596c7b1c07a2bdf53ff00103f9014d2727230100000092030445697461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.06887179999998,
+          1.3587970998557592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broken Bridge",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "North Tarawa",
+        "village": "Buota",
+        "street": "Buota Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.090755,
+        "lat": 1.4298124,
+        "state_code": "G",
+        "formatted": "Broken Bridge, Buota Road, North Tarawa, Kiribati",
+        "address_line1": "Broken Bridge",
+        "address_line2": "Buota Road, North Tarawa, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Broken Bridge",
+            "osm_id": 4888551323,
+            "name:en": "Broken Bridge",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Broken Bridge"
+        },
+        "place_id": "515a9e0777e7a26540599d348cf782e0f63ff00103f9019b5f61230100000092030d42726f6b656e20427269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.090755,
+          1.4298123998480954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U.S. Marine Corps Memorial",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "Betio",
+        "street": "Kawain te Betio Sport Complex",
+        "iso3166_2": "KI-G",
+        "lon": 172.9277473,
+        "lat": 1.3562328,
+        "state_code": "G",
+        "formatted": "U.S. Marine Corps Memorial, Kawain te Betio Sport Complex, Betio, Kiribati",
+        "address_line1": "U.S. Marine Corps Memorial",
+        "address_line2": "Kawain te Betio Sport Complex, Betio, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "U.S. Marine Corps Memorial",
+            "osm_id": 5502503121,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51780e1b1bb09d654059914e122a21b3f53ff00103f901d188f9470100000092031a552e532e204d6172696e6520436f727073204d656d6f7269616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.92774729999996,
+          1.3562327998560344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domestic Ferry Pier",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "Betio",
+        "street": "Betio Shipyard Road",
+        "iso3166_2": "KI-G",
+        "lon": 172.9304717,
+        "lat": 1.3592579,
+        "state_code": "G",
+        "formatted": "Domestic Ferry Pier, Betio Shipyard Road, Betio, Kiribati",
+        "address_line1": "Domestic Ferry Pier",
+        "address_line2": "Betio Shipyard Road, Betio, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Domestic Ferry Pier",
+            "osm_id": 5504031221,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51502b966cc69d654059ee5b2b3685bff53ff00103f901f5d9104801000000920313446f6d65737469632046657272792050696572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.9304717,
+          1.359257899855716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main port",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Nawerewere",
+        "street": "Main Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.1187358,
+        "lat": 1.3653863,
+        "state_code": "G",
+        "formatted": "Main port, Main Road, South Tarawa, Kiribati",
+        "address_line1": "Main port",
+        "address_line2": "Main Road, South Tarawa, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Main port",
+            "osm_id": 5850089485,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a83b05afcca3654059dd8a044e9fd8f53ff00103f9010d48b15c010000009203094d61696e20706f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.11873579999997,
+          1.365386299855053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bill house",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Temwaiku",
+        "street": "Temwaiku Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.1588365,
+        "lat": 1.3615403,
+        "state_code": "G",
+        "formatted": "Bill house, Temwaiku Road, South Tarawa, Kiribati",
+        "address_line1": "Bill house",
+        "address_line2": "Temwaiku Road, South Tarawa, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bill house",
+            "osm_id": 5850089487,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51289d483015a56540595b0b417bdec8f53ff00103f9010f48b15c0100000092030a42696c6c20686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.1588365,
+          1.3615402998554689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maneaban te kukurei",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Nawerewere",
+        "street": "Main Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.1234791,
+        "lat": 1.3665579,
+        "state_code": "G",
+        "formatted": "Maneaban te kukurei, Main Road, South Tarawa, Kiribati",
+        "address_line1": "Maneaban te kukurei",
+        "address_line2": "Main Road, South Tarawa, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maneaban te kukurei",
+            "osm_id": 5850089488,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51aa07718af3a36540593f7affd06bddf53ff00103f9011048b15c010000009203134d616e656162616e207465206b756b75726569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.1234791,
+          1.3665578998549248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aratim'a house",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Nawerewere",
+        "street": "Main Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.1199952,
+        "lat": 1.3657582,
+        "state_code": "G",
+        "formatted": "Aratim'a house, Main Road, South Tarawa, Kiribati",
+        "address_line1": "Aratim'a house",
+        "address_line2": "Main Road, South Tarawa, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aratim'a house",
+            "osm_id": 5873850588,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a9752c00d7a365405910f0294525daf53ff00103f901dcd81b5e0100000092030e41726174696d276120686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.11999519999998,
+          1.3657581998550121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "to the sea shore",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "Betio",
+        "street": "Main Road",
+        "iso3166_2": "KI-G",
+        "lon": 172.9390299,
+        "lat": 1.3546956,
+        "state_code": "G",
+        "formatted": "to the sea shore, Main Road, Betio, Kiribati",
+        "address_line1": "to the sea shore",
+        "address_line2": "Main Road, Betio, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "to the sea shore",
+            "osm_id": 12062303794,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51eace6e880c9e65405925ae164bd5acf53ff00103f9013226f8ce02000000920310746f20746865207365612073686f7265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.93902989999998,
+          1.354695599856208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiribati island fish limited",
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Ambo",
+        "street": "Main Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.0393646,
+        "lat": 1.3516609,
+        "state_code": "G",
+        "formatted": "Kiritimati Island Fish Limited, Main Road, South Tarawa, Kiribati",
+        "address_line1": "Kiritimati Island Fish Limited",
+        "address_line2": "Main Road, South Tarawa, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kiribati island fish limited",
+            "osm_id": 12066069969,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51af6ab52c44a1654059254b516e7aa1f53ff00103f901d19d31cf0200000092031c4b697269626174692069736c616e642066697368206c696d69746564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.03957209999996,
+          1.351923399856511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Nawerewere",
+        "street": "Main Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.0637508,
+        "lat": 1.3579875,
+        "state_code": "G",
+        "formatted": "Main Road, South Tarawa, Kiribati",
+        "address_line1": "Main Road",
+        "address_line2": "South Tarawa, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11840585269,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5101231e3f0aa26540598f1fc41951baf53ff00103f90135fec0c102000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.0637508,
+          1.3579874998558557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Kiribati",
+        "country_code": "ki",
+        "state": "Gilbert Islands",
+        "city": "South Tarawa",
+        "village": "Ambo",
+        "street": "Main Road",
+        "iso3166_2": "KI-G",
+        "lon": 173.0473014,
+        "lat": 1.3582993,
+        "state_code": "G",
+        "formatted": "Main Road, South Tarawa, Kiribati",
+        "address_line1": "Main Road",
+        "address_line2": "South Tarawa, Kiribati",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 12062291833,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c2c1397e83a16540599bf7f00b98bbf53ff00103f90179f7f7ce02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.04730139999998,
+          1.3582992998558214
+        ]
+      }
+    }
+  ]
+}

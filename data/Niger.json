@@ -1,0 +1,1839 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place Monteil",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8000",
+        "district": "Arrondissement Communal Niamey 3",
+        "suburb": "Terminus",
+        "street": "Avenue de l'Amitié",
+        "iso3166_2": "NE-8",
+        "lon": 2.1151631,
+        "lat": 13.5080557,
+        "formatted": "Place Monteil, Avenue de l'Amitié, Niamey, Niger",
+        "address_line1": "Place Monteil",
+        "address_line2": "Avenue de l'Amitié, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place Monteil",
+            "osm_id": 2716807592,
+            "tourism": "attraction",
+            "map_size": "city",
+            "osm_type": "n",
+            "wheelchair": "limited",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "place_id": "51d8a5a1a1daeb004059b1cf6de01f042b40f00103f901a831efa10000000092030d506c616365204d6f6e7465696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1151631,
+          13.5080556997344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 5",
+        "neighbourhood": "Banguisto",
+        "suburb": "Pont Kennedy",
+        "street": "Rond-Point Harobanda",
+        "iso3166_2": "NE-8",
+        "lon": 2.0979954999999997,
+        "lat": 13.490897050000001,
+        "formatted": "Rond-Point Harobanda, Niamey, Niger",
+        "address_line1": "Rond-Point Harobanda",
+        "address_line2": "Niamey, Niger",
+        "name": "Rond-Point Harobanda",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "name": "Rond-Point Harobanda",
+            "osm_id": 325438735,
+            "leisure": "garden",
+            "tourism": "artwork",
+            "osm_type": "w",
+            "landcover": "grass",
+            "area:highway": "traffic_island"
+          }
+        },
+        "place_id": "51c83d5dddb1c8004059a69bacdb56fb2a40f00102f9010fcd651300000000920314526f6e642d506f696e74204861726f62616e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0979954999999997,
+          13.490897049732506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parc d'agrément",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Koira Kano",
+        "iso3166_2": "NE-8",
+        "lon": 2.068266031955243,
+        "lat": 13.536748150000001,
+        "formatted": "Parc d'agrément, Koira Kano, Niamey, Kollo, Niger",
+        "address_line1": "Parc d'agrément",
+        "address_line2": "Koira Kano, Niamey, Kollo, Niger",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parc d'agrément",
+            "osm_id": 628422326,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "515867b50fcf8b0040597e9f4aa7d0122b40f00102f901b6f674250000000092031050617263206427616772c3a96d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0682660319552433,
+          13.536748149737601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8000",
+        "district": "Arrondissement Communal Niamey 3",
+        "suburb": "Lacouroussou",
+        "street": "Place Adamou Moumouni Djermakoye",
+        "iso3166_2": "NE-8",
+        "lon": 2.1208753,
+        "lat": 13.5109041,
+        "formatted": "Place Adamou Moumouni Djermakoye, Niamey, Niger",
+        "address_line1": "Place Adamou Moumouni Djermakoye",
+        "address_line2": "Niamey, Niger",
+        "name": "Place Adamou Moumouni Djermakoye",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place Adamou Moumouni Djermakoye",
+            "osm_id": 2728338447,
+            "name:fr": "Place Adamou Moumouni Djermakoye",
+            "tourism": "artwork",
+            "alt_name": "Rond-Point Eglise",
+            "historic": "memorial",
+            "material": "concrete",
+            "memorial": "sculpture",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "name_other": {
+          "alt_name": "Rond-Point Eglise"
+        },
+        "name_international": {
+          "fr": "Place Adamou Moumouni Djermakoye"
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "sculpture",
+          "artwork_type": "statue"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "514c2723788df70040598581df3895052b40f00103f9010f249fa200000000920320506c616365204164616d6f75204d6f756d6f756e6920446a65726d616b6f7965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1208753,
+          13.510904099734725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koubia poste (ancien)",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "SONUCI",
+        "street": "Avenue des Sy et Mamar",
+        "iso3166_2": "NE-8",
+        "lon": 2.0564771,
+        "lat": 13.5518225,
+        "formatted": "Koubia poste (ancien), Avenue des Sy et Mamar, Niamey, Niger",
+        "address_line1": "Koubia poste (ancien)",
+        "address_line2": "Avenue des Sy et Mamar, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Koubia poste (ancien)",
+            "osm_id": 3174811256,
+            "tourism": "attraction",
+            "alt_name": "poste de police Koubia",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "poste de police Koubia"
+        },
+        "place_id": "518bc80b44aa7300405987278b7a881a2b40f00103f90178c63bbd000000009203154b6f7562696120706f7374652028616e6369656e29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0564771,
+          13.551822499739286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooperative des Metiers d'Arts du Niger",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Zongo",
+        "street": "Rue du Musée",
+        "iso3166_2": "NE-8",
+        "lon": 2.1081137,
+        "lat": 13.5135327,
+        "formatted": "Cooperative des Metiers d'Arts du Niger, Rue du Musée, Niamey, Niger",
+        "address_line1": "Cooperative des Metiers d'Arts du Niger",
+        "address_line2": "Rue du Musée, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cooperative des Metiers d'Arts du Niger",
+            "osm_id": 4516221760,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "All types",
+            "operator:type": "community"
+          }
+        },
+        "operator_details": {
+          "type": "community"
+        },
+        "artwork": {
+          "artwork_type": "All types"
+        },
+        "place_id": "5116ff2db76add004059b3930dc2ed062b40f00103f9014013300d01000000920327436f6f706572617469766520646573204d65746965727320642741727473206475204e69676572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1081136999999996,
+          13.513532699735014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NIGELEC CELER",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Koira Kano",
+        "street": "Rue KK - 63",
+        "iso3166_2": "NE-8",
+        "lon": 2.0702382,
+        "lat": 13.5371558,
+        "formatted": "NIGELEC CELER, Rue KK - 63, Niamey, Niger",
+        "address_line1": "NIGELEC CELER",
+        "address_line2": "Rue KK - 63, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "NIGELEC CELER",
+            "osm_id": 4691448589,
+            "name:fr": "NIGELEC CELER",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "NIGELEC CELER"
+        },
+        "place_id": "5173709f0bd98f004059b775c11506132b40f00103f9010dd3a1170100000092030d4e4947454c45432043454c4552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0702382,
+          13.537155799737645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond-Point Niamey N'yala",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Djiddah",
+        "street": "Niamey N'yala",
+        "iso3166_2": "NE-8",
+        "lon": 2.1118511,
+        "lat": 13.5429684,
+        "formatted": "Rond-Point Niamey N'yala, Niamey N'yala, Niamey, Niger",
+        "address_line1": "Rond-Point Niamey N'yala",
+        "address_line2": "Niamey N'yala, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond-Point Niamey N'yala",
+            "osm_id": 5005116130,
+            "name:ar": "دوار توراكو",
+            "name:fr": "Rond-Point Niamey N'yala",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Niamey N'yala"
+          }
+        },
+        "name_international": {
+          "ar": "دوار توراكو",
+          "fr": "Rond-Point Niamey N'yala"
+        },
+        "place_id": "514a2c843012e50040595f463ff4ff152b40f00103f901e202542a01000000920318526f6e642d506f696e74204e69616d6579204e2779616c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1118511,
+          13.542968399738298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond-point ENAM",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Kalley 2",
+        "street": "Rond-Point ENAM",
+        "iso3166_2": "NE-8",
+        "lon": 2.1062961,
+        "lat": 13.5246028,
+        "formatted": "Rond-point ENAM, Rond-Point ENAM, Niamey, Niger",
+        "address_line1": "Rond-point ENAM",
+        "address_line2": "Rond-Point ENAM, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond-point ENAM",
+            "osm_id": 5150054125,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "limited"
+          }
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "place_id": "51ec8909c5b1d9004059b683f8bc980c2b40f00103f901ed96f7320100000092030f526f6e642d706f696e7420454e414d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1062961,
+          13.524602799736254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place Ibrahim Baré Mainassara",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 3",
+        "suburb": "Cité Caisse",
+        "street": "Rond-Point Baré",
+        "iso3166_2": "NE-8",
+        "lon": 2.1291839,
+        "lat": 13.5501826,
+        "formatted": "Place Ibrahim Baré Mainassara, Rond-Point Baré, Niamey, Niger",
+        "address_line1": "Place Ibrahim Baré Mainassara",
+        "address_line2": "Rond-Point Baré, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details.facilities",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Place Ibrahim Baré Mainassara",
+            "osm_id": 5172981024,
+            "tourism": "attraction",
+            "historic": "memorial",
+            "material": "concrete",
+            "memorial": "sculpture",
+            "osm_type": "n",
+            "wheelchair": "limited",
+            "subject:wikidata": "Q365417",
+            "subject:wikipedia": "fr:Ibrahim Baré Maïnassara"
+          }
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "historic": {
+          "type": "memorial",
+          "memorial": "sculpture"
+        },
+        "place_id": "519d5b8d919108014059556aa188b1192b40f00103f901206d55340100000092031e506c616365204962726168696d20426172c3a9204d61696e617373617261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1291838999999997,
+          13.550182599739097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "centre des metiers d'Art",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Zongo",
+        "street": "Rue du Musée",
+        "iso3166_2": "NE-8",
+        "lon": 2.1081137,
+        "lat": 13.5134656,
+        "formatted": "centre des metiers d'Art, Rue du Musée, Niamey, Niger",
+        "address_line1": "centre des metiers d'Art",
+        "address_line2": "Rue du Musée, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "centre des metiers d'Art",
+            "osm_id": 5209804967,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5116ff2db76add00405943f78cf6e4062b40f00103f901a75087360100000092031863656e74726520646573206d657469657273206427417274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1081136999999996,
+          13.513465599735019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond Point Mairie Garage",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Couronne Nord",
+        "street": "Avenue de L'Ader",
+        "iso3166_2": "NE-8",
+        "lon": 2.1244447,
+        "lat": 13.5360152,
+        "formatted": "Rond Point Mairie Garage, Avenue de L'Ader, Niamey, Niger",
+        "address_line1": "Rond Point Mairie Garage",
+        "address_line2": "Avenue de L'Ader, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond Point Mairie Garage",
+            "osm_id": 5577872525,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "limited"
+          }
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "place_id": "51c648e5dcdcfe0040592c10929570122b40f00103f9018d94774c01000000920318526f6e6420506f696e74204d616972696520476172616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1244447000000006,
+          13.536015199737527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond point 6ème",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "2055",
+        "district": "Arrondissement Communal Niamey 3",
+        "suburb": "Nouveau Marché",
+        "street": "Roundabout of 6th",
+        "iso3166_2": "NE-8",
+        "lon": 2.1289239,
+        "lat": 13.5020088,
+        "formatted": "Rond point 6ème, Roundabout of 6th, Niamey, Niger",
+        "address_line1": "Rond point 6ème",
+        "address_line2": "Roundabout of 6th, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond point 6ème",
+            "osm_id": 5832931385,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "limited"
+          }
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "place_id": "51d861f14009080140593a52224c07012b40f00103f9013978ab5b01000000920310526f6e6420706f696e742036c3a86d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1289239,
+          13.502008799733733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond-point Police Secours",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "2055",
+        "district": "Arrondissement Communal Niamey 3",
+        "suburb": "Poudrière",
+        "street": "Ront Point Police Secours",
+        "iso3166_2": "NE-8",
+        "lon": 2.1469004,
+        "lat": 13.5086941,
+        "formatted": "Rond-point Police Secours, Ront Point Police Secours, Niamey, Niger",
+        "address_line1": "Rond-point Police Secours",
+        "address_line2": "Ront Point Police Secours, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond-point Police Secours",
+            "osm_id": 5951257685,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "519027ee1dda2c014059390e948d73042b40f00103f90155fcb86201000000920319526f6e642d706f696e7420506f6c696365205365636f757273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1469004,
+          13.508694099734486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garbey Hinza",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Dar Es Salam",
+        "iso3166_2": "NE-8",
+        "lon": 2.1075874,
+        "lat": 13.5436263,
+        "formatted": "Garbey Hinza, Niamey, Niger",
+        "address_line1": "Garbey Hinza",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Garbey Hinza",
+            "place": "square",
+            "osm_id": 6008612585,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5180b163c856dc0040595c3eb52f56162b40f00103f901e92624660100000092030c4761726265792048696e7a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1075874,
+          13.54362629973837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sapka Layiya",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "2055",
+        "district": "Arrondissement Communal Niamey 3",
+        "neighbourhood": "105 logements",
+        "suburb": "Cité Fayçal",
+        "street": "Avenue du Damergou",
+        "iso3166_2": "NE-8",
+        "lon": 2.1401364,
+        "lat": 13.5042869,
+        "formatted": "Sapka Layiya, Avenue du Damergou, Niamey, Niger",
+        "address_line1": "Sapka Layiya",
+        "address_line2": "Avenue du Damergou, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sapka Layiya",
+            "osm_id": 6192838185,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515ad537d5ff1e01405941517ce431022b40f00103f90129361f710100000092030c5361706b61204c6179697961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1401364000000003,
+          13.504286899733986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond point Salou Djibo",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8000",
+        "district": "Arrondissement Communal Niamey 4",
+        "suburb": "Banifandou 2",
+        "street": "Rond-Point Salou Djibo",
+        "iso3166_2": "NE-8",
+        "lon": 2.1444036,
+        "lat": 13.5390734,
+        "formatted": "Rond point Salou Djibo, Rond-Point Salou Djibo, Niamey, Niger",
+        "address_line1": "Rond point Salou Djibo",
+        "address_line2": "Rond-Point Salou Djibo, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond point Salou Djibo",
+            "osm_id": 6871909874,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b6651b13bd270140590809bc6d01142b40f00103f901f205999901000000920316526f6e6420706f696e742053616c6f7520446a69626f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1444035999999995,
+          13.539073399737859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kokorbado",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8000",
+        "district": "Arrondissement Communal Niamey 3",
+        "suburb": "Banizoumbou 2",
+        "street": "Rond-Point Koborba Do",
+        "iso3166_2": "NE-8",
+        "lon": 2.1420192,
+        "lat": 13.5417442,
+        "formatted": "Kokorbado, Rond-Point Koborba Do, Niamey, Niger",
+        "address_line1": "Kokorbado",
+        "address_line2": "Rond-Point Koborba Do, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kokorbado",
+            "osm_id": 6872161110,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518f3b5bf6da220140599e58e97e5f152b40f00103f90156db9c99010000009203094b6f6b6f726261646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1420191999999996,
+          13.541744199738158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond-point Terrain Musulman",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8000",
+        "district": "Arrondissement Communal Niamey 3",
+        "suburb": "Kalley Est",
+        "street": "Rond-Point Ecobank",
+        "iso3166_2": "NE-8",
+        "lon": 2.1258768,
+        "lat": 13.5134571,
+        "formatted": "Rond-point Terrain Musulman, Rond-Point Ecobank, Niamey, Niger",
+        "address_line1": "Rond-point Terrain Musulman",
+        "address_line2": "Rond-Point Ecobank, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond-point Terrain Musulman",
+            "osm_id": 6920823146,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "51df991ab2cb010140598b8556d9e3062b40f00103f9016a61839c0100000092031b526f6e642d706f696e74205465727261696e204d7573756c6d616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1258768,
+          13.513457099734998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fada Ada",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Banizoumbou 2",
+        "street": "Boulevard Tanimoune",
+        "iso3166_2": "NE-8",
+        "lon": 2.1037401,
+        "lat": 13.5624714,
+        "formatted": "Fada Ada, Boulevard Tanimoune, Niamey, Niger",
+        "address_line1": "Fada Ada",
+        "address_line2": "Boulevard Tanimoune, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fada Ada",
+            "osm_id": 6990389471,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51294586b075d400405933a45540fc1f2b40f00103f901dfe0a8a0010000009203084661646120416461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1037401,
+          13.56247139974048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kangaweydo",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Koira Tegui",
+        "street": "N 24",
+        "iso3166_2": "NE-8",
+        "lon": 2.1204575,
+        "lat": 13.5959099,
+        "formatted": "Kangaweydo, N 24, Niamey, Niger",
+        "address_line1": "Kangaweydo",
+        "address_line2": "N 24, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kangaweydo",
+            "osm_id": 7444882086,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519e76f86bb2f60040593087351a1b312b40f00103f901a6e2bfbb0100000092030a4b616e6761776579646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1204574999999997,
+          13.595909899744214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2e Cassis",
+        "country": "Niger",
+        "country_code": "ne",
+        "state": "Tillabéri Region",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "5001",
+        "district": "Arrondissement Communal Niamey 4",
+        "neighbourhood": "Saga Dababanda",
+        "suburb": "Saga Sahara",
+        "street": "Avenue de l'Afrique",
+        "iso3166_2": "NE-6",
+        "lon": 2.1417218,
+        "lat": 13.4686961,
+        "formatted": "2e Cassis, Avenue de l'Afrique, Niamey, Niger",
+        "address_line1": "2e Cassis",
+        "address_line2": "Avenue de l'Afrique, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "2e Cassis",
+            "osm_id": 10766100684,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c20a010a3f22014059e33468eff8ef2a40f00103f901cca8b58102000000920309326520436173736973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1417218,
+          13.468696099730044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaque Tawaigna",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "SONUCI",
+        "street": "Rue FK - 160",
+        "iso3166_2": "NE-8",
+        "lon": 2.0567779,
+        "lat": 13.5679482,
+        "formatted": "Plaque Tawaigna, Rue FK - 160, Niamey, Niger",
+        "address_line1": "Plaque Tawaigna",
+        "address_line2": "Rue FK - 160, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plaque Tawaigna",
+            "osm_id": 11325102393,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a015bdf847740040598a6b3f1bca222b40f00103f901395907a30200000092030f506c61717565205461776169676e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0567779,
+          13.567948199741085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rond point Touraré",
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Village de la Francophonie",
+        "street": "Boulevard Tanimoune",
+        "iso3166_2": "NE-8",
+        "lon": 2.0806412,
+        "lat": 13.5666002,
+        "formatted": "Rond point Touraré, Boulevard Tanimoune, Niamey, Niger",
+        "address_line1": "Rond point Touraré",
+        "address_line2": "Boulevard Tanimoune, Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rond point Touraré",
+            "osm_id": 12161672060,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517baea53627a5004059b896df6b19222b40f00103f9017c63e4d402000000920313526f6e6420706f696e7420546f75726172c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0806412,
+          13.566600199740932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "district": "Arrondissement Communal Niamey 1",
+        "iso3166_2": "NE-8",
+        "lon": 2.004978640747489,
+        "lat": 13.573544949999999,
+        "formatted": "Niamey, Kollo, Niger",
+        "address_line1": "Niamey",
+        "address_line2": "Kollo, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 638084571,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "511483d93d320a0040596bda03afa7252b40f00102f901db65082600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.00497864074749,
+          13.573544949741708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Village de la Francophonie",
+        "street": "Boulevard Tanimoune",
+        "iso3166_2": "NE-8",
+        "lon": 2.0843338575844155,
+        "lat": 13.5634355,
+        "formatted": "Boulevard Tanimoune, Niamey, Niger",
+        "address_line1": "Boulevard Tanimoune",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 638391106,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "51242ac23ab7ac0040591a95299e7a202b40f00102f90142130d2600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0843338575844133,
+          13.563435499740581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Village de la Francophonie",
+        "street": "Boulevard Tanimoune",
+        "iso3166_2": "NE-8",
+        "lon": 2.0832426165275666,
+        "lat": 13.5618996,
+        "formatted": "Boulevard Tanimoune, Niamey, Niger",
+        "address_line1": "Boulevard Tanimoune",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 638391108,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "5176f4dc1a7baa004059840ae94db11f2b40f00102f90144130d2600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.083242616527566,
+          13.561899599740407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Village de la Francophonie",
+        "street": "Boulevard Tanimoune",
+        "iso3166_2": "NE-8",
+        "lon": 2.085537085403937,
+        "lat": 13.5640863,
+        "formatted": "Boulevard Tanimoune, Niamey, Niger",
+        "address_line1": "Boulevard Tanimoune",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 638391111,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "517a3d43112eaf004059f80363ebcf202b40f00102f90147130d2600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0855370854039252,
+          13.564086299740651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Kalley 2",
+        "street": "Boulevard du Zarmaganda",
+        "iso3166_2": "NE-8",
+        "lon": 2.1063810639353826,
+        "lat": 13.5250813,
+        "formatted": "Boulevard du Zarmaganda, Niamey, Niger",
+        "address_line1": "Boulevard du Zarmaganda",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 639557676,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "511521b450ded90040599c37c474d70c2b40f00102f9012ce01e2600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1063810639353826,
+          13.525081299736307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Kalley 2",
+        "street": "Boulevard du Zarmaganda",
+        "iso3166_2": "NE-8",
+        "lon": 2.1064757713451465,
+        "lat": 13.52577825,
+        "formatted": "Boulevard du Zarmaganda, Niamey, Niger",
+        "address_line1": "Boulevard du Zarmaganda",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 639557678,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "5142f31df80fda004059ba2187ce320d2b40f00102f9012ee01e2600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1064757713451465,
+          13.52577824973638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Kombo",
+        "street": "Avenue des Ministères",
+        "iso3166_2": "NE-8",
+        "lon": 2.1011962875296897,
+        "lat": 13.51530135,
+        "formatted": "Avenue des Ministères, Niamey, Niger",
+        "address_line1": "Avenue des Ministères",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 639854281,
+            "leisure": "garden",
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "514155cbff3fcf00405914651994d5072b40f00102f901c966232600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1011962875296892,
+          13.515301349735218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Zongo",
+        "street": "Avenue de la Mairie",
+        "iso3166_2": "NE-8",
+        "lon": 2.1049039426675202,
+        "lat": 13.51615225,
+        "formatted": "Avenue de la Mairie, Niamey, Niger",
+        "address_line1": "Avenue de la Mairie",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 639854283,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "landcover": "grass",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "51e2d3d7e0d7d60040596ebd901b45082b40f00102f901cb66232600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1049039426675202,
+          13.51615224973531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 2",
+        "suburb": "Maourey",
+        "street": "Rond-Point Kennedy",
+        "iso3166_2": "NE-8",
+        "lon": 2.1076785500152977,
+        "lat": 13.5083205,
+        "formatted": "Rond-Point Kennedy, Niamey, Niger",
+        "address_line1": "Rond-Point Kennedy",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 639863440,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "51085f569286dc004059d77da49542042b40f00102f901908a232600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1076785500152972,
+          13.508320499734436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8002",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Village de la Francophonie",
+        "street": "Boulevard Tanimoune",
+        "iso3166_2": "NE-8",
+        "lon": 2.089549466030834,
+        "lat": 13.564499600000001,
+        "formatted": "Boulevard Tanimoune, Niamey, Niger",
+        "address_line1": "Boulevard Tanimoune",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "kerb": "yes",
+            "osm_id": 654072218,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "traffic_calming": "island"
+          }
+        },
+        "place_id": "513ad0dfb565b700405999fb6e1706212b40f00102f9019a59fc2600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.089549466030829,
+          13.564499599740701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "state": "Tillabéri Region",
+        "county": "Say",
+        "city": "Torodi",
+        "street": "ruelle",
+        "iso3166_2": "NE-6",
+        "lon": 1.7879286,
+        "lat": 13.1484247,
+        "formatted": "ruelle, Torodi, Niger",
+        "address_line1": "ruelle",
+        "address_line2": "Torodi, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4335912459,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513d5409055b9bfc3f59c1377e52fe4b2a40f00103f9010bc6700201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7879286,
+          13.148424699695058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "state": "Tillabéri Region",
+        "county": "Kollo",
+        "city": "Settoré",
+        "iso3166_2": "NE-6",
+        "lon": 1.9861207,
+        "lat": 13.5523812,
+        "formatted": "Settoré, Kollo, Niger",
+        "address_line1": "Settoré",
+        "address_line2": "Kollo, Niger",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4335939668,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51be89c67f26c7ff3f598d9c67b5d11a2b40f00103f9015430710201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9861207000000003,
+          13.552381199739353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Niger",
+        "country_code": "ne",
+        "county": "Kollo",
+        "city": "Niamey",
+        "postcode": "8001",
+        "district": "Arrondissement Communal Niamey 1",
+        "suburb": "Riyad",
+        "street": "Rue FK - 156",
+        "iso3166_2": "NE-8",
+        "lon": 2.0778334,
+        "lat": 13.5523571,
+        "formatted": "Rue FK - 156, Niamey, Niger",
+        "address_line1": "Rue FK - 156",
+        "address_line2": "Niamey, Niger",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "religion.place_of_worship.islam",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7630662485,
+            "amenity": "place_of_worship",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "religion": "muslim"
+          }
+        },
+        "place_of_worship": {
+          "religion": "muslim"
+        },
+        "place_id": "51b94a1c1e679f0040590e30be8cce1a2b40f00103f90155abd2c601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0778334,
+          13.552357099739336
+        ]
+      }
+    }
+  ]
+}

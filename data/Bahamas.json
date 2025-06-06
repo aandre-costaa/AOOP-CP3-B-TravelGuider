@@ -1,0 +1,2087 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Lagoon Island",
+        "old_name": "Salt Cay",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "lon": -77.26952338632495,
+        "lat": 25.09894305,
+        "formatted": "Blue Lagoon Island, Nassau, Bahamas",
+        "address_line1": "Blue Lagoon Island",
+        "address_line2": "Nassau, Bahamas",
+        "categories": [
+          "island",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Blue Lagoon Island",
+            "place": "islet",
+            "osm_id": -15913017,
+            "tourism": "attraction",
+            "old_name": "Salt Cay",
+            "osm_type": "r",
+            "wikidata": "Q21712750"
+          }
+        },
+        "name_other": {
+          "old_name": "Salt Cay"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q21712750"
+        },
+        "place_id": "51787104df3f5153c059e6fcec5454193940f00101f90139d0f20000000000920312426c7565204c61676f6f6e2049736c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26952338632498,
+          25.098943050249453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albany Golf Course",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Adelaide Road",
+        "iso3166_2": "BS-NP",
+        "lon": -77.50184419560343,
+        "lat": 25.01142255,
+        "formatted": "Albany Golf Course, Adelaide Road, New Providence, Bahamas",
+        "address_line1": "Albany Golf Course",
+        "address_line2": "Adelaide Road, New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Albany Golf Course",
+            "sport": "golf",
+            "osm_id": 222586240,
+            "leisure": "golf_course",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q4709272"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q4709272"
+        },
+        "place_id": "5176f31d371e6053c05970ca9796ec023940f00102f9018065440d00000000920312416c62616e7920476f6c6620436f75727365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.50184419560341,
+          25.01142255025701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Charlotte",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "West Bay Street",
+        "lon": -77.35813044366006,
+        "lat": 25.07702505,
+        "formatted": "Fort Charlotte, West Bay Street, Nassau, Bahamas",
+        "address_line1": "Fort Charlotte",
+        "address_line2": "West Bay Street, Nassau, Bahamas",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.military",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.fort"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fort Charlotte",
+            "osm_id": 302015352,
+            "tourism": "attraction",
+            "building": "bunker",
+            "historic": "fort",
+            "operator": "Bahamas Government",
+            "osm_type": "w",
+            "wikidata": "Q5470909",
+            "addr:city": "Nassau",
+            "addr:street": "West Bay Street",
+            "description": "Built in 1788 by Lord Dunmore, the fort was named after the wife of King George III, Queen Saharia Charlotte. The fort has a moat, dungeons, underground passageways, and 42 cannons, which have never been fired in an act of aggression."
+          }
+        },
+        "operator": "Bahamas Government",
+        "description": "Built in 1788 by Lord Dunmore, the fort was named after the wife of King George III, Queen Saharia Charlotte. The fort has a moat, dungeons, underground passageways, and 42 cannons, which have never been fired in an act of aggression.",
+        "wiki_and_media": {
+          "wikidata": "Q5470909"
+        },
+        "historic": {
+          "type": "fort"
+        },
+        "building": {
+          "type": "bunker"
+        },
+        "place_id": "5134cef39beb5653c05967cde7e9b7133940f00102f901786300120000000092030e466f727420436861726c6f747465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35813044366006,
+          25.07702505025136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "old_name": "Queen Victoria's Staircase",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Queens Staircase",
+        "lon": -77.3376267,
+        "lat": 25.0732802,
+        "formatted": "The Queen's Staircase, Queens Staircase, Nassau, Bahamas",
+        "address_line1": "The Queen's Staircase",
+        "address_line2": "Queens Staircase, Nassau, Bahamas",
+        "name": "The Queen's Staircase",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Queen's Staircase",
+            "ramp": "no",
+            "width": 3,
+            "height": 31.0896,
+            "osm_id": 374794285,
+            "cutting": "yes",
+            "highway": "steps",
+            "incline": "up",
+            "name:en": "Queens Staircase",
+            "name:ko": "여왕의 계단",
+            "tourism": "attraction",
+            "z_order": 90,
+            "alt_name": "The Sixty-Six Steps",
+            "old_name": "Queen Victoria's Staircase",
+            "osm_type": "w",
+            "wikidata": "Q43079731",
+            "wikipedia": "en:Queen's Staircase (Nassau)",
+            "start_date": 1793,
+            "step_count": 65,
+            "wheelchair": "no",
+            "handrail:left": "yes",
+            "handrail:right": "yes"
+          }
+        },
+        "name_other": {
+          "alt_name": "The Sixty-Six Steps",
+          "old_name": "Queen Victoria's Staircase"
+        },
+        "name_international": {
+          "en": "Queens Staircase",
+          "ko": "여왕의 계단"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "wiki_and_media": {
+          "wikidata": "Q43079731",
+          "wikipedia": "en:Queen's Staircase (Nassau)"
+        },
+        "place_id": "519218a99c9b5553c0599043e0fab0123940f00102f9012de856160000000092031554686520517565656e277320537461697263617365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33762279999999,
+          25.073013000251706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gregory’s Arch",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Market Street",
+        "lon": -77.34368986317044,
+        "lat": 25.0755291,
+        "formatted": "Gregory’s Arch, Market Street, Nassau, Bahamas",
+        "address_line1": "Gregory’s Arch",
+        "address_line2": "Market Street, Nassau, Bahamas",
+        "categories": [
+          "man_made",
+          "man_made.bridge",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gregory’s Arch",
+            "layer": 1,
+            "osm_id": 817869946,
+            "surface": "asphalt",
+            "tourism": "attraction",
+            "website": "https://www.bahamas.com/vendor/gregorys-arch",
+            "man_made": "bridge",
+            "osm_type": "w",
+            "start_date": 1850,
+            "addr:street": "Market Street"
+          }
+        },
+        "website": "https://www.bahamas.com/vendor/gregorys-arch",
+        "place_id": "512992c403ff5553c059fa7907e055133940f00102f9017ab4bf3000000000920310477265676f7279e28099732041726368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34368986317044,
+          25.075529100251494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curtiss C-46A-45-CU Commando",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Exuma",
+        "iso3166_2": "BS-EX",
+        "lon": -76.80965779235355,
+        "lat": 24.5944601,
+        "formatted": "Curtiss C-46A-45-CU Commando, Exuma, Bahamas",
+        "address_line1": "Curtiss C-46A-45-CU Commando",
+        "address_line2": "Exuma, Bahamas",
+        "categories": [
+          "access",
+          "access.yes",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Curtiss C-46A-45-CU Commando",
+            "sport": "scuba_diving",
+            "access": "yes",
+            "damage": "destroyed",
+            "osm_id": 948102800,
+            "tourism": "attraction",
+            "historic": "wreck",
+            "osm_type": "w",
+            "wikidata": "Q1145708",
+            "wikipedia": "en:Curtiss C-46 Commando",
+            "seamark:type": "wreck",
+            "aircraft:type": "transport",
+            "wreck:date_sunk": "15 November 1980",
+            "damage:structure": "heavy",
+            "year_of_construction": "1940-1945",
+            "wreck:visible_at_low_tide": "yes",
+            "wreck:visible_at_high_tide": "no"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1145708",
+          "wikipedia": "en:Curtiss C-46 Commando"
+        },
+        "historic": {
+          "type": "wreck"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "510ac7ea6ed13353c059c28681892e983840f00102f90190e682380000000092031c4375727469737320432d3436412d34352d435520436f6d6d616e646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80965779235353,
+          24.594460100290924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonefish Pond National Park",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Cow Pen Road",
+        "lon": -77.3918154,
+        "lat": 24.9984809,
+        "formatted": "Bonefish Pond National Park, Cow Pen Road, Nassau, Bahamas",
+        "address_line1": "Bonefish Pond National Park",
+        "address_line2": "Cow Pen Road, Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bonefish Pond National Park",
+            "osm_id": 4360697913,
+            "name:en": "Bonefish Pond National Park",
+            "tourism": "attraction",
+            "website": "https://bnt.bs/bonefish-pond/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://bnt.bs/bonefish-pond/",
+        "name_international": {
+          "en": "Bonefish Pond National Park"
+        },
+        "place_id": "516d44e680135953c059094abc719cff3840f00103f90139f8ea030100000092031b426f6e656669736820506f6e64204e6174696f6e616c205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3918154,
+          24.998480900258105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrold & Wilson Ponds National Park",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Milo Butler Highway",
+        "lon": -77.3812408,
+        "lat": 25.0398904,
+        "formatted": "Harrold & Wilson Ponds National Park, Milo Butler Highway, Nassau, Bahamas",
+        "address_line1": "Harrold & Wilson Ponds National Park",
+        "address_line2": "Milo Butler Highway, Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Harrold & Wilson Ponds National Park",
+            "osm_id": 4360698314,
+            "name:en": "Harrold & Wilson Ponds National Park",
+            "tourism": "attraction",
+            "website": "https://bnt.bs/harrold-and-wilson-ponds-national-park/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://bnt.bs/harrold-and-wilson-ponds-national-park/",
+        "name_international": {
+          "en": "Harrold & Wilson Ponds National Park"
+        },
+        "place_id": "51a8f9cf3f665853c0598984dc41360a3940f00103f901caf9ea0301000000920324486172726f6c6420262057696c736f6e20506f6e6473204e6174696f6e616c205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3812408,
+          25.039890400254567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Primeval Forest National Park",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Coral Harbour Road",
+        "iso3166_2": "BS-NP",
+        "lon": -77.4567614,
+        "lat": 25.0080548,
+        "formatted": "Primeval Forest National Park, Coral Harbour Road, New Providence, Bahamas",
+        "address_line1": "Primeval Forest National Park",
+        "address_line2": "Coral Harbour Road, New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Primeval Forest National Park",
+            "osm_id": 4360708900,
+            "name:en": "Primeval Forest National Park",
+            "tourism": "attraction",
+            "website": "https://www.bahamas.com/vendor/primeval-forest-national-park",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.bahamas.com/vendor/primeval-forest-national-park",
+        "name_international": {
+          "en": "Primeval Forest National Park"
+        },
+        "place_id": "51d0c42a943b5d53c0594dae1fe10f023940f00103f9012423eb030100000092031d5072696d6576616c20466f72657374204e6174696f6e616c205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4567614,
+          25.008054800257288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clifton National Park",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Western Road",
+        "iso3166_2": "BS-NP",
+        "lon": -77.5473325,
+        "lat": 25.0134818,
+        "formatted": "Clifton National Park, Western Road, New Providence, Bahamas",
+        "address_line1": "Clifton National Park",
+        "address_line2": "Western Road, New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Clifton National Park",
+            "osm_id": 4360738889,
+            "name:en": "Clifton National Park",
+            "tourism": "attraction",
+            "website": "https://cliftonheritage.org/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://cliftonheritage.org/",
+        "name_international": {
+          "en": "Clifton National Park"
+        },
+        "place_id": "516ce2e47e076353c059bc31138b73033940f00103f9014998eb0301000000920315436c6966746f6e204e6174696f6e616c205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.54733249999998,
+          25.013481800256827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adelaide Village",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Adelaide Road",
+        "iso3166_2": "BS-NP",
+        "lon": -77.4935547,
+        "lat": 25.0079177,
+        "formatted": "Adelaide Village, Adelaide Road, New Providence, Bahamas",
+        "address_line1": "Adelaide Village",
+        "address_line2": "Adelaide Road, New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Adelaide Village",
+            "osm_id": 4360771690,
+            "name:en": "Adelaide Village",
+            "tourism": "attraction",
+            "website": "https://www.bahamas.com/vendor/adelaide-village",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.bahamas.com/vendor/adelaide-village",
+        "name_international": {
+          "en": "Adelaide Village"
+        },
+        "place_id": "515fd27366965f53c05928aaf7e406023940f00103f9016a18ec03010000009203104164656c616964652056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.49355469999999,
+          25.00791770025731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Parliament Square",
+        "lon": -77.34047359849049,
+        "lat": 25.07784025,
+        "formatted": "Parliament Square, Nassau, Bahamas",
+        "address_line1": "Parliament Square",
+        "address_line2": "Nassau, Bahamas",
+        "name": "Parliament Square",
+        "categories": [
+          "highway",
+          "highway.pedestrian",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parliament Square",
+            "osm_id": -14900727,
+            "highway": "pedestrian",
+            "name:es": "Plaza del Parlamento",
+            "name:ko": "의회 광장",
+            "surface": "paving_stones",
+            "tourism": "attraction",
+            "z_order": 310,
+            "osm_type": "r"
+          }
+        },
+        "name_international": {
+          "es": "Plaza del Parlamento",
+          "ko": "의회 광장"
+        },
+        "way": {
+          "surface": "paving_stones"
+        },
+        "place_id": "51c1aac651ca5553c0594a24b156ed133940f00101f901f75de300000000009203115061726c69616d656e7420537175617265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34047359849048,
+          25.077840250251292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Straw Market",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Market Street",
+        "lon": -77.3433868544628,
+        "lat": 25.0785898,
+        "formatted": "Straw Market, Market Street, Nassau, Bahamas",
+        "address_line1": "Straw Market",
+        "address_line2": "Market Street, Nassau, Bahamas",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.tourism",
+          "commercial.marketplace",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Straw Market",
+            "osm_id": 234030239,
+            "amenity": "marketplace",
+            "tourism": "attraction",
+            "building": "commercial",
+            "osm_type": "w",
+            "roof:shape": "hipped",
+            "addr:housename": "Straw Market"
+          }
+        },
+        "building": {
+          "type": "commercial",
+          "roof": {
+            "shape": "hipped"
+          }
+        },
+        "place_id": "51d272db0cfa5553c059d1e00d761e143940f00102f9019f04f30d0000000092030c5374726177204d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3433868544628,
+          25.078589800251226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rawson Square",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "lon": -77.34045719480784,
+        "lat": 25.078293000000002,
+        "formatted": "Rawson Square, Nassau, Bahamas",
+        "address_line1": "Rawson Square",
+        "address_line2": "Nassau, Bahamas",
+        "categories": [
+          "highway",
+          "highway.pedestrian",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Rawson Square",
+            "place": "square",
+            "osm_id": 234030479,
+            "highway": "pedestrian",
+            "name:es": "Plaza Rawson",
+            "tourism": "attraction",
+            "z_order": 310,
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "es": "Plaza Rawson"
+        },
+        "place_id": "51ce58f90cca5553c059b89593020b143940f00102f9018f05f30d0000000092030d526177736f6e20537175617265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34045719480784,
+          25.07829300025125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish Fry at Arawak Cay",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Esplanade Way",
+        "lon": -77.3588046120644,
+        "lat": 25.07959355,
+        "formatted": "Fish Fry at Arawak Cay, Esplanade Way, Nassau, Bahamas",
+        "address_line1": "Fish Fry at Arawak Cay",
+        "address_line2": "Esplanade Way, Nassau, Bahamas",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fish Fry at Arawak Cay",
+            "osm_id": 304217940,
+            "amenity": "restaurant",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "511e9e9ea7f65653c059194d2f3e60143940f00102f90154ff21120000000092031646697368204672792061742041726177616b20436179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3588046120644,
+          25.079593550251136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Captain Bill’s Blue Hole",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "North Andros",
+        "iso3166_2": "BS-NS",
+        "lon": -77.86147151705819,
+        "lat": 24.741562000000002,
+        "formatted": "Captain Bill’s Blue Hole, North Andros, Bahamas",
+        "address_line1": "Captain Bill’s Blue Hole",
+        "address_line2": "North Andros, Bahamas",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Captain Bill’s Blue Hole",
+            "water": "lake",
+            "osm_id": 333930500,
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "sinkhole": "bluehole"
+          }
+        },
+        "place_id": "51d40c6e59227753c059fa27db01d7bd3840f00102f9010460e7130000000092031a4361707461696e2042696c6ce280997320426c756520486f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.86147151705819,
+          24.74156200027935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack Nicklaus Signature Golf Course",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "West Bay Street",
+        "lon": -77.39636620750576,
+        "lat": 25.065026600000003,
+        "formatted": "Jack Nicklaus Signature Golf Course, West Bay Street, Nassau, Bahamas",
+        "address_line1": "Jack Nicklaus Signature Golf Course",
+        "address_line2": "West Bay Street, Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jack Nicklaus Signature Golf Course",
+            "sport": "golf",
+            "osm_id": 369143847,
+            "leisure": "golf_course",
+            "tourism": "attraction",
+            "operator": "Baha Mar Resort",
+            "osm_type": "w"
+          }
+        },
+        "operator": "Baha Mar Resort",
+        "place_id": "51859e5e105e5953c05940745195a5103940f00102f90127b00016000000009203234a61636b204e69636b6c617573205369676e617475726520476f6c6620436f75727365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39636620750578,
+          25.065026600252395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Harry Oakes Monument",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "suburb": "Oakes Field",
+        "street": "Hawthorn Road",
+        "lon": -77.36187796351857,
+        "lat": 25.057610750000002,
+        "formatted": "Sir Harry Oakes Monument, Hawthorn Road, Nassau, Bahamas",
+        "address_line1": "Sir Harry Oakes Monument",
+        "address_line2": "Hawthorn Road, Nassau, Bahamas",
+        "categories": [
+          "no_fee",
+          "no_fee.no",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "Sir Harry Oakes Monument",
+            "osm_id": 443845962,
+            "tourism": "attraction",
+            "historic": "monument",
+            "landmark": "yes",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "51239d3002295753c0591f3c0094bf0e3940f00102f9014a8d741a00000000920318536972204861727279204f616b6573204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36187796351855,
+          25.057610750253044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conch Sounds Oceanic Blue Hole",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "North Andros",
+        "hamlet": "Conch Sound Settlement",
+        "iso3166_2": "BS-NS",
+        "lon": -78.00056709125349,
+        "lat": 25.1146968,
+        "formatted": "Conch Sounds Oceanic Blue Hole, North Andros, Bahamas",
+        "address_line1": "Conch Sounds Oceanic Blue Hole",
+        "address_line2": "North Andros, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Conch Sounds Oceanic Blue Hole",
+            "osm_id": 810828487,
+            "natural": "sinkhole",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "sinkhole": "bluehole"
+          }
+        },
+        "place_id": "51ce988d4a098053c0597805fec45c1d3940f00102f901c74254300000000092031e436f6e636820536f756e6473204f6365616e696320426c756520486f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.00056709125349,
+          25.114696800248083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nassau Botanical Gardens",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "suburb": "Chippingham",
+        "street": "Infant View Road",
+        "lon": -77.35821702321428,
+        "lat": 25.0759794,
+        "formatted": "Nassau Botanical Gardens, Infant View Road, Nassau, Bahamas",
+        "address_line1": "Nassau Botanical Gardens",
+        "address_line2": "Infant View Road, Nassau, Bahamas",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nassau Botanical Gardens",
+            "osm_id": 1169663168,
+            "leisure": "garden",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "garden:type": "botanical"
+          }
+        },
+        "place_id": "51dae41707ed5653c059ea3fcf6273133940f00102f901c0a4b745000000009203184e617373617520426f74616e6963616c2047617264656e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35821702321428,
+          25.07597940025145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solomons Lighthouse",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "suburb": "Winton Estates 1",
+        "street": "Eastern Road",
+        "lon": -77.2640708,
+        "lat": 25.0448057,
+        "formatted": "Solomons Lighthouse, Eastern Road, Nassau, Bahamas",
+        "address_line1": "Solomons Lighthouse",
+        "address_line2": "Eastern Road, Nassau, Bahamas",
+        "categories": [
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Solomons Lighthouse",
+            "osm_id": 4697252070,
+            "tourism": "attraction",
+            "man_made": "lighthouse",
+            "osm_type": "n",
+            "seamark:type": "light_major"
+          }
+        },
+        "place_id": "5107753689e65053c0591544e962780b3940f00103f901e660fa1701000000920313536f6c6f6d6f6e73204c69676874686f757365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2640708,
+          25.044805700254148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conch Sounds Oceanic Blue Hole",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "North Andros",
+        "village": "Lowe Sound",
+        "hamlet": "Morgan's Bluff",
+        "street": "Morgan's Bluff Drive",
+        "iso3166_2": "BS-NS",
+        "lon": -78.0261531,
+        "lat": 25.1776231,
+        "formatted": "Conch Sounds Oceanic Blue Hole, Morgan's Bluff Drive, North Andros, Bahamas",
+        "address_line1": "Conch Sounds Oceanic Blue Hole",
+        "address_line2": "Morgan's Bluff Drive, North Andros, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Conch Sounds Oceanic Blue Hole",
+            "osm_id": 6031081586,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51194c0d7eac8153c0594e8e1eb5782d3940f00103f90172007b670100000092031e436f6e636820536f756e6473204f6365616e696320426c756520486f6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0261531,
+          25.17762310024255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shipwrecks",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "North Andros",
+        "village": "Lowe Sound",
+        "hamlet": "Morgan's Bluff",
+        "street": "Morgan's Bluff Drive",
+        "iso3166_2": "BS-NS",
+        "lon": -78.0261244,
+        "lat": 25.1776547,
+        "formatted": "Shipwrecks, Morgan's Bluff Drive, North Andros, Bahamas",
+        "address_line1": "Shipwrecks",
+        "address_line2": "Morgan's Bluff Drive, North Andros, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shipwrecks",
+            "osm_id": 6031092185,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512be8ac05ac8153c059bd8547c77a2d3940f00103f901d9297b670100000092030a53686970777265636b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0261244,
+          25.177654700242545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shipwreck Beach",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "North Andros",
+        "village": "Lowe Sound",
+        "hamlet": "Morgan's Bluff",
+        "street": "Morgan's Bluff Drive",
+        "iso3166_2": "BS-NS",
+        "lon": -78.0257799,
+        "lat": 25.1732152,
+        "formatted": "Shipwreck Beach, Morgan's Bluff Drive, North Andros, Bahamas",
+        "address_line1": "Shipwreck Beach",
+        "address_line2": "Morgan's Bluff Drive, North Andros, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shipwreck Beach",
+            "osm_id": 6031092186,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513ad9bc60a68153c059a936d4d4572c3940f00103f901da297b670100000092030f53686970777265636b204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0257799,
+          25.17321520024294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playing With the Spirits",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Lynden Pindling International Airport",
+        "iso3166_2": "BS-NP",
+        "lon": -77.4666072,
+        "lat": 25.0518695,
+        "formatted": "Playing With the Spirits, Lynden Pindling International Airport, New Providence, Bahamas",
+        "address_line1": "Playing With the Spirits",
+        "address_line2": "Lynden Pindling International Airport, New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Playing With the Spirits",
+            "osm_id": 6713609312,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51000572e4dc5d53c059b13fcf51470d3940f00103f901608c299001000000920318506c6179696e672057697468207468652053706972697473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4666072,
+          25.051869500253535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clifton Heritage National Park",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Southwest Road",
+        "iso3166_2": "BS-NP",
+        "lon": -77.5471039,
+        "lat": 25.0075576,
+        "formatted": "Clifton Heritage National Park, Southwest Road, New Providence, Bahamas",
+        "address_line1": "Clifton Heritage National Park",
+        "address_line2": "Southwest Road, New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Clifton Heritage National Park",
+            "osm_id": 7115879786,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e58013c0036353c05907f17d4bef013940f00103f9016ab523a80100000092031e436c6966746f6e204865726974616765204e6174696f6e616c205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.54710389999998,
+          25.00755760025734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Crown Aviation",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "North Eleuthera",
+        "street": "Queen's Highway",
+        "iso3166_2": "BS-NE",
+        "lon": -76.6826284,
+        "lat": 25.4763925,
+        "formatted": "White Crown Aviation, Queen's Highway, North Eleuthera, Bahamas",
+        "address_line1": "White Crown Aviation",
+        "address_line2": "Queen's Highway, North Eleuthera, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "White Crown Aviation",
+            "osm_id": 9670753217,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518854072fb02b53c059057ce0dbf4793940f00103f901c1fb6b400200000092031457686974652043726f776e204176696174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6826284,
+          25.476392500215315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackbeards's Tower",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "suburb": "Tranquilizer Estates",
+        "street": "Blackbeard Terrace",
+        "lon": -77.28691,
+        "lat": 25.0521866,
+        "formatted": "Blackbeards's Tower, Blackbeard Terrace, Nassau, Bahamas",
+        "address_line1": "Blackbeards's Tower",
+        "address_line2": "Blackbeard Terrace, Nassau, Bahamas",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Blackbeards's Tower",
+            "osm_id": 10177801172,
+            "tourism": "attraction",
+            "man_made": "tower",
+            "osm_type": "n",
+            "tower:type": "watchtower"
+          }
+        },
+        "place_id": "514eb9c2bb5c5253c059d660dd195c0d3940f00103f901d4eba45e02000000920313426c61636b626561726473277320546f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28691,
+          25.052186600253513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Milo Butler",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "lon": -77.3404281,
+        "lat": 25.0780827,
+        "formatted": "Sir Milo Butler, Nassau, Bahamas",
+        "address_line1": "Sir Milo Butler",
+        "address_line2": "Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sir Milo Butler",
+            "osm_id": 10177845243,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51eb08f192c95553c0596af6533afd133940f00103f901fb97a55e0200000092030f536972204d696c6f204275746c6572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34042809999998,
+          25.078082700251265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centreville Estate",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Shirley Street",
+        "lon": -77.3342751,
+        "lat": 25.0750253,
+        "formatted": "Centreville Estate, Shirley Street, Nassau, Bahamas",
+        "address_line1": "Centreville Estate",
+        "address_line2": "Shirley Street, Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centreville Estate",
+            "osm_id": 10178149063,
+            "tourism": "attraction",
+            "alt_name": "Collins Estate",
+            "historic": "manor",
+            "osm_type": "n"
+          }
+        },
+        "name_other": {
+          "alt_name": "Collins Estate"
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "517f9763c3645553c059f0f3aadb34133940f00103f901c73aaa5e0200000092031243656e74726576696c6c6520457374617465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3342751,
+          25.075025300251525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Victoria",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Parliament Square",
+        "lon": -77.3404784,
+        "lat": 25.0777723,
+        "formatted": "Queen Victoria, Parliament Square, Nassau, Bahamas",
+        "address_line1": "Queen Victoria",
+        "address_line2": "Parliament Square, Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Queen Victoria",
+            "osm_id": 10178599945,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51a33fea65ca5553c0592f1daee2e8133940f00103f901091cb15e0200000092030e517565656e20566963746f726961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34047839999998,
+          25.077772300251294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pearl Island Snorkeling",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Island End",
+        "lon": -77.2699566,
+        "lat": 25.0822148,
+        "formatted": "Pearl Island Snorkeling, Island End, Nassau, Bahamas",
+        "address_line1": "Pearl Island Snorkeling",
+        "address_line2": "Island End, Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pearl Island Snorkeling",
+            "osm_id": 10276823709,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b8150cf8465153c059285376070c153940f00103f9019de28b6402000000920317506561726c2049736c616e6420536e6f726b656c696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2699566,
+          25.08221480025091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose Island Snorkeling",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "iso3166_2": "BS-NP",
+        "lon": -77.2206442,
+        "lat": 25.0862335,
+        "formatted": "Rose Island Snorkeling, New Providence, Bahamas",
+        "address_line1": "Rose Island Snorkeling",
+        "address_line2": "New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rose Island Snorkeling",
+            "osm_id": 10932055505,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5155c3d9081f4e53c0594d650f6613163940f00103f901d1ed998b02000000920316526f73652049736c616e6420536e6f726b656c696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2206442,
+          25.086233500250547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean Club Drive",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "One And Only Ocean Club",
+        "lon": -77.3113744,
+        "lat": 25.083579,
+        "formatted": "Ocean Club Drive, One And Only Ocean Club, Nassau, Bahamas",
+        "address_line1": "Ocean Club Drive",
+        "address_line2": "One And Only Ocean Club, Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ocean Club Drive",
+            "osm_id": 11428891781,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "description": "Famous driveway from Ian Flemings James Bond - Casino Royale (2006) played by Daniel Craig"
+          }
+        },
+        "description": "Famous driveway from Ian Flemings James Bond - Casino Royale (2006) played by Daniel Craig",
+        "place_id": "51f233e48eed5353c059a3b5f06e65153940f00103f901850c37a9020000009203104f6365616e20436c7562204472697665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3113744,
+          25.08357900025079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean Atlas",
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Southwest Road",
+        "iso3166_2": "BS-NP",
+        "lon": -77.5508427,
+        "lat": 25.0076979,
+        "formatted": "Ocean Atlas, Southwest Road, New Providence, Bahamas",
+        "address_line1": "Ocean Atlas",
+        "address_line2": "Southwest Road, New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ocean Atlas",
+            "osm_id": 12142635480,
+            "tourism": "artwork",
+            "location": "underwater",
+            "osm_type": "n",
+            "artist_name": "Jason deCaires Taylor",
+            "artwork_type": "sculpture",
+            "seamark:type": "obstruction"
+          }
+        },
+        "artwork": {
+          "artist_name": "Jason deCaires Taylor",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51626fbd01416353c05960da557df8013940f00103f901d8e9c1d30200000092030b4f6365616e2041746c6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5508427,
+          25.007697900257313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Greenwich Street",
+        "lon": -77.33847954315995,
+        "lat": 25.07359505,
+        "formatted": "Greenwich Street, Nassau, Bahamas",
+        "address_line1": "Greenwich Street",
+        "address_line2": "Nassau, Bahamas",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "layer": 2,
+            "osm_id": 1280220983,
+            "highway": "footway",
+            "tourism": "viewpoint",
+            "z_order": 100,
+            "osm_type": "w",
+            "direction": "0-360"
+          }
+        },
+        "place_id": "512a0f1aa6a95553c05974fa0d20d7123940f00102f901379f4e4c00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33847954315993,
+          25.073595050251654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Fort Charlotte Circle",
+        "lon": -77.3586396,
+        "lat": 25.0772292,
+        "formatted": "Fort Charlotte Circle, Nassau, Bahamas",
+        "address_line1": "Fort Charlotte Circle",
+        "address_line2": "Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2023827450,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513c4382f3f35653c0593060f94ac5133940f00103f901fa27a17800000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3586396,
+          25.077229200251338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Montague Bay Drive",
+        "lon": -77.3073068,
+        "lat": 25.0735519,
+        "formatted": "Montague Bay Drive, Nassau, Bahamas",
+        "address_line1": "Montague Bay Drive",
+        "address_line2": "Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5665510971,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a8f523eaaa5353c059b6231e4cd4123940f00103f9013bd6b05101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30730679999999,
+          25.07355190025165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Lynden Pindling International Airport",
+        "iso3166_2": "BS-NP",
+        "lon": -77.4660777,
+        "lat": 25.0506939,
+        "formatted": "Lynden Pindling International Airport, New Providence, Bahamas",
+        "address_line1": "Lynden Pindling International Airport",
+        "address_line2": "New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.attraction.fountain"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6713609311,
+            "amenity": "fountain",
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture",
+            "artwork_subject": "red mangrove",
+            "subject:wikidata": "Q853914"
+          }
+        },
+        "artwork": {
+          "artwork_subject": "red mangrove",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5145b98f37d45d53c05930b28346fa0c3940f00103f9015f8c299001000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46607769999999,
+          25.050693900253634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Lynden Pindling International Airport",
+        "iso3166_2": "BS-NP",
+        "lon": -77.4658911,
+        "lat": 25.0502913,
+        "formatted": "Lynden Pindling International Airport, New Providence, Bahamas",
+        "address_line1": "Lynden Pindling International Airport",
+        "address_line2": "New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7103333176,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51d67fe728d15d53c059e4dc01e4df0c3940f00103f901384364a701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4658911,
+          25.050291300253676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Lynden Pindling International Airport",
+        "iso3166_2": "BS-NP",
+        "lon": -77.4654465,
+        "lat": 25.0499633,
+        "formatted": "Lynden Pindling International Airport, New Providence, Bahamas",
+        "address_line1": "Lynden Pindling International Airport",
+        "address_line2": "New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7103333182,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture",
+            "artwork_subject": "flamingoes",
+            "subject:wikidata": "Q208004"
+          }
+        },
+        "artwork": {
+          "artwork_subject": "flamingoes",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5169e21de0c95d53c05905971465ca0c3940f00103f9013e4364a701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4654465,
+          25.04996330025371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "New Providence",
+        "street": "Lynden Pindling International Airport",
+        "iso3166_2": "BS-NP",
+        "lon": -77.4652025,
+        "lat": 25.049792,
+        "formatted": "Lynden Pindling International Airport, New Providence, Bahamas",
+        "address_line1": "Lynden Pindling International Airport",
+        "address_line2": "New Providence, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7103336612,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "statue",
+            "artwork_subject": "Sir Lynden Pindling",
+            "subject:wikidata": "Q920953"
+          }
+        },
+        "artwork": {
+          "artwork_subject": "Sir Lynden Pindling",
+          "artwork_type": "statue"
+        },
+        "place_id": "511ee1b4e0c55d53c05930b1242bbf0c3940f00103f901a45064a701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4652025,
+          25.049792000253717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bahamas",
+        "country_code": "bs",
+        "city": "Nassau",
+        "street": "Prince Street",
+        "lon": -77.3429334,
+        "lat": 25.0759765,
+        "formatted": "Prince Street, Nassau, Bahamas",
+        "address_line1": "Prince Street",
+        "address_line2": "Nassau, Bahamas",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7638199863,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51306dee9ef25553c05933d8273273133940f00103f90137ae45c701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34293339999999,
+          25.075976500251453
+        ]
+      }
+    }
+  ]
+}

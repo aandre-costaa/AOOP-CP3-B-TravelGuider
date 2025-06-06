@@ -1,0 +1,5411 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hacienda Santa Teresa",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Revenga",
+        "city": "El Consejo",
+        "municipality": "Parroquia El Consejo",
+        "suburb": "Hacienda Santa Teresa",
+        "iso3166_2": "VE-D",
+        "lon": -67.26048214999813,
+        "lat": 10.242137849999999,
+        "formatted": "Hacienda Santa Teresa, El Consejo, Municipio Revenga, Venezuela",
+        "address_line1": "Hacienda Santa Teresa",
+        "address_line2": "El Consejo, Municipio Revenga, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hacienda Santa Teresa",
+            "image": "https://ronsantateresa.com/img/7.jpg",
+            "place": "farm",
+            "osm_id": 172510943,
+            "landuse": "farmland",
+            "tourism": "attraction",
+            "website": "https://ronsantateresa.com/",
+            "osm_type": "w",
+            "wikidata": "Q106172540",
+            "wheelchair": "limited",
+            "wikipedia:es": "Ron Santa Teresa"
+          }
+        },
+        "website": "https://ronsantateresa.com/",
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q106172540",
+          "image": "https://ronsantateresa.com/img/7.jpg"
+        },
+        "place_id": "51c2db52bdabd050c0592207017ef97b2440f00102f901df4e480a0000000092031548616369656e64612053616e746120546572657361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.26048214999813,
+          10.242137849450561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caracas Fly",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio El Hatillo",
+        "city": "Caracas",
+        "municipality": "Parroquia El Hatillo",
+        "postcode": "1061",
+        "suburb": "Los Naranjos",
+        "street": "Avenida Rómulo Betancourt",
+        "iso3166_2": "VE-M",
+        "lon": -66.831258,
+        "lat": 10.4490559,
+        "formatted": "Caracas Fly, Avenida Rómulo Betancourt, Caracas 1061, Miranda State, Venezuela",
+        "address_line1": "Caracas Fly",
+        "address_line2": "Avenida Rómulo Betancourt, Caracas 1061, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Caracas Fly",
+            "phone": "+58-424-1140224",
+            "sport": "parachuting",
+            "osm_id": 9834058677,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Caracas",
+            "addr:street": "Av. Rómulo Betancourt",
+            "addr:postcode": 1061,
+            "opening_hours": "Mo-Su 09:00-19:00"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "contact": {
+          "phone": "+58-424-1140224"
+        },
+        "place_id": "517522c15433b550c059a088a4a7eae52440f00103f901b5d3274a0200000092030b4361726163617320466c79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.831258,
+          10.449055899462394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a las Víctimas del Genocidio Armenio",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "postcode": "1060",
+        "district": "Estado Leal",
+        "suburb": "Bello Campo",
+        "street": "Avenida La Estancia",
+        "iso3166_2": "VE-M",
+        "lon": -66.85019658084113,
+        "lat": 10.484372149999999,
+        "formatted": "Monumento a las Víctimas del Genocidio Armenio, Avenida La Estancia, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "Monumento a las Víctimas del Genocidio Armenio",
+        "address_line2": "Avenida La Estancia, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Monumento a las Víctimas del Genocidio Armenio",
+            "osm_id": 1328421955,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "wikidata": "Q16620333"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q16620333"
+        },
+        "place_id": "518d78eb9e69b650c0592c165aa0fff72440f00102f901431c2e4f0000000092032f4d6f6e756d656e746f2061206c61732056c3ad6374696d61732064656c2047656e6f636964696f2041726d656e696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.85019658084111,
+          10.484372149464512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abra Solar",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia El Recreo",
+        "postcode": "1050",
+        "suburb": "Los Caobos",
+        "quarter": "El Valle de Caracas",
+        "street": "CicloVía Plaza Venezuela - Diego Ibarra",
+        "iso3166_2": "VE-A",
+        "lon": -66.8870648,
+        "lat": 10.4976648,
+        "formatted": "Abra Solar, CicloVía Plaza Venezuela - Diego Ibarra, Caracas 1050, Capital District, Venezuela",
+        "address_line1": "Abra Solar",
+        "address_line2": "CicloVía Plaza Venezuela - Diego Ibarra, Caracas 1050, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Abra Solar",
+            "osm_id": 2415410946,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q42902802",
+            "addr:city": "Caracas",
+            "wikipedia": "es:Abra Solar",
+            "addr:street": "Av. Paseo de la Resistencia Indígena",
+            "artwork_type": "architecture",
+            "addr:postcode": 1050
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q42902802",
+          "wikipedia": "es:Abra Solar"
+        },
+        "artwork": {
+          "artwork_type": "architecture"
+        },
+        "place_id": "51b25b70abc5b850c059d925acebcdfe2440f00103f901023ff88f0000000092030a4162726120536f6c6172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.88706479999999,
+          10.497664799465314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pastor de Nubes",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Pedro",
+        "postcode": "1053",
+        "suburb": "Ciudad Universitaria",
+        "quarter": "Valle Abajo",
+        "street": "Avenida Las Banderas",
+        "iso3166_2": "VE-A",
+        "lon": -66.8911227,
+        "lat": 10.4909324,
+        "formatted": "Pastor de Nubes, Avenida Las Banderas, Caracas 1053, Capital District, Venezuela",
+        "address_line1": "Pastor de Nubes",
+        "address_line2": "Avenida Las Banderas, Caracas 1053, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pastor de Nubes",
+            "osm_id": 5280175110,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q90602935",
+            "wikipedia": "en:Berger des Nuages",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q90602935",
+          "wikipedia": "en:Berger des Nuages"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51494e812708b950c059497fd07d5bfb2440f00103f9010614b93a0100000092030f506173746f72206465204e75626573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8911227,
+          10.490932399464912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Amphion",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Pedro",
+        "postcode": "1053",
+        "suburb": "Ciudad Universitaria",
+        "iso3166_2": "VE-A",
+        "lon": -66.8906,
+        "lat": 10.4913233,
+        "formatted": "L'Amphion, Caracas 1053, Capital District, Venezuela",
+        "address_line1": "L'Amphion",
+        "address_line2": "Caracas 1053, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "L'Amphion",
+            "osm_id": 5280175111,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "wikidata": "Q69364836",
+            "wikipedia": "en:L'Amphion",
+            "artist_name": "Henri Laurens",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q69364836",
+          "wikipedia": "en:L'Amphion"
+        },
+        "artwork": {
+          "artist_name": "Henri Laurens",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5154742497ffb850c059eeed3dba8efb2440f00103f9010714b93a010000009203094c27416d7068696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8906,
+          10.491323299464934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternidad",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Pedro",
+        "postcode": "1053",
+        "suburb": "Ciudad Universitaria",
+        "iso3166_2": "VE-A",
+        "lon": -66.8902096,
+        "lat": 10.4905964,
+        "formatted": "Maternidad, Caracas 1053, Capital District, Venezuela",
+        "address_line1": "Maternidad",
+        "address_line2": "Caracas 1053, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maternidad",
+            "osm_id": 5280175113,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q99433104",
+            "artist_name": "Baltasar Lobo",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q99433104"
+        },
+        "artwork": {
+          "artist_name": "Baltasar Lobo",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5175a5af31f9b850c059627986732ffb2440f00103f9010914b93a0100000092030a4d617465726e69646164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8902096,
+          10.490596399464895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Dinamismo en 30 grados",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Pedro",
+        "postcode": "1053",
+        "suburb": "Ciudad Universitaria",
+        "quarter": "Valle Abajo",
+        "street": "Avenida Las Banderas",
+        "iso3166_2": "VE-A",
+        "lon": -66.8910939,
+        "lat": 10.490122,
+        "formatted": "El Dinamismo en 30 grados, Avenida Las Banderas, Caracas 1053, Capital District, Venezuela",
+        "address_line1": "El Dinamismo en 30 grados",
+        "address_line2": "Avenida Las Banderas, Caracas 1053, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Dinamismo en 30 grados",
+            "osm_id": 5280175114,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "n",
+            "wikidata": "Q22117351",
+            "artist_name": "Antoine Pevsner",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q22117351"
+        },
+        "artwork": {
+          "artist_name": "Antoine Pevsner",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51918ab5ae07b950c059e0804d45f1fa2440f00103f9010a14b93a01000000920319456c2044696e616d69736d6f20656e20333020677261646f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8910939,
+          10.490121999464861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua de María Lionza",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia El Recreo",
+        "postcode": "1050",
+        "suburb": "Sabana Grande",
+        "quarter": "El Valle de Caracas",
+        "street": "Autopista Gran Cacique Guaicaipuro",
+        "iso3166_2": "VE-A",
+        "lon": -66.8846892,
+        "lat": 10.4930089,
+        "formatted": "Estatua de María Lionza, Autopista Gran Cacique Guaicaipuro, Caracas 1050, Capital District, Venezuela",
+        "address_line1": "Estatua de María Lionza",
+        "address_line2": "Autopista Gran Cacique Guaicaipuro, Caracas 1050, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estatua de María Lionza",
+            "osm_id": 7917378253,
+            "tourism": "artwork",
+            "material": "plaster",
+            "osm_type": "n",
+            "wikidata": "Q95420032",
+            "wikipedia": "en:María Lionza (statue)",
+            "artist_name": "Alejandro Colina",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q95420032",
+          "wikipedia": "en:María Lionza (statue)"
+        },
+        "artwork": {
+          "artist_name": "Alejandro Colina",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51f64773bf9eb850c059b4ad97a96bfc2440f00103f901cd9ae9d70100000092031845737461747561206465204d6172c3ad61204c696f6e7a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8846892,
+          10.493008899465032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Atleta",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Pedro",
+        "postcode": "1053",
+        "suburb": "Ciudad Universitaria",
+        "quarter": "Valle Abajo",
+        "street": "Avenida Carlos Raúl Villanueva",
+        "iso3166_2": "VE-A",
+        "lon": -66.8864152,
+        "lat": 10.4905198,
+        "formatted": "El Atleta, Avenida Carlos Raúl Villanueva, Caracas 1053, Capital District, Venezuela",
+        "address_line1": "El Atleta",
+        "address_line2": "Avenida Carlos Raúl Villanueva, Caracas 1053, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Atleta",
+            "osm_id": 7922871799,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q99472421",
+            "artist_name": "Francisco Narváez",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q99472421"
+        },
+        "artwork": {
+          "artist_name": "Francisco Narváez",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5159abd106bbb850c059fd7b416925fb2440f00103f901f76d3dd801000000920309456c2041746c657461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8864152,
+          10.490519799464886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morrocoy",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "suburb": "La Páez",
+        "street": "Calle 17",
+        "iso3166_2": "VE-X",
+        "lon": -67.0249759,
+        "lat": 10.6020976,
+        "formatted": "Morrocoy, Calle 17, Vargas State 1162, Venezuela",
+        "address_line1": "Morrocoy",
+        "address_line2": "Calle 17, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Morrocoy",
+            "image": "https://photos.app.goo.gl/32GM6FTdT2DEDqsaA",
+            "osm_id": 3396311752,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://photos.app.goo.gl/32GM6FTdT2DEDqsaA"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "510b6c843499c150c0597d76f52246342540f00103f901c89a6fca000000009203084d6f72726f636f79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0249759,
+          10.602097599471785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiburón",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "suburb": "La Páez",
+        "street": "Calle 18",
+        "iso3166_2": "VE-X",
+        "lon": -67.0244206,
+        "lat": 10.6018891,
+        "formatted": "Tiburón, Calle 18, Vargas State 1162, Venezuela",
+        "address_line1": "Tiburón",
+        "address_line2": "Calle 18, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tiburón",
+            "image": "https://photos.app.goo.gl/wPMn9pUb9Rx8UYxy8",
+            "osm_id": 3438474778,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://photos.app.goo.gl/wPMn9pUb9Rx8UYxy8"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5151966b1b90c150c059a819dcce2a342540f00103f9011af6f2cc000000009203085469627572c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0244206,
+          10.601889099471762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Concordia",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "postcode": "1060",
+        "district": "Sector Campo Alegre",
+        "neighbourhood": "Campo Alegre",
+        "street": "Calle El Parque",
+        "iso3166_2": "VE-M",
+        "lon": -66.8613736,
+        "lat": 10.4944995,
+        "formatted": "Concordia, Calle El Parque, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "Concordia",
+        "address_line2": "Calle El Parque, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Concordia",
+            "image": "https://800noticias.com/cms/wp-content/uploads/2020/09/Chacao-Concordia-1.jpg",
+            "osm_id": 7967111043,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "start_date": "2020/03/01",
+            "artist_name": "José Ignacio Alvarado",
+            "artwork_type": "sculpture"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://800noticias.com/cms/wp-content/uploads/2020/09/Chacao-Concordia-1.jpg"
+        },
+        "artwork": {
+          "artist_name": "José Ignacio Alvarado",
+          "artwork_type": "sculpture",
+          "start_date": "2020/03/01"
+        },
+        "place_id": "51d068bcbe20b750c059a02ed4092ffd2440f00103f9018377e0da01000000920309436f6e636f72646961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.86137359999998,
+          10.494499499465121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simón Bolívar El Libertador",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "suburb": "Santa Eduvigis",
+        "street": "Avenida Principal del Aeropuerto",
+        "iso3166_2": "VE-X",
+        "lon": -66.9955111,
+        "lat": 10.5956185,
+        "formatted": "Simón Bolívar El Libertador, Avenida Principal del Aeropuerto, Vargas State 1162, Venezuela",
+        "address_line1": "Simón Bolívar El Libertador",
+        "address_line2": "Avenida Principal del Aeropuerto, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Simón Bolívar El Libertador",
+            "image": "https://photos.app.goo.gl/9xm1NyeXcY3AukwR6",
+            "osm_id": 9288889103,
+            "statue": "equestrian",
+            "subject": "Simón Bolívar",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://photos.app.goo.gl/9xm1NyeXcY3AukwR6"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5185533074b6bf50c059883e70e8f4302540f00103f9010f33a9290200000092031d53696dc3b36e20426f6cc3ad76617220456c204c696265727461646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9955111,
+          10.595618499471371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obelisco de la Plaza Francia",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "postcode": "1060",
+        "district": "Sector Altamira",
+        "suburb": "Bello Campo",
+        "street": "Avenida San Juan Bosco",
+        "iso3166_2": "VE-M",
+        "lon": -66.8489424,
+        "lat": 10.49655145,
+        "formatted": "Obelisco de la Plaza Francia, Avenida San Juan Bosco, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "Obelisco de la Plaza Francia",
+        "address_line2": "Avenida San Juan Bosco, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Obelisco de la Plaza Francia",
+            "osm_id": 294440204,
+            "tourism": "artwork",
+            "alt_name": "Obelisco de la Plaza Altamira",
+            "osm_type": "w",
+            "addr:city": "Caracas",
+            "addr:street": "Avenida San Juan Bosco",
+            "artwork_type": "architecture",
+            "addr:postcode": 1060
+          }
+        },
+        "name_other": {
+          "alt_name": "Obelisco de la Plaza Altamira"
+        },
+        "artwork": {
+          "artwork_type": "architecture"
+        },
+        "place_id": "51040c811255b650c0592278d8fd3bfe2440f00102f9010ccd8c110000000092031c4f62656c6973636f206465206c6120506c617a61204672616e636961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8489424,
+          10.496551449465247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua del Libertador",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia Catedral",
+        "postcode": "1010",
+        "suburb": "El Silencio",
+        "street": "Avenida Sur 2",
+        "iso3166_2": "VE-A",
+        "lon": -66.9146158,
+        "lat": 10.505996,
+        "formatted": "Estatua del Libertador, Avenida Sur 2, Caracas 1010, Capital District, Venezuela",
+        "address_line1": "Estatua del Libertador",
+        "address_line2": "Avenida Sur 2, Caracas 1010, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Estatua del Libertador",
+            "osm_id": 295080405,
+            "statue": "equestrian",
+            "name:es": "Estatua del Libertador",
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "w",
+            "addr:city": "Caracas",
+            "addr:street": "Avenida Sur 2",
+            "artwork_type": "statue",
+            "addr:postcode": 1010,
+            "subject:wikidata": "Q8605",
+            "subject:wikipedia": "es:Simón Bolívar"
+          }
+        },
+        "name_international": {
+          "es": "Estatua del Libertador"
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51ea59b51089ba50c0599e395be811032540f00102f901d591961100000000920316457374617475612064656c204c696265727461646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9146158,
+          10.50599599946582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Esfera de Soto",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia Leoncio Martínez",
+        "postcode": "1064",
+        "suburb": "Los Ruices",
+        "quarter": "Santa Cecilia",
+        "street": "Distribuidor Santa Cecilia",
+        "iso3166_2": "VE-M",
+        "lon": -66.8388373,
+        "lat": 10.4873748,
+        "formatted": "La Esfera de Soto, Distribuidor Santa Cecilia, Caracas 1064, Miranda State, Venezuela",
+        "address_line1": "La Esfera de Soto",
+        "address_line2": "Distribuidor Santa Cecilia, Caracas 1064, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "La Esfera de Soto",
+            "osm_id": 791044858,
+            "tourism": "artwork",
+            "material": "steel",
+            "osm_type": "w",
+            "addr:city": "Caracas",
+            "addr:street": "Autopista Francisco Fajardo",
+            "artist_name": "Jesús Soto",
+            "artwork_type": "installation",
+            "addr:postcode": 1064,
+            "artist:wikidata": "Q519367",
+            "artist:wikipedia": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Rafael_Soto"
+          }
+        },
+        "artwork": {
+          "artist_name": "Jesús Soto",
+          "artist_details": {
+            "wikidata": "Q519367",
+            "wikipedia": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Rafael_Soto"
+          },
+          "artwork_type": "installation"
+        },
+        "place_id": "518e8aa482afb550c059dc30913089f92440f00102f901fa62262f000000009203114c612045736665726120646520536f746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8388373,
+          10.487374799464696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "León",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "neighbourhood": "La Aviación",
+        "suburb": "Parroquia Urimare",
+        "street": "Autopista Caracas - La Guaira",
+        "iso3166_2": "VE-X",
+        "lon": -66.99751194999999,
+        "lat": 10.577682750000001,
+        "formatted": "León, Autopista Caracas - La Guaira, Vargas State 1162, Venezuela",
+        "address_line1": "León",
+        "address_line2": "Autopista Caracas - La Guaira, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "León",
+            "osm_id": 957711588,
+            "tourism": "artwork",
+            "material": "bronze",
+            "osm_type": "w",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51a0a75c3cd7bf50c0594ce08808c6272540f00102f901e4841539000000009203054c65c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.99751194999999,
+          10.577682749470249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcos de Acueducto Colonial",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Carabobo State",
+        "county": "Municipio Diego Ibarra",
+        "city": "Mariara",
+        "municipality": "Parroquia Mariara",
+        "postcode": "2017",
+        "district": "Ciudadela José Antonio Anzoátegui",
+        "suburb": "El Guamacho",
+        "street": "Avenida Bolívar Oeste",
+        "iso3166_2": "VE-G",
+        "lon": -67.7176378,
+        "lat": 10.2932052,
+        "formatted": "Arcos de Acueducto Colonial, Avenida Bolívar Oeste, Mariara 2017, Carabobo State, Venezuela",
+        "address_line1": "Arcos de Acueducto Colonial",
+        "address_line2": "Avenida Bolívar Oeste, Mariara 2017, Carabobo State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arcos de Acueducto Colonial",
+            "osm_id": 1212634648,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51e65718c7eded50c059c056edfd1e962440f00102f901185647480000000092031b4172636f732064652041637565647563746f20436f6c6f6e69616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7176378,
+          10.293205199453382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obelisco de la Plaza Francia",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "postcode": "1060",
+        "district": "Sector Altamira",
+        "suburb": "Bello Campo",
+        "street": "Avenida San Juan Bosco",
+        "iso3166_2": "VE-M",
+        "lon": -66.84894445,
+        "lat": 10.4965476,
+        "formatted": "Obelisco de la Plaza Francia, Avenida San Juan Bosco, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "Obelisco de la Plaza Francia",
+        "address_line2": "Avenida San Juan Bosco, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.building",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Obelisco de la Plaza Francia",
+            "type": "multipolygon",
+            "osm_id": 1221023817,
+            "tourism": "artwork",
+            "3dr:type": 2.5,
+            "alt_name": "Obelisco de la Plaza Altamira",
+            "building": "obelisk",
+            "historic": "monument",
+            "landmark": "yes",
+            "man_made": "obelisk",
+            "osm_type": "w",
+            "addr:city": "Caracas",
+            "roof:shape": "pyramidal",
+            "3dr:height1": 5,
+            "addr:street": "Av. San Juan Bosco",
+            "artwork_type": "architecture",
+            "obelisk:size": "monumental",
+            "addr:postcode": 1060,
+            "building:colour": "white"
+          }
+        },
+        "name_other": {
+          "alt_name": "Obelisco de la Plaza Altamira"
+        },
+        "historic": {
+          "type": "monument",
+          "artwork_type": "architecture",
+          "object_type": "obelisk"
+        },
+        "artwork": {
+          "artwork_type": "architecture"
+        },
+        "building": {
+          "type": "obelisk",
+          "color": "white",
+          "roof": {
+            "shape": "pyramidal"
+          }
+        },
+        "place_id": "51ba371a1b55b650c0599938a97c3bfe2440f00102f9014958c7480000000092031c4f62656c6973636f206465206c6120506c617a61204672616e636961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.84894445,
+          10.496547599465247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venus de Tacarigua",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia Los Tacariguas",
+        "postcode": "1203",
+        "suburb": "Barrio Coromoto",
+        "street": "T-1",
+        "iso3166_2": "VE-D",
+        "lon": -67.62784187456063,
+        "lat": 10.25438535,
+        "formatted": "Venus de Tacarigua, T-1, Parroquia Los Tacariguas 1203, Aragua State, Venezuela",
+        "address_line1": "Venus de Tacarigua",
+        "address_line2": "T-1, Parroquia Los Tacariguas 1203, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Venus de Tacarigua",
+            "osm_id": 1234156349,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "w",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "510693af8f2ee850c059fdf2e8cb3e822440f00102f9013dbb8f490000000092031256656e757320646520546163617269677561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.62784187456063,
+          10.254385349451235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escaleras de El Calvario",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Juan",
+        "postcode": "1010",
+        "district": "Barrio Potrerito",
+        "suburb": "Barrio El Guarataro",
+        "street": "Avenida Oeste 4",
+        "iso3166_2": "VE-A",
+        "lon": -66.9201123,
+        "lat": 10.50514,
+        "formatted": "Escaleras de El Calvario, Avenida Oeste 4, Caracas 1010, Capital District, Venezuela",
+        "address_line1": "Escaleras de El Calvario",
+        "address_line2": "Avenida Oeste 4, Caracas 1010, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escaleras de El Calvario",
+            "osm_id": 2163290551,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Caracas",
+            "addr:street": "Avenida Oeste 4",
+            "addr:postcode": 1010
+          }
+        },
+        "place_id": "516e49b31ee3ba50c059c136c3b5a1022540f00103f901b731f18000000000920318457363616c6572617320646520456c2043616c766172696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9201123,
+          10.50513999946577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La India",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia El Paraíso",
+        "postcode": "1020",
+        "suburb": "Montalbán",
+        "street": "Avenida José Antonio Páez",
+        "iso3166_2": "VE-A",
+        "lon": -66.9459522,
+        "lat": 10.475313,
+        "formatted": "La India, Avenida José Antonio Páez, Caracas 1020, Capital District, Venezuela",
+        "address_line1": "La India",
+        "address_line2": "Avenida José Antonio Páez, Caracas 1020, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La India",
+            "osm_id": 2187673065,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5112a5187b8abc50c0596e1fb8395cf32440f00103f901e93d6582000000009203084c6120496e646961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9459522,
+          10.475312999463963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reloj de Sol de San Jacinto",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia Catedral",
+        "postcode": "1012",
+        "suburb": "El Silencio",
+        "street": "Avenida Sur 1",
+        "iso3166_2": "VE-A",
+        "lon": -66.9128246,
+        "lat": 10.5048522,
+        "formatted": "Reloj de Sol de San Jacinto, Avenida Sur 1, Caracas 1012, Capital District, Venezuela",
+        "address_line1": "Reloj de Sol de San Jacinto",
+        "address_line2": "Avenida Sur 1, Caracas 1012, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Reloj de Sol de San Jacinto",
+            "osm_id": 2315900666,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51fefedeb76bba50c059c809ccfc7b022540f00103f901fad6098a0000000092031b52656c6f6a20646520536f6c2064652053616e204a6163696e746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9128246,
+          10.504852199465759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua de Cristo",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Puerto Colombia",
+        "municipality": "Parroquia Choroní",
+        "postcode": "2110",
+        "street": "Camino a Playa Grande",
+        "iso3166_2": "VE-D",
+        "lon": -67.605043,
+        "lat": 10.5110272,
+        "formatted": "Estatua de Cristo, Camino a Playa Grande, Puerto Colombia 2110, Aragua State, Venezuela",
+        "address_line1": "Estatua de Cristo",
+        "address_line2": "Camino a Playa Grande, Puerto Colombia 2110, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.wayside_cross"
+        ],
+        "details": [
+          "details",
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estatua de Cristo",
+            "osm_id": 2518164735,
+            "tourism": "viewpoint",
+            "alt_name": "Jesus Christ Statue",
+            "historic": "wayside_cross",
+            "osm_type": "n",
+            "religion": "christian",
+            "denomination": "roman_catholic"
+          }
+        },
+        "name_other": {
+          "alt_name": "Jesus Christ Statue"
+        },
+        "historic": {
+          "type": "wayside_cross"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "roman_catholic"
+        },
+        "place_id": "511d6b4606b9e650c059a2256a5ba5052540f00103f901ff24189600000000920311457374617475612064652043726973746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.60504299999998,
+          10.511027199466131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torre del Reloj",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Pedro",
+        "postcode": "1053",
+        "suburb": "Ciudad Universitaria",
+        "iso3166_2": "VE-A",
+        "lon": -66.8903506,
+        "lat": 10.4924915,
+        "formatted": "Torre del Reloj, Caracas 1053, Capital District, Venezuela",
+        "address_line1": "Torre del Reloj",
+        "address_line2": "Caracas 1053, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Torre del Reloj",
+            "osm_id": 2581530684,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "architecture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "architecture"
+        },
+        "place_id": "51563e1581fbb850c059398587d827fc2440f00103f9013c08df990000000092030f546f7272652064656c2052656c6f6a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8903506,
+          10.492491499465006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Banquito",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "postcode": "1060",
+        "street": "Sabas Nieves - El Banquito",
+        "iso3166_2": "VE-M",
+        "lon": -66.8568686,
+        "lat": 10.5248045,
+        "formatted": "Sabas Nieves - El Banquito, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "Sabas Nieves - El Banquito",
+        "address_line2": "Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 1630,
+            "name": "El Banquito",
+            "osm_id": 2640259786,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 1630,
+        "place_id": "51097e65efd6b650c0593402e42cb30c2540f00103f901ca2a5f9d0000000092030b456c2042616e717569746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8568686,
+          10.524804499466974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fragmentos de Lluvia para Caracas",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "postcode": "1060",
+        "district": "Estado Leal",
+        "suburb": "Bello Campo",
+        "street": "Autopista Gran Cacique Guaicaipuro",
+        "iso3166_2": "VE-M",
+        "lon": -66.8564597,
+        "lat": 10.4854831,
+        "formatted": "Fragmentos de Lluvia para Caracas, Autopista Gran Cacique Guaicaipuro, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "Fragmentos de Lluvia para Caracas",
+        "address_line2": "Autopista Gran Cacique Guaicaipuro, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fragmentos de Lluvia para Caracas",
+            "osm_id": 2984619131,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "Carlos Medina",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artist_name": "Carlos Medina",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51e375583cd0b650c05914eca53d91f82440f00103f9017bace5b100000000920321467261676d656e746f73206465204c6c7576696120706172612043617261636173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8564597,
+          10.485483099464581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Boyacá",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia El Recreo",
+        "postcode": "1050",
+        "district": "El Casquillo",
+        "suburb": "Urbanización Ávila",
+        "street": "Avenida Boyacá",
+        "iso3166_2": "VE-A",
+        "lon": -66.8696015,
+        "lat": 10.5130271,
+        "formatted": "Mirador Boyacá, Avenida Boyacá, Caracas 1050, Capital District, Venezuela",
+        "address_line1": "Mirador Boyacá",
+        "address_line2": "Avenida Boyacá, Caracas 1050, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Boyacá",
+            "osm_id": 3105400762,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "addr:city": "Caracas",
+            "addr:street": "Av. Boyacá",
+            "addr:postcode": 1050
+          }
+        },
+        "place_id": "515cc30c8da7b750c059af56ec7cab062540f00103f901baa718b90000000092030f4d697261646f7220426f796163c3a1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.86960149999999,
+          10.513027099466255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avión",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1160",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia La Guaira",
+        "quarter": "Urbanización Álamo",
+        "street": "Avenida Carlos Soublette",
+        "iso3166_2": "VE-X",
+        "lon": -66.9144427,
+        "lat": 10.6051323,
+        "formatted": "Avión, Avenida Carlos Soublette, Vargas State 1160, Venezuela",
+        "address_line1": "Avión",
+        "address_line2": "Avenida Carlos Soublette, Vargas State 1160, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Avión",
+            "osm_id": 3450692784,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "La Guaira",
+            "addr:street": "Avenida Carlos Soublette",
+            "artwork_type": "aircraft",
+            "addr:postcode": 1160
+          }
+        },
+        "artwork": {
+          "artwork_type": "aircraft"
+        },
+        "place_id": "5137a4ac3a86ba50c05987f897e6d3352540f00103f901b064adcd00000000920306417669c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.91444269999998,
+          10.605132299471974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chorro",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1161",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia Maiquetía",
+        "street": "Avenida Carlos Soublette",
+        "iso3166_2": "VE-X",
+        "lon": -66.9607406,
+        "lat": 10.5986391,
+        "formatted": "Chorro, Avenida Carlos Soublette, Vargas State 1161, Venezuela",
+        "address_line1": "Chorro",
+        "address_line2": "Avenida Carlos Soublette, Vargas State 1161, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chorro",
+            "osm_id": 3451053371,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511e3c24c67cbd50c059a9acf4d280322540f00103f9013be5b2cd0000000092030643686f72726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.96074059999998,
+          10.598639099471557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "León de Caracas",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia Coche",
+        "postcode": "1090",
+        "district": "Urbanización Carlos Delgado Chalbaud",
+        "suburb": "Coche",
+        "street": "Distribuidor La Gaviota",
+        "iso3166_2": "VE-A",
+        "lon": -66.9209829,
+        "lat": 10.4502036,
+        "formatted": "León de Caracas, Distribuidor La Gaviota, Caracas 1090, Capital District, Venezuela",
+        "address_line1": "León de Caracas",
+        "address_line2": "Distribuidor La Gaviota, Caracas 1090, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "León de Caracas",
+            "osm_id": 3463460211,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5136eb4262f1ba50c0592b77101681e62440f00103f901733570ce000000009203104c65c3b36e2064652043617261636173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.92098289999998,
+          10.45020359946246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corazón",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1160",
+        "district": "Municipio Vargas",
+        "suburb": "Punta de Mulatos",
+        "street": "Avenida Carlos Soublette",
+        "iso3166_2": "VE-X",
+        "lon": -66.9192872,
+        "lat": 10.6046817,
+        "formatted": "Corazón, Avenida Carlos Soublette, Vargas State 1160, Venezuela",
+        "address_line1": "Corazón",
+        "address_line2": "Avenida Carlos Soublette, Vargas State 1160, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Corazón",
+            "osm_id": 3513156197,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5168e8fa99d5ba50c0597f71f7d698352540f00103f901658266d100000000920308436f72617ac3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.91928719999999,
+          10.604681699471938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Apeliotes",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "postcode": "1060",
+        "district": "Barrio La Cruz",
+        "suburb": "Bello Campo",
+        "street": "Distribuidor Altamira",
+        "iso3166_2": "VE-M",
+        "lon": -66.8484643,
+        "lat": 10.4886291,
+        "formatted": "Apeliotes, Distribuidor Altamira, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "Apeliotes",
+        "address_line2": "Distribuidor Altamira, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Apeliotes",
+            "osm_id": 3617577025,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "Caracas",
+            "addr:street": "Distribuidor: Altamira",
+            "artist_name": "Alberto Cavalieri",
+            "artwork_type": "sculpture",
+            "addr:postcode": 1060
+          }
+        },
+        "artwork": {
+          "artist_name": "Alberto Cavalieri",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51b514353d4db650c0597526e4972dfa2440f00103f90141d89fd7000000009203094170656c696f746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8484643,
+          10.488629099464768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Nicolás de Bari",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia La Dolorita",
+        "postcode": "1073",
+        "district": "Urbanización Terrazas de Guaicoco",
+        "street": "Avenida Principal de Terrazas de Guaicoco",
+        "iso3166_2": "VE-M",
+        "lon": -66.7820537,
+        "lat": 10.4722966,
+        "formatted": "San Nicolás de Bari, Avenida Principal de Terrazas de Guaicoco, Caracas 1073, Miranda State, Venezuela",
+        "address_line1": "San Nicolás de Bari",
+        "address_line2": "Avenida Principal de Terrazas de Guaicoco, Caracas 1073, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "San Nicolás de Bari",
+            "osm_id": 3736104686,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d04df62a0db250c059006b21dcd0f12440f00103f901ee6eb0de0000000092031453616e204e69636f6cc3a1732064652042617269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7820537,
+          10.472296599463789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avión",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "neighbourhood": "Urbanización Marina",
+        "suburb": "Parroquia Catia La Mar",
+        "street": "Avenida La Marina",
+        "iso3166_2": "VE-X",
+        "lon": -67.0493969,
+        "lat": 10.5915273,
+        "formatted": "Avión, Avenida La Marina, Vargas State 1162, Venezuela",
+        "address_line1": "Avión",
+        "address_line2": "Avenida La Marina, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Avión",
+            "osm_id": 3745919825,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5186819d5129c350c059dbd68baadc2e2540f00103f901513346df00000000920306417669c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0493969,
+          10.591527299471116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jaula de la Leona",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia La Dolorita",
+        "postcode": "1073",
+        "suburb": "Urbanización Miranda",
+        "street": "Carretera Vieja Petare - Guarenas",
+        "iso3166_2": "VE-M",
+        "lon": -66.7816888,
+        "lat": 10.4908977,
+        "formatted": "Jaula de la Leona, Carretera Vieja Petare - Guarenas, Caracas 1073, Miranda State, Venezuela",
+        "address_line1": "Jaula de la Leona",
+        "address_line2": "Carretera Vieja Petare - Guarenas, Caracas 1073, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jaula de la Leona",
+            "osm_id": 4156345053,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5191e9753007b250c0594fc479f156fb2440f00103f901ddcabcf7000000009203114a61756c61206465206c61204c656f6e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7816888,
+          10.490897699464908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento al Estudiante",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia La Dolorita",
+        "postcode": "1073",
+        "suburb": "Urbanización Miranda",
+        "street": "Avenida Santa María",
+        "iso3166_2": "VE-M",
+        "lon": -66.7801545,
+        "lat": 10.4929702,
+        "formatted": "Monumento al Estudiante, Avenida Santa María, Caracas 1073, Miranda State, Venezuela",
+        "address_line1": "Monumento al Estudiante",
+        "address_line2": "Avenida Santa María, Caracas 1073, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento al Estudiante",
+            "osm_id": 4156345062,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51f1d4230deeb150c059b935099766fc2440f00103f901e6cabcf7000000009203174d6f6e756d656e746f20616c20457374756469616e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7801545,
+          10.492970199465036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trompetilla para sordos",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia Petare",
+        "postcode": "1073",
+        "district": "Sector Terrazas del Ávila",
+        "suburb": "Terrazas del Ávila",
+        "street": "Avenida Universidad",
+        "iso3166_2": "VE-M",
+        "lon": -66.7847738,
+        "lat": 10.4998218,
+        "formatted": "Trompetilla para sordos, Avenida Universidad, Caracas 1073, Miranda State, Venezuela",
+        "address_line1": "Trompetilla para sordos",
+        "address_line2": "Avenida Universidad, Caracas 1073, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trompetilla para sordos",
+            "osm_id": 4161552260,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artist_name": "Marcos Salazar Delfino",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artist_name": "Marcos Salazar Delfino",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "517d70e3bb39b250c0595d1095a4e8ff2440f00103f901843f0cf80000000092031754726f6d706574696c6c61207061726120736f72646f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7847738,
+          10.499821799465446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indio de Caricuao",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia Caricuao",
+        "postcode": "1000",
+        "district": "Urbanización UD-1",
+        "suburb": "Caricuao",
+        "street": "Boulevard de Ruiz Pineda",
+        "iso3166_2": "VE-A",
+        "lon": -66.9898758,
+        "lat": 10.4387264,
+        "formatted": "Indio de Caricuao, Boulevard de Ruiz Pineda, Caracas 1000, Capital District, Venezuela",
+        "address_line1": "Indio de Caricuao",
+        "address_line2": "Boulevard de Ruiz Pineda, Caracas 1000, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Indio de Caricuao",
+            "osm_id": 4197698337,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51830607205abf50c0590c2923bfa0e02440f00103f90121cb33fa00000000920311496e64696f20646520436172696375616f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.98987579999998,
+          10.438726399461778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cruz de Pacairigua",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Zamora",
+        "city": "Parroquia Guatire",
+        "postcode": "1221",
+        "suburb": "Las Barrancas",
+        "street": "Carretera Guarenas - Guatire",
+        "iso3166_2": "VE-M",
+        "lon": -66.5454352,
+        "lat": 10.469692,
+        "formatted": "Cruz de Pacairigua, Carretera Guarenas - Guatire, Parroquia Guatire 1221, Miranda State, Venezuela",
+        "address_line1": "Cruz de Pacairigua",
+        "address_line2": "Carretera Guarenas - Guatire, Parroquia Guatire 1221, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cruz de Pacairigua",
+            "osm_id": 4340618189,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "Guatire",
+            "addr:state": "Miranda",
+            "addr:street": "Carretera Guarenas - Guatire",
+            "addr:country": "VE",
+            "artwork_type": "sculpture",
+            "addr:district": "Municipio Zamora",
+            "addr:postcode": 1221
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5195850a69e8a250c0593fc741787bf02440f00103f901cd93b802010000009203124372757a2064652050616361697269677561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5454352,
+          10.469691999463633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador El Edén",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia Petare",
+        "postcode": "1073",
+        "street": "Dos Banderas",
+        "iso3166_2": "VE-M",
+        "lon": -66.8090078,
+        "lat": 10.5150151,
+        "formatted": "Mirador El Edén, Dos Banderas, Caracas 1073, Miranda State, Venezuela",
+        "address_line1": "Mirador El Edén",
+        "address_line2": "Dos Banderas, Caracas 1073, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador El Edén",
+            "osm_id": 4384334316,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515fcda6c8c6b350c059f84e220fb0072540f00103f901eca15305010000009203104d697261646f7220456c204564c3a96e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8090078,
+          10.515015099466368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cruz de Los Palmeros",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia Leoncio Martínez",
+        "postcode": "1071",
+        "street": "Fila Maestra Pico Naiguata - Hotel Humboldt",
+        "iso3166_2": "VE-M",
+        "lon": -66.8353379,
+        "lat": 10.5348753,
+        "formatted": "Cruz de Los Palmeros, Fila Maestra Pico Naiguata - Hotel Humboldt, Caracas 1071, Miranda State, Venezuela",
+        "address_line1": "Cruz de Los Palmeros",
+        "address_line2": "Fila Maestra Pico Naiguata - Hotel Humboldt, Caracas 1071, Miranda State, Venezuela",
+        "categories": [
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cruz de Los Palmeros",
+            "osm_id": 5007981722,
+            "tourism": "attraction",
+            "man_made": "cross",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ff66182d76b550c059924ddd2cdb112540f00103f9019abc7f2a010000009203144372757a206465204c6f732050616c6d65726f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8353379,
+          10.53487529946759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piedra del Indio",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia Leoncio Martínez",
+        "postcode": "1071",
+        "district": "Barrio Agua de Maíz",
+        "suburb": "Sebucán",
+        "street": "Distribuidor Sebucán",
+        "iso3166_2": "VE-M",
+        "lon": -66.8258659,
+        "lat": 10.5219528,
+        "formatted": "Piedra del Indio, Distribuidor Sebucán, Caracas 1071, Miranda State, Venezuela",
+        "address_line1": "Piedra del Indio",
+        "address_line2": "Distribuidor Sebucán, Caracas 1071, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Piedra del Indio",
+            "osm_id": 5008003722,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516bd8a5fcdab450c059f587b7653d0b2540f00103f9018a12802a010000009203105069656472612064656c20496e64696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.82586589999998,
+          10.521952799466797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Silla de Caracas",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "municipality": "Parroquia El Recreo",
+        "postcode": "1060",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia Macuto",
+        "street": "Humboldt - Lagunazo - Pico Occidental - Silla de Caracas",
+        "iso3166_2": "VE-M",
+        "lon": -66.8501173,
+        "lat": 10.5386512,
+        "formatted": "La Silla de Caracas, Humboldt - Lagunazo - Pico Occidental - Silla de Caracas, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "La Silla de Caracas",
+        "address_line2": "Humboldt - Lagunazo - Pico Occidental - Silla de Caracas, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Silla de Caracas",
+            "osm_id": 5008011221,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e250645268b650c059bc540b17ca132540f00103f901d52f802a010000009203134c612053696c6c612064652043617261636173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8501173,
+          10.538651199467829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Silla de Caracas",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "municipality": "Parroquia El Recreo",
+        "postcode": "1060",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia Macuto",
+        "street": "Humboldt - Lagunazo - Pico Occidental - Silla de Caracas",
+        "iso3166_2": "VE-M",
+        "lon": -66.8479461,
+        "lat": 10.5376288,
+        "formatted": "La Silla de Caracas, Humboldt - Lagunazo - Pico Occidental - Silla de Caracas, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "La Silla de Caracas",
+        "address_line2": "Humboldt - Lagunazo - Pico Occidental - Silla de Caracas, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Silla de Caracas",
+            "osm_id": 5041982922,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515411b8bf44b650c0591e34fe1444132540f00103f901ca8d862c010000009203134c612053696c6c612064652043617261636173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8479461,
+          10.537628799467765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grillo",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1160",
+        "district": "Municipio Vargas",
+        "suburb": "Punta de Mulatos",
+        "street": "Avenida Carlos Soublette",
+        "iso3166_2": "VE-X",
+        "lon": -66.9208554,
+        "lat": 10.6040755,
+        "formatted": "Grillo, Avenida Carlos Soublette, Vargas State 1160, Venezuela",
+        "address_line1": "Grillo",
+        "address_line2": "Avenida Carlos Soublette, Vargas State 1160, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Grillo",
+            "osm_id": 5060949494,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5114d67c4befba50c059e517456249352540f00103f901f6f5a72d010000009203064772696c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9208554,
+          10.604075499471898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento del Avión",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia Pedro José Ovalles",
+        "postcode": "1203",
+        "street": "Redoma Los Aviadores",
+        "iso3166_2": "VE-D",
+        "lon": -67.5736723,
+        "lat": 10.2213134,
+        "formatted": "Monumento del Avión, Redoma Los Aviadores, Parroquia Pedro José Ovalles 1203, Aragua State, Venezuela",
+        "address_line1": "Monumento del Avión",
+        "address_line2": "Redoma Los Aviadores, Parroquia Pedro José Ovalles 1203, Aragua State, Venezuela",
+        "categories": [
+          "access",
+          "access.yes",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento del Avión",
+            "access": "permissive",
+            "osm_id": 5063841193,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "51c0c7050cb7e450c0598f9a69fd4f712440f00103f901a915d42d010000009203144d6f6e756d656e746f2064656c20417669c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5736723,
+          10.221313399449427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "neighbourhood": "Urbanización Marina",
+        "suburb": "Parroquia Catia La Mar",
+        "street": "Avenida La Marina",
+        "iso3166_2": "VE-X",
+        "lon": -67.0486382,
+        "lat": 10.5960919,
+        "formatted": "Park, Avenida La Marina, Vargas State 1162, Venezuela",
+        "address_line1": "Park",
+        "address_line2": "Avenida La Marina, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parque",
+            "osm_id": 5065209925,
+            "name:en": "Park",
+            "name:es": "Parque",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Park",
+          "es": "Parque"
+        },
+        "place_id": "51859565e31cc350c059c7471bf532312540f00103f90145f8e82d01000000920306506172717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.04863819999998,
+          10.596091899471402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura \"La cultura\"",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Pedro",
+        "postcode": "1053",
+        "suburb": "Ciudad Universitaria",
+        "iso3166_2": "VE-A",
+        "lon": -66.8909815,
+        "lat": 10.4923956,
+        "formatted": "Escultura \"La cultura\", Caracas 1053, Capital District, Venezuela",
+        "address_line1": "Escultura \"La cultura\"",
+        "address_line2": "Caracas 1053, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura \"La cultura\"",
+            "osm_id": 5280175112,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d3f544d705b950c059fdcaa8461bfc2440f00103f9010814b93a01000000920316457363756c7475726120224c612063756c7475726122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8909815,
+          10.492395599464993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador El Tubo",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia El Paraíso",
+        "postcode": "1020",
+        "suburb": "Montalbán",
+        "quarter": "Urbanización Montalbán II",
+        "street": "Avenida Teherán",
+        "iso3166_2": "VE-A",
+        "lon": -66.9523847,
+        "lat": 10.468575,
+        "formatted": "Mirador El Tubo, Avenida Teherán, Caracas 1020, Capital District, Venezuela",
+        "address_line1": "Mirador El Tubo",
+        "address_line2": "Avenida Teherán, Caracas 1020, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador El Tubo",
+            "osm_id": 5692972712,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "addr:city": "Caracas",
+            "addr:street": "Av. Teherán",
+            "addr:postcode": 1020
+          }
+        },
+        "place_id": "517dedf4def3bc50c0599fd6f40fe9ef2440f00103f901a8de53530100000092030f4d697261646f7220456c205475626f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9523847,
+          10.468574999463554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador La Capitana",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1166",
+        "district": "Municipio Vargas",
+        "neighbourhood": "La Planta",
+        "suburb": "Parroquia Naiguatá",
+        "street": "Calle Interna Club Puerto Azul",
+        "iso3166_2": "VE-X",
+        "lon": -66.7481916,
+        "lat": 10.6208527,
+        "formatted": "Mirador La Capitana, Calle Interna Club Puerto Azul, Vargas State 1166, Venezuela",
+        "address_line1": "Mirador La Capitana",
+        "address_line2": "Calle Interna Club Puerto Azul, Vargas State 1166, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador La Capitana",
+            "osm_id": 5741933085,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 360
+          }
+        },
+        "place_id": "511549055fe2af50c0594abdaf67e03d2540f00103f9011df23e56010000009203134d697261646f72204c61204361706974616e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7481916,
+          10.620852699472966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua de Andrés Bello",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia Antímano",
+        "postcode": "1020",
+        "district": "Barrio Juana La Avanzadora",
+        "suburb": "Carapita",
+        "street": "Avenida Teherán",
+        "iso3166_2": "VE-A",
+        "lon": -66.9767738,
+        "lat": 10.4645349,
+        "formatted": "Estatua de Andrés Bello, Avenida Teherán, Caracas 1020, Capital District, Venezuela",
+        "address_line1": "Estatua de Andrés Bello",
+        "address_line2": "Avenida Teherán, Caracas 1020, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estatua de Andrés Bello",
+            "osm_id": 6373867936,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "Caracas",
+            "addr:street": "Av. Teherán",
+            "artwork_type": "sculpture",
+            "addr:postcode": 1020,
+            "addr:housename": "UCAB"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51bda5417683be50c0595917b284d7ed2440f00103f901a081e97b010000009203184573746174756120646520416e6472c3a9732042656c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9767738,
+          10.464534899463318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuestra Señora del Pilar",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Baruta",
+        "city": "Caracas",
+        "municipality": "Parroquia Nuestra Señora del Rosario",
+        "postcode": "1080",
+        "district": "Barrio El Guire",
+        "suburb": "Santa Fe",
+        "street": "Calle Carlos Bello",
+        "iso3166_2": "VE-M",
+        "lon": -66.868366,
+        "lat": 10.4637261,
+        "formatted": "Nuestra Señora del Pilar, Calle Carlos Bello, Caracas 1080, Miranda State, Venezuela",
+        "address_line1": "Nuestra Señora del Pilar",
+        "address_line2": "Calle Carlos Bello, Caracas 1080, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nuestra Señora del Pilar",
+            "osm_id": 7097024130,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "5155bdfc4e93b750c05927fede816ded2440f00103f90182fe03a7010000009203194e756573747261205365c3b16f72612064656c2050696c6172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.868366,
+          10.46372609946327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yo Amo Chacao",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Chacao",
+        "city": "Caracas",
+        "postcode": "1060",
+        "district": "Sector Altamira",
+        "suburb": "Bello Campo",
+        "street": "Avenida Luis Roche",
+        "iso3166_2": "VE-M",
+        "lon": -66.8488845,
+        "lat": 10.4962054,
+        "formatted": "Yo Amo Chacao, Avenida Luis Roche, Caracas 1060, Miranda State, Venezuela",
+        "address_line1": "Yo Amo Chacao",
+        "address_line2": "Avenida Luis Roche, Caracas 1060, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Yo Amo Chacao",
+            "osm_id": 7257972997,
+            "tourism": "artwork",
+            "material": "metal",
+            "operator": "Alcaldía de Chacao",
+            "osm_type": "n",
+            "addr:city": "Caracas",
+            "addr:street": "Av. Luis Roche",
+            "addr:postcode": 1060
+          }
+        },
+        "operator": "Alcaldía de Chacao",
+        "place_id": "513365a71f54b650c059829a55a20efe2440f00103f90105e19bb00100000092030d596f20416d6f2043686163616f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.84888449999998,
+          10.496205399465229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Transeúnte en el Parque",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia Leoncio Martínez",
+        "postcode": "1071",
+        "district": "Sector Parque Miranda",
+        "street": "Avenida Francisco de Miranda",
+        "iso3166_2": "VE-M",
+        "lon": -66.8393339,
+        "lat": 10.4951067,
+        "formatted": "Transeúnte en el Parque, Avenida Francisco de Miranda, Caracas 1071, Miranda State, Venezuela",
+        "address_line1": "Transeúnte en el Parque",
+        "address_line2": "Avenida Francisco de Miranda, Caracas 1071, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Transeúnte en el Parque",
+            "osm_id": 7394810772,
+            "tourism": "artwork",
+            "material": "steel",
+            "osm_type": "n",
+            "artist_name": "Beatriz Blanco",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artist_name": "Beatriz Blanco",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5125bb88a5b7b550c0597d7714a07efd2440f00103f90194dbc3b8010000009203185472616e7365c3ba6e746520656e20656c20506172717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8393339,
+          10.495106699465163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busto de Simón Bolívar",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Cristóbal Rojas",
+        "city": "Parroquia Charallave",
+        "postcode": "1210",
+        "suburb": "Colinas de Betania",
+        "street": "Autopista Charallave - Ocumare",
+        "iso3166_2": "VE-M",
+        "lon": -66.8382894,
+        "lat": 10.2021932,
+        "formatted": "Busto de Simón Bolívar, Autopista Charallave - Ocumare, Parroquia Charallave 1210, Miranda State, Venezuela",
+        "address_line1": "Busto de Simón Bolívar",
+        "address_line2": "Autopista Charallave - Ocumare, Parroquia Charallave 1210, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Busto de Simón Bolívar",
+            "osm_id": 7576293812,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "5157659588a6b550c0597c35f6dd85672440f00103f901b41195c301000000920318427573746f2064652053696dc3b36e20426f6cc3ad766172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8382894,
+          10.202193199448395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua de Simón Bolívar",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Baruta",
+        "city": "Caracas",
+        "town": "Hoyo de La Puerta",
+        "municipality": "Parroquia Nuestra Señora del Rosario",
+        "postcode": "1080",
+        "suburb": "Monte Elena",
+        "street": "Avenida Intercomunal Hoyo de La Puerta - Baruta",
+        "iso3166_2": "VE-M",
+        "lon": -66.8801722,
+        "lat": 10.4082812,
+        "formatted": "Estatua de Simón Bolívar, Avenida Intercomunal Hoyo de La Puerta - Baruta, Caracas 1080, Miranda State, Venezuela",
+        "address_line1": "Estatua de Simón Bolívar",
+        "address_line2": "Avenida Intercomunal Hoyo de La Puerta - Baruta, Caracas 1080, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estatua de Simón Bolívar",
+            "osm_id": 7625927566,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "514b76c7bd54b850c0592d81be3b0ad12440f00103f9018e6b8ac60100000092031a457374617475612064652053696dc3b36e20426f6cc3ad766172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.88017219999999,
+          10.408281199459987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parcela El Mirador",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Ribas",
+        "city": "Sabaneta",
+        "municipality": "Parroquia Río Aragua",
+        "postcode": "2121",
+        "street": "Carretera Regional La Victoria - Colonia Tovar",
+        "iso3166_2": "VE-D",
+        "lon": -67.3220459,
+        "lat": 10.3016743,
+        "formatted": "Parcela El Mirador, Carretera Regional La Victoria - Colonia Tovar, Sabaneta 2121, Aragua State, Venezuela",
+        "address_line1": "Parcela El Mirador",
+        "address_line2": "Carretera Regional La Victoria - Colonia Tovar, Sabaneta 2121, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parcela El Mirador",
+            "osm_id": 8198055817,
+            "amenity": "shelter",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e61368669cd450c0596965c40d759a2440f00103f9018967a4e80100000092031250617263656c6120456c204d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3220459,
+          10.301674299453866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zona de Parapentes",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Ribas",
+        "city": "Sabaneta",
+        "municipality": "Parroquia Río Aragua",
+        "postcode": "2121",
+        "street": "Carretera Regional La Victoria - Colonia Tovar",
+        "iso3166_2": "VE-D",
+        "lon": -67.3186083,
+        "lat": 10.3460656,
+        "formatted": "Zona de Parapentes, Carretera Regional La Victoria - Colonia Tovar, Sabaneta 2121, Aragua State, Venezuela",
+        "address_line1": "Zona de Parapentes",
+        "address_line2": "Carretera Regional La Victoria - Colonia Tovar, Sabaneta 2121, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Zona de Parapentes",
+            "osm_id": 8248538142,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Vía La Victoria-Colonia Tovar",
+            "description": "Zona de vuelos en Parapentes. Fines de semana y días feriados."
+          }
+        },
+        "description": "Zona de vuelos en Parapentes. Fines de semana y días feriados.",
+        "place_id": "51fc2e111464d450c05922df9f822fb12440f00103f9011eb4a6eb010000009203125a6f6e61206465205061726170656e746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3186083,
+          10.346065599456384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Loma Lisa",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Revenga",
+        "city": "El Paují",
+        "municipality": "Parroquia Paula Correa",
+        "postcode": "2118",
+        "street": "Carretera La Victoria - Tasajera",
+        "iso3166_2": "VE-D",
+        "lon": -67.2719604,
+        "lat": 10.1818179,
+        "formatted": "Mirador de Loma Lisa, Carretera La Victoria - Tasajera, El Paují 2118, Aragua State, Venezuela",
+        "address_line1": "Mirador de Loma Lisa",
+        "address_line2": "Carretera La Victoria - Tasajera, El Paují 2118, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Loma Lisa",
+            "osm_id": 8405655917,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a6f397cc67d150c0593be8573c175d2440f00103f9016d2104f5010000009203144d697261646f72206465204c6f6d61204c697361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.27196039999998,
+          10.181817899447301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro La Esperanza - Mirador",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Zamora",
+        "city": "Parroquia Guatire",
+        "postcode": "1221",
+        "district": "Valle Bonito",
+        "street": "Calle 5 - Viena",
+        "iso3166_2": "VE-M",
+        "lon": -66.5289099,
+        "lat": 10.4979444,
+        "formatted": "Cerro La Esperanza - Mirador, Calle 5 - Viena, Parroquia Guatire 1221, Miranda State, Venezuela",
+        "address_line1": "Cerro La Esperanza - Mirador",
+        "address_line2": "Calle 5 - Viena, Parroquia Guatire 1221, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro La Esperanza - Mirador",
+            "osm_id": 8415649159,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f5c1e8a8d9a150c05926dc7d91f2fe2440f00103f901879d9cf50100000092031c436572726f204c61204573706572616e7a61202d204d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.52890989999999,
+          10.497944399465336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua de Leoncío Martínez",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia Leoncio Martínez",
+        "postcode": "1071",
+        "district": "Sector La Carlota",
+        "street": "Avenida Principal de La Carlota",
+        "iso3166_2": "VE-M",
+        "lon": -66.8328837,
+        "lat": 10.4924194,
+        "formatted": "Estatua de Leoncío Martínez, Avenida Principal de La Carlota, Caracas 1071, Miranda State, Venezuela",
+        "address_line1": "Estatua de Leoncío Martínez",
+        "address_line2": "Avenida Principal de La Carlota, Caracas 1071, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estatua de Leoncío Martínez",
+            "osm_id": 8572308674,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "addr:city": "Caracas",
+            "addr:street": "Av. Principal de La Carlota",
+            "artwork_type": "statue",
+            "addr:postcode": 1071
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51c6376ff74db550c059773c41651efc2440f00103f901c20cf3fe0100000092031d45737461747561206465204c656f6e63c3ad6f204d617274c3ad6e657a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8328837,
+          10.49241939946499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Punta Gorda",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "suburb": "Mare",
+        "street": "Avenida Bicentenaria",
+        "iso3166_2": "VE-X",
+        "lon": -66.9722137,
+        "lat": 10.6076742,
+        "formatted": "Mirador de Punta Gorda, Avenida Bicentenaria, Vargas State 1162, Venezuela",
+        "address_line1": "Mirador de Punta Gorda",
+        "address_line2": "Avenida Bicentenaria, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Punta Gorda",
+            "osm_id": 8828531218,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51488ecfbf38be50c05928b69a1221372540f00103f90112b2380e020000009203164d697261646f722064652050756e746120476f726461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9722137,
+          10.607674199472129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Las Trincheras",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia Sucre",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "neighbourhood": "La Toma",
+        "suburb": "Ojo de Agua",
+        "street": "Carretera Vieja Caracas - La Guaira",
+        "iso3166_2": "VE-A",
+        "lon": -66.9904728,
+        "lat": 10.5540918,
+        "formatted": "Mirador de Las Trincheras, Carretera Vieja Caracas - La Guaira, Caracas 1162, Capital District, Venezuela",
+        "address_line1": "Mirador de Las Trincheras",
+        "address_line2": "Carretera Vieja Caracas - La Guaira, Caracas 1162, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Las Trincheras",
+            "osm_id": 8868876941,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 197
+          }
+        },
+        "place_id": "51f7e406e863bf50c0597f669bebb11b2540f00103f9018d52a010020000009203194d697261646f72206465204c6173205472696e636865726173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9904728,
+          10.554091799468777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de San Pedro",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia Sucre",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "neighbourhood": "La Toma",
+        "suburb": "Ojo de Agua",
+        "street": "Carretera Vieja Caracas - La Guaira",
+        "iso3166_2": "VE-A",
+        "lon": -67.0025843,
+        "lat": 10.5630688,
+        "formatted": "Mirador de San Pedro, Carretera Vieja Caracas - La Guaira, Caracas 1162, Capital District, Venezuela",
+        "address_line1": "Mirador de San Pedro",
+        "address_line2": "Carretera Vieja Caracas - La Guaira, Caracas 1162, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de San Pedro",
+            "osm_id": 8868876942,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 222
+          }
+        },
+        "place_id": "51eafe56572ac050c059d23cbe8d4a202540f00103f9018e52a010020000009203144d697261646f722064652053616e20506564726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0025843,
+          10.563068799469338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Anauco",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia San Bernardino",
+        "postcode": "1011",
+        "district": "Clavelitos",
+        "street": "Camino Clavelitos - Los Venados",
+        "iso3166_2": "VE-A",
+        "lon": -66.9018513,
+        "lat": 10.532213,
+        "formatted": "Mirador Anauco, Camino Clavelitos - Los Venados, Caracas 1011, Capital District, Venezuela",
+        "address_line1": "Mirador Anauco",
+        "address_line2": "Camino Clavelitos - Los Venados, Caracas 1011, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "bin": "yes",
+            "name": "Mirador Anauco",
+            "bench": "yes",
+            "osm_id": 8878891961,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 180,
+            "shelter_type": "field_shelter"
+          }
+        },
+        "place_id": "51bad683eeb7b950c059f46fe6387e102540f00103f901b92339110200000092030e4d697261646f7220416e6175636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9018513,
+          10.532212999467426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de El Oasis",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "neighbourhood": "La Pedrera",
+        "suburb": "Parroquia Urimare",
+        "street": "Carretera Vieja Caracas - La Guaira",
+        "iso3166_2": "VE-X",
+        "lon": -66.9900866,
+        "lat": 10.5881829,
+        "formatted": "Mirador de El Oasis, Carretera Vieja Caracas - La Guaira, Vargas State 1162, Venezuela",
+        "address_line1": "Mirador de El Oasis",
+        "address_line2": "Carretera Vieja Caracas - La Guaira, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de El Oasis",
+            "osm_id": 8889079620,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 343
+          }
+        },
+        "place_id": "514ccd2f945dbf50c05986961a4f262d2540f00103f9014497d411020000009203134d697261646f7220646520456c204f61736973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.99008659999998,
+          10.588182899470905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Boquerón",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Vargas State",
+        "municipality": "Parroquia Sucre",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia Urimare",
+        "street": "Carretera Vieja Caracas - La Guaira",
+        "iso3166_2": "VE-A",
+        "lon": -67.0030852,
+        "lat": 10.5696105,
+        "formatted": "Mirador de Boquerón, Carretera Vieja Caracas - La Guaira, Vargas State 1162, Capital District, Venezuela",
+        "address_line1": "Mirador de Boquerón",
+        "address_line2": "Carretera Vieja Caracas - La Guaira, Vargas State 1162, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Boquerón",
+            "osm_id": 8889079621,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 330
+          }
+        },
+        "place_id": "518146448c32c050c0598d5cc5fca3232540f00103f9014597d411020000009203144d697261646f7220646520426f71756572c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0030852,
+          10.569610499469741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de Pedro García",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "hamlet": "Pedro García",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia Urimare",
+        "street": "R-8",
+        "iso3166_2": "VE-X",
+        "lon": -66.9829519,
+        "lat": 10.5743065,
+        "formatted": "Mirador de Pedro García, R-8, Vargas State 1162, Venezuela",
+        "address_line1": "Mirador de Pedro García",
+        "address_line2": "R-8, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de Pedro García",
+            "osm_id": 8890483690,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 7
+          }
+        },
+        "place_id": "51a10216afe8be50c059413562800b262540f00103f901ea03ea11020000009203184d697261646f7220646520506564726f2047617263c3ad61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9829519,
+          10.574306499470028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador de El Casquillo;Vuelta del Casquillo",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "neighbourhood": "La Pedrera",
+        "suburb": "Parroquia Urimare",
+        "street": "Carretera Vieja Caracas - La Guaira",
+        "iso3166_2": "VE-X",
+        "lon": -66.9843535,
+        "lat": 10.5869404,
+        "formatted": "Mirador de El Casquillo;Vuelta del Casquillo, Carretera Vieja Caracas - La Guaira, Vargas State 1162, Venezuela",
+        "address_line1": "Mirador de El Casquillo;Vuelta del Casquillo",
+        "address_line2": "Carretera Vieja Caracas - La Guaira, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador de El Casquillo;Vuelta del Casquillo",
+            "osm_id": 8890483691,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 48
+          }
+        },
+        "place_id": "51008dd2a5ffbe50c05954dbb873832c2540f00103f901eb03ea110200000092032c4d697261646f7220646520456c204361737175696c6c6f3b5675656c74612064656c204361737175696c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9843535,
+          10.586940399470826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avión",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Sucre",
+        "city": "Caracas",
+        "municipality": "Parroquia Leoncio Martínez",
+        "postcode": "1064",
+        "suburb": "Los Ruices",
+        "quarter": "Santa Cecilia",
+        "street": "Puente Bicentenario",
+        "iso3166_2": "VE-M",
+        "lon": -66.8406701,
+        "lat": 10.4872923,
+        "formatted": "Avión, Puente Bicentenario, Caracas 1064, Miranda State, Venezuela",
+        "address_line1": "Avión",
+        "address_line2": "Puente Bicentenario, Caracas 1064, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Avión",
+            "osm_id": 9126650524,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51678ef689cdb550c059469653607ef92440f00103f9019ca2fd1f02000000920306417669c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8406701,
+          10.487292299464695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busto de Lisandro Alvarado",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "municipality": "Parroquia Sucre",
+        "postcode": "1030",
+        "district": "Urbanización Urdaneta",
+        "suburb": "Propatria",
+        "street": "Avenida 3 Sur",
+        "iso3166_2": "VE-A",
+        "lon": -66.9568989,
+        "lat": 10.5038759,
+        "formatted": "Busto de Lisandro Alvarado, Avenida 3 Sur, Caracas 1030, Capital District, Venezuela",
+        "address_line1": "Busto de Lisandro Alvarado",
+        "address_line2": "Avenida 3 Sur, Caracas 1030, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Busto de Lisandro Alvarado",
+            "osm_id": 9263736855,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "510445e2d43dbd50c05941e59a05fc012540f00103f901176829280200000092031a427573746f206465204c6973616e64726f20416c76617261646f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9568989,
+          10.503875899465699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columna de Luz",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Capital District",
+        "county": "Municipio Libertador",
+        "city": "Caracas",
+        "postcode": "1014",
+        "district": "Barrio Redentor",
+        "suburb": "Parroquia 23 de Enero",
+        "quarter": "Monte Piedad",
+        "street": "Vereda El Martirio",
+        "iso3166_2": "VE-A",
+        "lon": -66.9277346,
+        "lat": 10.5048833,
+        "formatted": "Columna de Luz, Vereda El Martirio, Caracas 1014, Capital District, Venezuela",
+        "address_line1": "Columna de Luz",
+        "address_line2": "Vereda El Martirio, Caracas 1014, Capital District, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Columna de Luz",
+            "osm_id": 9284567908,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "start_date": 2012,
+            "artist_name": "Catire Domínguez",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artist_name": "Catire Domínguez",
+          "artwork_type": "sculpture",
+          "start_date": 2012
+        },
+        "place_id": "518797f10060bb50c0590401571080022540f00103f901644367290200000092030e436f6c756d6e61206465204c757a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9277346,
+          10.504883299465753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estatua de César Girón",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia María de San José",
+        "postcode": "1201",
+        "suburb": "Calicanto",
+        "street": "Avenida 19 de Abril",
+        "iso3166_2": "VE-D",
+        "lon": -67.5992682,
+        "lat": 10.2533823,
+        "formatted": "Estatua de César Girón, Avenida 19 de Abril, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "address_line1": "Estatua de César Girón",
+        "address_line2": "Avenida 19 de Abril, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estatua de César Girón",
+            "osm_id": 10038531513,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51182202695ae650c059640e2353bb812440f00103f901b9d5575602000000920318457374617475612064652043c3a973617220476972c3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.59926819999998,
+          10.253382299451182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busto de Girardot",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia María de San José",
+        "postcode": "1201",
+        "suburb": "San Isidro",
+        "street": "Avenida Las Delicias",
+        "iso3166_2": "VE-D",
+        "lon": -67.5928691,
+        "lat": 10.2551061,
+        "formatted": "Busto de Girardot, Avenida Las Delicias, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "address_line1": "Busto de Girardot",
+        "address_line2": "Avenida Las Delicias, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Busto de Girardot",
+            "osm_id": 10040361410,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51c6d33c91f1e550c059834e44449d822440f00103f901c2c1735602000000920311427573746f206465204769726172646f74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5928691,
+          10.255106099451273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura del Toro de Las Delicias",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia Las Delicias",
+        "postcode": "1201",
+        "suburb": "Las Delicias",
+        "quarter": "El Toro",
+        "street": "Avenida Las Delicias",
+        "iso3166_2": "VE-D",
+        "lon": -67.5651364,
+        "lat": 10.2866049,
+        "formatted": "Escultura del Toro de Las Delicias, Avenida Las Delicias, Parroquia Las Delicias 1201, Aragua State, Venezuela",
+        "address_line1": "Escultura del Toro de Las Delicias",
+        "address_line2": "Avenida Las Delicias, Parroquia Las Delicias 1201, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura del Toro de Las Delicias",
+            "osm_id": 10043872669,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51def1dc312be450c0595b0c9ce0bd922440f00103f9019d55a95602000000920322457363756c747572612064656c20546f726f206465204c61732044656c6963696173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5651364,
+          10.28660489945303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busto de Cristobal Mendoza",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia María de San José",
+        "postcode": "1201",
+        "suburb": "La Soledad",
+        "street": "Calle Turpial",
+        "iso3166_2": "VE-D",
+        "lon": -67.5920641,
+        "lat": 10.2608694,
+        "formatted": "Busto de Cristobal Mendoza, Calle Turpial, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "address_line1": "Busto de Cristobal Mendoza",
+        "address_line2": "Calle Turpial, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Busto de Cristobal Mendoza",
+            "osm_id": 10050032796,
+            "statue": "yes",
+            "subject": "José Cristóbal Hurtado de Mendoza y Montilla",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "bust",
+            "subject:wikidata": "Q2497553"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51afa8d260e4e550c059f35786ac90852440f00103f9019c5407570200000092031a427573746f2064652043726973746f62616c204d656e646f7a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5920641,
+          10.260869399451598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Leones",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1164",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia Macuto",
+        "quarter": "Urbanización Álamo",
+        "street": "Avenida Álamo",
+        "iso3166_2": "VE-X",
+        "lon": -66.9058129,
+        "lat": 10.6022826,
+        "formatted": "Los Leones, Avenida Álamo, Vargas State 1164, Venezuela",
+        "address_line1": "Los Leones",
+        "address_line2": "Avenida Álamo, Vargas State 1164, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Los Leones",
+            "osm_id": 10969826308,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51df72abd6f8b950c059c85c87625e342540f00103f9010444da8d0200000092030a4c6f73204c656f6e6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90581289999999,
+          10.602282599471792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mafalda",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Baruta",
+        "city": "Caracas",
+        "municipality": "Parroquia Nuestra Señora del Rosario",
+        "postcode": "1080",
+        "district": "Colinas de Bello Monte",
+        "suburb": "Bello Monte",
+        "street": "Avenida Miguelangel",
+        "iso3166_2": "VE-M",
+        "lon": -66.8729336,
+        "lat": 10.4862107,
+        "formatted": "Mafalda, Avenida Miguelangel, Caracas 1080, Miranda State, Venezuela",
+        "address_line1": "Mafalda",
+        "address_line2": "Avenida Miguelangel, Caracas 1080, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mafalda",
+            "osm_id": 11018669081,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "artist_name": "Pablo Irrgang",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Pablo Irrgang",
+          "artwork_type": "statue"
+        },
+        "place_id": "5116e5e324deb750c059e754da9bf0f82440f00103f901198cc390020000009203074d6166616c6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.87293359999998,
+          10.48621069946462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "postcode": "1166",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia Naiguatá",
+        "street": "Carretera Los Caracas - Caruao",
+        "iso3166_2": "VE-X",
+        "lon": -66.5692842,
+        "lat": 10.6279525,
+        "formatted": "Mirador, Carretera Los Caracas - Caruao, Vargas State 1166, Venezuela",
+        "address_line1": "Mirador",
+        "address_line2": "Carretera Los Caracas - Caruao, Vargas State 1166, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 11179604602,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "N"
+          }
+        },
+        "place_id": "514948ff266fa450c059095c71fd82412540f00103f9017a3a5b9a020000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.56928419999998,
+          10.62795249947341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1eu008",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Baruta",
+        "city": "Caracas",
+        "municipality": "Parroquia Nuestra Señora del Rosario",
+        "postcode": "1080",
+        "suburb": "Las Mercedes",
+        "street": "Avenida Principal de Las Mercedes",
+        "iso3166_2": "VE-M",
+        "lon": -66.8611673,
+        "lat": 10.4819395,
+        "formatted": "1eu008, Avenida Principal de Las Mercedes, Caracas 1080, Miranda State, Venezuela",
+        "address_line1": "1eu008",
+        "address_line2": "Avenida Principal de Las Mercedes, Caracas 1080, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "1eu008",
+            "osm_id": 11350547882,
+            "tourism": "artwork",
+            "alt_name": "Mástiles",
+            "material": "steel",
+            "osm_type": "n",
+            "artist_name": "Magdalena Fernández",
+            "artwork_type": "sculpture",
+            "artist:wikidata": "Q27955324",
+            "artist:wikipedia": "es:Magdalena_Fernández"
+          }
+        },
+        "name_other": {
+          "alt_name": "Mástiles"
+        },
+        "artwork": {
+          "artist_name": "Magdalena Fernández",
+          "artist_details": {
+            "wikidata": "Q27955324",
+            "wikipedia": "es:Magdalena_Fernández"
+          },
+          "artwork_type": "sculpture"
+        },
+        "place_id": "519d78735d1db750c0593ab329c6c0f62440f00103f901aa9d8ba402000000920306316575303038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.86116729999999,
+          10.481939499464364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Satélite La Trinidad",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Baruta",
+        "city": "Caracas",
+        "municipality": "Parroquia Nuestra Señora del Rosario",
+        "postcode": "1080",
+        "district": "Zona Industrial La Trinidad",
+        "suburb": "La Trinidad",
+        "street": "Distribuidor La Trinidad",
+        "iso3166_2": "VE-M",
+        "lon": -66.8660701,
+        "lat": 10.4346958,
+        "formatted": "Ciudad Satélite La Trinidad, Distribuidor La Trinidad, Caracas 1080, Miranda State, Venezuela",
+        "address_line1": "Ciudad Satélite La Trinidad",
+        "address_line2": "Distribuidor La Trinidad, Caracas 1080, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ciudad Satélite La Trinidad",
+            "osm_id": 11404292469,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c8e248b16db750c059b3caa47290de2440f00103f90175b1bfa70200000092031c43697564616420536174c3a96c697465204c61205472696e69646164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8660701,
+          10.434695799461542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Venus de Tacarigua",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Carabobo State",
+        "county": "Municipio Diego Ibarra",
+        "city": "Mariara",
+        "municipality": "Parroquia Mariara",
+        "postcode": "2017",
+        "district": "Ciudadela José Antonio Anzoátegui",
+        "suburb": "El Guamacho",
+        "street": "Avenida Bolívar Oeste",
+        "iso3166_2": "VE-G",
+        "lon": -67.7281648,
+        "lat": 10.2894916,
+        "formatted": "Monumento Venus de Tacarigua, Avenida Bolívar Oeste, Mariara 2017, Carabobo State, Venezuela",
+        "address_line1": "Monumento Venus de Tacarigua",
+        "address_line2": "Avenida Bolívar Oeste, Mariara 2017, Carabobo State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Venus de Tacarigua",
+            "osm_id": 11453940164,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "514c8688409aee50c0597d3c303e38942440f00103f901c441b5aa0200000092031c4d6f6e756d656e746f2056656e757320646520546163617269677561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7281648,
+          10.28949159945318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Portal Oeste Esculturas Jaguares de Maracay",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia Los Tacariguas",
+        "postcode": "1203",
+        "suburb": "El Campito",
+        "street": "Carretera Nacional Maracay - Mariara",
+        "iso3166_2": "VE-D",
+        "lon": -67.6623018,
+        "lat": 10.2556688,
+        "formatted": "Monumento Portal Oeste Esculturas Jaguares de Maracay, Carretera Nacional Maracay - Mariara, Parroquia Los Tacariguas 1203, Aragua State, Venezuela",
+        "address_line1": "Monumento Portal Oeste Esculturas Jaguares de Maracay",
+        "address_line2": "Carretera Nacional Maracay - Mariara, Parroquia Los Tacariguas 1203, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Portal Oeste Esculturas Jaguares de Maracay",
+            "osm_id": 11453943815,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "513dc5162763ea50c0597b805805e7822440f00103f9010750b5aa020000009203354d6f6e756d656e746f20506f7274616c204f6573746520457363756c7475726173204a61677561726573206465204d617261636179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.66230179999998,
+          10.255668799451305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Venus de Tacarigua",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Maracay",
+        "municipality": "Parroquia Los Tacariguas",
+        "postcode": "1203",
+        "suburb": "La Romana",
+        "street": "Avenida Constitución",
+        "iso3166_2": "VE-D",
+        "lon": -67.6278622,
+        "lat": 10.2543834,
+        "formatted": "Monumento Venus de Tacarigua, Avenida Constitución, Maracay 1203, Aragua State, Venezuela",
+        "address_line1": "Monumento Venus de Tacarigua",
+        "address_line2": "Avenida Constitución, Maracay 1203, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Venus de Tacarigua",
+            "osm_id": 11453945823,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "addr:city": "Maracay",
+            "addr:street": "Avenida Constitución",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5141d9efe42ee850c059a2937a8a3e822440f00103f901df57b5aa0200000092031c4d6f6e756d656e746f2056656e757320646520546163617269677561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6278622,
+          10.254383399451232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vertical Vibrante",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia Los Tacariguas",
+        "postcode": "1203",
+        "suburb": "Barrio Coromoto",
+        "street": "T-1",
+        "iso3166_2": "VE-D",
+        "lon": -67.6288111,
+        "lat": 10.2552352,
+        "formatted": "Vertical Vibrante, T-1, Parroquia Los Tacariguas 1203, Aragua State, Venezuela",
+        "address_line1": "Vertical Vibrante",
+        "address_line2": "T-1, Parroquia Los Tacariguas 1203, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vertical Vibrante",
+            "osm_id": 11453946931,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artist_name": "Alejandro Otero",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artist_name": "Alejandro Otero",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "512777e9703ee850c059d4dc2430ae822440f00103f901335cb5aa02000000920311566572746963616c2056696272616e7465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6288111,
+          10.255235199451285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portal Este Escultura Jaguar de Maracay",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia María de San José",
+        "postcode": "1201",
+        "suburb": "San Jacinto",
+        "street": "Avenida Bolívar",
+        "iso3166_2": "VE-D",
+        "lon": -67.5665456,
+        "lat": 10.2421497,
+        "formatted": "Portal Este Escultura Jaguar de Maracay, Avenida Bolívar, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "address_line1": "Portal Este Escultura Jaguar de Maracay",
+        "address_line2": "Avenida Bolívar, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Portal Este Escultura Jaguar de Maracay",
+            "osm_id": 11453956516,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5155ec794842e450c059b6c09f0bfb7b2440f00103f901a481b5aa02000000920327506f7274616c204573746520457363756c74757261204a6167756172206465204d617261636179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5665456,
+          10.242149699450561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Jaguar de Maracay",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Aragua State",
+        "county": "Municipio Girardot",
+        "city": "Parroquia María de San José",
+        "postcode": "1201",
+        "suburb": "San Isidro",
+        "street": "Avenida Las Delicias",
+        "iso3166_2": "VE-D",
+        "lon": -67.5932041,
+        "lat": 10.2556265,
+        "formatted": "Monumento Jaguar de Maracay, Avenida Las Delicias, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "address_line1": "Monumento Jaguar de Maracay",
+        "address_line2": "Avenida Las Delicias, Parroquia María de San José 1201, Aragua State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Jaguar de Maracay",
+            "osm_id": 11453965881,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "519956540ef7e550c059c844fe79e1822440f00103f90139a6b5aa0200000092031b4d6f6e756d656e746f204a6167756172206465204d617261636179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.5932041,
+          10.25562649945131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Facundo Tovar",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Carabobo State",
+        "county": "Municipio Diego Ibarra",
+        "city": "Mariara",
+        "municipality": "Parroquia Mariara",
+        "postcode": "2017",
+        "district": "Ciudadela José Antonio Anzoátegui",
+        "suburb": "La Haciendita",
+        "street": "Avenida Carabobo",
+        "iso3166_2": "VE-G",
+        "lon": -67.7178446,
+        "lat": 10.2911419,
+        "formatted": "Facundo Tovar, Avenida Carabobo, Mariara 2017, Carabobo State, Venezuela",
+        "address_line1": "Facundo Tovar",
+        "address_line2": "Avenida Carabobo, Mariara 2017, Carabobo State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Facundo Tovar",
+            "osm_id": 11702111628,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "510e277a2af1ed50c059544b118d10952440f00103f9018c0d80b90200000092030d466163756e646f20546f766172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7178446,
+          10.291141899453272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General Diego Ibarra",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Carabobo State",
+        "county": "Municipio Diego Ibarra",
+        "city": "Mariara",
+        "municipality": "Parroquia Mariara",
+        "postcode": "2017",
+        "district": "22 de Mayo",
+        "suburb": "Félix Navarro",
+        "street": "Autopista Regional del Centro",
+        "iso3166_2": "VE-G",
+        "lon": -67.7135906,
+        "lat": 10.2856368,
+        "formatted": "General Diego Ibarra, Autopista Regional del Centro, Mariara 2017, Carabobo State, Venezuela",
+        "address_line1": "General Diego Ibarra",
+        "address_line2": "Autopista Regional del Centro, Mariara 2017, Carabobo State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "General Diego Ibarra",
+            "osm_id": 11702119166,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51e96ee877abed50c059865e90fc3e922440f00103f901fe2a80b90200000092031447656e6572616c20446965676f20496261727261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.71359059999999,
+          10.28563679945297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento Venus de Tacarigua",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Carabobo State",
+        "county": "Municipio Diego Ibarra",
+        "city": "Mariara",
+        "municipality": "Parroquia Mariara",
+        "postcode": "2017",
+        "district": "Ciudadela José Antonio Anzoátegui",
+        "suburb": "La Haciendita",
+        "street": "Avenida Carabobo",
+        "iso3166_2": "VE-G",
+        "lon": -67.7112725,
+        "lat": 10.2912983,
+        "formatted": "Monumento Venus de Tacarigua, Avenida Carabobo, Mariara 2017, Carabobo State, Venezuela",
+        "address_line1": "Monumento Venus de Tacarigua",
+        "address_line2": "Avenida Carabobo, Mariara 2017, Carabobo State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento Venus de Tacarigua",
+            "osm_id": 11702178466,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51d382177d85ed50c0598510fb0c25952440f00103f901a21281b90200000092031c4d6f6e756d656e746f2056656e757320646520546163617269677561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.71127249999999,
+          10.291298299453283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura del Libertador Simón Bolívar",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Carabobo State",
+        "county": "Municipio Diego Ibarra",
+        "city": "Parroquia Aguas Calientes",
+        "postcode": "2017",
+        "suburb": "Aguas Calientes",
+        "street": "R-18",
+        "iso3166_2": "VE-G",
+        "lon": -67.6920585,
+        "lat": 10.2993843,
+        "formatted": "Escultura del Libertador Simón Bolívar, R-18, Parroquia Aguas Calientes 2017, Carabobo State, Venezuela",
+        "address_line1": "Escultura del Libertador Simón Bolívar",
+        "address_line2": "R-18, Parroquia Aguas Calientes 2017, Carabobo State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura del Libertador Simón Bolívar",
+            "osm_id": 11702209038,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51ce1abcaf4aec50c059ec2d1ee648992440f00103f9010e8a81b902000000920328457363756c747572612064656c204c696265727461646f722053696dc3b36e20426f6cc3ad766172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6920585,
+          10.299384299453742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simón Bolívar",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Carabobo State",
+        "county": "Municipio Diego Ibarra",
+        "city": "Mariara",
+        "municipality": "Parroquia Mariara",
+        "postcode": "2017",
+        "district": "Ciudadela José Antonio Anzoátegui",
+        "suburb": "El Guamacho",
+        "street": "Avenida Bolívar Oeste",
+        "iso3166_2": "VE-G",
+        "lon": -67.7182239,
+        "lat": 10.2940892,
+        "formatted": "Simón Bolívar, Avenida Bolívar Oeste, Mariara 2017, Carabobo State, Venezuela",
+        "address_line1": "Simón Bolívar",
+        "address_line2": "Avenida Bolívar Oeste, Mariara 2017, Carabobo State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Simón Bolívar",
+            "osm_id": 11702218757,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51276d6061f7ed50c059cb840bdc92962440f00103f90105b081b90200000092030f53696dc3b36e20426f6cc3ad766172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.71822389999998,
+          10.294089199453444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vuelta de La Horquilla",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "city": "Vargas State",
+        "hamlet": "Pedro García",
+        "postcode": "1162",
+        "district": "Municipio Vargas",
+        "suburb": "Parroquia Urimare",
+        "street": "Carretera Vieja Caracas - La Guaira",
+        "iso3166_2": "VE-X",
+        "lon": -66.9980227,
+        "lat": 10.5725969,
+        "formatted": "Vuelta de La Horquilla, Carretera Vieja Caracas - La Guaira, Vargas State 1162, Venezuela",
+        "address_line1": "Vuelta de La Horquilla",
+        "address_line2": "Carretera Vieja Caracas - La Guaira, Vargas State 1162, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vuelta de La Horquilla",
+            "osm_id": 11918743442,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519a4a9a9adfbf50c0595d07ba6b2b252540f00103f901929769c6020000009203165675656c7461206465204c6120486f727175696c6c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9980227,
+          10.572596899469938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hermanas Báez",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Guaicaipuro",
+        "city": "Los Teques",
+        "municipality": "Parroquia Los Teques",
+        "postcode": "1201",
+        "suburb": "Centro",
+        "street": "Avenida Bermúdez",
+        "iso3166_2": "VE-M",
+        "lon": -67.0399308,
+        "lat": 10.3433295,
+        "formatted": "Hermanas Báez, Avenida Bermúdez, Los Teques 1201, Miranda State, Venezuela",
+        "address_line1": "Hermanas Báez",
+        "address_line2": "Avenida Bermúdez, Los Teques 1201, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hermanas Báez",
+            "osm_id": 12193404113,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "519906ea398ec250c05947d557e2c8af2440f00103f901d194c8d60200000092030e4865726d616e61732042c3a1657a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0399308,
+          10.34332949945623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arturo Michelena",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Guaicaipuro",
+        "city": "Los Teques",
+        "municipality": "Parroquia Los Teques",
+        "postcode": "1201",
+        "suburb": "Centro",
+        "street": "Avenida Bermúdez",
+        "iso3166_2": "VE-M",
+        "lon": -67.0399344,
+        "lat": 10.3432707,
+        "formatted": "Arturo Michelena, Avenida Bermúdez, Los Teques 1201, Miranda State, Venezuela",
+        "address_line1": "Arturo Michelena",
+        "address_line2": "Avenida Bermúdez, Los Teques 1201, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arturo Michelena",
+            "osm_id": 12193404114,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51117f03498ec250c059d5ad572dc1af2440f00103f901d294c8d60200000092031041727475726f204d696368656c656e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0399344,
+          10.343270699456221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilio Acosta",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Guaicaipuro",
+        "city": "Los Teques",
+        "municipality": "Parroquia Los Teques",
+        "postcode": "1201",
+        "suburb": "Centro",
+        "street": "Avenida Bermúdez",
+        "iso3166_2": "VE-M",
+        "lon": -67.0399437,
+        "lat": 10.3431798,
+        "formatted": "Cecilio Acosta, Avenida Bermúdez, Los Teques 1201, Miranda State, Venezuela",
+        "address_line1": "Cecilio Acosta",
+        "address_line2": "Avenida Bermúdez, Los Teques 1201, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cecilio Acosta",
+            "osm_id": 12193404115,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51984b05708ec250c059e49f3e43b5af2440f00103f901d394c8d60200000092030e436563696c696f2041636f737461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.03994369999998,
+          10.343179799456216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cacique Baruta",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio Baruta",
+        "city": "Caracas",
+        "municipality": "Parroquia Nuestra Señora del Rosario",
+        "postcode": "1080",
+        "district": "Barrio El Placer de María",
+        "suburb": "Baruta",
+        "street": "Avenida La Industrial",
+        "iso3166_2": "VE-M",
+        "lon": -66.8739682,
+        "lat": 10.4355216,
+        "formatted": "Cacique Baruta, Avenida La Industrial, Caracas 1080, Miranda State, Venezuela",
+        "address_line1": "Cacique Baruta",
+        "address_line2": "Avenida La Industrial, Caracas 1080, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cacique Baruta",
+            "osm_id": 12431836441,
+            "statue": "bust",
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "519d2f5118efb750c05940c7e4affcde2440f00103f90119c5fee40200000092030e4361636971756520426172757461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8739682,
+          10.435521599461595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Arroyo",
+        "country": "Venezuela",
+        "country_code": "ve",
+        "state": "Miranda State",
+        "county": "Municipio El Hatillo",
+        "city": "Caracas",
+        "municipality": "Parroquia El Hatillo",
+        "postcode": "1083",
+        "suburb": "Alto Hatillo",
+        "street": "Avenida El Arroyo",
+        "iso3166_2": "VE-M",
+        "lon": -66.8245074,
+        "lat": 10.4313121,
+        "formatted": "Avenida El Arroyo, Caracas 1083, Miranda State, Venezuela",
+        "address_line1": "Avenida El Arroyo",
+        "address_line2": "Caracas 1083, Miranda State, Venezuela",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Arroyo",
+            "osm_id": 12466199906,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "51d693afbac4b450c0596f1c83f0d4dc2440f00103f901621d0be702000000920309456c204172726f796f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.82450739999999,
+          10.431312099461335
+        ]
+      }
+    }
+  ]
+}

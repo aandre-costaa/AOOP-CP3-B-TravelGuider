@@ -1,0 +1,4841 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto de Henecan",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Valle",
+        "city": "San Lorenzo",
+        "postcode": "20345",
+        "district": "Res. Justa María",
+        "street": "RN-26",
+        "suburb": "port",
+        "iso3166_2": "HN-VA",
+        "lon": -87.42641086878419,
+        "lat": 13.4022982,
+        "state_code": "VA",
+        "formatted": "Puerto de Henecan, RN-26, 20345 San Lorenzo, Honduras",
+        "address_line1": "Puerto de Henecan",
+        "address_line2": "RN-26, 20345 San Lorenzo, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Puerto de Henecan",
+            "port": "cargo",
+            "cargo": "general",
+            "osm_id": 440749507,
+            "landuse": "industrial",
+            "tourism": "attraction",
+            "website": "https://www.enp.hn/web/puerto-de-san-lorenzo.html",
+            "alt_name": "Puerto de San Lorenzo",
+            "osm_type": "w",
+            "industrial": "port"
+          }
+        },
+        "website": "https://www.enp.hn/web/puerto-de-san-lorenzo.html",
+        "name_other": {
+          "alt_name": "Puerto de San Lorenzo"
+        },
+        "production": {
+          "industry": "port"
+        },
+        "place_id": "519205d0504adb55c059ea189607facd2a40f00102f901c34d451a0000000092031150756572746f2064652048656e6563616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42641086878419,
+          13.402298199722697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laberinto de Cipreses",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Villa de San Antonio",
+        "village": "Flores",
+        "hamlet": "Puente San José",
+        "street": "RV-277",
+        "iso3166_2": "HN-CM",
+        "lon": -87.55885336089334,
+        "lat": 14.3030252,
+        "state_code": "CM",
+        "formatted": "Laberinto de Cipreses, RV-277, Villa de San Antonio, Honduras",
+        "address_line1": "Laberinto de Cipreses",
+        "address_line2": "RV-277, Villa de San Antonio, Honduras",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Laberinto de Cipreses",
+            "charge": "120 HNL",
+            "osm_id": 1126120582,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "maze",
+            "opening_hours": "Mo-Su 09:00-18:00"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "place_id": "51fa12e340c4e355c059fe39761e269b2c40f00102f901863c1f43000000009203154c61626572696e746f206465204369707265736573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55885336089332,
+          14.303025199825239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento nacional Cañón de Somoto",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "hamlet": "Valle de Sonís",
+        "postcode": "34000",
+        "street": "Pan-American Highway",
+        "iso3166_2": "NI-MD",
+        "lon": -86.7037649,
+        "lat": 13.4552319,
+        "state_code": "MD",
+        "formatted": "Monumento nacional Cañón de Somoto, Pan-American Highway, Somoto, Nicaragua",
+        "address_line1": "Monumento nacional Cañón de Somoto",
+        "address_line2": "Pan-American Highway, Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento nacional Cañón de Somoto",
+            "osm_id": 10836162360,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q1052130",
+            "short_name": "Cañón de Somoto",
+            "reservation": "no"
+          }
+        },
+        "name_other": {
+          "short_name": "Cañón de Somoto"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1052130"
+        },
+        "place_id": "51a664ef7b0aad55c05934dcd22714e92a40f00103f90138b7e285020000009203244d6f6e756d656e746f206e6163696f6e616c204361c3b1c3b36e20646520536f6d6f746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.70376489999998,
+          13.455231899728552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Fortaleza",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Nueva Segovia",
+        "city": "Ocotal",
+        "postcode": "37000",
+        "street": "Calle Cocibolca",
+        "iso3166_2": "NI-NS",
+        "lon": -86.47056764999999,
+        "lat": 13.63303335,
+        "state_code": "NS",
+        "formatted": "La Fortaleza, Calle Cocibolca, Ocotal, Nicaragua",
+        "address_line1": "La Fortaleza",
+        "address_line2": "Calle Cocibolca, Ocotal, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Fortaleza",
+            "osm_id": 153584495,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "518ed3c6c71d9e55c059a8e47cf21c442b40f00102f9016f8327090000000092030c4c6120466f7274616c657a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.47056764999999,
+          13.633033349748374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pueblo en el Nido de Las Aves",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Totogalpa",
+        "postcode": "35300",
+        "street": "Calle Central",
+        "iso3166_2": "NI-MD",
+        "lon": -86.49151622060805,
+        "lat": 13.56245105,
+        "state_code": "MD",
+        "formatted": "Pueblo en el Nido de Las Aves, Calle Central, Totogalpa, Nicaragua",
+        "address_line1": "Pueblo en el Nido de Las Aves",
+        "address_line2": "Calle Central, Totogalpa, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pueblo en el Nido de Las Aves",
+            "osm_id": 157080435,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51c43d7300759f55c059ee788095f91f2b40f00102f90173db5c090000000092031d507565626c6f20656e20656c204e69646f206465204c61732041766573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.49151622060805,
+          13.56245104974047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aqua Splash",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "hamlet": "Santa Cruz Arriba",
+        "street": "Carretera CA-5",
+        "iso3166_2": "HN-FM",
+        "lon": -87.28140441983103,
+        "lat": 14.139204249999999,
+        "state_code": "FM",
+        "formatted": "Aqua Splash, Carretera CA-5, Tegucigalpa, Honduras",
+        "address_line1": "Aqua Splash",
+        "address_line2": "Carretera CA-5, Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aqua Splash",
+            "osm_id": 276436567,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51f207af8702d255c0597cc388c745472c40f00102f90157167a100000000092030b417175612053706c617368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.28140441983103,
+          14.139204249806191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Represa José Cecilio del Valle",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "La Venta",
+        "iso3166_2": "HN-FM",
+        "lon": -87.36190896531915,
+        "lat": 13.689336950000001,
+        "state_code": "FM",
+        "formatted": "Represa José Cecilio del Valle, La Venta, Francisco Morazán, Honduras",
+        "address_line1": "Represa José Cecilio del Valle",
+        "address_line2": "La Venta, Francisco Morazán, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Represa José Cecilio del Valle",
+            "osm_id": 283524308,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "waterway": "dam"
+          }
+        },
+        "place_id": "51328b388429d755c059e73dcec5f0602b40f00102f901d43ce6100000000092031f52657072657361204a6f73c3a920436563696c696f2064656c2056616c6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.36190896531915,
+          13.689336949754717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Convenciones La Hacienda",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "04001",
+        "district": "La Hacienda",
+        "street": "Boulevard Suyapa",
+        "iso3166_2": "HN-FM",
+        "lon": -87.16820484790179,
+        "lat": 14.083020900000001,
+        "state_code": "FM",
+        "formatted": "Centro de Convenciones La Hacienda, Boulevard Suyapa, 04001 Tegucigalpa, Honduras",
+        "address_line1": "Centro de Convenciones La Hacienda",
+        "address_line2": "Boulevard Suyapa, 04001 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centro de Convenciones La Hacienda",
+            "osm_id": 312340601,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "Tegucigalpa"
+          }
+        },
+        "place_id": "51143144dec3ca55c059600c23b7812a2c40f00102f90179f09d120000000092032243656e74726f20646520436f6e76656e63696f6e6573204c612048616369656e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16820484790179,
+          14.083020899799692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AGAFAM",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "04001",
+        "suburb": "Distrito Suyapa",
+        "quarter": "Villa Nueva Suyapa",
+        "street": "Calle Jerusalem",
+        "iso3166_2": "HN-FM",
+        "lon": -87.15829241030917,
+        "lat": 14.071712699999999,
+        "state_code": "FM",
+        "formatted": "AGAFAM, Calle Jerusalem, 04001 Tegucigalpa, Honduras",
+        "address_line1": "AGAFAM",
+        "address_line2": "Calle Jerusalem, 04001 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "AGAFAM",
+            "osm_id": 312341911,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "Tegucigalpa"
+          }
+        },
+        "place_id": "51e85e7d7621ca55c05912afe886b7242c40f00102f90197f59d120000000092030641474146414d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.15829241030917,
+          14.071712699798386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paseo de Las Sombrillas",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Centro de Tegucigalpa",
+        "suburb": "Distrito Histórico",
+        "street": "Paseo Liquidámbar",
+        "iso3166_2": "HN-FM",
+        "lon": -87.20814386197617,
+        "lat": 14.10659635,
+        "state_code": "FM",
+        "formatted": "Paseo de Las Sombrillas, Paseo Liquidámbar, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Paseo de Las Sombrillas",
+        "address_line2": "Paseo Liquidámbar, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paseo de Las Sombrillas",
+            "osm_id": 316477227,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:city": "Tegucigalpa",
+            "addr:street": "Paseo Liquidambar"
+          }
+        },
+        "place_id": "513f03a23a52cd55c059758cf8cb93362c40f00102f9012b0fdd1200000000920317506173656f206465204c617320536f6d6272696c6c6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20814386197615,
+          14.10659634980241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a La Paz",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Distrito Morazán",
+        "suburb": "Barrio Cerro Juana A. Lainez",
+        "street": "Paseo Monumento de la Paz",
+        "iso3166_2": "HN-FM",
+        "lon": -87.201256,
+        "lat": 14.0942822,
+        "state_code": "FM",
+        "formatted": "Monumento a La Paz, Paseo Monumento de la Paz, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Monumento a La Paz",
+        "address_line2": "Paseo Monumento de la Paz, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a La Paz",
+            "osm_id": 388527268,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "51ec87d860e1cc55c059fc7aa9c145302c40f00103f901a4742817000000009203124d6f6e756d656e746f2061204c612050617a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.201256,
+          14.094282199800993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Celtel Las Lomas",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Lomas del Mayab",
+        "street": "Paseo Lenca",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1881828,
+        "lat": 14.092277,
+        "state_code": "FM",
+        "formatted": "Celtel Las Lomas, Paseo Lenca, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Celtel Las Lomas",
+        "address_line2": "Paseo Lenca, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Celtel Las Lomas",
+            "osm_id": 393112003,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ddeade2f0bcc55c0596da250ee3e2f2c40f00103f901c3696e170000000092031043656c74656c204c6173204c6f6d6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1881828,
+          14.092276999800754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ministerio del Trabajo",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "La Hacienda",
+        "street": "Bulevar La Hacienda",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1744647,
+        "lat": 14.08793,
+        "state_code": "FM",
+        "formatted": "Ministerio del Trabajo, Bulevar La Hacienda, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Ministerio del Trabajo",
+        "address_line2": "Bulevar La Hacienda, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ministerio del Trabajo",
+            "osm_id": 417396431,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Tegucigalpa",
+            "addr:street": "Blv La Hacienda"
+          }
+        },
+        "place_id": "519d33fd6d2acb55c05973f53229052d2c40f00103f901cff6e018000000009203164d696e6973746572696f2064656c2054726162616a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1744647,
+          14.087929999800258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Arbolito",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Barrio La Plazuela",
+        "suburb": "Distrito Histórico",
+        "street": "Redondel el Arbolito",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1992245,
+        "lat": 14.1050631,
+        "state_code": "FM",
+        "formatted": "El Arbolito, Redondel el Arbolito, 11100 Tegucigalpa, Honduras",
+        "address_line1": "El Arbolito",
+        "address_line2": "Redondel el Arbolito, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Arbolito",
+            "osm_id": 472344408,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f6031e18c0cc55c0598155a3d4ca352c40f00103f9015867271c0000000092030b456c204172626f6c69746f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.19922449999999,
+          14.105063099802239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soptravi",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "suburb": "Distrito Toncontín",
+        "quarter": "Barrio La Bolsa",
+        "street": "3a Avenida Este",
+        "iso3166_2": "HN-FM",
+        "lon": -87.205583,
+        "lat": 14.089907,
+        "state_code": "FM",
+        "formatted": "Soptravi, 3a Avenida Este, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Soptravi",
+        "address_line2": "3a Avenida Este, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Soptravi",
+            "osm_id": 472401870,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514567994528cd55c0592aa64f4a082e2c40f00103f901ce47281c00000000920308536f707472617669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.205583,
+          14.08990699980048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cemcol La Bolsa",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "suburb": "Distrito Toncontín",
+        "quarter": "Barrio La Bolsa",
+        "street": "3a Avenida Este",
+        "iso3166_2": "HN-FM",
+        "lon": -87.205714,
+        "lat": 14.0910492,
+        "state_code": "FM",
+        "formatted": "Cemcol La Bolsa, 3a Avenida Este, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Cemcol La Bolsa",
+        "address_line2": "3a Avenida Este, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cemcol La Bolsa",
+            "osm_id": 540416944,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5114950d6b2acd55c059f4f02e009e2e2c40f00103f901b01b36200000000092030f43656d636f6c204c6120426f6c7361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.205714,
+          14.091049199800615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAEISZ Rental",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Colonia Miraflores",
+        "street": "Avenida Santa Cristina",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1989334,
+        "lat": 14.0736081,
+        "state_code": "FM",
+        "formatted": "LAEISZ Rental, Avenida Santa Cristina, 11100 Tegucigalpa, Honduras",
+        "address_line1": "LAEISZ Rental",
+        "address_line2": "Avenida Santa Cristina, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "LAEISZ Rental",
+            "osm_id": 540417837,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5140c52753bbcc55c0591db6faf5af252c40f00103f9012d1f36200000000092030d4c414549535a2052656e74616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.19893339999999,
+          14.0736080997986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plantel Principal Dipsa",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "15012",
+        "district": "Colonia Luis Andrés Zúñiga",
+        "suburb": "Distrito Toncontín",
+        "street": "Paseo La Pradera",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2204505,
+        "lat": 14.0657417,
+        "state_code": "FM",
+        "formatted": "Plantel Principal Dipsa, Paseo La Pradera, 15012 Tegucigalpa, Honduras",
+        "address_line1": "Plantel Principal Dipsa",
+        "address_line2": "Paseo La Pradera, 15012 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Plantel Principal Dipsa",
+            "osm_id": 541057712,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c1f869dc1bce55c059a73a65e5a8212c40f00103f901b0e23f2000000000920317506c616e74656c205072696e636970616c204469707361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.22045049999998,
+          14.065741699797696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro de Hula",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Santa Ana",
+        "village": "La Bodega",
+        "street": "Carretera Tegucigalpa - Sabanagrande",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2323661,
+        "lat": 13.9374514,
+        "state_code": "FM",
+        "formatted": "Cerro de Hula, Carretera Tegucigalpa - Sabanagrande, Santa Ana, Honduras",
+        "address_line1": "Cerro de Hula",
+        "address_line2": "Carretera Tegucigalpa - Sabanagrande, Santa Ana, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro de Hula",
+            "osm_id": 568072417,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bd0c1016dfce55c05972503fa1f9df2b40f00103f901e118dc210000000092030d436572726f2064652048756c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2323661,
+          13.937451399782933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PETROSUR",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Valle",
+        "city": "San Lorenzo",
+        "village": "Laure Abajo",
+        "postcode": "20345",
+        "street": "Panamerican Highway",
+        "iso3166_2": "HN-VA",
+        "lon": -87.4276769,
+        "lat": 13.4342328,
+        "state_code": "VA",
+        "formatted": "PETROSUR, Panamerican Highway, 20345 San Lorenzo, Honduras",
+        "address_line1": "PETROSUR",
+        "address_line2": "Panamerican Highway, 20345 San Lorenzo, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PETROSUR",
+            "osm_id": 568085181,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514bb0ee0e5fdb55c0596a59f3c253de2a40f00103f901bd4adc2100000000920308504554524f535552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.42767689999998,
+          13.434232799726221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pronaders",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Colonia Payaqui",
+        "street": "Boulevard Juan Pablo II",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1756677,
+        "lat": 14.088725,
+        "state_code": "FM",
+        "formatted": "Pronaders, Boulevard Juan Pablo II, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Pronaders",
+        "address_line2": "Boulevard Juan Pablo II, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pronaders",
+            "osm_id": 573327457,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ab9dbc233ecb55c059d0f5f85c6d2d2c40f00103f90161482c220000000092030950726f6e6164657273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1756677,
+          14.088724999800348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Club Banco Central",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "suburb": "Distrito Toncontín",
+        "quarter": "Barrio La Granja",
+        "street": "31 Calle",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2059074,
+        "lat": 14.0791538,
+        "state_code": "FM",
+        "formatted": "Club Banco Central, 31 Calle, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Club Banco Central",
+        "address_line2": "31 Calle, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Club Banco Central",
+            "osm_id": 574454366,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5148403b962dcd55c059dcfbcad886282c40f00103f9015e7a3d2200000000920312436c75622042616e636f2043656e7472616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2059074,
+          14.07915379979925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DGIC",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "suburb": "Distrito Histórico",
+        "quarter": "Barrio El Socorro",
+        "street": "5a Avenida",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2094479,
+        "lat": 14.089352,
+        "state_code": "FM",
+        "formatted": "DGIC, 5a Avenida, 11100 Tegucigalpa, Honduras",
+        "address_line1": "DGIC",
+        "address_line2": "5a Avenida, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "DGIC",
+            "osm_id": 574460205,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "tegucigalpa",
+            "addr:street": "5ta Ave. Comayaguela"
+          }
+        },
+        "place_id": "51d02d2a9867cd55c05935f3998bbf2d2c40f00103f9012d913d220000000092030444474943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20944789999999,
+          14.089351999800423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Triangulo",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "suburb": "Distrito Histórico",
+        "street": "3a Avenida",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2083643,
+        "lat": 14.0908817,
+        "state_code": "FM",
+        "formatted": "El Triangulo, 3a Avenida, 11100 Tegucigalpa, Honduras",
+        "address_line1": "El Triangulo",
+        "address_line2": "3a Avenida, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Triangulo",
+            "osm_id": 574460458,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d98937d755cd55c0599ee5d00b882e2c40f00103f9012a923d220000000092030c456c20547269616e67756c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20836429999999,
+          14.090881699800601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercado Alvarez",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "suburb": "Distrito Histórico",
+        "quarter": "Centro de Comayagüela",
+        "street": "5a Avenida",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2083643,
+        "lat": 14.1033061,
+        "state_code": "FM",
+        "formatted": "Mercado Alvarez, 5a Avenida, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Mercado Alvarez",
+        "address_line2": "5a Avenida, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mercado Alvarez",
+            "osm_id": 574465404,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d98937d755cd55c0590d418089e4342c40f00103f9017ca53d220000000092030f4d65726361646f20416c766172657a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20836429999999,
+          14.103306099802035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valle de Tamara",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "town": "Tamara",
+        "street": "RN-64",
+        "iso3166_2": "HN-FM",
+        "lon": -87.3492211,
+        "lat": 14.1815879,
+        "state_code": "FM",
+        "formatted": "Valle de Tamara, RN-64, Tegucigalpa, Honduras",
+        "address_line1": "Valle de Tamara",
+        "address_line2": "RN-64, Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Valle de Tamara",
+            "osm_id": 575367268,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51aee474a359d655c0597813d616f95c2c40f00103f90164684b220000000092030f56616c6c652064652054616d617261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3492211,
+          14.181587899811106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STYBIS",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "15012",
+        "district": "La Pradera",
+        "suburb": "Distrito Toncontín",
+        "street": "Boulevard Fuerzas Armadas",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2123935,
+        "lat": 14.0717999,
+        "state_code": "FM",
+        "formatted": "STYBIS, Boulevard Fuerzas Armadas, 15012 Tegucigalpa, Honduras",
+        "address_line1": "STYBIS",
+        "address_line2": "Boulevard Fuerzas Armadas, 15012 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "STYBIS",
+            "osm_id": 603451487,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518218e8da97cd55c059f6fadaf4c2242c40f00103f9015ff0f72300000000920306535459424953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21239349999999,
+          14.071799899798389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Marmolera",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Guaimaca",
+        "village": "El Destino",
+        "iso3166_2": "HN-FM",
+        "lon": -86.82633849585311,
+        "lat": 14.61346735,
+        "state_code": "FM",
+        "formatted": "La Marmolera, Guaimaca, Francisco Morazán, Honduras",
+        "address_line1": "La Marmolera",
+        "address_line2": "Guaimaca, Francisco Morazán, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Marmolera",
+            "osm_id": 624791934,
+            "natural": "bare_rock",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "515ac7dbbae2b455c0599aa37964183a2d40f00102f9017e913d250000000092030c4c61204d61726d6f6c657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8263384958531,
+          14.61346734986164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMNET",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Florencia Norte",
+        "street": "Calle Gladiola",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1761385,
+        "lat": 14.0855918,
+        "state_code": "FM",
+        "formatted": "AMNET, Calle Gladiola, 11100 Tegucigalpa, Honduras",
+        "address_line1": "AMNET",
+        "address_line2": "Calle Gladiola, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "AMNET",
+            "osm_id": 649226295,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Tegucigalpa"
+          }
+        },
+        "place_id": "5140446ada45cb55c059b9e439b0d22b2c40f00103f9013768b22600000000920305414d4e4554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.17613849999998,
+          14.085591799799987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Refrillantas",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "04001",
+        "district": "La San Miguel",
+        "street": "Paseo San Miguel",
+        "iso3166_2": "HN-FM",
+        "lon": -87.159916,
+        "lat": 14.1007582,
+        "state_code": "FM",
+        "formatted": "Refrillantas, Paseo San Miguel, 04001 Tegucigalpa, Honduras",
+        "address_line1": "Refrillantas",
+        "address_line2": "Paseo San Miguel, 04001 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Refrillantas",
+            "osm_id": 717276768,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "Tegucigalpa"
+          }
+        },
+        "place_id": "51da8651103cca55c05995e7299496332c40f00103f90160c6c02a0000000092030c52656672696c6c616e746173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.15991599999998,
+          14.10075819980174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural de Pimientilla y Tarrirra",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle al rededor del Parque Central",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3455937,
+        "lat": 14.7970556,
+        "state_code": "CM",
+        "formatted": "Mural de Pimientilla y Tarrirra, Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "address_line1": "Mural de Pimientilla y Tarrirra",
+        "address_line2": "Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural de Pimientilla y Tarrirra",
+            "osm_id": 1282658736,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artist_name": "Obed Banegas",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artist_name": "Obed Banegas",
+          "artwork_type": "mural"
+        },
+        "place_id": "5108cd09351ed655c0594e2fedab17982d40f00102f901b0d1734c0000000092031f4d7572616c2064652050696d69656e74696c6c612079205461727269727261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3455937,
+          14.79705559988329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural cívico",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle al rededor del Parque Central",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3458075,
+        "lat": 14.7971017,
+        "state_code": "CM",
+        "formatted": "Mural cívico, Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "address_line1": "Mural cívico",
+        "address_line2": "Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural cívico",
+            "osm_id": 1282658737,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51e223624a24d655c05957948ae722982d40f00102f901b1d1734c0000000092030d4d7572616c2063c3ad7669636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.345965,
+          14.797141299883306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural de café",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle al rededor del Parque Central",
+        "iso3166_2": "HN-CM",
+        "lon": -87.345986,
+        "lat": 14.7971441,
+        "state_code": "CM",
+        "formatted": "Mural de café, Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "address_line1": "Mural de café",
+        "address_line2": "Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural de café",
+            "osm_id": 1282658738,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51eb9799e326d655c059762ab3bd27982d40f00102f901b2d1734c0000000092030e4d7572616c20646520636166c3a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34612359999998,
+          14.797178199883302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural alusivo a edificaciones",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle al rededor del Parque Central",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3462268,
+        "lat": 14.7972052,
+        "state_code": "CM",
+        "formatted": "Mural alusivo a edificaciones, Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "address_line1": "Mural alusivo a edificaciones",
+        "address_line2": "Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural alusivo a edificaciones",
+            "osm_id": 1282658739,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51eb9799e326d655c059762ab3bd27982d40f00102f901b3d1734c0000000092031d4d7572616c20616c757369766f2061206564696669636163696f6e6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34612359999998,
+          14.797178199883302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural de Mar de Esquías",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle al rededor del Parque Central",
+        "iso3166_2": "HN-CM",
+        "lon": -87.346319,
+        "lat": 14.7972295,
+        "state_code": "CM",
+        "formatted": "Mural de Mar de Esquías, Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "address_line1": "Mural de Mar de Esquías",
+        "address_line2": "Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural de Mar de Esquías",
+            "osm_id": 1282658740,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51ebbf739428d655c0595f66ab472b982d40f00102f901b4d1734c000000009203184d7572616c206465204d61722064652045737175c3ad6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3462268,
+          14.797205199883306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural alusivo a la fauna",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle del parque central a Victoria",
+        "iso3166_2": "HN-CM",
+        "lon": -87.346319,
+        "lat": 14.7972295,
+        "state_code": "CM",
+        "formatted": "Mural alusivo a la fauna, Calle del parque central a Victoria, Minas de Oro, Honduras",
+        "address_line1": "Mural alusivo a la fauna",
+        "address_line2": "Calle del parque central a Victoria, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural alusivo a la fauna",
+            "osm_id": 1282658741,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51efbe2a172ad655c05982cf0a772e982d40f00102f901b5d1734c000000009203184d7572616c20616c757369766f2061206c61206661756e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34631899999998,
+          14.797229499883318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural alusivo a la serpiente de oro",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle del parque central a Victoria",
+        "iso3166_2": "HN-CM",
+        "lon": -87.346409,
+        "lat": 14.797254,
+        "state_code": "CM",
+        "formatted": "Mural alusivo a la serpiente de oro, Calle del parque central a Victoria, Minas de Oro, Honduras",
+        "address_line1": "Mural alusivo a la serpiente de oro",
+        "address_line2": "Calle del parque central a Victoria, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural alusivo a la serpiente de oro",
+            "osm_id": 1282658742,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51c4bd439b2dd655c059b1077d0a36982d40f00102f901b6d1734c000000009203234d7572616c20616c757369766f2061206c61207365727069656e7465206465206f726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34653359999999,
+          14.797287299883324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural alusivo a Estela Navarro",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle del parque central a Victoria",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3466848,
+        "lat": 14.7973654,
+        "state_code": "CM",
+        "formatted": "Mural alusivo a Estela Navarro, Calle del parque central a Victoria, Minas de Oro, Honduras",
+        "address_line1": "Mural alusivo a Estela Navarro",
+        "address_line2": "Calle del parque central a Victoria, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural alusivo a Estela Navarro",
+            "osm_id": 1282658743,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "514d81711530d655c059fbeb164740982d40f00102f901b7d1734c0000000092031e4d7572616c20616c757369766f206120457374656c61204e61766172726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3466848,
+          14.797365399883338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mural alusivo a 0311",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle al rededor del Parque Central",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3457119,
+        "lat": 14.7965724,
+        "state_code": "CM",
+        "formatted": "Mural alusivo a 0311, Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "address_line1": "Mural alusivo a 0311",
+        "address_line2": "Calle al rededor del Parque Central, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mural alusivo a 0311",
+            "osm_id": 1282658744,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artwork_type": "mural"
+        },
+        "place_id": "51a315ce2420d655c0591eca6c56d8972d40f00102f901b8d1734c000000009203144d7572616c20616c757369766f20612030333131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34571190000001,
+          14.796572399883242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascada",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Centro",
+        "street": "Calle de el parque hacia Esquias",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3464003,
+        "lat": 14.795808,
+        "state_code": "CM",
+        "formatted": "Cascada, Calle de el parque hacia Esquias, Minas de Oro, Honduras",
+        "address_line1": "Cascada",
+        "address_line2": "Calle de el parque hacia Esquias, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascada",
+            "osm_id": 1282658747,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artist_name": "Obed Banegas",
+            "artwork_type": "mural"
+          }
+        },
+        "artwork": {
+          "artist_name": "Obed Banegas",
+          "artwork_type": "mural"
+        },
+        "place_id": "51c5f4296c2bd655c0595bc96a2574972d40f00102f901bbd1734c0000000092030743617363616461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34640029999998,
+          14.795807999883143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Maya",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "15012",
+        "district": "Colonia Las Torres",
+        "suburb": "Distrito Toncontín",
+        "street": "Sendero Colina",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2301479,
+        "lat": 14.059334,
+        "state_code": "FM",
+        "formatted": "Cafe Maya, Sendero Colina, 15012 Tegucigalpa, Honduras",
+        "address_line1": "Cafe Maya",
+        "address_line2": "Sendero Colina, 15012 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cafe Maya",
+            "osm_id": 1287317009,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518fef41bebace55c0596d56a906611e2c40f00103f90111e6ba4c0000000092030943616665204d617961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2301479,
+          14.059333999796957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embotelladora la Reina",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "15012",
+        "suburb": "Distrito Jacaleapa",
+        "street": "Paseo Los Olivos",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1989485,
+        "lat": 14.043994,
+        "state_code": "FM",
+        "formatted": "Embotelladora la Reina, Paseo Los Olivos, 15012 Tegucigalpa, Honduras",
+        "address_line1": "Embotelladora la Reina",
+        "address_line2": "Paseo Los Olivos, 15012 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Embotelladora la Reina",
+            "osm_id": 1287341478,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a6457d92bbcc55c05961aeac6186162c40f00103f901a645bb4c00000000920316456d626f74656c6c61646f7261206c61205265696e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1989485,
+          14.043993999795193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Nueva Segovia",
+        "city": "Ocotal",
+        "postcode": "37000",
+        "street": "Calle Mogotón",
+        "iso3166_2": "NI-NS",
+        "lon": -86.4775433,
+        "lat": 13.6313446,
+        "state_code": "NS",
+        "formatted": "San Francisco, Calle Mogotón, Ocotal, Nicaragua",
+        "address_line1": "San Francisco",
+        "address_line2": "Calle Mogotón, Ocotal, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "San Francisco",
+            "osm_id": 1687057546,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5121fbc511909e55c05970d970993f432b40f00103f9018a748e640000000092030d53616e204672616e636973636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4775433,
+          13.63134459974819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa de Botellas",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "12101",
+        "district": "Campo Cielo",
+        "suburb": "Distrito El Durazno",
+        "street": "Diagonal Brujos",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2185727,
+        "lat": 14.1064489,
+        "state_code": "FM",
+        "formatted": "Casa de Botellas, Diagonal Brujos, 12101 Tegucigalpa, Honduras",
+        "address_line1": "Casa de Botellas",
+        "address_line2": "Diagonal Brujos, 12101 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Casa de Botellas",
+            "osm_id": 2341148008,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5119935918fdcd55c0596ab15e7880362c40f00103f90168158b8b000000009203104361736120646520426f74656c6c6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2185727,
+          14.106448899802405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "hamlet": "Valle de Sonís",
+        "postcode": "34000",
+        "street": "Pan-American Highway",
+        "iso3166_2": "NI-MD",
+        "lon": -86.6977168,
+        "lat": 13.4641315,
+        "state_code": "MD",
+        "formatted": "Mirador, Pan-American Highway, Somoto, Nicaragua",
+        "address_line1": "Mirador",
+        "address_line2": "Pan-American Highway, Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador",
+            "osm_id": 3271389065,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a9775d64a7ac55c05976c3d8a4a2ed2a40f00103f901896ffdc2000000009203074d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.69771679999998,
+          13.464131499729529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monumento a la madre",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Comayagua",
+        "district": "Barrio Torondón",
+        "street": "1a Avenida SE",
+        "iso3166_2": "HN-CM",
+        "lon": -87.639619,
+        "lat": 14.4555818,
+        "state_code": "CM",
+        "formatted": "Monumento a la madre, 1a Avenida SE, Comayagua, Honduras",
+        "address_line1": "Monumento a la madre",
+        "address_line2": "1a Avenida SE, Comayagua, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monumento a la madre",
+            "osm_id": 3391850819,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "519cb98784efe855c05932f5850442e92c40f00103f90143892bca000000009203144d6f6e756d656e746f2061206c61206d61647265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63961899999998,
+          14.455581799843092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Cruz",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "hamlet": "Las Cuevitas",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1426548,
+        "lat": 14.0300204,
+        "state_code": "FM",
+        "formatted": "La Cruz, Tegucigalpa, Francisco Morazán, Honduras",
+        "address_line1": "La Cruz",
+        "address_line2": "Tegucigalpa, Francisco Morazán, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Cruz",
+            "osm_id": 4053600654,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518327994121c955c05907a776d55e0f2c40f00103f9018e099df1000000009203074c61204372757a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.14265479999999,
+          14.03002039979357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cañón Seco",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "postcode": "34000",
+        "iso3166_2": "NI-MD",
+        "lon": -86.6921232,
+        "lat": 13.6344849,
+        "state_code": "MD",
+        "formatted": "Mirador Cañón Seco, Somoto, Nicaragua",
+        "address_line1": "Mirador Cañón Seco",
+        "address_line2": "Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cañón Seco",
+            "osm_id": 4259178615,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5162331bbf4bac55c0599d736c34db442b40f00103f90177e8ddfd000000009203144d697261646f72204361c3b1c3b36e205365636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6921232,
+          13.634484899748538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Piedras Pintadas",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "postcode": "34000",
+        "iso3166_2": "NI-MD",
+        "lon": -86.6642767,
+        "lat": 13.6076488,
+        "state_code": "MD",
+        "formatted": "Mirador Piedras Pintadas, Somoto, Nicaragua",
+        "address_line1": "Mirador Piedras Pintadas",
+        "address_line2": "Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Piedras Pintadas",
+            "osm_id": 4259178621,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51aa7f6b8283aa55c059afb854be1d372b40f00103f9017de8ddfd000000009203184d697261646f7220506965647261732050696e7461646173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66427669999999,
+          13.607648799745531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chuleta.Marcovia: TOMY AVELAR",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Choluteca",
+        "city": "Marcovia",
+        "district": "Colonia PMA",
+        "street": "14 Avenida NE",
+        "iso3166_2": "HN-CH",
+        "lon": -87.3029478,
+        "lat": 13.2961893,
+        "state_code": "CH",
+        "formatted": "Chuleta.Marcovia: TOMY AVELAR, 14 Avenida NE, Marcovia, Honduras",
+        "address_line1": "Chuleta.Marcovia: TOMY AVELAR",
+        "address_line2": "14 Avenida NE, Marcovia, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chuleta.Marcovia: TOMY AVELAR",
+            "osm_id": 4360794890,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5149592b7f63d355c0594c5eb71fa6972a40f00103f9010a73ec030100000092031d4368756c6574612e4d6172636f7669613a20544f4d59204156454c4152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.30294779999998,
+          13.296189299711067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Club El Potrillo",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Choluteca",
+        "city": "San Marcos de Colón",
+        "hamlet": "Comalí",
+        "street": "Panamerican Highway",
+        "iso3166_2": "HN-CH",
+        "lon": -86.8518179,
+        "lat": 13.4029481,
+        "state_code": "CH",
+        "formatted": "Club El Potrillo, Panamerican Highway, San Marcos de Colón, Honduras",
+        "address_line1": "Club El Potrillo",
+        "address_line2": "Panamerican Highway, San Marcos de Colón, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Club El Potrillo",
+            "osm_id": 4795872124,
+            "name:es": "Club El Potrillo",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Club El Potrillo"
+        },
+        "place_id": "516fa9392f84b655c059df969c364fce2a40f00103f9017c33db1d01000000920310436c756220456c20506f7472696c6c6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8518179,
+          13.402948099722776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campestre pinar del río",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Nueva Segovia",
+        "city": "Dipilto",
+        "postcode": "38200",
+        "street": "Carretera Ocotal - Dipilto",
+        "iso3166_2": "NI-NS",
+        "lon": -86.5063372,
+        "lat": 13.7191221,
+        "state_code": "NS",
+        "formatted": "Campestre pinar del río, Carretera Ocotal - Dipilto, Dipilto, Nicaragua",
+        "address_line1": "Campestre pinar del río",
+        "address_line2": "Carretera Ocotal - Dipilto, Dipilto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Campestre pinar del río",
+            "osm_id": 4856255921,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e3af24d467a055c0596a9598c530702b40f00103f901b19574210100000092031843616d7065737472652070696e61722064656c2072c3ad6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5063372,
+          13.719122099758085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Turístico Coquimba",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Nueva Segovia",
+        "city": "Dipilto",
+        "postcode": "38200",
+        "street": "Carretera Ocotal - Dipilto",
+        "iso3166_2": "NI-NS",
+        "lon": -86.5069998,
+        "lat": 13.7196208,
+        "state_code": "NS",
+        "formatted": "Mirador Turístico Coquimba, Carretera Ocotal - Dipilto, Dipilto, Nicaragua",
+        "address_line1": "Mirador Turístico Coquimba",
+        "address_line2": "Carretera Ocotal - Dipilto, Dipilto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Turístico Coquimba",
+            "osm_id": 4856262721,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5107054aaf72a055c0590ff7302372702b40f00103f90141b074210100000092031b4d697261646f7220547572c3ad737469636f20436f7175696d6261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5069998,
+          13.71962079975813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mirador",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "postcode": "34000",
+        "street": "Avenida 4 Oeste",
+        "iso3166_2": "NI-MD",
+        "lon": -86.5861226,
+        "lat": 13.488127,
+        "state_code": "MD",
+        "formatted": "mirador, Avenida 4 Oeste, Somoto, Nicaragua",
+        "address_line1": "mirador",
+        "address_line2": "Avenida 4 Oeste, Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "mirador",
+            "osm_id": 4894210421,
+            "name:es": "mirador",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "mirador"
+        },
+        "place_id": "51929c5d0883a555c059ed4938c8ebf92a40f00103f90175b9b723010000009203076d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58612259999998,
+          13.488126999732197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Views",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Choluteca",
+        "city": "San Marcos de Colón",
+        "street": "3a Calle SE",
+        "iso3166_2": "HN-CH",
+        "lon": -86.8092735,
+        "lat": 13.4285764,
+        "state_code": "CH",
+        "formatted": "Views, 3a Calle SE, San Marcos de Colón, Honduras",
+        "address_line1": "Views",
+        "address_line2": "3a Calle SE, San Marcos de Colón, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Views",
+            "osm_id": 4915905221,
+            "name:es": "Views",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Views"
+        },
+        "place_id": "513f011423cbb355c0595651a95d6edb2a40f00103f901c5c20225010000009203055669657773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8092735,
+          13.428576399725596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Camino al Picacho",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11101",
+        "district": "Colonia Viera",
+        "suburb": "Distrito El Picacho",
+        "street": "Paseo al Picacho",
+        "iso3166_2": "HN-FM",
+        "lon": -87.192859,
+        "lat": 14.1147335,
+        "state_code": "FM",
+        "formatted": "Mirador Camino al Picacho, Paseo al Picacho, 11101 Tegucigalpa, Honduras",
+        "address_line1": "Mirador Camino al Picacho",
+        "address_line2": "Paseo al Picacho, 11101 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Camino al Picacho",
+            "osm_id": 5241474658,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51506f46cd57cc55c05973d26a59be3a2c40f00103f901628e6a38010000009203194d697261646f722043616d696e6f20616c205069636163686f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.192859,
+          14.114733499803355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fulvous owl",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "La Paz",
+        "city": "Opatoro",
+        "street": "RV-493",
+        "iso3166_2": "HN-LP",
+        "lon": -87.8807222,
+        "lat": 14.12225,
+        "state_code": "LP",
+        "formatted": "Fulvous owl, RV-493, Opatoro, Honduras",
+        "address_line1": "Fulvous owl",
+        "address_line2": "RV-493, Opatoro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Fulvous owl",
+            "osm_id": 5387082321,
+            "name:es": "Fulvous owl",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "es": "Fulvous owl"
+        },
+        "place_id": "511c77a5c05df855c059b6304e8d973e2c40f00103f901515a18410100000092030b46756c766f7573206f776c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88072219999998,
+          14.122249999804222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mirador",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "postcode": "34000",
+        "street": "Pan-American Highway",
+        "iso3166_2": "NI-MD",
+        "lon": -86.59011,
+        "lat": 13.4805213,
+        "state_code": "MD",
+        "formatted": "viewpoint, Pan-American Highway, Somoto, Nicaragua",
+        "address_line1": "viewpoint",
+        "address_line2": "Pan-American Highway, Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "mirador",
+            "osm_id": 5438615921,
+            "name:en": "viewpoint",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "viewpoint"
+        },
+        "place_id": "51b9c2bb5cc4a555c05951c146e306f62a40f00103f90171b12a44010000009203076d697261646f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.59011,
+          13.480521299731352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Club Chorotega",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Choluteca",
+        "city": "Choluteca",
+        "village": "Hato Nuevo",
+        "postcode": "51101",
+        "district": "Villa Nueva",
+        "street": "Anillo Periférico de Choluteca",
+        "iso3166_2": "HN-CH",
+        "lon": -87.1813231,
+        "lat": 13.3443651,
+        "state_code": "CH",
+        "formatted": "Club Chorotega, Anillo Periférico de Choluteca, 51101 Choluteca, Honduras",
+        "address_line1": "Club Chorotega",
+        "address_line2": "Anillo Periférico de Choluteca, 51101 Choluteca, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Club Chorotega",
+            "osm_id": 5455427021,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51992034cc9acb55c059b554529f50b02a40f00103f901cd352b450100000092030e436c75622043686f726f74656761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1813231,
+          13.344365099716336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pequeño túnel",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "village": "La Guacamaya",
+        "hamlet": "El Rosario",
+        "street": "La Mina",
+        "iso3166_2": "HN-FM",
+        "lon": -87.0914821,
+        "lat": 14.2176594,
+        "state_code": "FM",
+        "formatted": "Short tunnel, La Mina, Tegucigalpa, Honduras",
+        "address_line1": "Short tunnel",
+        "address_line2": "La Mina, Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pequeño túnel",
+            "osm_id": 5824580662,
+            "name:de": "Kurzer Stollen",
+            "name:en": "Short tunnel",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Kurzer Stollen",
+          "en": "Short tunnel"
+        },
+        "place_id": "51d7eabcd7dac555c05957bf870d716f2c40f00103f901360c2c5b0100000092030f5065717565c3b16f2074c3ba6e656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0914821,
+          14.217659399815302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Túnel",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "village": "La Guacamaya",
+        "hamlet": "El Rosario",
+        "street": "La Mina",
+        "iso3166_2": "HN-FM",
+        "lon": -87.0923327,
+        "lat": 14.2171464,
+        "state_code": "FM",
+        "formatted": "Túnel, La Mina, Tegucigalpa, Honduras",
+        "address_line1": "Túnel",
+        "address_line2": "La Mina, Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Túnel",
+            "osm_id": 5824587365,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517db669c7e8c555c059174d1bd02d6f2c40f00103f90165262c5b0100000092030654c3ba6e656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0923327,
+          14.217146399815233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Marmolera",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Guaimaca",
+        "village": "Colonia Menonita",
+        "hamlet": "La Esmeralda",
+        "street": "Calle Colonia Menonita - La Esmeralda",
+        "iso3166_2": "HN-FM",
+        "lon": -86.8267121,
+        "lat": 14.6130353,
+        "state_code": "FM",
+        "formatted": "La Marmolera, Calle Colonia Menonita - La Esmeralda, Guaimaca, Honduras",
+        "address_line1": "La Marmolera",
+        "address_line2": "Calle Colonia Menonita - La Esmeralda, Guaimaca, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Marmolera",
+            "osm_id": 5899965487,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51472dded9e8b455c059ec6548c3df392d40f00103f9012f54aa5f0100000092030c4c61204d61726d6f6c657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8267121,
+          14.613035299861586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Estatua de San Miguel Arcángel",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "suburb": "Distrito Histórico",
+        "quarter": "Barrio Los Dolores",
+        "street": "Calle Los Dolores",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2067569,
+        "lat": 14.1074843,
+        "state_code": "FM",
+        "formatted": "La Estatua de San Miguel Arcángel, Calle Los Dolores, 11100 Tegucigalpa, Honduras",
+        "address_line1": "La Estatua de San Miguel Arcángel",
+        "address_line2": "Calle Los Dolores, 11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Estatua de San Miguel Arcángel",
+            "osm_id": 6074052450,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "513aee4a813bcd55c05977f8a02e08372c40f00103f90162af0a6a010000009203224c6120457374617475612064652053616e204d696775656c20417263c3a16e67656c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20675689999999,
+          14.10748429980252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mojón terrero",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "La Paz",
+        "city": "Santa María",
+        "street": "hacia el Jicaro balneario",
+        "iso3166_2": "HN-LP",
+        "lon": -87.9637242,
+        "lat": 14.3118336,
+        "state_code": "LP",
+        "formatted": "Mojón terrero, hacia el Jicaro balneario, Santa María, Honduras",
+        "address_line1": "Mojón terrero",
+        "address_line2": "hacia el Jicaro balneario, Santa María, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mojón terrero",
+            "osm_id": 6534163385,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51475744a8adfd55c059721852a7a89f2c40f00103f901b96b77850100000092030e4d6f6ac3b36e207465727265726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96372419999999,
+          14.311833599826262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Réplica del Taipei 101 a Escala",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "04001",
+        "district": "El Hato",
+        "street": "Avenida El Trapiche",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1663571,
+        "lat": 14.0794714,
+        "state_code": "FM",
+        "formatted": "Réplica del Taipei 101 a Escala, Avenida El Trapiche, 04001 Tegucigalpa, Honduras",
+        "address_line1": "Réplica del Taipei 101 a Escala",
+        "address_line2": "Avenida El Trapiche, 04001 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Réplica del Taipei 101 a Escala",
+            "osm_id": 6541374989,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "5146fd3f98a5ca55c059e535ae79b0282c40f00103f9010d76e5850100000092032052c3a9706c6963612064656c2054616970656920313031206120457363616c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1663571,
+          14.079471399799283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Francisco Morazán",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Valle",
+        "city": "Nacaome",
+        "district": "Barrio El Calvario",
+        "street": "2a Calle NO",
+        "iso3166_2": "HN-VA",
+        "lon": -87.4877089,
+        "lat": 13.5312092,
+        "state_code": "VA",
+        "formatted": "Francisco Morazán, 2a Calle NO, Nacaome, Honduras",
+        "address_line1": "Francisco Morazán",
+        "address_line2": "2a Calle NO, Nacaome, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Francisco Morazán",
+            "osm_id": 7081824812,
+            "tourism": "artwork",
+            "material": "concrete",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51f6dd639f36df55c059cc68f8a6fa0f2b40f00103f9012c121ca6010000009203124672616e636973636f204d6f72617ac3a16e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4877089,
+          13.531209199736985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Francisco Morazán",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Valle",
+        "city": "Nacaome",
+        "hamlet": "La Llave",
+        "district": "Barrio La Ceiba",
+        "street": "Panamerican Highway",
+        "iso3166_2": "HN-VA",
+        "lon": -87.4949181,
+        "lat": 13.5363336,
+        "state_code": "VA",
+        "formatted": "Francisco Morazán, Panamerican Highway, Nacaome, Honduras",
+        "address_line1": "Francisco Morazán",
+        "address_line2": "Panamerican Highway, Nacaome, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Francisco Morazán",
+            "osm_id": 7081926499,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "bust"
+          }
+        },
+        "artwork": {
+          "artwork_type": "bust"
+        },
+        "place_id": "51b36cf7bcacdf55c059cd3c4d519a122b40f00103f901639f1da6010000009203124672616e636973636f204d6f72617ac3a16e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.49491809999999,
+          13.536333599737555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busto de piedra 7",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Siguatepeque",
+        "postcode": "12111",
+        "street": "1a Calle SO",
+        "iso3166_2": "HN-CM",
+        "lon": -87.8423531,
+        "lat": 14.595754,
+        "state_code": "CM",
+        "formatted": "Busto de piedra 7, 1a Calle SO, 12111 Siguatepeque, Honduras",
+        "address_line1": "Busto de piedra 7",
+        "address_line2": "1a Calle SO, 12111 Siguatepeque, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Busto de piedra 7",
+            "osm_id": 7802805181,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Hondureño",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Hondureño",
+          "artwork_type": "statue"
+        },
+        "place_id": "51c90bfa1ce9f555c05944b713ab06312d40f00103f901bd5b15d101000000920311427573746f206465207069656472612037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84235309999998,
+          14.595753999859546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura 2",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Siguatepeque",
+        "postcode": "12111",
+        "street": "1a Calle SO",
+        "iso3166_2": "HN-CM",
+        "lon": -87.8424677,
+        "lat": 14.5958206,
+        "state_code": "CM",
+        "formatted": "Escultura 2, 1a Calle SO, 12111 Siguatepeque, Honduras",
+        "address_line1": "Escultura 2",
+        "address_line2": "1a Calle SO, 12111 Siguatepeque, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura 2",
+            "osm_id": 7802807024,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Frances",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Frances",
+          "artwork_type": "statue"
+        },
+        "place_id": "51eddba4fdeaf555c059215ccd650f312d40f00103f901f06215d10100000092030b457363756c747572612032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8424677,
+          14.595820599859566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura 1",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Siguatepeque",
+        "postcode": "12111",
+        "street": "12 Avenida SO",
+        "iso3166_2": "HN-CM",
+        "lon": -87.842603,
+        "lat": 14.5958183,
+        "state_code": "CM",
+        "formatted": "Escultura 1, 12 Avenida SO, 12111 Siguatepeque, Honduras",
+        "address_line1": "Escultura 1",
+        "address_line2": "12 Avenida SO, 12111 Siguatepeque, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura 1",
+            "osm_id": 7802810667,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Mexicano",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Mexicano",
+          "artwork_type": "statue"
+        },
+        "place_id": "51bc202235edf555c059a382a0180f312d40f00103f9012b7115d10100000092030b457363756c747572612031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.842603,
+          14.595818299859564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busto de piedra 6",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Siguatepeque",
+        "postcode": "12111",
+        "street": "1a Calle SO",
+        "iso3166_2": "HN-CM",
+        "lon": -87.8421654,
+        "lat": 14.5957769,
+        "state_code": "CM",
+        "formatted": "Busto de piedra 6, 1a Calle SO, 12111 Siguatepeque, Honduras",
+        "address_line1": "Busto de piedra 6",
+        "address_line2": "1a Calle SO, 12111 Siguatepeque, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Busto de piedra 6",
+            "osm_id": 7802815520,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Hondureño",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Hondureño",
+          "artwork_type": "statue"
+        },
+        "place_id": "51a8b4b409e6f555c059db3779ab09312d40f00103f901208415d101000000920311427573746f206465207069656472612036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8421654,
+          14.595776899859564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura de piedra 8",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Siguatepeque",
+        "postcode": "12111",
+        "street": "12 Avenida SO",
+        "iso3166_2": "HN-CM",
+        "lon": -87.8425822,
+        "lat": 14.5956775,
+        "state_code": "CM",
+        "formatted": "Escultura de piedra 8, 12 Avenida SO, 12111 Siguatepeque, Honduras",
+        "address_line1": "Escultura de piedra 8",
+        "address_line2": "12 Avenida SO, 12111 Siguatepeque, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura de piedra 8",
+            "osm_id": 7802816773,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Hondureño",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Hondureño",
+          "artwork_type": "statue"
+        },
+        "place_id": "51454ce4ddecf555c05939b829a4fc302d40f00103f901058915d101000000920315457363756c74757261206465207069656472612038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8425822,
+          14.59567749985955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura 3",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Siguatepeque",
+        "postcode": "12111",
+        "street": "1a Calle SO",
+        "iso3166_2": "HN-CM",
+        "lon": -87.8422776,
+        "lat": 14.5958487,
+        "state_code": "CM",
+        "formatted": "Escultura 3, 1a Calle SO, 12111 Siguatepeque, Honduras",
+        "address_line1": "Escultura 3",
+        "address_line2": "1a Calle SO, 12111 Siguatepeque, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura 3",
+            "osm_id": 7802831898,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Hondureño",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Hondureño",
+          "artwork_type": "statue"
+        },
+        "place_id": "51d0894ee0e7f555c059a085ae1413312d40f00103f9011ac415d10100000092030b457363756c747572612033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84227759999999,
+          14.595848699859573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura 5",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Siguatepeque",
+        "postcode": "12111",
+        "street": "1a Calle SO",
+        "iso3166_2": "HN-CM",
+        "lon": -87.841915,
+        "lat": 14.5957634,
+        "state_code": "CM",
+        "formatted": "Escultura 5, 1a Calle SO, 12111 Siguatepeque, Honduras",
+        "address_line1": "Escultura 5",
+        "address_line2": "1a Calle SO, 12111 Siguatepeque, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura 5",
+            "osm_id": 7802834305,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Hondureño",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Hondureño",
+          "artwork_type": "statue"
+        },
+        "place_id": "51c2c073efe1f555c059df197de607312d40f00103f90181cd15d10100000092030b457363756c747572612035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.841915,
+          14.595763399859548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escultura 4",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Siguatepeque",
+        "postcode": "12111",
+        "street": "1a Calle SO",
+        "iso3166_2": "HN-CM",
+        "lon": -87.8420505,
+        "lat": 14.5958908,
+        "state_code": "CM",
+        "formatted": "Escultura 4, 1a Calle SO, 12111 Siguatepeque, Honduras",
+        "address_line1": "Escultura 4",
+        "address_line2": "1a Calle SO, 12111 Siguatepeque, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Escultura 4",
+            "osm_id": 7802838502,
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artist_name": "Hondureño",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artist_name": "Hondureño",
+          "artwork_type": "statue"
+        },
+        "place_id": "5126c5c727e4f555c059aec4529918312d40f00103f901e6dd15d10100000092030b457363756c747572612034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8420505,
+          14.595890799859571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Lomita",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Aldea Santa Cruz",
+        "street": "Carretera Victoria - Minas de Oro",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3848793,
+        "lat": 14.901413,
+        "state_code": "CM",
+        "formatted": "La Lomita, Carretera Victoria - Minas de Oro, Minas de Oro, Honduras",
+        "address_line1": "La Lomita",
+        "address_line2": "Carretera Victoria - Minas de Oro, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Lomita",
+            "osm_id": 8419424647,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51129ac9dca1d855c059627b350186cd2d40f00103f9018739d6f5010000009203094c61204c6f6d697461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3848793,
+          14.90141299989563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascadas de El chorro",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Aldea Pimientilla",
+        "street": "Sendero quebrada arriba a Cascada El Chorro",
+        "iso3166_2": "HN-CM",
+        "lon": -87.482545,
+        "lat": 14.8876757,
+        "state_code": "CM",
+        "formatted": "Cascadas de El chorro, Sendero quebrada arriba a Cascada El Chorro, Minas de Oro, Honduras",
+        "address_line1": "Cascadas de El chorro",
+        "address_line2": "Sendero quebrada arriba a Cascada El Chorro, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascadas de El chorro",
+            "osm_id": 9438254118,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514a766c04e2de55c05950ffe86d7dc62d40f00103f9012654903202000000920315436173636164617320646520456c2063686f72726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48254499999999,
+          14.887675699894004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro de los Tornillos",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Aldea Las Huertas",
+        "suburb": "Ejido Minas de San Antonio",
+        "street": "Sendero al Cerro de los Tornillos",
+        "iso3166_2": "HN-CM",
+        "lon": -87.4074048,
+        "lat": 14.8300675,
+        "state_code": "CM",
+        "formatted": "Sendero al Cerro de los Tornillos, Minas de Oro, Honduras",
+        "address_line1": "Sendero al Cerro de los Tornillos",
+        "address_line2": "Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro de los Tornillos",
+            "osm_id": 9438277047,
+            "tourism": "attraction",
+            "operator": "Fundación Cerro Cáscaras - Malcotal",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Fundación Cerro Cáscaras - Malcotal",
+        "place_id": "51f00e95eb12da55c059d4f97a9bfea82d40f00103f901b7ad903202000000920316436572726f206465206c6f7320546f726e696c6c6f73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4074048,
+          14.830067499887186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascadas de la Quebradona",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Aldea Pimientilla",
+        "street": "Sendero hilo de Cascadas de la Quebrada Grande",
+        "iso3166_2": "HN-CM",
+        "lon": -87.4873652,
+        "lat": 14.8950437,
+        "state_code": "CM",
+        "formatted": "Cascadas de la Quebradona, Sendero hilo de Cascadas de la Quebrada Grande, Minas de Oro, Honduras",
+        "address_line1": "Cascadas de la Quebradona",
+        "address_line2": "Sendero hilo de Cascadas de la Quebrada Grande, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascadas de la Quebradona",
+            "osm_id": 9476868088,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5158cdcefd30df55c0591f14f72a43ca2d40f00103f901f887dd34020000009203194361736361646173206465206c6120517565627261646f6e61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4873652,
+          14.895043699894869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerro Cacalotepe - Cerrón o Cerro Pelón",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "street": "Sendero a Cerro Cacalotepe",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3291035,
+        "lat": 14.8185076,
+        "state_code": "CM",
+        "formatted": "Cerro Cacalotepe - Cerrón o Cerro Pelón, Sendero a Cerro Cacalotepe, Minas de Oro, Honduras",
+        "address_line1": "Cerro Cacalotepe - Cerrón o Cerro Pelón",
+        "address_line2": "Sendero a Cerro Cacalotepe, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cerro Cacalotepe - Cerrón o Cerro Pelón",
+            "osm_id": 9481067237,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f25f200810d555c05902139a6d13a32d40f00103f901e59a1d3502000000920329436572726f20436163616c6f74657065202d2043657272c3b36e206f20436572726f2050656cc3b36e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3291035,
+          14.818507599885837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Mirador del Cerro Cáscaras",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio La Fuente",
+        "street": "Gradas",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3436261,
+        "lat": 14.7989408,
+        "state_code": "CM",
+        "formatted": "El Mirador del Cerro Cáscaras, Gradas, Minas de Oro, Honduras",
+        "address_line1": "El Mirador del Cerro Cáscaras",
+        "address_line2": "Gradas, Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "El Mirador del Cerro Cáscaras",
+            "osm_id": 9481067238,
+            "tourism": "attraction",
+            "operator": "Fundación Cerro Cáscaras - Malcotal",
+            "osm_type": "n"
+          }
+        },
+        "operator": "Fundación Cerro Cáscaras - Malcotal",
+        "place_id": "51546353f8fdd555c0592ae1bdc40e992d40f00103f901e69a1d350200000092031e456c204d697261646f722064656c20436572726f2043c3a1736361726173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3436261,
+          14.798940799883514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curva El Rodeo",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Villa de San Antonio",
+        "village": "Flores",
+        "hamlet": "Grupo Campesino Villa No.1",
+        "street": "Carretera CA-5",
+        "iso3166_2": "HN-CM",
+        "lon": -87.4996287,
+        "lat": 14.2805047,
+        "state_code": "CM",
+        "formatted": "Curva El Rodeo, Carretera CA-5, Villa de San Antonio, Honduras",
+        "address_line1": "Curva El Rodeo",
+        "address_line2": "Carretera CA-5, Villa de San Antonio, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Curva El Rodeo",
+            "osm_id": 10095298282,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5127a9a7eaf9df55c0598d39e04f9e8f2c40f00103f901ea06ba590200000092030e437572766120456c20526f64656f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4996287,
+          14.28050469982261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador Cerro el Picacho",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11101",
+        "district": "El Bosque",
+        "suburb": "Distrito El Picacho",
+        "street": "Paseo Naciones Unidas",
+        "iso3166_2": "HN-FM",
+        "lon": -87.191205,
+        "lat": 14.1206051,
+        "state_code": "FM",
+        "formatted": "Mirador Cerro el Picacho, Paseo Naciones Unidas, 11101 Tegucigalpa, Honduras",
+        "address_line1": "Mirador Cerro el Picacho",
+        "address_line2": "Paseo Naciones Unidas, 11101 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador Cerro el Picacho",
+            "osm_id": 10292403809,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513a75e5b33ccc55c05940c79ef3bf3d2c40f00103f901619e7965020000009203184d697261646f7220436572726f20656c205069636163686f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.191205,
+          14.120605099804038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gravedad cero",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Comayagua",
+        "village": "El Volcán",
+        "district": "Colonia Jardines de Capiro",
+        "street": "Carretera a El Volcán",
+        "iso3166_2": "HN-CM",
+        "lon": -87.5917441,
+        "lat": 14.4386762,
+        "state_code": "CM",
+        "formatted": "Gravedad cero, Carretera a El Volcán, Comayagua, Honduras",
+        "address_line1": "Gravedad cero",
+        "address_line2": "Carretera a El Volcán, Comayagua, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gravedad cero",
+            "osm_id": 11328286004,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517646a522dfe555c059c5b3b72a9ae02c40f00103f90134ed37a30200000092030d4772617665646164206365726f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5917441,
+          14.438676199841106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirador La Señal",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "street": "La Cascada",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1046061,
+        "lat": 14.2063313,
+        "state_code": "FM",
+        "formatted": "Mirador La Señal, La Cascada, Tegucigalpa, Honduras",
+        "address_line1": "Mirador La Señal",
+        "address_line2": "La Cascada, Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mirador La Señal",
+            "osm_id": 11872479469,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51939dc8ddb1c655c05932af9141a4692c40f00103f901eda8a7c3020000009203114d697261646f72204c61205365c3b1616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1046061,
+          14.206331299813971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Guaimaca",
+        "iso3166_2": "HN-FM",
+        "lon": -86.81633290127584,
+        "lat": 14.6361359,
+        "state_code": "FM",
+        "formatted": "Guaimaca, Francisco Morazán, Honduras",
+        "address_line1": "Guaimaca",
+        "address_line2": "Francisco Morazán, Honduras",
+        "categories": [
+          "natural",
+          "natural.forest",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 1000,
+            "osm_id": 627178595,
+            "natural": "wood",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "wikidata": "Q18417787",
+            "leaf_type": "mixed",
+            "leaf_cycle": "mixed"
+          }
+        },
+        "ele": 1000,
+        "wiki_and_media": {
+          "wikidata": "Q18417787"
+        },
+        "place_id": "513a685acc3eb455c0592075cb9ab3452d40f00102f90163fc612500000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81633290127584,
+          14.636135899864314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Distrito Morazán",
+        "suburb": "Barrio Cerro Juana A. Lainez",
+        "street": "Paseo Monumento de la Paz",
+        "iso3166_2": "HN-FM",
+        "lon": -87.2011283,
+        "lat": 14.0937236,
+        "state_code": "FM",
+        "formatted": "Paseo Monumento de la Paz, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Paseo Monumento de la Paz",
+        "address_line2": "11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 333628526,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5134b33b49dfcc55c0594804288afc2f2c40f00103f9016ec4e21300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2011283,
+          14.093723599800924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "hamlet": "Aldea Suyapa",
+        "postcode": "04001",
+        "suburb": "Distrito Suyapa",
+        "street": "Bulevar Suyapa",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1582297,
+        "lat": 14.0806119,
+        "state_code": "FM",
+        "formatted": "Bulevar Suyapa, 04001 Tegucigalpa, Honduras",
+        "address_line1": "Bulevar Suyapa",
+        "address_line2": "04001 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 840808499,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5161b0766f20ca55c0591d9d82f645292c40f00103f90133b81d3200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1582297,
+          14.080611899799402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio La Fuente",
+        "street": "Gradas",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3440317,
+        "lat": 14.7988066,
+        "state_code": "CM",
+        "formatted": "Gradas, Minas de Oro, Honduras",
+        "address_line1": "Gradas",
+        "address_line2": "Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3665474040,
+            "natural": "tree",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "leaf_type": "broadleaved",
+            "denotation": "park",
+            "leaf_cycle": "evergreen",
+            "description": "undefined",
+            "species:wikidata": "Q81666",
+            "species:wikipedia": "es:Acacia"
+          }
+        },
+        "description": "undefined",
+        "place_id": "516212899d04d655c0593ba8bc2dfd982d40f00103f901f8b17ada00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34403169999999,
+          14.798806599883497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "postcode": "11100",
+        "district": "Las Lomas",
+        "street": "Calle Alfonso XIII",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1832282,
+        "lat": 14.0944217,
+        "state_code": "FM",
+        "formatted": "Calle Alfonso XIII, 11100 Tegucigalpa, Honduras",
+        "address_line1": "Calle Alfonso XIII",
+        "address_line2": "11100 Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4210969110,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "511eadc502bacb55c0592c5b810a58302c40f00103f901164afefa00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1832282,
+          14.09442169980101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "hamlet": "Valle de Sonís",
+        "postcode": "34000",
+        "street": "Pan-American Highway",
+        "iso3166_2": "NI-MD",
+        "lon": -86.6931151,
+        "lat": 13.4632098,
+        "state_code": "MD",
+        "formatted": "Pan-American Highway, Somoto, Nicaragua",
+        "address_line1": "Pan-American Highway",
+        "address_line2": "Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 759.3,
+            "osm_id": 4293900589,
+            "ele:msl": 759.3,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "ele:source": "GPS"
+          }
+        },
+        "ele": 759.3,
+        "place_id": "5148b76fff5bac55c059980cbad529ed2a40f00103f9012db9efff00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6931151,
+          13.463209799729427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "village": "La Guacamaya",
+        "hamlet": "El Rosario",
+        "street": "La Mina",
+        "iso3166_2": "HN-FM",
+        "lon": -87.0888178,
+        "lat": 14.2175719,
+        "state_code": "FM",
+        "formatted": "La Mina, Tegucigalpa, Honduras",
+        "address_line1": "La Mina",
+        "address_line2": "Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4782641790,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515f93da30afc555c05972788495656f2c40f00103f9017e52111d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0888178,
+          14.217571899815287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "angel farm",
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Tegucigalpa",
+        "village": "Juitiapa",
+        "district": "Jucuapita",
+        "street": "RV-660",
+        "iso3166_2": "HN-FM",
+        "lon": -87.1248798,
+        "lat": 14.1933242,
+        "state_code": "FM",
+        "formatted": "angel farm, RV-660, Tegucigalpa, Honduras",
+        "address_line1": "angel farm",
+        "address_line2": "RV-660, Tegucigalpa, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5324084624,
+            "name:en": "angel farm",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "angel farm"
+        },
+        "place_id": "51963bd807fec755c0599870b763fb622c40f00103f9019015573d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1248798,
+          14.193324199812466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Start of Canyon De Somoto",
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "hamlet": "Valle de Sonís",
+        "postcode": "34000",
+        "street": "Pan-American Highway",
+        "iso3166_2": "NI-MD",
+        "lon": -86.6876641,
+        "lat": 13.4538618,
+        "state_code": "MD",
+        "formatted": "Start of Canyon De Somoto, Pan-American Highway, Somoto, Nicaragua",
+        "address_line1": "Start of Canyon De Somoto",
+        "address_line2": "Pan-American Highway, Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5581584421,
+            "name:en": "Start of Canyon De Somoto",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Start of Canyon De Somoto"
+        },
+        "place_id": "51880849b002ac55c0596b79e59260e82a40f00103f9012538b04c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6876641,
+          13.453861799728392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Madriz",
+        "city": "Somoto",
+        "postcode": "34000",
+        "street": "Avenida 11 Este",
+        "iso3166_2": "NI-MD",
+        "lon": -86.574072,
+        "lat": 13.4795499,
+        "state_code": "MD",
+        "formatted": "Avenida 11 Este, Somoto, Nicaragua",
+        "address_line1": "Avenida 11 Este",
+        "address_line2": "Somoto, Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6255118707,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5127637c98bda455c059a54a809087f52a40f00103f9017389d57401000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57407199999999,
+          13.479549899731248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Francisco Morazán",
+        "city": "Guaimaca",
+        "village": "La Herradura",
+        "street": "Pista MTB Telos",
+        "iso3166_2": "HN-FM",
+        "lon": -86.8706719,
+        "lat": 14.5639007,
+        "state_code": "FM",
+        "formatted": "Pista MTB Telos, Guaimaca, Honduras",
+        "address_line1": "Pista MTB Telos",
+        "address_line2": "Guaimaca, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6666494257,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "description": "Mirador Telos "
+          }
+        },
+        "description": "Mirador Telos ",
+        "place_id": "51f502a216b9b755c059f624b097b7202d40f00103f90131a15a8d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8706719,
+          14.563900699855804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nicaragua",
+        "country_code": "ni",
+        "state": "Nueva Segovia",
+        "city": "Mozonte",
+        "postcode": "38100",
+        "iso3166_2": "NI-NS",
+        "lon": -86.3988269,
+        "lat": 13.7540906,
+        "state_code": "NS",
+        "formatted": "Mozonte, Nicaragua",
+        "address_line1": "Mozonte",
+        "address_line2": "Nicaragua",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6887082286,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f7104361869955c059dc65c02918822b40f00103f9012e89809a01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3988269,
+          13.75409059976203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Paraíso",
+        "street": "Acceso a Tanque Cerro Cáscaras",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3410232,
+        "lat": 14.7990488,
+        "state_code": "CM",
+        "formatted": "Acceso a Tanque Cerro Cáscaras, Minas de Oro, Honduras",
+        "address_line1": "Acceso a Tanque Cerro Cáscaras",
+        "address_line2": "Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8197939574,
+            "natural": "tree",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "leaf_type": "broadleaved",
+            "denotation": "park",
+            "leaf_cycle": "evergreen",
+            "description": "undefined",
+            "species:wikidata": "Q81666",
+            "species:wikipedia": "es:Acacia"
+          }
+        },
+        "description": "undefined",
+        "place_id": "5157cbf852d3d555c059ced09eec1c992d40f00103f90176a1a2e801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34102319999998,
+          14.799048799883533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Paraíso",
+        "street": "Acceso a Tanque Cerro Cáscaras",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3411188,
+        "lat": 14.7992387,
+        "state_code": "CM",
+        "formatted": "Acceso a Tanque Cerro Cáscaras, Minas de Oro, Honduras",
+        "address_line1": "Acceso a Tanque Cerro Cáscaras",
+        "address_line2": "Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8198003858,
+            "natural": "tree",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "leaf_type": "broadleaved",
+            "denotation": "park",
+            "leaf_cycle": "evergreen",
+            "description": "undefined",
+            "species:wikidata": "Q81666",
+            "species:wikipedia": "es:Acacia"
+          }
+        },
+        "description": "undefined",
+        "place_id": "513f83f2e3d4d555c05912659bd035992d40f00103f901929ca3e801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.34111879999999,
+          14.79923869988355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Honduras",
+        "country_code": "hn",
+        "state": "Comayagua",
+        "city": "Minas de Oro",
+        "district": "Cabecera Municipal Minas de Oro",
+        "neighbourhood": "Barrio El Paraíso",
+        "street": "Acceso a Tanque Cerro Cáscaras",
+        "iso3166_2": "HN-CM",
+        "lon": -87.3411372,
+        "lat": 14.7991392,
+        "state_code": "CM",
+        "formatted": "Acceso a Tanque Cerro Cáscaras, Minas de Oro, Honduras",
+        "address_line1": "Acceso a Tanque Cerro Cáscaras",
+        "address_line2": "Minas de Oro, Honduras",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8198003859,
+            "natural": "tree",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "leaf_type": "broadleaved",
+            "denotation": "park",
+            "leaf_cycle": "evergreen",
+            "description": "undefined",
+            "species:wikidata": "Q81666",
+            "species:wikipedia": "es:Acacia"
+          }
+        },
+        "description": "undefined",
+        "place_id": "51bd5c1f31d5d555c0591ee7f0c528992d40f00103f901939ca3e801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3411372,
+          14.799139199883538
+        ]
+      }
+    }
+  ]
+}

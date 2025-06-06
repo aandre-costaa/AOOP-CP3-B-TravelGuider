@@ -1,0 +1,1765 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunstone Beach",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Rumonge",
+        "city": "Kagongo",
+        "street": "RN 3",
+        "iso3166_2": "BI-RM",
+        "lon": 29.3800599,
+        "lat": -3.8732277,
+        "state_code": "RM",
+        "formatted": "Sunstone Beach, RN 3, Kagongo, Burundi",
+        "address_line1": "Sunstone Beach",
+        "address_line2": "RN 3, Kagongo, Burundi",
+        "categories": [
+          "beach",
+          "beach.beach_resort",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sunstone Beach",
+            "email": "reservations@sunstonebeach.com",
+            "phone": "+2577933600",
+            "osm_id": 10696741135,
+            "leisure": "beach_resort",
+            "tourism": "attraction",
+            "website": "https://sunstonebeach.com/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://sunstonebeach.com/",
+        "contact": {
+          "phone": "+2577933600",
+          "email": "reservations@sunstonebeach.com"
+        },
+        "place_id": "516305099b4b613d405973b3e1cd5efc0ec0f00103f9010f51937d0200000092030e53756e73746f6e65204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.380059900000003,
+          -3.8732276997092696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Source Sud du Nil",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bururi",
+        "city": "Muyogoro",
+        "hamlet": "Murambi",
+        "street": "RN 7",
+        "iso3166_2": "BI-BR",
+        "lon": 29.8396413,
+        "lat": -3.9130094,
+        "state_code": "BR",
+        "formatted": "Nile South Source, RN 7, Muyogoro, Burundi",
+        "address_line1": "Nile South Source",
+        "address_line2": "RN 7, Muyogoro, Burundi",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "url": "http://whc.unesco.org/en/tentativelists/5144/",
+            "name": "Source Sud du Nil",
+            "osm_id": 759961797,
+            "name:de": "Südliche Nilquelle",
+            "name:en": "Nile South Source",
+            "name:fr": "Source sud du Nil",
+            "name:it": "Sorgente Sud del Nilo",
+            "natural": "spring",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "website": "http://whc.unesco.org/en/tentativelists/5144/",
+        "name_international": {
+          "de": "Südliche Nilquelle",
+          "en": "Nile South Source",
+          "fr": "Source sud du Nil",
+          "it": "Sorgente Sud del Nilo"
+        },
+        "place_id": "51f5de73bbf2d63d4059fe7b45dfd74d0fc0f00103f901c5184c2d00000000920311536f7572636520537564206475204e696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8396413,
+          -3.9130093997077884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chutes de la Kagera",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Rutana",
+        "iso3166_2": "BI-RT",
+        "lon": 30.0799272,
+        "lat": -3.8302738,
+        "state_code": "RT",
+        "formatted": "Chutes de la Kagera, Rutana, Burundi",
+        "address_line1": "Chutes de la Kagera",
+        "address_line2": "Rutana, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chutes de la Kagera",
+            "height": 80,
+            "osm_id": 2131346607,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall",
+            "wikidata": "Q5118378",
+            "wikipedia": "en:Chutes de la Kagera"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q5118378",
+          "wikipedia": "en:Chutes de la Kagera"
+        },
+        "place_id": "51940fe61b76143e405942df039766a40ec0f00103f901afc4097f00000000920313436875746573206465206c61204b6167657261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0799272,
+          -3.83027379971091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument Livingstone–Stanley",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Rural Province",
+        "city": "Ramba",
+        "street": "RN 3",
+        "iso3166_2": "BI-BL",
+        "lon": 29.3524516,
+        "lat": -3.4818997,
+        "formatted": "Monument Livingstone–Stanley, RN 3, Ramba, Burundi",
+        "address_line1": "Monument Livingstone–Stanley",
+        "address_line2": "RN 3, Ramba, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monument Livingstone–Stanley",
+            "osm_id": 2275495275,
+            "tourism": "attraction",
+            "historic": "monument",
+            "osm_type": "n",
+            "wikidata": "Q1402785",
+            "wikipedia": "en:Livingstone–Stanley Monument"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1402785",
+          "wikipedia": "en:Livingstone–Stanley Monument"
+        },
+        "historic": {
+          "type": "monument"
+        },
+        "place_id": "51416c9f443a5a3d40597031d23aeeda0bc0f00103f9016b4da1870000000092031e4d6f6e756d656e74204c6976696e6773746f6e65e280935374616e6c6579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3524516,
+          -3.481899699725709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Réserve naturelle de Vyanda",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bururi",
+        "city": "Vyanda",
+        "iso3166_2": "BI-BR",
+        "lon": 29.60410692707719,
+        "lat": -4.091844099999999,
+        "state_code": "BR",
+        "formatted": "Réserve naturelle de Vyanda, Vyanda, Bururi, Burundi",
+        "address_line1": "Réserve naturelle de Vyanda",
+        "address_line2": "Vyanda, Bururi, Burundi",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.nature_reserve",
+          "natural",
+          "natural.forest",
+          "natural.protected_area",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Réserve naturelle de Vyanda",
+            "osm_id": 301131653,
+            "leisure": "nature_reserve",
+            "natural": "wood",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51651567c0a69a3d40594e3232610c5e10c0f00102f90185e7f2110000000092031c52c3a97365727665206e61747572656c6c65206465205679616e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.604106927077186,
+          -4.091844099701644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hippo Feeding Point",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "suburb": "Kabondo",
+        "street": "Avenue de la Plage",
+        "iso3166_2": "BI-BM",
+        "lon": 29.350061,
+        "lat": -3.383971,
+        "state_code": "BM",
+        "formatted": "Hippo Feeding Point, Avenue de la Plage, Bujumbura, Burundi",
+        "address_line1": "Hippo Feeding Point",
+        "address_line2": "Avenue de la Plage, Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hippo Feeding Point",
+            "osm_id": 597562690,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e59a02999d593d405975a233635f120bc0f00103f90142159e2300000000920313486970706f2046656564696e6720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.350061,
+          -3.383970999730361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ancienne maison du roi",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Muramvya",
+        "city": "Muramvya",
+        "street": "RP34",
+        "iso3166_2": "BI-MU",
+        "lon": 29.6211135,
+        "lat": -3.2628989,
+        "state_code": "MU",
+        "formatted": "Ancienne maison du roi, RP34, Muramvya, Burundi",
+        "address_line1": "Ancienne maison du roi",
+        "address_line2": "RP34, Muramvya, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ancienne maison du roi",
+            "osm_id": 3557122009,
+            "tourism": "attraction",
+            "historic": "manor",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "51a79a594b019f3d4059b82d04bd6a1a0ac0f00103f901d95f05d400000000920316416e6369656e6e65206d6169736f6e20647520726f69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.621113500000003,
+          -3.262898899736424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwa Johnson Chez Johnson",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "suburb": "Gasenyi",
+        "street": "Avenue Bukiriro",
+        "housenumber": "7",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3943261,
+        "lat": -3.3546276,
+        "state_code": "BM",
+        "formatted": "Kwa Johnson Chez Johnson, Avenue Bukiriro 7, Bujumbura, Burundi",
+        "address_line1": "Kwa Johnson Chez Johnson",
+        "address_line2": "Avenue Bukiriro 7, Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kwa Johnson Chez Johnson",
+            "osm_id": 4169751891,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "Avenue Bukiriro",
+            "addr:housenumber": 7
+          }
+        },
+        "place_id": "519075278ef2643d40595bdbb8fe46d60ac0f00103f901535d89f8000000009203184b7761204a6f686e736f6e204368657a204a6f686e736f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3943261,
+          -3.354627599731811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crocodiles",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "district": "Mukaza",
+        "suburb": "Kabondo",
+        "street": "Avenue du 13 Octobre",
+        "housenumber": "11",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3535626,
+        "lat": -3.3875905,
+        "state_code": "BM",
+        "formatted": "Crocodiles, Avenue du 13 Octobre 11, Bujumbura, Burundi",
+        "address_line1": "Crocodiles",
+        "address_line2": "Avenue du 13 Octobre 11, Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Crocodiles",
+            "osm_id": 4252314850,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "place_id": "51b7161c14835a3d4059c3a6440cc9190bc0f00103f901e22c75fd0000000092030a43726f636f64696c6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3535626,
+          -3.3875904997301816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serpents",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "district": "Mukaza",
+        "suburb": "Kabondo",
+        "street": "Avenue du 13 Octobre",
+        "housenumber": "11",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3539808,
+        "lat": -3.38768,
+        "state_code": "BM",
+        "formatted": "Snakes, Avenue du 13 Octobre 11, Bujumbura, Burundi",
+        "address_line1": "Snakes",
+        "address_line2": "Avenue du 13 Octobre 11, Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Serpents",
+            "osm_id": 4252314857,
+            "name:en": "Snakes",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "name_international": {
+          "en": "Snakes"
+        },
+        "place_id": "517469577c9e5a3d40593b3cc1f8f7190bc0f00103f901e92c75fd0000000092030853657270656e7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.353980800000002,
+          -3.3876799997301794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chimpanzés",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "district": "Mukaza",
+        "suburb": "Kabondo",
+        "street": "Avenue du 13 Octobre",
+        "housenumber": "11",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3539897,
+        "lat": -3.3878458,
+        "state_code": "BM",
+        "formatted": "Chimpanzees, Avenue du 13 Octobre 11, Bujumbura, Burundi",
+        "address_line1": "Chimpanzees",
+        "address_line2": "Avenue du 13 Octobre 11, Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chimpanzés",
+            "osm_id": 4252314858,
+            "name:en": "Chimpanzees",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "name_international": {
+          "en": "Chimpanzees"
+        },
+        "place_id": "51f09ea8119f5a3d40594edb0de64e1a0bc0f00103f901ea2c75fd0000000092030b4368696d70616e7ac3a973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3539897,
+          -3.3878457997301785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oiseaux",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "district": "Mukaza",
+        "suburb": "Kabondo",
+        "street": "Avenue du 13 Octobre",
+        "housenumber": "11",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3538157,
+        "lat": -3.3879978,
+        "state_code": "BM",
+        "formatted": "Birds, Avenue du 13 Octobre 11, Bujumbura, Burundi",
+        "address_line1": "Birds",
+        "address_line2": "Avenue du 13 Octobre 11, Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Oiseaux",
+            "osm_id": 4252314859,
+            "name:en": "Birds",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "animal"
+          }
+        },
+        "name_international": {
+          "en": "Birds"
+        },
+        "place_id": "51b44f6caa935a3d4059981626979e1a0bc0f00103f901eb2c75fd000000009203074f697365617578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3538157,
+          -3.3879977997301687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magasin des Produits Egyptique",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "suburb": "Buyenzi",
+        "street": "Avenue de I'Oua",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3637053,
+        "lat": -3.36261,
+        "state_code": "BM",
+        "formatted": "Blue Sky Egyptian Products, Avenue de I'Oua, Bujumbura, Burundi",
+        "address_line1": "Blue Sky Egyptian Products",
+        "address_line2": "Avenue de I'Oua, Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Magasin des Produits Egyptique",
+            "osm_id": 5502618022,
+            "name:en": "Blue Sky Egyptian Products",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Blue Sky Egyptian Products"
+        },
+        "place_id": "51c0e160ca1b5d3d405942645012a0e60ac0f00103f901a649fb470100000092031e4d61676173696e206465732050726f647569747320456779707469717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.363705299999992,
+          -3.362609999731405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pagode Pascasia",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Muha",
+        "suburb": "Kibenga",
+        "street": "Lycee de Kibenga",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3417234,
+        "lat": -3.4167381,
+        "state_code": "BM",
+        "formatted": "Pagode Pascasia, Lycee de Kibenga, Muha, Burundi",
+        "address_line1": "Pagode Pascasia",
+        "address_line2": "Lycee de Kibenga, Muha, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pagode Pascasia",
+            "osm_id": 5542555221,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5126474b2f7b573d4059a5a8eac87a550bc0f00103f90155ae5c4a0100000092030f5061676f6465205061736361736961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3417234,
+          -3.4167380997287915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arboretum Office",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Southern Province",
+        "county": "Huye",
+        "city": "Tumba",
+        "village": "Mukina",
+        "street": "DR104",
+        "iso3166_2": "RW-05",
+        "lon": 29.7482427,
+        "lat": -2.6150148,
+        "formatted": "Arboretum Office, DR104, Tumba, Rwanda",
+        "address_line1": "Arboretum Office",
+        "address_line2": "DR104, Tumba, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arboretum Office",
+            "osm_id": 6305176686,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5182f865d58cbf3d40591fb01ce18ceb04c0f00103f9016e5cd177010000009203104172626f726574756d204f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7482427,
+          -2.615014799774158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre Culturel de Gitega",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Gitega",
+        "city": "Gitega",
+        "suburb": "Musinzira",
+        "street": "Boulevard du Triomphe",
+        "iso3166_2": "BI-GI",
+        "lon": 29.9307053,
+        "lat": -3.426918,
+        "state_code": "GI",
+        "formatted": "Cultural Centre Gitega, Boulevard du Triomphe, Gitega, Burundi",
+        "address_line1": "Cultural Centre Gitega",
+        "address_line2": "Boulevard du Triomphe, Gitega, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Centre Culturel de Gitega",
+            "osm_id": 6321243887,
+            "name:en": "Cultural Centre Gitega",
+            "name:fr": "Centre Culturel de Gitega",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Cultural Centre Gitega",
+          "fr": "Centre Culturel de Gitega"
+        },
+        "place_id": "51bfb6d9b342ee3d40591041f7fb536a0bc0f00103f901ef86c6780100000092031943656e7472652043756c747572656c20646520476974656761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.930705299999996,
+          -3.426917999728296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutoyi",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Gitega",
+        "city": "Mutoyi",
+        "iso3166_2": "BI-GI",
+        "lon": 29.9780102,
+        "lat": -3.2178497,
+        "state_code": "GI",
+        "formatted": "Mutoyi, Gitega, Burundi",
+        "address_line1": "Mutoyi",
+        "address_line2": "Gitega, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mutoyi",
+            "osm_id": 8221416017,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51882760e05efa3d40591292befb27be09c0f00103f90151da08ea010000009203064d75746f7969"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9780102,
+          -3.2178496997387436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanctuaire des Tambours Sacrés",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Gitega",
+        "city": "Kabogi",
+        "street": "RN 15",
+        "iso3166_2": "BI-GI",
+        "lon": 29.9219719,
+        "lat": -3.3628785,
+        "state_code": "GI",
+        "formatted": "Gishora Drum Sanctuary, RN 15, Kabogi, Burundi",
+        "address_line1": "Gishora Drum Sanctuary",
+        "address_line2": "RN 15, Kabogi, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sanctuaire des Tambours Sacrés",
+            "osm_id": 8252445458,
+            "name:en": "Gishora Drum Sanctuary",
+            "name:fr": "Sanctuaire des Tambours Sacrés",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Gishora Drum Sanctuary",
+          "fr": "Sanctuaire des Tambours Sacrés"
+        },
+        "place_id": "51ba54b65906ec3d4059a924c6d72ce70ac0f00103f9011253e2eb0100000092031f53616e63747561697265206465732054616d626f7572732053616372c3a973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.921971899999996,
+          -3.3628784997313983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Site Historique du Traité de Kiganda",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Muramvya",
+        "city": "Kiganda",
+        "street": "RP 31",
+        "iso3166_2": "BI-MU",
+        "lon": 29.6861516,
+        "lat": -3.3470673,
+        "state_code": "MU",
+        "formatted": "Site Historique du Traité de Kiganda, RP 31, Kiganda, Burundi",
+        "address_line1": "Site Historique du Traité de Kiganda",
+        "address_line2": "RP 31, Kiganda, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Site Historique du Traité de Kiganda",
+            "osm_id": 8372095407,
+            "name:fr": "Site Historique du Traité de Kiganda",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Site Historique du Traité de Kiganda"
+        },
+        "place_id": "511c199aa1a7af3d4059cbe26e38cbc60ac0f00103f901af0904f3010000009203255369746520486973746f7269717565206475205472616974c3a9206465204b6967616e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.686151600000002,
+          -3.347067299732179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Source la Plus au Sud du Bassin du Nil",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bururi",
+        "city": "Muyogoro",
+        "hamlet": "Murambi",
+        "street": "RN 7",
+        "iso3166_2": "BI-BR",
+        "lon": 29.8396819,
+        "lat": -3.9130189,
+        "state_code": "BR",
+        "formatted": "Source la Plus au Sud du Bassin du Nil, RN 7, Muyogoro, Burundi",
+        "address_line1": "Source la Plus au Sud du Bassin du Nil",
+        "address_line2": "RN 7, Muyogoro, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Source la Plus au Sud du Bassin du Nil",
+            "osm_id": 9524768941,
+            "name:fr": "Source la Plus au Sud du Bassin du Nil",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Source la Plus au Sud du Bassin du Nil"
+        },
+        "place_id": "510b8b9b64f5d63d4059cfff56dadc4d0fc0f00103f901ad70b83702000000920326536f75726365206c6120506c7573206175205375642064752042617373696e206475204e696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8396819,
+          -3.9130188997078004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Départ Gare du nord",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "suburb": "Gasenyi",
+        "street": "Boulevard Mwambutsa",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3877064,
+        "lat": -3.3520993,
+        "state_code": "BM",
+        "formatted": "Départ Gare du nord, Boulevard Mwambutsa, Bujumbura, Burundi",
+        "address_line1": "Départ Gare du nord",
+        "address_line2": "Boulevard Mwambutsa, Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Départ Gare du nord",
+            "osm_id": 10963818608,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512d7304ba40633d40594b580a7019d10ac0f00103f90170987e8d0200000092031444c3a9706172742047617265206475206e6f7264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.387706400000003,
+          -3.352099299731923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Triph Gatsinda",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Ngozi",
+        "county": "Mwumba",
+        "city": "Mwumba",
+        "street": "RP 55",
+        "iso3166_2": "BI-NG",
+        "lon": 29.8099914,
+        "lat": -2.8187014,
+        "state_code": "NG",
+        "formatted": "Chez Triph Gatsinda, RP 55, Mwumba, Burundi",
+        "address_line1": "Chez Triph Gatsinda",
+        "address_line2": "RP 55, Mwumba, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chez Triph Gatsinda",
+            "osm_id": 11132027905,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51910aad985bcf3d4059c550c951b38c06c0f00103f90101448597020000009203134368657a2054726970682047617473696e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.809991400000005,
+          -2.818701399761354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seventh Day Adventist Church",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Southern Province",
+        "county": "Huye",
+        "city": "Huye",
+        "village": "Ngoma",
+        "street": "NR1",
+        "iso3166_2": "RW-05",
+        "lon": 29.7387323,
+        "lat": -2.6133481,
+        "formatted": "Seventh Day Adventist Church, NR1, Huye, Rwanda",
+        "address_line1": "Seventh Day Adventist Church",
+        "address_line2": "NR1, Huye, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Seventh Day Adventist Church",
+            "osm_id": 11245504437,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b5ff5c8f1dbd3d4059f2c06c0c23e804c0f00103f901b5c7489e0200000092031c536576656e74682044617920416476656e7469737420436875726368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7387323,
+          -2.6133480997742646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eglise Ste. Therese",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Southern Province",
+        "county": "Huye",
+        "city": "Rwabuye",
+        "street": "Indatua Street",
+        "iso3166_2": "RW-05",
+        "lon": 29.74435,
+        "lat": -2.5922659,
+        "formatted": "Eglise Ste. Therese, Indatua Street, Rwabuye, Rwanda",
+        "address_line1": "Eglise Ste. Therese",
+        "address_line2": "Indatua Street, Rwabuye, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Eglise Ste. Therese",
+            "osm_id": 11245540738,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5111c7bab88dbe3d4059259470e7f5bc04c0f00103f9018255499e0200000092031345676c697365205374652e2054686572657365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.74435,
+          -2.592265899775628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inganzo ya mwami Mwezi Gisabo",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Kayanza",
+        "city": "Mubuga",
+        "street": "RP 307",
+        "iso3166_2": "BI-KY",
+        "lon": 29.557681,
+        "lat": -2.9696767,
+        "state_code": "KY",
+        "formatted": "Inganzo ya mwami Mwezi Gisabo, RP 307, Mubuga, Burundi",
+        "address_line1": "Inganzo ya mwami Mwezi Gisabo",
+        "address_line2": "RP 307, Mubuga, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.tomb"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Inganzo ya mwami Mwezi Gisabo",
+            "tomb": "tumulus",
+            "osm_id": 11632733932,
+            "tourism": "attraction",
+            "historic": "tomb",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "tomb"
+        },
+        "place_id": "51bd99982ec48e3d4059b90989dbe5c107c0f00103f901ec6e5db50200000092031d496e67616e7a6f207961206d77616d69204d77657a692047697361626f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.55768099999999,
+          -2.969676699752395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Muramvya",
+        "city": "Bugarama",
+        "isolated_dwelling": "POSTE DE SECOURS Gatebe-Bugarama",
+        "street": "RN 1",
+        "iso3166_2": "BI-MU",
+        "lon": 29.5420251,
+        "lat": -3.2968448,
+        "state_code": "MU",
+        "formatted": "RN 1, Bugarama, Burundi",
+        "address_line1": "RN 1",
+        "address_line2": "Bugarama, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2190819438,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51721c2e28c28a3d405901c9962af05f0ac0f00103f9016e40958200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.542025099999996,
+          -3.296844799734686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Rural Province",
+        "city": "Benga",
+        "street": "RN 1",
+        "iso3166_2": "BI-BL",
+        "lon": 29.4196137,
+        "lat": -3.33278,
+        "formatted": "RN 1, Benga, Burundi",
+        "address_line1": "RN 1",
+        "address_line2": "Benga, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2190819460,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511b74aecd6b6b3d4059c6ec7c8f88a90ac0f00103f9018440958200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.419613699999996,
+          -3.332779999732881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "district": "Mukaza",
+        "suburb": "Building Bata",
+        "street": "Chaussée du Peuple Murundi",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3625659,
+        "lat": -3.3791958,
+        "state_code": "BM",
+        "formatted": "Chaussée du Peuple Murundi, Bujumbura, Burundi",
+        "address_line1": "Chaussée du Peuple Murundi",
+        "address_line2": "Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2195521887,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5112256b1ed15c3d4059dbfcb4ce97080bc0f00103f9015f01dd8200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3625659,
+          -3.3791957997305935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Ruyigi",
+        "city": "Butezi",
+        "suburb": "Rwange",
+        "street": "RP 201",
+        "iso3166_2": "BI-RY",
+        "lon": 30.1812499,
+        "lat": -3.3774951,
+        "state_code": "RY",
+        "formatted": "RP 201, Butezi, Burundi",
+        "address_line1": "RP 201",
+        "address_line2": "Butezi, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3219934355,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513de7b864662e3e4059c0f29d261c050bc0f00103f901934cecbf00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1812499,
+          -3.3774950997306803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Muramvya",
+        "city": "Shombo",
+        "street": "R P 109",
+        "iso3166_2": "BI-MU",
+        "lon": 29.6427786,
+        "lat": -3.3477309,
+        "state_code": "MU",
+        "formatted": "R P 109, Shombo, Burundi",
+        "address_line1": "R P 109",
+        "address_line2": "Shombo, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3323582570,
+            "tourism": "attraction",
+            "historic": "yes",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51949169238da43d4059ff43512327c80ac0f00103f9016ad819c600000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6427786,
+          -3.347730899732141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Makamba",
+        "city": "Mukungu",
+        "street": "RN 3",
+        "iso3166_2": "BI-MA",
+        "lon": 29.5475893,
+        "lat": -4.2368066,
+        "state_code": "MA",
+        "formatted": "Bridge, RN 3, Mukungu, Burundi",
+        "address_line1": "Bridge",
+        "address_line2": "RN 3, Mukungu, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4620720193,
+            "name:en": "Bridge",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bridge"
+        },
+        "place_id": "51b723f7cf2e8c3d4059b3b4e46d7df210c0f00103f90141986a1301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.547589299999995,
+          -4.236806599697206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Rumonge",
+        "city": "Gatete",
+        "street": "RN 3",
+        "iso3166_2": "BI-RM",
+        "lon": 29.4589966,
+        "lat": -4.0043438,
+        "state_code": "RM",
+        "formatted": "RN 3, Gatete, Burundi",
+        "address_line1": "RN 3",
+        "address_line2": "Gatete, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4620721689,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a6f919cd80753d405997af76b3720410c0f00103f901199e6a1301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4589966,
+          -4.0043437997045634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Rural Province",
+        "city": "Nyabugete",
+        "street": "RN 3",
+        "iso3166_2": "BI-BL",
+        "lon": 29.3528267,
+        "lat": -3.4458058,
+        "formatted": "RN 3, Nyabugete, Burundi",
+        "address_line1": "RN 3",
+        "address_line2": "Nyabugete, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4664917492,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d6a7c1d9525a3d40590c9291a102910bc0f00103f901f4fd0c1601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3528267,
+          -3.4458057997274008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bujumbura Mairie",
+        "city": "Bujumbura",
+        "suburb": "Bwiza",
+        "street": "Avenue de l 'Hopital",
+        "iso3166_2": "BI-BM",
+        "lon": 29.3594346,
+        "lat": -3.3756751,
+        "state_code": "BM",
+        "formatted": "Avenue de l 'Hopital, Bujumbura, Burundi",
+        "address_line1": "Avenue de l 'Hopital",
+        "address_line2": "Bujumbura, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4664934799,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51040dece7035c3d4059281f5af261010bc0f00103f9018f410d1601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3594346,
+          -3.375675099730774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Muramvya",
+        "city": "Shombo",
+        "street": "R P 109",
+        "iso3166_2": "BI-MU",
+        "lon": 29.6067097,
+        "lat": -3.3964951,
+        "state_code": "MU",
+        "formatted": "R P 109, Shombo, Burundi",
+        "address_line1": "R P 109",
+        "address_line2": "Shombo, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5435748623,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "description": "kureba imidugudu Mahonda/Yanza"
+          }
+        },
+        "description": "kureba imidugudu Mahonda/Yanza",
+        "place_id": "517eaaaf53519b3d40598ce8729f052c0bc0f00103f9010ff1fe4301000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.606709700000003,
+          -3.396495099729753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Park Guards",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Bururi",
+        "city": "Bururi",
+        "street": "RN 16",
+        "iso3166_2": "BI-BR",
+        "lon": 29.6195619,
+        "lat": -3.9362109,
+        "state_code": "BR",
+        "formatted": "National Park Guards, RN 16, Bururi, Burundi",
+        "address_line1": "National Park Guards",
+        "address_line2": "RN 16, Bururi, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11704223170,
+            "name:en": "National Park Guards",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "National Park Guards"
+        },
+        "place_id": "51ff58d29b9b9e3d40597833e3235c7d0fc0f00103f901c245a0b902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.619561900000004,
+          -3.9362108997069605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Rutana",
+        "iso3166_2": "BI-RT",
+        "lon": 30.0771013,
+        "lat": -3.8301635,
+        "state_code": "RT",
+        "formatted": "Bridge, Rutana, Burundi",
+        "address_line1": "Bridge",
+        "address_line2": "Rutana, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11708762969,
+            "name:en": "Bridge",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Bridge"
+        },
+        "place_id": "51a5fa29e9bc133e4059d5baccc22ca40ec0f00103f901598be5b902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0771013,
+          -3.8301634997109013
+        ]
+      }
+    }
+  ]
+}

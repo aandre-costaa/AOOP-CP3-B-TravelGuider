@@ -1,0 +1,881 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mogadishu Tourist Village",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Daynile District",
+        "street": "Wadada Jaamacadda Zamzam",
+        "iso3166_2": "SO-BN",
+        "lon": 45.288608120816406,
+        "lat": 2.09164035,
+        "state_code": "BN",
+        "formatted": "Mogadishu Tourist Village, Wadada Jaamacadda Zamzam, Daynile District, Mogadishu, Somalia",
+        "address_line1": "Mogadishu Tourist Village",
+        "address_line2": "Wadada Jaamacadda Zamzam, Daynile District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Mogadishu Tourist Village",
+            "image": "https://sonna.so/en/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-06-at-12.38.40.jpeg",
+            "osm_id": 1306099545,
+            "tourism": "attraction",
+            "osm_type": "w",
+            "addr:street": "Dayniile Street"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://sonna.so/en/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-06-at-12.38.40.jpeg"
+        },
+        "place_id": "511c22641cf1a446405996498aefadbb0040f00102f901597fd94d000000009203194d6f6761646973687520546f75726973742056696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.288608120816406,
+          2.0916403497769336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taalada Dhagaxtuur تمثال ذغختور",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "county": "Hamar Jabjab District",
+        "suburb": "Hamar Jajab",
+        "iso3166_2": "SO-BN",
+        "lon": 45.33204252777162,
+        "lat": 2.03594675,
+        "state_code": "BN",
+        "formatted": "Taalada Dhagaxtuur تمثال ذغختور, Hamar Jajab, Hamar Jabjab District, Somalia",
+        "address_line1": "Taalada Dhagaxtuur تمثال ذغختور",
+        "address_line2": "Hamar Jajab, Hamar Jabjab District, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Taalada Dhagaxtuur تمثال ذغختور",
+            "place": "square",
+            "osm_id": 777930414,
+            "name:ar": "تمثال ذغختور",
+            "name:fr": "Statue de pierre",
+            "name:so": "Taalada Dhagaxtuur",
+            "tourism": "attraction",
+            "memorial": "statue",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "ar": "تمثال ذغختور",
+          "fr": "Statue de pierre",
+          "so": "Taalada Dhagaxtuur"
+        },
+        "place_id": "5184d49a5e80aa46405931b815739e490040f00102f901ae465e2e0000000092032a5461616c616461204468616761787475757220d8aad985d8abd8a7d98420d8b0d8bad8aed8aad988d8b1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33204252777162,
+          2.0359467497828736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "national zoo حديقة الحيوان الوطنية",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "county": "Hamar Weyne District",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Xamar Weyne",
+        "street": "Corso de la Republica / Corso Somalia",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3421768,
+        "lat": 2.0378046,
+        "state_code": "BN",
+        "formatted": "national zoo, Corso de la Republica / Corso Somalia, Xamar Weyne, Mogadishu, Somalia",
+        "address_line1": "national zoo",
+        "address_line2": "Corso de la Republica / Corso Somalia, Xamar Weyne, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "national zoo حديقة الحيوان الوطنية",
+            "osm_id": 4235734998,
+            "name:ar": "حديقة الحيوان الوطنية",
+            "name:en": "national zoo",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:city": "مقديشو"
+          }
+        },
+        "name_international": {
+          "ar": "حديقة الحيوان الوطنية",
+          "en": "national zoo"
+        },
+        "place_id": "5196b90a73ccab464059bca37d7f6c4d0040f00103f901d62f78fc000000009203356e6174696f6e616c207a6f6f20d8add8afd98ad982d8a920d8a7d984d8add98ad988d8a7d98620d8a7d984d988d8b7d986d98ad8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.34217679999999,
+          2.037804599782673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beerta Nabadda",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "county": "Hamar Weyne District",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Xamar Weyne",
+        "street": "Via Morocco",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3351699,
+        "lat": 2.0350111,
+        "state_code": "BN",
+        "formatted": "Peace Garden, Via Morocco, Xamar Weyne, Mogadishu, Somalia",
+        "address_line1": "Peace Garden",
+        "address_line2": "Via Morocco, Xamar Weyne, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Beerta Nabadda",
+            "osm_id": 4236124590,
+            "name:ar": "حديقة السلام",
+            "name:en": "Peace Garden",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "حديقة السلام",
+          "en": "Peace Garden"
+        },
+        "place_id": "51418de7d8e6aa464059dc8444e6b3470040f00103f901ae217efc0000000092030e426565727461204e616261646461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33516989999999,
+          2.0350110997829756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "afrikan village residence الأفريقي قرية الإقامة",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Guryaha Ruushka",
+        "street": "26 June Street / Labour Street",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3129398,
+        "lat": 2.045585,
+        "state_code": "BN",
+        "formatted": "afrikan village residence, 26 June Street / Labour Street, Guryaha Ruushka, Mogadishu, Somalia",
+        "address_line1": "afrikan village residence",
+        "address_line2": "26 June Street / Labour Street, Guryaha Ruushka, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "afrikan village residence الأفريقي قرية الإقامة",
+            "osm_id": 4243421295,
+            "name:ar": "الأفريقي قرية الإقامة",
+            "name:en": "afrikan village residence",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "ar": "الأفريقي قرية الإقامة",
+          "en": "afrikan village residence"
+        },
+        "place_id": "51f24e4f690ea84640597b021aab5b5d0040f00103f9016f78edfc00000000920342616672696b616e2076696c6c616765207265736964656e636520d8a7d984d8a3d981d8b1d98ad982d98a20d982d8b1d98ad8a920d8a7d984d8a5d982d8a7d985d8a9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.312939799999995,
+          2.0455849997818496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "carwada qaranka",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Hodan District",
+        "retail": "Hayat Market",
+        "street": "Via Taleh",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3137351,
+        "lat": 2.03887,
+        "state_code": "BN",
+        "formatted": "carwada qaranka, Via Taleh, Hodan District, Mogadishu, Somalia",
+        "address_line1": "carwada qaranka",
+        "address_line2": "Via Taleh, Hodan District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "carwada qaranka",
+            "osm_id": 4243440690,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51bc0dc57828a8464059a0e40e139b4f0040f00103f90132c4edfc0000000092030f6361727761646120716172616e6b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3137351,
+          2.0388699997825626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "daarta tahliil warsame",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Hodan District",
+        "street": "KM4",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3108738,
+        "lat": 2.0314177,
+        "state_code": "BN",
+        "formatted": "daarta tahliil warsame, KM4, Hodan District, Mogadishu, Somalia",
+        "address_line1": "daarta tahliil warsame",
+        "address_line2": "KM4, Hodan District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "daarta tahliil warsame",
+            "osm_id": 4253199695,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "addr:city": "مقديشو"
+          }
+        },
+        "place_id": "51751772b6caa746405936ae48ec57400040f00103f9014fad82fd00000000920316646161727461207461686c69696c2077617273616d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3108738,
+          2.031417699783357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "photo sahafi",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Wadajir District",
+        "street": "Wadada Afgooye",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3090592,
+        "lat": 2.0315015,
+        "state_code": "BN",
+        "formatted": "photo sahafi, Wadada Afgooye, Wadajir District, Mogadishu, Somalia",
+        "address_line1": "photo sahafi",
+        "address_line2": "Wadada Afgooye, Wadajir District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "photo sahafi",
+            "osm_id": 4253273994,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5192437a408fa746405969c1badb83400040f00103f9018acf83fd0000000092030c70686f746f20736168616669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.30905919999999,
+          2.03150149978335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sobe roud eng shibiin",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Wadajir District",
+        "street": "Danwadaag Street",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3051148,
+        "lat": 2.0300919,
+        "state_code": "BN",
+        "formatted": "sobe roud eng shibiin, Danwadaag Street, Wadajir District, Mogadishu, Somalia",
+        "address_line1": "sobe roud eng shibiin",
+        "address_line2": "Danwadaag Street, Wadajir District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "sobe roud eng shibiin",
+            "osm_id": 6176821885,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5145c373000ea7464059a98e6bd2a03d0040f00103f9017dd22a7001000000920315736f626520726f756420656e67207368696269696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.30511479999999,
+          2.030091899783504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cabdi casiis House buloxuubey",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Wadajir District",
+        "street": "Danwadaag Street",
+        "iso3166_2": "SO-BN",
+        "lon": 45.303162,
+        "lat": 2.025052,
+        "state_code": "BN",
+        "formatted": "cabdi casiis House buloxuubey, Danwadaag Street, Wadajir District, Mogadishu, Somalia",
+        "address_line1": "cabdi casiis House buloxuubey",
+        "address_line2": "Danwadaag Street, Wadajir District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "cabdi casiis House buloxuubey",
+            "osm_id": 6223405485,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eab12d03cea6464059c82c7e764e330040f00103f901ada1f1720100000092031d63616264692063617369697320486f7573652062756c6f787575626579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.303162,
+          2.0250519997840435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "guriga xasan c.maxamud",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Yaqshid District",
+        "street": "Mount Sinai Street",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3386624,
+        "lat": 2.0686439,
+        "state_code": "BN",
+        "formatted": "guriga xasan c.maxamud, Mount Sinai Street, Yaqshid District, Mogadishu, Somalia",
+        "address_line1": "guriga xasan c.maxamud",
+        "address_line2": "Mount Sinai Street, Yaqshid District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "guriga xasan c.maxamud",
+            "osm_id": 6227670085,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5143311e4a59ab4640598bfa442c958c0040f00103f90145b432730100000092031667757269676120786173616e20632e6d6178616d7564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3386624,
+          2.0686438997793792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beco",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Lower Shabelle",
+        "county": "Afgooye District",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Wadajir District",
+        "quarter": "Kahda",
+        "street": "Wadada Jaale Siyaad",
+        "iso3166_2": "SO-SH",
+        "lon": 45.2831422,
+        "lat": 2.0252606,
+        "formatted": "Beco, Wadada Jaale Siyaad, Wadajir District, Mogadishu, Somalia",
+        "address_line1": "Beco",
+        "address_line2": "Wadada Jaale Siyaad, Wadajir District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Beco",
+            "osm_id": 6227670185,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510a8fec003ea4464059f3984fd4bb330040f00103f901a9b43273010000009203044265636f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.2831422,
+          2.0252605997840134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IMC-EX MSF Spain Hospital",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Middle Shebelle",
+        "county": "Jowhar District",
+        "city": "Jowhar",
+        "suburb": "Buullo Makiino",
+        "street": "Wadada Buulebarde",
+        "iso3166_2": "SO-SD",
+        "lon": 45.502971,
+        "lat": 2.7823218,
+        "formatted": "IMC-EX MSF Spain Hospital, Wadada Buulebarde, Buullo Makiino, Jowhar, Somalia",
+        "address_line1": "IMC-EX MSF Spain Hospital",
+        "address_line2": "Wadada Buulebarde, Buullo Makiino, Jowhar, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "IMC-EX MSF Spain Hospital",
+            "osm_id": 6350263149,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5110eb8d5a61c0464059cc6e85ee31420640f00103f9016d53817a01000000920319494d432d4558204d534620537061696e20486f73706974616c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.502971,
+          2.7823217997045955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "city": "Mogadishu",
+        "district": "Nageyle Neighborhood",
+        "suburb": "Karan District",
+        "street": "Via Bender Kasim طريق بندر قاسم",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3695417,
+        "lat": 2.049556,
+        "state_code": "BN",
+        "formatted": "Via Bender Kasim طريق بندر قاسم, Karan District, Mogadishu, Somalia",
+        "address_line1": "Via Bender Kasim طريق بندر قاسم",
+        "address_line2": "Karan District, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4684403189,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510d0176244daf464059e20db39d7d650040f00103f901f551361701000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.36954169999999,
+          2.0495559997814192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daar salaam city",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Lower Shabelle",
+        "county": "Afgooye District",
+        "city": "Daru-Salaam City",
+        "iso3166_2": "SO-SH",
+        "lon": 45.3190672,
+        "lat": 2.1379593,
+        "formatted": "Daar salaam city, Daru-Salaam City, Afgooye District, Somalia",
+        "address_line1": "Daar salaam city",
+        "address_line2": "Daru-Salaam City, Afgooye District, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4783271624,
+            "name:en": "Daar salaam city",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Daar salaam city"
+        },
+        "place_id": "51f69caa31d7a84640593499c5678a1a0140f00103f901c8ee1a1d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.31906719999999,
+          2.1379592997720014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Lower Shabelle",
+        "county": "Afgooye District",
+        "city": "Daru-Salaam City",
+        "postcode": "BN 09010",
+        "suburb": "Kahda",
+        "street": "Wadada Afgooye",
+        "iso3166_2": "SO-SH",
+        "lon": 45.2825847,
+        "lat": 2.0448633,
+        "formatted": "Wadada Afgooye, Kahda, Daru-Salaam City, Somalia",
+        "address_line1": "Wadada Afgooye",
+        "address_line2": "Kahda, Daru-Salaam City, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5034209622,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51cb6c46bc2ba4464059edd42a4ae15b0040f00103f90156f10f2c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.282584699999994,
+          2.0448632997819147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "county": "Hamar Weyne District",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Xamar Weyne",
+        "street": "W. Waabari",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3440937,
+        "lat": 2.032879,
+        "state_code": "BN",
+        "formatted": "W. Waabari, Xamar Weyne, Mogadishu, Somalia",
+        "address_line1": "W. Waabari",
+        "address_line2": "Xamar Weyne, Mogadishu, Somalia",
+        "categories": [
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 10696740205,
+            "tourism": "attraction",
+            "man_made": "lighthouse",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513b212a430bac4640592c5aa61056430040f00103f9016d4d937d02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.344093699999995,
+          2.0328789997831986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish market",
+        "country": "Somalia",
+        "country_code": "so",
+        "state": "Banaadir",
+        "county": "Hamar Weyne District",
+        "city": "Mogadishu",
+        "postcode": "BN 09010",
+        "suburb": "Xamar Weyne",
+        "street": "W. Waabari",
+        "iso3166_2": "SO-BN",
+        "lon": 45.3426573,
+        "lat": 2.0317101,
+        "state_code": "BN",
+        "formatted": "Fish market, W. Waabari, Xamar Weyne, Mogadishu, Somalia",
+        "address_line1": "Fish market",
+        "address_line2": "W. Waabari, Xamar Weyne, Mogadishu, Somalia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11822601969,
+            "name:en": "Fish market",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Fish market"
+        },
+        "place_id": "512a9ec431dcab464059b12d8c39f1400040f00103f901f196aec002000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3426573,
+          2.0317100997833326
+        ]
+      }
+    }
+  ]
+}

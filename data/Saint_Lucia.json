@@ -1,0 +1,5422 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Distillerie Saint-James",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Sainte-Marie",
+        "municipality": "La Trinité",
+        "postcode": "97230",
+        "street": "N 1",
+        "iso3166_2": "FR-972",
+        "lon": -60.99732667511703,
+        "lat": 14.78353495,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Distillerie Saint-James, N 1, 97230 Sainte-Marie, France",
+        "address_line1": "Distillerie Saint-James",
+        "address_line2": "N 1, 97230 Sainte-Marie, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.production",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Distillerie Saint-James",
+            "phone": "+33 5 96 69 30 02",
+            "osm_id": 923680496,
+            "product": "rhum",
+            "tourism": "attraction",
+            "website": "https://rhum-saintjames.com/",
+            "operator": "La Martiniquaise",
+            "osm_type": "w",
+            "wikidata": "Q3030726",
+            "addr:city": "Sainte-Marie",
+            "wikipedia": "fr:Distillerie Saint-James",
+            "addr:street": "Plantation Saint James - Plaine de l'Union",
+            "description": "*INFORMATIONS IMPORTANTES Ouverture des espaces de visite et de la boutique : 7j/7 entre 9h00 et 17h00 Ouverture LA SALLE : samedi et dimanche entre 9h00 et 17h00",
+            "addr:postcode": 97230
+          }
+        },
+        "website": "https://rhum-saintjames.com/",
+        "operator": "La Martiniquaise",
+        "description": "*INFORMATIONS IMPORTANTES Ouverture des espaces de visite et de la boutique : 7j/7 entre 9h00 et 17h00 Ouverture LA SALLE : samedi et dimanche entre 9h00 et 17h00",
+        "contact": {
+          "phone": "+33 5 96 69 30 02"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q3030726",
+          "wikipedia": "fr:Distillerie Saint-James"
+        },
+        "production": {
+          "product": "rhum"
+        },
+        "place_id": "512e878666a87f4ec0599f07327e2b912d40f00102f901f03e0e370000000092031744697374696c6c65726965205361696e742d4a616d6573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.99732667511704,
+          14.783534949881696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bibliothèque Schoelcher",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fort-de-France",
+        "municipality": "Fort-de-France",
+        "postcode": "97200",
+        "street": "Rue de la Liberté",
+        "housenumber": "1",
+        "iso3166_2": "FR-972",
+        "lon": -61.06805540213792,
+        "lat": 14.60485005,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Bibliothèque Schoelcher, 1 Rue de la Liberté, 97200 Fort-de-France, France",
+        "address_line1": "Bibliothèque Schoelcher",
+        "address_line2": "1 Rue de la Liberté, 97200 Fort-de-France, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.public_and_civil",
+          "building.tourism",
+          "education",
+          "education.library",
+          "heritage",
+          "internet_access",
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities",
+          "details.heritage",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bibliothèque Schoelcher",
+            "osm_id": 94924763,
+            "amenity": "library",
+            "ref:mhs": "PA00105941",
+            "tourism": "attraction",
+            "building": "yes",
+            "heritage": 2,
+            "osm_type": "w",
+            "wikidata": "Q856641",
+            "wheelchair": "limited",
+            "addr:street": "Rue de la Liberté",
+            "addr:postcode": "97200;97234",
+            "opening_hours": "Mo 13:00-17:30; Tu-Th 08:30-17:30; Fr 08:30-17:00; Sa 08:30-12:00",
+            "internet_access": "terminal",
+            "addr:housenumber": 1,
+            "heritage:operator": "mhs",
+            "mhs:inscription_date": "1993-01-05"
+          }
+        },
+        "opening_hours": "Mo 13:00-17:30; Tu-Th 08:30-17:30; Fr 08:30-17:00; Sa 08:30-12:00",
+        "ref_other": {
+          "mhs": "PA00105941"
+        },
+        "facilities": {
+          "internet_access": true,
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q856641"
+        },
+        "heritage": {
+          "level": 2,
+          "operator": "mhs",
+          "ref": "PA00105941",
+          "inscription_date": "1993-01-05"
+        },
+        "place_id": "51ce3f170ab6884ec0594e45dee7ae352d40f00102f901db6fa805000000009203184269626c696f7468c3a8717565205363686f656c63686572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.068055402137915,
+          14.604850049860627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Mantou",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Les Trois-Îlets",
+        "municipality": "Le Marin",
+        "postcode": "97229",
+        "street": "Place Paul Thevenard",
+        "iso3166_2": "FR-972",
+        "lon": -61.03520815749046,
+        "lat": 14.53955075,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Le Mantou, Place Paul Thevenard, 97229 Les Trois-Îlets, France",
+        "address_line1": "Le Mantou",
+        "address_line2": "Place Paul Thevenard, 97229 Les Trois-Îlets, France",
+        "categories": [
+          "building",
+          "building.office",
+          "building.tourism",
+          "office",
+          "office.company",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Le Mantou",
+            "phone": "+596 596 68 39 19",
+            "office": "company",
+            "osm_id": 285916089,
+            "tourism": "attraction",
+            "website": "https://www.lemantou.fr/",
+            "building": "yes",
+            "osm_type": "w",
+            "attraction": "boat_trip"
+          }
+        },
+        "website": "https://www.lemantou.fr/",
+        "contact": {
+          "phone": "+596 596 68 39 19"
+        },
+        "place_id": "51aa7c6eb381844ec059234df2fe3f142d40f00102f901b9bb0a11000000009203094c65204d616e746f75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.03520815749046,
+          14.53955074985294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Ilets du Cap",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Sainte-Anne",
+        "hamlet": "Cap Chevalier",
+        "municipality": "Le Marin",
+        "postcode": "97227",
+        "district": "Lagrandcourt",
+        "street": "Voie Communale du Cap Chevalier",
+        "iso3166_2": "FR-972",
+        "lon": -60.8301466,
+        "lat": 14.4353499,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Les Ilets du Cap, Voie Communale du Cap Chevalier, 97227 Sainte-Anne, France",
+        "address_line1": "Les Ilets du Cap",
+        "address_line2": "Voie Communale du Cap Chevalier, 97227 Sainte-Anne, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Les Ilets du Cap",
+            "phone": "06 96 91 32 34",
+            "osm_id": 1149384057,
+            "tourism": "attraction",
+            "website": "http://www.bebeche.net",
+            "alt_name": "Bébêche",
+            "osm_type": "n"
+          }
+        },
+        "website": "http://www.bebeche.net",
+        "name_other": {
+          "alt_name": "Bébêche"
+        },
+        "contact": {
+          "phone": "06 96 91 32 34"
+        },
+        "place_id": "5159f1683e426a4ec059fc439c2ee6de2c40f00103f90179358244000000009203104c657320496c65747320647520436170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.830146599999985,
+          14.435349899840723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domaine d'Emeraude",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Morne-Rouge",
+        "municipality": "Saint-Pierre",
+        "postcode": "97260",
+        "street": "N 3",
+        "iso3166_2": "FR-972",
+        "lon": -61.1014892,
+        "lat": 14.7494961,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Domaine d'Emeraude, N 3, 97260 Le Morne-Rouge, France",
+        "address_line1": "Domaine d'Emeraude",
+        "address_line2": "N 3, 97260 Le Morne-Rouge, France",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Domaine d'Emeraude",
+            "phone": "+596 596 52 33 49",
+            "osm_id": 4070598692,
+            "leisure": "garden",
+            "tourism": "attraction",
+            "website": "https://pnr-martinique.com/visiter/domaine-demeraude/",
+            "osm_type": "n",
+            "garden:type": "botanical"
+          }
+        },
+        "website": "https://pnr-martinique.com/visiter/domaine-demeraude/",
+        "contact": {
+          "phone": "+596 596 52 33 49"
+        },
+        "place_id": "51d7721d99fd8c4ec05989e8eaf3bd7f2d40f00103f9012468a0f200000000920312446f6d61696e65206427456d657261756465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.101489199999996,
+          14.749496099877677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kariba Plongée",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Sainte-Luce",
+        "municipality": "Le Marin",
+        "postcode": "97228",
+        "street": "D 7",
+        "iso3166_2": "FR-972",
+        "lon": -60.935409,
+        "lat": 14.4637236,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Kariba Plongée, D 7, 97228 Sainte-Luce, France",
+        "address_line1": "Kariba Plongée",
+        "address_line2": "D 7, 97228 Sainte-Luce, France",
+        "categories": [
+          "sport",
+          "sport.dive_centre",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kariba Plongée",
+            "email": "karibaplongee@gmail.com",
+            "phone": "+596 696 18 10 72",
+            "osm_id": 5239272022,
+            "amenity": "dive_centre",
+            "tourism": "attraction",
+            "website": "https://www.karibaplongee.com/",
+            "osm_type": "n",
+            "addr:street": "Pointe Philippeau",
+            "addr:postcode": 97228
+          }
+        },
+        "website": "https://www.karibaplongee.com/",
+        "contact": {
+          "phone": "+596 696 18 10 72",
+          "email": "karibaplongee@gmail.com"
+        },
+        "place_id": "5129b16b7bbb774ec059576dff2d6ded2c40f00103f90156f248380100000092030f4b617269626120506c6f6e67c3a965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.935409,
+          14.463723599844043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tet Paul Nature trail",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Soufrière",
+        "city": "Fond Doux",
+        "postcode": "LC10 101",
+        "street": "Fond Doux Road",
+        "iso3166_2": "LC-10",
+        "lon": -61.0549882,
+        "lat": 13.8199649,
+        "formatted": "Tet Paul Nature trail, Fond Doux Road, Fond Doux, Saint Lucia",
+        "address_line1": "Tet Paul Nature trail",
+        "address_line2": "Fond Doux Road, Fond Doux, Saint Lucia",
+        "categories": [
+          "fee",
+          "leisure",
+          "leisure.park",
+          "leisure.park.nature_reserve",
+          "natural",
+          "natural.protected_area",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "Adults & Junior Us$10 per person, Children under 10yrs Us$5 per child.",
+            "name": "Tet Paul Nature trail",
+            "osm_id": 5241056829,
+            "leisure": "nature_reserve",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:full": "Road To Gros Piton Nature Trail, Chateur Belair, Soufriere",
+            "description": "Part of St. Lucia Unesco world heritage site: working organic farm, alma's kitchen, gift shop, 45 minutes tour 6acre site, picnic area, working cassava house, exotic flowers and fruit trees, family friendly.",
+            "contact:email": "tetpaul2016@gmail.com",
+            "contact:phone": "1 (758) 457-1122",
+            "opening_hours": "Mo-Su 08:00-17:30; PH open",
+            "contact:mobile": "484-9453/718-9576",
+            "contact:website": "http://tetpaulnaturetrail.com"
+          }
+        },
+        "website": "http://tetpaulnaturetrail.com",
+        "opening_hours": "Mo-Su 08:00-17:30; PH open",
+        "description": "Part of St. Lucia Unesco world heritage site: working organic farm, alma's kitchen, gift shop, 45 minutes tour 6acre site, picnic area, working cassava house, exotic flowers and fruit trees, family friendly.",
+        "contact": {
+          "phone": "1 (758) 457-1122",
+          "email": "tetpaul2016@gmail.com"
+        },
+        "place_id": "513b5574da09874ec0598ac17870d2a32b40f00103f9013d2e643801000000920315546574205061756c204e617475726520747261696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.05498819999999,
+          13.81996489976952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Belfort",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Lamentin",
+        "municipality": "Fort-de-France",
+        "postcode": "97232",
+        "street": "D 3",
+        "iso3166_2": "FR-972",
+        "lon": -60.996505,
+        "lat": 14.6507834,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Belfort, D 3, 97232 Le Lamentin, France",
+        "address_line1": "Habitation Belfort",
+        "address_line2": "D 3, 97232 Le Lamentin, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Belfort",
+            "phone": "+596 696 25 25 89",
+            "osm_id": 12127873601,
+            "tourism": "attraction",
+            "website": "https://www.visitebelfort.com/",
+            "osm_type": "n",
+            "addr:street": "Chemin Soudon",
+            "addr:postcode": 97232,
+            "contact:facebook": "https://facebook.com/share/LnWd731E5p7ZGPCs",
+            "contact:instagram": "visitebelfort"
+          }
+        },
+        "website": "https://www.visitebelfort.com/",
+        "contact": {
+          "phone": "+596 696 25 25 89"
+        },
+        "place_id": "5175a6d0798d7f4ec0599c68567b334d2d40f00103f90141aae0d20200000092031248616269746174696f6e2042656c666f7274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.99650499999999,
+          14.650783399866036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardin de Balata",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fort-de-France",
+        "municipality": "Fort-de-France",
+        "postcode": "97234",
+        "street": "La Trace",
+        "iso3166_2": "FR-972",
+        "lon": -61.0919655669911,
+        "lat": 14.6710532,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Jardin de Balata, La Trace, 97234 Fort-de-France, France",
+        "address_line1": "Jardin de Balata",
+        "address_line2": "La Trace, 97234 Fort-de-France, France",
+        "categories": [
+          "leisure",
+          "leisure.park",
+          "leisure.park.garden",
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jardin de Balata",
+            "osm_id": -15791047,
+            "leisure": "garden",
+            "tourism": "attraction",
+            "website": "https://www.jardindebalata.fr/",
+            "osm_type": "r",
+            "wheelchair": "limited",
+            "garden:type": "botanical"
+          }
+        },
+        "website": "https://www.jardindebalata.fr/",
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "place_id": "51dc4a1787c58b4ec059429ff64894572d40f00101f901c7f3f000000000009203104a617264696e2064652042616c617461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.09196556699109,
+          14.671053199868428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taxi Cap",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Sainte-Anne",
+        "hamlet": "Cap Chevalier",
+        "municipality": "Le Marin",
+        "postcode": "97227",
+        "district": "Lagrandcourt",
+        "street": "Voie Communale du Cap Chevalier",
+        "iso3166_2": "FR-972",
+        "lon": -60.83020988832237,
+        "lat": 14.43528435,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Taxi Cap, Voie Communale du Cap Chevalier, 97227 Sainte-Anne, France",
+        "address_line1": "Taxi Cap",
+        "address_line2": "Voie Communale du Cap Chevalier, 97227 Sainte-Anne, France",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Taxi Cap",
+            "wall": "no",
+            "email": "taxi.cap@wanadoo.fr",
+            "phone": "06 96 45 44 60;05 96 74 76 61",
+            "osm_id": 84854467,
+            "tourism": "attraction",
+            "building": "roof",
+            "osm_type": "w"
+          }
+        },
+        "contact": {
+          "phone": "06 96 45 44 60;05 96 74 76 61",
+          "email": "taxi.cap@wanadoo.fr"
+        },
+        "building": {
+          "type": "roof"
+        },
+        "place_id": "5186944f51446a4ec0598c0d1e97ddde2c40f00102f901c3c60e05000000009203085461786920436170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.83020988832236,
+          14.435284349840707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Depaz",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Saint-Pierre",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "N 2",
+        "iso3166_2": "FR-972",
+        "lon": -61.16546620773195,
+        "lat": 14.75970515,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Depaz, N 2, 97250 Saint-Pierre, France",
+        "address_line1": "Habitation Depaz",
+        "address_line2": "N 2, 97250 Saint-Pierre, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Depaz",
+            "osm_id": 119900313,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w",
+            "start_date": 1922,
+            "opening_hours": "Mo-Sa 09:00-17:00"
+          }
+        },
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "historic": {
+          "type": "manor",
+          "start_date": 1922
+        },
+        "building": {
+          "start_date": 1922
+        },
+        "place_id": "51a26627ff2d954ec05948aaca12f8842d40f00102f901998825070000000092031048616269746174696f6e20446570617a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16546620773194,
+          14.759705149878883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canal de Beauregard",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Carbet",
+        "municipality": "Saint-Pierre",
+        "postcode": "97221",
+        "street": "Route des Bénédictines",
+        "iso3166_2": "FR-972",
+        "lon": -61.1553461,
+        "lat": 14.7255439,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Canal de Beauregard, Route des Bénédictines, 97221 Le Carbet, France",
+        "address_line1": "Canal de Beauregard",
+        "address_line2": "Route des Bénédictines, 97221 Le Carbet, France",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Canal de Beauregard",
+            "osm_id": 164231118,
+            "highway": "footway",
+            "tourism": "attraction",
+            "z_order": 100,
+            "alt_name": "Canal des Esclaves",
+            "osm_type": "w",
+            "wikidata": "Q120645145"
+          }
+        },
+        "name_other": {
+          "alt_name": "Canal des Esclaves"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q120645145"
+        },
+        "place_id": "51d4878961e2934ec059b38c737d7a732d40f00102f901cef7c9090000000092031343616e616c2064652042656175726567617264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1553461,
+          14.725543899874856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Pecoul",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Basse-Pointe",
+        "isolated_dwelling": "Chalvet",
+        "municipality": "La Trinité",
+        "postcode": "97218",
+        "street": "N 1",
+        "iso3166_2": "FR-972",
+        "lon": -61.10065371181102,
+        "lat": 14.8575228,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Pecoul, N 1, 97218 Basse-Pointe, France",
+        "address_line1": "Habitation Pecoul",
+        "address_line2": "N 1, 97218 Basse-Pointe, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "heritage",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.heritage",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Pecoul",
+            "osm_id": 178917610,
+            "ref:mhs": "PA00105935",
+            "tourism": "attraction",
+            "building": "yes",
+            "heritage": 2,
+            "historic": "manor",
+            "osm_type": "w",
+            "wikidata": "Q22957318",
+            "start_date": "C18",
+            "heritage:operator": "mhs",
+            "mhs:inscription_date": "1996-12-12"
+          }
+        },
+        "ref_other": {
+          "mhs": "PA00105935"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q22957318"
+        },
+        "historic": {
+          "type": "manor",
+          "start_date": "C18"
+        },
+        "heritage": {
+          "level": 2,
+          "operator": "mhs",
+          "ref": "PA00105935",
+          "inscription_date": "1996-12-12"
+        },
+        "building": {
+          "start_date": "C18"
+        },
+        "place_id": "5185398838e28c4ec05921357a3a0db72d40f00102f901ea10aa0a0000000092031148616269746174696f6e205065636f756c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10065371181103,
+          14.857522799890434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Leyritz",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Basse-Pointe",
+        "hamlet": "Leyritz",
+        "municipality": "La Trinité",
+        "postcode": "97218",
+        "street": "D 21",
+        "iso3166_2": "FR-972",
+        "lon": -61.11238896210826,
+        "lat": 14.846808,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Leyritz, D 21, 97218 Basse-Pointe, France",
+        "address_line1": "Habitation Leyritz",
+        "address_line2": "D 21, 97218 Basse-Pointe, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "heritage",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.heritage",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Leyritz",
+            "osm_id": 178919769,
+            "ref:mhs": "PA97200034",
+            "tourism": "attraction",
+            "building": "yes",
+            "heritage": 3,
+            "historic": "manor",
+            "osm_type": "w",
+            "wikidata": "Q57709558",
+            "start_date": "C17",
+            "heritage:operator": "mhs",
+            "mhs:inscription_date": "2014-05-09"
+          }
+        },
+        "ref_other": {
+          "mhs": "PA97200034"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q57709558"
+        },
+        "historic": {
+          "type": "manor",
+          "start_date": "C17"
+        },
+        "heritage": {
+          "level": 3,
+          "operator": "mhs",
+          "ref": "PA97200034",
+          "inscription_date": "2014-05-09"
+        },
+        "building": {
+          "start_date": "C17"
+        },
+        "place_id": "51db57f2c2628e4ec059c20773d190b12d40f00102f9015919aa0a0000000092031248616269746174696f6e204c65797269747a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.11238896210826,
+          14.846807999889169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sulphur Springs",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Soufrière",
+        "city": "Soufrière",
+        "hamlet": "Sulphur Springs",
+        "postcode": "LC00 124",
+        "street": "Sulphur Springs Road",
+        "iso3166_2": "LC-10",
+        "lon": -61.046620090403366,
+        "lat": 13.83864085,
+        "formatted": "Sulphur Springs Road, Soufrière, Saint Lucia",
+        "address_line1": "Sulphur Springs Road",
+        "address_line2": "Soufrière, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sulphur Springs",
+            "osm_id": 257640501,
+            "tourism": "attraction",
+            "geologic": "volcanic",
+            "osm_type": "w",
+            "wikipedia": "en:Sulphur Springs, Saint Lucia",
+            "description": "Volcanic sulphur springs, \"world's only drive in volcano\"."
+          }
+        },
+        "description": "Volcanic sulphur springs, \"world's only drive in volcano\".",
+        "wiki_and_media": {
+          "wikipedia": "en:Sulphur Springs, Saint Lucia"
+        },
+        "place_id": "513ccfa9a5f7854ec059bab75d5562ad2b40f00102f90135485b0f0000000092030f53756c7068757220537072696e6773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.046620090403366,
+          13.83864084977164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phare de la Caravelle",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "La Trinité",
+        "municipality": "La Trinité",
+        "postcode": "97220",
+        "street": "Sentier des mares",
+        "iso3166_2": "FR-972",
+        "lon": -60.881895055329494,
+        "lat": 14.77235125,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Phare de la Caravelle, Sentier des mares, 97220 La Trinité, France",
+        "address_line1": "Phare de la Caravelle",
+        "address_line2": "Sentier des mares, 97220 La Trinité, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.service",
+          "building.tourism",
+          "heritage",
+          "man_made",
+          "man_made.lighthouse",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.lighthouse"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.heritage",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 148,
+            "name": "Phare de la Caravelle",
+            "height": 14,
+            "osm_id": 287488702,
+            "ref:mhs": "PA97200033",
+            "ref:nga": "110-14932",
+            "tourism": "attraction",
+            "building": "yes",
+            "heritage": 3,
+            "historic": "yes",
+            "man_made": "lighthouse",
+            "osm_type": "w",
+            "wikidata": "Q3378291",
+            "wikipedia": "fr:Phare de La Caravelle",
+            "start_date": 1861,
+            "seamark:name": "La Caravelle",
+            "seamark:type": "landmark",
+            "ref:admiralty": "J5772",
+            "heritage:operator": "mhs",
+            "wikimedia_commons": "File:TiFoX-réserve protégée-7.jpg",
+            "seamark:information": "Yellow square tower, white lantern",
+            "mhs:inscription_date": "2013-12-16",
+            "seamark:light:1:group": 3,
+            "seamark:light:1:range": 22,
+            "seamark:light:1:colour": "white",
+            "seamark:light:1:height": 161,
+            "seamark:light:1:period": 15,
+            "seamark:landmark:colour": "white;red",
+            "seamark:landmark:height": 14,
+            "seamark:light:1:sequence": "0.2+(2.8)+0.2+(2.8)+0.2+(8.8)",
+            "seamark:landmark:category": "tower",
+            "seamark:landmark:function": "light_support",
+            "seamark:light:1:character": "Fl",
+            "seamark:light:1:sector_end": 345,
+            "seamark:light:1:sector_start": 113,
+            "seamark:landmark:colour_pattern": "horizontal"
+          }
+        },
+        "ref_other": {
+          "mhs": "PA97200033",
+          "nga": "110-14932",
+          "admiralty": "J5772"
+        },
+        "ele": 148,
+        "wiki_and_media": {
+          "wikidata": "Q3378291",
+          "wikipedia": "fr:Phare de La Caravelle",
+          "wikimedia_commons": "File:TiFoX-réserve protégée-7.jpg"
+        },
+        "historic": {
+          "start_date": 1861,
+          "object_type": "lighthouse"
+        },
+        "heritage": {
+          "level": 3,
+          "operator": "mhs",
+          "ref": "PA97200033",
+          "inscription_date": "2013-12-16"
+        },
+        "building": {
+          "start_date": 1861,
+          "height": 14
+        },
+        "place_id": "517892eaefe1704ec0599c857e9f718b2d40f00102f901beba2211000000009203155068617265206465206c61204361726176656c6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.881895055329494,
+          14.77235124988038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paula's Place",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Anse La Raye",
+        "city": "Anse La Raye",
+        "hamlet": "Anse Galet",
+        "district": "Les Chaudieres",
+        "street": "Castries - Soufrière Highway",
+        "iso3166_2": "LC-01",
+        "lon": -61.04567171810056,
+        "lat": 13.93547515,
+        "formatted": "Paula's Place, Castries - Soufrière Highway, Anse La Raye, Saint Lucia",
+        "address_line1": "Paula's Place",
+        "address_line2": "Castries - Soufrière Highway, Anse La Raye, Saint Lucia",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.tourism",
+          "commercial",
+          "commercial.convenience",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Paula's Place",
+            "shop": "convenience",
+            "osm_id": 398212226,
+            "tourism": "attraction",
+            "building": "commercial",
+            "osm_type": "w",
+            "opening_hours": "Mo-Sa 08:00-20:00"
+          }
+        },
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "building": {
+          "type": "commercial"
+        },
+        "commercial": {
+          "type": "convenience"
+        },
+        "place_id": "5109cc2392d8854ec0592a134d99f6de2b40f00102f901823cbc170000000092030d5061756c61277320506c616365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.04567171810056,
+          13.935475149782707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Saint-Jacques",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Sainte-Marie",
+        "hamlet": "Épineux",
+        "municipality": "La Trinité",
+        "postcode": "97230",
+        "street": "D 23",
+        "iso3166_2": "FR-972",
+        "lon": -61.0089723984025,
+        "lat": 14.79622075,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Saint-Jacques, D 23, 97230 Sainte-Marie, France",
+        "address_line1": "Habitation Saint-Jacques",
+        "address_line2": "D 23, 97230 Sainte-Marie, France",
+        "categories": [
+          "heritage",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.heritage",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Saint-Jacques",
+            "osm_id": 480797112,
+            "ref:mhs": "PA00105947",
+            "tourism": "attraction",
+            "heritage": 3,
+            "historic": "manor",
+            "osm_type": "w",
+            "wikidata": "Q22957326",
+            "start_date": "C17",
+            "heritage:operator": "mhs",
+            "mhs:inscription_date": "1980-05-27"
+          }
+        },
+        "ref_other": {
+          "mhs": "PA00105947"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q22957326"
+        },
+        "historic": {
+          "type": "manor",
+          "start_date": "C17"
+        },
+        "heritage": {
+          "level": 3,
+          "operator": "mhs",
+          "ref": "PA00105947",
+          "inscription_date": "1980-05-27"
+        },
+        "place_id": "514adaee0126814ec059344a023faa972d40f00102f901b861a81c0000000092031848616269746174696f6e205361696e742d4a616371756573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.00897239840249,
+          14.796220749883197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Village De La Poterie",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Les Trois-Îlets",
+        "hamlet": "Village de la Poterie",
+        "municipality": "Le Marin",
+        "postcode": "97229",
+        "street": "D 7",
+        "iso3166_2": "FR-972",
+        "lon": -61.011514609852085,
+        "lat": 14.5360581,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Le Village De La Poterie, D 7, 97229 Les Trois-Îlets, France",
+        "address_line1": "Le Village De La Poterie",
+        "address_line2": "D 7, 97229 Les Trois-Îlets, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Le Village De La Poterie",
+            "osm_id": 1161463175,
+            "landuse": "retail",
+            "tourism": "attraction",
+            "website": "https://www.artiste-potier.com/",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://www.artiste-potier.com/",
+        "place_id": "51d65e8c4f79814ec059c03e0f3576122d40f00102f90187853a45000000009203184c652056696c6c616765204465204c6120506f7465726965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.011514609852085,
+          14.53605809985254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mémorial Cap 110",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Diamant",
+        "municipality": "Le Marin",
+        "postcode": "97223",
+        "street": "Promenade Aimé Césaire",
+        "iso3166_2": "FR-972",
+        "lon": -61.0463974,
+        "lat": 14.4642367,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Mémorial Cap 110, Promenade Aimé Césaire, 97223 Le Diamant, France",
+        "address_line1": "Mémorial Cap 110",
+        "address_line2": "Promenade Aimé Césaire, 97223 Le Diamant, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.monument"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mémorial Cap 110",
+            "osm_id": 1723247184,
+            "tourism": "artwork",
+            "alt_name": "Mémorial de l'Anse Caffard",
+            "historic": "monument",
+            "osm_type": "n",
+            "wikidata": "Q2936986",
+            "wikipedia": "fr:Cap 110",
+            "start_date": "1998-05-22",
+            "artist_name": "Laurent Valère",
+            "artwork_type": "sculpture"
+          }
+        },
+        "name_other": {
+          "alt_name": "Mémorial de l'Anse Caffard"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2936986",
+          "wikipedia": "fr:Cap 110"
+        },
+        "historic": {
+          "type": "monument",
+          "start_date": "1998-05-22",
+          "artwork_type": "sculpture"
+        },
+        "artwork": {
+          "artist_name": "Laurent Valère",
+          "artwork_type": "sculpture",
+          "start_date": "1998-05-22"
+        },
+        "place_id": "514acf9959f0854ec059e2ddc66eb0ed2c40f00103f90150aab666000000009203114dc3a96d6f7269616c2043617020313130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.046397400000004,
+          14.464236699844097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montagne du Vauclin",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Vauclin",
+        "municipality": "Le Marin",
+        "postcode": "97280",
+        "street": "Chemin de Croix N°1",
+        "iso3166_2": "FR-972",
+        "lon": -60.8830044,
+        "lat": 14.5559385,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Montagne du Vauclin, Chemin de Croix N°1, 97280 Le Vauclin, France",
+        "address_line1": "Montagne du Vauclin",
+        "address_line2": "Chemin de Croix N°1, 97280 Le Vauclin, France",
+        "categories": [
+          "natural",
+          "natural.mountain",
+          "natural.mountain.peak",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 504,
+            "name": "Montagne du Vauclin",
+            "osm_id": 3465989363,
+            "natural": "peak",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "wikidata": "Q27728644"
+          }
+        },
+        "ele": 504,
+        "wiki_and_media": {
+          "wikidata": "Q27728644"
+        },
+        "place_id": "51b01cc64906714ec0598eed96f8a31c2d40f00103f901f3cc96ce000000009203134d6f6e7461676e6520647520566175636c696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.883004400000004,
+          14.555938499854872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Petit Train de Saint-Pierre - Cyparis Express",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Saint-Pierre",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Rue Bouille",
+        "iso3166_2": "FR-972",
+        "lon": -61.1764329,
+        "lat": 14.7450884,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Historical Train - Cyparis Express, Rue Bouille, 97250 Saint-Pierre, France",
+        "address_line1": "Historical Train - Cyparis Express",
+        "address_line2": "Rue Bouille, 97250 Saint-Pierre, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Le Petit Train de Saint-Pierre - Cyparis Express",
+            "osm_id": 5287633821,
+            "name:en": "Historical Train - Cyparis Express",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "Mo-Sa 11:00-12:30"
+          }
+        },
+        "opening_hours": "Mo-Sa 11:00-12:30",
+        "name_international": {
+          "en": "Historical Train - Cyparis Express"
+        },
+        "place_id": "5120b86f5a95964ec059e8330c3a7c7d2d40f00103f9019de32a3b010000009203304c6520506574697420547261696e206465205361696e742d506965727265202d20437970617269732045787072657373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.17643290000001,
+          14.745088399877162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison du Bagnard",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Diamant",
+        "municipality": "Le Marin",
+        "postcode": "97223",
+        "street": "Avenue Aimé Césaire",
+        "iso3166_2": "FR-972",
+        "lon": -61.047472,
+        "lat": 14.4616455,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Maison du Bagnard, Avenue Aimé Césaire, 97223 Le Diamant, France",
+        "address_line1": "Maison du Bagnard",
+        "address_line2": "Avenue Aimé Césaire, 97223 Le Diamant, France",
+        "categories": [
+          "heritage",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.heritage",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maison du Bagnard",
+            "osm_id": 5562247073,
+            "ref:mhs": "PA97200009",
+            "tourism": "attraction",
+            "heritage": 3,
+            "historic": "building",
+            "osm_type": "n",
+            "wikidata": "Q22980898",
+            "heritage:operator": "mhs",
+            "mhs:inscription_date": "2009-12-08"
+          }
+        },
+        "ref_other": {
+          "mhs": "PA97200009"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q22980898"
+        },
+        "historic": {
+          "type": "building"
+        },
+        "heritage": {
+          "level": 3,
+          "operator": "mhs",
+          "ref": "PA97200009",
+          "inscription_date": "2009-12-08"
+        },
+        "place_id": "51e2bcff8f13864ec0596e5988cc5cec2c40f00103f901a127894b010000009203114d6169736f6e206475204261676e617264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.047471999999985,
+          14.461645499843794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aquaholics Kite surfing School",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Gros Islet",
+        "city": "Windward Hills",
+        "postcode": "LC01 601",
+        "street": "Cas-en-Bas Beach Access Road",
+        "iso3166_2": "LC-06",
+        "lon": -60.926738,
+        "lat": 14.0910938,
+        "formatted": "Aquaholics Kite surfing School, Cas-en-Bas Beach Access Road, Windward Hills, Saint Lucia",
+        "address_line1": "Aquaholics Kite surfing School",
+        "address_line2": "Cas-en-Bas Beach Access Road, Windward Hills, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aquaholics Kite surfing School",
+            "osm_id": 5604492521,
+            "tourism": "attraction",
+            "website": "https://m.facebook.com/aquaholicsSLU/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://m.facebook.com/aquaholicsSLU/",
+        "place_id": "51f0facc599f764ec0592b06b6d8a32e2c40f00103f901e9c40d4e0100000092031e41717561686f6c696373204b6974652073757266696e67205363686f6f6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.926738,
+          14.091093799800623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moulin à bêtes",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le François",
+        "municipality": "Le Marin",
+        "postcode": "97240",
+        "street": "D 6",
+        "iso3166_2": "FR-972",
+        "lon": -60.90576650385027,
+        "lat": 14.6010451,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Moulin à bêtes, D 6, 97240 Le François, France",
+        "address_line1": "Moulin à bêtes",
+        "address_line2": "D 6, 97240 Le François, France",
+        "categories": [
+          "building",
+          "building.tourism",
+          "man_made",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Moulin à bêtes",
+            "image": "https://kartaview.org/details/7072697/0",
+            "osm_id": 1161187894,
+            "tourism": "attraction",
+            "building": "roof",
+            "man_made": "mill",
+            "osm_type": "w"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://kartaview.org/details/7072697/0"
+        },
+        "building": {
+          "type": "roof"
+        },
+        "place_id": "51b1ec2328f0734ec0591ca4ee2ebc332d40f00102f90136523645000000009203104d6f756c696e20c3a02062c3aa746573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.905766503850266,
+          14.60104509986018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soufriere Beach Park",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Soufrière",
+        "city": "Belvedere",
+        "postcode": "LC00 124",
+        "district": "Colombette",
+        "suburb": "Riverside Road",
+        "street": "Castries - Soufrière Highway",
+        "iso3166_2": "LC-10",
+        "lon": -61.06212259573697,
+        "lat": 13.8579243,
+        "formatted": "Soufriere Beach Park, Castries - Soufrière Highway, Belvedere, Saint Lucia",
+        "address_line1": "Soufriere Beach Park",
+        "address_line2": "Castries - Soufrière Highway, Belvedere, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Soufriere Beach Park",
+            "osm_id": -9473033,
+            "tourism": "attraction",
+            "osm_type": "r"
+          }
+        },
+        "place_id": "5137841aa2f3874ec059d5f193da41b72b40f00101f901098c900000000000920314536f75667269657265204265616368205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.06212259573697,
+          13.857924299773837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torgiléo",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Bellefontaine",
+        "municipality": "Saint-Pierre",
+        "postcode": "97222",
+        "suburb": "Cité Cheval Blanc",
+        "street": "Rue Félix Eboué",
+        "iso3166_2": "FR-972",
+        "lon": -61.16342327668866,
+        "lat": 14.6726818,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Torgiléo, Rue Félix Eboué, 97222 Bellefontaine, France",
+        "address_line1": "Torgiléo",
+        "address_line2": "Rue Félix Eboué, 97222 Bellefontaine, France",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Torgiléo",
+            "osm_id": 42438354,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513864ce0deb944ec059a819b6bf69582d40f00102f901d28e870200000000920309546f7267696cc3a96f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16342327668866,
+          14.672681799868613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ancienne Station Thermale d'Absalon",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fort-de-France",
+        "municipality": "Fort-de-France",
+        "postcode": "97234",
+        "street": "D 60",
+        "iso3166_2": "FR-972",
+        "lon": -61.095145405547996,
+        "lat": 14.67683345,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Ancienne Station Thermale d'Absalon, D 60, 97234 Fort-de-France, France",
+        "address_line1": "Ancienne Station Thermale d'Absalon",
+        "address_line2": "D 60, 97234 Fort-de-France, France",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ancienne Station Thermale d'Absalon",
+            "osm_id": 94859154,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51be9882b92d8c4ec059aa0df8e9895a2d40f00102f901926fa70500000000920323416e6369656e6e652053746174696f6e20546865726d616c65206427416273616c6f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.095145405547996,
+          14.676833449869111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Maison du Moine",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Basse-Pointe",
+        "municipality": "La Trinité",
+        "postcode": "97218",
+        "street": "Chemin des Hauteurs Bourdon",
+        "iso3166_2": "FR-972",
+        "lon": -61.16380418704918,
+        "lat": 14.840943750000001,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "La Maison du Moine, Chemin des Hauteurs Bourdon, 97218 Basse-Pointe, France",
+        "address_line1": "La Maison du Moine",
+        "address_line2": "Chemin des Hauteurs Bourdon, 97218 Basse-Pointe, France",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Maison du Moine",
+            "osm_id": 125071177,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "517c291d89f7944ec059e017df2d90ae2d40f00102f901496f7407000000009203124c61204d6169736f6e206475204d6f696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16380418704918,
+          14.840943749888481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Charpentier",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Marigot",
+        "municipality": "La Trinité",
+        "postcode": "97225",
+        "street": "N 1",
+        "iso3166_2": "FR-972",
+        "lon": -61.02158507843633,
+        "lat": 14.81024095,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Charpentier, N 1, 97225 Le Marigot, France",
+        "address_line1": "Habitation Charpentier",
+        "address_line2": "N 1, 97225 Le Marigot, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Charpentier",
+            "osm_id": 125338945,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "5199fbc24cc3824ec0595545dbe6d79e2d40f00102f901418578070000000092031648616269746174696f6e204368617270656e74696572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.021585078436324,
+          14.810240949884852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Bellevue",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Marigot",
+        "municipality": "La Trinité",
+        "postcode": "97225",
+        "street": "D 15",
+        "iso3166_2": "FR-972",
+        "lon": -61.03539293190654,
+        "lat": 14.809974,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Bellevue, D 15, 97225 Le Marigot, France",
+        "address_line1": "Habitation Bellevue",
+        "address_line2": "D 15, 97225 Le Marigot, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Bellevue",
+            "osm_id": 125339134,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "5129866ec187844ec059313b80e9b49e2d40f00102f901fe8578070000000092031348616269746174696f6e2042656c6c65767565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.035392931906536,
+          14.80997399988482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Prêcheur",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Habitation Céron",
+        "iso3166_2": "FR-972",
+        "lon": -61.219667225847076,
+        "lat": 14.83098525,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Céron, 97250 Le Prêcheur, France",
+        "address_line1": "Habitation Céron",
+        "address_line2": "97250 Le Prêcheur, France",
+        "name": "Habitation Céron",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Céron",
+            "osm_id": 125350812,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "5112823f0e1e9c4ec059de720fe676a92d40f00102f9019cb378070000000092031148616269746174696f6e2043c3a9726f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.21966722584706,
+          14.830985249887302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison principale",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le François",
+        "municipality": "Le Marin",
+        "postcode": "97240",
+        "street": "D 6",
+        "iso3166_2": "FR-972",
+        "lon": -60.90767438572679,
+        "lat": 14.602019299999998,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Maison principale, D 6, 97240 Le François, France",
+        "address_line1": "Maison principale",
+        "address_line2": "D 6, 97240 Le François, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maison principale",
+            "osm_id": 177740864,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "51860e9dac2e744ec059eaeba8df3b342d40f00102f901401c980a000000009203114d6169736f6e207072696e636970616c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.90767438572679,
+          14.602019299860292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation du Simon",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le François",
+        "municipality": "Le Marin",
+        "postcode": "97240",
+        "street": "N 6",
+        "iso3166_2": "FR-972",
+        "lon": -60.867931013403265,
+        "lat": 14.5887292,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation du Simon, N 6, 97240 Le François, France",
+        "address_line1": "Habitation du Simon",
+        "address_line2": "N 6, 97240 Le François, France",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.historic",
+          "building.tourism",
+          "commercial",
+          "commercial.food_and_drink",
+          "commercial.food_and_drink.drinks",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation du Simon",
+            "shop": "alcohol",
+            "osm_id": 177752525,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "commercial": {
+          "type": "alcohol"
+        },
+        "place_id": "5124e00a5d186f4ec059de2fe7e96d2d2d40f00102f901cd49980a0000000092031348616269746174696f6e2064752053696d6f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.86793101340325,
+          14.58872919985873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Rivière Lézarde",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Lamentin",
+        "municipality": "Fort-de-France",
+        "postcode": "97232",
+        "street": "D 3",
+        "iso3166_2": "FR-972",
+        "lon": -60.99661418403313,
+        "lat": 14.659937,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Rivière Lézarde, D 3, 97232 Le Lamentin, France",
+        "address_line1": "Habitation Rivière Lézarde",
+        "address_line2": "D 3, 97232 Le Lamentin, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Rivière Lézarde",
+            "osm_id": 178382701,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "517493b70d917f4ec059fcb22f43e3512d40f00102f9016de7a10a0000000092031c48616269746174696f6e2052697669c3a87265204cc3a97a61726465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.99661418403312,
+          14.659936999867107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Jonction",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Saint-Joseph",
+        "municipality": "Fort-de-France",
+        "postcode": "97212",
+        "street": "D 27",
+        "iso3166_2": "FR-972",
+        "lon": -60.99815017917918,
+        "lat": 14.6690765,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Jonction, D 27, 97212 Saint-Joseph, France",
+        "address_line1": "Habitation Jonction",
+        "address_line2": "D 27, 97212 Saint-Joseph, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Jonction",
+            "wall": "no",
+            "osm_id": 178394042,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "511a099462c37f4ec0597ee9ea3191562d40f00102f901ba13a20a0000000092031348616269746174696f6e204a6f6e6374696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.99815017917918,
+          14.669076499868194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinity Falls",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Saint David",
+        "iso3166_2": "VC-03",
+        "lon": -61.2062875,
+        "lat": 13.3125571,
+        "formatted": "Trinity Falls, Saint David, Saint Vincent and the Grenadines",
+        "address_line1": "Trinity Falls",
+        "address_line2": "Saint David, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trinity Falls",
+            "osm_id": 281761022,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "place_id": "516a09f9a0679a4ec05973ccf27b07a02a40f00103f901fe54cb100000000092030d5472696e6974792046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.20628749999999,
+          13.312557099712853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirates of the Caribbean Movie Set Location",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Saint Patrick",
+        "city": "Barrouallie",
+        "street": "Leeward Highway",
+        "iso3166_2": "VC-05",
+        "lon": -61.27135903158186,
+        "lat": 13.246586950000001,
+        "formatted": "Pirates of the Caribbean Movie Set Location, Leeward Highway, Barrouallie, Saint Vincent and the Grenadines",
+        "address_line1": "Pirates of the Caribbean Movie Set Location",
+        "address_line2": "Leeward Highway, Barrouallie, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pirates of the Caribbean Movie Set Location",
+            "osm_id": 396950915,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51240f8be4bba24ec059643609a5407e2a40f00102f90183fda8170000000092032b50697261746573206f66207468652043617269626265616e204d6f76696520536574204c6f636174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.27135903158185,
+          13.246586949705666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balenbouche Estate",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Laborie",
+        "city": "Piaye",
+        "hamlet": "Balembouche",
+        "iso3166_2": "LC-07",
+        "lon": -61.02650787160208,
+        "lat": 13.75598815,
+        "formatted": "Balenbouche Estate, Piaye, Laborie, Saint Lucia",
+        "address_line1": "Balenbouche Estate",
+        "address_line2": "Piaye, Laborie, Saint Lucia",
+        "categories": [
+          "fee",
+          "leisure",
+          "leisure.park",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "10$EC",
+            "name": "Balenbouche Estate",
+            "osm_id": 400514196,
+            "leisure": "park",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "510acf249c64834ec059edc8f6e010832b40f00102f901945cdf170000000092031242616c656e626f7563686520457374617465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.02650787160208,
+          13.755988149762254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Thirteen Stones of Chateaubelair",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Saint David",
+        "city": "Chateaubelair",
+        "street": "Leeward Highway",
+        "iso3166_2": "VC-03",
+        "lon": -61.24422770678021,
+        "lat": 13.29083465,
+        "formatted": "The Thirteen Stones of Chateaubelair, Leeward Highway, Chateaubelair, Saint Vincent and the Grenadines",
+        "address_line1": "The Thirteen Stones of Chateaubelair",
+        "address_line2": "Leeward Highway, Chateaubelair, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Thirteen Stones of Chateaubelair",
+            "osm_id": 405520465,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51f4b27eda429f4ec059a8197a47e8942a40f00102f90151c02b180000000092032454686520546869727465656e2053746f6e6573206f66204368617465617562656c616972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.24422770678021,
+          13.290834649710476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buccament Petroglyphs",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Saint Andrew",
+        "city": "Vermont",
+        "street": "Buccament Beach Resort Road",
+        "iso3166_2": "VC-02",
+        "lon": -61.26356522728304,
+        "lat": 13.190311300000001,
+        "formatted": "Buccament Petroglyphs, Buccament Beach Resort Road, Vermont, Saint Vincent and the Grenadines",
+        "address_line1": "Buccament Petroglyphs",
+        "address_line2": "Buccament Beach Resort Road, Vermont, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buccament Petroglyphs",
+            "osm_id": 405520466,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5190c55f81bca14ec059b089907b70612a40f00102f90152c02b180000000092031542756363616d656e7420506574726f676c79706873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.26356522728304,
+          13.190311299699573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Lagrange",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Lorrain",
+        "municipality": "La Trinité",
+        "postcode": "97214",
+        "street": "D 22",
+        "iso3166_2": "FR-972",
+        "lon": -61.04656584375839,
+        "lat": 14.8173794,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Lagrange, D 22, 97214 Le Lorrain, France",
+        "address_line1": "Habitation Lagrange",
+        "address_line2": "D 22, 97214 Le Lorrain, France",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Lagrange",
+            "osm_id": 480676687,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "manor"
+        },
+        "place_id": "51c6069cdef5854ec059c8dd7d8d7fa22d40f00102f9014f8ba61c0000000092031348616269746174696f6e204c616772616e6765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.04656584375839,
+          14.817379399885695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ancien Moulin",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Vauclin",
+        "municipality": "Le Marin",
+        "postcode": "97280",
+        "street": "N 6",
+        "iso3166_2": "FR-972",
+        "lon": -60.837680457312274,
+        "lat": 14.5097642,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Ancien Moulin, N 6, 97280 Le Vauclin, France",
+        "address_line1": "Ancien Moulin",
+        "address_line2": "N 6, 97280 Le Vauclin, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ancien Moulin",
+            "osm_id": 482982968,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51c953fc1c396b4ec059c80c2ed0ff042d40f00102f90138bcc91c0000000092030d416e6369656e204d6f756c696e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.83768045731228,
+          14.509764199849442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croix Pélage",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le François",
+        "municipality": "Le Marin",
+        "postcode": "97240",
+        "street": "Morne Pitault",
+        "iso3166_2": "FR-972",
+        "lon": -60.94485002266117,
+        "lat": 14.62605455,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Croix Pélage, Morne Pitault, 97240 Le François, France",
+        "address_line1": "Croix Pélage",
+        "address_line2": "Morne Pitault, 97240 Le François, France",
+        "categories": [
+          "religion",
+          "religion.place_of_worship",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.place_of_worship"
+        ],
+        "details": [
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Croix Pélage",
+            "osm_id": 598647049,
+            "amenity": "place_of_worship",
+            "tourism": "attraction",
+            "building": "no",
+            "osm_type": "w",
+            "addr:city": "Le François",
+            "addr:street": "Morne Pitault",
+            "denomination": "catholic",
+            "addr:postcode": 97240
+          }
+        },
+        "place_of_worship": {
+          "denomination": "catholic"
+        },
+        "place_id": "512e7a75d8f0784ec0592a59d2388a402d40f00102f90109a1ae230000000092030d43726f69782050c3a96c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.94485002266116,
+          14.626054549863131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruine de fabrique de farine de Manioc",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le François",
+        "municipality": "Le Marin",
+        "postcode": "97240",
+        "street": "Morne Pitault",
+        "iso3166_2": "FR-972",
+        "lon": -60.94485241459155,
+        "lat": 14.6244629,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Ruine de fabrique de farine de Manioc, Morne Pitault, 97240 Le François, France",
+        "address_line1": "Ruine de fabrique de farine de Manioc",
+        "address_line2": "Morne Pitault, 97240 Le François, France",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ruine de fabrique de farine de Manioc",
+            "osm_id": 598651889,
+            "tourism": "attraction",
+            "building": "ruins",
+            "osm_type": "w",
+            "addr:city": "Le François",
+            "addr:street": "Morne Pitault",
+            "addr:postcode": 97240
+          }
+        },
+        "building": {
+          "type": "ruins"
+        },
+        "place_id": "51d21b86ecf0784ec05908f4e899b93f2d40f00102f901f1b3ae23000000009203255275696e6520646520666162726971756520646520666172696e65206465204d616e696f63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.94485241459155,
+          14.624462899862934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anncienne distillerie de Bally",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Carbet",
+        "municipality": "Saint-Pierre",
+        "postcode": "97221",
+        "district": "Grand Anse Nord",
+        "street": "D 20",
+        "iso3166_2": "FR-972",
+        "lon": -61.17808142006151,
+        "lat": 14.70669015,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Anncienne distillerie de Bally, D 20, 97221 Le Carbet, France",
+        "address_line1": "Anncienne distillerie de Bally",
+        "address_line2": "D 20, 97221 Le Carbet, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Anncienne distillerie de Bally",
+            "osm_id": 928086830,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "513e98395fcb964ec0596f37944ad3692d40f00102f9012e7b51370000000092031e416e6e6369656e6e652064697374696c6c657269652064652042616c6c79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1780814200615,
+          14.706690149872626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Observatoire Ornithologique",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Sainte-Anne",
+        "municipality": "Le Marin",
+        "postcode": "97227",
+        "street": "D 9",
+        "iso3166_2": "FR-972",
+        "lon": -60.8745496,
+        "lat": 14.3995623,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Observatoire Ornithologique, D 9, 97227 Sainte-Anne, France",
+        "address_line1": "Observatoire Ornithologique",
+        "address_line2": "D 9, 97227 Sainte-Anne, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Observatoire Ornithologique",
+            "osm_id": 1098198681,
+            "leisure": "bird_hide",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 90
+          }
+        },
+        "place_id": "516d5dc53df16f4ec0595906056e93cc2c40f00103f901992e75410000000092031b4f627365727661746f697265204f726e6974686f6c6f6769717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.8745496,
+          14.39956229983652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Observatoire Ornithologique",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Sainte-Anne",
+        "municipality": "Le Marin",
+        "postcode": "97227",
+        "street": "D 9",
+        "iso3166_2": "FR-972",
+        "lon": -60.8752519,
+        "lat": 14.3993434,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Observatoire Ornithologique, D 9, 97227 Sainte-Anne, France",
+        "address_line1": "Observatoire Ornithologique",
+        "address_line2": "D 9, 97227 Sainte-Anne, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Observatoire Ornithologique",
+            "osm_id": 1098198801,
+            "leisure": "bird_hide",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 65
+          }
+        },
+        "place_id": "518421174108704ec059ac57f4bc76cc2c40f00103f901112f75410000000092031b4f627365727661746f697265204f726e6974686f6c6f6769717565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.875251899999995,
+          14.399343399836503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point de vue sur le Rocher du Diamant",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Les Anses-d'Arlet",
+        "municipality": "Le Marin",
+        "postcode": "97217",
+        "street": "Route de Petite Anse",
+        "iso3166_2": "FR-972",
+        "lon": -61.0570296,
+        "lat": 14.4551231,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Point de vue sur le Rocher du Diamant, Route de Petite Anse, 97217 Les Anses-d'Arlet, France",
+        "address_line1": "Point de vue sur le Rocher du Diamant",
+        "address_line2": "Route de Petite Anse, 97217 Les Anses-d'Arlet, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Point de vue sur le Rocher du Diamant",
+            "osm_id": 1149341465,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 125
+          }
+        },
+        "place_id": "51b373f5be4c874ec059baf51ae505e92c40f00103f901198f814400000000920325506f696e742064652076756520737572206c6520526f63686572206475204469616d616e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.057029599999986,
+          14.455123099843025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Distillerie La Mauny",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Rivière-Pilote",
+        "municipality": "Le Marin",
+        "postcode": "97211",
+        "district": "Mayol",
+        "street": "N 8",
+        "iso3166_2": "FR-972",
+        "lon": -60.9066803,
+        "lat": 14.5061351,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Distillerie La Mauny, N 8, 97211 Rivière-Pilote, France",
+        "address_line1": "Distillerie La Mauny",
+        "address_line2": "N 8, 97211 Rivière-Pilote, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Distillerie La Mauny",
+            "osm_id": 1149385211,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b7369e190e744ec059226bca2324032d40f00103f901fb3982440000000092031444697374696c6c65726965204c61204d61756e79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9066803,
+          14.506135099849022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visite guidée distillerie",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Rivière-Pilote",
+        "municipality": "Le Marin",
+        "postcode": "97211",
+        "street": "N 8",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -60.9051984,
+        "lat": 14.5111886,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Visite guidée distillerie, N 8, 97211 Rivière-Pilote, France",
+        "address_line1": "Visite guidée distillerie",
+        "address_line2": "N 8, 97211 Rivière-Pilote, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Visite guidée distillerie",
+            "osm_id": 1151721117,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511e328a8add734ec0595ee21c83ba052d40f00103f9019ddea5440000000092031a5669736974652067756964c3a9652064697374696c6c65726965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9051984,
+          14.511188599849614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pigeon Is. interpretation Center",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Gros Islet",
+        "city": "Becune Point",
+        "postcode": "LC01 601",
+        "street": "Robert J. Devaux Drive",
+        "iso3166_2": "LC-06",
+        "lon": -60.9622752,
+        "lat": 14.0939255,
+        "formatted": "Pigeon Is. interpretation Center, Robert J. Devaux Drive, Becune Point, Saint Lucia",
+        "address_line1": "Pigeon Is. interpretation Center",
+        "address_line2": "Robert J. Devaux Drive, Becune Point, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pigeon Is. interpretation Center",
+            "osm_id": 1224782919,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513be070d52b7b4ec059a2cfcb0017302c40f00103f90147b4004900000000920320506967656f6e2049732e20696e746572707265746174696f6e2043656e746572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.962275199999986,
+          14.09392549980095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shopping District",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fort-de-France",
+        "municipality": "Fort-de-France",
+        "postcode": "97200",
+        "street": "Rue Isambert",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.0717332,
+        "lat": 14.6047963,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Shopping District, Rue Isambert, 97200 Fort-de-France, France",
+        "address_line1": "Shopping District",
+        "address_line2": "Rue Isambert, 97200 Fort-de-France, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Shopping District",
+            "osm_id": 1626468629,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c804b28d2e894ec059504951dca7352d40f00103f90115f1f1600000000092031153686f7070696e67204469737472696374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07173319999998,
+          14.604796299860624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascade de Saut Gendarme",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fonds-Saint-Denis",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Route Départementale 1",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1051063,
+        "lat": 14.7249461,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Cascade de Saut Gendarme, Route Départementale 1, 97250 Fonds-Saint-Denis, France",
+        "address_line1": "Cascade de Saut Gendarme",
+        "address_line2": "Route Départementale 1, 97250 Fonds-Saint-Denis, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cascade de Saut Gendarme",
+            "osm_id": 1675486363,
+            "name:de": "Wasserfall",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "name_international": {
+          "de": "Wasserfall"
+        },
+        "place_id": "51438d8c1f748d4ec0595ba69c222c732d40f00103f9019be4dd63000000009203184361736361646520646520536175742047656e6461726d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10510630000001,
+          14.724946099874776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morne Jacob",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Morne-Rouge",
+        "municipality": "Saint-Pierre",
+        "postcode": "97260",
+        "street": "Chemin de l'Hôpital",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.0854745,
+        "lat": 14.7691451,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Morne Jacob, Chemin de l'Hôpital, 97260 Le Morne-Rouge, France",
+        "address_line1": "Morne Jacob",
+        "address_line2": "Chemin de l'Hôpital, 97260 Le Morne-Rouge, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Morne Jacob",
+            "osm_id": 1758783608,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "designation": "Morne Ja cob"
+          }
+        },
+        "place_id": "512b1213d4f08a4ec059f7b9f362cd892d40f00103f90178e8d4680000000092030b4d6f726e65204a61636f62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0854745,
+          14.76914509987999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croix de Bellevue",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fort-de-France",
+        "municipality": "Fort-de-France",
+        "postcode": "97200",
+        "street": "Avenue Condorcet",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.0770802,
+        "lat": 14.6040259,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Croix de Bellevue, Avenue Condorcet, 97200 Fort-de-France, France",
+        "address_line1": "Croix de Bellevue",
+        "address_line2": "Avenue Condorcet, 97200 Fort-de-France, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Croix de Bellevue",
+            "osm_id": 1940802048,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 140
+          }
+        },
+        "place_id": "51a41595c3dd894ec05906adfbe142352d40f00103f901004aae730000000092031143726f69782064652042656c6c65767565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.07708019999998,
+          14.604025899860527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sugar Beach",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Soufrière",
+        "city": "Soufrière",
+        "hamlet": "Malgretoute",
+        "postcode": "LC00 124",
+        "street": "Sugar Beach Road",
+        "iso3166_2": "LC-10",
+        "lon": -61.0618725,
+        "lat": 13.8281625,
+        "formatted": "Sugar Beach Road, Soufrière, Saint Lucia",
+        "address_line1": "Sugar Beach Road",
+        "address_line2": "Soufrière, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "hide": "yes",
+            "name": "Sugar Beach",
+            "osm_id": 2258505696,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ca022670eb874ec059509348ea04a82b40f00103f901e00f9e860000000092030b5375676172204265616368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.06187250000001,
+          13.828162499770457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soufriere",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Soufrière",
+        "city": "Soufrière",
+        "hamlet": "Ariana Lara",
+        "postcode": "LC00 124",
+        "district": "Calvaire",
+        "street": "Soufrière - Vieux Fort Highway",
+        "iso3166_2": "LC-10",
+        "lon": -61.0612149,
+        "lat": 13.8484098,
+        "formatted": "Soufriere, Soufrière - Vieux Fort Highway, Soufrière, Saint Lucia",
+        "address_line1": "Soufriere",
+        "address_line2": "Soufrière - Vieux Fort Highway, Soufrière, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Soufriere",
+            "osm_id": 2621272580,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5193c3cce3d5874ec0598542efc462b22b40f00103f90104723d9c00000000920309536f75667269657265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0612149,
+          13.848409799772762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "View point",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Castries",
+        "city": "Castries",
+        "postcode": "LC04 401",
+        "suburb": "Morne Dudon",
+        "iso3166_2": "LC-02",
+        "lon": -60.978443,
+        "lat": 14.0088162,
+        "formatted": "View point, Castries, Saint Lucia",
+        "address_line1": "View point",
+        "address_line2": "Castries, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "View point",
+            "osm_id": 2631362168,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510400c79e3d7d4ec059498e938e83042c40f00103f9017866d79c0000000092030a5669657720706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.978443,
+          14.008816199791129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Table d'orientation",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "L'Ajoupa-Bouillon",
+        "municipality": "La Trinité",
+        "postcode": "97250",
+        "street": "Sentier de la montagne Pelée",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1530109,
+        "lat": 14.8057933,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Table d'orientation, Sentier de la montagne Pelée, 97250 L'Ajoupa-Bouillon, France",
+        "address_line1": "Table d'orientation",
+        "address_line2": "Sentier de la montagne Pelée, 97250 L'Ajoupa-Bouillon, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Table d'orientation",
+            "osm_id": 3063150999,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513cb775dc95934ec0599ead7cf0909c2d40f00103f90197f993b6000000009203135461626c652064276f7269656e746174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1530109,
+          14.805793299884325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument Dufrénois",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Saint-Pierre",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Sentier de la montagne Pelée",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1623414,
+        "lat": 14.8079805,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Monument Dufrénois, Sentier de la montagne Pelée, 97250 Saint-Pierre, France",
+        "address_line1": "Monument Dufrénois",
+        "address_line2": "Sentier de la montagne Pelée, 97250 Saint-Pierre, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.wayside_cross"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Monument Dufrénois",
+            "osm_id": 3063835927,
+            "tourism": "attraction",
+            "historic": "wayside_cross",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "wayside_cross"
+        },
+        "place_id": "51b7e45d9ac7944ec059bb9ebd9eaf9d2d40f00103f901176d9eb6000000009203134d6f6e756d656e742044756672c3a96e6f6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.162341399999995,
+          14.807980499884584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mandele Lookout Point",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Dennery",
+        "city": "Praslin",
+        "hamlet": "Mamiku",
+        "postcode": "LC15 201",
+        "district": "La Croix",
+        "street": "Castries - Vieux Fort Highway",
+        "iso3166_2": "LC-05",
+        "lon": -60.8892869,
+        "lat": 13.9045149,
+        "formatted": "Mandele Lookout Point, Castries - Vieux Fort Highway, Praslin, Saint Lucia",
+        "address_line1": "Mandele Lookout Point",
+        "address_line2": "Castries - Vieux Fort Highway, Praslin, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mandele Lookout Point",
+            "osm_id": 3265602461,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516f213427d4714ec059a997b2931ccf2b40f00103f9019d23a5c2000000009203154d616e64656c65204c6f6f6b6f757420506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.889286899999995,
+          13.90451489977916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parcours Aventure",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Vauclin",
+        "village": "Sigy",
+        "municipality": "Le Marin",
+        "postcode": "97280",
+        "street": "Route du Stade",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -60.8586217,
+        "lat": 14.5428077,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Lion's Parc, Route du Stade, 97280 Le Vauclin, France",
+        "address_line1": "Lion's Parc",
+        "address_line2": "Route du Stade, 97280 Le Vauclin, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parcours Aventure",
+            "osm_id": 3464092693,
+            "leisure": "adventure_park",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516591dc50e76d4ec05928c60de4ea152d40f00103f90115dc79ce00000000920311506172636f757273204176656e74757265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.85862169999999,
+          14.542807699853327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Saint-Étienne",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Gros-Morne",
+        "municipality": "La Trinité",
+        "postcode": "97213",
+        "street": "N 4",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.0142274,
+        "lat": 14.6904722,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Saint-Étienne, N 4, 97213 Gros-Morne, France",
+        "address_line1": "Habitation Saint-Étienne",
+        "address_line2": "N 4, 97213 Gros-Morne, France",
+        "categories": [
+          "production",
+          "production.factory",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.historic",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Saint-Étienne",
+            "craft": "distillery",
+            "osm_id": 3465989359,
+            "product": "rum",
+            "ref:mhs": "PA97200013",
+            "tourism": "attraction",
+            "historic": "manor",
+            "man_made": "works",
+            "osm_type": "n",
+            "mhs:inscription_date": "2005-05-23"
+          }
+        },
+        "craft": "distillery",
+        "ref_other": {
+          "mhs": "PA97200013"
+        },
+        "historic": {
+          "type": "manor",
+          "object_type": "works"
+        },
+        "production": {
+          "product": "rum",
+          "industry": "distillery"
+        },
+        "place_id": "5184da1434d2814ec059df7b7a9285612d40f00103f901efcc96ce0000000092031948616269746174696f6e205361696e742dc3897469656e6e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.01422740000001,
+          14.690472199870724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point de vue Bois Soldat",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le François",
+        "hamlet": "Monnerot Ouest",
+        "municipality": "Le Marin",
+        "postcode": "97240",
+        "street": "Bois Soldat",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -60.888755,
+        "lat": 14.5950637,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Point de vue Bois Soldat, Bois Soldat, 97240 Le François, France",
+        "address_line1": "Point de vue Bois Soldat",
+        "address_line2": "Bois Soldat, 97240 Le François, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Point de vue Bois Soldat",
+            "osm_id": 3465989686,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 90
+          }
+        },
+        "place_id": "5108944db9c2714ec059d2dd7330ac302d40f00103f90136ce96ce00000000920318506f696e742064652076756520426f697320536f6c646174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.888755,
+          14.595063699859484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Owia Salt Pond",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Charlotte",
+        "city": "New Sandy Bay Village",
+        "hamlet": "Sion Hill",
+        "street": "Windward Highway",
+        "iso3166_2": "VC-01",
+        "lon": -61.1399433,
+        "lat": 13.3761067,
+        "formatted": "Owia Salt Pond, Windward Highway, New Sandy Bay Village, Saint Vincent and the Grenadines",
+        "address_line1": "Owia Salt Pond",
+        "address_line2": "Windward Highway, New Sandy Bay Village, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Owia Salt Pond",
+            "osm_id": 3883809284,
+            "name:en": "Owia Salt Pond",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Owia Salt Pond"
+        },
+        "place_id": "51aa657ca9e9914ec059cc34ae0e91c02a40f00103f901043a7ee70000000092030e4f7769612053616c7420506f6e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.139943299999985,
+          13.37610669971982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Savane des Pétrifications",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Sainte-Anne",
+        "municipality": "Le Marin",
+        "postcode": "97227",
+        "street": "Sentier des Caps",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -60.8594335,
+        "lat": 14.4001026,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Savane des Pétrifications, Sentier des Caps, 97227 Sainte-Anne, France",
+        "address_line1": "Savane des Pétrifications",
+        "address_line2": "Sentier des Caps, 97227 Sainte-Anne, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Savane des Pétrifications",
+            "osm_id": 3972086832,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511ccbbbea016e4ec05978af7a3fdacc2c40f00103f901303cc1ec0000000092031a536176616e65206465732050c3a97472696669636174696f6e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.859433499999994,
+          14.400102599836586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'habitation d'Anse Couleuvre",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Prêcheur",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Sentier Prêcheur Grand-Rivière",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.2177164,
+        "lat": 14.8412265,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "L'habitation d'Anse Couleuvre, Sentier Prêcheur Grand-Rivière, 97250 Le Prêcheur, France",
+        "address_line1": "L'habitation d'Anse Couleuvre",
+        "address_line2": "Sentier Prêcheur Grand-Rivière, 97250 Le Prêcheur, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "L'habitation d'Anse Couleuvre",
+            "ruins": "yes",
+            "osm_id": 3988871253,
+            "tourism": "attraction",
+            "historic": "farm",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "farm",
+          "ruins": true
+        },
+        "place_id": "51c4e68821de9b4ec0597219633db5ae2d40f00103f9015558c1ed0000000092031d4c2768616269746174696f6e206427416e736520436f756c6575767265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2177164,
+          14.84122649988851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point de vue de l'Anse Marigot",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Carbet",
+        "hamlet": "Fond Capot",
+        "municipality": "Saint-Pierre",
+        "postcode": "97221",
+        "street": "N 2",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1690012,
+        "lat": 14.6798635,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Point de vue de l'Anse Marigot, N 2, 97221 Le Carbet, France",
+        "address_line1": "Point de vue de l'Anse Marigot",
+        "address_line2": "N 2, 97221 Le Carbet, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Point de vue de l'Anse Marigot",
+            "osm_id": 4022271997,
+            "name:fr": "Point de vue de Anse Marigot.",
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 230
+          }
+        },
+        "name_international": {
+          "fr": "Point de vue de Anse Marigot."
+        },
+        "place_id": "510d7ed1d4a1954ec059ef5d9311175c2d40f00103f901fdffbeef0000000092031e506f696e7420646520767565206465206c27416e7365204d617269676f74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.169001200000004,
+          14.679863499869468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morne Le Blanc Heritage Site",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Laborie",
+        "city": "Laborie",
+        "hamlet": "Morne Paul",
+        "postcode": "LC11 101",
+        "district": "Village",
+        "street": "Morne Paul Road",
+        "iso3166_2": "LC-07",
+        "lon": -61.007218,
+        "lat": 13.7703539,
+        "formatted": "Morne Le Blanc Heritage Site, Morne Paul Road, Laborie, Saint Lucia",
+        "address_line1": "Morne Le Blanc Heritage Site",
+        "address_line2": "Morne Paul Road, Laborie, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Morne Le Blanc Heritage Site",
+            "osm_id": 4027985616,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a5f8f884ec804ec059f6a98bd36b8a2b40f00103f901d02e16f00000000092031c4d6f726e65204c6520426c616e632048657269746167652053697465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.007218,
+          13.770353899763887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forestry Zoo",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Castries",
+        "city": "Balata",
+        "postcode": "LC02 801",
+        "street": "Union Trail",
+        "iso3166_2": "LC-02",
+        "lon": -60.9617874,
+        "lat": 14.0208858,
+        "formatted": "Forestry Zoo, Union Trail, Balata, Saint Lucia",
+        "address_line1": "Forestry Zoo",
+        "address_line2": "Union Trail, Balata, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Forestry Zoo",
+            "osm_id": 4032184478,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51395a7ad91b7b4ec059931e268bb10a2c40f00103f9019e4056f00000000092030c466f726573747279205a6f6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9617874,
+          14.020885799792529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darkview Falls",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Saint David",
+        "city": "Chateaubelair",
+        "street": "Leeward Highway",
+        "iso3166_2": "VC-03",
+        "lon": -61.2210805,
+        "lat": 13.2909661,
+        "formatted": "Darkview Falls, Leeward Highway, Chateaubelair, Saint Vincent and the Grenadines",
+        "address_line1": "Darkview Falls",
+        "address_line2": "Leeward Highway, Chateaubelair, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Darkview Falls",
+            "osm_id": 4038396532,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "waterway": "waterfall"
+          }
+        },
+        "place_id": "5145a4a65d4c9c4ec059a4003582f9942a40f00103f901740ab5f00000000092030e4461726b766965772046616c6c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.22108050000001,
+          13.290966099710495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirates of the Caribbean Movie Set Location",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Saint Patrick",
+        "city": "Barrouallie",
+        "street": "Leeward Highway",
+        "iso3166_2": "VC-05",
+        "lon": -61.2712765,
+        "lat": 13.2467375,
+        "formatted": "Pirates of the Caribbean Movie Set Location, Leeward Highway, Barrouallie, Saint Vincent and the Grenadines",
+        "address_line1": "Pirates of the Caribbean Movie Set Location",
+        "address_line2": "Leeward Highway, Barrouallie, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pirates of the Caribbean Movie Set Location",
+            "osm_id": 4038535042,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5130d63730b9a24ec05989dda760547e2a40f00103f9018227b7f00000000092032b50697261746573206f66207468652043617269626265616e204d6f76696520536574204c6f636174696f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2712765,
+          13.246737499705675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treetop Adventure Park",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Dennery",
+        "city": "Dennery",
+        "hamlet": "Bazile",
+        "postcode": "LC17 401",
+        "street": "Anse Canot Road",
+        "iso3166_2": "LC-05",
+        "lon": -60.9244963,
+        "lat": 13.8990621,
+        "formatted": "Treetop Adventure Park, Anse Canot Road, Dennery, Saint Lucia",
+        "address_line1": "Treetop Adventure Park",
+        "address_line2": "Anse Canot Road, Dennery, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Treetop Adventure Park",
+            "osm_id": 4331148489,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f2e20ee555764ec0596a3e17de51cc2b40f00103f901c91428020100000092031654726565746f7020416476656e74757265205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9244963,
+          13.899062099778536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Falaises de Bellefontaine",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Bellefontaine",
+        "municipality": "Saint-Pierre",
+        "postcode": "97222",
+        "suburb": "Cité Cheval Blanc",
+        "street": "N 2",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1617162,
+        "lat": 14.6673015,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Les Falaises de Bellefontaine, N 2, 97222 Bellefontaine, France",
+        "address_line1": "Les Falaises de Bellefontaine",
+        "address_line2": "N 2, 97222 Bellefontaine, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Les Falaises de Bellefontaine",
+            "osm_id": 4726111771,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 240
+          }
+        },
+        "place_id": "51e01dcf1db3944ec0597002cd8aa8552d40f00103f9011bbeb2190100000092031d4c65732046616c61697365732064652042656c6c65666f6e7461696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1617162,
+          14.667301499867989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitation Beauregard",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Carbet",
+        "hamlet": "Le Trou",
+        "municipality": "Saint-Pierre",
+        "postcode": "97221",
+        "street": "Route des Bénédictines",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1724864,
+        "lat": 14.7254936,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Beauregard, Route des Bénédictines, 97221 Le Carbet, France",
+        "address_line1": "Habitation Beauregard",
+        "address_line2": "Route des Bénédictines, 97221 Le Carbet, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Beauregard",
+            "osm_id": 4727783671,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519c80cb0814964ec059f1d6a9e573732d40f00103f901f740cc190100000092031548616269746174696f6e2042656175726567617264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1724864,
+          14.725493599874854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Observatoire du Morne des Cadets",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fonds-Saint-Denis",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Rue de l'Observatoire",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1463779,
+        "lat": 14.7347192,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Observatoire du Morne des Cadets, Rue de l'Observatoire, 97250 Fonds-Saint-Denis, France",
+        "address_line1": "Observatoire du Morne des Cadets",
+        "address_line2": "Rue de l'Observatoire, 97250 Fonds-Saint-Denis, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Observatoire du Morne des Cadets",
+            "osm_id": 4727900383,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 360
+          }
+        },
+        "place_id": "51b6add282bc924ec059be6b6e1d2d782d40f00103f901df08ce19010000009203204f627365727661746f697265206475204d6f726e652064657320436164657473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.14637789999999,
+          14.734719199875936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point de vue de la Coulée d'Or",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fonds-Saint-Denis",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Route la Denisienne",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1435028,
+        "lat": 14.7405264,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Point de vue de la Coulée d'Or, Route la Denisienne, 97250 Fonds-Saint-Denis, France",
+        "address_line1": "Point de vue de la Coulée d'Or",
+        "address_line2": "Route la Denisienne, 97250 Fonds-Saint-Denis, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 322,
+            "name": "Point de vue de la Coulée d'Or",
+            "osm_id": 4727917380,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 50
+          }
+        },
+        "ele": 322,
+        "place_id": "513571bc4c5e924ec059e896ba46267b2d40f00103f901444bce190100000092031f506f696e7420646520767565206465206c6120436f756cc3a9652064274f72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1435028,
+          14.740526399876629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panorama du deuxième refuge",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Prêcheur",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Sentier de la montagne Pelée",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1636736,
+        "lat": 14.812927,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Panorama du deuxième refuge, Sentier de la montagne Pelée, 97250 Le Prêcheur, France",
+        "address_line1": "Panorama du deuxième refuge",
+        "address_line2": "Sentier de la montagne Pelée, 97250 Le Prêcheur, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Panorama du deuxième refuge",
+            "osm_id": 4733960507,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 360
+          }
+        },
+        "place_id": "51fc9bab41f3944ec0599615bdf737a02d40f00103f9013b812a1a0100000092031c50616e6f72616d61206475206465757869c3a86d6520726566756765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.16367360000001,
+          14.81292699988516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vieux Pont de la N3",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Basse-Pointe",
+        "municipality": "La Trinité",
+        "postcode": "97218",
+        "street": "N 3",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.1009679,
+        "lat": 14.8327379,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Vieux Pont de la N3, N 3, 97218 Basse-Pointe, France",
+        "address_line1": "Vieux Pont de la N3",
+        "address_line2": "N 3, 97218 Basse-Pointe, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vieux Pont de la N3",
+            "osm_id": 4735885388,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510f392284ec8c4ec0592f503c9f5caa2d40f00103f9014ce0471a01000000920313566965757820506f6e74206465206c61204e33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.10096789999999,
+          14.832737899887517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point de Vue Morne des Roseaux",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Marigot",
+        "municipality": "La Trinité",
+        "postcode": "97213",
+        "street": "D 1",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.0643098,
+        "lat": 14.7360873,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Point de Vue Morne des Roseaux, D 1, 97213 Le Marigot, France",
+        "address_line1": "Point de Vue Morne des Roseaux",
+        "address_line2": "D 1, 97213 Le Marigot, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Point de Vue Morne des Roseaux",
+            "osm_id": 4738168219,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 10
+          }
+        },
+        "place_id": "51f8e7b34d3b884ec05907f03f6fe0782d40f00103f9019bb56a1a0100000092031e506f696e7420646520567565204d6f726e652064657320526f7365617578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.06430979999999,
+          14.736087299876102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Habitat Marlet",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Robert",
+        "municipality": "La Trinité",
+        "postcode": "97231",
+        "street": "Chemin Pointe Hyacinthe",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -60.9106721,
+        "lat": 14.6622082,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitat Marlet, Chemin Pointe Hyacinthe, 97231 Le Robert, France",
+        "address_line1": "Habitat Marlet",
+        "address_line2": "Chemin Pointe Hyacinthe, 97231 Le Robert, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.ruines"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitat Marlet",
+            "osm_id": 4750840304,
+            "tourism": "attraction",
+            "historic": "ruins",
+            "osm_type": "n"
+          }
+        },
+        "historic": {
+          "type": "ruins"
+        },
+        "place_id": "51967043e790744ec059952503f40c532d40f00103f901f0112c1b0100000092030e48616269746174204d61726c6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.910672099999985,
+          14.662208199867374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocher Leclerc",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le François",
+        "municipality": "Le Marin",
+        "postcode": "97240",
+        "street": "Allée des tourterelles",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -60.9011951,
+        "lat": 14.6362645,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Rocher Leclerc, Allée des tourterelles, 97240 Le François, France",
+        "address_line1": "Rocher Leclerc",
+        "address_line2": "Allée des tourterelles, 97240 Le François, France",
+        "categories": [
+          "natural",
+          "natural.mountain",
+          "natural.mountain.rock",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rocher Leclerc",
+            "osm_id": 4750892132,
+            "natural": "rock",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5162e86c5c5a734ec059cf0be575c4452d40f00103f90164dc2c1b0100000092030e526f63686572204c65636c657263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.90119510000001,
+          14.636264499864323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bâtiment Les Amandiers Anacardier",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Fort-de-France",
+        "municipality": "Fort-de-France",
+        "postcode": "97200",
+        "district": "Desrochers",
+        "street": "Rue du Chapeau l'Evêque",
+        "housenumber": "09",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.0730152,
+        "lat": 14.633932,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Bâtiment Les Amandiers Anacardier, 09 Rue du Chapeau l'Evêque, 97200 Fort-de-France, France",
+        "address_line1": "Bâtiment Les Amandiers Anacardier",
+        "address_line2": "09 Rue du Chapeau l'Evêque, 97200 Fort-de-France, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bâtiment Les Amandiers Anacardier",
+            "osm_id": 4760359436,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51320ee48f58894ec0599f9b2ebc92442d40f00103f9010c52bd1b0100000092032242c3a274696d656e74204c657320416d616e646965727320416e6163617264696572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0730152,
+          14.633931999864044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point de vue du Morne Gommier",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Marin",
+        "hamlet": "Morne Gommier",
+        "municipality": "Le Marin",
+        "postcode": "97290",
+        "street": "Chemin de Morne Gommier",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -60.890944,
+        "lat": 14.4717323,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Point de vue du Morne Gommier, Chemin de Morne Gommier, 97290 Le Marin, France",
+        "address_line1": "Point de vue du Morne Gommier",
+        "address_line2": "Chemin de Morne Gommier, 97290 Le Marin, France",
+        "categories": [
+          "access_limited",
+          "access_limited.with_permit",
+          "fee",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Point de vue du Morne Gommier",
+            "access": "permit",
+            "osm_id": 4761996562,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 360
+          }
+        },
+        "restrictions": {
+          "access": "permit"
+        },
+        "place_id": "51a148f7730a724ec059249a60e586f12c40f00103f901124dd61b0100000092031d506f696e7420646520767565206475204d6f726e6520476f6d6d696572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.890944,
+          14.47173229984498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 10,
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Les Trois-Îlets",
+        "municipality": "Le Marin",
+        "postcode": "97229",
+        "district": "La Pointe du Bout",
+        "street": "Rue Cha-Cha",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.0517429,
+        "lat": 14.5619932,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "10, Rue Cha-Cha, 97229 Les Trois-Îlets, France",
+        "address_line1": "10",
+        "address_line2": "Rue Cha-Cha, 97229 Les Trois-Îlets, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": 10,
+            "osm_id": 4772283489,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516ea6e7829f864ec0597fe89b92bd1f2d40f00103f9016144731c010000009203023130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.05174290000001,
+          14.561993199855577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sulphur Springs Park",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Soufrière",
+        "city": "Soufrière",
+        "hamlet": "Sulphur Springs",
+        "postcode": "LC00 124",
+        "street": "Sulphur Springs Road",
+        "iso3166_2": "LC-10",
+        "lon": -61.0471024,
+        "lat": 13.839964,
+        "formatted": "Sulphur Springs Park, Sulphur Springs Road, Soufrière, Saint Lucia",
+        "address_line1": "Sulphur Springs Park",
+        "address_line2": "Sulphur Springs Road, Soufrière, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sulphur Springs Park",
+            "osm_id": 4795775921,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5112c8917307864ec059a4ace9c20fae2b40f00103f901b1bbd91d0100000092031453756c7068757220537072696e6773205061726b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.047102399999986,
+          13.83996399977179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gros Piton Viewpoint",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Soufrière",
+        "city": "Fond Gens Libre",
+        "postcode": "LC10 101",
+        "street": "Gros Piton Nature Trail",
+        "iso3166_2": "LC-10",
+        "lon": -61.0655291,
+        "lat": 13.8100249,
+        "formatted": "Gros Piton Viewpoint, Gros Piton Nature Trail, Fond Gens Libre, Saint Lucia",
+        "address_line1": "Gros Piton Viewpoint",
+        "address_line2": "Gros Piton Nature Trail, Fond Gens Libre, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gros Piton Viewpoint",
+            "osm_id": 5090847320,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d9b7ee4163884ec059dbe66a95bb9e2b40f00103f901582a702f0100000092031447726f73205069746f6e2056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0655291,
+          13.810024899768385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue Alphonse Jean-Joseph",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Rivière-Salée",
+        "municipality": "Le Marin",
+        "postcode": "97215",
+        "district": "Cité Concorde",
+        "street": "Rue du Morne Costet",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -60.9739716,
+        "lat": 14.5243792,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Statue Alphonse Jean-Joseph, Rue du Morne Costet, 97215 Rivière-Salée, France",
+        "address_line1": "Statue Alphonse Jean-Joseph",
+        "address_line2": "Rue du Morne Costet, 97215 Rivière-Salée, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Statue Alphonse Jean-Joseph",
+            "osm_id": 5148575684,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51cc9df419ab7c4ec0597a20346e7b0c2d40f00103f901c407e1320100000092031b53746174756520416c70686f6e7365204a65616e2d4a6f73657068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.9739716,
+          14.524379199851172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viewing Point",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Anse La Raye",
+        "city": "Anse La Raye",
+        "district": "Champen Estate",
+        "suburb": "Saint Lawrence Estate",
+        "street": "Castries - Soufrière Highway",
+        "iso3166_2": "LC-01",
+        "lon": -61.0438082,
+        "lat": 13.9425628,
+        "formatted": "Viewing Point, Castries - Soufrière Highway, Anse La Raye, Saint Lucia",
+        "address_line1": "Viewing Point",
+        "address_line2": "Castries - Soufrière Highway, Anse La Raye, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Viewing Point",
+            "osm_id": 5217847577,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f725d1819b854ec05928fe5e9797e22b40f00103f901190902370100000092030d56696577696e6720506f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.043808199999994,
+          13.942562799783516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toraille Atv Park and Trail",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Soufrière",
+        "city": "Fond Staint Jacques",
+        "hamlet": "Ravine Claire",
+        "postcode": "LC00 124",
+        "district": "Ti Boug",
+        "street": "Fond Saint Jacques Road",
+        "iso3166_2": "LC-10",
+        "lon": -61.036921,
+        "lat": 13.8535913,
+        "formatted": "Toraille Atv Park and Trail, Fond Saint Jacques Road, Fond Staint Jacques, Saint Lucia",
+        "address_line1": "Toraille Atv Park and Trail",
+        "address_line2": "Fond Saint Jacques Road, Fond Staint Jacques, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Toraille Atv Park and Trail",
+            "Status": "closed",
+            "osm_id": 5230736745,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518ec4cbd3b9844ec0596e5a39eb09b52b40f00103f90169b5c6370100000092031b546f7261696c6c6520417476205061726b20616e6420547261696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.03692099999999,
+          13.853591299773338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Prêcheur",
+        "municipality": "Saint-Pierre",
+        "postcode": "97250",
+        "street": "Habitation Céron",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.2223273,
+        "lat": 14.8311949,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Habitation Céron, 97250 Le Prêcheur, France",
+        "address_line1": "Habitation Céron",
+        "address_line2": "97250 Le Prêcheur, France",
+        "name": "Habitation Céron",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Habitation Céron",
+            "osm_id": 5284322322,
+            "name:en": "Habitation Céron",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Habitation Céron"
+        },
+        "place_id": "5106419138759c4ec059763cbf6092a92d40f00103f901125cf83a0100000092031148616269746174696f6e2043c3a9726f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.2223273,
+          14.831194899887333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Nègre Marron",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Les Trois-Îlets",
+        "municipality": "Le Marin",
+        "postcode": "97229",
+        "street": "Allée Émeraude",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.037786,
+        "lat": 14.5398997,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Le Nègre Marron, Allée Émeraude, 97229 Les Trois-Îlets, France",
+        "address_line1": "Le Nègre Marron",
+        "address_line2": "Allée Émeraude, 97229 Les Trois-Îlets, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Le Nègre Marron",
+            "osm_id": 5322305857,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51911ff12bd6844ec05943fac3bb6d142d40f00103f90141f13b3d010000009203104c65204ec3a8677265204d6172726f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.03778599999999,
+          14.539899699852986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turnoff to La Soufriere",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Charlotte",
+        "city": "Georgetown",
+        "hamlet": "Langley Park",
+        "street": "La Soufriere Volcano Road",
+        "iso3166_2": "VC-01",
+        "lon": -61.1178762,
+        "lat": 13.3026213,
+        "formatted": "Turnoff to La Soufriere, La Soufriere Volcano Road, Georgetown, Saint Vincent and the Grenadines",
+        "address_line1": "Turnoff to La Soufriere",
+        "address_line2": "La Soufriere Volcano Road, Georgetown, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Turnoff to La Soufriere",
+            "osm_id": 5484630021,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5106fd3b91168f4ec0598cabd22df19a2a40f00103f90105d0e846010000009203175475726e6f666620746f204c6120536f75667269657265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1178762,
+          13.302621299711767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabacca Bridge",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Charlotte",
+        "city": "Georgetown",
+        "hamlet": "Langley Park",
+        "street": "Windward Highway",
+        "iso3166_2": "VC-01",
+        "lon": -61.1172348,
+        "lat": 13.3009929,
+        "formatted": "Rabacca Bridge, Windward Highway, Georgetown, Saint Vincent and the Grenadines",
+        "address_line1": "Rabacca Bridge",
+        "address_line2": "Windward Highway, Georgetown, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rabacca Bridge",
+            "osm_id": 5484659221,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51fff9c78c018f4ec059ce2dc9bd1b9a2a40f00103f9011542e9460100000092030e5261626163636120427269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1172348,
+          13.300992899711584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamboo Range La Soufriere",
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "vc",
+        "county": "Charlotte",
+        "city": "Waterloo",
+        "street": "La Soufriere Volcano Road",
+        "iso3166_2": "VC-01",
+        "lon": -61.1525283,
+        "lat": 13.3164739,
+        "formatted": "Bamboo Range La Soufriere, La Soufriere Volcano Road, Waterloo, Saint Vincent and the Grenadines",
+        "address_line1": "Bamboo Range La Soufriere",
+        "address_line2": "La Soufriere Volcano Road, Waterloo, Saint Vincent and the Grenadines",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bamboo Range La Soufriere",
+            "osm_id": 5484802021,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51741b1e0c86934ec059bd9cf2dd08a22a40f00103f901e56feb460100000092031942616d626f6f2052616e6765204c6120536f75667269657265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.1525283,
+          13.316473899713282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madin Jet Tours to Diamond Rock",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Le Diamant",
+        "municipality": "Le Marin",
+        "postcode": "97223",
+        "street": "Chemin de la Lime",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.0034831,
+        "lat": 14.4792663,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "Madin Jet Tours to Diamond Rock, Chemin de la Lime, 97223 Le Diamant, France",
+        "address_line1": "Madin Jet Tours to Diamond Rock",
+        "address_line2": "Chemin de la Lime, 97223 Le Diamant, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Madin Jet Tours to Diamond Rock",
+            "osm_id": 5506025522,
+            "name:en": "Madin Jet Tours to Diamond Rock",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Madin Jet Tours to Diamond Rock"
+        },
+        "place_id": "515b4b5c2272804ec0596ad3776462f52c40f00103f90132482f480100000092031f4d6164696e204a657420546f75727320746f204469616d6f6e6420526f636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.003483100000004,
+          14.479266299845865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eudovic’s Art Studio",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Castries",
+        "city": "Morne Fortune",
+        "postcode": "LC04 201",
+        "district": "Bois Catchet",
+        "suburb": "Morne Road",
+        "street": "Morne Road",
+        "iso3166_2": "LC-02",
+        "lon": -60.9982255,
+        "lat": 13.9925514,
+        "formatted": "Eudovic’s Art Studio, Morne Road, Morne Fortune, Saint Lucia",
+        "address_line1": "Eudovic’s Art Studio",
+        "address_line2": "Morne Road, Morne Fortune, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Eudovic’s Art Studio",
+            "osm_id": 6054981885,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5142446adac57f4ec059496373b22ffc2b40f00103f901fdb0e768010000009203164575646f766963e2809973204172742053747564696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.998225500000004,
+          13.992551399789265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Vierge des Marins Pêcheurs",
+        "country": "France",
+        "country_code": "fr",
+        "state": "Martinique",
+        "city": "Les Trois-Îlets",
+        "municipality": "Le Marin",
+        "postcode": "97229",
+        "street": "Rue Caret",
+        "iso3166_2": "FR-MQ",
+        "iso3166_2_sublevel": "FR-972",
+        "lon": -61.066662,
+        "lat": 14.5398738,
+        "state_code": "MQ",
+        "state_COG": "02",
+        "formatted": "La Vierge des Marins Pêcheurs, Rue Caret, 97229 Les Trois-Îlets, France",
+        "address_line1": "La Vierge des Marins Pêcheurs",
+        "address_line2": "Rue Caret, 97229 Les Trois-Îlets, France",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.place_of_worship.shrine"
+        ],
+        "details": [
+          "details.place_of_worship"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "La Vierge des Marins Pêcheurs",
+            "osm_id": 6150051115,
+            "tourism": "attraction",
+            "historic": "wayside_shrine",
+            "osm_type": "n",
+            "religion": "christian",
+            "denomination": "catholic"
+          }
+        },
+        "historic": {
+          "type": "wayside_shrine"
+        },
+        "place_of_worship": {
+          "religion": "christian",
+          "denomination": "catholic"
+        },
+        "place_id": "5167f1626188884ec059f0abb4566a142d40f00103f9012b55926e0100000092031e4c612056696572676520646573204d6172696e732050c3aa636865757273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.066662,
+          14.539873799852984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Horizon",
+        "country": "Saint Lucia",
+        "country_code": "lc",
+        "state": "Canaries",
+        "city": "Canaries",
+        "hamlet": "Anse La Verdue",
+        "street": "Castries - Soufrière Highway",
+        "iso3166_2": "LC-12",
+        "lon": -61.0456949,
+        "lat": 13.9169944,
+        "formatted": "Horizon, Castries - Soufrière Highway, Canaries, Saint Lucia",
+        "address_line1": "Horizon",
+        "address_line2": "Castries - Soufrière Highway, Canaries, Saint Lucia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Horizon",
+            "osm_id": 6167221692,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51078c9a54d9854ec05979583b4a80d52b40f00103f901bc55986f01000000920307486f72697a6f6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.045694899999994,
+          13.916994399780593
+        ]
+      }
+    }
+  ]
+}

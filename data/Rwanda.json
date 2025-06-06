@@ -1,0 +1,4525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nyamirambo Women's Centre",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Nyarugenge District",
+        "city": "Kigali",
+        "suburb": "Biryogo",
+        "street": "KN 7 Avenue",
+        "iso3166_2": "RW-01",
+        "lon": 30.0627642,
+        "lat": -1.9648832,
+        "formatted": "Nyamirambo Women's Centre, KN 7 Avenue, Kigali, Rwanda",
+        "address_line1": "Nyamirambo Women's Centre",
+        "address_line2": "KN 7 Avenue, Kigali, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nyamirambo Women's Centre",
+            "email": "nwcoffice.kigali@gmail.com",
+            "phone": "+250 782 111 860",
+            "osm_id": 4440589892,
+            "amenity": "social_centre",
+            "name:fr": "Centre des Femmes de Nyamirambo",
+            "tourism": "attraction",
+            "website": "https://www.nwc-umutima.org/",
+            "osm_type": "n",
+            "addr:city": "Kigali",
+            "addr:street": "Avenue KN 7",
+            "opening_hours": "Mo-Sa 09:00-17:00"
+          }
+        },
+        "website": "https://www.nwc-umutima.org/",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "name_international": {
+          "fr": "Centre des Femmes de Nyamirambo"
+        },
+        "contact": {
+          "phone": "+250 782 111 860",
+          "email": "nwcoffice.kigali@gmail.com"
+        },
+        "place_id": "510e5c8a5011103e40594804bb5d2970ffbff00103f9014406ae08010000009203194e79616d6972616d626f20576f6d656e27732043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.062764199999997,
+          -1.964883199820422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anti-Corruption Monument",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Gasabo District",
+        "city": "Kimihurura",
+        "street": "KG 622 Street",
+        "iso3166_2": "RW-01",
+        "lon": 30.094523532189754,
+        "lat": -1.9558042,
+        "formatted": "Anti-Corruption Monument, KG 622 Street, Kimihurura, Rwanda",
+        "address_line1": "Anti-Corruption Monument",
+        "address_line2": "KG 622 Street, Kimihurura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Anti-Corruption Monument",
+            "osm_id": 1228513704,
+            "tourism": "artwork",
+            "material": "metal",
+            "osm_type": "w",
+            "wikidata": "Q107348237",
+            "wikipedia": "en:Anti-corruption Monument of Rwanda",
+            "artist_name": "Ahmed Al Bahrani",
+            "description": "Given to the people of Rwanda by Sheikh Tamim Bin Hamad Al-Thani of Qatar for the Anti-Corruption policies",
+            "artwork_type": "sculpture"
+          }
+        },
+        "description": "Given to the people of Rwanda by Sheikh Tamim Bin Hamad Al-Thani of Qatar for the Anti-Corruption policies",
+        "wiki_and_media": {
+          "wikidata": "Q107348237",
+          "wikipedia": "en:Anti-corruption Monument of Rwanda"
+        },
+        "artwork": {
+          "artist_name": "Ahmed Al Bahrani",
+          "artwork_type": "sculpture"
+        },
+        "place_id": "511975b7b132183e405968c73958f94affbff00102f901a8a1394900000000920318416e74692d436f7272757074696f6e204d6f6e756d656e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.094523532189758,
+          -1.9558041998211255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crashed Plane",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Kicukiro District",
+        "city": "Murindi",
+        "street": "KK 38 Avenue",
+        "iso3166_2": "RW-01",
+        "lon": 30.174118219461594,
+        "lat": -1.97555715,
+        "formatted": "Crashed Plane, KK 38 Avenue, Murindi, Rwanda",
+        "address_line1": "Crashed Plane",
+        "address_line2": "KK 38 Avenue, Murindi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Crashed Plane",
+            "osm_id": 262676444,
+            "barrier": "wall",
+            "name:fr": "Avion Écrasé",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "fr": "Avion Écrasé"
+        },
+        "place_id": "51ac39fa02932c3e405988aa5dd0e19bffbff00102f901dc1fa80f0000000092030d4372617368656420506c616e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.17411821946159,
+          -1.9755571498195952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngarama Rock",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Eastern Province",
+        "county": "Gatsibo District",
+        "city": "Ngarama",
+        "street": "DR56",
+        "iso3166_2": "RW-02",
+        "lon": 30.24107742890625,
+        "lat": -1.5353298999999998,
+        "formatted": "Ngarama Rock, DR56, Ngarama, Rwanda",
+        "address_line1": "Ngarama Rock",
+        "address_line2": "DR56, Ngarama, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ngarama Rock",
+            "osm_id": 373893649,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51c4f41840b73d3e4059ac2dc715b690f8bff00102f901112a49160000000092030c4e676172616d6120526f636b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.24107742890625,
+          -1.5353298998551095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akagera National Park Visitor Centre",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Eastern Province",
+        "county": "Kayonza District",
+        "city": "Mwiri",
+        "street": "DR64",
+        "iso3166_2": "RW-02",
+        "lon": 30.70361941693337,
+        "lat": -1.87845585,
+        "formatted": "Akagera National Park Visitor Centre, DR64, Mwiri, Rwanda",
+        "address_line1": "Akagera National Park Visitor Centre",
+        "address_line2": "DR64, Mwiri, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Akagera National Park Visitor Centre",
+            "osm_id": 404989568,
+            "leisure": "resort",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51378ff06620b43e4059d2cc9fb8270efebff00102f90180a6231800000000920324416b6167657261204e6174696f6e616c205061726b2056697369746f722043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.703619416933375,
+          -1.878455849827152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uganda Wildlife Authority",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "city": "Gishondori",
+        "street": "Mount Sabinyo Trail",
+        "iso3166_2": "UG-408",
+        "lon": 29.618967682740145,
+        "lat": -1.354788,
+        "formatted": "Uganda Wildlife Authority, Mount Sabinyo Trail, Gishondori, Uganda",
+        "address_line1": "Uganda Wildlife Authority",
+        "address_line2": "Mount Sabinyo Trail, Gishondori, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Uganda Wildlife Authority",
+            "osm_id": 584173843,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "515ba682aa749e3d40596d51872e36adf5bff00102f90113c9d122000000009203195567616e64612057696c646c69666520417574686f72697479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.618967682740145,
+          -1.3547879998705767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALU Logo",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Gasabo District",
+        "city": "Gasabo",
+        "suburb": "Kimironko",
+        "street": "DR71",
+        "iso3166_2": "RW-01",
+        "lon": 30.151823078570583,
+        "lat": -1.93005505,
+        "formatted": "ALU Logo, DR71, Gasabo, Rwanda",
+        "address_line1": "ALU Logo",
+        "address_line2": "DR71, Gasabo, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "ALU Logo",
+            "osm_id": 1254224981,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "sculpture"
+          }
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "511b3d95e0dd263e4059fd84676781e1febff00102f90155f4c14a00000000920308414c55204c6f676f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.151823078570583,
+          -1.930055049823124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bunyonyi",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kabale",
+        "city": "Karandagasi",
+        "hamlet": "Nyakayenje",
+        "street": "Kabale - Kachwekano",
+        "iso3166_2": "UG-404",
+        "lon": 29.9433742,
+        "lat": -1.2588097,
+        "formatted": "Lake Bunyonyi, Kabale - Kachwekano, Karandagasi, Uganda",
+        "address_line1": "Lake Bunyonyi",
+        "address_line2": "Kabale - Kachwekano, Karandagasi, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lake Bunyonyi",
+            "osm_id": 1679380997,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e0e3b8f880f13d40597ce2cda31524f4bff00103f901055219640000000092030d4c616b652042756e796f6e7969"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.943374199999994,
+          -1.25880969987898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kajumbura Lookout",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Eastern Province",
+        "county": "Gatsibo District",
+        "city": "Rwimbogo",
+        "street": "Kajumbura Road",
+        "iso3166_2": "RW-02",
+        "lon": 30.6650068,
+        "lat": -1.5499057,
+        "formatted": "Kajumbura Lookout, Kajumbura Road, Rwimbogo, Rwanda",
+        "address_line1": "Kajumbura Lookout",
+        "address_line2": "Kajumbura Road, Rwimbogo, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kajumbura Lookout",
+            "osm_id": 2317169309,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511c9eb9e23daa3e40597f1a4ceb69ccf8bff00103f9019d321d8a000000009203114b616a756d62757261204c6f6f6b6f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6650068,
+          -1.5499056998538945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac des oiseaux boat",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Kirundo",
+        "city": "Kirundo",
+        "suburb": "Kanyinya",
+        "street": "RN 14",
+        "iso3166_2": "BI-KI",
+        "lon": 30.0641644,
+        "lat": -2.5608794,
+        "state_code": "KI",
+        "formatted": "Lac des oiseaux boat, RN 14, Kirundo, Burundi",
+        "address_line1": "Lac des oiseaux boat",
+        "address_line2": "RN 14, Kirundo, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lac des oiseaux boat",
+            "osm_id": 2520968590,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514591ff136d103e4059e15cb856ae7c04c0f00103f9018eed4296000000009203144c616320646573206f69736561757820626f6174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0641644,
+          -2.5608793997777046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nr. 12 - Diane Fossey Room",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "city": "Musanze",
+        "district": "Muhoza",
+        "street": "Ruhengeri - Gisenyi Road",
+        "iso3166_2": "RW-03",
+        "lon": 29.6328752,
+        "lat": -1.4998221,
+        "formatted": "Nr. 12 - Diane Fossey Room, Ruhengeri - Gisenyi Road, Musanze, Rwanda",
+        "address_line1": "Nr. 12 - Diane Fossey Room",
+        "address_line2": "Ruhengeri - Gisenyi Road, Musanze, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nr. 12 - Diane Fossey Room",
+            "osm_id": 2661148393,
+            "name:fr": "N° 12 - Chambre Diane Fossey",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "N° 12 - Chambre Diane Fossey"
+        },
+        "place_id": "511173ee1b04a23d405991564b7545fff7bff00103f901e9e69d9e0000000092031a4e722e203132202d204469616e6520466f7373657920526f6f6d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.632875200000004,
+          -1.4998220998581113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dian Fossey Grave",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "city": "Musanze",
+        "district": "Shingiro",
+        "street": "Karisimbi Trail",
+        "iso3166_2": "RW-03",
+        "lon": 29.4846155,
+        "lat": -1.4732672,
+        "formatted": "Dian Fossey Grave, Karisimbi Trail, Musanze, Rwanda",
+        "address_line1": "Dian Fossey Grave",
+        "address_line2": "Karisimbi Trail, Musanze, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dian Fossey Grave",
+            "osm_id": 2661163398,
+            "name:fr": "Tombe de Dian Fossey",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Tombe de Dian Fossey"
+        },
+        "place_id": "517aa2ebc20f7c3d405978b79aa08092f7bff00103f90186219e9e000000009203114469616e20466f73736579204772617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.484615499999997,
+          -1.4732671998603717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buhumba Viewpoint",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kabale",
+        "city": "Kijureera",
+        "street": "Nyerere Avenue",
+        "iso3166_2": "UG-404",
+        "lon": 29.9454461,
+        "lat": -1.3070321,
+        "formatted": "Buhumba Viewpoint, Nyerere Avenue, Kijureera, Uganda",
+        "address_line1": "Buhumba Viewpoint",
+        "address_line2": "Nyerere Avenue, Kijureera, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Buhumba Viewpoint",
+            "osm_id": 3827029316,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5179a16fc108f23d40594f8cbc7d9ae9f4bff00103f90144d51be400000000920311427568756d62612056696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9454461,
+          -1.3070320998747496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karunga",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "county": "Cyanika",
+        "city": "Kisoro",
+        "suburb": "Seseme",
+        "street": "Seseme Road",
+        "iso3166_2": "UG-408",
+        "lon": 29.6905398,
+        "lat": -1.2541351,
+        "formatted": "Karunga, Seseme Road, Kisoro, Uganda",
+        "address_line1": "Karunga",
+        "address_line2": "Seseme Road, Kisoro, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Karunga",
+            "osm_id": 3921993058,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511b966137c7b03d4059b9f66bf7ef10f4bff00103f90162ddc4e9000000009203074b6172756e6761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.690539799999993,
+          -1.2541350998794043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorilla",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "county": "Cyanika",
+        "city": "Kisoro",
+        "suburb": "Chahi",
+        "street": "Kisoro - Kabale Road",
+        "iso3166_2": "UG-408",
+        "lon": 29.6958219,
+        "lat": -1.2823524,
+        "formatted": "Gorilla, Kisoro - Kabale Road, Kisoro, Uganda",
+        "address_line1": "Gorilla",
+        "address_line2": "Kisoro - Kabale Road, Kisoro, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gorilla",
+            "osm_id": 3925860221,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "513057506221b23d405900b236f38384f4bff00103f9017ddfffe900000000920307476f72696c6c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6958219,
+          -1.2823523998769133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorilla",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "county": "Cyanika",
+        "city": "Kisoro",
+        "suburb": "Chahi",
+        "street": "Kisoro - Kabale Road",
+        "iso3166_2": "UG-408",
+        "lon": 29.6913327,
+        "lat": -1.2827566,
+        "formatted": "Gorilla, Kisoro - Kabale Road, Kisoro, Uganda",
+        "address_line1": "Gorilla",
+        "address_line2": "Kisoro - Kabale Road, Kisoro, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gorilla",
+            "osm_id": 3925860222,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51c727092efbb03d40598830d3c82b86f4bff00103f9017edfffe900000000920307476f72696c6c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6913327,
+          -1.282756599876878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bunyonyi View",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Rubanda",
+        "county": "Chahafi",
+        "city": "Shozi",
+        "hamlet": "Chungo",
+        "street": "Kisoro - Kabale Road",
+        "iso3166_2": "UG-429",
+        "lon": 29.8049648,
+        "lat": -1.2163132,
+        "formatted": "Lake Bunyonyi View, Kisoro - Kabale Road, Shozi, Uganda",
+        "address_line1": "Lake Bunyonyi View",
+        "address_line2": "Kisoro - Kabale Road, Shozi, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lake Bunyonyi View",
+            "osm_id": 3959532500,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51636e522c12ce3d40597f0873d40476f3bff00103f901d4ab01ec000000009203124c616b652042756e796f6e79692056696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.804964800000004,
+          -1.216313199882762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Muhabura View",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "county": "Chahafi",
+        "city": "Shozi",
+        "hamlet": "Chungo",
+        "street": "Kisoro - Kabale Road",
+        "iso3166_2": "UG-408",
+        "lon": 29.773066,
+        "lat": -1.2752939,
+        "formatted": "Mount Muhabura View, Kisoro - Kabale Road, Shozi, Uganda",
+        "address_line1": "Mount Muhabura View",
+        "address_line2": "Kisoro - Kabale Road, Shozi, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mount Muhabura View",
+            "osm_id": 3959532501,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5147a643a7e7c53d40594a328c939a67f4bff00103f901d5ab01ec000000009203134d6f756e74204d756861627572612056696577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.773065999999996,
+          -1.2752938998775272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gikondo Expo Ground",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Kicukiro District",
+        "city": "Kicukiro",
+        "street": "KK 34 Avenue",
+        "iso3166_2": "RW-01",
+        "lon": 30.0868435,
+        "lat": -1.9768665,
+        "formatted": "Gikondo Expo Ground, KK 34 Avenue, Kicukiro, Rwanda",
+        "address_line1": "Gikondo Expo Ground",
+        "address_line2": "KK 34 Avenue, Kicukiro, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gikondo Expo Ground",
+            "osm_id": 4338448791,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c35e28603b163e4059298654c43ea1ffbff00103f901977997020100000092031347696b6f6e646f204578706f2047726f756e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.086843499999997,
+          -1.9768664998195027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Ngembe",
+        "country": "Tanzania",
+        "country_code": "tz",
+        "region": "Lake Zone",
+        "state": "Kagera",
+        "county": "Karagwe",
+        "iso3166_2": "TZ-05",
+        "lon": 30.9363026,
+        "lat": -1.8975509,
+        "formatted": "Lake Ngembe, Kagera, Tanzania",
+        "address_line1": "Lake Ngembe",
+        "address_line2": "Kagera, Tanzania",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lake Ngembe",
+            "osm_id": 4507890093,
+            "name:fr": "Lac Ngembe",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Lac Ngembe"
+        },
+        "place_id": "51e628f686b1ef3e4059d9f113555e5cfebff00103f901adf1b00c0100000092030b4c616b65204e67656d6265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.936302599999998,
+          -1.8975508998256514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake lweio",
+        "country": "Tanzania",
+        "country_code": "tz",
+        "region": "Lake Zone",
+        "state": "Kagera",
+        "county": "Karagwe",
+        "iso3166_2": "TZ-05",
+        "lon": 30.9398794,
+        "lat": -2.0175758,
+        "formatted": "Lake lweio, Kagera, Tanzania",
+        "address_line1": "Lake lweio",
+        "address_line2": "Kagera, Tanzania",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lake lweio",
+            "osm_id": 4507890490,
+            "name:fr": "Lac lweio",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Lac lweio"
+        },
+        "place_id": "511f2fb5ef9bf03e4059994cebc7fe2300c0f00103f9013af3b00c0100000092030a4c616b65206c7765696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.93987939999999,
+          -2.0175757998163815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwankoro island",
+        "country": "Tanzania",
+        "country_code": "tz",
+        "region": "Lake Zone",
+        "state": "Kagera",
+        "county": "Karagwe",
+        "iso3166_2": "TZ-05",
+        "lon": 30.8883506,
+        "lat": -1.6423629,
+        "formatted": "Kwankoro island, Kagera, Tanzania",
+        "address_line1": "Kwankoro island",
+        "address_line2": "Kagera, Tanzania",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kwankoro island",
+            "osm_id": 4507890491,
+            "name:en": "Kwankoro island",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Kwankoro island"
+        },
+        "place_id": "51ca61e6f16ae33e4059d50cf0511e47fabff00103f9013bf3b00c0100000092030f4b77616e6b6f726f2069736c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.888350600000003,
+          -1.6423628998461954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake mujunju",
+        "country": "Tanzania",
+        "country_code": "tz",
+        "region": "Lake Zone",
+        "state": "Kagera",
+        "county": "Karagwe",
+        "iso3166_2": "TZ-05",
+        "lon": 30.8848277,
+        "lat": -1.666764,
+        "formatted": "Lake mujunju, Kagera, Tanzania",
+        "address_line1": "Lake mujunju",
+        "address_line2": "Kagera, Tanzania",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lake mujunju",
+            "osm_id": 4507890689,
+            "name:en": "Lake mujunju",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Lake mujunju"
+        },
+        "place_id": "514b18721184e23e4059c5b157ba10abfabff00103f90101f4b00c0100000092030c4c616b65206d756a756e6a75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8848277,
+          -1.6667639998441797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kagogo Sector Office",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Kagogo",
+        "street": "NR21",
+        "iso3166_2": "RW-03",
+        "lon": 29.7788585,
+        "lat": -1.3846489,
+        "formatted": "Kagogo Sector Office, NR21, Kagogo, Rwanda",
+        "address_line1": "Kagogo Sector Office",
+        "address_line2": "NR21, Kagogo, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kagogo Sector Office",
+            "osm_id": 4574953291,
+            "name:en": "Kagogo Sector Office",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Kagogo Sector Office"
+        },
+        "place_id": "512bb6494563c73d40598b01d69a8527f6bff00103f9014b3fb010010000009203144b61676f676f20536563746f72204f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.778858499999995,
+          -1.3846488998679856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musangabo viewpoint",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Kagogo",
+        "street": "NR21",
+        "iso3166_2": "RW-03",
+        "lon": 29.7737121,
+        "lat": -1.389989,
+        "formatted": "Musangabo viewpoint, NR21, Kagogo, Rwanda",
+        "address_line1": "Musangabo viewpoint",
+        "address_line2": "NR21, Kagogo, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Musangabo viewpoint",
+            "osm_id": 4574955700,
+            "name:en": "Musangabo viewpoint",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Musangabo viewpoint"
+        },
+        "place_id": "51fd0406ff11c63d405927b1031b653df6bff00103f901b448b010010000009203134d7573616e6761626f2076696577706f696e74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7737121,
+          -1.3899889998675208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norbi's viewpoint Kibuye",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.351253,
+        "lat": -2.0641381,
+        "formatted": "Norbi's viewpoint Kibuye, NR11, Bwishyura, Rwanda",
+        "address_line1": "Norbi's viewpoint Kibuye",
+        "address_line2": "NR11, Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Norbi's viewpoint Kibuye",
+            "osm_id": 4698611990,
+            "name:en": "Norbi's viewpoint Kibuye",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Norbi's viewpoint Kibuye"
+        },
+        "place_id": "51349f73b7eb593d405986fd08d65a8300c0f00103f90116210f18010000009203184e6f72626927732076696577706f696e74204b6962757965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.351253,
+          -2.064138099812854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Napoleon Island's peak",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rutsiro",
+        "city": "Gihango",
+        "village": "Kibingo",
+        "street": "CongoNileBikingTrail",
+        "iso3166_2": "RW-04",
+        "lon": 29.3083693,
+        "lat": -2.0175684,
+        "formatted": "Napoleon Island's peak, CongoNileBikingTrail, Gihango, Rwanda",
+        "address_line1": "Napoleon Island's peak",
+        "address_line2": "CongoNileBikingTrail, Gihango, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Napoleon Island's peak",
+            "osm_id": 4703050622,
+            "name:en": "Napoleon Island's peak",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Napoleon Island's peak"
+        },
+        "place_id": "5123975a4af14e3d40594a3cb5e6fa2300c0f00103f9017edb5218010000009203164e61706f6c656f6e2049736c616e642773207065616b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.308369299999992,
+          -2.017568399816388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "View of Nyabarongo and Mukungwe river",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Gakenke",
+        "city": "Muzo",
+        "street": "NR17",
+        "iso3166_2": "RW-03",
+        "lon": 29.7065173,
+        "lat": -1.7169434,
+        "formatted": "View of Nyabarongo and Mukungwe river, NR17, Muzo, Rwanda",
+        "address_line1": "View of Nyabarongo and Mukungwe river",
+        "address_line2": "NR17, Muzo, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "View of Nyabarongo and Mukungwe river",
+            "osm_id": 4826857221,
+            "name:en": "View of Nyabarongo and Mukungwe river",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "View of Nyabarongo and Mukungwe river"
+        },
+        "place_id": "51e88e5951deb43d4059955676a49978fbbff00103f90105ffb31f0100000092032556696577206f66204e79616261726f6e676f20616e64204d756b756e677765207269766572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7065173,
+          -1.7169433998400667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Bunyoni rope swing",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Rubanda",
+        "city": "Kyabahinga",
+        "street": "John's Path",
+        "iso3166_2": "UG-429",
+        "lon": 29.9224772,
+        "lat": -1.2905724,
+        "formatted": "Lake Bunyoni rope swing, John's Path, Kyabahinga, Uganda",
+        "address_line1": "Lake Bunyoni rope swing",
+        "address_line2": "John's Path, Kyabahinga, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lake Bunyoni rope swing",
+            "osm_id": 4999101621,
+            "name:en": "Lake Bunyoni rope swing",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Lake Bunyoni rope swing"
+        },
+        "place_id": "51404e3d7727ec3d4059486aa93e2fa6f4bff00103f901b53cf829010000009203174c616b652042756e796f6e6920726f7065207377696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.922477200000003,
+          -1.2905723998761847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sattelite Holliday Resort - Skywalk",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Ntungamo",
+        "city": "Bukinda",
+        "street": "Kabale - Mbarara Road",
+        "iso3166_2": "UG-411",
+        "lon": 30.1286443,
+        "lat": -1.1530606,
+        "formatted": "Sattelite Holliday Resort - Skywalk, Kabale - Mbarara Road, Bukinda, Uganda",
+        "address_line1": "Sattelite Holliday Resort - Skywalk",
+        "address_line2": "Kabale - Mbarara Road, Bukinda, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sattelite Holliday Resort - Skywalk",
+            "osm_id": 5116990705,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511c5135d5ee203e4059fa3aedabef72f2bff00103f901f114ff300100000092032353617474656c69746520486f6c6c69646179205265736f7274202d20536b7977616c6b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.128644300000005,
+          -1.1530605998884185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Motley Healthcare ltd",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Nyarugenge District",
+        "city": "Kigali",
+        "suburb": "Kiyovu",
+        "street": "KN 1 Road",
+        "iso3166_2": "RW-01",
+        "lon": 30.0590469,
+        "lat": -1.939398,
+        "formatted": "Motley Healthcare ltd, KN 1 Road, Kigali, Rwanda",
+        "address_line1": "Motley Healthcare ltd",
+        "address_line2": "KN 1 Road, Kigali, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Motley Healthcare ltd",
+            "osm_id": 5206288226,
+            "name:fr": "Motley Healthcare ltd",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Motley Healthcare ltd"
+        },
+        "place_id": "511f6e98b21d0f3e4059fca37232c607ffbff00103f90162a75136010000009203154d6f746c6579204865616c746863617265206c7464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.059046899999995,
+          -1.9393979998224031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boat Lake Nyagafunzo",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Gatabe",
+        "district": "Nyankenke",
+        "street": "DR42",
+        "iso3166_2": "RW-03",
+        "lon": 29.9859283,
+        "lat": -1.574523,
+        "formatted": "Boat Lake Nyagafunzo, DR42, Gatabe, Rwanda",
+        "address_line1": "Boat Lake Nyagafunzo",
+        "address_line2": "DR42, Gatabe, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Boat Lake Nyagafunzo",
+            "osm_id": 5211701223,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516cb30ccc65fc3d40594a9d72073f31f9bff00103f901e73fa43601000000920314426f6174204c616b65204e7961676166756e7a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.985928299999998,
+          -1.5745229998518249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird Watchtower",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Gicumbi",
+        "district": "Nyankenke",
+        "street": "DR42",
+        "iso3166_2": "RW-03",
+        "lon": 29.9793583,
+        "lat": -1.5844097,
+        "formatted": "Bird Watchtower, DR42, Gicumbi, Rwanda",
+        "address_line1": "Bird Watchtower",
+        "address_line2": "DR42, Gicumbi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bird Watchtower",
+            "osm_id": 5218147922,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ef90bd39b7fa3d4059ec3345fcbd59f9bff00103f901529e06370100000092030f42697264205761746368746f776572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.979358299999998,
+          -1.5844096998509896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kings Island",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.332504,
+        "lat": -2.0472976,
+        "formatted": "Kings Island, NR11, Bwishyura, Rwanda",
+        "address_line1": "Kings Island",
+        "address_line2": "NR11, Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kings Island",
+            "osm_id": 5299561221,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5107ca6dfb1e553d40593a0c6390dd6000c0f00103f90105e3e03b0100000092030c4b696e67732049736c616e64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.332503999999997,
+          -2.0472975998141267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kivu Viewpoint (2026m)",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rutsiro",
+        "city": "Mushubati",
+        "street": "Rubavu-Karongi",
+        "iso3166_2": "RW-04",
+        "lon": 29.3911784,
+        "lat": -1.9773652,
+        "formatted": "Lake Kivu Viewpoint (2026m), Rubavu-Karongi, Mushubati, Rwanda",
+        "address_line1": "Lake Kivu Viewpoint (2026m)",
+        "address_line2": "Rubavu-Karongi, Mushubati, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lake Kivu Viewpoint (2026m)",
+            "osm_id": 5301107621,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d1e6824424643d4059c09117b149a3ffbff00103f901a57bf83b0100000092031b4c616b65204b6976752056696577706f696e742028323032366d29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.391178400000005,
+          -1.9773651998194595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zip line across the lake",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Rubanda",
+        "city": "Kyabahinga",
+        "street": "Rwashambire Path",
+        "iso3166_2": "UG-429",
+        "lon": 29.9307859,
+        "lat": -1.2712318,
+        "formatted": "zip line across the lake, Rwashambire Path, Kyabahinga, Uganda",
+        "address_line1": "zip line across the lake",
+        "address_line2": "Rwashambire Path, Kyabahinga, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "zip line across the lake",
+            "osm_id": 5308644023,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f31318fc47ee3d4059b2c5e127f756f4bff00103f901b77a6b3c010000009203187a6970206c696e65206163726f737320746865206c616b65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9307859,
+          -1.2712317998778926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Home St Jean",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "CongoNileHikingTrail",
+        "iso3166_2": "RW-04",
+        "lon": 29.3570861,
+        "lat": -2.0675638,
+        "formatted": "Home St Jean, CongoNileHikingTrail, Bwishyura, Rwanda",
+        "address_line1": "Home St Jean",
+        "address_line2": "CongoNileHikingTrail, Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Home St Jean",
+            "osm_id": 5611810997,
+            "name:fr": "Maison Saint-Jean",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Maison Saint-Jean"
+        },
+        "place_id": "512e5ba1fe695b3d40597fb5b4e35e8a00c0f00103f901b5707d4e0100000092030c486f6d65205374204a65616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.357086099999997,
+          -2.067563799812603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kigali Golf Course",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Gasabo District",
+        "street": "KG 592 Street",
+        "iso3166_2": "RW-01",
+        "lon": 30.0933685,
+        "lat": -1.9383,
+        "formatted": "Kigali Golf Course, KG 592 Street, Gasabo District, Rwanda",
+        "address_line1": "Kigali Golf Course",
+        "address_line2": "KG 592 Street, Gasabo District, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kigali Golf Course",
+            "osm_id": 5886916685,
+            "name:fr": "Parcours de Golf de Kigali",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Parcours de Golf de Kigali"
+        },
+        "place_id": "5102fa7dffe6173e4059803051dc4603ffbff00103f9014d38e35e010000009203124b6967616c6920476f6c6620436f75727365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.093368500000004,
+          -1.9382999998224761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sculpture",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rubavu",
+        "city": "Gisenyi",
+        "street": "NR18",
+        "iso3166_2": "RW-04",
+        "lon": 29.2627287,
+        "lat": -1.7026041,
+        "formatted": "Sculpture, NR18, Gisenyi, Rwanda",
+        "address_line1": "Sculpture",
+        "address_line2": "NR18, Gisenyi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sculpture",
+            "osm_id": 6273603987,
+            "name:fr": "Sculpture",
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Sculpture"
+        },
+        "place_id": "517938263042433d4059b4a8edcbdd3dfbbff00103f9019399ef75010000009203095363756c7074757265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2627287,
+          -1.70260409984125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arboretum Office",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Southern Province",
+        "county": "Huye",
+        "city": "Tumba",
+        "village": "Mukina",
+        "street": "DR104",
+        "iso3166_2": "RW-05",
+        "lon": 29.7482427,
+        "lat": -2.6150148,
+        "formatted": "Arboretum Office, DR104, Tumba, Rwanda",
+        "address_line1": "Arboretum Office",
+        "address_line2": "DR104, Tumba, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Arboretum Office",
+            "osm_id": 6305176686,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5182f865d58cbf3d40591fb01ce18ceb04c0f00103f9016e5cd177010000009203104172626f726574756d204f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7482427,
+          -2.615014799774158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mwina - Mausoleum",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Southern Province",
+        "county": "Nyanza",
+        "city": "Nyanza",
+        "street": "NR6",
+        "iso3166_2": "RW-05",
+        "lon": 29.7355944,
+        "lat": -2.3559034,
+        "formatted": "Mwina - Mausoleum, NR6, Nyanza, Rwanda",
+        "address_line1": "Mwina - Mausoleum",
+        "address_line2": "NR6, Nyanza, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mwina - Mausoleum",
+            "osm_id": 6316524986,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e91e23ea4fbc3d40595c1fb5e1e3d802c0f00103f901ba857e78010000009203114d77696e61202d204d6175736f6c65756d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7355944,
+          -2.355903399791641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ivuka arts studio",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Gasabo District",
+        "street": "KG 565 Street",
+        "iso3166_2": "RW-01",
+        "lon": 30.0908089,
+        "lat": -1.9421698,
+        "formatted": "Ivuka arts studio, KG 565 Street, Gasabo District, Rwanda",
+        "address_line1": "Ivuka arts studio",
+        "address_line2": "KG 565 Street, Gasabo District, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ivuka arts studio",
+            "osm_id": 6431133187,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518caf87403f173e4059d63dd8a32013ffbff00103f901034e537f010000009203114976756b6120617274732073747564696f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0908089,
+          -1.9421697998221723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great view of Kivu Lake stp",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rutsiro",
+        "city": "Gihango",
+        "street": "Rubavu-Karongi",
+        "iso3166_2": "RW-04",
+        "lon": 29.3880147,
+        "lat": -1.9681863,
+        "formatted": "Great view of Kivu Lake stp, Rubavu-Karongi, Gihango, Rwanda",
+        "address_line1": "Great view of Kivu Lake stp",
+        "address_line2": "Rubavu-Karongi, Gihango, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Great view of Kivu Lake stp",
+            "osm_id": 6440650486,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5104de6eee54633d4059349be2eab07dffbff00103f901f686e47f0100000092031b47726561742076696577206f66204b697675204c616b6520737470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3880147,
+          -1.9681862998201725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Source d'eau chaude",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rubavu",
+        "city": "Nyayumba",
+        "village": "Kusumba",
+        "street": "Congo Nile Trail",
+        "iso3166_2": "RW-04",
+        "lon": 29.2745296,
+        "lat": -1.7395414,
+        "formatted": "Hot springs, Congo Nile Trail, Nyayumba, Rwanda",
+        "address_line1": "Hot springs",
+        "address_line2": "Congo Nile Trail, Nyayumba, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Source d'eau chaude",
+            "osm_id": 6592797590,
+            "name:en": "Hot springs",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Hot springs"
+        },
+        "place_id": "51b2c8659247463d4059247ee55c29d5fbbff00103f901961bf68801000000920313536f7572636520642765617520636861756465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2745296,
+          -1.739541399838239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inemas arts gallery",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Gasabo District",
+        "street": "KG 565 Street",
+        "iso3166_2": "RW-01",
+        "lon": 30.0908946,
+        "lat": -1.9416546,
+        "formatted": "Inemas arts gallery, KG 565 Street, Gasabo District, Rwanda",
+        "address_line1": "Inemas arts gallery",
+        "address_line2": "KG 565 Street, Gasabo District, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Inemas arts gallery",
+            "osm_id": 6629596889,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510b6256de44173e4059b6d4e5690411ffbff00103f901d99e278b01000000920313496e656d617320617274732067616c6c657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.090894599999995,
+          -1.9416545998222268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Start of the Congo Nile Trail",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rubavu",
+        "city": "Nyayumba",
+        "village": "Kusumba",
+        "street": "Congo Nile Trail",
+        "iso3166_2": "RW-04",
+        "lon": 29.2770636,
+        "lat": -1.7394705,
+        "formatted": "Start of the Congo Nile Trail, Congo Nile Trail, Nyayumba, Rwanda",
+        "address_line1": "Start of the Congo Nile Trail",
+        "address_line2": "Congo Nile Trail, Nyayumba, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Start of the Congo Nile Trail",
+            "osm_id": 6801209287,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517be9dca3ed463d4059c497d204dfd4fbbff00103f901c73762950100000092031d5374617274206f662074686520436f6e676f204e696c6520547261696c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2770636,
+          -1.7394704998382489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ngarama batwa cave",
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "city": "Gishondori",
+        "street": "Mount Sabinyo Trail",
+        "iso3166_2": "UG-408",
+        "lon": 29.6315233,
+        "lat": -1.3573,
+        "formatted": "ngarama batwa cave, Mount Sabinyo Trail, Gishondori, Uganda",
+        "address_line1": "ngarama batwa cave",
+        "address_line2": "Mount Sabinyo Trail, Gishondori, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ngarama batwa cave",
+            "osm_id": 7016828786,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517929d082aba13d40593edd643480b7f5bff00103f901724f3ca2010000009203126e676172616d612062617477612063617665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6315233,
+          -1.3572999998703632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mukajagari Bridge",
+        "country": "Tanzania",
+        "country_code": "tz",
+        "region": "Lake Zone",
+        "state": "Kagera",
+        "county": "Ngara",
+        "street": "T11",
+        "iso3166_2": "TZ-05",
+        "lon": 30.7280817,
+        "lat": -2.5191467,
+        "formatted": "Mukajagari Bridge, T11, Kagera, Tanzania",
+        "address_line1": "Mukajagari Bridge",
+        "address_line2": "T11, Kagera, Tanzania",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mukajagari Bridge",
+            "osm_id": 8637937717,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51eb50f28f63ba3e405946118b62362704c0f00103f9013578dc02020000009203114d756b616a616761726920427269646765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7280817,
+          -2.5191466997804666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huye Mountain Coffee",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Southern Province",
+        "county": "Huye",
+        "city": "Mbazi",
+        "street": "NR10",
+        "iso3166_2": "RW-05",
+        "lon": 29.6922614,
+        "lat": -2.5467943,
+        "formatted": "Huye Mountain Coffee, NR10, Mbazi, Rwanda",
+        "address_line1": "Huye Mountain Coffee",
+        "address_line2": "NR10, Mbazi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Huye Mountain Coffee",
+            "osm_id": 8661899718,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517c48090b38b13d4059e78199b0d55f04c0f00103f901c6194a040200000092031448757965204d6f756e7461696e20436f66666565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.692261399999992,
+          -2.5467942997786284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santos Home",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Eastern Province",
+        "county": "Bugesera District",
+        "city": "Kuri Kariyeri",
+        "street": "NR5",
+        "iso3166_2": "RW-02",
+        "lon": 30.0795189,
+        "lat": -2.0950382,
+        "formatted": "Santos Home, NR5, Kuri Kariyeri, Rwanda",
+        "address_line1": "Santos Home",
+        "address_line2": "NR5, Kuri Kariyeri, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Santos Home",
+            "osm_id": 9991227018,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f4e9c2595b143e4059bc744063a3c200c0f00103f9018a0686530200000092030b53616e746f7320486f6d65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.079518899999997,
+          -2.095038199810544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kigali Golf Course",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Gasabo District",
+        "city": "Gisozi",
+        "district": "Kacyiru",
+        "street": "KG 15 Avenue",
+        "iso3166_2": "RW-01",
+        "lon": 30.0911909,
+        "lat": -1.9336204,
+        "formatted": "Kigali Golf Course, KG 15 Avenue, Gisozi, Rwanda",
+        "address_line1": "Kigali Golf Course",
+        "address_line2": "KG 15 Avenue, Gisozi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kigali Golf Course",
+            "holes": 18,
+            "sport": "golf",
+            "osm_id": 10202347386,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515d316d4958173e405980e1c1f11bf0febff00103f9017a771b60020000009203124b6967616c6920476f6c6620436f75727365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.091190900000004,
+          -1.9336203998228427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonatubes Roundabout",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Kicukiro District",
+        "street": "Sonatubes",
+        "iso3166_2": "RW-01",
+        "lon": 30.1025213,
+        "lat": -1.9673369,
+        "formatted": "Sonatubes Roundabout, Sonatubes, Kicukiro District, Rwanda",
+        "address_line1": "Sonatubes Roundabout",
+        "address_line2": "Sonatubes, Kicukiro District, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sonatubes Roundabout",
+            "osm_id": 10856650338,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "artwork_type": "statue"
+          }
+        },
+        "artwork": {
+          "artwork_type": "statue"
+        },
+        "place_id": "51b6a4fed53e1a3e40592712cf41367affbff00103f90162561b8702000000920314536f6e61747562657320526f756e6461626f7574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1025213,
+          -1.9673368998202336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Triph Gatsinda",
+        "country": "Burundi",
+        "country_code": "bi",
+        "state": "Ngozi",
+        "county": "Mwumba",
+        "city": "Mwumba",
+        "street": "RP 55",
+        "iso3166_2": "BI-NG",
+        "lon": 29.8099914,
+        "lat": -2.8187014,
+        "state_code": "NG",
+        "formatted": "Chez Triph Gatsinda, RP 55, Mwumba, Burundi",
+        "address_line1": "Chez Triph Gatsinda",
+        "address_line2": "RP 55, Mwumba, Burundi",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chez Triph Gatsinda",
+            "osm_id": 11132027905,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51910aad985bcf3d4059c550c951b38c06c0f00103f90101448597020000009203134368657a2054726970682047617473696e6461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.809991400000005,
+          -2.818701399761354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art objects",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "city": "Musanze",
+        "district": "Nyange",
+        "street": "DR37",
+        "iso3166_2": "RW-03",
+        "lon": 29.5975728,
+        "lat": -1.4313897,
+        "formatted": "Art objects, DR37, Musanze, Rwanda",
+        "address_line1": "Art objects",
+        "address_line2": "DR37, Musanze, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Art objects",
+            "osm_id": 11216085437,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a7faf087fa983d405942f3cbe2f8e6f6bff00103f901bde1879c0200000092030b417274206f626a65637473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.59757279999999,
+          -1.4313896998639426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kivu art gallery",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rubavu",
+        "city": "Gisenyi",
+        "street": "Avenue de l'Indépendance",
+        "iso3166_2": "RW-04",
+        "lon": 29.2598131,
+        "lat": -1.7022362,
+        "formatted": "Kivu art gallery, Avenue de l'Indépendance, Gisenyi, Rwanda",
+        "address_line1": "Kivu art gallery",
+        "address_line2": "Avenue de l'Indépendance, Gisenyi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kivu art gallery",
+            "osm_id": 11217814038,
+            "name:fr": "Galerie d'art Kivu",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Galerie d'art Kivu"
+        },
+        "place_id": "5186927f1c83423d40594a2b86065c3cfbbff00103f9011642a29c020000009203104b697675206172742067616c6c657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.259813099999995,
+          -1.7022361998412685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tourist office",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rubavu",
+        "city": "Gisenyi",
+        "street": "Avenue de l'Indépendance",
+        "iso3166_2": "RW-04",
+        "lon": 29.2599551,
+        "lat": -1.7022283,
+        "formatted": "Tourist office, Avenue de l'Indépendance, Gisenyi, Rwanda",
+        "address_line1": "Tourist office",
+        "address_line2": "Avenue de l'Indépendance, Gisenyi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tourist office",
+            "osm_id": 11217822037,
+            "name:fr": "Office de tourisme",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Office de tourisme"
+        },
+        "place_id": "51abeddc6a8c423d40599e4de2bd533cfbbff00103f9015561a29c0200000092030e546f7572697374206f6666696365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.259955099999996,
+          -1.702228299841273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAROISSE SAINT JEAN PAUL II",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Kicukiro District",
+        "city": "Murindi",
+        "suburb": "Kanombe",
+        "street": "KN 5 Road",
+        "iso3166_2": "RW-01",
+        "lon": 30.1682991,
+        "lat": -1.9772583,
+        "formatted": "Saint John Paul II Catholic Church, KN 5 Road, Murindi, Rwanda",
+        "address_line1": "Saint John Paul II Catholic Church",
+        "address_line2": "KN 5 Road, Murindi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "PAROISSE SAINT JEAN PAUL II",
+            "osm_id": 11233546337,
+            "name:en": "Saint John Paul II Catholic Church",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "addr:street": "KN 5 Road"
+          }
+        },
+        "name_international": {
+          "en": "Saint John Paul II Catholic Church"
+        },
+        "place_id": "513b725aa6152b3e4059bb815799d9a2ffbff00103f9016150929d0200000092031b5041524f49535345205341494e54204a45414e205041554c204949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.168299099999995,
+          -1.9772582998194668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seventh Day Adventist Church",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Southern Province",
+        "county": "Huye",
+        "city": "Huye",
+        "village": "Ngoma",
+        "street": "NR1",
+        "iso3166_2": "RW-05",
+        "lon": 29.7387323,
+        "lat": -2.6133481,
+        "formatted": "Seventh Day Adventist Church, NR1, Huye, Rwanda",
+        "address_line1": "Seventh Day Adventist Church",
+        "address_line2": "NR1, Huye, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Seventh Day Adventist Church",
+            "osm_id": 11245504437,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b5ff5c8f1dbd3d4059f2c06c0c23e804c0f00103f901b5c7489e0200000092031c536576656e74682044617920416476656e7469737420436875726368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7387323,
+          -2.6133480997742646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eglise Ste. Therese",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Southern Province",
+        "county": "Huye",
+        "city": "Rwabuye",
+        "street": "Indatua Street",
+        "iso3166_2": "RW-05",
+        "lon": 29.74435,
+        "lat": -2.5922659,
+        "formatted": "Eglise Ste. Therese, Indatua Street, Rwabuye, Rwanda",
+        "address_line1": "Eglise Ste. Therese",
+        "address_line2": "Indatua Street, Rwabuye, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Eglise Ste. Therese",
+            "osm_id": 11245540738,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5111c7bab88dbe3d4059259470e7f5bc04c0f00103f9018255499e0200000092031345676c697365205374652e2054686572657365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.74435,
+          -2.592265899775628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamabuye village",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Eastern Province",
+        "county": "Bugesera District",
+        "city": "Kamabuye",
+        "street": "NR6",
+        "iso3166_2": "RW-02",
+        "lon": 30.1351734,
+        "lat": -2.3739345,
+        "formatted": "Kamabuye village, NR6, Kamabuye, Rwanda",
+        "address_line1": "Kamabuye village",
+        "address_line2": "NR6, Kamabuye, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kamabuye village",
+            "osm_id": 11381676669,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51034a54b99a223e4059fe90fb5ed1fd02c0f00103f9017d9a66a6020000009203104b616d61627579652076696c6c616765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.135173399999996,
+          -2.373934499790379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ibuye rya bagenge",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Gakenke",
+        "city": "Gakenke",
+        "street": "NR2",
+        "iso3166_2": "RW-03",
+        "lon": 29.7884553,
+        "lat": -1.645844,
+        "formatted": "ibuye rya bagenge, NR2, Gakenke, Rwanda",
+        "address_line1": "ibuye rya bagenge",
+        "address_line2": "NR2, Gakenke, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "ibuye rya bagenge",
+            "osm_id": 11671814147,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519edbdf34d8c93d4059d67e9a846055fabff00103f90103c0b1b70200000092031169627579652072796120626167656e6765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.788455300000003,
+          -1.6458439998458991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunrise Spot",
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3485961,
+        "lat": -2.0507269,
+        "formatted": "Sunrise Spot, NR11, Bwishyura, Rwanda",
+        "address_line1": "Sunrise Spot",
+        "address_line2": "NR11, Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sunrise Spot",
+            "osm_id": 11977461369,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515d0311983d593d4059f6d23d81e36700c0f00103f901798ee9c90200000092030c53756e726973652053706f74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.348596099999998,
+          -2.0507268998138626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "village": "Bupfune",
+        "street": "NR14",
+        "iso3166_2": "RW-04",
+        "lon": 29.3496193,
+        "lat": -2.0891901,
+        "formatted": "NR14, Bwishyura, Rwanda",
+        "address_line1": "NR14",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 317543086,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e88c83a680593d405953858e4ca9b600c0f00103f901ae52ed1200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3496193,
+          -2.089190099810972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3256384,
+        "lat": -2.0559744,
+        "formatted": "NR11, Bwishyura, Rwanda",
+        "address_line1": "NR11",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 317544095,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515e52c6095d533d405984e5c4b4a27200c0f00103f9019f56ed1200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.325638399999995,
+          -2.0559743998134667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "CongoNileHikingTrail",
+        "iso3166_2": "RW-04",
+        "lon": 29.350277,
+        "lat": -2.0478487,
+        "formatted": "CongoNileHikingTrail, Bwishyura, Rwanda",
+        "address_line1": "CongoNileHikingTrail",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 317556590,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517f8ae3c0ab593d405971dcc67ffe6100c0f00103f9016e87ed1200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.350277000000002,
+          -2.04784869981409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Rubavu",
+        "city": "Nyamyumba",
+        "street": "Avenue de l'Indépendance",
+        "iso3166_2": "RW-04",
+        "lon": 29.2683348,
+        "lat": -1.6997492,
+        "formatted": "Avenue de l'Indépendance, Nyamyumba, Rwanda",
+        "address_line1": "Avenue de l'Indépendance",
+        "address_line2": "Nyamyumba, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 435594742,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f360e696b1443d40596c8a8b372c32fbbff00103f901f6a5f61900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2683348,
+          -1.6997491998414729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Mubuga",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3189311,
+        "lat": -2.0662514,
+        "formatted": "NR11, Mubuga, Rwanda",
+        "address_line1": "NR11",
+        "address_line2": "Mubuga, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 435680075,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51632df477a5513d4059ed135cd0ae8700c0f00103f9014bf3f71900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.318931099999997,
+          -2.0662513998126912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Mubuga",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3195885,
+        "lat": -2.0668632,
+        "formatted": "NR11, Mubuga, Rwanda",
+        "address_line1": "NR11",
+        "address_line2": "Mubuga, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 435688683,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517dad4b8dd0513d40598702c492ef8800c0f00103f901eb14f81900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3195885,
+          -2.0668631998126474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Mwiko",
+        "street": "DR37",
+        "iso3166_2": "RW-03",
+        "lon": 29.7417198,
+        "lat": -1.4461818,
+        "formatted": "DR37, Mwiko, Rwanda",
+        "address_line1": "DR37",
+        "address_line2": "Mwiko, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2661148706,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b0cb4b59e1bd3d4059bbb0e7868f23f7bff00103f90122e89d9e00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7417198,
+          -1.4461817998626845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Mwiko",
+        "street": "DR37",
+        "iso3166_2": "RW-03",
+        "lon": 29.7411767,
+        "lat": -1.4469273,
+        "formatted": "DR37, Mwiko, Rwanda",
+        "address_line1": "DR37",
+        "address_line2": "Mwiko, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2661148744,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51a50e97c1bdbd3d4059a897893d9d26f7bff00103f90148e89d9e00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7411767,
+          -1.446927299862617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Mwiko",
+        "street": "DR37",
+        "iso3166_2": "RW-03",
+        "lon": 29.7428043,
+        "lat": -1.4490946,
+        "formatted": "DR37, Mwiko, Rwanda",
+        "address_line1": "DR37",
+        "address_line2": "Mwiko, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2661148917,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5102d42f6c28be3d40599582b3d17d2ff7bff00103f901f5e89d9e00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.742804299999996,
+          -1.4490945998624387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Gasabo District",
+        "city": "Gatsata / Karuruma",
+        "street": "KG 14 Avenue",
+        "iso3166_2": "RW-01",
+        "lon": 30.0606768,
+        "lat": -1.9316828,
+        "formatted": "KG 14 Avenue, Gatsata / Karuruma, Rwanda",
+        "address_line1": "KG 14 Avenue",
+        "address_line2": "Gatsata / Karuruma, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2683431456,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "513ca0c783880f3e405986c437392ce8febff00103f90120eaf19f00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.060676799999996,
+          -1.9316827998229953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Kicukiro District",
+        "city": "Murindi",
+        "street": "KK 38 Avenue",
+        "iso3166_2": "RW-01",
+        "lon": 30.1737859,
+        "lat": -1.9757339,
+        "formatted": "KK 38 Avenue, Murindi, Rwanda",
+        "address_line1": "KK 38 Avenue",
+        "address_line2": "Murindi, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 2683431715,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518401953b7d2c3e4059a52d55269b9cffbff00103f90123ebf19f00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1737859,
+          -1.9757338998195817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "county": "Cyanika",
+        "city": "Kisoro",
+        "suburb": "Seseme",
+        "street": "Seseme Road",
+        "iso3166_2": "UG-W",
+        "iso3166_2_sublevel": "UG-408",
+        "lon": 29.6908493,
+        "lat": -1.2552077,
+        "formatted": "Seseme Road, Kisoro, Uganda",
+        "address_line1": "Seseme Road",
+        "address_line2": "Kisoro, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 3921993066,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e8f6ed7fdbb03d405935b44aab5415f4bff00103f9016addc4e900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.690849299999996,
+          -1.2552076998793045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Nyarugenge District",
+        "city": "Kigali",
+        "suburb": "Nyarugenge",
+        "street": "Rue KN 90",
+        "iso3166_2": "RW-01",
+        "lon": 30.0529338,
+        "lat": -1.9464856,
+        "formatted": "Rue KN 90, Kigali, Rwanda",
+        "address_line1": "Rue KN 90",
+        "address_line2": "Kigali, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4601570555,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5160dacb118d0d3e405973ea9515ce24ffbff00103f901fb64461201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.052933800000005,
+          -1.9464855998218382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3439881,
+        "lat": -2.052058,
+        "formatted": "NR11, Bwishyura, Rwanda",
+        "address_line1": "NR11",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4698647589,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5194b6a79a0f583d4059fb8f75629d6a00c0f00103f90125ac0f1801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.343988100000004,
+          -2.052057999813767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3503365,
+        "lat": -2.0593648,
+        "formatted": "NR11, Bwishyura, Rwanda",
+        "address_line1": "NR11",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4699148592,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51591822a7af593d4059c3d98d40947900c0f00103f9013051171801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3503365,
+          -2.059364799813211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3496255,
+        "lat": -2.0620423,
+        "formatted": "NR11, Bwishyura, Rwanda",
+        "address_line1": "NR11",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4699150697,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510059880e81593d4059f3528508107f00c0f00103f9016959171801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.349625500000002,
+          -2.0620422998130095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "CongoNileHikingTrail",
+        "iso3166_2": "RW-04",
+        "lon": 29.3511229,
+        "lat": -2.0605626,
+        "formatted": "CongoNileHikingTrail, Bwishyura, Rwanda",
+        "address_line1": "CongoNileHikingTrail",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4699170490,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516f60bc30e3593d4059f1768c3e087c00c0f00103f901baa6171801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.351122900000004,
+          -2.060562599813118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Mubuga",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3331675,
+        "lat": -2.071408,
+        "formatted": "NR11, Mubuga, Rwanda",
+        "address_line1": "NR11",
+        "address_line2": "Mubuga, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4701899399,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "5110971c774a553d4059d3ee7e5b3e9200c0f00103f901874a411801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.333167500000002,
+          -2.0714079998123025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "county": "Cyanika",
+        "city": "Kisoro",
+        "suburb": "Seseme",
+        "street": "Seseme Road",
+        "iso3166_2": "UG-W",
+        "iso3166_2_sublevel": "UG-408",
+        "lon": 29.6877998,
+        "lat": -1.2724131,
+        "formatted": "Seseme Road, Kisoro, Uganda",
+        "address_line1": "Seseme Road",
+        "address_line2": "Kisoro, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5057349975,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "510232cfa513b03d405912a2afd6cd5bf4bff00103f9015709712d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6877998,
+          -1.272413099877785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kabale",
+        "city": "Karandagasi",
+        "hamlet": "Nyakayenje",
+        "street": "Kabale - Kachwekano",
+        "iso3166_2": "UG-W",
+        "iso3166_2_sublevel": "UG-404",
+        "lon": 29.944822,
+        "lat": -1.2741415,
+        "formatted": "Kabale - Kachwekano, Karandagasi, Uganda",
+        "address_line1": "Kabale - Kachwekano",
+        "address_line2": "Karandagasi, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5624078707,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51938ac6dadff13d4059a3368732e262f4bff00103f90173a1384f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.944822,
+          -1.274141499877637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "town": "Karongi",
+        "street": "CongoNileHikingTrail",
+        "iso3166_2": "RW-04",
+        "lon": 29.3507751,
+        "lat": -2.0546895,
+        "formatted": "CongoNileHikingTrail, Bwishyura, Rwanda",
+        "address_line1": "CongoNileHikingTrail",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5885046488,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514bc09e65cc593d40591d12690c017000c0f00103f901d8aec65e01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.350775100000003,
+          -2.0546894998135614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Eastern Province",
+        "county": "Kayonza District",
+        "city": "Kabare",
+        "street": "NR25",
+        "iso3166_2": "RW-02",
+        "lon": 30.6846391,
+        "lat": -1.9502844,
+        "formatted": "NR25, Kabare, Rwanda",
+        "address_line1": "NR25",
+        "address_line2": "Kabare, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5896213688,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "511910108244af3e4059d71e326a5d34ffbff00103f901b814715f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.684639100000002,
+          -1.9502843998215462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Bwishyura",
+        "street": "NR11",
+        "iso3166_2": "RW-04",
+        "lon": 29.3383281,
+        "lat": -2.0628628,
+        "formatted": "NR11, Bwishyura, Rwanda",
+        "address_line1": "NR11",
+        "address_line2": "Bwishyura, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6063798685,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515cd19cab9c563d40591da72a36be8000c0f00103f9019d396e6901000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3383281,
+          -2.062862799812946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Eastern Province",
+        "county": "Rwamagana District",
+        "city": "Gahengeri",
+        "town": "Kabuga Ka Musha",
+        "street": "NR4",
+        "iso3166_2": "RW-02",
+        "lon": 30.3215135,
+        "lat": -1.932539,
+        "formatted": "NR4, Gahengeri, Rwanda",
+        "address_line1": "NR4",
+        "address_line2": "Gahengeri, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6549790485,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f6b86fb54e523e405992bea703aeebfebff00103f90115df658601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.321513500000002,
+          -1.932538999822928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "city": "Musanze",
+        "district": "Shingiro",
+        "street": "Musanze - Rubavu Road",
+        "iso3166_2": "RW-03",
+        "lon": 29.5813354,
+        "lat": -1.5193843,
+        "formatted": "Musanze - Rubavu Road, Musanze, Rwanda",
+        "address_line1": "Musanze - Rubavu Road",
+        "address_line2": "Musanze, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6592798086,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d0019365d2943d40596b075fe9654ff8bff00103f901861df68801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5813354,
+          -1.5193842998564502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Mwiko",
+        "street": "DR37",
+        "iso3166_2": "RW-03",
+        "lon": 29.7456365,
+        "lat": -1.4541693,
+        "formatted": "DR37, Mwiko, Rwanda",
+        "address_line1": "DR37",
+        "address_line2": "Mwiko, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7184091220,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 90
+          }
+        },
+        "place_id": "5133349e08e2be3d405986121c074744f7bff00103f901548834ac01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7456365,
+          -1.4541692998620035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Mwiko",
+        "street": "DR37",
+        "iso3166_2": "RW-03",
+        "lon": 29.745458,
+        "lat": -1.45426,
+        "formatted": "DR37, Mwiko, Rwanda",
+        "address_line1": "DR37",
+        "address_line2": "Mwiko, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7184159826,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 270
+          }
+        },
+        "place_id": "51a48ae255d6be3d40597b9c3422a644f7bff00103f901529435ac01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.745458,
+          -1.454259999861988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Burera District",
+        "city": "Gitovu",
+        "street": "DR37",
+        "iso3166_2": "RW-03",
+        "lon": 29.7684593,
+        "lat": -1.4691524,
+        "formatted": "DR37, Gitovu, Rwanda",
+        "address_line1": "DR37",
+        "address_line2": "Gitovu, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 7195737333,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "519bcea9bfb9c43d40591dde63f2a581f7bff00103f901f53ce6ac01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7684593,
+          -1.4691523998607245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Northern Province",
+        "county": "Gakenke",
+        "city": "Ruli",
+        "town": "Musasa",
+        "street": "DR51",
+        "iso3166_2": "RW-03",
+        "lon": 29.8516358,
+        "lat": -1.8667535,
+        "formatted": "DR51, Ruli, Rwanda",
+        "address_line1": "DR51",
+        "address_line2": "Ruli, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8418103007,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": 315,
+            "description": "Beautiful views as down into the Nyabarongo Valley as you climb towards Rwesero Cell"
+          }
+        },
+        "description": "Beautiful views as down into the Nyabarongo Valley as you climb towards Rwesero Cell",
+        "place_id": "514f1ac5cd04da3d40591a48f7ea38defdbff00103f901df0ec2f501000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.851635799999993,
+          -1.8667534998280702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Nyabihu",
+        "city": "Karago",
+        "iso3166_2": "RW-04",
+        "lon": 29.5513755,
+        "lat": -1.6520149,
+        "formatted": "Karago, Nyabihu, Rwanda",
+        "address_line1": "Karago",
+        "address_line2": "Nyabihu, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 2652,
+            "osm_id": 8432925056,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 2652,
+        "place_id": "51ce50dcf1268d3d40596473f52ca76efabff00103f9018039a4f601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5513755,
+          -1.6520148998453914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Kisoro",
+        "county": "Chahafi",
+        "city": "Shozi",
+        "hamlet": "Kigezi",
+        "street": "Kisoro - Kabale Road",
+        "iso3166_2": "UG-W",
+        "iso3166_2_sublevel": "UG-408",
+        "lon": 29.7866137,
+        "lat": -1.2496214,
+        "formatted": "Kisoro - Kabale Road, Shozi, Uganda",
+        "address_line1": "Kisoro - Kabale Road",
+        "address_line2": "Shozi, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8537010017,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e515f4835fc93d40591bd94d0273fef3bff00103f901616fd8fc01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.786613699999993,
+          -1.2496213998798058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Nyarugenge District",
+        "city": "Kigali",
+        "street": "KN 256 Street",
+        "iso3166_2": "RW-01",
+        "lon": 30.0277728,
+        "lat": -1.9919454,
+        "formatted": "KN 256 Street, Kigali, Rwanda",
+        "address_line1": "KN 256 Street",
+        "address_line2": "Kigali, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 8552278718,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e5b7431e1c073e40591633ba2302dfffbff00103f901be6ac1fd01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.027772799999997,
+          -1.9919453998183534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Kicukiro District",
+        "city": "Masaka",
+        "street": "Crane Lookout",
+        "iso3166_2": "RW-01",
+        "lon": 30.2103668,
+        "lat": -1.9860846,
+        "formatted": "Crane Lookout, Masaka, Rwanda",
+        "address_line1": "Crane Lookout",
+        "address_line2": "Masaka, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 9807890141,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51082a3e99da353e40599af934a500c7ffbff00103f901dd86984802000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.210366800000003,
+          -1.986084599818787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Kicukiro District",
+        "city": "Masaka",
+        "street": "Wetland Lookout",
+        "iso3166_2": "RW-01",
+        "lon": 30.2113675,
+        "lat": -1.9865364,
+        "formatted": "Wetland Lookout, Masaka, Rwanda",
+        "address_line1": "Wetland Lookout",
+        "address_line2": "Masaka, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 9807890181,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51f3ef332e1c363e4059fb8f5864dac8ffbff00103f9010587984802000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.211367500000005,
+          -1.9865363998187593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Kicukiro District",
+        "city": "Masaka",
+        "street": "Crane Island Walk",
+        "iso3166_2": "RW-01",
+        "lon": 30.2096202,
+        "lat": -1.9862876,
+        "formatted": "Crane Island Walk, Masaka, Rwanda",
+        "address_line1": "Crane Island Walk",
+        "address_line2": "Masaka, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 9807891865,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51b9945faba9353e40596ac09a81d5c7ffbff00103f901998d984802000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.209620199999993,
+          -1.9862875998187755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Uganda",
+        "country_code": "ug",
+        "state": "Rubanda",
+        "city": "Kimusya B",
+        "street": "Kabale-Kisoro road",
+        "iso3166_2": "UG-W",
+        "iso3166_2_sublevel": "UG-429",
+        "lon": 29.9091465,
+        "lat": -1.2372444,
+        "formatted": "Kabale-Kisoro road, Kimusya B, Uganda",
+        "address_line1": "Kabale-Kisoro road",
+        "address_line2": "Kimusya B, Uganda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11255165083,
+            "tourism": "viewpoint",
+            "osm_type": "n",
+            "direction": "S"
+          }
+        },
+        "place_id": "51dac534d3bde83d4059755caac8c0cbf3bff00103f9019b30dc9e02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9091465,
+          -1.2372443998808909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Kigali City",
+        "county": "Gasabo District",
+        "city": "Gatsata / Karuruma",
+        "street": "Kigali-Gatuna Road",
+        "iso3166_2": "RW-01",
+        "lon": 30.0376001,
+        "lat": -1.9283205,
+        "formatted": "Kigali-Gatuna Road, Gatsata / Karuruma, Rwanda",
+        "address_line1": "Kigali-Gatuna Road",
+        "address_line2": "Gatsata / Karuruma, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11452048426,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "518bd3ff28a0093e4059c627af9866dafebff00103f9012a6498aa02000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.037600100000002,
+          -1.9283204998232448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Rwanda",
+        "country_code": "rw",
+        "state": "Western Province",
+        "county": "Karongi",
+        "city": "Gisaze",
+        "street": "NR15",
+        "iso3166_2": "RW-04",
+        "lon": 29.4697441,
+        "lat": -2.047843,
+        "formatted": "NR15, Gisaze, Rwanda",
+        "address_line1": "NR15",
+        "address_line2": "Gisaze, Rwanda",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11633712037,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "512dfd3a2641783d40592c5abc82fb6100c0f00103f901a55b6cb502000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.469744100000003,
+          -2.047842999814085
+        ]
+      }
+    }
+  ]
+}

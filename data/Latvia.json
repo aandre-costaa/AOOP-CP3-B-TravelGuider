@@ -1,0 +1,5779 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jelgavas Pils",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Jelgava",
+        "postcode": "LV-3001",
+        "suburb": "Salas",
+        "street": "Lielā iela",
+        "housenumber": "2",
+        "iso3166_2": "LV-JEL",
+        "lon": 23.73391121232057,
+        "lat": 56.655846749999995,
+        "formatted": "Jelgavas Pils, Lielā iela 2, Jelgava, LV-3001, Latvia",
+        "address_line1": "Jelgavas Pils",
+        "address_line2": "Lielā iela 2, Jelgava, LV-3001, Latvia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "heritage",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.contact",
+          "details.heritage",
+          "details.historic",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Jelgavas Pils",
+            "email": "muzejs@llu.lv",
+            "phone": "+371 63005617",
+            "osm_id": -1809433,
+            "name:de": "Schloß Mitau",
+            "name:et": "Jelgava loss",
+            "name:lt": "Jelgavo rūmai",
+            "name:lv": "Jelgavas Pils",
+            "name:pl": "Pałac w Jełgawie",
+            "name:ru": "Елгавский дворец",
+            "tourism": "attraction",
+            "website": "https://www.jelgavaspils.lv/",
+            "building": "palace",
+            "heritage": "yes",
+            "historic": "castle",
+            "osm_type": "r",
+            "wikidata": "Q1508013",
+            "addr:city": "Jelgava",
+            "architect": "Frančesko Bartolomeo Rastrelli",
+            "wikipedia": "lv:Jelgavas pils",
+            "addr:street": "Lielā iela",
+            "castle_type": "palace",
+            "ref:LV:addr": 102636791,
+            "addr:country": "LV",
+            "addr:postcode": "LV-3001",
+            "building:levels": 4,
+            "addr:housenumber": 2,
+            "heritage:operator": "vkpai",
+            "architect:wikidata": "Q299687",
+            "building:min_level": 0,
+            "building:architecture": "baroque"
+          }
+        },
+        "website": "https://www.jelgavaspils.lv/",
+        "name_international": {
+          "de": "Schloß Mitau",
+          "et": "Jelgava loss",
+          "lt": "Jelgavo rūmai",
+          "lv": "Jelgavas Pils",
+          "pl": "Pałac w Jełgawie",
+          "ru": "Елгавский дворец"
+        },
+        "contact": {
+          "phone": "+371 63005617",
+          "email": "muzejs@llu.lv"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1508013",
+          "wikipedia": "lv:Jelgavas pils"
+        },
+        "historic": {
+          "type": "castle",
+          "castle_type": "palace"
+        },
+        "heritage": {
+          "operator": "vkpai",
+          "ref": 102636791
+        },
+        "building": {
+          "levels": 4,
+          "type": "palace",
+          "architecture": "baroque"
+        },
+        "place_id": "51a615ef9ae1bb37405936684bc9f2534c40f00101f901199c1b000000000092030d4a656c67617661732050696c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.73391121232057,
+          56.655846750087605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melngalvju nams",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Latgales apkaime",
+        "suburb": "Old Riga",
+        "street": "Svaru iela",
+        "housenumber": "7",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.10678909115015,
+        "lat": 56.94715495,
+        "formatted": "House of the Black Heads, Svaru iela 7, Riga, LV-1050, Latvia",
+        "address_line1": "House of the Black Heads",
+        "address_line2": "Svaru iela 7, Riga, LV-1050, Latvia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Melngalvju nams",
+            "osm_id": 87495471,
+            "name:be": "Дом Чорнагаловых",
+            "name:de": "Schwarzhäupterhaus",
+            "name:en": "House of the Black Heads",
+            "name:fr": "Maison des Têtes noires de Riga",
+            "name:lv": "Melngalvju nams",
+            "name:nl": "Huis van de Zwarte Hoofden",
+            "name:pl": "Dom Bractwa Czarnogłowych w Rydze",
+            "name:ru": "Дом Черноголовых",
+            "name:zh": "黑头宫",
+            "tourism": "attraction",
+            "website": "https://www.melngalvjunams.lv/",
+            "building": "yes",
+            "osm_type": "w",
+            "wikidata": "Q74736",
+            "addr:city": "Rīga",
+            "wikipedia": "lv:Melngalvju nams",
+            "addr:street": "Rātslaukums",
+            "ref:LV:addr": 105446026,
+            "addr:country": "LV",
+            "addr:postcode": "LV-1050",
+            "building:levels": 5,
+            "addr:housenumber": 7
+          }
+        },
+        "website": "https://www.melngalvjunams.lv/",
+        "name_international": {
+          "be": "Дом Чорнагаловых",
+          "de": "Schwarzhäupterhaus",
+          "en": "House of the Black Heads",
+          "fr": "Maison des Têtes noires de Riga",
+          "lv": "Melngalvju nams",
+          "nl": "Huis van de Zwarte Hoofden",
+          "pl": "Dom Bractwa Czarnogłowych w Rydze",
+          "ru": "Дом Черноголовых",
+          "zh": "黑头宫"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q74736",
+          "wikipedia": "lv:Melngalvju nams"
+        },
+        "building": {
+          "levels": 5
+        },
+        "place_id": "51370fa687561b3840598cbe975f3c794c40f00102f9012f1337050000000092030f4d656c6e67616c766a75206e616d73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.106789091150144,
+          56.947154950231464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalnciema kvartāls",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1002",
+        "district": "Āgenskalna apkaime",
+        "neighbourhood": "Āgenskalna priedes",
+        "suburb": "Āgenskalns",
+        "street": "Kalnciema iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.06669722163282,
+        "lat": 56.94312575,
+        "formatted": "Kalnciema kvartāls, Kalnciema iela, Riga, LV-1002, Latvia",
+        "address_line1": "Kalnciema kvartāls",
+        "address_line2": "Kalnciema iela, Riga, LV-1002, Latvia",
+        "categories": [
+          "commercial.marketplace",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kalnciema kvartāls",
+            "phone": "+371 67614322",
+            "osm_id": 415977223,
+            "amenity": "marketplace",
+            "landuse": "commercial",
+            "tourism": "attraction",
+            "website": "http://www.kalnciemaiela.lv/",
+            "osm_type": "w"
+          }
+        },
+        "website": "http://www.kalnciemaiela.lv/",
+        "contact": {
+          "phone": "+371 67614322"
+        },
+        "place_id": "51a8a5b11113113840591da03658b8784c40f00102f901074fcb18000000009203134b616c6e6369656d61206b76617274c4816c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.066697221632836,
+          56.943125750229434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MyEscape",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1039",
+        "district": "Teikas apkaime",
+        "neighbourhood": "Jaunā Teika",
+        "suburb": "Teika",
+        "street": "Gustava Zemgala gatve",
+        "housenumber": "71",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1660861,
+        "lat": 56.9717095,
+        "formatted": "MyEscape, Gustava Zemgala gatve 71, Riga, LV-1039, Latvia",
+        "address_line1": "MyEscape",
+        "address_line2": "Gustava Zemgala gatve 71, Riga, LV-1039, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "MyEscape",
+            "level": 1,
+            "phone": "+371 27297722",
+            "osm_id": 3966905928,
+            "tourism": "attraction",
+            "website": "https://myescape.lv/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://myescape.lv/",
+        "contact": {
+          "phone": "+371 27297722"
+        },
+        "place_id": "51f8d15f9e842a3840593b6116fa607c4c40f00103f901482e72ec000000009203084d79457363617065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1660861,
+          56.9717095002438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cepļi",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Limbažu novads",
+        "city": "Skultes pagasts",
+        "village": "Dunte",
+        "isolated_dwelling": "Rūķīši",
+        "postcode": "LV-4025",
+        "street": "Rīga (Baltezers) — Igaunijas robeža (Ainaži)",
+        "iso3166_2": "LV-054",
+        "lon": 24.4336044,
+        "lat": 57.3998999,
+        "formatted": "Cepļi, Rīga (Baltezers) — Igaunijas robeža (Ainaži), Skultes pagasts, LV-4025, Latvia",
+        "address_line1": "Cepļi",
+        "address_line2": "Rīga (Baltezers) — Igaunijas robeža (Ainaži), Skultes pagasts, LV-4025, Latvia",
+        "categories": [
+          "production",
+          "production.pottery",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cepļi",
+            "craft": "pottery",
+            "email": "cepli@cepli.lv",
+            "phone": "+371 29234867",
+            "osm_id": 6720846504,
+            "tourism": "attraction",
+            "website": "https://www.cepli.lv/",
+            "osm_type": "n",
+            "ref:LV:addr": 104973053,
+            "addr:country": "LV",
+            "addr:district": "Limbažu novads",
+            "addr:postcode": "LV-4025",
+            "addr:housename": "Cepļi",
+            "addr:subdistrict": "Skultes pagasts"
+          }
+        },
+        "website": "https://www.cepli.lv/",
+        "craft": "pottery",
+        "contact": {
+          "phone": "+371 29234867",
+          "email": "cepli@cepli.lv"
+        },
+        "production": {
+          "industry": "pottery"
+        },
+        "place_id": "51d566adb2006f384059001581eb2fb34c40f00103f901a8fa979001000000920306436570c4bc69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.433604399999997,
+          57.399899900463424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Namdara darbnīca",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ropažu novads",
+        "city": "Garkalnes pagasts",
+        "hamlet": "Bāliņi",
+        "street": "P3",
+        "iso3166_2": "LV-080",
+        "lon": 24.4612555,
+        "lat": 57.0140046,
+        "formatted": "Namdara darbnīca, P3, Garkalnes pagasts, Latvia",
+        "address_line1": "Namdara darbnīca",
+        "address_line2": "P3, Garkalnes pagasts, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Namdara darbnīca",
+            "email": "namdara.darbnica@inbox.lv",
+            "phone": "+371 29858049; +371 29259855",
+            "osm_id": 11658220982,
+            "tourism": "attraction",
+            "website": "https://www.namdaradarbnica.com/",
+            "osm_type": "n",
+            "wheelchair": "yes"
+          }
+        },
+        "website": "https://www.namdaradarbnica.com/",
+        "contact": {
+          "phone": "+371 29858049; +371 29259855",
+          "email": "namdara.darbnica@inbox.lv"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "place_id": "51a19927d71476384059f4101ae7ca814c40f00103f901b655e2b6020000009203114e616d6461726120646172626ec4ab6361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.461255499999996,
+          57.01400460026517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trīs brāļi",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Latgales apkaime",
+        "suburb": "Old Riga",
+        "street": "Mazā Pils iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.10429057212537,
+        "lat": 56.950349200000005,
+        "formatted": "Three Brothers, Mazā Pils iela, Riga, LV-1050, Latvia",
+        "address_line1": "Three Brothers",
+        "address_line2": "Mazā Pils iela, Riga, LV-1050, Latvia",
+        "categories": [
+          "heritage",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.heritage",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trīs brāļi",
+            "image": "https://commons.wikimedia.org/wiki/File:Рыжскія замалёўкі_10.jpg",
+            "osm_id": 348059067,
+            "name:be": "Тры браты",
+            "name:de": "Drei Brüder",
+            "name:en": "Three Brothers",
+            "name:fr": "Les trois frères",
+            "name:lv": "Trīs brāļi",
+            "name:ru": "Три брата",
+            "tourism": "attraction",
+            "heritage": 2,
+            "historic": "yes",
+            "osm_type": "w",
+            "wikidata": "Q282196",
+            "wikipedia": "lv:Trīs brāļi",
+            "heritage:operator": "vkpai",
+            "wikimedia_commons": "Category:Three_Brothers_(Riga)"
+          }
+        },
+        "name_international": {
+          "be": "Тры браты",
+          "de": "Drei Brüder",
+          "en": "Three Brothers",
+          "fr": "Les trois frères",
+          "lv": "Trīs brāļi",
+          "ru": "Три брата"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q282196",
+          "wikipedia": "lv:Trīs brāļi",
+          "wikimedia_commons": "Category:Three_Brothers_(Riga)",
+          "image": "https://commons.wikimedia.org/wiki/File:Рыжскія замалёўкі_10.jpg"
+        },
+        "heritage": {
+          "level": 2,
+          "operator": "vkpai"
+        },
+        "place_id": "51418f74c9b21a384059ee63e70aa5794c40f00102f901bbf5be140000000092030d5472c4ab73206272c481c4bc69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.104290572125368,
+          56.95034920023305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rīgas Pils",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Latgales apkaime",
+        "suburb": "Old Riga",
+        "street": "Pils laukums",
+        "housenumber": "3",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.101148694243882,
+        "lat": 56.95096495,
+        "formatted": "Riga Castle, Pils laukums 3, Riga, LV-1050, Latvia",
+        "address_line1": "Riga Castle",
+        "address_line2": "Pils laukums 3, Riga, LV-1050, Latvia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "heritage",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.castle"
+        ],
+        "details": [
+          "details",
+          "details.heritage",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rīgas Pils",
+            "layer": 1,
+            "osm_id": -1393926,
+            "name:be": "Рыжскі замак",
+            "name:de": "Rigaer Schloss",
+            "name:en": "Riga Castle",
+            "name:fr": "Château de Riga",
+            "name:lv": "Rīgas Pils",
+            "name:ru": "Рижский замок",
+            "tourism": "attraction",
+            "building": "castle",
+            "heritage": 2,
+            "historic": "castle",
+            "osm_type": "r",
+            "wikidata": "Q322183",
+            "addr:city": "Rīga",
+            "wikipedia": "lv:Rīgas pils",
+            "addr:street": "Pils laukums",
+            "ref:LV:addr": 106306366,
+            "addr:country": "LV",
+            "addr:postcode": "LV-1050",
+            "addr:housenumber": 3,
+            "heritage:website": "https://mantojums.lv/cultural-objects/6594",
+            "heritage:operator": "vkpai"
+          }
+        },
+        "name_international": {
+          "be": "Рыжскі замак",
+          "de": "Rigaer Schloss",
+          "en": "Riga Castle",
+          "fr": "Château de Riga",
+          "lv": "Rīgas Pils",
+          "ru": "Рижский замок"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q322183",
+          "wikipedia": "lv:Rīgas pils"
+        },
+        "historic": {
+          "type": "castle"
+        },
+        "heritage": {
+          "level": 2,
+          "operator": "vkpai",
+          "website": "https://mantojums.lv/cultural-objects/6594",
+          "ref": 106306366
+        },
+        "building": {
+          "type": "castle"
+        },
+        "place_id": "5184cf7de1e41938405981723038b9794c40f00101f901064515000000000092030b52c4ab6761732050696c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.10114869424389,
+          56.95096495023336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaķu nams",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Latgales apkaime",
+        "suburb": "Old Riga",
+        "street": "Meistaru iela",
+        "housenumber": "10",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.108541108868014,
+        "lat": 56.950182850000004,
+        "formatted": "Cat House, Meistaru iela 10, Riga, LV-1050, Latvia",
+        "address_line1": "Cat House",
+        "address_line2": "Meistaru iela 10, Riga, LV-1050, Latvia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kaķu nams",
+            "osm_id": -1307300,
+            "name:de": "Katzenhaus",
+            "name:en": "Cat House",
+            "name:fr": "Maison du Chat",
+            "name:it": "Casa del gatto",
+            "name:lv": "Kaķu nams",
+            "name:ru": "Дом с котами",
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "yes",
+            "osm_type": "r",
+            "wikidata": "Q2533242",
+            "addr:city": "Rīga",
+            "wikipedia": "lv:Kaķu nams",
+            "addr:street": "Meistaru iela",
+            "ref:LV:addr": 101949287,
+            "addr:country": "LV",
+            "addr:postcode": "LV-1050",
+            "building:levels": 5,
+            "addr:housenumber": 10,
+            "old_addr:housenumber": "10/12"
+          }
+        },
+        "name_international": {
+          "de": "Katzenhaus",
+          "en": "Cat House",
+          "fr": "Maison du Chat",
+          "it": "Casa del gatto",
+          "lv": "Kaķu nams",
+          "ru": "Дом с котами"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q2533242",
+          "wikipedia": "lv:Kaķu nams"
+        },
+        "building": {
+          "levels": 5
+        },
+        "place_id": "5115dca059c91b3840593e7c75979f794c40f00101f901a4f213000000000092030a4b61c4b775206e616d73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.108541108868014,
+          56.95018285023296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ķirzaciņa",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Jūrmala",
+        "postcode": "LV-2012",
+        "suburb": "Ķemeri",
+        "street": "Tūristu iela",
+        "housenumber": "1",
+        "iso3166_2": "LV-JUR",
+        "lon": 23.502381710238602,
+        "lat": 56.948074250000005,
+        "formatted": "Ķirzaciņa, Tūristu iela 1, Jūrmala, LV-2012, Latvia",
+        "address_line1": "Ķirzaciņa",
+        "address_line2": "Tūristu iela 1, Jūrmala, LV-2012, Latvia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķirzaciņa",
+            "osm_id": 106890101,
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Jūrmala",
+            "addr:street": "Tūristu iela",
+            "ref:LV:addr": 102488310,
+            "addr:country": "LV",
+            "addr:postcode": "LV-2012",
+            "opening_hours": "24/7",
+            "addr:housenumber": 1
+          }
+        },
+        "opening_hours": "24/7",
+        "place_id": "51579577169c8037405980763d7f5a794c40f00102f90175035f060000000092030bc4b669727a616369c58661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.502381710238605,
+          56.94807425023191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Putnu vērošanas tornis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Lapmežciema pagasts",
+        "postcode": "LV-3118",
+        "street": "Lapmežciems — Antiņciems",
+        "iso3166_2": "LV-099",
+        "lon": 23.4709557,
+        "lat": 57.00066535,
+        "formatted": "Bird watching tower, Lapmežciems — Antiņciems, Lapmežciema pagasts, LV-3118, Latvia",
+        "address_line1": "Bird watching tower",
+        "address_line2": "Lapmežciems — Antiņciems, Lapmežciema pagasts, LV-3118, Latvia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Putnu vērošanas tornis",
+            "osm_id": 179034976,
+            "leisure": "bird_hide",
+            "name:en": "Bird watching tower",
+            "name:lv": "Putnu vērošanas tornis",
+            "tourism": "viewpoint",
+            "building": "yes",
+            "man_made": "tower",
+            "osm_type": "w",
+            "wikidata": "Q114669263",
+            "tower:type": "observation",
+            "observation": "landscape"
+          }
+        },
+        "name_international": {
+          "en": "Bird watching tower",
+          "lv": "Putnu vērošanas tornis"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q114669263"
+        },
+        "place_id": "51625d818d9078374059d5cc5ccd15804c40f00102f90160dbab0a000000009203185075746e752076c493726fc5a1616e617320746f726e6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.470955699999998,
+          57.00066535025841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kraukļu aiza",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "district": "Pilskalni",
+        "street": "Rūsiņa iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.8673856,
+        "lat": 57.1739815,
+        "formatted": "Kraukļu aiza, Rūsiņa iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Kraukļu aiza",
+        "address_line2": "Rūsiņa iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kraukļu aiza",
+            "osm_id": 311123742,
+            "name:lv": "Kraukļu aiza",
+            "name:ru": "Воронье ущелье",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wheelchair": "no",
+            "reservation": "no",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "lv": "Kraukļu aiza",
+          "ru": "Воронье ущелье"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "51760591fb0cde3840598d0c9b0645964c40f00103f9011e5f8b120000000092030d4b7261756bc4bc752061697a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8673856,
+          57.17398150034669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lāčplesis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Jūrmala",
+        "postcode": "LV-2015",
+        "suburb": "Majori",
+        "street": "Lienes iela",
+        "iso3166_2": "LV-JUR",
+        "lon": 23.796289,
+        "lat": 56.9719886,
+        "formatted": "Lāčplesis, Lienes iela, Jūrmala, LV-2015, Latvia",
+        "address_line1": "Lāčplesis",
+        "address_line2": "Lienes iela, Jūrmala, LV-2015, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lāčplesis",
+            "osm_id": 1016780878,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q21661913"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q21661913"
+        },
+        "place_id": "51202a8d98d9cb374059fa10591f6a7c4c40f00103f9014ed89a3c0000000092030b4cc481c48d706c65736973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.796289,
+          56.97198860024396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lielvārdes viduslaiku pilsdrupas",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ogres novads",
+        "city": "Lielvārde",
+        "postcode": "LV-5070",
+        "district": "Lāčplēsis",
+        "street": "Edgara Kauliņa aleja",
+        "iso3166_2": "LV-067",
+        "lon": 24.838450810592313,
+        "lat": 56.711489650000004,
+        "formatted": "Lielvārdes viduslaiku pilsdrupas, Edgara Kauliņa aleja, Lielvārde, LV-5070, Latvia",
+        "address_line1": "Lielvārdes viduslaiku pilsdrupas",
+        "address_line2": "Edgara Kauliņa aleja, Lielvārde, LV-5070, Latvia",
+        "categories": [
+          "access",
+          "access.yes",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lielvārdes viduslaiku pilsdrupas",
+            "access": "yes",
+            "osm_id": 1274373257,
+            "tourism": "attraction",
+            "website": "http://lielvarde.lv/index.php?option=com_content&view=article&Itemid=904&id=8721709",
+            "historic": "yes",
+            "osm_type": "w",
+            "historic:civilization": "medieval"
+          }
+        },
+        "website": "http://lielvarde.lv/index.php?option=com_content&view=article&Itemid=904&id=8721709",
+        "historic": {
+          "civilization": "medieval"
+        },
+        "restrictions": {
+          "access": "permissive"
+        },
+        "place_id": "5175cc5ab6a4d6384059aa57c517125b4c40f00102f9018964f54b000000009203214c69656c76c481726465732076696475736c61696b752070696c73647275706173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.83845081059231,
+          56.71148965011464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lielais Kristaps",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Latgales apkaime",
+        "suburb": "Old Riga",
+        "street": "11. novembra krastmala",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1001033,
+        "lat": 56.9496904,
+        "formatted": "Lielais Kristaps, 11. novembra krastmala, Riga, LV-1050, Latvia",
+        "address_line1": "Lielais Kristaps",
+        "address_line2": "11. novembra krastmala, Riga, LV-1050, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lielais Kristaps",
+            "osm_id": 1294679116,
+            "name:de": "Statue des Großen Christopherus",
+            "name:lv": "Lielais Kristaps",
+            "name:ru": "Большой Кристап",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q4092700",
+            "artist_name": "Mihaels Brinkmans;Ģirts Upītis",
+            "artwork_type": "statue"
+          }
+        },
+        "name_international": {
+          "de": "Statue des Großen Christopherus",
+          "lv": "Lielais Kristaps",
+          "ru": "Большой Кристап"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q4092700"
+        },
+        "artwork": {
+          "artist_name": "Mihaels Brinkmans;Ģirts Upītis",
+          "artwork_type": "statue"
+        },
+        "place_id": "51c0b8af5ea0193840598f297d748f794c40f00103f9014c3c2b4d000000009203104c69656c616973204b72697374617073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1001033,
+          56.94969040023272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ierakumi Langas upes stāvkrastā",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1023",
+        "district": "Vecmīlgrāvja apkaime",
+        "suburb": "Trīsciems",
+        "street": "Rudzu iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.147074023149614,
+        "lat": 57.07244775,
+        "formatted": "Langa River Steep Bank Trenches, Rudzu iela, Riga, LV-1023, Latvia",
+        "address_line1": "Langa River Steep Bank Trenches",
+        "address_line2": "Rudzu iela, Riga, LV-1023, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Ierakumi Langas upes stāvkrastā",
+            "osm_id": 1304545370,
+            "period": "1943 - 1945",
+            "name:en": "Langa River Steep Bank Trenches",
+            "name:lv": "Ierakumi Langas upes stāvkrastā",
+            "tourism": "attraction",
+            "website": "https://militaryheritagetourism.info/lv/military/sites/view/113?1",
+            "osm_type": "w"
+          }
+        },
+        "website": "https://militaryheritagetourism.info/lv/military/sites/view/113?1",
+        "name_international": {
+          "en": "Langa River Steep Bank Trenches",
+          "lv": "Ierakumi Langas upes stāvkrastā"
+        },
+        "place_id": "51cc84a7a4a625384059ad17c7f745894c40f00102f9015ac8c14d00000000920321496572616b756d69204c616e6761732075706573207374c481766b72617374c481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.147074023149614,
+          57.072447750294806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laimas pulkstenis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Centra apkaime",
+        "neighbourhood": "Centra rajons",
+        "suburb": "Centre",
+        "street": "Freedom Square",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1119797,
+        "lat": 56.9504421,
+        "formatted": "Laima Clock, Freedom Square, Riga, LV-1050, Latvia",
+        "address_line1": "Laima Clock",
+        "address_line2": "Freedom Square, Riga, LV-1050, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.clock"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Laimas pulkstenis",
+            "osm_id": 1691772900,
+            "amenity": "clock",
+            "display": "analog",
+            "name:de": "Laima Uhr",
+            "name:en": "Laima Clock",
+            "name:lv": "Laimas pulkstenis",
+            "name:ru": "Часы Лайма",
+            "support": "ground",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q4507748",
+            "wikipedia": "lv:Laimas pulkstenis",
+            "visibility": "area"
+          }
+        },
+        "name_international": {
+          "de": "Laima Uhr",
+          "en": "Laima Clock",
+          "lv": "Laimas pulkstenis",
+          "ru": "Часы Лайма"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q4507748",
+          "wikipedia": "lv:Laimas pulkstenis"
+        },
+        "place_id": "51dd509db3aa1c384059109f3416a8794c40f00103f901e467d664000000009203114c61696d61732070756c6b7374656e6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.111979699999996,
+          56.95044210023309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satezeles kanjons",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "district": "Pilskalni",
+        "street": "Pilskalnu iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.8686091,
+        "lat": 57.1717834,
+        "formatted": "Satezeles kanjons, Pilskalnu iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Satezeles kanjons",
+        "address_line2": "Pilskalnu iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Satezeles kanjons",
+            "osm_id": 1709000858,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "reservation": "no",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "place_id": "510c827d2a5dde3840596d3d9bfffc954c40f00103f9019a48dd6500000000920311536174657a656c6573206b616e6a6f6e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8686091,
+          57.17178340034557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brēmenes muzikanti",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Latgales apkaime",
+        "suburb": "Old Riga",
+        "street": "Skārņu iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1097659,
+        "lat": 56.947724,
+        "formatted": "Bremen Town Musicians, Skārņu iela, Riga, LV-1050, Latvia",
+        "address_line1": "Bremen Town Musicians",
+        "address_line2": "Skārņu iela, Riga, LV-1050, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Brēmenes muzikanti",
+            "osm_id": 2506501899,
+            "name:be": "Брэменскія музыкі",
+            "name:de": "Bremer Stadtmusikanten",
+            "name:en": "Bremen Town Musicians",
+            "name:lt": "Brėmeno muzikantai",
+            "name:lv": "Brēmenes muzikanti",
+            "name:pl": "Muzykanci z Bremy",
+            "name:ru": "Бременские музыканты",
+            "name:tr": "Bremen Mızıkacıları",
+            "tourism": "artwork",
+            "operator": "Rīgas pieminekļu aģentūra",
+            "osm_type": "n",
+            "wikidata": "Q4343092",
+            "wikipedia": "lv:Brēmenes muzikantu skulptūra",
+            "start_date": 1990,
+            "artist_name": "Gerhards Marks;Krista Baumgartele",
+            "artwork_type": "sculpture"
+          }
+        },
+        "operator": "Rīgas pieminekļu aģentūra",
+        "name_international": {
+          "be": "Брэменскія музыкі",
+          "de": "Bremer Stadtmusikanten",
+          "en": "Bremen Town Musicians",
+          "lt": "Brėmeno muzikantai",
+          "lv": "Brēmenes muzikanti",
+          "pl": "Muzykanci z Bremy",
+          "ru": "Бременские музыканты",
+          "tr": "Bremen Mızıkacıları"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q4343092",
+          "wikipedia": "lv:Brēmenes muzikantu skulptūra"
+        },
+        "artwork": {
+          "artist_name": "Gerhards Marks;Krista Baumgartele",
+          "artwork_type": "sculpture",
+          "start_date": 1990
+        },
+        "place_id": "514cb7369e191c384059965021054f794c40f00103f9010b2f6695000000009203134272c4936d656e6573206d757a696b616e7469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1097659,
+          56.94772400023173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bungee jumping",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "village": "Krimulda",
+        "postcode": "LV-2150",
+        "street": "Jāņa Poruka iela",
+        "housenumber": "14",
+        "iso3166_2": "LV-091",
+        "lon": 24.845736,
+        "lat": 57.1645468,
+        "formatted": "Bungee jumping, Jāņa Poruka iela 14, Sigulda, LV-2150, Latvia",
+        "address_line1": "Bungee jumping",
+        "address_line2": "Jāņa Poruka iela 14, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bungee jumping",
+            "phone": "+371 29212731",
+            "osm_id": 3250764673,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "contact": {
+          "phone": "+371 29212731"
+        },
+        "place_id": "51c30c8d2782d838405998109bde0f954c40f00103f90181bbc2c10000000092030e42756e676565206a756d70696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.845736,
+          57.16454680034184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rīgas panorāma",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Latgales apkaime",
+        "neighbourhood": "Lastādija",
+        "suburb": "Latgales apkaime",
+        "street": "Vilhelma Purvīša iela",
+        "housenumber": "1",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.12193,
+        "lat": 56.9431962,
+        "formatted": "Rīgas panorāma, Vilhelma Purvīša iela 1, Riga, LV-1050, Latvia",
+        "address_line1": "Rīgas panorāma",
+        "address_line2": "Vilhelma Purvīša iela 1, Riga, LV-1050, Latvia",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Rīgas panorāma",
+            "charge": "6 EUR",
+            "osm_id": 3737876875,
+            "name:lt": "Rygos panorama",
+            "name:lv": "Rīgas panorāma",
+            "name:pl": "Panorama Rygi",
+            "tourism": "viewpoint",
+            "website": "http://www.panoramariga.lv",
+            "osm_type": "n",
+            "wheelchair": "no"
+          }
+        },
+        "website": "http://www.panoramariga.lv",
+        "name_international": {
+          "lt": "Rygos panorama",
+          "lv": "Rīgas panorāma",
+          "pl": "Panorama Rygi"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "51b966f2cd361f38405939d930a7ba784c40f00103f9018b79cbde0000000092031052c4ab6761732070616e6f72c4816d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.121929999999995,
+          56.94319620022947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katrīnas liepas",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Saulkrastu novads",
+        "city": "Saulkrasti",
+        "district": "Pabaži",
+        "street": "Kāpu iela",
+        "iso3166_2": "LV-089",
+        "lon": 24.3927904,
+        "lat": 57.2337233,
+        "formatted": "Catherine’s lindens, Kāpu iela, Saulkrasti, Latvia",
+        "address_line1": "Catherine’s lindens",
+        "address_line2": "Kāpu iela, Saulkrasti, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Katrīnas liepas",
+            "osm_id": 3751891858,
+            "name:en": "Catherine’s lindens",
+            "name:lv": "Katrīnas liepas",
+            "name:ru": "Липы Катрины",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "wikidata": "Q113192125"
+          }
+        },
+        "name_international": {
+          "en": "Catherine’s lindens",
+          "lv": "Katrīnas liepas",
+          "ru": "Липы Катрины"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q113192125"
+        },
+        "place_id": "51c92e62e98d643840598eb725a5ea9d4c40f00103f9019253a1df000000009203104b617472c4ab6e6173206c6965706173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3927904,
+          57.23372330037738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miera deja",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1010",
+        "district": "Centra apkaime",
+        "neighbourhood": "Centra rajons",
+        "suburb": "Centre",
+        "street": "Raiņa bulvāris",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.110632,
+        "lat": 56.9529443,
+        "formatted": "Miera deja, Raiņa bulvāris, Riga, LV-1010, Latvia",
+        "address_line1": "Miera deja",
+        "address_line2": "Raiņa bulvāris, Riga, LV-1010, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Miera deja",
+            "osm_id": 3772368687,
+            "name:de": "Friedenstanz",
+            "name:lv": "Miera deja",
+            "name:ru": "Танец мира",
+            "tourism": "artwork",
+            "operator": "Rīgas pieminekļu aģentūra",
+            "osm_type": "n",
+            "wikidata": "Q60846706",
+            "start_date": 1970,
+            "artist_name": "Pārsla Zaļkalne",
+            "artwork_type": "statue"
+          }
+        },
+        "operator": "Rīgas pieminekļu aģentūra",
+        "name_international": {
+          "de": "Friedenstanz",
+          "lv": "Miera deja",
+          "ru": "Танец мира"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q60846706"
+        },
+        "artwork": {
+          "artist_name": "Pārsla Zaļkalne",
+          "artwork_type": "statue",
+          "start_date": 1970
+        },
+        "place_id": "511de4f560521c38405945352e14fa794c40f00103f9012fc7d9e00000000092030a4d696572612064656a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.110632,
+          56.95294430023436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Origo Universi",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Centra apkaime",
+        "suburb": "Centre",
+        "street": "Stacijas laukums",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1206111,
+        "lat": 56.9474945,
+        "formatted": "Origo Universi, Stacijas laukums, Riga, LV-1050, Latvia",
+        "address_line1": "Origo Universi",
+        "address_line2": "Stacijas laukums, Riga, LV-1050, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.attraction.clock"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Origo Universi",
+            "indoor": "no",
+            "osm_id": 4271114290,
+            "amenity": "clock",
+            "display": "sundial",
+            "support": "ground",
+            "tourism": "artwork",
+            "website": "https://www.saulespulkstenis.lv/origo-universi-atklasana/",
+            "osm_type": "n",
+            "reg_name": "Origo saulespulkstenis",
+            "check_date": "2022-09-10",
+            "start_date": "2012-11-14",
+            "visibility": "house",
+            "artist_name": "Valdis Majevskis"
+          }
+        },
+        "website": "https://www.saulespulkstenis.lv/origo-universi-atklasana/",
+        "name_other": {
+          "reg_name": "Origo saulespulkstenis"
+        },
+        "artwork": {
+          "artist_name": "Valdis Majevskis",
+          "start_date": "2012-11-14"
+        },
+        "place_id": "51da087a5ee01e3840593dd1f17f47794c40f00103f901320894fe0000000092030e4f7269676f20556e697665727369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.120611099999998,
+          56.94749450023162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sam",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1039",
+        "district": "Teikas apkaime",
+        "neighbourhood": "Jaunā Teika",
+        "suburb": "Teika",
+        "street": "Gustava Zemgala gatve",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1650038,
+        "lat": 56.9764262,
+        "formatted": "Sam, Gustava Zemgala gatve, Riga, LV-1039, Latvia",
+        "address_line1": "Sam",
+        "address_line2": "Gustava Zemgala gatve, Riga, LV-1039, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sam",
+            "osm_id": 4431491489,
+            "tourism": "artwork",
+            "website": "https://www.denis-prasolov.com/kopiya-first-crew",
+            "osm_type": "n",
+            "artist_name": "Denis Prasolov",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://www.denis-prasolov.com/kopiya-first-crew",
+        "artwork": {
+          "artist_name": "Denis Prasolov",
+          "artwork_type": "statue"
+        },
+        "place_id": "513ab764b03d2a384059e781a288fb7c4c40f00103f901a13123080100000092030353616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1650038,
+          56.97642620024617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lidojums pār pilsētu",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1010",
+        "district": "Centra apkaime",
+        "neighbourhood": "Centra rajons",
+        "suburb": "Centre",
+        "street": "Raiņa bulvāris",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1121396,
+        "lat": 56.9523562,
+        "formatted": "Lidojums pār pilsētu, Raiņa bulvāris, Riga, LV-1010, Latvia",
+        "address_line1": "Lidojums pār pilsētu",
+        "address_line2": "Raiņa bulvāris, Riga, LV-1010, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lidojums pār pilsētu",
+            "osm_id": 4491486092,
+            "name:lv": "Lidojums pār pilsētu",
+            "name:ru": "Полёт над городом",
+            "tourism": "artwork",
+            "website": "https://en.rigaspieminekli.lv/?lapa=piemineklis&zanrs=3&rajons=6&id=52",
+            "operator": "Rīgas pieminekļu aģentūra",
+            "osm_type": "n",
+            "architect": "Jānis Krastiņš",
+            "start_date": 2005,
+            "artist_name": "Genādijs Stepanovs",
+            "artwork_type": "sculpture"
+          }
+        },
+        "website": "https://en.rigaspieminekli.lv/?lapa=piemineklis&zanrs=3&rajons=6&id=52",
+        "operator": "Rīgas pieminekļu aģentūra",
+        "name_international": {
+          "lv": "Lidojums pār pilsētu",
+          "ru": "Полёт над городом"
+        },
+        "artwork": {
+          "artist_name": "Genādijs Stepanovs",
+          "artwork_type": "sculpture",
+          "start_date": 2005
+        },
+        "place_id": "5126964a2eb51c384059f712d7cee6794c40f00103f9018ca3b60b010000009203164c69646f6a756d732070c481722070696c73c4937475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1121396,
+          56.95235620023407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangaļsalas bāka",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1010",
+        "district": "Centra apkaime",
+        "neighbourhood": "Centra rajons",
+        "suburb": "Centre",
+        "street": "Elizabetes iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1042017,
+        "lat": 56.9568183,
+        "formatted": "Mangaļsalas bāka, Elizabetes iela, Riga, LV-1010, Latvia",
+        "address_line1": "Mangaļsalas bāka",
+        "address_line2": "Elizabetes iela, Riga, LV-1010, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mangaļsalas bāka",
+            "osm_id": 6948323843,
+            "name:de": "Leuchtturm Magnusholm",
+            "name:lv": "Mangaļsalas bāka",
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wikidata": "Q98834717",
+            "wikipedia": "de:Leuchtturm Mangaļsala",
+            "wheelchair": "no",
+            "artwork_type": "architecture"
+          }
+        },
+        "name_international": {
+          "de": "Leuchtturm Magnusholm",
+          "lv": "Mangaļsalas bāka"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "wiki_and_media": {
+          "wikidata": "Q98834717",
+          "wikipedia": "de:Leuchtturm Mangaļsala"
+        },
+        "artwork": {
+          "artwork_type": "architecture"
+        },
+        "place_id": "5106b06df6ac1a38405959dda505797a4c40f00103f9010302279e010000009203124d616e6761c4bc73616c61732062c4816b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.104201699999997,
+          56.956818300236314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorodki",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1003",
+        "district": "Latgales apkaime",
+        "neighbourhood": "Lastādija",
+        "suburb": "Latgales apkaime",
+        "street": "Firsa Sadovņikova iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1311444,
+        "lat": 56.9422435,
+        "formatted": "Gorodki, Firsa Sadovņikova iela, Riga, LV-1003, Latvia",
+        "address_line1": "Gorodki",
+        "address_line2": "Firsa Sadovņikova iela, Riga, LV-1003, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "tourism.attraction.clock"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gorodki",
+            "osm_id": 7456889178,
+            "amenity": "clock",
+            "tourism": "artwork",
+            "website": "https://www.redzet.eu/photo/vides-dizaina-objekts-gorodki-riga-R-021-14",
+            "operator": "Rīgas pieminekļu aģentūra",
+            "osm_type": "n",
+            "architect": "Juris Lasis",
+            "start_date": 2010,
+            "artist_name": "Uģis Traumanis;Rihards Funts ;Pēteris Buks",
+            "artwork_type": "installation",
+            "official_name": "Vides dizaina objekts „Gorodki”"
+          }
+        },
+        "website": "https://www.redzet.eu/photo/vides-dizaina-objekts-gorodki-riga-R-021-14",
+        "operator": "Rīgas pieminekļu aģentūra",
+        "name_other": {
+          "official_name": "Vides dizaina objekts „Gorodki”"
+        },
+        "artwork": {
+          "artist_name": "Uģis Traumanis;Rihards Funts ;Pēteris Buks",
+          "artwork_type": "installation",
+          "start_date": 2010
+        },
+        "place_id": "51b50dedad92213840590f2d5d6f9b784c40f00103f9015a1977bc01000000920307476f726f646b69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1311444,
+          56.942243500228976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vēsturisko spēkratu klubs „Gauja\"",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Inčukalna pagasts",
+        "postcode": "LV-2140",
+        "district": "Gauja",
+        "street": "Darbnīcu iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.7018012,
+        "lat": 57.1280222,
+        "formatted": "Vēsturisko spēkratu klubs „Gauja\", Darbnīcu iela, Inčukalna pagasts, LV-2140, Latvia",
+        "address_line1": "Vēsturisko spēkratu klubs „Gauja\"",
+        "address_line2": "Darbnīcu iela, Inčukalna pagasts, LV-2140, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vēsturisko spēkratu klubs „Gauja\"",
+            "phone": "+371 26884037",
+            "osm_id": 7535100619,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "contact": {
+          "phone": "+371 26884037"
+        },
+        "place_id": "51254b523ea9b338405962c60d0863904c40f00103f901cb8220c10100000092032556c4937374757269736b6f207370c4936b72617475206b6c75627320e2809e4761756a6122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.701801199999995,
+          57.128022200323144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tvaika lokomobīle",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Salaspils novads",
+        "city": "Salaspils",
+        "village": "Tilderi",
+        "postcode": "LV-2169",
+        "district": "Ķesterciems",
+        "street": "Lauku iela",
+        "iso3166_2": "LV-087",
+        "lon": 24.3379744,
+        "lat": 56.8549698,
+        "formatted": "Steam lokomobile, Lauku iela, Salaspils, LV-2169, Latvia",
+        "address_line1": "Steam lokomobile",
+        "address_line2": "Lauku iela, Salaspils, LV-2169, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tvaika lokomobīle",
+            "osm_id": 8781184266,
+            "name:en": "Steam lokomobile",
+            "name:lv": "Tvaika lokomobīle",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "opening_hours": "24/7"
+          }
+        },
+        "opening_hours": "24/7",
+        "name_international": {
+          "en": "Steam lokomobile",
+          "lv": "Tvaika lokomobīle"
+        },
+        "place_id": "519ee2827d8556384059906e81a66f6d4c40f00103f9010a3d660b02000000920312547661696b61206c6f6b6f6d6f62c4ab6c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3379744,
+          56.85496980018536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ropejumping.lv Slokas papīrfabrikā",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Jūrmala",
+        "postcode": "LV-2011",
+        "suburb": "Sloka",
+        "street": "Fabrikas iela",
+        "iso3166_2": "LV-JUR",
+        "lon": 23.6348017,
+        "lat": 56.9429978,
+        "formatted": "Ropejumping.lv Slokas papīrfabrikā, Fabrikas iela, Jūrmala, LV-2011, Latvia",
+        "address_line1": "Ropejumping.lv Slokas papīrfabrikā",
+        "address_line2": "Fabrikas iela, Jūrmala, LV-2011, Latvia",
+        "categories": [
+          "fee",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Ropejumping.lv Slokas papīrfabrikā",
+            "phone": "+37126827117",
+            "height": 46,
+            "osm_id": 8814983242,
+            "tourism": "attraction",
+            "operator": "Ropejumping.lv",
+            "osm_type": "n",
+            "attraction": "bungee_jumping"
+          }
+        },
+        "operator": "Ropejumping.lv",
+        "contact": {
+          "phone": "+37126827117"
+        },
+        "place_id": "51f9f13c5d82a2374059b217e426b4784c40f00103f9014af8690d02000000920324526f70656a756d70696e672e6c7620536c6f6b617320706170c4ab7266616272696bc481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6348017,
+          56.94299780022938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnikavas kuģītis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ādažu novads",
+        "city": "Carnikavas pagasts",
+        "isolated_dwelling": "Laivas",
+        "postcode": "LV-2163",
+        "district": "Carnikava",
+        "street": "Laivu iela",
+        "iso3166_2": "LV-011",
+        "lon": 24.2664881,
+        "lat": 57.1337201,
+        "formatted": "Carnikavas kuģītis, Laivu iela, Carnikavas pagasts, LV-2163, Latvia",
+        "address_line1": "Carnikavas kuģītis",
+        "address_line2": "Laivu iela, Carnikavas pagasts, LV-2163, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Carnikavas kuģītis",
+            "osm_id": 9883558615,
+            "tourism": "attraction",
+            "website": "https://www.carnikavaskugitis.lv/",
+            "osm_type": "n"
+          }
+        },
+        "website": "https://www.carnikavaskugitis.lv/",
+        "place_id": "51ef456a903844384059efdb80bd1d914c40f00103f901d7221b4d020000009203144361726e696b61766173206b75c4a3c4ab746973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2664881,
+          57.13372010032605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tādi kā radi",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ādažu novads",
+        "city": "Ādaži",
+        "municipality": "Ādaži",
+        "postcode": "LV-2164",
+        "district": "Vējupe",
+        "street": "Gaujas iela",
+        "housenumber": "30",
+        "iso3166_2": "LV-011",
+        "lon": 24.3390759,
+        "lat": 57.0783948,
+        "formatted": "Tādi kā radi, Gaujas iela 30, Ādaži, LV-2164, Latvia",
+        "address_line1": "Tādi kā radi",
+        "address_line2": "Gaujas iela 30, Ādaži, LV-2164, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tādi kā radi",
+            "osm_id": 10112387111,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "start_date": "2022-10-18",
+            "artist_name": "Ance Eikena",
+            "artwork_type": "mural",
+            "wikimedia_commons": "File:Sienu gleznojums \"Tādi kā radi\" Ādažos.jpg"
+          }
+        },
+        "wiki_and_media": {
+          "wikimedia_commons": "File:Sienu gleznojums \"Tādi kā radi\" Ādažos.jpg"
+        },
+        "artwork": {
+          "artist_name": "Ance Eikena",
+          "artwork_type": "mural",
+          "start_date": "2022-10-18"
+        },
+        "place_id": "519c5c9dadcd5638405952ba3fd7088a4c40f00103f90127c8be5a0200000092030e54c4816469206bc4812072616469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.339075899999997,
+          57.07839480029783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olimpiete",
+        "ref": 1,
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ķekavas novads",
+        "city": "Ķekavas pagasts",
+        "town": "Ķekava",
+        "isolated_dwelling": "Šlūkas",
+        "municipality": "Ķekava",
+        "postcode": "LV-2123",
+        "street": "Nākotnes iela",
+        "iso3166_2": "LV-052",
+        "lon": 24.2380373,
+        "lat": 56.8280666,
+        "formatted": "Olimpiete, Nākotnes iela, Ķekavas pagasts, LV-2123, Latvia",
+        "address_line1": "Olimpiete",
+        "address_line2": "Nākotnes iela, Ķekavas pagasts, LV-2123, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": 1,
+            "name": "Olimpiete",
+            "osm_id": 10760947606,
+            "name:lv": "Olimpiete",
+            "name:uk": "Олимпіїка",
+            "tourism": "artwork",
+            "website": "https://vistas.lv/kekava-55/",
+            "osm_type": "n",
+            "artist_name": "Zīle Ozoliņa-Šneidere",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://vistas.lv/kekava-55/",
+        "name_international": {
+          "lv": "Olimpiete",
+          "uk": "Олимпіїка"
+        },
+        "artwork": {
+          "artist_name": "Zīle Ozoliņa-Šneidere",
+          "artwork_type": "statue"
+        },
+        "place_id": "5167ba3203f03c38405908531b16fe694c40f00103f90196076781020000009203094f6c696d7069657465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2380373,
+          56.82806660017201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novadniece",
+        "ref": 7,
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ķekavas novads",
+        "city": "Ķekavas pagasts",
+        "town": "Ķekava",
+        "municipality": "Ķekava",
+        "postcode": "LV-2123",
+        "suburb": "Loreķi",
+        "street": "Rīgas iela",
+        "iso3166_2": "LV-052",
+        "lon": 24.2370308,
+        "lat": 56.8294597,
+        "formatted": "Novadniece, Rīgas iela, Ķekavas pagasts, LV-2123, Latvia",
+        "address_line1": "Novadniece",
+        "address_line2": "Rīgas iela, Ķekavas pagasts, LV-2123, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": 7,
+            "name": "Novadniece",
+            "osm_id": 10760954505,
+            "name:lv": "Novadniece",
+            "name:uk": "Землячка",
+            "tourism": "artwork",
+            "website": "https://vistas.lv/kekava-55/",
+            "osm_type": "n",
+            "artist_name": "Dagmāra Ērgle",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://vistas.lv/kekava-55/",
+        "name_international": {
+          "lv": "Novadniece",
+          "uk": "Землячка"
+        },
+        "artwork": {
+          "artist_name": "Dagmāra Ērgle",
+          "artwork_type": "statue"
+        },
+        "place_id": "510c25ee0cae3c384059bbcb46bc2b6a4c40f00103f901892267810200000092030a4e6f7661646e69656365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2370308,
+          56.829459700172684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vēsturniece",
+        "ref": 3,
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ķekavas novads",
+        "city": "Ķekavas pagasts",
+        "village": "Vimbukrogs",
+        "isolated_dwelling": "Dārziņi",
+        "municipality": "Ķekava",
+        "postcode": "LV-2123",
+        "street": "Ziemeļu iela",
+        "iso3166_2": "LV-052",
+        "lon": 24.1983725,
+        "lat": 56.829904,
+        "formatted": "Vēsturniece, Ziemeļu iela, Ķekavas pagasts, LV-2123, Latvia",
+        "address_line1": "Vēsturniece",
+        "address_line2": "Ziemeļu iela, Ķekavas pagasts, LV-2123, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": 3,
+            "name": "Vēsturniece",
+            "osm_id": 10848357567,
+            "tourism": "artwork",
+            "website": "https://vistas.lv/kekava-55/",
+            "osm_type": "n",
+            "artist_name": "Elīna Plūme-Priedīte",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://vistas.lv/kekava-55/",
+        "artwork": {
+          "artist_name": "Elīna Plūme-Priedīte",
+          "artwork_type": "statue"
+        },
+        "place_id": "51ffec478ac832384059f7c7554b3a6a4c40f00103f901bfcc9c860200000092030c56c493737475726e69656365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1983725,
+          56.82990400017291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pilsētniece",
+        "ref": 2,
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ķekavas novads",
+        "city": "Ķekavas pagasts",
+        "town": "Ķekava",
+        "municipality": "Ķekava",
+        "postcode": "LV-2123",
+        "suburb": "Loreķi",
+        "street": "Gaismas iela",
+        "iso3166_2": "LV-052",
+        "lon": 24.2309394,
+        "lat": 56.8227988,
+        "formatted": "Pilsētniece, Gaismas iela, Ķekavas pagasts, LV-2123, Latvia",
+        "address_line1": "Pilsētniece",
+        "address_line2": "Gaismas iela, Ķekavas pagasts, LV-2123, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": 2,
+            "name": "Pilsētniece",
+            "osm_id": 10848357574,
+            "tourism": "artwork",
+            "website": "https://vistas.lv/kekava-55/",
+            "osm_type": "n",
+            "artist_name": "Ilona Korņilko;Linda Auziņa",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://vistas.lv/kekava-55/",
+        "artwork": {
+          "artist_name": "Ilona Korņilko;Linda Auziņa",
+          "artwork_type": "statue"
+        },
+        "place_id": "519e5b32d81e3b38405931f5987851694c40f00103f901c6cc9c860200000092030c50696c73c493746e69656365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.230939400000004,
+          56.82279880016939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Izcilniece",
+        "ref": 5,
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ķekavas novads",
+        "city": "Ķekavas pagasts",
+        "town": "Ķekava",
+        "municipality": "Ķekava",
+        "postcode": "LV-2123",
+        "suburb": "Loreķi",
+        "street": "Rīgas iela",
+        "iso3166_2": "LV-052",
+        "lon": 24.2347616,
+        "lat": 56.8310967,
+        "formatted": "Izcilniece, Rīgas iela, Ķekavas pagasts, LV-2123, Latvia",
+        "address_line1": "Izcilniece",
+        "address_line2": "Rīgas iela, Ķekavas pagasts, LV-2123, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": 5,
+            "name": "Izcilniece",
+            "osm_id": 10848357575,
+            "tourism": "artwork",
+            "website": "https://vistas.lv/kekava-55/",
+            "osm_type": "n",
+            "artist_name": "Vita Kokoša",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://vistas.lv/kekava-55/",
+        "artwork": {
+          "artist_name": "Vita Kokoša",
+          "artwork_type": "statue"
+        },
+        "place_id": "514c5b1256193c38405984876d60616a4c40f00103f901c7cc9c860200000092030a497a63696c6e69656365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2347616,
+          56.831096700173504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atpūtniece",
+        "ref": 6,
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ķekavas novads",
+        "city": "Ķekavas pagasts",
+        "town": "Ķekava",
+        "municipality": "Ķekava",
+        "postcode": "LV-2123",
+        "suburb": "Loreķi",
+        "street": "Rīgas iela",
+        "iso3166_2": "LV-052",
+        "lon": 24.2370576,
+        "lat": 56.8304994,
+        "formatted": "Atpūtniece, Rīgas iela, Ķekavas pagasts, LV-2123, Latvia",
+        "address_line1": "Atpūtniece",
+        "address_line2": "Rīgas iela, Ķekavas pagasts, LV-2123, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ref": 6,
+            "name": "Atpūtniece",
+            "osm_id": 10848357576,
+            "tourism": "artwork",
+            "website": "https://vistas.lv/kekava-55/",
+            "osm_type": "n",
+            "artist_name": "Zīle Ozoliņa-Šneidere",
+            "artwork_type": "statue"
+          }
+        },
+        "website": "https://vistas.lv/kekava-55/",
+        "artwork": {
+          "artist_name": "Zīle Ozoliņa-Šneidere",
+          "artwork_type": "statue"
+        },
+        "place_id": "51ab448fceaf3c384059b78be9cd4d6a4c40f00103f901c8cc9c860200000092030b417470c5ab746e69656365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.237057599999996,
+          56.8304994001732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skatu tornis \"Bumbu kalniņš\"",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1016",
+        "district": "Bolderājas apkaime",
+        "suburb": "Kleisti",
+        "street": "Apakšgrāvja iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.0201955,
+        "lat": 57.0039674,
+        "formatted": "Skatu tornis \"Bumbu kalniņš\", Apakšgrāvja iela, Riga, LV-1016, Latvia",
+        "address_line1": "Skatu tornis \"Bumbu kalniņš\"",
+        "address_line2": "Apakšgrāvja iela, Riga, LV-1016, Latvia",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "foot": "yes",
+            "name": "Skatu tornis \"Bumbu kalniņš\"",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bumbu_kalni%C5%86a_skatu_tornis.jpg",
+            "osm_id": 3719893192,
+            "tourism": "viewpoint",
+            "man_made": "tower",
+            "material": "wood",
+            "osm_type": "n",
+            "tower:type": "observation",
+            "observation": "firewatch;landscape"
+          }
+        },
+        "wiki_and_media": {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bumbu_kalni%C5%86a_skatu_tornis.jpg"
+        },
+        "place_id": "51c00644882b05384059042ff70082804c40f00103f901c810b9dd0000000092031e536b61747520746f726e6973202242756d6275206b616c6e69c586c5a122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0201955,
+          57.00396740026011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kūrmāja",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ogres novads",
+        "city": "Ogre",
+        "postcode": "LV-5001",
+        "district": "Centrs",
+        "street": "Brīvības iela",
+        "housenumber": "32",
+        "iso3166_2": "LV-067",
+        "lon": 24.60595777746815,
+        "lat": 56.817460249999996,
+        "formatted": "Kūrmāja, Brīvības iela 32, Ogre, LV-5001, Latvia",
+        "address_line1": "Kūrmāja",
+        "address_line2": "Brīvības iela 32, Ogre, LV-5001, Latvia",
+        "categories": [
+          "building",
+          "building.commercial",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kūrmāja",
+            "osm_id": 40060810,
+            "tourism": "attraction",
+            "building": "retail",
+            "osm_type": "w",
+            "addr:city": "Ogre",
+            "start_date": 1926,
+            "addr:street": "Brīvības iela",
+            "description": "Ēka atvēŗta 1926. gadā. Tā piederēja Paulam Baumanim, kas te atvēra kafejnīcu un pansiju \"Oger- kurhaus\". Vakaros šeit spēlēja mūziķi, un tā bija labi iecienīta no Rīgas Mākslinieku puses. No 1935. gada šī ēka kļuva par sabiedriskās dzīves centru Ogrē.",
+            "ref:LV:addr": 101354366,
+            "addr:country": "LV",
+            "addr:district": "Ogres novads",
+            "addr:postcode": "LV-5001",
+            "addr:housenumber": 32
+          }
+        },
+        "description": "Ēka atvēŗta 1926. gadā. Tā piederēja Paulam Baumanim, kas te atvēra kafejnīcu un pansiju \"Oger- kurhaus\". Vakaros šeit spēlēja mūziķi, un tā bija labi iecienīta no Rīgas Mākslinieku puses. No 1935. gada šī ēka kļuva par sabiedriskās dzīves centru Ogrē.",
+        "building": {
+          "type": "retail",
+          "start_date": 1926
+        },
+        "place_id": "5181fb840c209b384059821f9889a2684c40f00102f9018a476302000000009203094bc5ab726dc4816a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.605957777468124,
+          56.81746025016675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogres rajona prokuratūra",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ogres novads",
+        "city": "Ogre",
+        "postcode": "LV-5001",
+        "district": "Centrs",
+        "street": "Krasta Street",
+        "housenumber": "11",
+        "iso3166_2": "LV-067",
+        "lon": 24.613133000000005,
+        "lat": 56.81687665,
+        "formatted": "Ogre District Prosecutors Office, Krasta Street 11, Ogre, LV-5001, Latvia",
+        "address_line1": "Ogre District Prosecutors Office",
+        "address_line2": "Krasta Street 11, Ogre, LV-5001, Latvia",
+        "categories": [
+          "building",
+          "building.office",
+          "building.tourism",
+          "office",
+          "office.government",
+          "office.government.prosecutor",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ogres rajona prokuratūra",
+            "office": "government",
+            "osm_id": 41387922,
+            "name:en": "Ogre District Prosecutors Office",
+            "name:lv": "Ogres rajona prokuratūra",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Ogre",
+            "architect": "E. Laube",
+            "government": "prosecutor",
+            "start_date": 1924,
+            "addr:street": "Krasta iela",
+            "description": "The house was built in 1924 as a summer cottage. During the period of 1920–1930 there was a sanatorium, but after Second World War the house was formed into the Pioneer's Club.",
+            "ref:LV:addr": 102680222,
+            "addr:country": "LV",
+            "addr:district": "Ogres novads",
+            "addr:postcode": "LV-5001",
+            "addr:housenumber": 11
+          }
+        },
+        "description": "The house was built in 1924 as a summer cottage. During the period of 1920–1930 there was a sanatorium, but after Second World War the house was formed into the Pioneer's Club.",
+        "name_international": {
+          "en": "Ogre District Prosecutors Office",
+          "lv": "Ogres rajona prokuratūra"
+        },
+        "building": {
+          "start_date": 1924
+        },
+        "place_id": "512e19c748f69c3840595eaa006a8f684c40f00102f90192877702000000009203194f677265732072616a6f6e612070726f6b75726174c5ab7261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.613132999999998,
+          56.81687665016646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lindes atteka",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "iso3166_2": "LV-091",
+        "lon": 24.832727370317574,
+        "lat": 57.1487335,
+        "formatted": "Lindes atteka, Sigulda, Siguldas novads, Latvia",
+        "address_line1": "Lindes atteka",
+        "address_line2": "Sigulda, Siguldas novads, Latvia",
+        "categories": [
+          "natural",
+          "natural.water",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "boat": "no",
+            "name": "Lindes atteka",
+            "osm_id": 74977319,
+            "natural": "water",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "5181fff59e2dd538405966e007b309934c40f00102f901271078040000000092030d4c696e64657320617474656b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.832727370317574,
+          57.14873350033376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "street": "Kājnieku tilts",
+        "iso3166_2": "LV-091",
+        "lon": 24.8067483,
+        "lat": 57.1495433,
+        "formatted": "Kājnieku tilts, Sigulda, Latvia",
+        "address_line1": "Kājnieku tilts",
+        "address_line2": "Sigulda, Latvia",
+        "name": "Kājnieku tilts",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kājnieku tilts",
+            "layer": 1,
+            "bridge": "yes",
+            "osm_id": 85280489,
+            "bicycle": "yes",
+            "highway": "footway",
+            "surface": "wood",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sidewalk": "no",
+            "architect": "Astrīda Ādmine;Jānis Zavickis",
+            "start_date": 1979,
+            "bridge:structure": "cable-stayed"
+          }
+        },
+        "way": {
+          "bridge": true,
+          "surface": "wood"
+        },
+        "place_id": "51c12cfe00b5ce3840591f25c42808934c40f00102f901e94615050000000092030f4bc4816a6e69656b752074696c7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8074494,
+          57.14868650033372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltā kāpa",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Saulkrastu novads",
+        "city": "Saulkrasti",
+        "postcode": "LV-2160",
+        "district": "Pēterupe",
+        "street": "Jomas iela",
+        "iso3166_2": "LV-089",
+        "lon": 24.4084132,
+        "lat": 57.2603139,
+        "formatted": "Baltā kāpa, Jomas iela, Saulkrasti, LV-2160, Latvia",
+        "address_line1": "Baltā kāpa",
+        "address_line2": "Jomas iela, Saulkrasti, LV-2160, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Baltā kāpa",
+            "osm_id": 98092081,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51334179c48d68384059e16f44f751a14c40f00103f90131c4d8050000000092030c42616c74c481206bc4817061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.408413199999995,
+          57.26031390039112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Estrāde",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "street": "Pils iela",
+        "housenumber": "18",
+        "iso3166_2": "LV-091",
+        "lon": 24.84889601183106,
+        "lat": 57.16686595,
+        "formatted": "Estrāde, Pils iela 18, Sigulda, LV-2150, Latvia",
+        "address_line1": "Estrāde",
+        "address_line2": "Pils iela 18, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Estrāde",
+            "osm_id": 113901465,
+            "name:fr": "Scène",
+            "name:lv": "Estrāde",
+            "tourism": "attraction",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Sigulda",
+            "addr:street": "Pils iela",
+            "ref:LV:addr": 105490945,
+            "addr:country": "LV",
+            "addr:district": "Siguldas novads",
+            "addr:postcode": "LV-2150",
+            "addr:housenumber": 18
+          }
+        },
+        "name_international": {
+          "fr": "Scène",
+          "lv": "Estrāde"
+        },
+        "place_id": "51ec84c03f51d938405908c50bdd5b954c40f00102f90199ffc9060000000092030845737472c4816465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84889601183106,
+          57.16686595034304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rakstnieku nams",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ropažu novads",
+        "city": "Garkalnes pagasts",
+        "postcode": "LV-2137",
+        "district": "Garkalne",
+        "street": "Sporta iela",
+        "housenumber": "17",
+        "iso3166_2": "LV-080",
+        "lon": 24.43313539999999,
+        "lat": 57.04923545,
+        "formatted": "Rakstnieku nams, Sporta iela 17, Garkalnes pagasts, LV-2137, Latvia",
+        "address_line1": "Rakstnieku nams",
+        "address_line2": "Sporta iela 17, Garkalnes pagasts, LV-2137, Latvia",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [
+          "details.building",
+          "details.historic"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rakstnieku nams",
+            "osm_id": 129706561,
+            "tourism": "attraction",
+            "building": "yes",
+            "historic": "manor",
+            "osm_type": "w",
+            "addr:city": "Garkalne",
+            "start_date": 1932,
+            "addr:street": "Sporta iela",
+            "ref:LV:addr": 104549277,
+            "addr:country": "LV",
+            "addr:district": "Ropažu novads",
+            "addr:postcode": "LV-2137",
+            "addr:housenumber": 17,
+            "addr:subdistrict": "Garkalnes pagasts"
+          }
+        },
+        "historic": {
+          "type": "manor",
+          "start_date": 1932
+        },
+        "building": {
+          "start_date": 1932
+        },
+        "place_id": "5167bd29f6e16e3840597b62e4584d864c40f00102f901412abb070000000092030f52616b73746e69656b75206e616d73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.433135399999994,
+          57.049235450283014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zirgu izjādes klubs \"Īriss\"",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1030",
+        "district": "Vecmīlgrāvja apkaime",
+        "neighbourhood": "Zvejniekciems",
+        "suburb": "Vecāķi",
+        "street": "Zvejas iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.09723574104219,
+        "lat": 57.07022045,
+        "formatted": "Zirgu izjādes klubs \"Īriss\", Zvejas iela, Riga, LV-1030, Latvia",
+        "address_line1": "Zirgu izjādes klubs \"Īriss\"",
+        "address_line2": "Zvejas iela, Riga, LV-1030, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Zirgu izjādes klubs \"Īriss\"",
+            "sport": "equestrian",
+            "osm_id": 132917676,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "514ec70771e418384059c9c2d4fbfc884c40f00102f901ac29ec070000000092031d5a6972677520697a6ac481646573206b6c7562732022c4aa7269737322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.09723574104219,
+          57.07022045029368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Putnu novērošanas platforma",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1016",
+        "district": "Bolderājas apkaime",
+        "suburb": "Daugavgrīva",
+        "street": "Birutas Baumanes taka",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.01319229406657,
+        "lat": 57.039740550000005,
+        "formatted": "Putnu novērošanas platforma, Birutas Baumanes taka, Riga, LV-1016, Latvia",
+        "address_line1": "Putnu novērošanas platforma",
+        "address_line2": "Birutas Baumanes taka, Riga, LV-1016, Latvia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Putnu novērošanas platforma",
+            "osm_id": 138666632,
+            "tourism": "viewpoint",
+            "building": "yes",
+            "man_made": "tower",
+            "osm_type": "w",
+            "mapillary": 664645988333513,
+            "tower:type": "observation",
+            "building:levels": 2
+          }
+        },
+        "building": {
+          "levels": 2
+        },
+        "place_id": "513c93f79160033840598ee2e53716854c40f00102f90188e243080000000092031d5075746e75206e6f76c493726fc5a1616e617320706c6174666f726d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.01319229406657,
+          57.03974055027821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siguldas Jaunās pils komplekss",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "street": "Pils iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.851324190168317,
+        "lat": 57.16515605,
+        "formatted": "Complex of Sigulda New Castle, Pils iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Complex of Sigulda New Castle",
+        "address_line2": "Pils iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siguldas Jaunās pils komplekss",
+            "osm_id": 161769619,
+            "name:de": "Komplex neue Burg von Sigulda",
+            "name:en": "Complex of Sigulda New Castle",
+            "name:lv": "Siguldas Jaunās pils komplekss",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "de": "Komplex neue Burg von Sigulda",
+          "en": "Complex of Sigulda New Castle",
+          "lv": "Siguldas Jaunās pils komplekss"
+        },
+        "place_id": "510e11d361f0d93840595e7a5dd523954c40f00102f9019368a4090000000092031f536967756c646173204a61756ec481732070696c73206b6f6d706c656b7373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85132419016832,
+          57.165156050342134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulbju mājiņa",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1010",
+        "district": "Centra apkaime",
+        "neighbourhood": "Centra rajons",
+        "suburb": "Centre",
+        "street": "Raiņa bulvāris",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.110573444262293,
+        "lat": 56.9524016,
+        "formatted": "Gulbju mājiņa, Raiņa bulvāris, Riga, LV-1010, Latvia",
+        "address_line1": "Gulbju mājiņa",
+        "address_line2": "Raiņa bulvāris, Riga, LV-1010, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Gulbju mājiņa",
+            "osm_id": 168119330,
+            "tourism": "artwork",
+            "operator": "Rīgas pieminekļu aģentūra",
+            "osm_type": "w",
+            "architect": "Heinrihs K. Šēls",
+            "artwork_type": "installation"
+          }
+        },
+        "operator": "Rīgas pieminekļu aģentūra",
+        "artwork": {
+          "artwork_type": "installation"
+        },
+        "place_id": "51a2e98e8a4e1c384059ecd4ae4be8794c40f00102f901224c050a0000000092030f47756c626a75206dc4816a69c58661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.110573444262293,
+          56.95240160023408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Putnu vērošanas tornis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Lapmežciema pagasts",
+        "village": "Lapmežciems",
+        "postcode": "LV-3118",
+        "street": "Lapmežciems — Antiņciems",
+        "iso3166_2": "LV-099",
+        "lon": 23.4892665,
+        "lat": 57.00126665,
+        "formatted": "Putnu vērošanas tornis, Lapmežciems — Antiņciems, Lapmežciema pagasts, LV-3118, Latvia",
+        "address_line1": "Putnu vērošanas tornis",
+        "address_line2": "Lapmežciems — Antiņciems, Lapmežciema pagasts, LV-3118, Latvia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Putnu vērošanas tornis",
+            "osm_id": 180324707,
+            "leisure": "bird_hide",
+            "tourism": "attraction",
+            "building": "yes",
+            "man_made": "tower",
+            "osm_type": "w",
+            "tower:type": "observation"
+          }
+        },
+        "place_id": "514487c091407d374059e6b76e8129804c40f00102f9016389bf0a000000009203185075746e752076c493726fc5a1616e617320746f726e6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4892665,
+          57.00126665025873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skursteņslauķis un mūrnieks",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1009",
+        "district": "Centra apkaime",
+        "suburb": "Avoti",
+        "street": "Mūrnieku iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.144939051043902,
+        "lat": 56.95183575,
+        "formatted": "Skursteņslauķis un mūrnieks, Mūrnieku iela, Riga, LV-1009, Latvia",
+        "address_line1": "Skursteņslauķis un mūrnieks",
+        "address_line2": "Mūrnieku iela, Riga, LV-1009, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Skursteņslauķis un mūrnieks",
+            "osm_id": 185041375,
+            "tourism": "artwork",
+            "operator": "Rīgas pieminekļu aģentūra",
+            "osm_type": "w",
+            "start_date": 2007,
+            "artist_name": "Ģirts Burvis;Kārlis Īle",
+            "artwork_type": "sculpture"
+          }
+        },
+        "operator": "Rīgas pieminekļu aģentūra",
+        "artwork": {
+          "artist_name": "Ģirts Burvis;Kārlis Īle",
+          "artwork_type": "sculpture",
+          "start_date": 2007
+        },
+        "place_id": "519725c4b91a253840597c35fdc0d5794c40f00102f901df81070b0000000092031e536b7572737465c586736c6175c4b7697320756e206dc5ab726e69656b73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.144939051043902,
+          56.95183575023381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Slampes pagasts",
+        "street": "Ķemeru purva laipa",
+        "iso3166_2": "LV-099",
+        "lon": 23.456450698180042,
+        "lat": 56.9077271365308,
+        "formatted": "Ķemeru purva laipa, Slampes pagasts, Latvia",
+        "address_line1": "Ķemeru purva laipa",
+        "address_line2": "Slampes pagasts, Latvia",
+        "name": "Ķemeru purva laipa",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķemeru purva laipa",
+            "width": 0.7,
+            "bridge": "boardwalk",
+            "osm_id": 225066186,
+            "highway": "footway",
+            "surface": "wood",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sac_scale": "hiking"
+          }
+        },
+        "way": {
+          "bridge": true,
+          "surface": "wood"
+        },
+        "place_id": "51264921dad874374059a34ca76730744c40f00102f901ca3c6a0d00000000920313c4b6656d657275207075727661206c61697061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4564339,
+          56.90772720021166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Slampes pagasts",
+        "postcode": "LV-2012",
+        "street": "Ķemeru purva laipa",
+        "iso3166_2": "LV-099",
+        "lon": 23.459659167940973,
+        "lat": 56.91103775837761,
+        "formatted": "Ķemeru purva laipa, Slampes pagasts, LV-2012, Latvia",
+        "address_line1": "Ķemeru purva laipa",
+        "address_line2": "Slampes pagasts, LV-2012, Latvia",
+        "name": "Ķemeru purva laipa",
+        "categories": [
+          "highway",
+          "highway.path",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.facilities",
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķemeru purva laipa",
+            "osm_id": 225067331,
+            "highway": "path",
+            "surface": "ground",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sac_scale": "hiking",
+            "wheelchair": "no"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "way": {
+          "surface": "ground"
+        },
+        "place_id": "513f5695229e75374059b20ee01fa5744c40f00102f90143416a0d00000000920313c4b6656d657275207075727661206c61697061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.459444200000004,
+          56.91128920021346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Slampes pagasts",
+        "street": "Ķemeru purva laipa",
+        "iso3166_2": "LV-099",
+        "lon": 23.449900877831546,
+        "lat": 56.90657080747127,
+        "formatted": "Ķemeru purva laipa, Slampes pagasts, Latvia",
+        "address_line1": "Ķemeru purva laipa",
+        "address_line2": "Slampes pagasts, Latvia",
+        "name": "Ķemeru purva laipa",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķemeru purva laipa",
+            "width": 0.7,
+            "bridge": "boardwalk",
+            "osm_id": 244528837,
+            "highway": "footway",
+            "surface": "wood",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sac_scale": "hiking"
+          }
+        },
+        "way": {
+          "bridge": true,
+          "surface": "wood"
+        },
+        "place_id": "5153d44fee2d733740594f776674f6734c40f00102f901c536930e00000000920313c4b6656d657275207075727661206c61697061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.449919599999998,
+          56.90595870021081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Slampes pagasts",
+        "street": "Ķemeru purva laipa",
+        "iso3166_2": "LV-099",
+        "lon": 23.45531488835881,
+        "lat": 56.91002247008303,
+        "formatted": "Ķemeru purva laipa, Slampes pagasts, Latvia",
+        "address_line1": "Ķemeru purva laipa",
+        "address_line2": "Slampes pagasts, Latvia",
+        "name": "Ķemeru purva laipa",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķemeru purva laipa",
+            "width": 0.7,
+            "bridge": "boardwalk",
+            "osm_id": 244528838,
+            "highway": "footway",
+            "surface": "wood",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sac_scale": "hiking"
+          }
+        },
+        "way": {
+          "bridge": true,
+          "surface": "wood"
+        },
+        "place_id": "515db4b6df90743740591540fb287e744c40f00102f901c636930e00000000920313c4b6656d657275207075727661206c61697061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4553356,
+          56.91010010021288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltā kāpa",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Saulkrastu novads",
+        "city": "Saulkrasti",
+        "district": "Pabaži",
+        "street": "Kāpu iela",
+        "iso3166_2": "LV-089",
+        "lon": 24.3920095,
+        "lat": 57.234343,
+        "formatted": "White Dune, Kāpu iela, Saulkrasti, Latvia",
+        "address_line1": "White Dune",
+        "address_line2": "Kāpu iela, Saulkrasti, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Baltā kāpa",
+            "osm_id": 277671938,
+            "name:en": "White Dune",
+            "name:lv": "Baltā kāpa",
+            "name:ru": "Белая дюна",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "White Dune",
+          "lv": "Baltā kāpa",
+          "ru": "Белая дюна"
+        },
+        "place_id": "51a7380ebc5a643840599a5591f3fe9d4c40f00103f90102f08c100000000092030c42616c74c481206bc4817061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.392009499999997,
+          57.234343000377706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalnabrantu vilkaču priede",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Inčukalna pagasts",
+        "hamlet": "Mežciems",
+        "postcode": "LV-2136",
+        "street": "Griķukrogs — Meļķerti",
+        "iso3166_2": "LV-091",
+        "lon": 24.5714783,
+        "lat": 57.1205356,
+        "formatted": "Kalnabrantu vilkaču priede, Griķukrogs — Meļķerti, Inčukalna pagasts, LV-2136, Latvia",
+        "address_line1": "Kalnabrantu vilkaču priede",
+        "address_line2": "Griķukrogs — Meļķerti, Inčukalna pagasts, LV-2136, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kalnabrantu vilkaču priede",
+            "genus": "Pinus",
+            "osm_id": 302365871,
+            "natural": "tree",
+            "tourism": "attraction",
+            "osm_type": "n",
+            "denotation": "landmark",
+            "description": "Koks ar savdabīgu „pumpainu” stumbru, aiz kura mizas atrastās ziedojumu monētas liek domāt par kulta vietu."
+          }
+        },
+        "description": "Koks ar savdabīgu „pumpainu” stumbru, aiz kura mizas atrastās ziedojumu monētas liek domāt par kulta vietu.",
+        "place_id": "51a9dfe0664c9238405909b0e6b56d8f4c40f00103f901afbc05120000000092031b4b616c6e616272616e74752076696c6b61c48d7520707269656465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5714783,
+          57.120535600319336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ķeizarskats",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "district": "Kaķīši",
+        "street": "Laurenču iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.8177901,
+        "lat": 57.1429412,
+        "formatted": "Ķeizarskats, Laurenču iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Ķeizarskats",
+        "address_line2": "Laurenču iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķeizarskats",
+            "osm_id": 302367121,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51197e26b15ad1384059fb55b2e54b924c40f00103f90191c105120000000092030cc4b665697a6172736b617473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8177901,
+          57.14294120033079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panorāmas rats",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "street": "Siguldas serpentīna ceļš",
+        "iso3166_2": "LV-091",
+        "lon": 24.8436065,
+        "lat": 57.1622374,
+        "formatted": "Panorāmas rats, Siguldas serpentīna ceļš, Sigulda, LV-2150, Latvia",
+        "address_line1": "Panorāmas rats",
+        "address_line2": "Siguldas serpentīna ceļš, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Panorāmas rats",
+            "osm_id": 311096630,
+            "tourism": "attraction",
+            "osm_type": "n",
+            "attraction": "big_wheel"
+          }
+        },
+        "place_id": "516a317898f6d73840595b53f431c4944c40f00103f90136f58a120000000092030f50616e6f72c4816d61732072617473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8436065,
+          57.162237400340665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mākslinieku dārzs",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Inčukalna pagasts",
+        "postcode": "LV-2136",
+        "street": "Vecās piķa bedres ceļš",
+        "iso3166_2": "LV-091",
+        "lon": 24.5839725,
+        "lat": 57.1320513,
+        "formatted": "Mākslinieku dārzs, Vecās piķa bedres ceļš, Inčukalna pagasts, LV-2136, Latvia",
+        "address_line1": "Mākslinieku dārzs",
+        "address_line2": "Vecās piķa bedres ceļš, Inčukalna pagasts, LV-2136, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mākslinieku dārzs",
+            "osm_id": 311134953,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516c43c5387f953840594025980ee7904c40f00103f901e98a8b12000000009203134dc4816b736c696e69656b752064c481727a73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5839725,
+          57.1320513003252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aerodium",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "street": "A2",
+        "iso3166_2": "LV-091",
+        "lon": 24.7863192,
+        "lat": 57.1335472,
+        "formatted": "Aerodium, A2, Sigulda, Latvia",
+        "address_line1": "Aerodium",
+        "address_line2": "A2, Sigulda, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Aerodium",
+            "osm_id": 312768387,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51863710374cc9384059afef1c1318914c40f00103f9018377a412000000009203084165726f6469756d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7863192,
+          57.133547200326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "skats uz Velnalu",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "street": "Kājnieku tilts",
+        "iso3166_2": "LV-091",
+        "lon": 24.8118719,
+        "lat": 57.1497985,
+        "formatted": "skats uz Velnalu, Kājnieku tilts, Sigulda, Latvia",
+        "address_line1": "skats uz Velnalu",
+        "address_line2": "Kājnieku tilts, Sigulda, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "skats uz Velnalu",
+            "osm_id": 312769869,
+            "name:fr": "Vue sur la grotte Velnala",
+            "name:lv": "skats uz Velnalu",
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "fr": "Vue sur la grotte Velnala",
+          "lv": "skats uz Velnalu"
+        },
+        "place_id": "51980a3bd6d6cf3840597df6e5982c934c40f00103f9014d7da41200000000920310736b61747320757a2056656c6e616c75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8118719,
+          57.149798500334306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ķeizarkrēsls",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "district": "Kaķīši",
+        "street": "Gulbju iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.8236271,
+        "lat": 57.1427419,
+        "formatted": "Ķeizarkrēsls, Gulbju iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Ķeizarkrēsls",
+        "address_line2": "Gulbju iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķeizarkrēsls",
+            "osm_id": 312770751,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516d99c239d9d238405936d8d85d45924c40f00103f901bf80a4120000000092030ec4b665697a61726b72c493736c73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8236271,
+          57.14274190033068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaļķugravas avoti",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Allažu pagasts",
+        "postcode": "LV-2154",
+        "street": "Mežmuižas dabas taka",
+        "iso3166_2": "LV-091",
+        "lon": 24.7996158,
+        "lat": 57.1008701,
+        "formatted": "Kaļķugravas avoti, Mežmuižas dabas taka, Allažu pagasts, LV-2154, Latvia",
+        "address_line1": "Kaļķugravas avoti",
+        "address_line2": "Mežmuižas dabas taka, Allažu pagasts, LV-2154, Latvia",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kaļķugravas avoti",
+            "osm_id": 339350908,
+            "natural": "spring",
+            "tourism": "attraction",
+            "alt_name": "Mežmuižas avoti",
+            "osm_type": "n",
+            "drinking_water": "yes"
+          }
+        },
+        "name_other": {
+          "alt_name": "Mežmuižas avoti"
+        },
+        "place_id": "51695dfe9eb3cc38405982fcba4fe98c4c40f00103f9017c153a14000000009203134b61c4bcc4b7756772617661732061766f7469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7996158,
+          57.10087010030931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saltavots",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Siguldas pagasts",
+        "village": "Matiņi",
+        "postcode": "LV-2150",
+        "street": "Saltavota iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.8507238,
+        "lat": 57.131348,
+        "formatted": "Saltavots, Saltavota iela, Siguldas pagasts, LV-2150, Latvia",
+        "address_line1": "Saltavots",
+        "address_line2": "Saltavota iela, Siguldas pagasts, LV-2150, Latvia",
+        "categories": [
+          "natural.water.spring",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Saltavots",
+            "osm_id": 353889568,
+            "natural": "spring",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c8edf208c9d938405928e5e202d0904c40f00103f90120ed17150000000092030953616c7461766f7473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.850723799999997,
+          57.13134800032486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atpūtas parks \"Rāmkalni\"",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Inčukalna pagasts",
+        "village": "Krustiņi",
+        "postcode": "LV-2142",
+        "street": "A3",
+        "iso3166_2": "LV-091",
+        "lon": 24.6588485,
+        "lat": 57.1246625,
+        "formatted": "Atpūtas parks \"Rāmkalni\", A3, Inčukalna pagasts, LV-2142, Latvia",
+        "address_line1": "Atpūtas parks \"Rāmkalni\"",
+        "address_line2": "A3, Inčukalna pagasts, LV-2142, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Atpūtas parks \"Rāmkalni\"",
+            "osm_id": 474417361,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51c784984baaa838405988f5d8f0f48f4c40f00103f901d108471c0000000092031a417470c5ab746173207061726b73202252c4816d6b616c6e6922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6588485,
+          57.12466250032145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atpūtas Stacija",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ogres novads",
+        "city": "Ogre",
+        "postcode": "LV-5001",
+        "district": "Grīvas rajons",
+        "street": "Rīgas iela",
+        "iso3166_2": "LV-067",
+        "lon": 24.5947355,
+        "lat": 56.8131909,
+        "formatted": "Atpūtas Stacija, Rīgas iela, Ogre, LV-5001, Latvia",
+        "address_line1": "Atpūtas Stacija",
+        "address_line2": "Rīgas iela, Ogre, LV-5001, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details.artwork",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Atpūtas Stacija",
+            "osm_id": 482750235,
+            "tourism": "artwork",
+            "osm_type": "n",
+            "wheelchair": "yes",
+            "artwork_type": "stone"
+          }
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "artwork": {
+          "artwork_type": "stone"
+        },
+        "place_id": "512d45f295409838405956ceb0a316684c40f00103f9011b2fc61c00000000920310417470c5ab7461732053746163696a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.594735500000002,
+          56.813190900164656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siguldas atslēgas",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "street": "Raiņa iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.8527717,
+        "lat": 57.1596301,
+        "formatted": "Siguldas atslēgas, Raiņa iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Siguldas atslēgas",
+        "address_line2": "Raiņa iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siguldas atslēgas",
+            "osm_id": 483616568,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "514f74023f4fda384059133556c26e944c40f00103f9013867d31c00000000920312536967756c646173206174736cc493676173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8527717,
+          57.159630100339335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spoguļegle",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1050",
+        "district": "Latgales apkaime",
+        "suburb": "Old Riga",
+        "street": "Tirgoņu iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.106715,
+        "lat": 56.9483155,
+        "formatted": "Spoguļegle, Tirgoņu iela, Riga, LV-1050, Latvia",
+        "address_line1": "Spoguļegle",
+        "address_line2": "Tirgoņu iela, Riga, LV-1050, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Spoguļegle",
+            "osm_id": 510780922,
+            "tourism": "artwork",
+            "alt_name": "Rīgas egles pārstāvniecība",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "name_other": {
+          "alt_name": "Rīgas egles pārstāvniecība"
+        },
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "511dfe9aac511b384059ace4fd6662794c40f00103f901fae5711e0000000092030b53706f6775c4bc65676c65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.106714999999998,
+          56.94831550023204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mežakaķis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "district": "Kaķīši",
+        "street": "Gulbju iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.828417860561714,
+        "lat": 57.14524765,
+        "formatted": "Mežakaķis, Gulbju iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Mežakaķis",
+        "address_line2": "Gulbju iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mežakaķis",
+            "sport": "climbing_adventure",
+            "osm_id": 700674056,
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "place_id": "51ec88623113d438405991ff997997924c40f00102f9010870c3290000000092030b4d65c5be616b61c4b76973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.828417860561714,
+          57.14524765033196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ķīniešu arka",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1010",
+        "district": "Centra apkaime",
+        "suburb": "Centre",
+        "street": "Kronvalda bulvāris",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.10352364419913,
+        "lat": 56.9563398,
+        "formatted": "Ķīniešu arka, Kronvalda bulvāris, Riga, LV-1010, Latvia",
+        "address_line1": "Ķīniešu arka",
+        "address_line2": "Kronvalda bulvāris, Riga, LV-1010, Latvia",
+        "categories": [
+          "building",
+          "building.tourism",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork",
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķīniešu arka",
+            "osm_id": 719981232,
+            "tourism": "artwork",
+            "building": "yes",
+            "operator": "Rīgas pieminekļu aģentūra",
+            "osm_type": "w",
+            "start_date": 2012,
+            "artwork_type": "arch",
+            "description:lv": "Sudžou /Ķīna/ pilsētas dāvana"
+          }
+        },
+        "operator": "Rīgas pieminekļu aģentūra",
+        "description_international": {
+          "lv": "Sudžou /Ķīna/ pilsētas dāvana"
+        },
+        "artwork": {
+          "artwork_type": "arch",
+          "start_date": 2012
+        },
+        "building": {
+          "start_date": 2012
+        },
+        "place_id": "51b0328a86801a38405945f0b257697a4c40f00102f901b00aea2a0000000092030fc4b6c4ab6e6965c5a1752061726b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.10352364419913,
+          56.95633980023607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Putnu vērošanas tornis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1057",
+        "district": "Latgales apkaime",
+        "suburb": "Ķengarags",
+        "street": "Kvadrāta iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.1927998,
+        "lat": 56.8993934,
+        "formatted": "Putnu vērošanas tornis, Kvadrāta iela, Riga, LV-1057, Latvia",
+        "address_line1": "Putnu vērošanas tornis",
+        "address_line2": "Kvadrāta iela, Riga, LV-1057, Latvia",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Putnu vērošanas tornis",
+            "osm_id": 750475276,
+            "tourism": "viewpoint",
+            "man_made": "tower",
+            "osm_type": "n",
+            "tower:type": "observation",
+            "wheelchair": "no",
+            "observation": "landscape"
+          }
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "51e3ace3535b313840599410ac521f734c40f00103f9010c58bb2c000000009203185075746e752076c493726fc5a1616e617320746f726e6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1927998,
+          56.899393400207515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taurētāju kalns",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "district": "Krimulda",
+        "street": "Vikmestes taka",
+        "iso3166_2": "LV-091",
+        "lon": 24.8371111,
+        "lat": 57.173028,
+        "formatted": "Taurētāju kalns, Vikmestes taka, Sigulda, LV-2150, Latvia",
+        "address_line1": "Taurētāju kalns",
+        "address_line2": "Vikmestes taka, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Taurētāju kalns",
+            "osm_id": 788402433,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "515d9ebde94cd6384059bf6311c825964c40f00103f9010111fe2e0000000092031154617572c49374c4816a75206b616c6e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.837111100000005,
+          57.173028000346214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lauču akmens",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Limbažu novads",
+        "city": "Skultes pagasts",
+        "postcode": "LV-4025",
+        "district": "Vārzas",
+        "neighbourhood": "Dunte 96",
+        "street": "Tūjas iela",
+        "iso3166_2": "LV-054",
+        "lon": 24.4010342,
+        "lat": 57.3680052,
+        "formatted": "Lauču akmens, Tūjas iela, Skultes pagasts, LV-4025, Latvia",
+        "address_line1": "Lauču akmens",
+        "address_line2": "Tūjas iela, Skultes pagasts, LV-4025, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lauču akmens",
+            "osm_id": 790312983,
+            "natural": "stone",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d993652daa66384059a8565ecb1aaf4c40f00103f90117381b2f0000000092030d4c6175c48d7520616b6d656e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4010342,
+          57.36800520044682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ziediņkalns",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "street": "Svētku laukums",
+        "iso3166_2": "LV-091",
+        "lon": 24.8426308,
+        "lat": 57.161056,
+        "formatted": "Ziediņkalns, Svētku laukums, Sigulda, LV-2150, Latvia",
+        "address_line1": "Ziediņkalns",
+        "address_line2": "Svētku laukums, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ziediņkalns",
+            "osm_id": 805560542,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51319af0a6b6d73840598424a77b9d944c40f00103f901dee003300000000092030c5a69656469c5866b616c6e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8426308,
+          57.161056000340096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dainu kalns",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Krimuldas pagasts",
+        "village": "Turaida",
+        "postcode": "LV-2150",
+        "street": "Lībiešu taka",
+        "iso3166_2": "LV-091",
+        "lon": 24.8547825,
+        "lat": 57.1835918,
+        "formatted": "Hill of Dainas, Lībiešu taka, Krimuldas pagasts, LV-2150, Latvia",
+        "address_line1": "Hill of Dainas",
+        "address_line2": "Lībiešu taka, Krimuldas pagasts, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dainu kalns",
+            "osm_id": 840493298,
+            "name:en": "Hill of Dainas",
+            "name:lv": "Dainu kalns",
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Hill of Dainas",
+          "lv": "Dainu kalns"
+        },
+        "place_id": "516fb1a206d3da3840597629a5ef7f974c40f00103f901f2e818320000000092030b4461696e75206b616c6e73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.854782499999995,
+          57.18359180035161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulta vieta",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Krimuldas pagasts",
+        "village": "Turaida",
+        "postcode": "LV-2150",
+        "street": "Lībiešu taka",
+        "iso3166_2": "LV-091",
+        "lon": 24.85585,
+        "lat": 57.1836471,
+        "formatted": "Kulta vieta, Lībiešu taka, Krimuldas pagasts, LV-2150, Latvia",
+        "address_line1": "Kulta vieta",
+        "address_line2": "Lībiešu taka, Krimuldas pagasts, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kulta vieta",
+            "osm_id": 840494216,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51174850fc18db384059fe0189bf81974c40f00103f90188ec18320000000092030b4b756c7461207669657461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85585,
+          57.18364710035165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaļķu cepļa drupas",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ogres novads",
+        "city": "Ogre",
+        "district": "Jaunogre",
+        "street": "Rīgas iela",
+        "iso3166_2": "LV-067",
+        "lon": 24.571216200000002,
+        "lat": 56.811623049999994,
+        "formatted": "Kaļķu cepļa drupas, Rīgas iela, Ogre, Latvia",
+        "address_line1": "Kaļķu cepļa drupas",
+        "address_line2": "Rīgas iela, Ogre, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kaļķu cepļa drupas",
+            "osm_id": 878685108,
+            "tourism": "attraction",
+            "historic": "lime_kiln",
+            "osm_type": "w"
+          }
+        },
+        "historic": {
+          "type": "lime_kiln"
+        },
+        "place_id": "5104f291393b923840591a919c43e3674c40f00102f901b4ab5f34000000009203154b61c4bcc4b77520636570c4bc6120647275706173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.571216199999995,
+          56.811623050163874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruņinieku parāde",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "street": "Pils iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.852251852583024,
+        "lat": 57.1638728,
+        "formatted": "Knight parade, Pils iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Knight parade",
+        "address_line2": "Pils iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bruņinieku parāde",
+            "osm_id": 885200983,
+            "name:en": "Knight parade",
+            "name:lv": "Bruņinieku parāde",
+            "tourism": "artwork",
+            "osm_type": "w",
+            "panoramax": "a1b75775-78fc-4784-ba35-f2a3cb1f28f2",
+            "artist_name": "Juris Gagainis",
+            "artwork_type": "installation"
+          }
+        },
+        "name_international": {
+          "en": "Knight parade",
+          "lv": "Bruņinieku parāde"
+        },
+        "artwork": {
+          "artist_name": "Juris Gagainis",
+          "artwork_type": "installation"
+        },
+        "place_id": "51accc6a2d2dda384059d815afc8f9944c40f00102f9015718c33400000000920313427275c586696e69656b7520706172c4816465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.852251852583024,
+          57.163872800341494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dziesmu dārzs",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Krimuldas pagasts",
+        "village": "Turaida",
+        "postcode": "LV-2150",
+        "street": "Māras taka",
+        "iso3166_2": "LV-091",
+        "lon": 24.8515802,
+        "lat": 57.1862129,
+        "formatted": "Dziesmu dārzs, Māras taka, Krimuldas pagasts, LV-2150, Latvia",
+        "address_line1": "Dziesmu dārzs",
+        "address_line2": "Māras taka, Krimuldas pagasts, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dziesmu dārzs",
+            "osm_id": 893062215,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51d0ebf42801da384059fd8d06d3d5974c40f00103f901470c3b350000000092030e447a6965736d752064c481727a73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8515802,
+          57.18621290035296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dzīvo sapņu dārzs",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ādažu novads",
+        "city": "Ādaži",
+        "municipality": "Ādaži",
+        "postcode": "LV-2164",
+        "district": "Vējupe",
+        "street": "Gaujas iela",
+        "iso3166_2": "LV-011",
+        "lon": 24.326121378448754,
+        "lat": 57.07739555,
+        "formatted": "Dzīvo sapņu dārzs, Gaujas iela, Ādaži, LV-2164, Latvia",
+        "address_line1": "Dzīvo sapņu dārzs",
+        "address_line2": "Gaujas iela, Ādaži, LV-2164, Latvia",
+        "categories": [
+          "access_limited",
+          "access_limited.private",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dzīvo sapņu dārzs",
+            "access": "private",
+            "osm_id": 941592452,
+            "barrier": "fence",
+            "tourism": "attraction",
+            "osm_type": "w",
+            "attraction": "animal"
+          }
+        },
+        "restrictions": {
+          "access": "private"
+        },
+        "place_id": "51bef6ceb07c5338405902b1ee18e8894c40f00102f901848f1f3800000000920314447ac4ab766f20736170c586752064c481727a73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.326121378448754,
+          57.07739555029731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ragaciema sedums",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Lapmežciema pagasts",
+        "village": "Ragaciems",
+        "postcode": "LV-3118",
+        "street": "Reņgu gatve",
+        "iso3166_2": "LV-099",
+        "lon": 23.49562556942881,
+        "lat": 57.026316550000004,
+        "formatted": "The Ragaciems fishing area with net huts, Reņgu gatve, Lapmežciema pagasts, LV-3118, Latvia",
+        "address_line1": "The Ragaciems fishing area with net huts",
+        "address_line2": "Reņgu gatve, Lapmežciema pagasts, LV-3118, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ragaciema sedums",
+            "osm_id": 969743168,
+            "name:en": "The Ragaciems fishing area with net huts",
+            "name:lv": "Ragaciema sedums",
+            "name:ru": "Рагациемский привоз",
+            "tourism": "attraction",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "The Ragaciems fishing area with net huts",
+          "lv": "Ragaciema sedums",
+          "ru": "Рагациемский привоз"
+        },
+        "place_id": "5115c23b51e17e3740592c6139575e834c40f00102f901401bcd3900000000920310526167616369656d6120736564756d73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.495625569428814,
+          57.02631655027139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogres bāka",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Ogres novads",
+        "city": "Ogre",
+        "postcode": "LV-5001",
+        "district": "Akmeņu ielas rajons",
+        "street": "Pērses iela",
+        "iso3166_2": "LV-067",
+        "lon": 24.600409303874272,
+        "lat": 56.80603175,
+        "formatted": "Ogres bāka, Pērses iela, Ogre, LV-5001, Latvia",
+        "address_line1": "Ogres bāka",
+        "address_line2": "Pērses iela, Ogre, LV-5001, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "area": "yes",
+            "name": "Ogres bāka",
+            "osm_id": 983915599,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "start_date": 2022,
+            "inscription": "OGRE",
+            "artwork_type": "tower"
+          }
+        },
+        "artwork": {
+          "artwork_type": "tower",
+          "start_date": 2022
+        },
+        "place_id": "51a75a946cb499384059603d630c2c674c40f00102f9014f5ca53a0000000092030b4f677265732062c4816b61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60040930387427,
+          56.80603175016108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slokas ezera putnu tornis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Jūrmala",
+        "suburb": "Jaunķemeri",
+        "street": "Dūņu ceļš",
+        "iso3166_2": "LV-JUR",
+        "lon": 23.547115635,
+        "lat": 56.9576164,
+        "formatted": "Lake Sloka bird watching tower, Dūņu ceļš, Jūrmala, Latvia",
+        "address_line1": "Lake Sloka bird watching tower",
+        "address_line2": "Dūņu ceļš, Jūrmala, Latvia",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "foot": "yes",
+            "name": "Slokas ezera putnu tornis",
+            "osm_id": 987100446,
+            "name:en": "Lake Sloka bird watching tower",
+            "name:lv": "Slokas ezera putnu tornis",
+            "name:pl": "Wieża do obserwacji ptaków nad jeziorem Sloka",
+            "tourism": "viewpoint",
+            "man_made": "tower",
+            "material": "wood",
+            "osm_type": "w",
+            "tower:type": "observation",
+            "wheelchair": "no",
+            "observation": "landscape"
+          }
+        },
+        "name_international": {
+          "en": "Lake Sloka bird watching tower",
+          "lv": "Slokas ezera putnu tornis",
+          "pl": "Wieża do obserwacji ptaków nad jeziorem Sloka"
+        },
+        "facilities": {
+          "wheelchair": false
+        },
+        "place_id": "518e742fc50f8c374059a090982c937a4c40f00102f9011ef5d53a00000000920319536c6f6b617320657a657261207075746e7520746f726e6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.547115635000004,
+          56.9576164002367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cenas tīreļa skatu tornis",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Mārupes novads",
+        "city": "Babītes pagasts",
+        "street": "Cenas Tīreļa taka",
+        "iso3166_2": "LV-062",
+        "lon": 23.825419599999996,
+        "lat": 56.852738200000005,
+        "formatted": "Cenas tīreļa skatu tornis, Cenas Tīreļa taka, Babītes pagasts, Latvia",
+        "address_line1": "Cenas tīreļa skatu tornis",
+        "address_line2": "Cenas Tīreļa taka, Babītes pagasts, Latvia",
+        "categories": [
+          "man_made",
+          "man_made.tower",
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint",
+          "tourism.sights",
+          "tourism.sights.tower"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "foot": "yes",
+            "name": "Cenas tīreļa skatu tornis",
+            "height": 6,
+            "osm_id": 1064866659,
+            "tourism": "viewpoint",
+            "man_made": "tower",
+            "osm_type": "w",
+            "tower:type": "observation",
+            "observation": "landscape"
+          }
+        },
+        "place_id": "51387aebb24ed3374059aceb7c86266d4c40f00102f9016393783f0000000092031b43656e61732074c4ab7265c4bc6120736b61747520746f726e6973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.825419600000004,
+          56.852738200184234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stikla panorāma",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Salaspils novads",
+        "city": "Salaspils pagasts",
+        "postcode": "LV-2121",
+        "street": "Pievedceļš Salaspils memoriālam",
+        "iso3166_2": "LV-087",
+        "lon": 24.30094065,
+        "lat": 56.872566750000004,
+        "formatted": "Stikla panorāma, Pievedceļš Salaspils memoriālam, Salaspils pagasts, LV-2121, Latvia",
+        "address_line1": "Stikla panorāma",
+        "address_line2": "Pievedceļš Salaspils memoriālam, Salaspils pagasts, LV-2121, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stikla panorāma",
+            "osm_id": 1118016684,
+            "tourism": "artwork",
+            "osm_type": "w",
+            "artwork_type": "installation"
+          }
+        },
+        "artwork": {
+          "artwork_type": "installation"
+        },
+        "place_id": "51f9646ab7024d384059edac3f53af6f4c40f00102f901ac94a342000000009203105374696b6c612070616e6f72c4816d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3008227,
+          56.87253800019412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Slampes pagasts",
+        "street": "Ķemeru purva laipa",
+        "iso3166_2": "LV-099",
+        "lon": 23.4525509,
+        "lat": 56.9028851,
+        "formatted": "Ķemeru purva laipa, Slampes pagasts, Latvia",
+        "address_line1": "Ķemeru purva laipa",
+        "address_line2": "Slampes pagasts, Latvia",
+        "name": "Ķemeru purva laipa",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights.bridge"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķemeru purva laipa",
+            "width": 0.7,
+            "bridge": "yes",
+            "osm_id": 1132595471,
+            "highway": "footway",
+            "surface": "wood",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sac_scale": "hiking"
+          }
+        },
+        "way": {
+          "bridge": true,
+          "surface": "wood"
+        },
+        "place_id": "515808bcdddc7337405951557a0492734c40f00102f9010f09824300000000920313c4b6656d657275207075727661206c61697061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.452588899999995,
+          56.902893600209275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Slampes pagasts",
+        "street": "Ķemeru purva laipa",
+        "iso3166_2": "LV-099",
+        "lon": 23.45915109070326,
+        "lat": 56.90411387118885,
+        "formatted": "Ķemeru purva laipa, Slampes pagasts, Latvia",
+        "address_line1": "Ķemeru purva laipa",
+        "address_line2": "Slampes pagasts, Latvia",
+        "name": "Ķemeru purva laipa",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķemeru purva laipa",
+            "width": 0.7,
+            "bridge": "boardwalk",
+            "osm_id": 1132595472,
+            "highway": "footway",
+            "surface": "wood",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sac_scale": "hiking"
+          }
+        },
+        "way": {
+          "bridge": true,
+          "surface": "wood"
+        },
+        "place_id": "51fd755dae3475374059cd3efec4b7734c40f00102f9011009824300000000920313c4b6656d657275207075727661206c61697061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4578351,
+          56.90404570020983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirts muzejs",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Saulkrastu novads",
+        "city": "Sējas pagasts",
+        "village": "Loja",
+        "postcode": "LV-2142",
+        "street": "Murjāņi — Sēja",
+        "iso3166_2": "LV-089",
+        "lon": 24.6216512,
+        "lat": 57.1634651,
+        "formatted": "Pirts muzejs, Murjāņi — Sēja, Sējas pagasts, LV-2142, Latvia",
+        "address_line1": "Pirts muzejs",
+        "address_line2": "Murjāņi — Sēja, Sējas pagasts, LV-2142, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Pirts muzejs",
+            "osm_id": 1163105208,
+            "tourism": "attraction",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51e6847588249f3840596b00a66cec944c40f00103f901b89353450000000092030c5069727473206d757a656a73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.621651199999995,
+          57.163465100341305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dziesmusvētku dārzs",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1045",
+        "district": "Centra apkaime",
+        "suburb": "Centre",
+        "street": "Hanzas iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.0999231,
+        "lat": 56.9638463,
+        "formatted": "Dziesmusvētku dārzs, Hanzas iela, Riga, LV-1045, Latvia",
+        "address_line1": "Dziesmusvētku dārzs",
+        "address_line2": "Hanzas iela, Riga, LV-1045, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dziesmusvētku dārzs",
+            "osm_id": 1215235953,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "516d9d6e8f94193840594bf3c8505f7b4c40f00103f90171076f4800000000920315447a6965736d757376c493746b752064c481727a73"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0999231,
+          56.963846300239844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leopardi",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Riga",
+        "postcode": "LV-1045",
+        "district": "Centra apkaime",
+        "suburb": "Pētersala-Andrejsala",
+        "street": "Hanzas iela",
+        "iso3166_2": "LV-RIX",
+        "lon": 24.102299,
+        "lat": 56.9635855,
+        "formatted": "Leopardi, Hanzas iela, Riga, LV-1045, Latvia",
+        "address_line1": "Leopardi",
+        "address_line2": "Hanzas iela, Riga, LV-1045, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details",
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Leopardi",
+            "osm_id": 1215236202,
+            "tourism": "artwork",
+            "material": "concrete",
+            "operator": "Rīgas pieminekļu aģentūra",
+            "osm_type": "n",
+            "start_date": 1967,
+            "artist_name": "Viktorija Pelše",
+            "description": "Viktorija's diploma work from 1967",
+            "artwork_type": "sculpture"
+          }
+        },
+        "operator": "Rīgas pieminekļu aģentūra",
+        "description": "Viktorija's diploma work from 1967",
+        "artwork": {
+          "artist_name": "Viktorija Pelše",
+          "artwork_type": "sculpture",
+          "start_date": 1967
+        },
+        "place_id": "51db696b44301a384059f53609c5567b4c40f00103f9016a086f48000000009203084c656f7061726469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.102299,
+          56.96358550023971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltā kāpa",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Jūrmala",
+        "postcode": "LV-2101",
+        "suburb": "Vārnukrogs",
+        "street": "Baltās kāpas iela",
+        "iso3166_2": "LV-JUR",
+        "lon": 23.9401009,
+        "lat": 56.9897301,
+        "formatted": "Baltā kāpa, Baltās kāpas iela, Jūrmala, LV-2101, Latvia",
+        "address_line1": "Baltā kāpa",
+        "address_line2": "Baltās kāpas iela, Jūrmala, LV-2101, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 19,
+            "name": "Baltā kāpa",
+            "osm_id": 1224283266,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "ele": 19,
+        "place_id": "51ae70dc73aaf0374059fc39d679af7e4c40f00103f9018214f9480000000092030c42616c74c481206bc4817061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.940100899999997,
+          56.9897301002529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Slampes pagasts",
+        "street": "Ķemeru purva laipa",
+        "iso3166_2": "LV-099",
+        "lon": 23.451129639764364,
+        "lat": 56.90248428137418,
+        "formatted": "Ķemeru purva laipa, Slampes pagasts, Latvia",
+        "address_line1": "Ķemeru purva laipa",
+        "address_line2": "Slampes pagasts, Latvia",
+        "name": "Ķemeru purva laipa",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķemeru purva laipa",
+            "width": 0.7,
+            "bridge": "boardwalk",
+            "osm_id": 1239139616,
+            "highway": "footway",
+            "surface": "wood",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sac_scale": "hiking"
+          }
+        },
+        "way": {
+          "bridge": true,
+          "surface": "wood"
+        },
+        "place_id": "518cf84ecc7a733740593e062b9b83734c40f00102f90120c5db4900000000920313c4b6656d657275207075727661206c61697061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4510925,
+          56.902453800209045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Tukuma novads",
+        "city": "Slampes pagasts",
+        "street": "Ķemeru purva laipa",
+        "iso3166_2": "LV-099",
+        "lon": 23.44979820191642,
+        "lat": 56.90272137223984,
+        "formatted": "Ķemeru purva laipa, Slampes pagasts, Latvia",
+        "address_line1": "Ķemeru purva laipa",
+        "address_line2": "Slampes pagasts, Latvia",
+        "name": "Ķemeru purva laipa",
+        "categories": [
+          "highway",
+          "highway.footway",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details.way"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Ķemeru purva laipa",
+            "width": 0.7,
+            "bridge": "boardwalk",
+            "osm_id": 1239139617,
+            "highway": "footway",
+            "surface": "wood",
+            "tourism": "attraction",
+            "z_order": 100,
+            "osm_type": "w",
+            "sac_scale": "hiking"
+          }
+        },
+        "way": {
+          "bridge": true,
+          "surface": "wood"
+        },
+        "place_id": "514901b38c1e73374059c52ff0ce90734c40f00102f90121c5db4900000000920313c4b6656d657275207075727661206c61697061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.449684899999998,
+          56.90285670020925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tautu deja",
+        "country": "Latvia",
+        "country_code": "lv",
+        "city": "Jūrmala",
+        "postcode": "LV-2012",
+        "suburb": "Ķemeri",
+        "street": "Tūristu iela",
+        "iso3166_2": "LV-JUR",
+        "lon": 23.5051305,
+        "lat": 56.9477913,
+        "formatted": "Tautu deja, Tūristu iela, Jūrmala, LV-2012, Latvia",
+        "address_line1": "Tautu deja",
+        "address_line2": "Tūristu iela, Jūrmala, LV-2012, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [
+          "details.artwork"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tautu deja",
+            "osm_id": 1256457204,
+            "disused": "yes",
+            "tourism": "artwork",
+            "material": "stone",
+            "osm_type": "n",
+            "artwork_type": "sculpture"
+          }
+        },
+        "disused": true,
+        "artwork": {
+          "artwork_type": "sculpture"
+        },
+        "place_id": "514fb6813b5081374059e0f6ae3951794c40f00103f901f403e44a0000000092030a54617574752064656a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.505130500000003,
+          56.947791300231756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bērzu birztala",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Inčukalna pagasts",
+        "village": "Griķi",
+        "postcode": "LV-2136",
+        "street": "Uz Varapuikām",
+        "iso3166_2": "LV-091",
+        "lon": 24.5954477,
+        "lat": 57.0897975,
+        "formatted": "Bērzu birztala, Uz Varapuikām, Inčukalna pagasts, LV-2136, Latvia",
+        "address_line1": "Bērzu birztala",
+        "address_line2": "Uz Varapuikām, Inčukalna pagasts, LV-2136, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.viewpoint"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bērzu birztala",
+            "osm_id": 1270809396,
+            "tourism": "viewpoint",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "517afaad426f983840598e88077c7e8b4c40f00103f9013403bf4b0000000092030f42c493727a75206269727a74616c61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5954477,
+          57.089797500303675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skudra",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Siguldas novads",
+        "city": "Sigulda",
+        "postcode": "LV-2150",
+        "street": "Dārza iela",
+        "iso3166_2": "LV-091",
+        "lon": 24.8701214,
+        "lat": 57.1569825,
+        "formatted": "Skudra, Dārza iela, Sigulda, LV-2150, Latvia",
+        "address_line1": "Skudra",
+        "address_line2": "Dārza iela, Sigulda, LV-2150, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.attraction.artwork"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Skudra",
+            "osm_id": 1275830058,
+            "tourism": "artwork",
+            "osm_type": "n"
+          }
+        },
+        "place_id": "51ba8cac46c0de384059777fa80018944c40f00103f9012a9f0b4c00000000920306536b75647261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.870121399999995,
+          57.15698250033795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lidmašīna TU-134",
+        "country": "Latvia",
+        "country_code": "lv",
+        "county": "Mārupes novads",
+        "city": "Mārupes pagasts",
+        "postcode": "LV-2108",
+        "district": "Skulte",
+        "street": "Skultes iela",
+        "iso3166_2": "LV-062",
+        "lon": 23.961617828905972,
+        "lat": 56.9189445,
+        "formatted": "Lidmašīna TU-134, Skultes iela, Mārupes pagasts, LV-2108, Latvia",
+        "address_line1": "Lidmašīna TU-134",
+        "address_line2": "Skultes iela, Mārupes pagasts, LV-2108, Latvia",
+        "categories": [
+          "tourism",
+          "tourism.attraction",
+          "tourism.sights",
+          "tourism.sights.memorial",
+          "tourism.sights.memorial.aircraft"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lidmašīna TU-134",
+            "osm_id": 1288405571,
+            "tourism": "attraction",
+            "historic": "aircraft",
+            "osm_type": "w",
+            "aircraft:type": "airliner"
+          }
+        },
+        "historic": {
+          "type": "aircraft"
+        },
+        "place_id": "51ca6606962cf6374059dca22ff99f754c40f00102f9014382cb4c000000009203124c69646d61c5a1c4ab6e612054552d313334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.961617828905936,
+          56.91894450021729
+        ]
+      }
+    }
+  ]
+}
