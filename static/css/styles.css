@@ -79,8 +79,15 @@ body {
     background: white;
     color: #2d3748;
     border: 1px solid #e2e8f0;
-    border-bottom-left-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin: 8px 0;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
 }
 
 .chat-input-container {
@@ -190,6 +197,19 @@ body {
 
 #chat-box::-webkit-scrollbar-thumb:hover {
     background: #a8a8a8;
+}
+
+.user-message {
+    background: #e0f7fa;
+    color: #006064;
+    border-radius: 8px;
+    margin: 8px 0;
+    padding: 8px 16px;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
 }
 
 @keyframes fadeIn {

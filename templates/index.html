@@ -46,11 +46,28 @@
 
     <script>
         // Auto-scroll to bottom when new messages arrive
-        document.body.addEventListener('htmx:afterRequest', function(event) {
+        document.querySelector('.chat-form').addEventListener('submit', function (e) {
+            const input = this.querySelector('.message-input');
+            const message = input.value.trim();
+            const chatBox = document.getElementById('chat-box');
+
+            if (!message) return;
+
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'user-message';
+            messageDiv.innerHTML = `
+                <i class="fas fa-user"></i>
+                <p>${message}</p>
+            `;
+            chatBox.appendChild(messageDiv);
+            chatBox.scrollTop = chatBox.scrollHeight;
+        });
+
+        // After htmx updates the DOM (e.g. bot response), scroll and clear input
+        document.body.addEventListener('htmx:afterRequest', function () {
             const chatBox = document.getElementById('chat-box');
             chatBox.scrollTop = chatBox.scrollHeight;
 
-            // Clear input after sending
             const input = document.querySelector('.message-input');
             if (input) input.value = '';
         });
