@@ -90,7 +90,7 @@ def chat():
         return error_response("I'm having trouble responding. Please try again.")
 
 
-def build_system_prompt(user_input):
+def build_system_prompt():
     """Create dynamic system prompt with country data"""
     #detected_key = detect_country_from_text(user_input)
     base_prompt = ("""
@@ -142,13 +142,6 @@ def build_system_prompt(user_input):
     Adapt naturally within these guidelines. Your top priorities are helpfulness, accuracy, and maintaining a consistent and enjoyable travel-focused experience.
         """)
 
-    """if detected_key:
-        country_data = load_country_data(detected_key)
-        return (
-            f"{base_prompt} Use this specific data about {detected_key.replace('_', ' ')}:\n"
-            f"{json.dumps(country_data, ensure_ascii=False, indent=2)}\n\n"
-            "Combine this with general travel knowledge in your responses."
-        )"""
     return base_prompt + "Answer using general travel knowledge."
 
 

@@ -210,17 +210,11 @@ COUNTRIES = [
 
 # Default limit for “normal” countries
 DEFAULT_LIMIT = 100
-
 # Increased limit for most-visited countries
 POPULAR_LIMIT = 200
 
 # Categories param for tourism attractions
 CATEGORIES = "tourism.attraction"
-
-
-# ──────────────────────────────────────────────────────────────────────────────
-# 2) Helper: fetch POIs for a single country
-# ──────────────────────────────────────────────────────────────────────────────
 
 def fetch_country_pois(country_name, lat, lon, limit):
     """
@@ -242,11 +236,7 @@ def fetch_country_pois(country_name, lat, lon, limit):
 
     return response.json()
 
-
-# ──────────────────────────────────────────────────────────────────────────────
-# 3) Main: loop through COUNTRIES, fetch & save JSON
-# ──────────────────────────────────────────────────────────────────────────────
-
+# Main loop
 def main():
     for entry in COUNTRIES:
         name = entry["name"]
